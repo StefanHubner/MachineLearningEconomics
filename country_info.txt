@@ -1,0 +1,28 @@
+"country" "capital" "area" "euadmission"
+"1" "Austria        " " Vienna       " 83858 1995
+"2" "Belgium        " " Brussels     " 30510 1957
+"3" "Bulgaria       " " Sofia        " 110912 2007
+"4" "Cyprus         " " Nicosia      " 9250 2004
+"5" "Czech Republic " " Prague       " 78866 2004
+"6" "Denmark        " " Copenhagen   " 43094 1973
+"7" "Estonia        " " Tallinn      " 45226 2004
+"8" "Finland        " " Helsinki     " 337030 1995
+"9" "France         " " Paris        " 643548 1957
+"10" "Germany        " " Berlin       " 357021 1957
+"11" "Greece         " " Athens       " 131940 1981
+"12" "Hungary        " " Budapest     " 93030 2004
+"13" "Ireland        " " Dublin       " 70280 1973
+"14" "Italy          " " Rome         " 301320 1957
+"15" "Latvia         " " Riga         " 64589 2004
+"16" "Lithuania      " " Vilnius      " 65200 2004
+"17" "Luxembourg     " " Luxembourg   " 2586 1957
+"18" "Malta          " " Valletta     " 316 2004
+"19" "Netherlands    " " Amsterdam    " 41526 1957
+"20" "Poland         " " Warsaw       " 312685 2004
+"21" "Portugal       " " Lisbon       " 92931 1986
+"22" "Romania        " " Bucarest     " 238391 2007
+"23" "Slovakia       " " Bratislava   " 48845 2004
+"24" "Slovenia       " " Ljubljana    " 20253 2004
+"25" "Spain          " " Madrid       " 504782 1986
+"26" "Sweden         " " Stockholm    " 449964 1995
+"27" "United Kingdom " " London       " 244820 1973
