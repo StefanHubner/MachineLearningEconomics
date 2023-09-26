@@ -38,4 +38,4 @@ result <- fuzzy_left_join(
   ungroup() %>%
   select(Date = Date.x, Speech, Announcement = Date.y, Decision)
 
-write.table(result, "speech_data.csv", sep = "|", quote = FALSE)
+write.table(result, "speech_data.csv", sep = "♤", quote = FALSE)
