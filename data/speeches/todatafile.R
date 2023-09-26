@@ -4,7 +4,7 @@ library(fuzzyjoin)
 
 meta <- read.table("./speeches.csv", sep = ";", header = TRUE) %>%
   mutate(Date = as.Date(Date, format = "%d %B %Y")) %>%
-  arrange(Date) %>%
+  arrange(Date)
 
 dftxt <- data.frame(matrix(nrow = nrow(meta)))
 names(dftxt) <- "Speech"
@@ -40,4 +40,4 @@ result <- fuzzy_left_join(
   ungroup() %>%
   select(Date = Date.x, Speech, Announcement = Date.y, Decision)
 
-write.table(result, "speech_data.csv", sep = "♤", quote = FALSE)
+write.table(result, "speech_data.csv", sep = "|", quote = FALSE)
