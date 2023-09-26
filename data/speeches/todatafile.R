@@ -4,7 +4,7 @@ library(fuzzyjoin)
 
 meta <- read.table("./speeches.csv", sep = ";", header = TRUE) %>%
   mutate(Date = as.Date(Date, format = "%d %B %Y")) %>%
-  arrange(Date)
+  arrange(Date) %>%
 
 dftxt <- data.frame(matrix(nrow = nrow(meta)))
 names(dftxt) <- "Speech"
@@ -13,7 +13,9 @@ for (i in 1:nrow(meta)) {
     date <- meta[i, ]$Date
     fn <- meta[i, ]$Filename
     lines <- readLines(paste0("./files/", fn))
-    dftxt[i, "Speech"] <- paste(lines, collapse = " ")
+    dftxt[i, "Speech"] <- str_replace_all(
+                            paste(lines, collapse = " "),
+                            "[[:punct:]]", "")
 }
 
 data <- cbind(meta, dftxt)
