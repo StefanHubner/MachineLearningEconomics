@@ -1,0 +1,1775 @@
+Do we have a New Economy?
+Speech given by
+Sushil Wadhwani, Member of the Monetary Policy Committee, Bank of England
+
+At a CEPR/ESI Conference, Helsinki
+14 September 2001
+
+I am extremely grateful to Jennifer Greenslade, Nick Davey and John Henderson for their help with
+this speech. Joanne Cutler, Kathy McCarthy, Edward Nelson, Stephen Nickell, Peter Rodgers and
+Andrew Wardlow provided me with helpful comments on an earlier draft. Of course, this speech
+reflects my personal views.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+SUMMARY
+
+1
+
+RECENT EVENTS
+
+The acts of terrorism this week in the US were both tragic and unexpected. If these
+events did appear to lead to a significant deterioration in consumer confidence,
+monetary policy can reasonably be expected to respond. However, in the longer-term,
+the underlying strengths of the US economy are undiminished. Today, we are here to
+discuss the longer-term forces that have affected our economies in recent years.
+
+2 DEFINITION OF A ‘NEW ECONOMY’ (NE)
+A NE is defined to be one where structural changes like a significant fall in the
+equilibrium rate of unemployment and/or a significant increase in the potential growth
+rate of the economy might have occurred. These could have been driven by many
+factors, of which Information and Communications Technology (ICT, hereafter)
+advances are only one. Such structural changes typically lead to a breakdown of the
+historical econometric relationships that help inform the setting of monetary policy,
+which then implies that the actual economy appears to be “new” relative to the
+description of the economy embedded in our models.
+
+3 SOME CROSS-COUNTRY EVIDENCE ON FORECASTING ERRORS
+Since the early 1990s, forecasters have, on average, simultaneously underestimated
+GDP growth and over-estimated inflation in the US and the UK, which is suggestive
+of structural changes having occurred. However, since this is not true of the rest of
+the G5, whether or not you believe there is a NE depends crucially on which country
+is being discussed.
+
+Evidence from the UK suggesting that structural relationships determining wages and
+prices appeared to break down in the 1990s is presented. In the context of the Bank of
+England’s medium-term macroeconometric model (MTMM, hereafter), understanding
+why these equations broke down is very important to forming a judgment about where
+inflation is headed. This is illustrated by showing that alternative treatments of the
+past price forecast errors of this model could, mechanically, easily yield prospective
+inflation forecasts ranging between around 1% to around 5%.
+
+2
+
+4
+
+HAS THE NAIRU FALLEN?
+
+One possible explanation for the pattern of observed forecast errors in the US and the
+UK is a fall in the non-accelerating inflation rate of unemployment (NAIRU,
+hereafter). Others point to non-NE factors like lower import prices. Econometric
+evidence suggests that the NAIRU fell significantly in both the US and the UK, even
+after one allows for the beneficial influence of lower import prices. There is no
+evidence suggesting a comparable fall in the NAIRU in the rest of the G5.
+
+5 THE NE AND PRODUCTIVITY GROWTH
+Most studies now concur that the US has experienced a significant increase in its
+underlying rate of productivity growth, and that the production and use of ICT have
+both contributed to this rise. Some authors have argued that the rise in welfare has
+probably lagged behind the rise in productivity because the aggregate depreciation
+rate has risen. They suggest that one should use Net Domestic Product (NDP) rather
+than Gross Domestic Product (GDP) to measure productivity. However, the post1995 acceleration in a measure of welfare (suggested by Professor Weitzman) is even
+greater than that in official, GDP-based measures of productivity, suggesting that the
+post-1995 US peformance remains impressive.
+
+Among the G5 countries, the US is the only country to have experienced a significant
+increase in labour productivity growth, even though the contribution to growth from
+ICT capital has risen elsewhere. This deserves further research.
+
+6 EXPLAINING WHY THE PRICE EQUATIONS HAVE BROKEN DOWN
+The evidence presented for the UK suggests that one reason conventional price
+equations have tended to predict out-turns higher than actually materialised is, in part,
+because of an intensification of product market competition. However, non-NE
+factors like the higher-than-expected exchange rate have also played a role.
+
+A new price equation which allowed for such additional influences has the advantage
+of there being less need to choose between alternative treatments of past forecast
+errors, which, as was noted above, can lead to rather large differences in the inflation
+forecast.
+
+3
+
+In addition, the measure of capacity utilisation embodied in the Bank’s model appears
+in recent years to have suggested rather higher levels of capacity use than would be
+implied either by survey measures or a measure based on an alternative concept of the
+capital stock, and might therefore have overstated the degree of inflationary pressure.
+
+7 THE NE AND THE CURRENT CONJUNCTURE
+With internet-related stock prices down very significantly, and a global economic
+downturn, there is much questioning of the NE. This is in part because some more
+extreme adherents of the NE made the extravagant claim that recessions were a thing
+of the past. Yet, historical evidence suggests that very significant volatility in share
+prices and corporate investment is not unusual around periods of rapid technological
+change. Given the existing investment overhang, and the vulnerability of equity
+markets, the global economy probably has a difficult period ahead of it. The tragic
+events this week obviously increase the near-term risks to the global economy.
+
+However, this does not diminish the fact that, consistent with the NE view, some
+gains have been made in the US and the UK.
+
+4
+
+1 INTRODUCTION
+
+The acts of terrorism this week in the US were both tragic and unexpected. If these
+events did appear to lead to a significant deterioration in consumer confidence,
+monetary policy can reasonably be expected to respond. However, in the longer-term,
+the underlying strengths of the US economy are undiminished. Today, we are here to
+discuss the longer-term forces that have affected our economies in recent years.
+
+The very significant fall in internet-related stock prices, the global economic
+slowdown and the fall in corporate investment appear to have led many to assert
+either that we never had a New Economy (NE, hereafter), or that the NE is now dead.
+There is however, no generally accepted definition of what one means by the NE. 1
+There are those who see the NE as being synonymous with an acceleration in the
+diffusion of Information and Communications Technology (ICT - see, eg Gordon
+(2000)). However, I regard that as a rather narrow definition. Indeed, much that
+might be different about the economy today relates not just to ICT advances, but also
+to the effects of globalisation, intensifying product market competition, labour market
+reform, financial market liberalisation and several other factors.
+
+I am primarily interested in the possibility that these factors have reduced the
+equilibrium rate of unemployment and/or increased the potential growth rate of the
+economy. Typically, such structural changes lead to a breakdown of the historical
+econometric relationships that are embedded in many of the models that help inform
+the setting of monetary policy. This then makes the economy appear to be “new” or
+“different” relative to the description of the economy that resides in many of our
+models. 2 What I will not discuss today is the version of the NE hypothesis which
+asserts that the world has changed so much that one now needs a new kind of
+economics to analyse it (see, eg Kelly (1998)). 3
+1
+
+See Browne (2000) for an extensive discussion of this issue.
+This definition appears similar to one adopted by Chairman Greenspan, who, earlier this year, in
+testimony before the Sentate Banking Committee (23 February 2001) said “it is certainly true that we
+have a new economy. It is different. It is behaving differently and it requires a different type of
+monetary policy to maintain its growth than we had in the past.”
+3
+Stiroh (2001) contrasts a moderate interpretation of the NE, which only refers to changes of
+parameters in the context of existing economic theories with a more extreme version of the NE which
+suggests that basic economic relationships have changed, and, therefore, a reworking of economic
+theory is required. His preferred definition is similar to the one adopted here.
+2
+
+5
+
+I shall therefore discuss today some of the important ways in which some of our
+economies seem to be operating differently as compared to, say, the seventies and
+eighties. Although I do not believe some of the more extravagant claims that are
+made for the NE, my best guess is that enough has changed for it to be material to the
+setting of monetary policy. Indeed, many of us were driven to looking more carefully
+at the NE hypothesis because some relationships used for forecasting purposes
+appeared to break down.
+
+2 THE RECENT FORECASTING RECORD – SOME CROSS-COUNTRY
+EVIDENCE
+In recent years, economists and central bankers alike have devoted much time to
+investigating the possibility that some of the parameters of the historical economic
+relationships that we rely on may have shifted. This is because, in some countries,
+forecasts of inflation, unemployment and GDP growth have been systematically
+biased.
+
+Figure 1 compares the forecasts by Blue Chip panellists for unemployment and
+inflation in the US as compared to the actual out-turns over the 1993-2000 period. 4
+
+FIGURE 1
+
+Inflation
+
+Unemployment
+Percent
+
+4.5
+Blue Chip Forecasts
+
+4.0
+
+Blue Chip Forecasts
+
+Percent
+
+7.0
+
+3.5
+
+6.5
+
+3.0
+
+6.0
+5.5
+
+2.5
+
+5.0
+
+Outturns
+
+2.0
+Outturns
+
+4.5
+
+1.5
+
+4.0
+
+1.0
+1991
+
+4
+
+1993
+
+7.5
+
+1995
+
+1997
+
+3.5
+
+1999
+
+1991
+
+Kohn (1999) presented a similar picture of the 1991-97 period.
+
+6
+
+1993
+
+1995
+
+1997
+
+1999
+
+Note that forecasters have, for most of the period, over-predicted the level of the
+unemployment rate in the US. Nonetheless, they have simultaneously over-predicted
+inflation until recently.
+
+A conventional view holds that if the unemployment rate is lower than expected over
+a sustained period of time, then this is a sympton of excess demand and so, 5 on
+average, actual inflation must also be higher than expected. However, the actual
+inflation out-turn over this period was, on average, lower than the ‘consensus’
+inflation forecast.
+Table 1 displays more formal evidence on forecast errors for the G5 countries. 6 The
+first two columns report the average forecast error for each country and associated tstatistics based on a simple regression. 7 The final column in Table 1 reports an
+alternative test, which also considers whether the unit coefficient on the forecast is a
+valid assumption. 8
+
+Taking the UK first, a similar pattern to the US emerges. On average, the consensus
+forecast has underestimated GDP growth by as much as 0.5% pa over the period,
+while simultaneously over-estimating inflation by around the same amount.
+Moreover, these forecast errors are statistically significant even when one allows for
+the fact that successive forecasts are not independent of each other.
+
+The degree to which the consensus has underestimated GDP growth in the US is even
+greater (around 1%), with the average degree to which inflation has been overestimated smaller at around -¼%. 9
+
+5
+
+Conditional on the equilibrium rate of unemployment having remained constant.
+I am grateful to Nick Davey and Jennifer Greenslade of the MPC Unit at the Bank for their help with
+this work.
+7
+A simple way to consider bias involves testing the hypothesis that α = 0 in the regression
+At – t-i F t = α + ε, where A is the actual outturn for GDP growth or inflation and F is the forecast for
+this period made at time t-i (i=4).
+8
+This involves a joint Wald test of the null hypothesis that α = 0 and β = 1 in the regression
+At = α + t-i β Ft +ε.
+9
+Note that if one were conducting this exercise for the period 1993-1999, then the average forecast
+error for inflation would be almost - ½%, which is significant at the 1% level of testing.
+6
+
+7
+
+Once we move away from the Anglo-Saxon countries, the consensus forecasts appear
+to have been more accurate or at least more readily explicable. If anything,
+forecasters of the Japanese economy have been too optimistic about GDP growth,
+rather than too pessimistic. Inflation forecasts for Japan have, on average, showed no
+significant bias. A similar picture emerges for Germany, where average inflation has
+
+TABLE 1
+AVERAGE FORECAST ERRORS1 , 1993-20012
+Average
+
+t-statistic4
+
+Joint Wald test 4
+F-statistic
+
+Error
+
+[probability]
+
+[probability]
+
+UK
+Output Growth
+Inflation
+
+0.51%
+-0.45%
+
+2.07 [0.046]
+-2.39 [0.023]
+
+10.84 [0.000]
+5.92 [0.007]
+
+US
+Output Growth
+Inflation
+
+0.97%
+-0.24%
+
+2.96 [0.006]
+-1.27 [0.212]
+
+30.95 [0.000]
+11.78 [0.000]
+
+3
+
+-0.37%
+-0.18%
+
+-0.83 [0.410]
+-1.32 [0.195]
+
+5.30
+1.32
+
+3
+
+-0.04
+-0.15
+
+-0.10 [0.921]
+-0.69 [0.493]
+
+10.60 [0.000]
+0.30 [0.745]
+
+3
+
+-0.37
+-0.38
+
+-0.96 [0.345]
+-2.50 [0.017]
+
+1.28 [0.291]
+28.34 [0.000]
+
+JAPAN
+Output Growth
+Inflation
+GERMANY
+Output Growth
+Inflation
+FRANCE
+Output Growth
+Inflation
+
+1
+
+[0.010]
+[0.281]
+
+Four quarter-ahead forecast errors based on consensus forecast taken from
+‘Consensus Economics’. The forecasts for output are initially GNP and then GDP
+is used. For inflation, CPI is used except the UK which is RPI until 1996 Q4 and
+then RPIX. The forecasts are evaluated against the relevant measure.
+2 Sample period 1993 I-2001 II, unless otherwise stated.
+3 Sample period 1993 I-2001 I.
+4 Using Newey-West standard errors, which are robust to serial correlation.
+
+8
+
+only been over-estimated to a rather modest degree and the average GDP forecasting
+error has been close to zero. Finally, there is statistically significant evidence that the
+consensus forecast in France has tended to over-estimate inflation (by around 0.4%
+pa) since 1993. However, unlike the US and the UK, this over-prediction of inflation
+has been accompanied by a tendency to simultaneously over-estimate GDP growth as
+well (though not at a statistically significant level), so that a tendency for growth to
+come in lower than expected might well explain the tendency for inflation to also
+surprise on the downside.
+
+The evidence on forecasting errors suggests that “something different” might have
+happened to historical economic relationships in the US and the UK in the 1990s, but
+there is no evidence of this being true for the rest of the G5. This may explain why
+financial markets and central bankers alike have been more interested in the
+possibility of a NE in the US and the UK, rather than in continental Europe or Japan. 10
+Whether or not you believe there is a NE depends crucially on which country is being
+discussed.
+
+3 THE RECENT BEHAVIOUR OF CONVENTIONAL PRICE EQUATIONS:
+SOME ECONOMETRIC EVIDENCE
+The tendency for economic forecasters in the US and the UK simultaneously to
+under-predict growth and over-predict inflation is potentially consistent with a
+breakdown in the structural relationships that underlie our forecasting processes. NEstyle hypotheses that could explain such a breakdown include changes in the
+equilibrium rate of unemployment, the underlying rate of productivity growth, or the
+degree of competitive pressure. Therefore I turn to an examination of the evidence
+for a breakdown of “structural” relationships next.
+Purely for illustrative purposes, note that the Medium-Term Macroeconometric Model
+(MTMM, hereafter) used at the Bank of England (see Bank of England (2000)) has a
+conventional specification for prices (the GDP deflator) as a function of unit labour
+10
+
+This might also explain why the US dollar and sterling have appreciated against the European
+currencies and the yen. See Wadhwani (1999) for further discussion of this possibility.
+
+9
+
+costs and capacity utilisation. In recent years, there has been a persistent tendency for
+prices to come in below what the conventional determinants have predicted –
+specifically, note the tendency for the residuals to be negative since around 1998 in
+Figure 2. Further, these residuals are statistically significantly different from zero (a
+t-test since 1998:1 yields a value of –2.19).
+
+FIGURE 2
+
+PGDP Equation Residuals
+0.02
+
+0.01
+
+0.00
+
+-0.01
+
+-0.02
+
+-0.03
+1990
+
+1992
+
+1994
+
+1996
+
+1998
+
+2000
+
+These residuals are also economically significant. Understanding why this particular
+equation has significantly over-predicted inflation in recent years is very important to
+forming a judgment about where inflation is headed. For example, if we made no
+additional adjustments, but just used the price equation mechanically, 11 then, other
+things being equal, the resulting inflation forecast in the August 2001 round would
+have been around 5% rather than just under 2.5% (see Figure 3). Indeed, depending
+on the precise judgment made about the treatment of the residuals on this equation, an
+alternative assumption that the recent average level of the residual since 1997 persists
+generates an overall inflation forecast as low as around 1%. I do want to emphasise
+
+11
+
+The only adjustment that is retained for this simulation (which was carried out within the MPC Unit)
+is one relating to the treatment of past GDP revisions. Removing this adjustment would yield an even
+higher inflation forecast.
+
+10
+
+that, of course, the published inflation forecast is not just based on the output of an
+econometric model, but is based on the judgment of the Committee. 12
+
+FIGURE 3
+Alternative 'Inflation Forecasts'
+6
+5
+4
+3
+2
+1
+0
+Mar-95
+
+Mar-97
+
+Mar-99
+
+Mar-01
+
+Mar-03
+
+No Adjustment
+Aug IR
+Average Residual 97q1-00q4
+
+The recent persistent overprediction of UK inflation does not appear to be restricted to
+just the above equation for the GDP deflator in the UK. Other structural relationships
+also appear to have broken down. It is notable that if one takes the wage equation that
+is to be found in the MTMM, then there is evidence that it has over-predicted wage
+growth in recent years (ie since around 1992). 13
+
+4 HAS THE NAIRU FALLEN?
+
+A fall in the so-called non-accelerating inflation rate of unemployment (NAIRU,
+hereafter) for labour market related reasons is an example of a structural change
+which might partially explain the pattern of observed forecast errors in the US or the
+
+12
+
+Given the extraordinarily wide range of forecasts that can be produced by alternative assumptions
+about adjustments made to this poorly performing price equation, it is hardly surprising that one might
+want to inform one’s judgment by using a price equation that has performed better. Such an equation is
+discussed in Section 6 below, and represents one reason why I, personally, had a projection for
+inflation that differed from the best collective projection in the last Inflation Report.
+13
+See, eg Wadhwani (2000a).
+
+11
+
+UK. Of course, an intensification of product marker competition, would also, lower
+the NAIRU, and I shall discuss this possibility in a later section.
+
+Certainly the recent performance of the labour market in the US and UK has been
+impressive. One striking feature of recent US experience is that, over the period
+1992-2000, the rate of price inflation was essentially constant even though
+unemployment fell from 7.5% in 1992 to 4.1% in 1999. Moreover, when the
+unemployment rate first fell below 6% (the then prevailing ‘consensus’ estimate of
+the NAIRU), many economists predicted an acceleration in inflation which failed to
+materialise. UK experience has been quite similar. In 1995, the consensus estimate
+of the NAIRU was that it was around 6½ - 7% (using the claimant count definition).
+Yet, unemployment has fallen steadily to the current 3.2% without, as yet, triggering
+any discernible rise in inflation.
+
+Of course, various alternative hypotheses have been advanced in an attempt to explain
+these facts. In the US, they include:-
+
+a) Temporary factors
+
+It is argued that lower import prices (associated with a higher
+
+dollar, the Asian crisis etc) and decelerating health insurance costs have played an
+important role in temporarily depressing inflation, and that the NAIRU is actually
+higher than the current unemployment rate. 14 A variant of this view argues that
+the acceleration of productivity growth in the 1990s has not, as yet, been fully
+reflected in wages because wage aspirations respond slowly to increases in
+productivity growth. 15 As aspirations catch up, inflation will rise so the fall in
+unemployment may only be partially sustainable.
+
+b) Permanent Factors One might expect the fall in unemployment to be sustainable
+if the NAIRU has actually fallen for NE-type reasons. In terms of the labour
+market, changes in how people look for work (eg temporary help agencies), or
+
+14
+15
+
+See, eg Blinder and Yellen (2001).
+See, eg Ball and Moffitt (2001).
+
+12
+
+differences in the demographic composition of the workforce have been suggested
+as possible explanations for a fall in the US NAIRU. 16
+
+Turning to the UK, I have previously discussed the far-reaching changes that have
+occurred in the labour market over the last two decades (see Wadhwani (2000a)), so I
+will not have much to say on that topic today. Union membership and strike activity
+are much lower. Imbalances in the pattern of labour demand and supply have
+diminished significantly. Turning to the unemployment benefits regime, the
+conventional replacement ratio (ie the ratio of out-of-work benefit to estimated inwork income) has fallen. Further, the New Deal and other measures which have
+tightened the availability of benefits have also probably been influential. Of course,
+none of this is to deny that, as in the US, lower import prices have also played a role.
+Various approaches have been used over time to estimate the NAIRU. 17 One
+approach that has become more popular in recent years is to use Kalman filter
+techniques to estimate a time-varying NAIRU jointly with a Phillips curve. Staiger,
+Stock and Watson (2001) argue that their Kalman filter based estimate of the timevarying NAIRU in a price-based Phillips curve for the US fell by about
+1.6 percentage points over the 1992-2000 period. Interestingly, their estimate of the
+decline in the NAIRU is relatively insensitive to the inclusion/exclusion of the supply
+shock variables.
+
+Figure 4 displays Kalman filter-based estimates of the time-varying NAIRU from a
+price-based Phillips curve for the UK since 1993. 18 Note that, on these estimates, the
+NAIRU has fallen from around 9% in early 1993 to around 5½% in mid-2001, 19 even
+though this price equation allows for temporary factors like import prices and oil
+prices. As has been pointed out in various studies (including Staiger, Stock and
+
+16
+
+See Katz and Krueger (1999) for a discussion of some of these hypotheses in the US and Barwell
+(2000) for the UK.
+17
+See Coulton and Cromb (1994) or Robinson (1997) for various estimates.
+18
+This estimation has been done by Jennifer Greenslade in the External MPC Unit (based on updating
+previous joint work with Jumana Saleheen and Richard Pierse). It assumes a signal-to-noise ratio,
+(which measures the volatility or variance of the NAIRU relative to the variance of changes in
+inflation) of 0.16.
+19
+Using the LFS definition of unemployment. Note that if the signal-to-noise ratio were set at 0.09, so
+that the NAIRU would be less volatile, the NAIRU would still show a marked fall of almost 2.5
+percentage points over the 1993 to mid-2001 period.
+
+13
+
+Watson (1997) and Cross, Darby and Ireland (1997)), NAIRU estimates (using a
+variety of techniques) have very large standard errors around them, and so should be
+used with care. However, interestingly, my colleague Stephen Nickell, using a
+different method, recently concluded 20 that the NAIRU had fallen from an average of
+just under 9% in 1991-97, to around 5¾% over 1997-2000.
+
+FIGURE 4 – ESTIMATES OF THE NAIRU IN THE UK
+LFS Unemployment rate (%) and
+Kalman Filter NAIRU Estimates
+
+14
+12
+10
+8
+6
+4
+2
+0
+
+1980
+
+1983 1986
+
+1989
+
+1992 1995
+
+LFS Unemployment
+
+1998
+
+2001
+
+Kalman Filter estimate
+
+FIGURE 5 – CONTRIBUTION OF IMPORT PRICES AND OIL PRICES TO
+UK INFLATION (RPIX)
+Contribution of import
+prices and oil (pp, lhs)
+
+0.4
+
+3.1
+2.9
+
+0.2
+
+2.7
+
+0
+
+2.5
+-0.2
+2.3
+-0.4
+2.1
+-0.6
+
+1.9
+
+-0.8
+-1
+1997Q1
+
+20
+
+Annual RPIX inflation
+(%, rhs)
+
+1.7
+1.5
+
+1998Q1
+
+1999Q1
+
+2000Q1
+
+2001Q1
+
+See Nickell (2001).
+
+14
+
+Of course, all methods of estimating the NAIRU are pretty imprecise, and, for policy
+purposes one is not just interested in the estimate of the NAIRU today, but also in
+how it might evolve over the next few years.
+
+Recall that many observers have argued that the apparent improvement in the wageunemployment trade-off during the late 1990s was largely attributable to temporary
+factors like lower import prices. Figure 5 displays the estimated contribution21 of oil
+and import prices to UK inflation, and the actual inflation rate. Note that the
+estimated contribution of these external factors has switched from being highly
+negative in 1998-99 to being positive in recent quarters. Yet price inflation has
+remained broadly trendless over this period. Since inflation has stayed low even as
+the temporary factors have reversed, the model attributes the low inflation to a decline
+in the NAIRU. 22
+
+While there is compelling evidence that the NAIRU fell significantly in the US (by
+around 1½%) and the UK (perhaps by 3-3¼%) during 1992-2000, few believe that the
+NAIRU fell by much, if at all, in the rest of the G5 during the 1990s as a whole. For
+example, the recent OECD Economic Outlook suggests that the NAIRU rose sharply
+in Japan in the second half of the 1990s, whereas in Germany there was a marginal
+rise during this period. For France, the OECD estimate that there was a fall during the
+second half of the 1990s, broadly offsetting the increase that the OECD estimate took
+place earlier in the decade.
+
+5
+
+THE NEW ECONOMY AND PRODUCTIVITY GROWTH
+
+5.1 THE RECENT RISE IN US PRODUCTIVITY GROWTH
+
+The rise in US productivity growth since 1995 is one of the most eye-catching aspects
+of the NE. Official estimates suggest that average labour productivity rose from
+around 1.4% per annum during 1973-95 to around 2.5% per annum over 1995-2000.23
+21
+
+From the estimates of a price Phillips curve.
+Note that most economists did not predict the extent of any such possibe fall in the NAIRU. Indeed,
+preliminary analysis of the MPC’s forecast errors since 1997 concluded that we had failed to anticipate
+a fall in the NAIRU.
+23
+Output per hour for the non-farm business sector.
+22
+
+15
+
+Until the recent data revisions, labour productivity growth for 1995-2000 24 was
+estimated to have grown at an even higher rate of 2.8% pa. At first sight, the new
+slightly lower estimate remains impressive. A large number of academic studies have
+investigated this rise in productivity growth. 25
+
+As long ago as 1995, the argument was made in some quarters that the NE had led to
+an acceleration of productivity growth in the US. This view was initially resisted by
+many economists. 26 Then, the view gradually evolved as a mixture of data revisions
+and the passage of time appeared to lead to a discernible change in the trend rate of
+measured productivity growth. Even then, there was some further resistance to
+accepting the possibility of a change in the rate of structural productivity growth. The
+rise in actual productivity growth was initially characterised as cyclical, then said to
+be confined only to the ICT-producing area, and then only to the durables
+manufacturing sector and so on.
+
+27
+
+Suffice it to say that now a majority of the more recent studies agree that both the
+production and the use of information technology (IT, hereafter) have contributed
+substantially to the rise in US productivity growth. Moreover, Stiroh (2001), supports
+a moderate NE interpretation of the productivity upsurge in arguing that “The recent productivity gains largely reflect familiar economic forces like
+technological progress, input substitution, and capital deepening, and there
+is little evidence that the gains reflect extreme new economy concepts like
+spillovers, increasing returns, or network effects.”
+5.2 THE RISE IN US PRODUCTIVITY GROWTH IN A HISTORICAL
+CONTEXT
+Of course, one must recall that the post-1973 period was one of relatively slow
+productivity growth which spawned a large number of studies which attempted to
+explain the US productivity “slowdown” that occurred from around that date. Hence,
+the post-1995 acceleration of growth has occurred in the context of productivity
+growth having been weak in the preceding period. The spurt in productivity growth
+
+24
+
+ie the average of the annual growth rates for 1996-2000.
+Bosworth and Triplett (2000) or Stiroh (2001) both provide excellent surveys of the recent literature.
+26
+A representative view was that of Blinder (1997), who characterised it as “mostly poppycock”.
+27
+See Gordon (2000) for discussion of some of these issues.
+25
+
+16
+
+since 1995 is by no means historically unprecedented, eg non-farm business
+productivity grew faster in 1960-65 than in 1995-2000.
+
+However, from a policy-making perspective, what matters is not whether the rate of
+productivity growth is historically unprecedented. Instead, if the rate of structural
+productivity growth changes relative to its recent historical past, and is likely to
+persist for a few years, it is likely to have an impact on many of the econometric
+relationships that we typically rely on.
+
+It is therefore interesting that Laurence Meyer of the Board of Governors (see Meyer
+(2001)) has argued recently that the economic history of the US can be viewed as a
+series of productivity cycles, ie relatively long periods of higher and then lower
+productivity growth. Figure 6 illustrates. Note that although over the entire 18892000 period, productivity growth averaged about 2 per cent, there were several
+relatively long-lasting periods when productivity growth was either significantly
+above or below this long-term average. From a policy-making perspective, it is
+important to know whether one has made a transition from a “low” productivity
+growth period (eg the 1973-95 average of 1.4%) to a “high” productivity growth
+period (eg the average of 2.5% since 1995). Setting policy on the basis of the longterm average growth rate of 2% would imply that policy was always inappropriate.
+
+FIGURE 6: US PRODUCTIVITY
+Labour Productivity Growth: The Long View
+Percent change, ar
+
+5.0
+4.5
+
+3.8
+
+4.0
+3.5
+2.9
+
+3.0
+2.5
+
+1.7
+
+1.8
+
+2.5
+2.0
+
+1.4
+
+1.5
+1.0
+0.5
+0.0
+
+1889-1917 1917-1927 1927-1948 1948-1973 1973-1995 1995-2000
+Source: Meyer (2001), updated using latest BLS figures where available
+
+17
+
+Although the growth rate since 1995 is not exceptional by comparison with other
+“high” productivity growth periods, the contribution of ICT to productivity growth is,
+by historical standards, impressive. It is therefore significant that Crafts (2000)
+argues that “…. the growth contribution of ICT in the past 25 years outstrips that of
+electricity and even more so that of railroads over comparable periods ….”. This is
+documented in Table 2, which shows that even before the post-1995 period, the
+contribution of ICT to growth compared favourably relative to these other
+innovations.
+
+TABLE 2
+RELATIVE CONTRIBUTION OF DIFFERENT TECHNOLOGIES TO US
+GROWTH (percentage points per year)
+
+ICT
+
+1974-90
+0.65
+
+1991-95
+0.76
+
+RAILROADS
+
+1839-70
+0.21
+
+1839-90
+0.35
+
+ELECTRICITY
+
+1894-1929
+0.56
+
+1919-29
+0.98
+
+1996-99
+1.54
+
+Source: Crafts (2000)
+
+5.3 A DIGRESSION – DOES A HIGHER DEPRECIATION RATE MAKE
+THE US PRODUCTIVITY SURGE LESS IMPRESSIVE?
+As we have discussed above, an investment boom in IT has significantly contributed
+to the productivity acceleration in the US. Since computers and software have
+relatively short economic lives, and the share of IT investment in total investment has
+risen, this has contributed to a rise in the aggregate depreciation rate. This has led
+some authors (eg Kay (2001)) to question whether welfare is rising at the same rate as
+productivity.
+
+Conventionally, most analysis of productivity trends is based on Gross Domestic
+Product (GDP) numbers. The part of gross investment that simply maintains the
+productive capacity of the existing capital stock at its current level does not add to
+welfare. This suggests that to measure welfare we should subtract depreciation
+
+18
+
+(capital consumption) from GDP to obtain Net Domestic Product (NDP). In addition,
+Professor Weitzman of Harvard University argues that an alternative measure of Net
+Domestic Product (WNDP) 28 is likely to provide an even better measure of welfare.
+At first sight, one would think that a rising aggregate depreciation rate would imply
+that the gap between GDP and WNDP growth would be widening over time.
+However, the relationship between GDP and WNDP growth is more complex.
+Although the aggregate depreciation rate has risen, depreciation as a proportion of
+GDP has been approximately flat. In practice, net investment growth has acccelerated
+by more than the growth of gross investment (Table 3).
+TABLE 3
+ACCELERATION IN GROWTH, 1995-99 VERSUS 1973-95
+1973-95 19952000
+
+Acceleration
+1995-2000 vs.
+1973-95
+
+Gross
+Investment
+
+2.87
+
+8.82
+
+5.95
+
+Net Investment
+
+0.94
+
+12.31
+
+11.37
+
+GDP
+
+2.75
+
+4.02
+
+1.27
+
+WNDP
+
+2.41
+
+3.83
+
+1.42
+
+That, in part, explains why the acceleration in a measure of welfare (ie WNDP
+growth) in the post-95 period is even greater than that in productivity growth (ie
+GDP). Hence, if anything, the rise in welfare is even more impressive than the rise in
+official measures of productivity growth.
+
+5.4 PRODUCTIVITY GROWTH – THE INTERNATIONAL EXPERIENCE
+
+If, as we have noted above, investment in IT is an important part of the productivity
+surge in the US, and the IT revolution is a worldwide phenomenon, it may then be
+reasonable to investigate whether a similar IT-associated surge in productivity growth
+28
+
+Weitzman’s measure of Net Domestic Product is consumption plus net investment, deflated by the
+price index for consumption. Official measures of Net Domestic Product tend to measure real
+investment by using a price index for investment.
+
+19
+
+has occurred outside the US. To the extent that higher than-expected productivity
+growth in the US can explain the tendency for economic forecasters to simultaneously
+under-predict GDP growth and over-predict inflation, it is of some interest to examine
+whether a similar phenomenon has been at work elsewhere.
+
+At first sight, one finds no echo of the US productivity surge elsewhere. Among the
+G5 countries a comparison of the post-1995 period with the 1973-95 period suggests
+that the US is the only country exhibiting a significant increase in labour productivity
+growth; indeed, it appears to have slowed in France, Japan and the UK (see Table 4).
+
+There are those who attribute at least some of this difference to the fact that
+measurement conventions regarding both hedonic pricing and the classification of
+software spending vary across countries (see, eg Vanhoudt and Onorante (2001)).
+
+A study for the UK that attempted to restate UK labour productivity using US
+measurement conventions (see Oulton (2001a)), found that over the period 1994-98,
+labour productivity growth might have been about ? % pa faster than has been
+recorded in the official data. However, even on the adjusted data, the UK fails to
+display the productivity acceleration seen in the US.
+
+TABLE 4
+LABOUR PRODUCTIVITY GROWTH IN THE G5 COUNTRIES 1
+(% pa)
+1973-1995
+
+1995-2000
+
+US
+
+1.0
+
+2.5
+
+UK
+
+1.8
+
+1.6
+
+Japan
+
+2.3
+
+1.3
+
+Germany
+
+2.0
+
+1.1
+
+France
+
+1.9
+
+1.2
+
+1
+
+Output per person employed.
+
+20
+
+Table 5 sheds some light on the differences between the US and the UK. It shows
+that while the contribution to growth from ICT capital has risen in both the US and
+the UK, the main difference in the late 90s between the two countries lies in the
+contribution to growth of “other capital” and that of total factor productivity (TFP)
+growth. It is possible that the high level of the pound depressed investment in “other
+capital” while the absorption of those who had been unemployed for a long period of
+time into the workforce may have depressed TFP growth. Hence, it would appear that
+the benefits of the ICT revolution on productivity have, so far, been obscured by other
+factors in the UK, though this issue clearly deserves further research.
+Interestingly, the phenomenon of a rising growth contribution of ICT co-existing with
+lower labour productivity growth for some other reason does not appear to be
+confined to the UK. If one considers the host country of this conference, Finland,
+then Jalava and Pohjola (2001) remind us that it ranks among the top countries in the
+world in terms of the number of internet hosts and mobile phones per capita. It is also
+one of the leading ICT producers in Europe. However, labour productivity growth in
+the 1995-99 period is actually a little lower than in the 1975-95 period.
+
+The growth accounting exercise presented in Jalava and Pohjola (2001) suggests that
+the contribution to growth of production and use of ICT has increased significantly
+during the 1990s. However, this has been offset by a significant fall in the
+contribution to growth of “other capital”, which the authors attribute to an
+“inefficiently” high level of the pre-existing non-ICT capital stock.
+
+Hence, to conclude, the data that we have so far do not suggest that higher labour
+productivity growth outside the US is the reason why some of the economic
+relationships appeared to change in some countries. It remains possible that measured
+productivity growth in some of these countries (eg the UK) significantly understates
+true productivity growth (see, eg Wadhwani (2000b)). Alternatively, it is possible
+that the reasons for the apparent breakdown of some of the key economic
+relationships lie elsewhere.
+
+21
+
+TABLE 5
+PRODUCTIVITY AND THE CONTRIBUTION OF ICT:
+A US-UK COMPARISON
+US1
+
+UK
+
+1974-90
+
+1990-95
+
+1995-99
+
+1979-89
+
+1989-94
+
+1994-98
+
+Growth of Output per
+hour
+(% pa)
+
+1.37
+
+1.53
+
+2.57
+
+2.75
+
+3.01
+
+1.48
+
+Growth of output
+(% pa)
+
+3.06
+
+2.75
+
+4.82
+
+2.46
+
+1.35
+
+3.09
+
+ICT capital
+
+0.44
+
+0.51
+
+0.96
+
+0.37
+
+0.40
+
+0.64
+
+Other capital
+
+0.37
+
+0.11
+
+0.14
+
+0.68
+
+1.10
+
+0.08
+
+TFP plus labour quality
+
+0.55
+
+0.92
+
+1.47
+
+1.70
+
+1.51
+
+0.75
+
+Contributions from
+(pp pa)
+
+Source: US : Oliner and Sichel (2000)
+UK: Oulton (2001a)
+1
+US data do not include the latest data revisions.
+
+6 AN INTENSIFICATION OF PRODUCT MARKET COMPETITION?
+
+A commonly cited reason as to why some of our economies might be behaving
+differently is that the degree of product market competition has intensified over the
+last few years. I shall attempt to evaluate the validity of this claim in a UK context.
+Unfortunately, we do not have a direct measure of “product market competition”, so
+econometric testing is difficult.
+
+22
+
+A contributory factor may be globalisation, ie the increasing integration of global
+product markets. Figure 7 suggests a striking increase in the degree of import
+penetration in the UK, with the rate of increase having accelerated in recent years. 29
+
+In the UK, evidence of increased product market competition has not just been
+confined to globalisation. Government action has also played a role here.
+Privatisation and/or regulatory changes in a whole host of industries including gas,
+water, telecom, electricity, airports, rail, the docks and broadcasting have led to rather
+more competitive product market conditions.
+
+A crude proxy for the extent of perceived competitive pressure is to rely on survey
+evidence. The Euler Trade Indemnity survey (which spans all the broad industry
+sectors) has asked questions relating to the extent to which price discounting and the
+
+FIGURE 7
+Import Penetration in the UK
+% of GDP
+
+45
+40
+35
+30
+25
+20
+15
+
+10
+1965 1969 1973 1977 1981 1985 1989 1993 1997 2001
+
+competitive environment have been perceived as impacting on profitability since
+1994. Figure 8 displays the responses. Note that a response below 50 suggests that
+the factor is having a negative impact on profitability. The responses appear to point
+to an intensification of perceived competitive pressures and the extent of discounting
+29
+
+Note also that over the same period, world trade growth has, of course, also risen at a much faster
+rate than world GDP growth, which is indicative of globalisation. For example, the ratio of world
+imports to world GDP was, in 2000, about 70% higher than its 1980 value.
+
+23
+
+over this period, (dating back to around mid-1997), as they have fallen further below
+50, suggesting a greater negative impact on profitability. Note that while the level of
+the exchange rate has also been hurting profitability, its effect is deemed to have been
+less important than that emanating from price discounting or the more competitive
+environment.
+
+It is sometimes asserted that an intensification of competition is a one-off event and
+must therefore only have a transient effect on inflation. Consequently, the argument
+goes, it should not affect one’s perception of the medium-term outlook for inflation.
+My ex-colleague, Willem Buiter (2000) argues that a fall in the NAIRU which was
+associated with intensified product market competition would not, of course, reduce
+inflation in the long-run, but he emphasises that there would be important short-run
+effects. Of course, the “short-run” in this case could last several years, since
+there can sometimes be a gradual improvement over a number of years in the
+structural factors that lower the NAIRU.
+
+FIGURE 8
+Euler survey responses
+55
+Exchange Rate
+50
+45
+40
+35
+30
+
+Competitive
+Environment
+
+25
+Price Discounting
+20
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+I noted above that conventional price equations (such as the one reported in Section 3)
+appear to have performed badly in recent years.
+
+24
+
+There is some suggestive evidence that an intensification of product market
+competition might have played some role. 30 For example, if we include the extent of
+import penetration in the conventional equation reported above, it is statistically
+significant (‘t’ = -1.99). Further, the residuals are somewhat better-behaved and are
+no longer systematically negative at conventional levels of significance (t-statistic =
+-1.5). It appears that the residuals from the above price equation are correlated to the
+“price discounting” response from the Euler survey referred to above – formally, a ttest over the 1993-2000 period yields a value of 2.9. 31
+
+Further, it is plausible that the price mark-up on marginal cost should be affected by
+the weakness of foreign competition as proxied by, say, the ratio of world export
+prices (in sterling terms) to the GDP deflator. 32 This ratio is significantly lower than
+it was in 1992, though the fall in recent years has occurred, in part, because of the rise
+in sterling’s exchange rate in 1996-97 (see Figure 9).
+
+Work by Jennifer Greenslade of the External MPC Unit at the Bank of England on
+this issue suggests that world export prices are, indeed, an important, statistically
+significant, influence on domestic prices (the GDP deflator). Importantly, the
+residuals of the price equation are better-behaved in that, although they are, on
+average, still negative since 1998, this is no longer statistically significant
+(‘t’ = -0.38). This represents a considerable advantage over the existing price
+equation, since there is less need to choose between alternative treatment of past
+residuals which, as we saw in Section 3 above, can lead to rather large differences in
+
+30
+
+Since the November 1999 Inflation Report, the majority of the MPC has, in fact, incorporated a
+“structural” compression of price-cost margins within the central projection. Even before that, it was
+an assumption made by a minority of the Committee that included me.
+31
+If based on the contemporaneous value of price discounting in the Euler survey, or 3.9 if based on
+this measure lagged one period.
+32
+For example, Martin (1997) shows that domestic prices may be a function of both domestic costs and
+overseas prices. In such a model, world export prices impact on domestic prices either through an
+effect on perfect substitutes or through a pricing-to-market effect for imperfectly substitutable traded
+goods (whereby world export prices influence domestic prices through the markup). In terms of such a
+model, he assumes that the elasticity of demand for these goods is a function of their relative prices.
+This may be rationalised in several ways, including the model of Froot and Klemperer (1989).
+
+25
+
+the resulting inflation forecast. 33 Note, incidentally, that if one believes that world
+export prices directly impact on domestic prices, then, in the current conjuncture,
+when the global economy is weakening significantly, thereby leading to lower world
+inflation, one is also likely to be more confident that UK inflation will remain low.
+Hence, using the alternative price equation can have a significant impact on one’s
+inflation forecast at a time when the global economy is slowing.
+
+Returning to the issue at hand, a NE sceptic might argue that the appearance of the
+residuals in the price equation are entirely due to the appreciation of the exchange rate
+and have nothing to do with the longer-term structural factors that might have led to
+an intensification of product market competition. I would not wish to deny that the
+persistence of sterling’s 1996-97 appreciation has had an important disinflationary
+effect on UK prices. However, it is unlikely to be the only explanation.
+
+First, not all of the recent fall in the ratio of export prices to domestic prices is directly
+attributable to the exchange rate. Indeed, Figure 9B shows that in a purely arithmetic
+sense, around one-third of the fall in the ratio since mid-1992 cannot be directly
+attributed to the exchange rate. Moreover, given that the exchange rate today is little
+different from where it was in 1997 Q4, the level of sterling cannot account for the
+continuing decline in relative world export prices since then.
+
+FIGURES 9A and 9B
+
+M6 Export Prices to GDP Deflator
+1.30
+
+M6 Export Prices to GDP Deflator:
+Holding Exchange Rate Constant
+
+1.30
+
+1.20
+
+1.20
+
+Constant at Q492
+1.10
+
+1.10
+
+constant at Q497
+
+1.00
+
+1.00
+
+Using actual
+exchange rate
+0.90
+
+0.90
+
+0.80
+1992 1993 1994 1995 1996 1997 1998 1999 2000 2001
+
+0.80
+1992 1993 1994 1995 1996 1997 1998 1999 2000 2001
+
+33
+
+This is the reason why my personal projection for inflation was, in part, informed by simulations
+based on the alternative price equation.
+
+26
+
+Second, as already noted above, the Euler survey suggest that ‘price discounting’ and
+‘competitive pressure’ have had a more significant impact on profitability than the
+exchange rate.
+
+Third, some preliminary work suggests that in a general econometric price equation
+that includes sterling world export prices, the extent of import penetration might still
+play a statistically significant role.
+
+Fourth, although the aforementioned econometric work includes world export prices
+denominated in sterling, some preliminary exploratory work suggests that in the shortrun, changes in the prices of world exports denominated in local currencies have a
+much more significant impact on the price-cost mark-up in the UK than variations in
+the exchange rate. Of course, in the short-run, this would reflect rational behaviour if
+exchange rate changes were less persistent than changes in foreign prices. This
+deserves further investigation.
+
+Fifth, as I have argued before (see Wadhwani (1999)), some of the re-rating of
+sterling (and the US dollar) versus the Euro may, in any case, have been because of
+the markets’ perception that NE forces were more important in the US and the UK
+than in continental Europe. Note, incidentally, that this perception may have arisen
+because of the pattern of forecast errors in the US and UK being different from
+elsewhere (as we saw in Section 2 above).
+
+Of course, this issue deserves further research. Among other things, it is likely that
+there are some other factors which can explain the tendency to over-predict prices.
+
+6.1
+
+A DIGRESSION ON MEASUREMENT ERROR
+
+For example, it is possible that the measure of capacity utilisation that is currently
+used in the MTMM is misleading. Figure 10 compares the measure of capacity
+utilisation with a measure based on the CBI survey. Note that while the two measures
+
+27
+
+appeared to move reasonably closely together until about 1995, they have diverged
+since. 34
+
+FIGURE 10
+MM and CBI Survey Measures of
+Capacity Utilisation - 1988-2001
+0.03
+
+80
+
+0.02
+
+70
+
+0.01
+
+60
+
+0.00
+
+50
+
+-0.01
+
+40
+
+-0.02
+
+30
+
+-0.03
+
+20
+
+-0.04
+
+10
+
+-0.05
+
+0
+
+1988 with
+1991
+1994 based1997
+2000survey
+utilisation
+a measure
+on the CBI
+MTMM measure (lhs)
+
+CBI survey measure (rhs)
+
+It is possible that the MTMM measure of capacity utilisation is misleading because it
+uses an inappropriate measure of the capital stock. Current estimates of the capital
+stock are a so-called ‘wealth type measure’, where each item is weighted by the
+current asset price. While this is a valid measure for balance sheet purposes, it will be
+less appropriate for an assessment of productive potential, where one might want to
+compute a volume index of capital services (VICS, hereafter) instead. Note that in the
+VICS, each item of capital is, in principle, weighted by its contribution to output (ie
+its marginal revenue product) rather than its asset price. A consequence of using the
+VICS is that it increases the weight accorded to shorter-lived assets such as
+machinery, equipment and software, relative to buildings. If the stocks of shorterlived assets (eg computers) are growing more rapidly than other types, then the VICS
+will, in turn, grow more rapidly than the wealth-based measure.
+
+34
+
+The CBI measure used in Figure 10 is based on the Industrial Trends survey. We also produced a
+survey-based measure of capacity utilisation by combining different surveys (including the BCC
+survey on the services sector). The results were qualitatively similar to those in Figure 10.
+
+28
+
+Nicholas Oulton of the Bank of England has computed a preliminary measure of the
+VICS. Joint research with the ONS is ongoing on this issue. A preliminary VICS
+estimate has shown a rather higher growth rate in recent years, a period when we
+know that ICT investment accelerated (see Oulton (2001b)).
+
+Of course, there is no straightforward link between the rate of growth of the capital
+stock and estimates of potential output because changing one’s view of the
+appropriate capital stock will also affect one’s estimate of what economists call total
+factor productivity (TFP, hereafter). Nick Davey and Jennifer Greenslade of the
+External MPC Unit at the Bank of England have examined these issues in the context
+of the MTMM. Because they use alternative capital stock data, various relationships
+have to be re-estimated. Their work is ongoing, but some interesting results from
+their pilot study include the possibility that the alternative capital stock data would
+have yielded a different picture for “capacity utilisation” in recent years - see
+Figure 11, which displays alternative proxy capacity utilisation series based on the
+wealth and the VICS measures, respectively. 35
+
+Although the two measures moved broadly in line between 1988-97, they have
+diverged since then, with the VICS-based measure exhibiting a greater degree of
+consistency with survey-based measures. Moreover, the gap between the two series
+has grown over time, so the measurement error might not be innocuous. Indeed, these
+two different views about the absence (or otherwise) of spare capacity can have an
+important effect on an assessment of the degree of inflationary pressure. 36 Further, it
+is interesting to note that including the VICS measure of the capital stock in the
+conventional price equation reported above improves the recent pattern of the
+residuals. Of course, this area deserves further research. Note that this is an area
+where it is important that our measurement conventions keep pace with the ‘new
+economy’ out there, and I look forward to the ONS’ future work on this issue.
+
+35
+
+Note that data for 2000 are not yet available. In order to consider more recent events, it is assumed
+that the VICS estimate of the capital stock grows at around 1.6% p.a. faster than the wealth based
+measure in 2000. This is the average difference between the VICS and wealth based annual growth
+rates for the 1993-1999 period - note that this discrepancy is larger for example than the average over
+the whole sample (1979-1999), but smaller than the average since 1997.
+36
+This is one reason why my personal projection for inflation was lower than the best collective
+projection published in the August 2001 Inflation Report.
+
+29
+
+FIGURE 11
+Wealth and VICS measures of Capacity
+Utilisation, 1988 onwards
+0.03
+0.02
+0.01
+0.00
+-0.01
+-0.02
+-0.03
+-0.04
+-0.05
+1988
+
+1990
+
+1992
+
+1994
+
+1996
+
+Wealth based measure
+
+1998
+
+2000
+
+VICS measure
+
+To summarise, I have argued today that an intensification of product market
+competition for firms in the UK and mis-measuring changes in capacity utilisation
+have played a role in explaining why conventional price equations have tended to
+over-predict inflation. Some of the intensification of competition reflects secular
+factors, while some of it has almost certainly arisen from an “overvalued” exchange
+rate.
+
+7 THE NE AND THE CURRENT CONJUNCTURE
+I have argued today that:
+
+(i)
+
+There is compelling evidence that the NAIRU fell significantly in the US and
+the UK over the 1992-2000 period. This was almost certainly attributable to,
+both, improvements in the workings of the labour market and an
+intensification of product market competition.
+
+30
+
+(ii)
+
+Underlying productivity growth in the US accelerated after 1995 to a level that
+compares favourably with the 1973-95 period, though not a level which is
+high in relation to previous surges in productivity growth.
+
+These are genuine advances, and are consistent with why I believe we have a NE.
+But, with internet-related stock prices down very significantly, and a global economic
+downturn, there has been much questioning of the NE. This, in part, is because the
+more extreme adherents of the NE made rather extravagant claims.
+
+For example, in recent years, it had become increasingly fashionable to assert that
+recessions were a thing of the past. Now, it is true that output volatility has fallen in
+recent years (see, eg McConnell and Quiros (2000)). However, there are many
+causes of recessions which are unaffected by the NE. For example, the sharpness of
+the fall of business and consumer confidence in the US at the end of last year was a
+surprise. Chairman Greenspan reminds us that -
+
+“The unpredictable rending of confidence is one reason that recessions are
+so difficult to forecast. …… Our economic models have never been
+particularly successful in capturing a process driven in large part by
+non-rational behaviour.”
+Further, it is important to remind ourselves that significant volatility in share prices
+and the growth rate of corporate investment is not unusual around periods of rapid
+technological change. Indeed, historically, innovations often appear to have been
+associated with share price bubbles and over-investment in the innovating industry.
+The industry then appears to become overcrowded, and one then sees a period of
+bankruptcies and a significant cutback in investment. Whether or not this has
+significant macroeconomic effect depends, in part, on the policy response.
+
+In their discussion of the 1882 Electrical “Mania”, Kennedy and Delargy (1997)
+calculate that the average share price of their sample of quoted electrical companies
+fell by around 93% between the peak in 1882 Q3 and trough in 1884 Q4! The
+fluctuations in the stock market affected the ability of the electrical industry to raise
+money, and thereby develop. Kennedy and Delargy (1997) point out that while the
+prospective electrical supply undertakings raised over £2mn at the height of the mania
+
+31
+
+in 1882 alone, they were only able to raise around £235,000 in the subsequent
+five year period. Share price volatility almost certainly affected the time-path of
+investment in electrical undertakings. However, it did not stop us from reaping the
+benefits of electricity eventually.
+
+Similarly, Baines, Crafts and Leunig (2001) discuss the railway mania of 1844-7, and
+point out that “there was huge speculation in railway shares followed by a spectacular
+crash in 1845 even in the shares of those companies that would become giants of the
+industry in later decades”. Indeed, notwithstanding the crash of 1845, railway
+mileage rose from about 2,000 miles of track in 1844 to nearly 14,000 miles by 1870.
+The authors argue that the railways made a growth contribution of about 0.25 per cent
+a year during 1840-70.
+
+Interestingly, a similar boom-bust phenomenon in the innovating industry was also
+associated with motor vehicles, radio and airline industry (see Meyer (2001) for a
+discussion of these examples).
+
+I do not wish to imply that it will be plain sailing in the near-term. The
+underinvestment in the British electrical industry following the share price crash in
+1882-84 is widely regarded to have significantly slowed the pace at which Britain
+took advantage of the new innovation.
+
+More generally, recessions or growth recessions that follow the bursting of
+speculative bubbles and which are associated with the elimination of investment
+overhangs have historically tended to be longer-lived than those recessions that have
+been associated with inflation-fighting by the central bank. Currently, the degree of
+excess capacity in the global telecoms industry is very high. Weak corporate
+investment and a significant drying-up of venture capital finance suggest that it might
+be some time before the US economy recovers convincingly, especially as the current
+level of share prices appears to be predicated on an implausibly sharp rebound in
+profits in 2002. A further fall in the US stock market would make consensus forecasts
+of a significant recovery in GDP growth in the next few months even less plausible.
+
+32
+
+Were the economy to remain weak, this might lead corporate investment to be even
+weaker, which would lower labour productivity growth further. This might, in turn,
+lead investors to reassess the level of equity prices – so, as I have argued before (see
+Wadhwani (2001)) a self-reinforcing, vicious cycle remains a downside risk.
+
+Equally, though, it seems premature to be excessively gloomy about the potential,
+long-term productivity benefits of ICT, and the Internet in particular. Specifically, in
+reporting on a study of eight sectors which collectively account for about 70 per cent
+of US GDP, Litan and Rivlin (2001) argue that “the potential of the Internet to
+enhance productivity growth over the next few years is real”. De Long and Summers
+(2001) argue that if the rate of technological progress in the ICT sector remains
+high, 37 then economy- wide productivity growth is also likely to resume a healthy rate
+of growth because the ICT sector is likely to become an increasingly important part of
+the economy. This is partially attributable to the likelihood that the income elasticity
+of demand for ICT products is greater than one, so, as we grow richer, the share of
+ICT expenditure in total expenditure will grow. Whether or not this potential is
+realised will, though, partly depend on the macroeconomic environment.
+
+It behoves us to recall that, in recent US economic history, a period of rapid
+productivity growth (the 1920s), was followed by the Great Depression in the 1930s.
+Much therefore depends in macroeconomic policy being appropriate.
+
+To summarise, it seems to me that the NAIRU did fall in the UK and the US and that
+the underlying trend growth of productivity did accelerate in the US. In that sense,
+we do have a ‘new economy’. However, this is not an economy where the business
+cycle is dead thereby justifying sky-high equity valuations. The global economy
+probably has a difficult period ahead of it in the near future, but this does not diminish
+the fact that some gains have been made.
+
+37
+
+There are many scientists who believe that this will be true over the next decade.
+
+33
+
+BIBLIOGRAPHY
+
+Baines, D, N Crafts and T Leunig (2001) “Railways and the Electronic Age”, LSE,
+available at www.fathom.com
+Ball, Larry and Robert Moffitt (2001) “Productivity Growth and the Phillips Curve”
+John Hopkins University, mimeo.
+Bank of England (2000) “Economic Models at the Bank of England”
+(September 2000 update).
+Barwell, R. (2000) “Age Structure and the UK Unemployment Rate”, Bank of
+England Working Paper No124.
+Blinder, Alan S and Janet L Yellen (2001) “The Fabulous Decade: A Macroeconomic
+History of the 1990s”, Paper prepared for Russell Sage/Century Foundation Project on
+Sustainable Employment.
+Blinder, Alan S (1997) “The Speed Limit: Fact and Fancy in the Growth Debate”, The
+American Prospect, No 34, September-October 1997.
+Bosworth, Barry P and Jack E Triplett “What’s New About the New Economy? ICT,
+Economic Growth and Productivity”, Brookings Institute, mimeo.
+Browne, Frank (2000) “Is there a New Economy? ”, paper presented at
+Oesterreichische Nationalbank Conference, June.
+Buiter, W (2000) “The New Economy and the Old Monetary Economics”, BEQB,
+May.
+Crafts, Nicholas (2000) “The Solow Productivity Paradox in Historical Perspective”,
+LSE, mimeo.
+Cross, R, Darby, J and J Ireland (1997) "Uncertainties Surrounding Natural Rate
+Estimates in the G7", Glasgow University Department of Economics Discussion
+Paper 9712.
+Coulton, B and Cromb, R (1994), “The UK NAIRU”, Government Economic Service
+Working Paper No 124.
+De Long, J Bradford and Lawrence H Summers (2001) “The New Economy:
+Background, Questions and Speculations”. Paper presented at the Federal Reserve
+Bank of Kansas conference.
+Gordon, Robert J (2000) “Does the “New Economy” measure up to the Great
+Inventions of the Past?”, Journal of Economic Perspectives, Vol. 14, pp 49-74.
+Jalava, J and M Pohjola (2001) “Economic Growth in the New Economy”,
+UNU/WIDER Discussion Paper No 2001/5.
+34
+
+Katz, L and Krueger (1999) “The High-Pressure U.S. Labour Market of the 1990s”,
+Brookings Papers on Economic Activity, 1999, (1), 1-87.
+Kay, John (2001) “What became of the new economy?”, National Institute Economic
+Review No 177, July, pp 56-69.
+Kelly, Kevin (1998) “New Rules for the New Economy”, New York, NY: Penguin
+Putnam.
+Kennedy, William and Robert Delargy (1997) “Shorting the Future? The Financing
+of the British Electrical Industry, 1878-1914”, Department of Economic History, LSE.
+Kohn, D (1999) “Comment” in Taylor J B (ed.) “Monetary Policy Rules”, University
+of Chicago Press for NBER, pp 192-199.
+Litan, Robert E and Alice M Rivlin (2001) “Projecting the Economic Impact of the
+Internet”, American Economic Review, Papers and Proceedings, May, pp 313-317.
+Mandel, Michael (2001) “The Coming Internet Depression”, Financial Times/Prentice
+Hall, London.
+McConnell, Margaret and G P Quiros (2000) “Output Fluctuations in the United
+States: What Has Changed Since the Early 1980s?”, American Economic Review,
+Vol. 90, pp 1464-1476.
+Meyer, Laurence H (2001) “What Happened to the New Economy?”, Speech
+delivered to the New York Association for Business Economics, June, 6.
+Nickell, Stephen (2001) “Has UK Labour Market Performance Changed?”, Bank of
+England Quarterly Bulletin, Autumn, pp340-350.
+OECD Economic Outlook no 68
+Oliner, S D and Sichel, D E (2000) “The resurgence of growth in the late 1990s: Is
+Information Technology The story?”, Washington, DC: Board of Governors of the
+Federal Reserve, Journal of Economic Perspectives, Vol 14, pp 3-22.
+Oulton, Nicholas (2001a), “ICT and Productivity Growth in the United Kingdom”,
+Bank of England Working Paper Number 140.
+Oulton, Nicholas (2001b), “Measuring Capital Services in the United Kingdom”,
+Bank of England Quarterly Bulletin, August.
+Robinson, Peter (1997) “Is there a Pay Problem? ”, in Michie, J and J G Smith (ed),
+“Employment and Economic Performance”, Oxford University.
+
+35
+
+Staiger, D, Stock, J H and Watson, M W (1997a), “How Precise are Estimates of the
+Natural Rate of Unemployment?”, in Romer, C D and Romer, DH eds Reducing
+Inflation: Motivation and Strategy, (NBER Research Studies in Business Cycles, Vol
+30, University of Chicago Press).
+Staiger, D, J H Stock and M W Watson (2001) “Prices, Wages and the U.S. NAIRU
+in the 1990s”, NBER Working Paper No 8320.
+Stiroh, Kevin J (2001) “New and Old Economics in the ‘New Economy’”, Federal
+Reserve Bank of New York.
+Vanhoudt, P and L Onorante (2001) “Measuring economic growth and the new
+economy”, EIB Papers.
+Wadhwani, Sushil B (1999) “Sterling’s Puzzling Behaviour”, Bank of England
+Quarterly Bulletin, November.
+Wadhwani, Sushil B (2000a) “British Unemployment and Monetary Policy”, Bank of
+England Quarterly Bulletin, February.
+Wadhwani, Sushil B (2000b) “Monetary Challenges in a New Economy”, Bank of
+England Quarterly Bulletin, November.
+Wadhwani, Sushil B (2001) “The New Economy – Myths and Realities”, Bank of
+England Quarterly Bulletin, Summer.
+Weitzman, M L (1976) “On the welfare significance of national product in a dynamic
+economy”, Quarterly Journal of Economics, XC, pp 156-62.
+
+36
+
+

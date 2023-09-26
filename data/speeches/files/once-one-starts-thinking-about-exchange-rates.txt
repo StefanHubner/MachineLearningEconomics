@@ -1,0 +1,226 @@
+Once one starts thinking about exchange rates….
+Opening remarks by
+Kristin Forbes, External MPC Member, Bank of England
+
+Conference on “Financial Determinants of Foreign Exchange Rates” organised by
+the Bank of England, Banca d’Italia, and the European Central Bank
+15 December 2016
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Most conversations about economic growth rates seem to inevitably include a reference to Bob Lucas’
+famous quote: “once one starts to think about them, it is hard to think about anything else”. There can be a
+similar obsession when one starts to think about exchange rates - especially when trying to forecast inflation
+and evaluate the appropriate path for monetary policy.
+
+To prove that this obsession with exchange rates is not just my own eccentricity - but actually something
+fairly widespread (at least amongst MPC members) - I did a word count for the number of times the words
+“exchange rate”, “foreign exchange” or “sterling” were used in the Minutes of the Monetary Policy Committee
+since it was created in 1998. Over this period, the exchange rate (and its related terms) have appeared in
+7% of the paragraphs in the Minutes on average. Recently the exchange rate has become even more
+prevalent - reaching a new record of being used in 20% of the paragraphs over the last 6 months to August
+(Chart 1).
+
+An even stronger testament to the importance of the exchange rate to monetary policy is how often it is
+discussed relative to other economic variables at the heart of monetary policy. In contrast to the 7% of
+paragraphs including exchange rate related terms in the Minutes since 1998, only 5% of the paragraphs
+include some variant of the word “employ”(including variations such as employment and unemployment),
+4% include a reference to “interest rates”, 3% to “wage”, 3% to “oil”, and 1% to “slack” (Chart 2). The only
+single economic term that I found which is cited more often than the exchange rate terms is “inflation” (which
+has averaged 18% percent of paragraphs), albeit this overstates the discussion of inflation as it also includes
+use of the term Inflation Report. I don’t want to make too much of these word counts; they are subject to a
+number of biases and can yield different results based on how the search terms are constructed. They are,
+however, consistent with my claim that policymakers on the MPC spend a substantial amount of time
+thinking about exchange rates.
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+Chart 1: Proportion of paragraphs in MPC minutes
+
+Chart 2: Proportion of paragraphs in MPC
+
+including exchange rate terms (6 month average)
+
+minutes that include given terms (since 1998)
+
+It is not surprising that exchange rates receive so much attention from policymakers. They are critical to
+understanding sharp movements in inflation in open economies such as the United Kingdom. For example,
+consider the MPC’s last forecast in November, which predicted that CPI inflation would reach 2.8% in 2018
+and remain above our 2% target in three years’ time. Sterling’s depreciation since the end of 2015, and
+especially its sharp depreciation since the June referendum on EU membership, are critical drivers of this
+inflation overshoot. Figure 3 shows a rough simulation of the effects. It shows the inflation forecast from
+November, as well as estimates of what the inflation forecast might have looked like if sterling had not
+depreciated. This scenario does not fully capture the multifaceted ways in which exchange rates affect
+inflation over the forecast, but relies on mechanically removing the impact as estimated by a DSGE model.
+
+1
+
+This mechanical simulation suggests that sterling’s depreciation since the end of 2015 will raise inflation by
+about ¾ pp by the middle of next year - the same amount by which inflation is expected to overshoot our 2%
+target. These are only rough simulations, but they provide a clear example of the importance of the
+exchange rate for inflation and setting monetary policy.
+
+1
+
+More specifically, this simulation assumes that the exchange rate movement results from an exogenous exchange rate risk shock and
+that pass-through is relatively prolonged, as estimated by the BoE’s forecasting model (COMPASS). It does not attempt to control for
+the specific shocks driving the exchange rate, as discussed in Forbes, Hortsoe, and Nenova (2015), or allow for a different speed of
+pass-through. Since the simulation does not include any additional judgements that often go into a forecast and monetary policy
+decision, they should be treated as indicative and not precise estimates.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+Chart 3: November IR CPI inflation forecast and forecast without mechanic contribution from
+sterling fluctuations
+
+Exchange rates are also critical for financial stability. Before the UK referendum this June, a number of our
+policy discussions focused on the potential risks to various segments of the economy from large movements
+in sterling. Regulators constantly monitor the risks to major financial institutions related to foreign exchange
+risk. One of the reasons why emerging markets often benefit less from currency devaluations than
+developed economies is the way in which currency movements weaken the financial positions of banks,
+companies and individuals who borrow in foreign currency.
+
+Unfortunately, despite how critically important exchange rates are to so many issues, they are not nearly as
+well understood as many other economic issues. Academic economists are usually hesitant to even make
+predictions about whether a country’s real exchange rate will strengthen or weaken. Private sector
+economists and traders are less reticent - and some have occasionally made large profits predicting where
+an exchange rate will move - but I have yet to see any convincing evidence that they are able to repeat these
+profitable bets over an extended period.
+
+Therefore, I am delighted to see this conference drawing together such a knowledgeable group of experts to
+try to improve our understanding of issues around the financial determinants of exchange rates. I can’t
+stress enough how important this type of research is to people in policy positions.
+
+The papers today and tomorrow also touch on a number of key issues that are critically important - and
+which our current understanding leaves something to be desired. Let me touch on two that are key themes in
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+the sessions today: understanding why interest rate parity sometimes works, but usually doesn’t; and better
+understanding the causes, concerns, and spillovers linked to high frequency movements in exchange rates.
+
+First, why do intuitive models based on interest rate parity sometimes perform fairly well - but usually perform
+abysmally? Let me just give a simple example of the challenge in the UK. Panel A of Chart 4 shows the
+sterling exchange rate index and nominal interest rates news from the end of March through early June of
+2014. The two series move together fairly tightly. In fact, this simple version of uncovered interest parity
+(UIP) explains almost all of sterling’s roughly 1% appreciation over this window. This is a success for this
+type of model (and, full disclosure, this time period was specifically selected for this reason).
+
+Chart 4: UIP decomposition
+A: Cumulative changes: end
+
+B: Cumulative changes: 23
+
+C: Cumulative changes: 1 – 30
+
+March to early June 2014
+
+June to end October 2016
+
+November 2016
+
+In contrast, look at Panels B and C, which do the same analysis from the period after the UK referendum on
+EU membership through end October 2016, and for November 2016, respectively. In Panel B, sterling
+plummets by 15%, but simple UIP calculations suggest changes in interest rates would predict only about a
+1.5% depreciation. Or even more disconcerting, during November these simple UIP calculations would have
+predicted a small depreciation, but instead sterling appreciated by 5.5%.
+There were obviously a few other things going on over these periods that may have affected sterling’s value including the perceived risk of holding sterling and changing expectations of the equilibrium value of the
+exchange rate in the long-run. Nonetheless, these last two charts illustrate how sharply the exchange rate
+can move, even when there are only small movements in relative interest rates. The academic literature
+generally acknowledges that UIP does not tend to hold (due to factors such as risk premia), and a related
+interest parity condition that has traditionally done somewhat better is covered interest parity (CIP). But this
+has also broken down recently. Is there any way to better understand when CIP will hold and when it will
+not? Is there a better way to formalize these other factors?
+
+The papers in the first session today make some progress. They document the substantial deviations from
+covered interest parity that have existed since the crisis - and the corresponding large systematic arbitrage
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+opportunities that could therefore exist. Sushko et al. (2016) and Du et al. (2016) both argue that covered
+interest parity fails not due to transaction costs or bank credit risk. Instead, Sushko et al. argue that they
+result from demand to hedge US dollars forward. Du et al (2016) argue that they result from frictions in
+financial intermediation and their interactions with large international imbalances. And Cenedese et al. (2016)
+show that trading activity in foreign exchange markets is consistent with market making activity being
+impaired, potentially due to increased balance sheet costs.
+
+The second set of important issues addressed today is better understanding sharp movements in foreign
+exchange markets - especially flash crashes - and their international spillovers. In October, sterling fell 5% in
+the space of just 2 minutes in the early hours of 7 October (before bouncing partially back). Or even more
+striking, on January 15, 2015, the euro-swiss franc exchange rate moved by almost 30% immediately after
+the Swiss National Bank announced it was no longer supporting its exchange rate floor. Why did these prices
+- in what are normally some of the most liquid markets—move so abruptly? Why do these types of sharp
+market movements sometimes have meaningful spillover effects on other countries (such as after the Swiss
+franc episode) - but in other cases are fairly well contained (such as after the sterling episode)? Why can
+such liquid markets quickly become illiquid?
+
+Chart 5: Sharp movements in exchange rates
+Sterling flash crash: $/£
+
+The papers in the 2
+
+nd
+
+Swiss de-pegging: €/Swiss franc
+
+session today make some progress in understanding these important issues.
+
+Breedon et al. (2016) focus on the key role played by algorithmic trading during the sharp currency
+movements around the depegging of the Swiss Franc. They show why these “algo traders” can sometimes
+provide liquidity, while at other times consume it - a set of issues on which we have remarkably little
+understanding. The paper presented by Kearns (Ferrari et al., 2016) focuses on the high frequency
+international spillovers from monetary policy to exchange rates. Both papers are excellent examples of the
+insights that can be gained by using high frequency data to better understand foreign exchange movements
+and spillovers. I remember when moving to daily data was a luxury; moving to a minute frequency is not only
+a wealth of information, but critical to understanding the factors behind these flash crashes and
+corresponding spillovers.
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+To conclude, the organizers of this conference should be congratulated. They are tackling important issues
+with first order importance for policymakers. The forum shows the range of models and considerations that
+need to be part of the discussion, as well as the type of careful data analysis that needs to be done to move
+our understanding forward. If Bob Lucas had attended this conference, maybe his famous quote would
+instead have been, “once one starts to think about foreign exchange markets, it is hard to think about
+anything else”…
+
+References
+Breedon, F., Chen, L., Ranaldo, A., Vause, N., (2016). “Judgement Day: Algorithmic Trading in the Swiss
+Franc De-pegging”, Unpublished working paper.
+Cenedese, G., Della Corte, P., Wang, T., (2016). “Limits to Arbitrage in the Foreign Exchange Market:
+Evidence from FX Trade Repository Data”, Unpublished working paper.
+Du, W., Tepper, A., Verdelhan, A., (2016). “Deviations from Covered Interest Rate Parity”, Unpublished
+working paper.
+Ferrari, M., Kearns, J., Schrimpf, A., (2016). “Monetary Shocks at High Frequency and their Changing FX
+Transmission around the Globe”, Unpublished working paper.
+Forbes, K., Hjortsoe, I. and Nenova, T., (2015). ”The shocks matter: improving our estimates of exchange
+rate pass-through”, Bank of England External MPC Unit Discussion Paper No. 43, November 2015.
+Sushko, V., Borio, C., McGuire, P., McCauley, R., (2016). “Failure of covered Interest Parity: FX Hedging
+Demand and Costly Balance Sheets”, BIS Working Papers No 590.
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+

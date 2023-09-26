@@ -1,0 +1,515 @@
+Bank of England
+
+Page 1
+
+Risks from leverage: how did
+a small corner of the
+pensions industry threaten
+financial stability? − speech
+by Sarah Breeden
+Given at ISDA & AIMA
+07 November 2022
+
+Bank of England
+
+Page 2
+
+Speech
+On the afternoon of 28 September, I found myself in a rather unusual position: having to
+explain to journalists why a part of the pensions industry, unheard of to most of their
+readers, had posed such a large threat to financial stability that it warranted intervention in
+the gilt market from the Bank of England.
+Financial markets globally had been volatile for months. But in the days leading up to that
+fateful Wednesday and following the announcement of the Government’s growth plan on
+23 September, long-dated gilt yields in particular had moved with extraordinary and
+unprecedented scale and speed.
+Now volatility itself does not warrant Bank of England intervention. Indeed, it’s essential
+that market prices are allowed to adjust to changes in their fundamental determinants
+efficiently and without distortion.
+However, some liability-driven investment (LDI) funds were creating an amplification
+mechanism in the long-end of the gilt market through which price falls had the potential to
+trigger forced selling and thereby become self-reinforcing. Such a self-reinforcing price
+spiral would have resulted in even more severely disrupted gilt market functioning. And
+that would in turn have led to an excessive and sudden tightening of financing conditions
+for households and businesses.
+In response to this threat, the Bank of England intervened on financial stability grounds.
+But what led to that intervention?
+The root cause is simple – and indeed is one we have seen in other contexts too – poorly
+managed leverage.
+So today I’ll set out how leverage outside the banking sector can create risks to financial
+stability, starting with that small corner of the pensions market. And then I’ll set out what
+needs to be done - by participants, by their regulators and by financial stability authorities if we are to ensure those risks to financial stability are reduced.
+
+How did a small corner of the pensions industry threaten
+financial stability?
+Many UK DB pension schemes have been in deficit, meaning their liabilities – their
+commitments to pay out to pensioners in the future – exceed the assets they hold. DB
+pension schemes invest in long-term bonds to hedge the interest rate and inflation risk that
+arises from these long-term liabilities. But that doesn’t help them to close their deficit. To
+
+Bank of England
+
+Page 3
+
+do that, they invest in ‘growth assets’, such as equities, to get extra return to grow the
+value of their assets. An LDI strategy delivers this, using leveraged gilt funds to allow
+schemes both to maintain material hedges and to invest in growth assets. Of course that
+leverage needs to be well managed.
+The rise in yields in late September – 130 basis points in the 30-year nominal yield in just
+a few days – caused a significant fall in the net asset value of these leveraged LDI funds,
+meaning their leverage increased significantly. And that created a need urgently to delever
+to prevent insolvency and to meet increasing margin calls.
+The funds held liquidity buffers for this purpose. But as those liquidity buffers were
+exhausted, the funds needed either to sell gilts into an illiquid market or to ask their DB
+pension scheme investors to provide additional cash to rebalance the fund. Since
+persistently higher interest rates would in fact boost the funding position of DB pension
+schemes1, they generally had the incentive to provide funds. But their resources could
+take time to mobilise.
+The issue was particularly acute for one small corner of the LDI industry – pooled funds. In
+these funds, which make up around 10-15% of the LDI market, a pot of assets is managed
+for a large number of pension fund clients who have limited liability in the face of losses.
+The speed and scale of the moves in yields far outpaced the ability of the large number of
+pooled funds’ smaller investors to provide new funds who were typically given a week, in
+some cases two, to rebalance their positions. Limited liability also meant that these pooled
+fund investors might choose not to provide support. And so pooled LDI funds became
+forced sellers of gilts at a rate that would not have been absorbed in normal gilt trading
+conditions, never mind in the conditions that prevailed during the stressed period.
+Other LDI funds, with segregated mandates, were more easily able to raise funds from
+their individual pension scheme clients. However, given their scale, at 85-90% of the
+market, some of these funds were also contributing to selling pressure, making the task at
+hand for pooled LDI funds even harder. And of course if the pooled funds had defaulted,
+the large quantity of gilts held as collateral by those that had lent to the funds would
+potentially be sold on the market too.
+With the gilt market unable to absorb such forced sales, yields would have been pushed
+even higher, making the scale of the selling need even larger still. This is the selfreinforcing spiral that the Bank intervened to prevent.
+
+As an illustration, the Pension Protection Fund’s PPF 7800 index suggests that, between end-2021 and
+end-September 2022 – a period in which interest rates rose substantially – the liabilities of UK DB schemes
+fell by 36% (from £1,689bn to £1,076bn), whereas their assets fell by only 20% (from £1,818bn to £1,451bn),
+leaving their net assets nearly three times higher.
+1
+
+Bank of England
+
+Page 4
+
+The Bank’s 13 day and £19.3 billion intervention was made on financial stability grounds. It
+was the first example of us acting to deliver our financial stability objective through a
+temporary, targeted intervention in the gilt market.
+But let me emphasise: the asset purchases were a means to an end. They were designed
+to create the right conditions in the right part of the gilt market for long enough so that the
+LDI funds could build resilience so that their leverage would be well managed once the
+asset purchases had ceased and should gilt market instability return.2
+
+What does this episode remind us about the risks from nonbank leverage?
+Leverage is an integral part of the economy. It allows households to borrow to buy houses
+and smooth consumption. It allows companies to invest in projects or to smooth cashflows.
+It allows banks to finance these activities.
+In the non-bank financial system, leverage is used: to facilitate trading; to invest in
+companies and infrastructure; and to arbitrage price discrepancies and so improve the
+efficiency of financial markets.3
+Leverage is created in different ways. Its most obvious form is to borrow money to buy
+assets – ‘financial leverage’. But it arises also through ‘synthetic leverage’ using derivative
+instruments. This allows users to adjust risk profiles through a relatively small initial outlay,
+with future gains or losses contingent on changes in underlying market prices. Those
+future gains and losses create financial obligations – a form of contingent ‘hidden’ leverage
+if you like.
+It’s clear that leverage is a key function provided by the financial system in support of a
+thriving and productive economy. But it comes with inherent risks that need to be
+managed.
+A common factor across all the uses of leverage I have just described is that it can
+increase the exposure of the leverage taker to underlying risk factors – whether that be
+house prices, earnings, interest rates, currencies or asset prices. It follows therefore that
+leverage can amplify shocks to each of these risk factors. And in a stress, that can lead
+both to sudden spikes in demand for liquidity – either to support the financing of leveraged
+positions or as de-leveraging leads to forced sales – and a corresponding contraction in
+liquidity supply, with potentially systemic consequences.
+
+2
+
+See Thirteen days in October: how central bank balance sheets can support monetary and financial
+stability – speech by Andrew Hauser
+3 See The impact of leveraged investors on market liquidity and financial stability – speech by Jon
+Cunliffe
+
+Bank of England
+
+Page 5
+
+Leverage is of course not the only cause of systemic vulnerability in the non-bank system
+– as we have seen with liquidity mismatch driving run dynamics in money market funds
+(MMFs) and open-ended funds (OEFs) during the dash for cash.4 But it is important where
+any form of leverage is core to a non-bank’s business and trading strategy. Indeed what
+happened to LDI funds is just the latest example of poorly managed non-bank leverage
+throwing a large rock into the pool of financial stability. From Long Term Capital
+Management in 1998; to the 2007 run on the repo market; to hedge fund behaviour in the
+2020 dash for cash; and the failure of Archegos in 2021.
+These episodes highlight the need to take into account the potential amplifying effect of
+poorly managed leverage, and to pay attention to non-banks’ behaviours which,
+particularly when aggregated, could lead to the emergence of systemic risk.
+I see systemic risk from leverage in the non-bank system arising through two different
+channels of contagion:
+•
+•
+
+to markets – both those non-banks invest in and those they borrow from;
+to counterparties – who either provide cash, or take the other side of instruments
+that are used to provide synthetic leverage.
+
+To the extent that these markets and counterparties are important for the functioning of the
+financial system and for the real economy, problems transmitted can have adverse
+consequences for economic growth and financial stability.
+
+The market channel
+Let’s start with the market channel. Here excessive or poorly-managed leverage
+increases the potential for forced asset sales in the face of shocks, with adverse
+implications for market functioning and so the real economy.
+Feedback loops and amplification mechanisms can arise in two ways – through
+unexpected liquidity strains (most obviously as a result of margin increases) or through
+large, concentrated positions.
+I’ll cover liquidity strains first.
+Banks and CCPs typically require their counterparties to place collateral, in the form of
+margin or haircuts, to protect against counterparty risk. And sharp changes in asset prices,
+high volatility or correlated shocks affect the amount of counterparty risk to which they are
+exposed.
+
+4
+
+See Taking our second chance to make MMFs more resilient - speech by Andrew Bailey
+
+Bank of England
+
+Page 6
+
+As market prices change and as risk rises, the bank or CCP can request more collateral.
+(Variation margin to reflect the change in market prices; and higher initial margin to reflect
+greater risk in a given position.) And meeting those collateral demands creates liquidity
+risk for the leveraged institution that needs to be managed.
+This more widespread collateralisation of derivatives has been an essential part of the
+package of reforms to address fault-lines exposed in the Global Financial Crisis. Initial
+margin requirements are vital to limit cascading counterparty credit risks, as I will cover
+later.
+But more widespread collateralisation has increased the sensitivity of liquid-asset demand
+to market volatility. And, if market participants are not prepared for such calls, their actions
+to raise cash can squeeze liquidity in already stressed markets, further amplifying shocks.
+So whilst greatly reducing counterparty credit risks, with important systemic benefits,
+collateralisation may also increase systemic liquidity risks.
+This dynamic was at play in the ‘dash for cash’ in March 2020, where hedge funds with
+highly leveraged positions in US Treasury cash-futures basis trades, were one source of
+the boost in demand for liquidity.5 When markets turned against them, these investors
+unwound their positions, selling US Treasuries at scale, contributing to a short but extreme
+period of illiquidity in these usually safe and liquid markets. That added to dysfunction and
+necessitated unprecedented central bank intervention.6 7 8 9
+The behaviour of financial intermediaries can also matter when a stress hits too - since
+what can seem rational behaviour for an individual firm has the potential to cause negative
+second-round effects when aggregated across the market as a whole. For example, low
+initial margins and haircuts in normal times can result in significant margin increases when
+a stress hits. If these occur market-wide, it can lead to a reduction in market activity,
+damage market functioning, and potentially amplify market moves at a time of stress.
+The second mechanism is via large, concentrated exposures, which can exacerbate the
+impact of liquidity strains and so amplify the impact of deleveraging on markets in the
+event of a shock. It can be seen in events in the gilt market I described earlier.
+
+See ‘The role of non-bank financial intermediaries in the ‘dash for cash’ in sterling markets’, Bank
+of England Financial Stability Paper, number 47.
+6 See ‘Seven Moments in Spring: Covid-19, financial markets and the Bank of England’s balance
+sheet operations’ – speech by Andrew Hauser
+7 See ‘Sizing hedge funds' Treasury market activities and holdings’,
+8 See ‘Hedge Funds and the Treasury Cash-Futures Disconnect’
+9 See ‘Leverage and margin spirals in fixed income markets during the Covid-19 crisis’
+5
+
+Bank of England
+
+Page 7
+
+The concentrated and correlated nature of pooled LDI funds’ exposures meant that their
+forced selling behaviour represented a sudden and profound shift in supply-demand
+dynamics.
+Indeed the self-reinforcing spiral it led to meant that around £200 billion of pooled LDI
+funds10 threatened the £1.4 trillion traded gilt market, which itself acts as the foundation of
+the UK financial system, underlying around £2 trillion of lending to the real economy
+through wider credit markets.11
+As such, it was a timely reminder that large concentrated exposures and correlated
+behaviours can strain market functioning so much that financial stability can be threatened.
+
+The counterparty channel
+Now let’s turn to the counterparty channel ‒ where leverage increases the risk of an
+entity’s default and so brings losses for their counterparties, threatening the resilience of
+systemically important firms and so the real economy.
+Margins are at the core of bank and CCP toolkits for managing these counterparty risks.
+They are essential to stop cascading counterparty losses around the system broadly.
+But margins will only be adequate if counterparty credit risks can themselves be
+adequately assessed. And assessing the risk of a leveraged institution can be challenging
+‒ perhaps because its exposures are in the form of synthetic or “hidden” leverage or
+because its exposures are more concentrated or correlated than the counterparty is able
+to understand.
+In the case of Archegos, for example, individual counterparties were not sighted on the
+total size of the firms’ sizeable and concentrated swap positions, meaning they had
+imperfect information on which to manage counterparty credit risk.
+In fact, when margin was called as prices moved against Archegos in March 2021, the firm
+was forced to liquidate its concentrated positions, further amplifying adverse price
+movements, through the market channel I just described. The end result was that
+Archegos could not meet all of its margin calls, and its default left its bank-affiliated prime
+brokers sharing around $10 billion in counterparty credit losses.
+
+10
+
+The Pensions Regulator has noted that as of end-2021, c. 15% of the roughly £1.4tn in UK LDI assets
+were in multi-investor pooled funds, which equates to roughly £200bn. Due to the volatility of gilt prices and
+yields, these estimates will not reflect the current position, and the rise in gilt yields in 2022 will have reduced
+the total amount of hedging.
+11 The UK corporate bond and fixed rate mortgage markets are around £2 trillion, and gilt pricing also
+underlies a broader set of markets beyond these.
+
+Bank of England
+
+Page 8
+
+Just as with LTCM in the late-1990s, the Archegos case highlights how financial strains on
+leveraged non-bank investors can transmit directly to the large banks at the core of the
+financial system. And it highlights again that if leveraged investors use several
+counterparties, overall leverage is hidden from each of them.
+Banks and CCPs may therefore need to have access to more information on the risk
+positions and balance sheets of their leveraged counterparties if they to understand fully
+concentrated and hidden exposures.
+A second lesson for banks’ and CCPs’ counterparty credit risk management from recent
+extraordinary events is that the past is not always a good guide for the future. And so they
+need to be creative in identifying stress scenarios that best illustrate their counterparties’
+credit risk and so the conditions under which margin calls might not be met.12 As I will
+explain, that could relate to wrong way, risk, market dynamics, the behaviour of other
+market players, even operational details.
+I think further progress on both these fronts is needed if we are to be confident the
+counterparty channel is fully managed.
+
+Are these risks unique to non-banks?
+I think it’s helpful at this stage to ask whether these issues are unique, or if we’ve tackled
+them before in other contexts.
+And with that in mind, I’ll draw a very brief comparison to a market which has already been
+widely studied and embedded in the macroprudential toolkit: the mortgage market.
+Banks manage their exposures to mortgagors, through affordability testing, leverage limits
+and collateral. And that’s important from a financial stability perspective, given the
+feedback and amplification mechanisms that have been seen during stresses in the past.
+For example, stress test scenarios cover house prices falling and borrowers defaulting,
+and so can capture the potential for amplified price moves and a self-reinforcing price
+dynamic, as a result of forced sales by bank lenders into a falling housing market.
+Perhaps correlated falls in asset prices and leverage can create amplifying price dynamics
+in non-bank financial institutions as well as with households.
+
+The Bank’s recent CCP Supervisory Stress Test used reverse stress testing to look well beyond
+historical precedent.
+12
+
+Bank of England
+
+Page 9
+
+In addition, in our financial stability analysis of the mortgage market, we recognise that
+reductions in spending by highly indebted mortgage borrowers as they keep up with debt
+repayments can create negative spillover effects to the rest of the economy.
+And perhaps in the same way, too, might forced asset sales into stressed financial
+markets have negative spillovers for all other users of that market. In the case of the core
+government bond market that could be significant.
+
+What is being done to address risks from non-bank leverage,
+and where is there further progress to be made?
+Having set out how leverage in non-bank financial institutions might create risks to
+financial stability, I’ll turn now to what needs to be done if we are to ensure those risks are
+reduced.
+Let me be clear. The onus for building resilience in the non-bank system sits first and
+foremost with the firms themselves.
+If firms use leverage, they must be able to manage the liquidity consequences of their risk
+exposures. As part of this, they need to learn from the decades of experience that show
+how leverage and liquidity risk creates rollover risks; volatility; operational challenges in
+accessing liquidity; and exposures to amplification mechanisms from the wider system.
+Firm stress testing and resilience must be set with reference to the system and to market
+dynamics and not just a firm’s own atomistic actions. Indeed this is where associations
+such as yourselves, ISDA and AIMA, can be hugely supportive in sharing best practices
+and industry standards.
+LDI funds have demonstrated the art of the possible here, by building resilience at speed
+when severe stress demonstrated the clear need for it.
+Regulators worked with LDI funds during the Bank’s operations to ensure greater
+resilience for future stresses. And in aggregate, intelligence suggests that LDI funds raised
+over £40 billion in funds and made over £30 billion of gilt sales during our operations, both
+of which have contributed to significantly lower leverage.
+As a result, LDI funds report that their liquidity buffers can withstand very much larger
+increases in yields than before, well in excess of the previously unprecedented move in gilt
+yields. And so the risk of LDI fund behaviour triggering ‘fire sale’ dynamics in the gilt
+market and self-reinforcing falls in gilt prices is – for now at least – significantly reduced. It
+is important that it stays that way.
+Others need to act too.
+
+Bank of England
+
+Page 10
+
+Banks have an important role to play in reducing risks both to themselves and to the wider
+system from non-bank leverage.
+That starts with information. As seen with Archegos, imperfect information on overall
+positions leads to inadequate risk management. So a first step is for lenders to require
+greater transparency of hidden leverage taken by their counterparties. Prime brokers
+should have access to data on a fund’s overall leverage, not just the portion to which they
+have contributed, just as banks ask household borrowers about their student loan
+repayments and credit card debts when issuing a mortgage.
+Banks, like their non-bank clients, need also to improve their stress testing to include
+better understanding of market dynamics and structural shifts that might change
+correlations and norms.
+Banks need to develop a laser like focus on wrong-way risk, where the value of collateral
+held as security falls in the very situation where the counterparty defaults. And to consider
+if attempts to realise collateral might further add to negative price dynamics.
+Stress testing is also needed across sectors to understand how correlations in risk
+exposure can lead to correlated behaviours in stress. And stress tests need to account for
+institutional structures, governance and processes for liquidity management, to capture
+examples like the LDI event above, where DB schemes had assets available but were
+simply unable to get them to where they needed to be quickly enough.
+Bank supervisors can play a role in limiting the risks from leverage in the non-bank system
+to the core financial system through strengthening of risk management practices of dealer
+banks and prime brokers. My supervisory colleagues are indeed taking steps to ensure
+this. 13
+Let me turn finally to the steps financial stability authorities are taking.
+And where, unfortunately for the policy community, the challenges we face are complex,
+reflecting the large number and variety of institutions involved, and as the system of
+market-based finance is global, meaning effective reform needs to be co-ordinated across
+jurisdictions.
+The FPC has put vulnerabilities in the non-bank financial system at the core of its work in
+recent years.
+
+13
+
+The Bank and the FCA have sent Dear CEO letters to firms following the default of Archegos and
+conducted a supervisory review of global equity finance businesses. This requires relevant firms to carry out
+a systematic review of the business strategy and organisation and financial risk management controls and
+governance. And the Bank put out a consultation on supervisory expectations for contingent leverage
+within banks’ ICAAP assessments and new requirements of its reporting.
+
+Bank of England
+
+Page 11
+
+That has included work on the specific issues of leverage and liquidity of LDI strategies,
+which was assessed with a stress simulation in 2018, and which led to further close work
+with the Pensions Regulator and the Financial Conduct Authority14 to enhance
+understanding of financial stability risks, enhance monitoring and inform further work.
+The vulnerabilities in market-based finance that the FPC had articulated were exposed in
+dramatic fashion in the ‘dash for cash’ in the early stages of the Covid pandemic.15 That
+gave additional momentum to this work. And there has been some progress in recent
+years, on the regulation and monitoring of the non-bank sector16, particularly relating to
+liquidity mismatches in MMFs and OEFs. 17
+The international community has made less progress in addressing the risks from nonbank leverage.
+The international nature of leveraged investors requires a firm response by the global
+regulatory community to assess those risks and develop policy solutions. And the UK’s
+recent experience is a timely reminder of the risks here. So in the final minutes I will zone
+in on the actions relevant to this issue.
+Let’s start with transparency, where it is vital that regulatory authorities have sight of
+leverage building up in the system, and what that means for resilience.
+That requires better regulatory disclosures for non-banks and investment in monitoring
+capabilities.
+The Bank has access to transaction-level data from regulatory datasets18 which we use to
+monitor the build-up of systemic risks stemming from leverage in the non-bank system. We
+also run surveys that provide information on exposures to hedge funds.
+But these provide only a partial view of portfolio leverage: either because they do not
+provide a link between borrowing and investment activities; or because we only see part of
+
+14
+
+TPR regulates pension schemes; the FCA regulates LDI managers.
+See Building Financial Market Resilience: From diagnosis to prescription – speech by Jon Hall
+16 This progress has been led by the FSB, with the involvement of international standard setting bodies. The
+FSB has set out its analysis of non-bank risks and a programme of work last year and is due to report on
+next steps soon. Through the work of the Financial Policy Committee and the Bank more widely (including
+Governors’ participation in the FSB), as well as the FCA, the UK has been actively engaging with this
+programme.
+17 For example, see the FSB’s publication of a framework on MMF resilience in 2021, and subsequent UK
+Discussion paper. On OEFs, we strongly support global policy actions to increase resilience, and look
+forward to the upcoming FSB proposals to address vulnerabilities arising from liquidity mismatch.
+18 Specifically, the European Market Infrastructure Regulation (EMIR), Sterling Money Market Daily data
+(SMMD) collection, and MiFID II.
+15
+
+Bank of England
+
+Page 12
+
+the portfolio due to non-banks’ multi-jurisdictional presence; or because the data are
+simply not sufficient to assess the risk of leverage.19
+Given the global nature of non-bank business models, it is essential that transparency and
+data availability are enhanced through international efforts, and that authorities have the
+right metrics to assess the risks of leverage.20 It is encouraging to see progress being
+made, for example by the SEC.21
+Beyond improving transparency, regulators will need to consider how best to ensure
+leverage is well managed. These could, for example, include broad market-wide measures
+such as market regulations to ensure excessive leverage is better controlled by market
+pricing and margins.
+Some international work is underway. The BCBS-CPMI-IOSCO margin group has
+published its final report on margin practices.22 The report recommends policy work in six
+areas23 – including increasing the transparency and predictability of margin calls,
+evaluating their responsiveness to stress, and enhancing liquidity preparedness by
+clearing members and non-banks. As part of the ‘next steps’, there is already work
+underway evaluating the responsiveness of cleared and uncleared margin models.
+Finally, there are important questions about the role of central bank balance sheets.
+In a number of recent events, central banks have had to intervene in size, using public
+money, to remove the threats to financial stability. Providing backstop liquidity insurance
+when tail risks to financial stability crystallise is a core part of central banks’ job. And the
+FPC has discussed the importance of examining whether central banks should have
+facilities to provide liquidity to a wider set of financial market participants in stress.
+But central banks cannot be a substitute for the primary obligation of market participants to
+manage their own risk, or for internationally co-ordinated reforms that enhance the resilience
+of the non-bank financial sector.
+For that reason, such facilities must be carefully targeted on the financial stability
+vulnerability at hand, and designed in ways that incentivise the right private sector
+
+19
+
+To assess the risk of leverage we need balance sheet metrics (e.g. notional) as well as risk and liquidity
+measures. (see NBFI leverage deep dive, November 2018 FSR)
+20 The Bank highlighted the need for developing consistent leverage metrics in its public response to
+IOSCO report on leverage.
+21 See SEC Proposes to Enhance Private Fund Reporting
+22 See Review of margining practices
+23 The 6 areas for policy work are: increasing transparency in centrally cleared markets; enhancing liquidity
+preparedness of market participants; identifying data gaps in regulatory reporting; streamlining variation
+margin processes in centrally and non-centrally cleared markets; evaluating the responsiveness of both
+centrally cleared and non-centrally cleared initial margin models to stress.
+
+Bank of England
+
+Page 13
+
+behaviours, incuding reducing incentives for excessive risk taking in the future.24 My
+colleagues in our Markets area have been considering these issues,25 including with
+colleagues internationally26 – and a number of these principles were implemented in our LDI
+interventions.
+
+Conclusion
+Events of recent weeks, months and years have once again reminded us of the systemic
+risks posed by poorly-managed leverage in the non-bank financial system.
+All too often excessive risk taking alongside improper liquidity risk management has
+threatened conditions in the real economy - an issue that feels especially pertinent in the
+current environment of high volatility and tightening financial conditions.
+Lessons must be learned from these episodes, most importantly by non-banks
+themselves, but also by: their counterparties; market infrastructure; their regulators; bank
+supervisors; central banks; and the global regulatory community as we continue our global
+efforts to ensure the resilience of the system of market-based finance.
+Transparency is an important first step. That enables the necessary next step of ensuring
+non-banks’ positions and interlinkages with the rest of the financial system can be
+comprehensively stress tested and understood in a system-wide manner.
+Non-banks themselves can use that understanding to increase their resilience and liquidity
+preparedness. Dealer banks and prime brokers equipped with better data on clients’
+overall leverage and positions can strengthen their risk management. Given the need for a
+macroprudential perspective, our journey to better resilience of market-based finance must
+not end there.
+
+I’d like to thank Renée Horrell for assistance in drafting these remarks. I would also like to
+thank Naoto Takemoto, Gerardo Martinez, Pelagia Neocleous, David Baumslag, Pierre
+Ortlieb, Konstantin Wiemer, Edd Denbee, Daniel Wright, Will Rawstorne, Niki Anderson,
+Andrew Hauser, Lee Foulger, James Talbot, Sasha Mills, Jon Relleen, Andrew Bailey, Jon
+Cunliffe and Carolyn Wilkins for their helpful input and comments. The views expressed
+here are not necessarily those of the Financial Policy Committee.
+
+See Financial Policy Summary and Record – October 2020
+See From Lender of Last Resort to Market Maker of Last Resort via the dash for cash
+26 See Market Dysfunction and Central Bank Tools
+24
+25
+
+

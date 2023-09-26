@@ -1,0 +1,570 @@
+Unemployment and the conduct of monetary policy in the UK
+Speech given by
+Ben Broadbent, Deputy Governor for Monetary Policy, Bank of England
+
+At the Federal Reserve Bank of Kansas City 38th Economic Symposium, Jackson Hole,
+Wyoming
+
+23 August 2014
+
+I would like to thank Alina Barnett and Richard Windram for research assistance and I am also
+grateful for helpful comments from other colleagues. The views expressed are my own and do not
+necessarily reflect those of the Bank of England or other members of the Monetary Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+It is now almost half a century since Milton Friedman’s presidential address to the AEA. Yet it must still
+count as the single most influential paper about the conduct of monetary policy.
+
+It didn’t hurt – it didn’t hurt Friedman’s case, that is – that, within only a few years, inflation had risen
+significantly. This was particularly true in the United Kingdom where, despite higher unemployment, CPI
+inflation and nominal wage growth rose to over 25% in 1975 (Chart 1).
+
+Rapid inflation had effects far beyond the way monetary policy was run. Coupled with a rapid deterioration in
+the budget deficit, it made it increasingly difficult to fund the UK’s external balance; this led, the following
+year, to the necessity of IMF support. The government duly lost the next general election.
+
+The inflation of the 1970s also shook to the core the belief that output was determined solely by aggregate
+demand and that supply constraints only ever applied in some far-off “long run”. Inverting Keynes’s famous
+aphorism, William Simon, US Treasury Secretary in the Ford administration and closely involved in the UK’s
+negotiations with the IMF, said this: “It’s Keynes who is dead and now we’re stuck with the long run”.
+
+But the implications for the conduct of monetary policy were equally profound. The basic lesson that policy
+was, in the end, neutral, and should restrict itself primarily to some nominal target – Friedman had suggested
+that any of “[the] exchange rate, the price level and the quantity of a monetary total” would do – was
+accepted.
+
+In fact, in Britain we were apparently so enamoured of his suggestions that we then proceeded to try all
+three. Targets for broad money growth were introduced in 1976 and, in one form or another, lasted until
+1987. The government then began covertly to stabilise the exchange rate – a policy later known as
+“shadowing” the Deutschmark – and, in 1990, sterling formally entered the European Exchange Rate
+Mechanism. When that two-year experiment proved only a little more successful than Britain’s return to gold,
+seventy years earlier, we eventually settled on an inflation target.
+
+And at no point during this journey was it suggested that any real variable should have equal status to the
+nominal objective. After the inflation of the previous few years, the very idea that monetary policy might be
+used to “manage demand”, on an ongoing basis, was anathema.
+
+If that was true of real things in general, it applied that much more strongly to unemployment, because here
+there seemed to be the added problem that the level you might want to aim for – the natural rate – wanders
+about over time. Chart 1 plotted the bare numbers for unemployment and wage growth. Chart 2 does the
+same but subtracts from wage growth a measure of inflation expectations, based first on a model and then
+1
+
+on the spread between the yields on conventional and indexed government bonds . You can see that, at
+1
+
+Yields on indexed bonds, and the spread to those on conventional bonds, are available from the mid-1980s. Taking account of the
+empirical relationship between the two after that date, the inflation expectations series before that is constructed by the National Institute
+for Economic and Social Research.
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+least until the early 1990s, it’s hard to make out any sort of Phillips curve relationship even on an
+“expectations adjusted” basis.
+
+This is not to say the authorities didn’t care about real economic outcomes. It was because they did so that
+sterling left the ERM. Though clearly junior to the inflation target – they were to be pursued only “subject to”
+price stability – the mandate for the newly independent Monetary Policy Committee, in 1997, said the MPC
+should also concern itself with “the government’s objectives for growth and employment”.
+
+And under inflation targeting, UK monetary policy has, in fact, been responsive to real developments. At
+least until the financial crisis, there was a very close correlation between short-term interest rates and
+economic growth. Chart 3 is one way of representing this relationship. The blue line is a survey-based
+measure of private-sector GDP growth; the red line isn’t actual changes in official interest rate but, as a
+smoother proxy for those changes, the average vote on the Monetary Policy Committee.
+
+Controlling for output growth, however, there is little else that seemed to matter for policy. In particular, there
+has been no identifiable response, at the margin, to labour market developments.
+
+What I want to do in this talk is to explore why that was the case; why then, in 2013, the MPC then chose to
+condition policy explicitly (if loosely) on unemployment, in the initial phase of forward guidance; and how
+things have progressed since then. I will finish with some more general observations.
+
+A stable Phillips curve?
+
+As I say, given the apparent volatility in the natural rate of unemployment during the 1970s and 1980s, it’s
+perhaps understandable that the monetary authorities should pay little attention to the labour market. But as
+unstable as the unemployment/inflation relationship had been prior to the early 1990s, what’s striking is how
+stable it has been since then. Chart 4a plots unemployment against expectations-adjusted wage growth,
+using annual data between 1993 and 2012. The R2 is 0.8.
+
+In fact, not only is it stable within this sample, the relationship is also remarkably similar to the one that
+Phillips himself identified in the period from 1861-1913, the last half-century of the classical gold standard.
+
+As he discovered, this was the only period in the pre-1957 data over which a reliable relationship between
+unemployment and wage growth had existed. After the start of the First World War, and the suspension of
+the gold standard, it broke down. He attributed this to shifts in sterling import prices, as if the exchange rate
+could somehow be considered independently of domestic monetary policy. Friedman said it was the result of
+volatile inflation expectations.
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+At any rate, in Chart 4b the dots for the 1861-1913 period have been added (in blue) to those from the
+post-1992 sample. We can’t formally adjust them for movements in inflation expectations. With the price
+level pinned down by the real value of gold, however, it’s probably reasonable to assume that inflation
+expectations were relatively stable and, on average, close to zero2. So it seems to be the case that both the
+intercept and the slope of this line are very close to those that prevailed 100-150 years ago. The two fitted
+lines are statistically indistinguishable.
+
+We should not draw too strong a conclusion from what is, arguably, just one independent observation. Nor is
+there only one interpretation of what the wage-unemployment relationship represents. In classical
+economics it’s an inverted short-run labour-supply curve. In some Keynesian models3, including those used
+by some central banks, it’s the result of some wage bargaining process, in which unemployment is the
+“disciplining device” that ensures that actual and warranted real pay growth are in line. Under this approach,
+the relationship in Chart 4a can be written as
+∗
+
+where
+
+is nominal pay growth,
+
+expected CPI inflation,
+
+̅
+∗
+
+the natural rate of unemployment and the
+
+intercept ̅ some employee “norm” for real pay increases. Unit cost growth for firms, expressed in consumer
+prices, is
+
+∗
+
+, where
+
+productivity growth
+
+∗
+
+is the warranted level of real pay growth (the sum of underlying
+
+and terms of trade gains for consumers – i.e. the rate of decline in real consumer
+
+prices).
+
+Inflationary pressure therefore develops – unit costs accelerate – if unemployment falls below the “short-run
+NAIRU” (as distinct from the natural rate of unemployment), defined as
+∗∗
+
+∗
+
+̅
+
+∗
+
+/
+
+This could happen either in response to a pure increase in demand, depressing the actual level of
+unemployment; it could also happen if, for given unemployment, a hit to warranted real wages – from lower
+productivity, for example, or via a reduction in the terms of trade – isn’t immediately accepted by workers
+(i.e. if
+
+∗
+
+falls but there is no matching decline in ̅ ). So, at least in the short run, there’s a degree of
+
+resistance in real pay, implying that negative supply disturbances are inflationary.
+
+2
+
+Gold discoveries kept pace with growth in the demand for currency in the gold standard countries over that 50-year period and,
+ex post, realised inflation averaged 0.1% a year. This doesn’t mean that expected inflation was always zero – gold discoveries were
+intermittent, and if they were also unanticipated, people would presumably have expected a degree of deflation over time (Eichengreen
+and Sussman (2000)). But the assumption that expected inflation was zero – that the best guess for the real price of gold tomorrow is
+the real price of gold today – probably isn’t a bad approximation.
+3
+The key assumption of New Keynesian models of the wage Phillips curve is a degree of stickiness in nominal pay. With
+forward-looking behaviour, the resulting relationship for wage growth cannot in general be reduced to something as simple as described
+here – for example, it will depend on the entire future of inflation, not just its value one period ahead. And, depending on whether or not
+there are also rigidities in real wages, the intercept term may or may not respond to changes in productivity. The particular description
+here is close to that of Layard, Jackman and Nickell (2005).
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+Not all Keynesian models involve real rigidities of this sort. Even when they do, ̅ is often generated via a
+model of frictional job search, and there is no necessary reason – in the face, say, of a permanent slowdown
+in productivity growth (fall in
+
+∗
+
+) – to expect a matching decline in ̅ , even in the long run. But it’s worth
+
+noting here that, were that to happen, it would look just like a reduction in the underlying natural rate of
+unemployment: the curve would shift downwards. I will return below to the effects of a reduction in the
+established “norm” for real pay increases.
+
+Whatever the correct interpretation of Chart 4b, however, I do think it’s interesting that the recent relationship
+matches so closely what was apparent in the data over a century ago, not least because these happen to be
+the only two periods during which UK inflation has been broadly stable (Chart 5). This bears out Friedman’s
+main point. It may do more than that. Even on an “expectations adjusted” basis, the Phillips curve looks
+quite unstable prior to 1992 (Chart 2). So perhaps the volatility of inflation has some bearing on the key
+parameters
+
+∗
+
+and
+
+4.
+
+And whether or not that’s true, the recent stability of the wage/unemployment relationship also makes one
+wonder why UK monetary policy has not, apparently, made more use of it – why, for a long time, interest
+rates were responsive to real output but not, at the margin, to unemployment or wages.
+
+Output trumps employment, as an indicator, when supply is stable
+
+The first point to make is a simple one: if the only significant disturbances are to aggregate demand, output
+growth is probably at least as good an indicator for an inflation targeter as the change in unemployment. As
+long as there’s a reliable link between the two – some version of “Okun’s law” – you probably don’t need to
+observe both. In fact, if – in response to a demand disturbance – output moves before employment, it’s
+positively superior. Given the perceived lags between changes in policy and their effects on the economy,
+there’s a premium on acting promptly. So if there’s also a delay before employment reacts to cyclical
+movements in output, why bother to wait to see it? You may as well get a move on and act as soon as you
+see a shift in output growth.
+
+At least if you’re prepared to interpret all cyclical movements in this way, as the result of demand
+disturbances, this isn’t a bad description of the UK data. There’s a clear tendency for employment to move
+later than output over the cycle (Chart 6; note that there is no such delay in US data – in the US equivalent to
+this chart the two lines move coincidentally).
+
+A world with only demand-type shocks therefore allows for slightly better inflation control. It is also a pretty
+comfortable one to live in, as a monetary policy maker, as it doesn’t involve any conflict between the nominal
+
+4
+
+It might even suggest that other potential determinants of these parameters, labour market institutions, for example, have actually
+varied by less or are less important than the volatility of inflation.
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+and real objective. Leaning against demand disturbances is good for welfare directly; because they push
+output and inflation in the same direction, such a policy also stabilises inflation.
+
+This can be true in the presence of supply disturbances as well. Any model in which the “output gap” in the
+central bank’s objectives is the same “output gap” that causes inflation has this property. In the set-up
+above, for example, it would apply if the real objective were to stabilise unemployment around the natural
+rate and if there were no resistance in real wages ( ̅
+
+∗
+
+at all times). In that case, productivity
+
+disturbances are immediately (and appropriately) absorbed into output, with no implications for inflation, and
+the notion of a “dual mandate” becomes moot: it collapses into a single objective to keep the economy
+“close to potential” or inflation “close to target”. Either would do.
+
+Olivier Blanchard and Jordi Gali (2008) have described this as the “divine coincidence”. They point out that
+it’s a general property of New Keynesian models with sticky prices but without real rigidities5. The first
+assumption means monetary policy has real effects, offering the potential, at least, of a trade-off between the
+authority’s real and nominal objectives; the second means there is never any reason to exploit this trade-off.
+As I explained, not all central bank models are like this: some do allow for real rigidities ( ̅
+
+∗
+
+, at least in
+
+6
+
+the short run ). However, because there are assumed to be lags before it takes effect, what’s relevant for
+current policy is not so much the fact that such rigidities exist, or even whether supply-type disturbances
+have had identifiable effects on inflation in the past, but whether you expect them to persist into the future.
+
+In many instances, I think monetary policy makers – including the pre-crisis MPC – have in practice acted as
+if this was not the case. They’ve tended to assume that the best prediction of (the consumption value of)
+supply over the future, at policy-relevant horizons, is that it will grow at some steady rate. For example,
+jumps in oil prices, which reduce the real value of work, are assumed to be one-off changes. Any effects on
+inflation and output will therefore have dissipated before policy can do anything about them. Similarly, the
+usual practice has been to assume that variations in underlying productivity growth are temporary: over the
+future, the most reasonable thing to expect is some trend rate of growth.
+
+What this means is that the best forecast of
+
+∗
+
+has normally just been a constant. It’s therefore also
+
+reasonable to assume, at least over the future, that ̅
+
+∗
+
+. Operationally, real rigidities are thereby defused
+
+and the “divine coincidence” re-introduced. Because they are the only things assumed to persist for any
+length of time, the policy maker can act as if the economy is driven mainly by demand-type shocks. Thus
+there are no meaningful trade-offs between the nominal and real objectives: stabilising inflation around its
+target and the real output at its welfare-optimising level are the same thing. Nor does it make sense to wait,
+5
+
+Real rigidities are sufficient to break the “divine coincidence”. Whether they are necessary is partly a matter of semantics. Erceg et al
+(2000), for example, do not explicitly model frictions in the determination of real wages. But because they consider separately
+(and exogenously) the degree of nominal rigidity in wages and prices, there is implicitly a degree of real-wage stickiness built in. The
+divine coincidence does not apply, except if the central bank happens to care about some particular weighted average of wage and
+price inflation.
+6
+Hysteresis, the dependence of the NAIRU on actual changes in unemployment, provides another potential source of real rigidities.
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+when confronted (say) with stronger output growth, to see whether that’s later confirmed in the labour market
+data by a fall in unemployment: you might as well react straightaway.
+
+This is something of a caricature. But I think it helps to explain why the MPC was historically more sensitive
+to output than employment data. And who’s to say that was the wrong thing to do? Chart 7 plots the growth
+of the consumption value of work, averaged over 5-years periods, from the late 1960s. At least until the
+financial crisis, it did appear to grow at a relatively stable rate. As regards the ultimate objectives, inflation
+and output growth were both far more stable during the inflation targeting era (and until the crisis) than in
+earlier periods, and even than in other countries (Chart 8).
+
+Uncertainty about productivity and the value of labour market data
+
+That’s certainly not been the case since the crisis. Labour productivity has stagnated: it is no higher now
+than it was five years ago. During that time, and for a variety of reasons, the real price of consumption
+(i.e. relative to output prices) has risen significantly. The resulting squeeze on average real pay contributed
+to a simultaneous rise in both inflation and unemployment.
+
+Inevitably, it has also made the MPC much more uncertain about its projections for potential growth.
+Whatever the true explanation for the collapse in productivity growth over the past few years – and the
+suggested explanations are legion7 – the fact of it can only make one less confident about any forecast of
+productivity growth over the next few years.
+
+It is this, I think, that made the MPC more prepared to take into account data from the labour market, as they
+give one a better steer about the evolution of spare capacity than output growth alone. Suppose, for
+example, the policy maker sees strong economic growth. This may turn out to require extra resources,
+including higher employment, in which case – and unless that employment is itself met by extra supply – it is
+likely to add to inflationary pressure.
+
+But it may not: it’s also possible the upturn is being accompanied by faster productivity growth, in which
+case it would be wrong to tighten policy. So, even if you have to wait a while to get it, information from the
+labour market becomes more valuable the less certain one’s estimate of underlying productivity growth.
+
+Chart 9 helps get this point across. Derived from a very simple, stylised model, it plots the optimal weights
+one should put on output and unemployment, as indicators of spare capacity, according to the degree of
+8
+
+uncertainty about supply growth . The model builds in some delay between demand-type shocks and their
+impact on employment. So when there’s no uncertainty about supply the labour market data have no value
+(given the observation of output growth). But their significance grows as supply uncertainty does so.
+
+7
+8
+
+See Barnett et al. (2014) for a summary
+The model is described in Broadbent (2013).
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+Where are we now?
+
+It is, as I say, a very simple model. In particular, it assumes there is no uncertainty about the link between
+unemployment and wage inflation. But it helps get the point across, and it was in this context, one year ago,
+that the MPC conditioned its “forward guidance” on the rate of unemployment. Subject to two “knock-outs”
+involving inflation expectations, the Committee said it would not make any alteration to official interest rates
+at least until unemployment had fallen below 7%. The rate was closer to 8% at the time and, projecting
+faster growth of productivity, and a deceleration in employment, we thought it would probably take some time
+– more than two years – to get to that threshold.
+
+We were wrong: employment grew significantly faster than we’d expected and, despite material rises in
+participation, unemployment reached 7% only eight months later.
+
+And yet, at the same time, nominal pay growth has been much weaker than we expected. So far this year,
+and after subtracting inflation expectations, average pay growth is almost 2% points – more than four
+standard deviations – weaker than the 1993-2012 regression line (Chart 10).
+
+Some of this weakness could well be unwound later in the year: labour market surveys point to skills
+difficulties in some areas, and to faster growth in the official earnings series in the months ahead. But it’s
+also possible that, despite its stability over recent years, the line has shifted downwards. At least according
+to the model I described earlier, this is what would happen if the “norm” of pay growth gradually adjusted to a
+protracted period of low productivity growth. What first pushed the economy rightwards along a given Phillips
+curve – the inflationary consequences of weak productivity were only contained via higher unemployment –
+has eventually just pushed that curve downwards, as people have become more adapted to lower pay
+awards.
+
+If this were true, then the upturn in the UK would indeed have been accompanied by an expansion of supply,
+as anticipated a year ago; it’s just that it’s the effective supply of labour that’s risen, not labour productivity.
+
+Summary
+
+In a paper some years ago, Tom Sargent and co-authors suggested that the empirical, reduced-form Phillips
+curve only appears when the monetary authority resists the temptation to exploit it. The UK experience looks
+like this. The only periods in which you can find a stable empirical relationship between unemployment and
+wage growth – and this is true even over periods when you can adjust wages for changes in inflation
+expectations – are those with a clear nominal anchor that takes preference over any real objective: the gold
+standard and, almost a century later, the inflation target. Somewhat uncannily, it’s pretty much the same
+empirical relationship.
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+Well aware of Friedman’s original point, and burned by the inflation of the 1970s, UK monetary policy has
+rarely made any reference to unemployment since then, whether as a target or even as an indicator variable.
+In practice, however, the pre-crisis MPC appeared to have the best of both worlds. Because the world
+seemed to be one of stable supply and cost growth, stabilising inflation and stabilising the real economy
+amounted to the same thing. And the reason the labour market data were avoided had less to do with any
+nervousness about tempting the inflationary fates, by being seen to exploit the Phillips curve, more with the
+simple fact that they lagged output over the cycle.
+
+When productivity growth is no longer so predictable life is a little trickier. The “divine coincidence” between
+real and nominal stabilisation may no longer apply. And the output data are no longer sufficient statistics for
+inflationary pressure: even if you have to wait a while to see them, movements in unemployment become
+important too. Indeed, as we’ve discovered over the past year or so – both in the UK and possibly in the US
+– if labour supply can also vary, you need to consider the wage numbers too. This isn’t costless: because
+the labour market movements apparently take longer to appear, over the cycle, there’s now a trade-off
+between the accuracy of the information about inflationary pressure and its timeliness.
+
+It also makes it harder to communicate publicly what matters for policy. But that is a fact of life. Credibility
+depends on the attachment to the ultimate objectives – primarily the inflation target, in the case of the UK –
+not to any particular feedback rule. It would be nice to live in a simple, stationary world, in which unchanging
+objectives meant unchanging operational rules for policy. It would be nicer still if potential output in particular
+always moved in a predictable fashion. In the meantime, we have little option but to say what central
+bankers have always said, that meeting the inflation target depends on a “range of indicators”.
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+References
+Barnett A., S. Batten, A. Chiu, J. Franklin and M. Sebastia Barriel. 2014. “The UK productivity puzzle”.
+Bank of England Quarterly Buletin, Vol. 52. No. 2. Pages 114-28.
+Blanchard O. and J. Galí. 2008. 'Labour market and monetary policy'. Journal of Money, Credit, and
+Banking, No. 39, pp. 35–65.
+Boyer G. and T Hatton. 2002. “New Estimates of British Unemployment, 1870-1913”, The Journal of
+Economic History, Vol. 62, No.3.
+Broadbent B. 2013. “Conditional guidance as a response to supply uncertainty”, speech given at the
+London Business School available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2013/speech678.pdf
+Eichengreen B. and N. Sussman. 2000. “The International Monetary System in the (very) long run”, IMF
+Working Paper No 43.
+Erceg C., W. Dale and W Henderson. 2000. “Optimal monetary policy with staggered wage and price
+contracts”, Journal of Monetary Economics, Volume 46, Issue 2, October 2000, Pages 281–313
+Friedman M. 1968. “The role of Monetary Policy”, Presidential address delivered at the Eightieth Meeting of
+the American Economic Association.
+Nickell R, S. Jackman and Richard Layard. 2005. “Unemployment: Macroeconomic Performance and the
+Labour Market”, Oxford University Press
+Sargent T., N Williams and T. Zha. 2006. "Shocks and Government Beliefs: The Rise and Fall of
+American Inflation. " American Economic Review, 96(4), Pages 1193-1224.
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+Chart 1: Inflation rose rapidly in 1970s, despite
+
+Chart 2 No discernable Phillips curve even on an
+
+higher unemployment
+
+“expectations adjusted” basis
+
+Source: ONS
+
+Source: ONS, Bank of England and National Institute for Social and
+Economic Research (NIESR)
+Note: NIESR inflation expectations before 1985 and 3 year implied
+forward inflation after.
+
+Chart 3 Close correlation between short-term rates and
+economic growth under inflation targeting
+
+Source: ONS, CBI, Markit Economics, Bank calculations
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+Chart 4a Stable wage Phillips curve, 1993- 2012
+
+Chart 4b Close to that during gold standard
+
+Source: ONS and Bank of England
+Note: AEI until 2010 and AWE since; inflation expectations as implied
+by indexed gilt market.
+
+Source: ONS, Boyer and Hatton(2002) and Hills, Thomas, Dimsdale
+(2010)
+Note: AEI until 2010 and AWE since; inflation expectations as
+implied by indexed gilt market.
+
+Chart 5 These are the only protracted periods of
+
+Chart 6 Cyclical movements in output predate
+
+stable inflation in the UK
+
+those in employment
+
+Source: ONS and Hills,Thomas, Dimsdale (2010)
+
+Source: ONS and Bank calculations
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+Chart 7 Supply growth stable before crisis, non-
+
+Chart 8 Pre-crisis economy more stable under
+
+existent since
+
+inflation targeting
+
+Source: ONS
+* Consumer prices/ output prices, average rate of decline.
+
+Source: ONS, Eurostat and Bank of England
+
+Chart 9 Greater uncertainty about supply means
+
+Chart 10 Recent wage growth much weaker than
+
+unemployment a more valuable indicator for policy,
+
+expected
+
+output growth less so
+
+Source: Broadbent (2013)
+
+Source: ONS, Bank of England, NIESR and Hills, Thomas,
+Dimsdale (2010)
+Note: AEI until 2010 and AWE since; inflation expectations as
+implied by indexed gilt market; 2014 diamond is for H1.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+

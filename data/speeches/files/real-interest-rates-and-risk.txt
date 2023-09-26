@@ -1,0 +1,2127 @@
+Real interest rates and risk
+Speech given by
+Gertjan Vlieghe, External MPC member, Bank of England
+
+Society of Business Economists' Annual conference, London
+15 September 2017
+
+This speech is based on joint research with Rodrigo Guimaraes. I would like to thank
+Yad Selvakumar, Clare Macallan, Silvana Tenreyro, Michael Saunders, Thomas Belsham, Julia Giese
+and Matt Waldron for help and insightful comments
+1
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+1. Introduction
+
+Today I want to delve deeply into the history of short term real interest rates and equity prices in the UK.
+My main motivation for doing so is to try and gain some insight into what drives the equilibrium level of real
+interest rates. This is key in understanding where interest rates might end up in the coming years and why,
+and will help us gauge to what extent current levels of interest rates are unusual or even “unprecedented”.
+Adding a second asset price, equities, to the analysis gives us an important extra dimension along which to
+verify our story: a simultaneous explanation of both real rates and equities is more convincing than an
+explanation of real rates alone.
+
+As I have discussed in previous speeches, in the pre-crisis decade many central bankers and central bank
+observers thought of the equilibrium level of real interest rates as being broadly constant. The level in the UK
+was thought to be around 3% real, or 5% nominal (3% real rate + 2% inflation target), give or take a
+percentage point. Once short-term shocks to the economy dissipated, this was the level that interest rates
+were expected to return to.
+
+Based on my long run analysis I will argue that it is misleading to think of the medium term equilibrium real
+1
+
+rate as a constant. Real interest rates move around a lot, and those changes can be persistent. Changes
+have been driven by both nominal factors, e.g. what the central bank targets and how credible it is, as well as
+real factors, e.g. the structure of the economy and the financial system.
+There is therefore no “normal” level of interest rates. In history, we have had high interest rate regimes and
+low interest rate regimes, each of which lasted many years. Interest rates right now are neither at
+“emergency levels” nor at “unprecedented levels”. We are currently in a low interest rate regime, and we
+have been in such regimes before. Many find it disconcerting that it is so different from the high interest rate
+regime of the 1980s, but that regime was itself in many ways more unusual than the current regime.
+
+I will provide some theoretical arguments on what determines the equilibrium real rate, and I will provide
+some data and some model calibrations that suggest the theory matches the data rather well. This will be a
+two-step story. The first step is to understand that the equilibrium real rate depends on how risky the
+economy is, and that this riskiness changes over time. The second step, somewhat more speculative, is to
+try to understand why the riskiness of the economy may change.
+
+Crucially, the riskiness of the economy is not just determined by how volatile it is, but also by the extent to
+which booms and busts are asymmetric (the skew), and by the likelihood of outturns that are very far from
+the mean (kurtosis or fat tails). It turns out that the asymmetry of booms and busts, as well as the fatness of
+the tails, have changed significantly over the past few centuries: in the past century, business cycles have
+1
+
+Galesi, Nuno & Thomas (2017) discuss the various similar but slightly different concepts of equilibrium real rates and neutral rates.
+2
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+2
+
+th
+
+th
+
+become more asymmetric and more fat-tailed, relative to the gold standard era of the 18 and 19 century.
+And these changes can explain why equilibrium interest rates have shifted down significantly relative to the
+gold standard era, and why the equity risk premium has moved up.
+
+For the second step of the story, namely why the asymmetry and fatness of the tails have changed in the
+way the data show they have, I offer only a tentative answer. I suspect the increase in the importance of
+private sector debt and financial intermediation plays an important role, which in turn was facilitated by
+moving off the gold standard. An economy where debt and financial intermediation play a more important
+role can allocate resources more efficiently and achieve a higher growth rate, but also becomes more fragile.
+Small set-backs can have amplified downside effects and even lead to a financial crisis, while there is less
+scope for a large boom in an economy which already runs fairly efficiently.
+
+Lastly, I examine sub-periods of high and low real interest rates during the past century. I show that periods
+of low real rates coincided with high risk events: wars, breaks in the monetary regime, financial crises or
+some combination of these. And low real interest rate regimes have coincided with falls in the ratio of private
+credit to GDP, i.e. the private sector was deleveraging. I note that the deleveraging trend since 2010 seems
+to have come to an end, or at least a pause. That may be telling us that equilibrium real rates are now rising
+slightly, although other drivers of low real rates do not show any signs of turning yet.
+
+2. Long run history of short rates
+
+In this section I want to look at the properties of short-term real interest rates and equity returns over a very
+long period of time. The UK is a unique country to study because of its long history of having a central bank,
+its long history of having well developed capital markets, and good availability of financial and
+2
+
+macroeconomic data going back several centuries. I use the annual average of short term market rates as
+the short-term nominal interest rate, and subtract inflation to obtain a real interest rate.
+
+3
+
+Figure 1 shows the real short term rate and excess returns on equities since 1800. The next two charts in
+Figure 1 show the component parts of the real interest rate: the short-term nominal rate and the rate of
+inflation. As is immediately obvious, real short-term interest rates fluctuate in a wide range. There are peaks
+of nearly 20% and troughs of nearly -20%. The chart also shows clearly that the current level of real
+short-term interest rates is not unprecented. We have been here before, and even lower: for brief periods in
+th
+
+th
+
+the 19 century, and for several longer spells in the 20 century.
+
+2
+
+For very long run studies it is important to use a market rate, such as a commercial bill rate or interbank rate, rather than the policy
+rate. Since the implementation of monetary policy has changed over time, this changes the relationship between the policy rate and
+short-term market rates, i.e. the same policy rate can imply a different stance of policy over time, even in nominal terms.
+3
+The stylised facts highlighted here are robust to using either the GDP deflator or CPI, and using ex ante as well as
+ex- post real rates, proxied by different filters of inflation to capture inflation expectations. The charts and table show ex-post real rates
+using the GDP price deflator.
+3
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+3
+
+The rate of inflation behaved markedly differently in the early period of the sample, before WWI, compared
+with the later period of the sample. Inflation moved from being volatile but zero on average, with very little
+persistence, to being positive on average, with higher persistence. The most obvious explanation for this is
+the change in monetary regime.
+4
+
+5
+
+th
+
+Some version of a de-facto gold standard prevailed until WWI, while in most of the 20 century monetary
+policy instead targeted the exchange rate, monetary aggregates and the rate of inflation.
+
+Monetary policy in a gold standard regime is like a rigid price level target: a short bout of inflation is soon
+followed by a short bout of deflation, returning prices to their earlier level. Over long horizons, inflation is
+expected to be zero.
+6
+
+Other monetary frameworks end up implicitly or explicitly targeting a rate of inflation rather than the price
+level, and there is no mechanism that pushes the price level down quickly after a boost, or up quickly after a
+fall.
+
+But the change in monetary regime seems to have done more than just change the behaviour of inflation.
+Real interest rates were, on average, much higher during the gold standard than during the non-gold
+standard era. Conversely the return on equities was lower and much more stable during the gold standard
+period than during the non-gold standard period.
+
+I will examine in some detail what can explain this level shift in real interest rates and equity returns between
+the two eras. Thereafter, I will later take a more detailed look at the last century of data, focusing on the
+sub-periods of low real rates.
+
+3. Real Interest Rates in Theory
+
+To try and explain the different real interest rate regimes of the past, we need a theory of what drives real
+interest rates.
+
+Let me dispense immediately with a fairly deeply rooted, but wrong, notion in modern macroeconomics,
+namely that real interest rates are primarily driven by the growth rate of the economy. This relationship does
+
+4
+
+April and Lewis (1991) describe how, though Britain was under the bimetallic standard in the 18 th century, Sir Isaac Newton, then
+Master of the Mint, set the relative price of silver and gold at an unfavourable rate for silver such that market forces drove Britain to an
+effective gold standard. This was more-or-less the case until the Coinage Act of 1816, declaring the Gold Standard in Britain. Britain
+remained almost alone in the Gold Standard until 1870s, when the US, Germany and Britain permitted full and automatic convertibility
+between gold and currency, ultimately giving way to the international gold standard.
+5
+The UK returned to the gold standard from 1925 to 1931.
+6
+A fixed exchange rate regime targets the exchange rate, of course. But one could argue that, if real exchange rates are broadly
+constant over long horizons, such a policy implicitly targets the rate of inflation of the country against whose currency we are fixing our
+exchange rate. Targeting monetary aggregates is an indirect way to target the rate of inflation.
+4
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+4
+
+not hold in the data, and it does not even hold in theory! Yet the idea persists, because of commonly adopted
+– but misleading – practices in solving macro models.
+
+What follows is a brief tour of the finance theory of real interest rates. I realise it is a little terse for a central
+bank speech, but I want to illustrate that the misunderstanding about the strong link between real interest
+rates and growth does not come from bad theory, it comes from inappropriate simplification of good theory.
+This is actually a bit of economics and finance theory that works well, but only when applied correctly.
+
+Consider the deep foundation of most economics models, namely that people act to maximise their expected
+welfare, subject to a budget constraint and possibly other constraints. This is a key feature of Keynesian,
+New Keynesian, Classical, Neo-classical, Behavioural schools of economic thought. You can add or remove
+constraints, you can change how expectations are formed, but some version of this idea will be at the heart
+of all these models.
+
+The implication is that, in equilibrium, we can find the theoretical price of any asset as the discounted value
+of future payoffs. For an infinitely lived claim on a dividend stream {d t+1, dt+2,…} (e.g. equities) and discount
+factors {Mt,t+1, Mt,t+2,…} :
+∞
+
+𝑃𝑡 = 𝐸𝑡 [∑ 𝑀𝑡,𝑡+𝑖 𝑑𝑡+𝑖 ]
+𝑖=1
+
+The asset of interest to us is a risk-free one-period bond, whose price will be (the inverse of) the short-term
+real interest rate. With some manipulation (see appendix), it can be shown that the real interest rate is (the
+inverse) of the expected value of the discount factors. For example, the one-period risk free rate is the
+expected value of the discount factor for one period ahead:
+1
+𝑓
+
+1 + 𝑟𝑡
+
+= 𝐸𝑡 [𝑀𝑡,𝑡+1 ]
+
+Finance people call it the stochastic discount factor. Macroeconomists call it the intertemporal marginal rate
+of substitution. Two ugly labels for the same intuitive concept: the real interest rate depends on how people
+value the future relative to today.
+
+Now, to make a link back to the macro-economy, we need to make some assumptions about what drives the
+stochastic discount factor, or intertemporal marginal rate of substitution. An often-used assumption is that
+household welfare is well-described by a time-separable utility function (you can add up welfare across
+periods independently) for a representative agent (you can ignore differences between people).
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+5
+
+Using these assumptions we can link the stochastic discount factor to aggregate macroeconomic variables,
+namely consumption. For example
+
+7
+
+𝐸𝑡 [𝑀𝑡,𝑡+1 ] = 𝐸𝑡 [𝑒 −𝛿 (
+
+𝑐𝑡+1
+𝑐𝑡
+
+−𝛾
+
+) ]
+
+The representative agent step is already somewhat controversial. If heterogeneity across households
+matters, e.g. young vs old, rich vs poor, patient vs impatient, the stochastic discount factor will not just
+depend on aggregate macroeconomic variables, but on their entire cross-sectional distribution (of age, of
+8
+
+wealth, of patience). But let’s just see how far we can get with simple aggregates.
+
+To make it easier still for economists to solve their models, this highly non-linear equation is then linearised,
+and this is where the real trouble starts. Once linearised, what we are left with is a tight relationship between
+the real interest rates and growth, and nothing else.
+𝑐𝑡+1 − 𝑐𝑡
+𝐸𝑡 [𝑀𝑡,𝑡+1 ] ≈ 𝑒 −𝛿 − 𝛾𝐸𝑡 [
+]
+𝑐𝑡
+But this linearisation is hugely problematic. It kills off, mechanically, anything that might have been
+interesting about risk. Recall that we were trying to find what the theory says about the risk-free real interest
+rate. But in the linearised world, there is no risk-free real interest rate, as distinct from other interest rates.
+There is only THE real rate of return, and it is the same on short-term bonds, long-term bonds, equities,
+housing, and business capital.
+
+How do we make progress then? We do not linearise.
+
+A simple way forward, commonly used, is to assume a lognormal distribution of consumption, which makes
+9
+
+the non-linear model have a simple solution. Under such assumptions, the real interest rate depends
+positively on growth, but negatively on the volatility of growth. Empirically, Hartzmark (2016) shows that this
+volatility term is much more important than the growth term in explaining real interest rates over time. So the
+extended theory that includes the volatility of growth fits the data much better.
+
+10
+
+7
+
+The delta parameters is a pure time-discount preference (to capture the fact we are more or less impatient) and gamma controls the
+level of risk aversion (how much we dislike uncertainty).
+8
+In fact there is a lot of evidence that the differences matter – see Constantinides & Ghosh (2017) for a recent example of the role of
+distributional characteristics in explaining asset prices and further references. The importance of heterogeneity in explaining real interest
+rates was also highlighted in my earlier speech (Vlieghe (2016a)) that examined the importance of the debt, demographics and the
+distribution of income, which would not matter or would not exist in a representative agent framework.
+9
+There is a long tradition of using lognormal assumption in economics and asset pricing (see Hansen and Singleton (1983), Cochrane
+(2005), and Hartzmark (2016) for a detailed discussion.
+10
+Hartzmark (2016) shows this for the US and a panel of countries. Only for the UK does he not find significant results. We have found
+that this is entirely due to the Gold Standard period, in particular when the UK rejoined the Gold Standard in 1925 at the pre-WWI level
+which was too high and led to persistent deflation and high real rates in a period of high volatility. See Guimarães & Vlieghe (2017) for
+details.
+6
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+6
+
+But we want to go one step further, along the lines of Martin (2013). We do not want to restrict ourselves to
+lognormal distributions. We want to allow for shocks that are asymmetric, or skewed. And we want to allow
+for a world where extreme events occur more frequently than in a normally distributed world, i.e. the
+distribution has fat tails. The technical term for this is excess kurtosis.
+
+The details are in the appendix, but the key insight is that in a world that is asymmetric and fat-tailed, the
+entire distribution of consumption matters: the mean, the volatility, the skew (i.e. the asymmetry), the kurtosis
+(i.e. the fatness of the tails) and even higher moments as well.
+
+11
+
+The intuition is straightforward. Households especially value assets that pay off when they need the income
+the most: when the level of consumption is low. In a riskier world of higher volatility, there are more states of
+the world where consumption is very low. On average, households will therefore pay more for a safe asset,
+which pays the same return in all states. This mechanism depresses the risk-free rate when the volatility of
+consumption is higher.
+
+The reasoning carries over to higher moments of the distribution. If the shocks to consumption are negatively
+skewed, i.e. there is a higher chance of very bad outturns than very good outturns, households will again
+value a safe asset more highly, depressing the risk-free real interest rate. If the shocks to consumption are
+fat-tailed, so that extreme outcomes happen more frequently than a lognormal distribution would imply, again
+that leads to a lower risk-free real interest rate.
+
+We now have a theory that says that the short-term risk-free interest rate depends (negatively) on the
+riskiness of the economy, as well as (positively) on growth. And we can be quite precise in saying that a
+riskier economy is one that has one or more of the following: a higher volatility, a more negative skew, fatter
+tails.
+
+So far we have used this framework to analyse the risk-free short term interest rate. We can also use this
+framework to analyse the rate of return on equities. Equity returns are typically high when the economy is
+doing well, and low when the economy does badly. That is, equities pay off least when households need it
+most. To compensate for this risky feature of equities, average equity returns tend to be higher than returns
+on risk-free bonds. The difference between equity returns and risk-free returns is called the equity risk
+premium. The theory says that, the riskier the economy (higher volatility, more negative skew, fatter fails),
+the higher the equity risk premium (see Martin (2013)).
+
+4. Applying the theory: gold standard vs non-gold standard
+
+11
+
+The importance of skewness in asset pricing was recognised early on; see Krauss & Litzenberger (1976) for an extension of CAPM,
+and references therein for even earlier research on importance of skewness for choice under uncertainty. The importance of fat tails
+also has a long history in finance research and has recently been (re)popularized by Barro (2006, 2009) reviving the idea of rare
+disasters of Rietz (1988). Broadbent (2014) and Daly (2016) recently used the rare disaster framework.
+7
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+7
+
+Armed with our theoretical framework that risk-free rates depend negatively on risk, and that the equity risk
+premium depends positively on risk, we return to the data.
+
+Table 1 summarises various properties of the data, split into the gold standard and non- gold standard
+regimes.
+
+12
+
+The point I want to draw your attention to first is that real interest rates were, on average, 3.5% in the gold
+standard regime, much higher than the average of 1.6% in the non-gold standard regime (from which we
+also exclude the two world wars).
+
+Now note the growth rates of consumption
+
+13
+
+in the economy: 0.8% before, 2% after. Clearly, an interest rate
+
+theory based on growth alone fails spectacularly here because it goes the wrong way. This failure of the
+notion that interest rates are determined by growth has also been documented by Hamilton et al. (2016) and
+Hartzmark (2016), who show that the correlation between real interest rates and growth over time is usually
+insignificant and often has the wrong sign.
+
+But that is just a property of the overly simplified theory. The full theory of interest rates says that it should
+depend on risk, as measured by volatility, asymmetry and fat tails, as well as on average growth.
+
+The volatility of consumption growth rose only slightly from the gold standard period to the non-gold standard
+period, to 2.3% from 1.7%. But the asymmetry and the fatness of the tails moved quite drastically.
+Consumption growth became strongly negatively skewed in the later period, with a skew of -1.3, from a
+near-zero skew of -0.2 in the earlier period. And consumption growth became much more fat-tailed, with a
+14
+
+kurtosis of 8 in the later period, up from kurtosis of 2.4.
+
+To illustrate this same point, figure 2 shows a graph of the distribution of growth in the two periods: in the
+later period (in red), the distribution shifted to the right (higher average growth), but became more
+asymmetric (a higher chance of very low outcomes) and more fat-tailed.
+th
+
+So in the 20 century, economic dynamics became more negatively skewed, with more frequent outturns
+very far from average. These are risk characteristics that theory indeed predicts should lead to a lower real
+interest rate, but also to a higher equity risk premium. In the gold standard period, real equity returns were
+3.6%, roughly equal to the risk-free rate, so the equity risk premium was zero. In the non-gold standard
+period, real equity returns were 6.9% with a real risk-free rate of 1.6%, so an average equity risk premium of
+5.2%.
+12
+
+We use the sample for which consumption is available (from 1830). In the appendix we show that the aspects of the data highlighted,
+our stylised facts, are robust to different choices of sample that roughly correspond to before and after WWI. Importantly, they are not
+affected by the inclusion or not of the two world wars.
+13
+We focus on consumption because this is what our simple theory is based on. But the same patterns hold for GDP.
+14
+We report the excess kurtosis (in excess of 3, which is the kurtosis of the normal distribution).
+8
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+8
+
+Note that the theory does not just explain the direction of the changes in risk-free rates and equity returns, it
+can match the magnitude as well. Using a quantitative model
+
+15
+
+outlined in the appendix, we feed in a series
+
+of parameters that determine the volatility, skew and kurtosis of consumption growth to match the gold
+standard era data. For plausible parameters the model generates a 3% risk-free real rate and near 0% equity
+risk premium in this period, as shown in Table 2. We then change the parameters to match the post-WWI
+mean, volatility, skew and kurtosis of consumption growth and see how large a change in the risk-free rate
+and equity risk premium the model predicts. It turns out we can account for almost all of the drop in the
+risk-free rate and almost all of the rise in the equity risk premium, again shown in Table 2.
+
+16
+
+Our model
+
+17
+
+predicts a post-gold standard real rate of 1.8%, and an equity risk premium of 6.7%.
+th
+
+5. Multiple regimes in the 20 century
+
+So far we have explained the large change in gold standard era vs non-gold standard era interest rates and
+equity returns. But the non-gold standard era is not well-described as a single low-interest rate regime. The
+period contains multiple regimes, to which I now turn.
+
+I apply a regime-switching framework to the data.
+
+18
+
+This is a statistical model that tries to identify regimes of
+
+high, medium and low interest rates, and allows for different levels of volatility.
+
+Our regime classification method identifies four low interest rate regimes in the post-WWI period: the late
+1910s, the 1930-40s, the 1970s and the current post-financial crisis period, as shown in figure 3.
+The first three of these periods followed a change in the monetary regime.
+
+19
+
+After the monetary regime
+
+change, the late 1910s and 1970s were associated with a period of very high inflation (see figure 1). During
+1930-40s inflation was less high, but nevertheless higher than today or the gold standard period, and very
+volatile.
+
+In the 1910s and 1970s nominal interest rates were relatively high, while during the 1930-40s nominal rates
+were closer to zero, as they have been in the most recent decade.
+15
+
+The model follows the approach of Martin (2013) and Backus, Chernov and Martin (2011)
+Two things are worth noting about the calibration. First, this is not a story about the occurrence of extreme disasters for the non-Gold
+Standard period. The magnitude of jumps in our calibration are an order of magnitude lower than in Barro (2006) and match the
+observed distribution of consumption closely, thus not subject to the criticism of Julliard & Ghosh (2012), Chen et al. (2017), Backus et
+al. (2011) and Martin (2013) that the extreme disasters are impossible to estimate with the data, or the results of Muir (2017) that
+suggests disasters cannot explain variation in risk premia. Second, in the calibration we target a range for each variable given by the
+estimates of mean and median (to account for the effect of large outlier in small samples) across a number of sample periods, which are
+shown in the appendix. See further discussion of the calibration in the appendix.
+17
+The whole sample correlation between growth and real rates is near zero. Once we account for a level shift, such as from higher risk
+seen in the data, there is a low frequency correlation between real rates and growth rates in the post-WWI period. Moving sample
+estimates of skewness and volatility also correspond to low frequency movements in real rates as predicted by theory.
+18
+The class of models we use, Markov Switching Regimes, were introduced by James Hamilton (1989) exactly to model time series
+over long spans when breaks in the behaviour of macroeconomic and financial time series data can occur because of “events such as
+wars, financial panics or significant changes in government policies” ( Hamilton (1994)), exactly our case.
+19
+The gold standard was effectively abandoned in 1914, resumed in 1925, abandoned again in 1931, before the UK joined the Bretton
+Woods system of fixed exchange rates in 1944, which collapsed in 1971. After 1971, the UK experimented with targeting monetary
+aggregates, targeting the exchange rate, before settling on targeting inflation since 1992. See Sayers (1976) and Howson (1993) for a
+fuller description of the various monetary regimes.
+16
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+9
+
+We can therefore say that the current low interest rate regime is unlike the others in that it did not follow a
+monetary regime change and has been characterised by low and stable inflation by historical standards, but
+otherwise most similar to the 1930-40s in that both featured near-zero nominal interest rates. As I mentioned
+in an earlier speech (Vlieghe (2016a)), in the 1930s some economists also worried about debt deleveraging
+and demographics, in a close parallel to today.
+
+To fully account for each of the shorter low interest rate regimes, ideally we would like a measure of the
+expected volatility, expected skew and expected kurtosis of GDP year by year, but we do not have sufficient
+data or sufficiently powerful statistical techniques to identify these expectations. Such techniques only lend
+themselves to analysing the big break in real interest rates between the gold standard and non-gold standard
+period.
+
+But we can still use the general insight that risk-free rates are pushed down by the riskiness of the economy.
+Each of the four low interest rate regimes in the post WWI period featured either a monetary regime change,
+a war, a financial crisis
+
+20
+
+or some combination thereof, all of which plausibly involve a material increase in
+
+risk, and often lower growth as well.
+
+One further episode that I would like to highlight is the 1980s, as it is insufficiently appreciated to what extent
+this period was unusual, in real interest rate history terms.
+
+21
+
+The loss of a monetary anchor after the collapse of the Bretton Woods system in 1971, pent up inflation
+pressure with inadequate monetary tightening, and a spike in the price of oil in 1973 led to persistently high
+inflation in the 1970s, which was largely unanticipated, meaning real rates in the 1970s were lower than if
+inflation had been as expected. In the 1980s, control over inflation was regained as nominal interest rates
+moved sharply higher. Inflation expectations, and inflation itself, moved back down only slowly. The slow
+adjustment of inflation expectations meant that real interest rates were required to be unusually high for an
+22
+
+unusually long period , to limit growth and allow spare capacity to drag down inflation and inflation
+expectations to desired lower levels.
+
+23
+
+Real interest rates in the 1980s were higher and more persistent than
+
+at any time since the UK’s attempt to resume its gold peg in the 1925-1931 period.
+
+Real interest rates only started coming down in the late 1980s when inflation credibility of central banks
+became more firmly established, a process that continued into the 1990s, helped by the creation of inflation
+20
+
+The global financial crisis that started in 1929, the UK banking crisis of the early 1970s, and the global financial crisis of 2008-09.
+Eichengreen (2015) had already noted that the low real rates of today might well be characterised as a reversion to the pre-1980s
+mean. Recently, Jorda et al. (2017) also make the point that the 1980s are the exceptional period when analysing rates for a panel of
+countries from 1870 to 2016. Using nearly 800 years of data for the UK makes the point even starker: a period of persistently high and
+rising inflation culminating in the early 80s had never been observed.
+22
+In addition, there were a number of financial deregulation measures during that period that arguably loosened credit availability,
+adding further upward pressure to real interest rates.
+23
+This was not just a UK phenomenon; there was a similar pattern in the US. Volcker expressed frequent frustration with how long it
+took before inflation expectations came back down (Silber (2012)). See Goodfriend and King (2005).
+21
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+10
+
+targeting regimes in the UK and in many other countries. Crucially, this was an adjustment of real interest
+rates back to modest levels from unusually elevated levels of the early 1980s (see also Jorda et al. (2017) for
+a similar discussion for other countries). Using the early 1980s as a starting point for establishing what is
+“normal” in real interest rate history is therefore unwise.
+
+6. What determines the risk-regimes?
+
+I have shown that finance theory can account for the high real interest rates of the gold standard and the low
+real interest rates of the non-gold standard era, based on the difference in the behaviour of the
+macroeconomy in the two periods.
+
+The theoretical explanation is an increase in the riskiness of the economy, with a more negative skew and
+fatter tails of growth outturns playing an important role.
+
+Somewhat speculatively, I would like to dig one level deeper still, and ask what fundamental drivers can
+explain the fact that growth has become more negatively skewed and tails have become fatter?
+
+The World Wars were obviously two significant events that were both negative and far from the average, but
+I have shown that the change in the measured riskiness of the economy took place even in a sample where
+the wars are excluded. A good candidate explanation, in my view, is the rising importance of debt and
+financial intermediation.
+
+Empirically, Jorda et al. (2013) have shown that booms associated with a more rapid private sector debt
+expansion are more frequently followed by financial crises, which tend to involve larger contractions in GDP
+than normal recessions. An increased frequency of very bad outturns is exactly what would generate a more
+negative skew and fatter tails in growth.
+
+24
+
+The theoretical mechanism driving the link between debt and a more negative skew and fatter tails has been
+present in macroeconomic models of debt and leverage for many years. The basic insight from models
+where debt matters
+
+25
+
+is that increased debt and a larger financial sector brings the economy closer to an
+
+efficient allocation of resources, but also makes the economy more vulnerable to shocks. Higher leverage
+and a larger financial intermediation sector mean that a downturn can become amplified as reduced
+borrower net worth (final borrowers or financial intermediaries) causes a contraction in asset prices, which
+reduces net worth further, leading to a downward spiral of falling asset prices, falling borrowing capacity,
+falling lending capacity, falling spending. The mechanism is less powerful on the upside: if the economy is
+already close to an efficient allocation of resources, borrowing and lending constraints do not bite, and the
+24
+
+More recently, Jensen et al. (2017) document that US growth has become more negatively skewed in the US over the period where
+household and business leverage has risen.
+25
+There is both a literature on finance and volatility (Kiyotaki and Moore (1997) and many others), as well as finance and growth (King
+and Levine (1993), Levine (1997) and references therein).
+11
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+11
+
+scope for a large further boom is limited. The asymmetry and fat tails of growth outturns therefore follow
+logically from that framework.
+
+26
+
+Figure 4 and 5 show that the ratio of credit
+
+27
+
+to household income was low and stable during the gold
+
+standard period, but became larger and more volatile in the post-gold standard period, consistent with these
+theories of the impact of credit and financial intermediation.
+
+28
+
+The fact that the rise in the importance of credit and financial intermediation occurred at the start of the
+th
+
+20 century is probably not a coincidence. The end of the gold standard plausibly contributed to this process,
+as it allowed for the supply of money and credit to be decoupled from a fixed gold supply, bringing huge
+benefits in terms of growth and more efficient allocation of resources, but costs in terms of fragility.
+
+Specifically, figure 5 shows that, within the generally low real interest rate regime of the non-gold standard
+era, regimes of persistent negative real interest rates coincided with contractions in the ratio of credit to
+income, in other words deleveraging.
+
+This deleveraging mechanism was one of the three factors (debt, demographics, distribution of income) that I
+highlighted earlier as a key driver for low real interest rates.
+
+29
+
+7. Policy outlook
+
+The link from low equilibrium rates to deleveraging brings me to the current policy outlook. Figure 6 is a more
+30
+
+up-to-date and comprehensive measure of the ratio of credit to GDP. It shows that the period of
+deleveraging that started in 2010 might be coming to an end. For most of the subdued economic recovery
+since 2010, credit growth has been below income growth. Households and firms were repairing their balance
+sheets. As I have discussed previously (Vlieghe (2016a)), this was a welcome process of repair, but one that
+should be expected to weigh on growth. The desire to reduce the debt burden translates into reduced
+spending by those sectors with the highest debt.
+
+But over the past year or so that process of balance sheet repair seems to have come to an end, or at least
+to a pause. That potentially says something important about the equilibrium real interest rate. Households
+and firms, by their actions, are showing us that they have reached their desired debt to income ratios for
+26
+
+See Brunnermeier and Sannikov (2014) for a full nonlinear solution of the model where debt matters, with a detailed discussion of the
+distributional impact of financial intermediation.
+27
+This particular chart shows only mortgage credit due to data limitations. There is also a long history of a measure of total credit
+available, which has similar dynamics, but it includes interbank credit as well.
+28
+This explanation is only partial at best. There is a large literature documenting the link between development and the volatility of
+growth. See Koren and Tenreyro (2013), and references therein, who show that emerging economies tend to have growth rates that are
+more volatile and negatively skewed, despite generally lower levels of financial depth.
+29
+Vlieghe (2016a)
+30
+We use the Financial Policy Committee’s Counter Cyclical Buffer data as it is higher frequency, more timely and contains total
+households and PNFC’s liabilities
+12
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+12
+
+now, and do not wish to deleverage further. That also means that the deleveraging process is no longer
+weighing on demand as much as it was previously. In turn, that suggests that the equilibrium real interest
+rate might be rising slightly from the very low levels in the post-crisis period.
+
+Deleveraging is not the only factor driving the equilibrium interest rate. Other medium-term dynamics, such
+as demographics and the income distribution, do not show any signs of turning. And, as I have argued in this
+speech, even if the equilibrium interest rate is moving up, it is only moving up within a framework of a lower
+average real interest rate in the post gold standard era. The high real interest rates of the 1980s remain an
+outlier, the drivers of which are not applicable at all today.
+
+While these medium-term considerations form an important backdrop to my thinking about Bank Rate now
+and in the medium term, they are not enough to guide actual meeting-by-meeting interest rate decisions.
+Those decisions require significant further analysis of recent developments in the UK economy: growth,
+slack, inflation.
+
+Until recently, I thought the appropriate response of monetary policy was to be patient, given modest growth
+and subdued underlying inflationary pressure. But the evolution of the data is increasingly suggesting that we
+are approaching the moment when Bank Rate may need to rise.
+
+In recent months, I have been struck particularly by the following developments:
+
+First, despite a clear weakening of GDP growth in the first half of this year, the amount of economic slack
+continues to be eroded. Employment growth has re-accelerated after slowing late last year, and the
+unemployment rate keeps making new lows, reaching 4.3% on the most recent data, down from 4.9% a year
+ago. Wage growth is not as weak as it was earlier in the year: over the past 5 months, annualised growth in
+31
+
+private sector pay has averaged just over 3%. And some pay-related surveys also suggest a modest rise in
+wage pressure in recent months. If these near-term labour market trends continue, I would expect this to
+lead to somewhat more upward pressure on medium-term inflation.
+
+Second, consumption growth generally held up better than I expected over the past year. Consumption did
+slow earlier this year, partly in response to weaker real income growth, as wage growth has not kept up with
+the exchange-rate-driven, temporary, rise in inflation. Consumption growth in Q2 was particularly weak. But
+there are some early signs of stronger consumption growth in Q3. Whether that improvement will last is still
+an open question. Rising real wage growth, both due to improving nominal wage growth and the expected
+easing back of inflation, would support consumption growth further out. An easing of the rate of growth of
+consumer credit following some tentative signs of a modest tightening in credit conditions is likely to act as a
+slight drag.
+
+31
+
+Private sector AWE excluding bonuses.
+13
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+13
+
+The wider economic backdrop over the past year has been one of improving global growth, and in particular
+an improving outlook for Eurozone growth, which generally benefits UK external demand.
+But, acting in the other direction, is the continued uncertainty about the UK’s future trading relations with the
+EU and the rest of the world. That uncertainty is likely to be dampening investment growth at the moment as
+firms put some projects on hold pending further clarity.
+
+There remains a risk that, at some stage, the uncertainty surrounding the Brexit process has a larger impact
+on the economy than we have seen so far. If that happens, monetary policy would respond appropriately.
+But for now, it seems the net effect of the many underlying forces acting on the UK economy is that slack is
+continually being eroded and wage pressure is gently building.
+
+If these data trends of reducing slack, rising pay pressure, strengthening household spending and robust
+global growth continue, the appropriate time for a rise in Bank Rate might be as early as in the coming
+months.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+14
+
+References
+Artis, M. and Lewis, M. (1991). ‘Money In Britain: monetary policy, innovation and Europe’, Phillip Allan
+Barro, R. (2009). ‘Rare Disasters, Asset Prices, and Welfare Costs’, American Economic Review, 99(1):
+243-264
+Barro, R. (2006). ‘Rare Disasters and Asset Markets in the Twentieth Century’, Quarterly Journal of
+Economics, 121(3): 823-866
+Barro, R. and Ursua. J. (2008). ‘Macroeconomic Crises since 1870’, Brookings Papers on Economic
+Activity, Spring 2008
+Backus, D., Chernov, M. and Martin, I. (2011). ‘Disasters Implied by Equity Index Options’, Journal of
+Finance, 66(6): 1969-2012
+Broadbent, B. (2014). ‘Monetary policy, asset prices and distribution’, speech available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech872.pdf
+Brunnermeier, M. and Sannikov, Y. (2014). ‘A Macroeconomic Model with a Financial Sector’, American
+Economic Review, 104(2): 379-421
+Chen, H., Dou, W. and Kogan, L. (2017). ‘Measuring the “Dark Matter” in Asset Pricing Models’, MIT
+Working Paper
+Cochrane, J. (2005). ‘Asset Pricing’, Princeton University Press
+Cogley, T. and Sargent, T. (2008). ‘The market price of risk and the equity premium: A legacy of the Great
+Depression’, Journal of Monetary Economics, 55(3): 454-476
+Cogley, T. and Sargent, T. (2015). ‘Measuring Price-Level Uncertainty and Instability in the United States’,
+Review of Economics and Statistics, 97(4): 827-838
+Constantinides, G. and Ghosh, A. (2017). ‘Asset Pricing with Countercyclical Household Consumption
+Risk’, Journal of Finance, 72(1): 415-460
+Daly, K. (2016). ‘A Secular Increase in the Equity Risk Premium’, Journal of International Finance, 19(2):
+179-200
+Eichengreen, B. (2015). ‘Secular Stagnation: The Long View’, American Economic Review, 105(5): 66-70
+Galesi, A., Nuno, G. and Thomas C. (2017). ‘The natural interest rate: concept, determinants and
+implications for monetary policy’, Banco de Espana, Analytical Articles
+Goodfriend, M. and King, R. (2005). ‘The incredible Volcker disinflation’,Journal of Monetary Economics,
+vol 52: 981-1015
+Guimarães, R. and Vlieghe, G. (2017). ‘Macroeconomic Change and Asset Prices’, forthcoming working
+paper.
+Hamilton, J. (1989). ‘A New Approach to the Economic Analysis of Nonstationary Time Series and the
+Business Cycle’, Econometrica, 57(2): 357-384
+Hamilton, J. (1994). ‘Time Series Analysis’, Princeton University Press
+Hamilton, J., Harris, E., Hatzius, J. and West, K. (2016). ‘The Equilibrium Real Funds Rate: Past, Present,
+and Future’, IMF Economic Review, 64(4): 660-707
+15
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+15
+
+Hansen, L. and Singleton, K. (1983). ‘Stochastic Consumption, Risk Aversion, and the Temporal Behaviour
+of Asset Returns’, Journal of Political Economy, 91(2): 249-265
+Hatzmark, S. (2016). ‘Economic Uncertainty and Interest Rates’, Review of Asset Pricing Studies, 6(2): 179220
+Howson, S. (1993). ‘British Monetary Policy 1945-1951’, Oxford University Press
+Jensen, H., Petrella, I., Ravn, S. and Santoro, E. (2017). ‘Leverage and Deepening Business Cycle
+Skewness’, CEPR Working Paper
+Jorda, O., Schularick, M. and Taylor, A. (2013). ‘When Credit Bites Back’, Journal of Money, Credit and
+Banking, 45(2):3-28
+Jorda, O., Knoll, K., Kuvshinov, D., Schularick, M. and Taylor, A. (2017). ‘The Rate of Return on
+Everything, 1870-2015’, Working Paper
+Julliard, C. and Ghosh, A. (2012). ‘Can Rare Events Explain the Equity Premium Puzzle’, Review of
+Financial Studies, 25(10): 3037-3076
+King, R. and Levine, R. (1993), ‘Finance and Growth: Schumpeter Might be Right’, Quarterly Journal of
+Economics, 108(3): 717-737
+Kiyotaki, N. and Moore, J. (1997). ‘Credit Cycles’, Journal of Political Economy, 105(2):211:248
+Koren, M. and Tenreyro, S. (2013). ‘Technological Diffusion’, American Economic Review, 103(1): 378-414
+Kraus, A. and Litzenberger, R. (1976). ‘Skewness Preference and the Valuation of Risk Assets’, Journal of
+Finance, 31(4): 1085-1100
+Levine, R. (1997), ‘Financial Development and Economic Growth: Views and Agenda’, Journal of Economic
+Literature, 35(2): 688-726
+Martin, I. (2013). ‘Consumption-Based Asset Pricing with Higher Cumulants’, Review of Economic Studies,
+80: 745-773
+Muir, T. (2017). ‘Financial Crises and Risk Premia’, Quarterly Journal of Economics, 132(2): 765-809
+Parker, J. and Vissing-Jorgensen, A. (2009). ‘Who Bears Aggregate Fluctuations and How?, American
+Economic Review: Papers and Proceedings, 99(2): 399-405
+Rachel, L. and Smith, T. (2015). ‘Secular drivers of the global real interest rate’, Bank of England Staff
+Working Paper No. 571, 99(2): 399-405
+Rietz, T. (1988), ‘The Equity Premium: A Solution’, Journal of Monetary Economics, 22: 117-131
+Sayers, R. (1976). ‘The Bank of England 1891-1944’, Cambridge University Press
+Siegel, J. (1992). ‘A study of the U.S. and the U.K.’, Journal of Monetary Economics, 29(1): 227-252
+Shiller, R. and Siegel, J. (1977). ‘The Gibson Paradox and Historical Movements in Real Interest Rates’,
+Journal of Political Economy, 85(5): 891-908
+Vlieghe, G. (2016a). ‘Debt, Demographics and the Distribution of Income: New challenges for monetary
+policy’, speech available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech872.pdf
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+16
+
+Vlieghe, G. (2016b). ‘Monetary policy expectations and long term interest rates’, speech available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech909.pdf
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+17
+
+Figure 1: Long run view of asset prices and inflation
+Real Rates (short term market rate – log inflation)
+
+Excess Equity Returns (total return on FTSE – short term market rate)
+20
+
+50
+
+15
+
+40
+30
+
+10
+
+20
+
+5
+
+10
+
+0
+
+0
+
+-5
+
+-10
+-20
+
+-10
+
+-30
+
+-15
+
+-40
+-50
+
+-20
+1801
+
+1816
+
+1831
+
+1846
+
+1861
+
+1876
+
+1891
+
+1906
+
+1921
+
+1936
+
+1951
+
+1966
+
+1981
+
+1996
+
+1801
+
+2011
+
+Nominal Rate (market short term rate)
+
+1816
+
+1831
+
+1846
+
+1861
+
+1876
+
+1891
+
+1906
+
+1921
+
+1936
+
+1951
+
+1966
+
+1981
+
+1996
+
+2011
+
+Inflation (annual log change in GDP price deflator)
+25
+14
+
+20
+12
+
+15
+
+10
+
+10
+
+8
+
+5
+
+6
+
+0
+
+4
+
+-5
+
+2
+
+-10
+
+-15
+
+0
+1801
+
+1816
+
+1831
+
+1846
+
+1861
+
+1876
+
+1891
+
+1906
+
+1921
+
+1936
+
+1951
+
+1966
+
+1981
+
+1996
+
+2011
+
+1801
+
+1816
+
+1831
+
+1846
+
+1861
+
+1876
+
+1891
+
+1906
+
+1921
+
+1936
+
+1951
+
+1966
+
+1981
+
+1996
+
+Source: Nominal interest rates and inflation are from the Bank of England’s ‘A millennium of macroeconomic data’ (the dataset was originally called the 'Three centuries of macroeconomic data), total equity
+return data is from Global Financial Data.
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+18
+
+2011
+
+Figure 2: Distribution of UK consumption growth
+
+Notes: The figure shows the kernel density estimates for the UK consumption per capita growth. The Gold
+Standard sample contains the years 1831-1913 and 1925-1931, while the non-Gold Standard sample
+contains the years 1914-1924 and 1932-2016.
+Source: Bank of England’s ‘A millennium of macroeconomic data’ database, Bank estimated kernel densities
+
+Figure 3: Low rate regimes in UK real rates (full sample estimation of regimes)
+
+Notes: The low real rate regime is defined by the Markov Switching Model in Section 5.
+Source: Bank of England’s ‘A millennium of macroeconomic data’ database
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+19
+
+Figure 4: Credit-to-household income ratio with real low rate regimes
+
+Notes: The low real rate regime is defined by the Markov Switching Model in Section 5. Secured lending
+measure excludes impact of securitizations
+Source: Bank of England’s ‘A millennium of macroeconomic data’ database
+
+Figure 5: Growth rate of credit-to-household income ratio with real low rate regimes
+
+Notes: The low real rate regime is defined by the Markov Switching Model in Section 5. Secured lending
+measure excludes impact of securitizations
+Source: Bank of England’s ‘A millennium of macroeconomic data’ database
+
+20
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+20
+
+Figure 6: Total Credit-to-GDP (households and credit to non-financial sectors)
+
+Note: *All liabilities of the household and not-for-profit sector (ex. unfunded pensions, derivatives), and
+private non-financial corporations’ (PNFCs') loans and debt securities
+Source: Financial Policy Committee’s Counter Cyclical Buffer core indicators
+
+Table 1: Descriptive data summary
+
+Nomi na l
+Interes t
+ra te
+(1)
+
+Equi ty
+Exces s
+Infl a tion
+Returns
+Equi ty
+(GDP
+(a nnua l ) Returns (2)- defl a tor)
+(2)
+(1)
+(3)
+
+Rea l
+Interes t
+Ra te
+(1)-(3)
+
+Rea l
+Equi ty
+Return
+(2)-(3)
+
+Rea l perca pi ta
+Rea l perCons umpti ca pi ta GDP
+on growth
+growth
+(4)
+(4)
+
+Gold Standard - consumption sample (1830-1913, 1925-1931)
+Mean
+Median
+Volatility
+Skew
+Kurtosis
+AR(1)
+
+3.3
+
+3.4
+
+0.1
+
+-0.1
+
+3.5
+
+3.6
+
+0.8
+
+0.9
+
+3.1
+
+3.2
+
+0.4
+
+-0.2
+
+3.3
+
+3.5
+
+0.8
+
+1.3
+
+1.2
+
+5.5
+
+5.7
+
+2.7
+
+2.7
+
+6.6
+
+1.7
+
+2.5
+
+0.7
+
+-1.2
+
+-1.0
+
+0.1
+
+0.3
+
+-0.5
+
+-0.2
+
+-0.2
+
+3.6
+
+8.2
+
+7.3
+
+4.7
+
+4.3
+
+4.9
+
+2.4
+
+2.8
+
+0.5
+
+0.5
+
+0.5
+
+0.1
+
+0.2
+
+0.4
+
+-0.1
+
+0.0
+
+Mean
+Median
+Volatility
+Skew
+Kurtosis
+AR(1)
+
+5.6
+
+10.8
+
+5.2
+
+4.0
+
+1.6
+
+6.9
+
+2.0
+
+2.1
+
+5.2
+
+11.8
+
+8.3
+
+2.9
+
+1.7
+
+10.5
+
+2.3
+
+2.3
+
+4.0
+
+20.6
+
+20.8
+
+5.3
+
+4.2
+
+21.0
+
+2.3
+
+2.4
+
+0.5
+
+-0.3
+
+-0.7
+
+0.3
+
+0.4
+
+-1.0
+
+-1.3
+
+-2.2
+
+2.5
+
+7.8
+
+8.4
+
+6.5
+
+6.6
+
+7.6
+
+8.0
+
+11.5
+
+0.9
+
+-0.1
+
+-0.1
+
+0.8
+
+0.7
+
+0.0
+
+0.3
+
+0.1
+
+Non Gold Standard or World War sample (1921-1925, 1932-1938, 1948-2016)
+
+Note: The appendix shows that the precise choice of sample dates for the GS and non-GS periods is not
+important for the stylised facts we aim to match to theory - the level of real rate and equity premia and the
+growth rate, volatility, skewness and kurtosis of (consumption) growth rates.
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+21
+
+Table 2: Model calibration results
+
+real rate
+equity premium
+cons growth
+cons vol
+cons skew
+cons kurtosis
+
+GS/pre-WWI
+Data
+Model
+
+post-GS/WW
+Data
+Model
+
+3.0,3.4
+
+3.0
+
+1.1,1.7
+
+1.8
+
+0.4,0.6
+
+0.3
+
+7.6,8.6
+
+6.7
+
+0.8
+
+1.2
+
+2.0,2.3
+
+2.2
+
+1.5,1.8
+
+1.5
+
+2.3,3.1
+
+5.5
+
+-0.2,0.2
+
+-0.0
+
+-2.1,-1.3
+
+-1.2
+
+2.3,2.4
+
+2.5
+
+8.0,13.9
+
+9.4
+
+Note: Model calibration only changes the parameters for the consumption process (mean and volatility of
+Gaussian term and arrival intensity of jumps and mean and volatility of jump sizes), the preference
+parameters (risk aversion of 6, time discount of 0.025 and intertemporal elasticity of substitution of 2) are
+kept fixed for both periods.
+Table A1 – Robustness of sample moments to cut-off dates
+Period I (GS/pre-WWI)
+
+mean
+median
+equity
+mean
+premium
+median
+mean
+median
+consumption
+volatility
+growth
+Skew
+Kurtosis
+real rate
+
+mean
+median
+GDP growth volatility
+Skew
+Kurtosis
+
+Period II (post GS/WW)
+
+1718183018701913,1925- 1913,1925- 1913,1925- 1718-1913
+1931
+1931
+1931
+
+192119211925,19321925,19321921-2016 1932-2016
+1938, 19482106
+2016
+
+GS full
+sample
+
+not-GS
+
+GS cons
+sample
+
+3.5
+
+3.5
+
+3.4
+0.5
+
+GS global
+pre-WWI
+sample
+
+not-GS or postWWs
+WWI
+
+post-GS
+
+3.1
+
+3.4
+
+1.0
+
+1.6
+
+1.3
+
+0.4
+
+3.3
+
+3.0
+
+3.3
+
+1.3
+
+1.7
+
+1.7
+
+1.1
+
+0.1
+
+-0.2
+
+0.8
+
+5.7
+
+5.2
+
+5.0
+
+5.4
+
+0.6
+
+0.4
+
+0.4
+
+0.5
+
+8.6
+
+8.3
+
+7.6
+
+7.9
+
+0.8
+
+0.8
+
+0.8
+
+0.8
+
+1.8
+
+2.0
+
+1.8
+
+1.9
+
+0.8
+
+0.8
+
+0.8
+
+0.8
+
+2.2
+
+2.3
+
+2.0
+
+2.1
+
+1.7
+
+1.7
+
+1.5
+
+1.8
+
+3.1
+
+2.3
+
+3.0
+
+2.9
+
+-0.2
+
+-0.2
+
+0.2
+
+-0.1
+
+-2.0
+
+-1.3
+
+-2.1
+
+-2.0
+
+2.4
+
+2.4
+
+2.4
+
+2.3
+
+12.2
+
+8.0
+
+12.8
+
+13.9
+
+0.6
+
+0.9
+
+0.8
+
+0.6
+
+1.9
+
+2.1
+
+1.8
+
+2.0
+
+0.7
+
+1.3
+
+1.3
+
+0.7
+
+2.3
+
+2.3
+
+2.3
+
+2.3
+
+3.0
+
+2.5
+
+2.7
+
+2.9
+
+2.8
+
+2.4
+
+2.9
+
+2.5
+
+0.1
+
+-0.2
+
+-0.1
+
+0.1
+
+-1.3
+
+-2.2
+
+-1.2
+
+-0.5
+
+2.9
+
+2.8
+
+2.9
+
+2.9
+
+7.3
+
+11.5
+
+6.2
+
+4.3
+
+22
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+22
+
+Appendix
+The fundamental asset pricing equation says that the price (Pi;t ) of any traded asset i paying dividends
+fdi;t+s gs=1:1 is given by:
+Pi;t = Et [Mt;t+1 (Pi;t+1 + di;t+1 )]
+or
+1 = Et [Mt;t+1 (1 + Ri;t;t+1 )]
+where Mt;t+1 is the stochastic discount factor (SDF). This is the usual Euler Equation that is part of any general
+f
+equilibrium macro model. In the case of a real 1 period risk-free bond (Pt+1
+= 1; dt+1 = 0) the Euler equation
+f
+yields the 1-period risk-free (ex-ante) real rate Rt;t+1 (which is known at time t):
+
+P
+
+1
+Pf
+= ft = Et [Mt;t+1 ]
+f
+1 + Rt;t+1
+Pt+1
+
+(1)
+
+In a representative agent economy with time separable additive expected power utility U fCs gs=t:1
+
+=
+
+s=t:1 e
+
+s
+
+u (Cs ) ; with u (C) =
+
+C1
+1
+
+; the SDF is given by the intertemporal marginal rate of substitution
+k
+
+Mt;t+k = e
+
+u0 (Ct+k )
+=e
+u0 (Ct )
+
+k
+
+Ct+k
+Ct
+
+Both the representative agent and time separability have been relaxed by Martin (2013). In the calibration we
+will keep the representative agent but use non-separable Epstein-Zin results from Martin (2013). For expositional
+simplicity we show the real rate expression using the time separable power utility case. Following Martin (2013), to
+calculate the expectations in (1) we will use cumulant generating functions, for which it will be useful to introduce
+some notation.
+Expansions using cumulants
+Let 't;x ( )
+ln Et e x be the cumulant generating function of x, and let t;x (n) be the nth cumulant of
+2
+x. The …rst cumulant of x is the expected value ( x ), the second is the variance
+x , the third is the centred
+3
+third moment of x, or skewness
+,
+but
+higher
+order
+cumulants
+do
+not
+correspond
+to
+centred moments (see e.g.
+x
+Shiryaev (1996) for the general link between cumulants and moments). Then if the nth moment of x exists and
+'t;x ( ) exists in the neighborhood of then
+'t;x ( ) =
+
+X
+
+j=1:n
+
+j
+t;x
+
+j!
+
+(n) + o (j
+
+n
+
+j)
+
+C
+
+If we de…ne ct+1
+ln Ct+1
+, then from (1) the log real risk-free rate rtf
+t
+in terms of the log consumption cumulants:
+rtf
+
+=
+
+"
+
+ln Et e
+X (
+
+=
+
+j=1:1
+
+#
+
+Ct+1
+Ct
+)j
+t;c
+
+j!
+
+=
+
+ln Et e
+
+f
+ln 1 + Rt;t+1
+
+ct+1
+
+(n)
+
+If real log consumption innovations are iid lognormally distributed ln (Ct+1 =Ct )
+rtf =
+where
+
+t;c
+
+= Et ct+1 = Et ln
+
+Ct+1
+Ct
+
+and
+
+2
+t;c
+
+2
+
++
+
+t;c
+
+2
+
+iidN
+
+c;
+
+2
+c
+
+then
+
+2
+t;c
+
+= V art (ct+1 ) (note that ln Et
+
+I
+
+can be expressed
+
+ct+1
+ct
+
+=
+
+c
+
++
+
+2
+c
+
+2
+
+). In the general case,
+
+skewness, kurtosis and higher moments also matter
+rtf
+
+=
+
+ln
+
+ln Et e
+
+ct+1
+ct
+
+1
+X
+(
+
+=
+
+)j
+
+2
+
+=
+
++
+
+t;c
+
+2
+
+2
+t;c
+
+3
+
++
+
+3!
+
+skewt;c
+
+t;c
+
+j!
+
+j=1
+
+(j)
+
+4
+
+3
+t;c
+
+4!
+
+kurtt;c
+
+4
+t;c
+
++ higher order log consumption moments
+
+So the real rate will be higher, the higher the time discount preference parameter, the higher the growth rate
+of consumption, the lower the variance and even higher moments, and the higher the skewness and odd higher
+moments of consumption.
+To …nd the nominal interest rate, and ex-post real rate implied by the nominal bond, we need to introduce the
+joint cumulant function. See Guimarães & Vlieghe (2017) for the analysis which can then also explain term spread
+as a function of in‡ation and consumption dynamics and in‡ation surprises (not discussed in this speech).
+In the Epstein-Zin case Martin (2013a) shows the real rate is given by:
+rtf =
+where #
+
+1
+1
+
+1
+
+and
+
+'t;c (
+
+1
+#
+
+)+ 1
+
+'t;c (1
+
+)
+
+is the intertemporal elasticity of substitution, with the expression for risk premia unchanged.
+
+Table 2 uses Epstein-Zin preferences.
+Heterogeneity introduces many more possible drivers of risk premia, which is potentially relevant for long term
+real rates. Heterogeneity provides a theoretical link to many of the possible low frequency drivers of persistent
+movements in real rates: debt deleveraging, distribution of income and demographics (3Ds). Martin (2013) shows
+that introducing heterogeneity in the model will lower the real rate and increase the risk premia relative to a
+similar representative agent economy. Important for calibration is the evidence on the di¤erence in the dynamics
+of consumption of the wealthy equity holders vs aggregate consumption, particularly towards the end of the sample
+(see Parker & Vissing-Jorgensen (2009)), and role of …nancial intermediaries (see Adrian, Crump & Muir (2014),
+He, Kelly & Manela (2016) and Muir (2017)).
+
+Empirical Model
+We calibrate a jump-di¤usion model as in Martin (2013) and Backus, Chernov & Martin (2011, BCM henceforth) to match the real rate; consumption growth moments and equity returns. The model for consumption growth
+Ct
+Gt = ln C
+is
+0
+N (t)
+
+Gt =
+
+tt
+
++
+
+t Bt
+
++
+
+X
+
+Yt;i
+
+i=0
+
+where Bt is a Brownian motion, N (t) is a Poisson counting process and Y (the jumps) are iid random variables. If
+Y ~N ( bt ; s2t ); b > 0 (disaster) then the CGF is given by
+'t;c ( ) =
+
+t
+
++
+
+1
+2
+
+2 2
+t
+
++ !t e
+
+1 2 s2
+bt + 2
+t
+
+1
+
+which can be used to …nd the nth cumulant by taking derivative with respect to
+@ n 't;c ( )
+j
+@ n
+
+=0
+
+=
+
+t;c
+
+at
+
+=0:
+
+(n)
+
+As shown by Martin (2013) in the power utility case and Epstein-Zin case the risk premia (expected excess
+return ) on equities (de…ned as ln (1 + E [Rt;t+1 ])) is given by:
+rtf
+
+=
+
+rp
+ft
+
+=
+
+'t;c (
+'t;c (
+
+)
+
+)
+'t;c (
+
+) + 't;c ( )
+
+where is the parameter linking dividends to consumption Dt = Ct . We follow BCM and report risk premia
+as the expected log excess return (E [ln (1 + Rt;t+1 )]) since this is what we calculate from the data in Table 1
+(which because of Jensen’s inequality is lower than rp
+ft - E [ln (1 + Rt;t+1 )] ln (1 + E [Rt;t+1 ]) - and hence poses
+
+II
+
+a tougher challenge to match the post-GS period equity premium - for some of the calibrations the di¤erence can
+be signi…cant):
+rpt = 't;c ( ) 't;c (
+) + t;c < rp
+ft
+Calibration
+
+Data in Table 1 and used for the calibration targets are from the Bank of England ‘A millennium of macroeconomic data’dataset (available at http://www.bankofengland.co.uk/research/Documents/datasets) and total returns
+for FTSE are from Global Financial Data.
+The Barro (2006) explanation of the equity premium relies on an extreme speci…cation of disasters (roughly 1%
+chance of a 40% decline in consumption), which in practice is impossible to estimate from available data from one
+country (Martin (2013), Chen, Dou & Kogan (2016)) and has been criticised for being implausible and inconsistent
+with asset price data (Backus, Chernov & Martin (2011, BCM)), and US macro data (Julliard & Ghosh (2013)). In
+particular, Barro uses a large cross-section of countries and assumes they all share the same probability distribution
+of disasters (see also Nakamura et al (2015)). As shown by BCM the data in options implies a much milder size of
+jumps as well as more frequent jumps. BCM and Martin (2013) show that the real distinct characteristic of Barro’s
+jump calibration is about the extreme tail events (e.g. 8 standard deviation events).
+We show that it is possible to generate the level of real rate, equity premium and consumption distribution
+(growth, volatility, skewness and kurtosis) without relying on Barro’s extreme disaster calibration. The Gold
+Standard does not require as much non-Gaussianity (as there is no equity risk premia, no skewness and low excess
+kurtosis in growth). For the post-GS sample jumps are necessary to generate the skewness/kurtosis in the data and
+the high equity premia with low real rates. But the jump distribution required to do so is "reasonable" in the sense
+that the probability of observing large falls in consumption roughly matches the data well and we can losely match
+the skewness and excess kurtosis in the data. In contrast, the Barro-type calibration would imply having seen more
+than two falls of more than 20% when the largest fall observed was 14%, with the model-implied skewness of -10
+and kurtosis of nearly 100 (see Martin (2013) and BCM), an order of magnitude more than in the data.
+Keeping the same preference parameters across regimes f ; ; 'g = f6; 0:025; 2g, which are reasonable and close
+to those used in Martin (2013) and BCM, we get the numbers shown in Table 2. We are able to match real rates,
+equity premium, average growth rate and skewness and kurtosis of growth but with a higher volatility than observed
+in the data (5.5% vs 3%). The probabilities of large falls, though much less extreme than in Barro and more in line
+with BCM, are higher than the empirical counterparts (but not way o¤). To reduce the volatility of consumption to
+4% while still matching the real rates and equity premium would require more extreme jumps, leading to skewness
+and kurtosis of -6 and 39 - three times as high as in the data, similar to Nakamura et al (2015), but not as extreme
+as original Barro-type calibration.
+One way to reconcile the higher implied volatility than in the data is that it has been shown (Parker & VissingJorgensen AER 2009) that the aggregate exposure of (top) stockholders has increased, which Malloy, Moskowitz &
+Vissing-Jorgensen JF2009 have shown is able to explain asset prices better with more reasonable measures of risk
+aversion (around 10, as opposed to 30-40 for aggregate consumption).
+Besides the necessity for more negative jumps in the post war period, the preference parameters needed to
+match the data exactly would also be di¤erent. The time discount parameter would have to be lower during the
+post-GS period and the risk aversion higher. This could be consistent with the increase in …nancial intermediation:
+the Brunnermeier & Sannikov (AER 2014) model, and many of the models in the …nancial intermediation literature,
+the …nancial intermediary is more patient; and leverage can raise the e¤ective risk aversion (can act as habit in that
+the subsistence level is the amount of debt that need repaying instead of zero) as well as heterogeneity.
+
+III
+
+

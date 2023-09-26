@@ -1,0 +1,1078 @@
+Monetary policy and the Bank of England’s balance sheet
+Speech given by
+Gertjan Vlieghe, External Member of the Monetary Policy Committee
+
+Bank of England
+23 April 2020
+
+I would like to thank Rodrigo Guimaraes, Lennart Brandt, Richard Harrison, Ryland Thomas,
+Andrew Hauser, Oliver Bush, Ben Broadbent, Silvana Tenreyro, Michal Stelmach, Rebecca Maher,
+Norwin Hossain, Analise Mercieca, Jonathan Bridges, Jack Pilkington, Luke Doyle and Jamie Lenney
+for comments and help with data.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+1. The pandemic and its economic impact
+
+The Covid-19 pandemic is, first and foremost, a global health issue and a humanitarian tragedy. I want to
+pay tribute to those who are risking their lives to save ours.
+My comments will rather narrowly focus on its impact on the UK and world economy. Not because that is
+what is most important, but because that is the aspect that falls within my remit as a member of the Bank of
+England Monetary Policy Committee.
+The MPC will publish more detail on its assessment of the economic outlook in the May Monetary Policy
+Report. But based on the early indicators, and based on the experience in other countries that were hit
+somewhat earlier than the UK, it seems that we are experiencing an economic contraction that is faster and
+deeper than anything we have seen in the past century, or possibly several centuries.
+Economically, it is important not to think of this as a simple supply shock, in the sense of an unavoidable
+temporary contraction that we just have to live with. It is far more complex than that, and consequently there
+is far more scope for active policy responses.
+Some people cannot get to work, either because their travel to work has been restricted, because they are ill,
+because they are caring for others who are ill, or for children who are home due to school closures. That is
+indeed a supply shock.
+But there has also been a dramatic reduction in demand. Social distancing, in part voluntary and in part
+imposed, means that a wide range of consumption activities are sharply reduced or simply not taking place.
+Shopping in physical stores, recreational activities, personal services, and a long list of other types of
+spending have been sharply reduced.
+As a result, the businesses that normally provide these goods and services have sharply reduced activity, or
+shut down entirely. Absent any policy response, most of the employees of these businesses would lose their
+jobs, and face a dramatic reduction in income.
+In contrast, those working in sectors whose output is still in demand, for example food retail and online
+businesses, face no reduction in income at all or even experience increased income. But they are still unable
+or unwilling to consume goods and services that require social contact, so they end up with a large
+involuntary increase in savings.
+This is therefore a highly asymmetric shock, hitting some sectors in the economy drastically, while leaving
+other sectors financially little affected, and some even positively affected. To some extent, economic
+downturns always hit different sectors somewhat unevenly, but the current experience is much more
+dramatic.
+Absent any fiscal or monetary policy responses, the economy would experience not only the reduction in
+spending that is unavoidable, but would see an amplification of that reduction as, for example, households
+that have seen large drops in income are forced to reduce consumption not just of activities that require
+social contact, but even of essentials. In turn, the amplified reduction in consumer spending, employment
+and investment would likely cause persistent economic damage, as otherwise viable firms unnecessarily fail,
+and as valuable employer-employee relationships are severed unnecessarily.
+Fiscal and monetary policy are being deployed to minimise both the amplification and persistence of the
+economic impact from the pandemic. Fiscal policy is best placed to target the most affected sectors, and the
+government has rapidly launched a wide range of programmes to help both firms and households who have
+been directly affected.
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+2
+
+While fiscal policy is doing the heavy lifting, monetary policy has an important role to play as well. Some of
+the amplification and persistence mechanisms include cash flow constraints, availability and cost of credit,
+and confidence effects. Reductions in interest rates, expanded borrowing facilities for banks and nonfinancial businesses, and asset purchases help ensure that borrowing costs are reduced, that financial
+markets are functioning smoothly, and that credit supply is available. The Bank of England’s balance sheet is
+being deployed to help meet the monetary policy remit.
+The ultimate aim of monetary policy, as it always is, is to meet the inflation target, by ensuring that aggregate
+demand grows sustainably in line with the economy’s potential. The economy’s potential is severely
+disrupted at the moment but, once the pandemic is over, and other things equal, in principle it should return
+approximately to the pre-virus trajectory. A persistent undershoot of the economy relative to its pre-virus
+trajectory is, in my view, most likely to be disinflationary. So the current priority for monetary policy, with a lot
+of help from fiscal policy, is to return the economy to that pre-virus trajectory as soon as possible.
+
+2. Central bank balance sheets and conventional monetary policy
+Before discussing some of the specific policy measures that have recently been put in place, it is useful to
+review what the central bank’s simplified balance sheet looks like and how this changes with monetary
+policy1.
+Figure 1: Bank of England balance sheet (GBP billions)
+Reverse repo and other bond holdings
+Other assets incl. loan to APF
+Notes in circulation
+Reserve balances
+
+Assets:
+Liabilities:
+
+Foreign currency holdings
+Ways & Means facility
+Foreign currency liabilities
+Liabilities from open market operations
+
+700
+500
+300
+100
+-100
+-300
+-500
+-700
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+Source: Bank of England Weekly Report. Latest observation: 14 April 2020.
+
+Monetary policy is set the by Monetary Policy Committee, which decides, among other things, on the
+appropriate level of interest rates. The MPC’s ability, indeed any central bank’s ability, to influence short-term
+nominal interest rates derives from the fact that financial institutions have some (not necessarily large, not
+necessarily stable) demand for something only the central bank supplies: reserves.
+
+1
+
+This topic has been at the core of the Bank of England’s functions for a very long time indeed, and has therefore been the subject of a
+great number of excellent analytical publications by Bank of England staff, far too many to cite, as well as regular speeches by MPC
+members. Two relevant recent publications on this are Hauser (2019) and Ramsden (2018) and the many references therein.
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+3
+
+Reserves are simply deposit balances held at the
+central bank. By definition, only the central bank can
+provide central bank deposit accounts. So only the
+central bank can provide reserves. Those reserves
+are created through open market operations, as
+Assets
+Liabilities
+shown in Diagram 1. In general, open market
+Reserve balances
+Public sector
+operations are a mix of outright purchases of
+(+)
+securities
+government bonds by the central bank, or temporary
+Notes in circulation
+(+)
+purchases with an agreement to sell back later
+(+)
+(repos)2. In the case of outright purchases, you can
+Private sector
+think of it as the central bank selling reserves in
+Capital and
+loans/securities
+exchange for government bonds. Or purchasing
+other liabilities
+Net foreign assets
+government bonds financed by issuing reserves. Or
+purchasing government bonds financed by “printing”
+reserves.3 These are all accurate descriptions of the same operations, which have been part of standard
+central banking operations for at least a century.
+Diagram 1: Stylised central bank balance sheet
+after conventional interest rate policy
+
+Diagram 2: Market equilibrium with scarce
+reserves
+Demand schedule for reserves
+Reserves supply
+Short-term
+interest rate
+
+Central banks also provide notes, i.e. paper money.
+In open market operations, banks receive reserves
+and they can decide how much of the proceeds they
+would like to convert into notes, and how much to
+retain in their reserve accounts. In general, the notes
+component of central bank liabilities is fairly stable
+(see Figure 1), and reflects underlying demand by
+households and non-financial businesses for notes as
+means of payment.
+
+The fact that banks have some demand for reserves
+allows the central bank to affect the short-term
+interest rate. In particular, the short-term interest
+rates that a central bank affects most directly are the
+0
+rates at which financial institutions borrow and lend
+Quantity of
+reserves to each other. By controlling the level of
+reserves
+reserves and/or the terms on which it is prepared to
+supply them, the central bank is able to set the level
+of short-term interest rates in the economy required to meet the inflation target, as shown in Diagram 2.4
+Equilibrium
+rate
+
+2
+
+This is a general and simplified description of monetary policy before QE, i.e. before 2009. Since then, the ample reserve regime
+(more on that later in the speech) has meant that repo-based regular open market operations are not currently used. There now repo
+facilities available for liquidity insurance, against wider collateral than just government bonds. See Hauser (2019).
+3
+I using “printing” figuratively here as the transaction is entirely electronic. I use it here simply because many commentators use this
+terminology to refer to this type of transaction.
+4
+I am skipping over a lot of detail about how precisely each central bank implements these operations, which varies across countries,
+but such details are not necessary for my main argument. For example, it is no longer just banks that hold reserve accounts with the
+Bank of England, other financial institutions do so as well. In the current framework the Bank of England directly administers the policy
+rate, called Bank Rate, which is the key reference rate for all other sterling interest rates. Bank Rate and expectations about the future
+level of Bank Rate influences the interest rates that financial institutions pay to borrow from one another in wholesale money markets.
+For a detailed description of the current money market operations in the UK, see https://www.bankofengland.co.uk/markets/bank-ofengland-market-operations-guide.
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+4
+
+3. Central bank balance sheets and unconventional monetary policy
+So far, I have described conventional monetary policy, i.e. setting the policy rate. Now let’s discuss
+unconventional monetary policy, i.e. quantitative easing (QE) or asset purchases.
+In such operations, the central bank purchases government bonds, financed by issuing reserves, shown in
+Diagram 3. If you think that sounds very similar to conventional policy, you are correct. It involves the same
+basic balance sheet transaction as conventional monetary policy: buy government bonds, sell (or create, or
+“print”) reserves. It is just on a larger scale.5
+With conventional monetary policy, the central bank is just setting the short-term interest rates at the
+appropriate level to hit the inflation target. Assets purchases, or QE, are typically carried out when the shortterm rate cannot be lowered further and the central bank judges that additional stimulus is required to hit the
+inflation target. In these circumstances, QE aims to stimulate spending by influencing longer-term interest
+rates.
+In the process of buying government bonds, the central bank creates additional reserves. If reserves were
+already at the level that banks desired before the
+Diagram 3: Stylised central bank balance sheet
+QE operation, then QE will generate “ample
+after QE
+reserves”. The central bank is no longer trying to
+balance reserve supply with the reserve demand
+Assets
+Liabilities
+from the banks. Rather, it is now the scale of QE
+operations that primarily drives the quantity of
+Public sector
+reserves.6
+Reserve balances
+
+securities
+(+)
+
+(+)
+
+The fact that central banks pay interest on
+reserves (IOR) is very important. If reserves did not
+earn interest, then the supply by central banks of
+ample reserves beyond what banks need at any
+Reserve balances
+Public sector
+given level of interest rates, would push the shortsecurities
+term interest rate to zero, as shown in Diagram 4.7
+Notes in circulation
+In other words, QE operations would lead to a loss
+Private sector
+of central bank control over short term interest
+Capital and
+loans/securities
+rates. Central banks would only be able to raise
+other liabilities
+interest rates by unwinding the QE operations first,
+Net foreign assets
+in order to remove the “ample” portion of the
+reserves.8 Precisely to prevent this loss of control
+over short-term interest rates, all central banks that engage in QE have switched to paying interest on
+reserves, shown in Diagram 5.9
+
+5
+
+It is on a larger scale and all the operations are done via outright purchases, not a mix of outright purchases and repos, as is the case
+for conventional monetary policy. For simplicity, I am describing the transaction as if the bonds were held directly on the central bank
+balance sheet. In practice, in the UK, the bonds are held in a subsidiary of the Bank of England, called the Asset Purchase Facility
+(APF), and financed by a loan from the Bank of England. It is these loans, rather than the bonds themselves, which appear on the Bank
+of England balance sheet and which are financed by reserves. This particular structure has no impact on how the scheme works
+mechanically and economically. It only exists in order to create a separate legal entity, the APF, whose assets are covered against loss
+by a government indemnity (https://www.bankofengland.co.uk/letter/2020/apf-letters-march-2020).
+6
+This may have important aggregate liquidity implications, as the level of excess reserves may determine banks’ willingness to provide
+liquidity in different markets (see Correa, Du and Liao (2020) and Altavilla et al (2019)).
+7
+See for example Reis (2016).
+8
+See Vlieghe (2019).
+9
+Some central banks, like the Bank of England, were already paying interest on reserves before QE. See Hauser (2019) for this and
+more detail on current money market operations.
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+5
+
+Diagram 4: Equilibrium with ample reserves and
+no IOR
+
+Diagram 5: Equilibrium with ample reserves and
+IOR
+
+Demand schedule for reserves
+
+Demand schedule for reserves
+
+Reserves supply
+
+Reserves supply
+
+Short-term
+interest rate
+
+Short-term
+interest rate
+
+Interest on
+reserves
+0
+
+0
+Quantity of
+reserves
+
+Quantity of
+reserves
+
+However, once a central bank pays interest on reserves, the macroeconomic impact of ample reserves is
+probably quite small. Banks’ demand for reserves beyond what they need for liquidity management is nearly
+flat, because reserves earn interest. Beyond a certain point, further increases in reserves only push short
+term interest rates down by a very small amount. That is another way of saying that banks are willing to hold
+even quite large amounts of reserves as a share of their balance sheet.
+Figure 2: UK money growth
+
+Figure 3: Money multiplier
+
+Narrow money growth (% yoy)
+Broad money growth (% yoy)
+
+Broad/narrow money multiplier
+200
+
+35
+30
+
+150
+
+25
+
+100
+
+20
+15
+
+50
+
+10
+0
+5
+-50
+1982
+
+1988
+
+1994
+
+2000
+
+2006
+
+2012
+
+2018
+
+0
+1982
+
+1988
+
+1994
+
+2000
+
+2006
+
+2012
+
+2018
+
+Notes: Before May 2006, narrow money is defined as M0, afterwards it comprises notes in circulation and reserve
+balances on the Bank of England’s balance sheet. Broad money is the monetary aggregate M4 as published by the
+Bank. Source: Refinitiv Datastream and Bank calculations. Latest observation: February 2020.
+
+This willingness by banks to hold even quite large amounts of reserves is crucial. It means that the (old)
+textbook idea that there is some mechanical link between reserves, broad monetary conditions and inflation
+is just not right.10 There is an important asymmetry to the provision of reserves: not providing enough
+reserves will cause interest rates to rise and will tighten monetary conditions. But providing more reserves
+10
+
+See McLeay, Radia and Thomas (2014) and Castillo-Martinez and Reis (2019).
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+6
+
+beyond a certain point, into the region where they become ample, has only a small downward effect on
+interest rates and monetary conditions.11 Figures 2 and 3 illustrate this: when reserves were increased
+sharply in QE operations, broad money growth did not follow. Instead, banks just held more reserves as a
+share of their balance sheet, illustrated by the fact that multiplier of broad money to relative to narrow money
+fell sharply.
+
+4. State dependence of the impact of QE
+There are many channels through which QE operations influence yields and the wider economy. 12 For the
+purposes of today’s discussion, what matters is not precisely how it works, but that it works.
+My own view13 is that there are two important aspects to QE. First, its persistent effect is via an expectations
+channel, revealing the central bank’s reaction function when changes in short term rates can no longer fulfil
+that role. Second, QE has important short-run liquidity effects, which are more forceful when financial
+markets are under stress. The impact of QE is therefore state-dependent.
+Figure 4: Equity prices and gilt yields (cumulative changes YTD: % LHS, bps RHS)
+10y nominal gilt yield (RHS)
+FTSE 100 (LHS)
+30
+
+10y real gilt yield (RHS)
+
+19 Feb
+
+60
+
+19 Mar
+
+20
+
+40
+
+10
+
+20
+
+0
+
+0
+
+-10
+
+-20
+
+-20
+
+-40
+
+-30
+
+-60
+
+-40
+01 Jan
+
+-80
+16 Jan
+
+31 Jan
+
+15 Feb
+
+01 Mar
+
+16 Mar
+
+31 Mar
+
+15 Apr
+
+Source: Refinitiv Eikon and Bank calculations. Latest observation: 20 April 2020.
+
+When the economic outlook changes suddenly, financial market prices need to adjust by a large amount in a
+short space of time. That process is not always smooth. Occasionally, it can lead to episodes of so-called
+“fire-sales” of securities: investors or financial intermediaries need to adjust the risk of their portfolio rapidly,
+and sell securities sufficiently rapidly that the price falls by more than the economic fundamentals warrant.
+This process can feed back on itself, and on the economic outlook: the faster the securities are sold, the
+more their price falls, the more investors and intermediaries need to sell the security, amplifying its price fall.
+Moreover, in this process the cost of borrowing for the issuer of the security rises sharply, reducing
+investment demand and wealth, and damaging the economic outlook.
+11
+
+This asymmetry is not the only reason why there is no stable relationship between reserves, broad monetary conditions and inflation.
+Even before QE, the textbook-assumed stable relationship did not exist. Reserve demand can move for many reasons unrelated to
+economic growth and inflation, such as changes in the structure of central bank money market operations (e.g. moving to a corridor
+system), the volatility of interbank payments, liquidity regulation, banks’ ability to forecast daily payment flows, to name but a few.
+12
+See Haldane et al (2016), Kuttner (2018), Dell’Ariccia et al (2018), Bernanke (2020), Vlieghe (2016, 2018) and references therein.
+13
+See Vlieghe (2016, 2018).
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+7
+
+In mid-March, we experienced such an adverse feedback loop between the financial market stress and the
+economic outlook. There was a significant tightening in global financial conditions from mid-February,
+reflecting the rapid downward revisions to the economic outlook as the scale of the pandemic became
+apparent. In the initial weeks of this tightening, asset price moves reflected a large negative and
+disinflationary shock: equity and risky bond prices fell, government bond prices rose (so risk-free rates were
+falling), with inflation breakeven rates fell, as shown in Figure 4.
+Figure 5: Changes in 1y forward curves on 18 Mar 2020 and historical percentiles (pp change)
+
+Observed change in 1y nominal forward curve
+
+Observed change in 1y real forward curve
+0.8
+
+0.5
+0.4
+
+0.6
+
+0.3
+0.4
+0.2
+
+0.2
+0.1
+0
+
+0
+
+-0.2
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+-0.1
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Notes: Charts show the daily change in 1y nominal and real forward curves observed on 18 March 2020. Dotted lines
+denote the historical 90%, 95%, 99%, 99.9% percentiles and maximum observed changes since 1997 respectively (from
+bottom to top).
+Source: Bank calculations.
+
+But as financial conditions deteriorated further, with some market stress indicators approaching levels last
+seen during the financial crisis, market functioning began to deteriorate more rapidly in the week of 16
+March, even in government bond markets. Amid increasing signs of market dysfunction, government bond
+yields began to rise. The rise in yields was driven by real yields, not a rise in inflation compensation, even as
+risky asset prices fell further. The change in the real yield curve on 18 March was the largest one day change
+since the Bank of England independence in 1997, for maturities beyond five years (see Figure 5). This rise in
+yields occurred with most liquidity indicators deteriorating rapidly, and bid-ask spreads in long term bonds
+higher than during the global financial crisis (see Figure 6).14 On their own, each of these developments
+might not necessarily have needed an immediate policy response, but taken together, they risked an
+unwarranted tightening in financial conditions and therefore a policy response was warranted.
+
+14
+
+This was not just a UK phenomenon. The same dynamics were playing out in the US and EA. A shortage in dollar funding meant
+further stress was seen outside the US, though metrics of government bond liquidity also showed extreme levels of distress even in the
+US.
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+8
+
+Figure 6: Bid-Ask spreads in selected gilts (bps, weekly rolling averages LHS)
+5y nominal gilt
+
+10y nominal gilt
+
+30y nominal gilt
+3.5
+
+4.0
+
+3.0
+
+3.5
+
+3.0
+
+2.5
+
+2.5
+2.0
+2.0
+1.5
+1.5
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+0.0
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+Source: Refinitiv Eikon and Bank calculations. Latest observation: 21 April 2020.
+
+The central bank can play an important role in breaking the feedback loop between market stress and the
+economic outlook in its unique capacity to provide aggregate liquidity to the market. By offering to buy some
+of the assets that are being sold in distressed conditions and increasing the level of reserves, the central
+bank can enable commercial banks to provide more liquidity (or at least not withdraw as much liquidity).
+Figure 7: Equity market volatility and UK corporate bond spreads
+
+UK non-financial corporate bond OAS (RHS)
+
+VIX (LHS)
+
+100
+
+300
+19 Feb
+
+90
+
+19 Mar
+
+280
+
+80
+
+260
+
+70
+
+240
+
+60
+
+220
+
+50
+
+200
+
+40
+
+180
+
+30
+
+160
+
+20
+
+140
+
+10
+
+120
+
+0
+01 Jan
+
+100
+
+16 Jan
+
+31 Jan
+
+15 Feb
+
+01 Mar
+
+16 Mar
+
+31 Mar
+
+15 Apr
+
+Source: Refinitiv Eikon. Latest observation: 21 April 2020.
+
+The MPC acted forcefully on 19 March by announcing a programme to buy £200bn of gilts and corporate
+bonds at a rapid pace. As I have argued before, 15 this was the scenario in which QE can be expected to be
+most effective: markets were dysfunctional and there was significant uncertainty about what the monetary
+policy response would be to a shock for which there is no recent precedent. Earlier that same week, other
+15
+
+See Vlieghe (2018, 2019).
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+9
+
+central banks took a range of actions as well. Over subsequent days and weeks, a range of indicators
+suggest that financial market stress eased back substantially, though many indicators unsurprisingly remain
+elevated (Figure 7).
+Reflecting the fact that the immediate priority was to relieve market stress, the MPC communications around
+this latest round of QE were somewhat different from earlier rounds. First, the breakdown between corporate
+bonds and gilts was not pre-announced. Second, the pace of purchases was not pre-announced either, with
+communication emphasising instead that purchases would be made as soon as operationally possible,
+consistent with improved market functioning. Both of these decisions preserved some flexibility for the MPC
+to respond to changes in market conditions as needed. And the MPC emphasised that is stands ready to
+respond further as necessary.
+While the immediate priority of the MPC action was to improve market functioning and signal our resolve to
+act as needed in the face of unprecedented headwinds, the main objective, as always, was to meet the
+inflation target. The MPC judged that the tightening in financial conditions that was underway would have
+caused an unwarranted reduction in aggregate demand and hinder progress towards meeting the inflation
+target, hence it was appropriate to act.
+
+5. Ways and Means
+So far, I have discussed operations that buy (or sell) government bonds and issue (or reduce) reserves, and
+I have shown that this happens both in conventional interest-rate setting operations and in QE operations.
+There is another variation on this theme, which has been in the news recently: the Ways and Means
+account. This is, simply put, an overdraft facility that the UK government has with the Bank of England. It
+exists purely as a short-term cash management tool. In fact, it is a back-up facility to a short-term cash
+management tool, as I will now explain.
+Rather than the central bank buying bonds, the central bank can lend directly to the government. If you think
+of a government bond as fundamentally a loan to the government, you can see that, mechanically, it is really
+just a very similar transaction again as QE and conventional monetary policy: government liabilities on the
+left, reserves on the right, as shown in Diagram 7. The main difference from QE is that the initiative of
+drawing down (and repaying) the facility lies with the government, not the Bank Executive or the MPC.
+The W&M facility is a remnant from the period before the transfer of the government’s cash flow and debt
+management operations from the Bank of England to the Debt Management Office 16 (DMO) in 1998-2000
+The W&M facility was last used in 2008, for an amount of approximately GBP 20bn, to finance a loan to the
+Financial Services Compensation Scheme.17 The amount was repaid after four months.
+
+16
+
+See https://www.dmo.gov.uk/media/2174/drmr9900.pdf
+For a discussion of this transaction at the time, see e.g. https://www.bankofengland.co.uk/-/media/boe/files/quarterlybulletin/2009/quarterly-bulletin-2009-q1.pdf
+17
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+10
+
+Diagram 6: Ways & Means drawing in
+government balance sheet
+
+Assets
+
+Diagram 7: Ways & Means drawing in Bank of
+England balance sheet
+
+Liabilities
+
+Assets
+
+Ways & Means (+)
+
+Ways & Means (+)
+
+Gilts outstanding
+
+Public sector
+securities
+
+Government assets
+
+Liabilities
+Reserve balances
+(+)
+
+Reserve balances
+
+Notes in circulation
+T-Bills
+
+Private sector
+loans/securities
+Net foreign assets
+
+Capital and
+other liabilities
+
+The reason the W&M facility is not generally used is that the DMO seeks to use the market for its financing
+and cash management needs. In the DMO’s own words18, the main long-term financing is done with gilts.
+And since 1995 the government has had a stated policy in place of fully funding its needs. Because
+government cash flows are not perfectly predictable, rough tuning is achieved with Treasury Bills. Even these
+are not instantly available, so fine-tuning is achieved via the DMO transacting bilaterally with the market on a
+secured basis. The W&M facility exists purely as a back-up to the fine-tuning operations. Such a back-up is
+rarely needed except in periods of sharp unexpected deviations from the financing plan, which is why the
+facility was last used briefly in 2008 and not since then, as shown in Figure 8.
+Figure 8: Ways & Means balance as a percentage of public sector net debt
+W&M/Public sector net debt (% of total)
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+2000
+
+2004
+
+2008
+
+2012
+
+2016
+
+2020
+
+Source: Refinitiv Datastream and Bank calculations. Latest observation: February 2020.
+
+18
+
+https://www.dmo.gov.uk/responsibilities/money-markets/
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+11
+
+The predictable part of the swings in government financing is generally met by issues of gilts and treasury
+bills. In practice, this happens via a number of scheduled auctions, as well as syndications and tenders. The
+DMO forecasts government financing needs, and publishes its financing plan in advance. An updated plan
+was published this morning.
+Given that the economy is deteriorating sharply and rapidly, and that the fiscal policy response is also sharp
+and rapid, the government needs to borrow a larger than usual amount in a short space of time. In response,
+the DMO has scaled up significantly the planned issuance of gilts in the coming months.
+The DMO does not refer to any of its cash management tools or operations in its longer term financing remit
+and this also applies to the W&M facility. To be clear, that does not mean it will not get used. It simply means
+that current gilt (and t-bill) issuance plans are sufficient to cover the expected government financing needs in
+the coming months. Only to the extent that there are unexpected needs on top of the planned amounts, and
+to the extent that those unexpected needs cannot be fully covered by bilateral borrowing, only then will the
+W&M facility be used. And even then, the use will be short term. As soon as possible before the end of the
+year, the DMO will scale up gilt issuance to repay the W&M balance.19
+The important consideration here, as far as monetary policy is concerned, is that due to the short term nature
+of these W&M cash management transactions, they do not in any way affect the MPC’s ability of doing its job
+of meeting the inflation target.
+
+6. CCFF
+For completeness, I will also mention the Covid Corporate Financing Facility (CCFF), which is different from
+either the W&M facility or QE, but has some elements in common with each.
+Like W&M, the CCFF is for use at the discretion of the government, not the MPC. Unlike W&M, the CCFF
+provides financing to the private sector, not the government. The assets of the CCFF are commercial paper
+(of maturity up to 12 months) issued by eligible corporates.20 This is a government scheme, in the sense that
+the government decides how much to lend and on which terms, and the government assumes all the risks
+via an indemnity.
+Even though this is a government scheme, it is operated by the Bank of England. It affects the Bank of
+England’s balance sheet insofar as the purchases of commercial paper are ultimately funded by issuing
+reserves.
+As I have discussed earlier, the expansion of reserves, more deeply into the “ample” reserves range,
+generally has only a limited impact on monetary conditions. In any case, the MPC remains fully in control of
+QE and conventional monetary policy, and can decide to offset any consequence of an expansion of the
+CCFF on monetary conditions, should that be required to meet the inflation target.
+At the moment, there is absolutely no need for such offsetting operations, since all of the CCFF, W&M (if it
+were to be used), conventional monetary policy and QE are all working in the same direction of preventing
+an unwarranted tightening in financial conditions that would, if left unaddressed, lead to an even sharper
+economic downturn and inflation falling further below target. The MPC stands ready to take further action to
+support the economy consistent with its remit.
+19
+
+As stated explicitly in the press release concerning the W&M facility, https://www.bankofengland.co.uk//media/boe/files/news/2020/april/hmt-and-boe-announce-temporary-extension-to-ways-and-means-facility.pdf
+20
+For details on CCFF eligibility and pricing see: https://www.bankofengland.co.uk/news/2020/march/the-covid-corporate-financingfacility
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+12
+
+7. Monetary Financing?
+Having explained how the Bank of England balance sheet reflects different types of monetary policy
+operations, I now want to tackle the issue of monetary financing. There is confusion over what this term
+means. And this leads to unproductive debates. We say we are not doing monetary financing according to
+our definition21, and someone else says we are in fact doing monetary financing according to a different
+definition. That is an argument about definitions, rather than about what we are doing.
+One rather mechanical definition is that monetary financing means financing fiscal spending with central
+bank money rather than by issuing government bonds. The problem is, as I have explained in the earlier
+sections of this speech, this description fits most central bank monetary policy operations, in the UK and
+elsewhere. When a central bank issues reserves, the main counterpart asset on the central bank balance
+sheet is generally some form of government financing.
+Note that, even though in a strict sense some part of government spending is always financed with central
+bank money, it is not the same as saying that this part of government borrowing is costless. The government
+owns the central bank. Consider the difference, financially, between the part of government spending that is
+financed by gilts held by the private sector, and the part that is financed via the central bank. The part that is
+financed by gilts held by the private sector has an interest rate cost to the government that is just the interest
+rate on the gilts. The part that is financed by the central bank is different: the government pays the gilt
+interest rate to the central bank, the central bank receives this gilt interest rate, but in turn pays out interest
+on the reserves that finance the gilt holdings 22. But the central bank is owned by the government. So the net,
+or consolidated, cost to the government of that part of its financing which is done through the central bank, is
+the interest rate paid on reserves.23 That is why many economists characterise QE as akin to a switch from
+borrowing at long-term rates to borrowing at short-term rates.24
+So a mechanical definition of monetary financing as financing fiscal spending with central bank money rather
+than government bonds is not useful. To some extent, central banks are always doing that. Qualifying this
+definition with amounts or time horizons does not help either.
+Is it ok for the central bank to finance some, but not too much? How much is too much? Before the crisis,
+central bank money (notes and reserves) in the UK was about 12% of government debt. Now it is 26% of
+government debt. In Japan it is 42% of government debt. There is no clear threshold beyond which monetary
+financing is “too much”, as long as investors believe government finances are sustainable without resorting
+to inflation. And, given the low levels of government bond yields and break-even inflation rates in the UK,
+investors clearly do believe that government finances are sustainable without resorting to inflation.
+What about a time horizon? Can we say that a temporary operation is fine, but a permanent one is not? That
+is problematic too. We carried out several rounds of QE operations after the financial crisis, expecting them
+to be unwound some years later as the economy improved sufficiently. But the economy did not improve
+sufficiently, the neutral rate of interest fell more persistently than we expected, with the result that the amount
+of gilts we own has so far not been reduced. 25
+Governor Andrew Bailey described monetary financing as “a permanent expansion of the central bank balance sheet with the aim of
+funding the government”, Financial Times, 5 April 2020.
+22
+See Vlieghe 2019 for analysis of case where no interest is paid.
+23
+The same is true for W&M: government borrows directly at policy rate, which is the rate paid on reserves.
+24
+Allowing the central bank to use QE as a policy tool is not without risk to the government. The government generally finances itself at
+long average maturities, so as to insure itself partly against the cost of fluctuations in short-term interest rates. The higher the
+outstanding QE as a share of total government debt, the more the government is exposed to fluctuations in short-term interest rates in
+the future. By allowing QE, the government has given the central bank an additional monetary policy lever to achieve the inflation target,
+demonstrating the importance of price stability.
+25
+The reason we have not even begun to reduce the QE portfolio is, as stated, that the economy has needed lower interest rates for
+longer than we expected. But even if the economy had been stronger, we would not have reduced Bank of England gilt holdings to their
+21
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+13
+
+I propose that these types of discussions about monetary financing definitions are not useful. One person
+might say we have never done monetary finance, another might say we are always doing monetary finance,
+and in some sense both are correct.
+Let us focus on what really worries (some) people: is this all going to end in inflation, or even in
+hyperinflation, as in the Weimar Republic or Zimbabwe?26 When people worry about monetary financing,
+these historical parallels are often what they have in mind.
+To understand whether we are headed that way, it is not sufficient to analyse the transactions on our
+balance sheet. Good and bad monetary financing transactions look the same initially, but one ends in
+inflation at target and the other ends in excessive inflation. The key distinction between what the Bank of
+England is doing and the disastrous historical monetary financing episodes is this: who makes the decision
+and with what objective?
+The MPC has decided to expand the Bank of England’s balance sheet, because we believe that if we do not,
+the economy will weaken further such that we would fall short of our inflation target. Do the monetary
+financing worriers really believe that we should not be providing support to the economy? There were similar
+concerns in 2009 when QE was first introduced. Some thought it would turn out to be excessively
+inflationary. Instead, the post-crisis recovery was generally characterised by inflation being too weak, rather
+than too strong. Central banks that did QE earlier, ended up with inflation closer to target. Those that waited
+longer to act, undershot their inflation target by more, some persistently so.
+If we were the central bank of the Weimar Republic or Zimbabwe, the mechanical transactions on our
+balance sheet would be similar to what is actually happening in the UK right now. That is not where you
+would find the smoking gun. The difference would be that government would be telling the central bank what
+to do, implicitly or explicitly, in order to achieve fiscal objectives while subordinating any inflation objectives, a
+situation also known as fiscal dominance. Why would that ultimately lead to inflation? Because, once a
+government decides to prioritise its fiscal objectives above its inflation objectives, it is likely to involve
+removing central bank independence implicitly or explicitly, and crucially keeping short-term interest rates
+lower than would be appropriate to meet the inflation target. The real ex-post financing cost of government
+debt could be lower,27 because the debt reduction would be in part achieved via higher inflation. Weimar and
+Zimbabwe had central banks that issued however much central bank money was required to achieve the
+government’s financing needs, without any credible action to meet inflation objectives.
+
+pre-2008 levels, as changes in liquidity regulation and liquidity demand mean that banks are likely to want to operate with a far higher
+level of reserves than before 2008. See e.g. Ramsden (2018) for more on this.
+26
+For other such episodes see Sargent (1982).
+27
+I say “could” rather than “would”, because it depends on how quickly financial markets price in the higher inflation risk. Allowing
+inflation to overshoot the target reduces the cost of existing financing, but to the extent that it increase inflation risk premium, it
+increases the financing cost of new financing. Which effect dominates depends on the maturity of the debt, the composition between
+nominal and index-linked, and on how financial market expectations evolve.
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+14
+
+8. Conclusion
+Central banks use their balance sheets to achieve monetary policy objectives. In doing so, they affect
+government finances. That has always been the case, and that continues to be the case. This in no way
+detracts from the central bank’s independence and its ability to hit the inflation target.
+The fact that you can observe a large fiscal stimulus at the same time as large QE operations is not because
+one is driving the other. Rather, it is because both are responding to a large economic shock, just as they
+were in 2009, with the mutually consistent aim of stabilising the economy and meeting the inflation target.
+The UK has an institutional framework in place to make it abundantly clear that the MPC is in charge of
+monetary policy. Operational independence, a legal mandate for price stability, the structure of MPC,
+accountability to parliament and the public, an indemnity from the government, are all part of an institutional
+framework designed to safeguard the inflation target and the tools needed to achieve it. The MPC continues
+rigorously to frame its monetary policy actions in terms of its monetary policy remit.
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+15
+
+References
+Altavilla, C., Carboni, G., Lenza, M. and H. Uhlig (2020), ‘Interbank rate uncertainty and bank lending’,
+ECB working paper No 2311.
+Bernanke, B. (2020), “The New Tools of Monetary Policy”, American Economic Review, 110(4): 943-983.
+Castillo-Martinez, L., Reis, R. (2019), “How do central banks control inflation? A guide for the perplexed”,
+Unpublished working paper available at: http://personal.lse.ac.uk/reisr/papers/99-perplexed.pdf
+Correa, R., Du, W. and G. Liao (2020), ‘US Banks and Global Liquidity’, working paper Board of Governors
+of the Federal Reserve System.
+Cui, W. and V. Sterk (2019), ‘Quantitative Easing’, HKIMR Working Paper, No. 08/2019.
+Dell’Ariccia, G., Rabanal, P. and D. Sandri (2018), “Unconventional Monetary Policies in the Euro Area,
+Japan, and the United Kingdom”, Journal of Economic Perspectives, 32(4): 147-172.
+Haldane, A., Roberts-Sklar, M., Wieladek, T. and C. Young (2016), “QE: the story so far”, Bank of England
+Staff Working Paper, No. 624.
+Hauser, A. (2019), “Waiting for the exit: QT and the Bank of England’s long-term balance sheet”, speech
+available at https://www.bankofengland.co.uk/speech/2019/andrew-hauser-speech-hosted-by-the-afme-isdaicma-london
+Kuttner, K. (2018), “Outside the Box: Unconventional Monetary Policy in the Great Recession and Beyond”,
+Journal of Economic Perspectives, 32(4): 121-146.
+McLeay, M., Radia, A., Thomas, R. (2014), “Money creation in the modern economy?", Bank of England
+Quarterly Bulletin 2014 Q1.
+Piazzesi, M., C. Rogers, and M. Schneider (2019), ‘Money and banking in a New Keynesian model’,
+Working Paper, Stanford.
+Ramsden, D. (2018), “Finding the right balance”, speech available at
+https://www.bankofengland.co.uk/speech/2018/dave-ramsden-society-of-professional-economists-annualconference
+Reis, R. (2016), “Funding Quantitative Easing to Target Inflation”, in Designing Resilient Monetary Policy
+Frameworks for the Future, Jackson Hole Economic Policy Symposium: Federal Reserve Bank of Kansas
+City.
+Sargent, T. (1982), “The Ends of Four Big Inflations”, in: Hall (ed.), Inflation: Causes and Effects, University
+of Chicago Press.
+Vlieghe, G. (2016), “Monetary Policy Expectations and Long Term Interest Rates”, speech available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech909.pdf
+Vlieghe, G. (2018), ‘Yield Curve and QE’, speech available at:
+https://www.bankofengland.co.uk/speech/2018/gertjan-vlieghe-imperial-college-business-school-london
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+16
+
+Vlieghe, G. (2019), ‘Monetary policy: adapting to a changed world’, speech available at:
+https://www.bankofengland.co.uk/speech/2019/gertjan-vlieghe-speech-at-money-macro-and-finance-societymonetary-and-financial-policy-conference
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+17
+
+

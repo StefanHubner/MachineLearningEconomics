@@ -1,0 +1,384 @@
+The case for more CHAPS settlement banks
+Speech given by
+Chris Salmon, Executive Director of Banking Services and Chief Cashier
+
+Yorkshire and Humberside Network of the ifs School of Finance, Leeds
+5 July 2011
+
+I would like to thank Matthew Brewis, Toby Davies, Edward Denbee, Andrew Dent, Chris Mann,
+Ben Norman, Hannah Reynolds, Gregory Stevens and Paul Tucker for their help in preparing this
+speech.
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+It is a pleasure to be here this morning to address the Yorkshire and Humberside Network of the ifs School of
+Finance. My colleague, Paul Fisher, is the Chairman of the Board of Governors of the School. I share Paul’s
+view that the School’s remit to provide the financial services industry with a skilled and competent workforce
+whilst also promoting a better understanding of finance amongst consumers, will be more relevant than ever
+over the coming years as the financial system repairs and, hopefully, as confidence and trust in the system
+restores.
+
+My focus today is on the high value payment systems which sit at the heart of the UK banking system,
+CHAPS and CREST.
+
+The CHAPS payment scheme is designed for making instant, high-value sterling transfers and is one of the
+most systemically important payment systems in the UK. Typically, you and I will initiate a payment using
+CHAPS only rarely, for example when buying a house. But financial institutions will make many large
+CHAPS transactions every day, regularly settling inter-bank loans worth hundreds of millions of pounds. It
+settles payments worth £250bn on an average day and 40 times the value of UK GDP over a year. The
+CREST system plays an equivalent role for securities transactions and is used intensively by financial
+institutions for the exchange of loaned funds and associated collateral.
+Systems such as CHAPS and CREST have a low profile yet as Alan Greenspan remarked about the US,1
+
+“We’d always thought that if you wanted to cripple the US economy, you’d take out the payment systems.
+Banks would be forced to fall back on inefficient physical transfers of money. Businesses would resort to
+barter and IOUs; the level of economic activity across the country would drop like a rock.”
+
+My main aim this morning is to explain why the Bank believes that the currently rather limited direct
+membership of CHAPS should expand. I will also summarise a number of technical reforms that the Bank is
+championing, which will reduce the amount of intraday lending by the Bank to the CHAPS and CREST
+member banks. These reforms will also have financial stability benefits. But before doing so I want to reflect
+briefly on the key design features of CHAPS and CREST, and why those features enabled the payment
+systems to operate reliably during the recent crisis. This provides context for explaining the changes which
+the Bank would like to see.
+
+Precisely because the key payment systems are so important, banks, system operators and their overseers
+go to great lengths to ensure their safety. For example, they typically settle in the safest asset
+possible-central bank money – giving banks confidence that their exposure to a transaction is permanently
+extinguished when payment is received into their central bank account. If, conversely, settlement occurred
+across the books of a commercial bank, the payment recipient would retain an exposure to the commercial
+
+1
+
+Greenspan, A (2007), ‘The Age of Turbulence, Adventures in a New World’, Penguin Press, New York
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+2
+
+bank in question. 2 In the UK, settlement at the Bank of England dates back well over a hundred and fifty
+years.
+
+In recent times, the key change to CHAPS has been the shift to a real time gross settlement (RTGS) method
+for transferring funds between banks. Prior to RTGS, CHAPS payments were settled on an end of day net
+basis when all the individual movements between the settlement banks were netted together and settled as
+one. The risk was that if a settlement bank was unable to meet its end of day net payment obligation, funds
+that the other banks had been expecting would not have materialised. So banks could have been left short
+of funds that they had treated as being already theirs and which, on some occasions, they had made
+available to customers in anticipation. Under RTGS, which CHAPS adopted in 1996, individual payments
+are settled across the settlement banks’ accounts throughout the day, in real-time. Banks know exactly what
+they have and, equally importantly, what they don’t have, eliminating the uncertainty that had previously
+existed.
+
+This development was not unique to the UK, but was part of a wider, global initiative recognising the
+considerable risk-reduction that real-time gross settlement could bring, which saw similar systems
+established in all but one of the G-10 countries by 1998.3
+
+Simplifying slightly, prior to RTGS the settlement banks had in effect lent and borrowed from each other
+intraday, unsecured, settling on a net basis at the end of the day. That practice ceased with RTGS, creating
+an intraday funding need to bridge between the gross payments in and out. The solution, which facilitated
+the adoption of RTGS here and overseas, was for central banks to provide freely intraday credit, or liquidity,
+but secured against high-quality assets. 4
+
+The move to RTGS for cash payments was mirrored in the main securities settlement systems. In the UK,
+CREST was reformed in 2001 to operate according to a model of “Delivery versus Payment” in which
+securities and associated payments were exchanged simultaneously, with settlement in central bank money
+being made in RTGS. Again this eliminated credit risk – in this case, the risk that a counterparty might
+default after the securities had been transferred but before they had been paid for – and represented another
+significant step forward in securing the robustness of the UK payments infrastructure.
+
+The vital importance of a resilient payment system was never more evident than in the autumn of 2008. In
+the aftermath of Lehman Brothers’ bankruptcy, banks became increasingly reluctant to deal with each other,
+with even overnight money markets edging towards closure. In such a climate, banks would have been
+2
+
+Committee on Payment and Settlement Systems (2001), ‘Core Principles for Systemically Important Payment Systems‘, Bank for
+International Settlements.
+3
+See the 1990 Report of the Committee on Interbank Netting Schemes of the central banks of the Group of Ten countries (the
+‘Lamfalussy report’) available at http://www.bis.org/publ/cpss04.htm and the 1997 Report on Real Time Gross Settlement systems
+available at http://www.bis.org/publ/cpss22.htm
+4
+In the UK’s case, those assets are also the assets eligible in the Overnight Standing Facilities, such that if a bank could not repay its
+end of day borrowing for an operational reason it would be possible at the Bank’s discretion to roll the intraday borrowing into the
+Overnight Standing Facilities.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+3
+
+extremely unwilling to engage in any activity that risked them developing an intraday exposure to banks
+which could have been on the brink of collapse. But in the absence of RTGS and DvP, many transactions
+could have entailed such a risk. Without these crucial developments, the payment system could have frozen
+up entirely. Instead, as risk appetites diminished sharply and the terms of loans shrunk, the daily value
+flowing though the payment system grew. Until mid-September 2008, the maximum daily value ever settled
+by DvP was £450bn. Within just over a month, the £450bn peak was exceeded 11 times, 5 successive new
+records were set, and average values climbed by almost £80bn. In mid-January, a new peak of £629bn was
+hit: a record which stands to this day and was nearly twice the pre-crisis 2008 average5. Any faltering of the
+CHAPS or CREST system during a time of such immense pressure could have greatly exacerbated the
+crisis; it is thanks to the series of reforms bolstering their resilience that this was avoided.
+
+We should be grateful therefore to all of those who championed the cause of moving to RTGS in the 1990s:
+a difficult to implement reform which took years to achieve. But it is important to remember that these
+changes only affected the means of settlement between the direct members of each payment system, and
+this takes me on the central issue I want to discuss this morning: the case for greater direct membership of
+CHAPS.
+
+In large value payment systems, banks can participate either directly or indirectly. If they participate
+indirectly, then they will make use of a correspondent bank. The correspondent will be a direct member of
+the payment system and will submit and receive payments on behalf of its customer, with the consequent
+obligations between the correspondent and its customer typically settled by the end of the day.
+
+Access patterns to high-value payment systems vary widely across currency areas; there has been no
+convergence in practices to match the move to the RTGS technology. Sterling sits at one end of the
+spectrum, with indirect membership the norm: there are only 18 direct members of CHAPS for sterling
+payments.6 At the other end of the spectrum is Hong Kong, where all licensed banks are required to be
+direct participants of the Hong Kong dollar high value payment system. Membership of other high value
+systems typically sits somewhere between these extremes — for example Fedwire has over seven thousand
+direct participants, accounting for most of credit institutions in the US. In the parlance of payment systems,
+membership of CHAPS is highly tiered, whereas the membership of the HK system is not at all tiered.7
+
+The diversity reflects, in part, the different ways in which national payment systems have evolved: in the
+United Kingdom’s case, the lingering after-effects of the interaction of the development of a basic payments
+infrastructure in London during the 18th century and regulatory restrictions on joint-stock banking which
+
+5
+
+Figures refer to final exchanges of value across settlement accounts at the Bank of England.
+And this includes two banks that are part of other settlement banking groups as well as the Bank of England and CLS, the foreign
+exchange settlement system.
+7
+The level of tiering is defined as the ratio of direct participants to all banks that make payments via the system. A high value indicates a
+low level of tiering, whereas a low value indicates a high level of tiering.
+6
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+4
+
+remained in place until the 19th century.8 It is also symptomatic of the lack of any international consensus on
+the optimal trade-off between direct and indirect membership to drive convergence to a particular model.
+
+What then are the costs of having indirectly settled payments?
+
+Perhaps most important, intraday credit risk is re-introduced. Customer payments are made by the
+correspondent bank using its own liquidity, which often leads to unsecured lending to the customer until
+accounts are squared at the end of the day. This exposes the settlement bank to credit risk because it is
+ultimately responsible for the payments, whether or not the customer meets its obligation to pay at the end of
+the day. Alternatively, if a settlement bank has received in more payments for a customer than it has paid
+out, the customer bank has an unsecured credit exposure until those funds are credited to it.
+
+Where a customer is larger than its correspondent, these credit risks can become material enough to
+threaten the correspondent. This risk nearly materialised during the financial crisis, where in one of the UK
+payment systems, a UK bank that got into difficulty made its payments through a much smaller bank, in
+terms of balance sheet size. These exposures could well have put the smaller bank in significant financial
+difficulty had the authorities not intervened in the failing bank.
+
+Precisely because of this type of risk, correspondent banks are likely to seek additional protection during
+periods of stress, in particular by asking for previously uncollateralised lines to become collateralised. This
+could happen at very short notice, acting as an adverse liquidity shock to affected customer banks. To take
+a famous case, this happened to Lehman Brothers. In the weeks leading up to its bankruptcy, its
+correspondents from around the world called for a total of $16 billion of collateral and prefunding. This was a
+significant drain on Lehman’s liquid asset pool, which had not been calibrated to take into account this
+possibility, contributing materially to the speed of its demise.9
+
+Finally, customer banks may be completely operationally reliant on their correspondent to make payments
+and settle trades. Were a correspondent to have operational issues, or in extremis to default, this would
+disrupt its customers’ payment flows. This loss of control over operational risk could be a significant cost of
+participating as an indirect member.
+
+8
+
+th
+
+By the mid 17 Century, goldsmiths in London carried out a banking business, creating money and accepting each other’s notes.
+Settlement between the goldsmiths happened bilaterally; bank clerks met to exchange notes and differences were settled in specie.
+These arrangements were formalised by 1770, when the Walk Clerks (as they became known) started meeting in the Five Bells on
+Lombard Street to settle everything in one location. In 1833 a purpose built Clearing House was constructed and the freehold was
+purchased by 39 member banks in 1834. When, in 1895, the organisation became a private company, the Bankers’ Clearing House
+Limited, bankruptcies and mergers meant that only four members remained. On the regulatory side, until 1826, the Bank of England
+had a nationwide monopoly on joint-stock banking. This served to prevent other banks from expanding greatly in size and meant that
+they focused on serving local needs. But these banks – notably, the so-called ‘country banks’ – needed to have a London
+correspondent account in order settle payments with banks in London and the other regions. See Norman, B, Shaw, R and Speight, G
+(2011), ‘The history of interbank settlement arrangements: exploring central banks’ role in the payment system’, Bank of England
+Working Paper no. 414 for for a more in-depth history of settlement arrangements and Matthews, P (1921), The bankers’ clearing
+house, Sir Issac Pitman & Sons Ltd, London for a history of the Bankers’ Clearing House
+9
+Valukas, A (2010), ‘Lehman Brothers Holdings Inc. Chapter 11 proceedings Examiner’s report’, Jenner & Block, March.
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+5
+
+At its most general, a customer bank makes itself reliant on its correspondent: if that correspondent gets into
+difficultly, for either credit or operational reasons, the customer bank could be imperilled. Indeed, during the
+Great Depression, 247 US banks were closed between Jan 1929 and Mar 1933 due to the failure of a
+correspondent. And to give a more local, if not so recent example, in 1812, “...the bankruptcy of the London
+house of Messrs. Boldero & Lushington with twelve [customers]...pulled down its Leeds [customer],
+Messrs Fenton, Scott, Nicholson & Smith and created serious difficulties for others such as
+Messrs Townend & Rishworth of Wakefield and Pease & Co. of Hull...(Pressnell 1946, pp. 469-470)”.10
+
+The primary impact of these risks is upon the correspondent banks and their customers. But there are also
+spill-over risks. For example, uncertainty about the exposure a settlement bank has to a customer in
+difficulty could lead other banks to delay payments to the correspondent, amplifying the disruption.
+
+Set against this, there are some benefits from having indirect members. First, membership of a payments
+system can be costly financially and in terms of know-how, potentially prohibitively so for small banks. This
+seems a material consideration, for example, for many of the UK’s small banks and building societies. There
+can be financial and informational economies of scale from concentrating membership. Second, RTGS
+systems require a degree of cooperative behaviour: there is an in-built incentive with real time settlement to
+delay one’s payments to the end of day in the hope of receiving others’ payments early. But if everyone in
+the payments scheme adopted such an approach, then all transactions would shift to the end of the day, a
+self defeating outcome which would simply elevate operational risk (a bunching of payments near the end of
+the day increases the value and volume of activity at risk from an unresolved operational outage). This is a
+feature of Fedwire in the US, where the majority of payments are typically made after 3pm each day. In
+theory, limited direct membership should make it easier to cooperate, such that payments are made
+throughout the day,11 and in practice such behaviours are evident by the CHAPS banks. Finally, because
+use of correspondents concentrates payments through a smaller number of banks, each of those banks is
+better able to coordinate incoming and outgoing flows. This coordination makes settlement more efficient,
+reducing the amount of liquidity that is needed for each pound or dollar of payment that is settled.
+
+In principle, there could be too little as well as too much tiering and a balance must be struck between the
+costs and benefits for individual banks and for the system. At some point, the complexity of a payment
+system with many members could outweigh the risk reduction benefits from adding more banks.
+
+However, the case is clear for CHAPS. Just 18 direct members serve the entire sterling banking industry.
+Over 50% of CHAPS payments are made by correspondent banks on behalf of customer banks, implying
+10
+
+James, Prof. J, University of Virginia, ‘Correspondent Banking and Payments System Disruptions in England through 1825’
+Unpublished Manuscript. (Terminology adjusted to bring in line with that used here).
+11
+This has much in common with the Volunteer’s dilemma which describes a situation whereby a volunteer is needed to sacrifice itself
+so that an entire group can benefit. The Volunteer’s dilemma predicts that in smaller groups individuals are more likely to act for the
+common good, in payment systems this means making payments early and providing liquidity to the system which is important for the
+smooth running of the system. (Diekmann, A (1985), ‘Volunteer’s dilemma’, Journal of Conflict Resolution, Vol. 29, No. 4, pages 605–10
+shows that as group size increases, individual members are less willing to volunteer and therefore more likely to free ride on the liquidity
+provision of others).
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+6
+
+that those payments are subject to the risks outlined above. Moreover, the risks that some banks are
+running to provide intraday liquidity are very large: the Bank estimates that some intraday credit lines are in
+excess of 10% of the correspondent bank’s core tier 1 capital.
+
+The Bank believes that excessive tiering in the UK payment systems introduces unnecessary risk and
+change is needed. That is also likely to be a conclusion of the IMF in their 2011 Financial Sector
+Assessment Programme. The experience of the financial crisis, in particular the case of Lehman Brothers,
+has added further evidence for the case for change and two major banks, appearing to have drawn this
+conclusion for themselves, have become direct members of CHAPS since the crisis.
+
+As it happens, CHAPS membership would not need to expand by much to go a long way to meeting the
+Bank’s concerns. Adding the five largest second tier banks would reduce indirect participant flows by about
+a quarter. Adding the 10 largest second tier banks would lead to reduction in indirect flows of more than a
+third. And if settlement banks were additionally to rationalise their own affairs so that all of their payments
+were made through their own settlement account, then only around a quarter of CHAPS payments would be
+made via a correspondent banking relationship. Changes of this magnitude should not be extensive enough
+to realise the potential costs of increased direct membership outlined above.
+
+In the first instance the Bank will engage with the correspondent and the customer banks directly, together
+with their respective supervisors at the FSA, to encourage the change we want to see. But if membership
+does not increase, and tiering continues to be a significant issue for the UK, the Bank may consider recourse
+to more formal actions. Essentially, the wholesale payment systems have a responsibility to ensure that their
+members can cope with their payments business. That needs to be reflected in their rules.
+
+More generally, perhaps in light of lessons from crisis, there is now more international debate about the risks
+associated with highly-tiered payment systems. Draft new principles for payment systems and other financial
+market infrastructures, published by the Basel Committee on Payment and Settlement Systems and
+International Organisation of Securities Commissions identify the need to mitigate the risk of tiered
+participation as a key requirement. The Bank strongly supports this requirement.
+
+Before I move on to the other, technical, changes to the schemes that the Bank is championing, I will explain
+a little more about the operation of the CHAPS and CREST systems. As I stated earlier, RTGS considerably
+increased the intraday liquidity demands on the settlement banks. At the inception of RTGS, the Bank
+decided to allow the settlement banks access to plentiful intraday liquidity, to facilitate the use of the new
+RTGS system. To minimise the opportunity cost of this intraday borrowing, settlement banks were allowed
+to pledge as collateral intraday the same low-risk securities which they were required by the regulators to
+hold in their liquid asset buffers at close of business (a practice known as “double duty”). And as well as
+making intraday credit essentially free, the Bank made it extremely accessible: in the case of securities
+settlement in CREST, credit was provided to banks automatically in response to certain asset purchases,
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+7
+
+regardless of whether they needed additional funds or not. As a consequence, the supply of liquidity has
+often been far greater than actually necessary.
+
+These introductory measures were appropriate when RTGS was being established, to ease the transition to
+a safer model of payments settlement. But the measures carried risks with them.
+
+The problem with “double duty” is that allowing settlement banks to use securities in their regulatory stock of
+liquid assets – designed to act as a liquidity buffer to fund day-to-day outflows in times of stress – to fund
+their intraday payments activity fails to recognise that one set of assets cannot cover two different shortfalls if
+they both materialise at once. But this is exactly what is likely to happen at times of financial stress. In
+future, the FSA will require settlement banks to account specifically for their intraday liquidity needs in the
+size of their liquid asset buffers.
+
+Because removing double duty will make intraday liquidity more expensive, there is a possibility that banks
+may try to economise on it. One way they might try do this would be to delay their payments in wait of
+receipts and engage in the sort of uncooperative behaviour that I described earlier. This is clearly
+undesirable from a financial stability point of view.
+
+As for the over-supply of intraday liquidity, the extension of any credit by the Bank clearly brings risk onto its
+balance sheet (which is currently around 50% larger during the day than it is overnight). While such credit is
+collateralised by high quality assets with prudent haircuts, there is always a small residual risk that at times
+of stress market prices will move by exceptional amounts, even higher than allowed for in those haircuts; in
+those circumstances the Bank may not be able to recover the full value of a loan in the event of a
+counterparty default. And if, at times of stress, an intraday loan should have to be converted into overnight
+lending, this would impact on the aggregate value of reserves held by banks, which the Bank would need to
+manage via its Sterling Monetary Framework operations.
+
+Turning to the reforms, in relation to the risk of delayed payments, the Bank is working with the CHAPS
+settlement banks to implement a liquidity savings mechanism (LSM) into RTGS.12 This will enable some of a
+bank’s incoming and outgoing payments to be settled simultaneously in full, while requiring only the net
+amount of liquidity. The introduction of an LSM should reduce the incentive to delay and create incentives
+for early settlement. If nevertheless, after the introduction of LSMs, payment delays became more common
+as banks respond to the changed regulatory environment, the Bank would investigate other options to
+disincentivise such behaviour.
+
+Although the risks to the Bank from the provision of intraday liquidity are judged to be small, it is prudent
+balance sheet management to seek to minimise the amount of intraday liquidity created as far as is practical
+without impeding the efficient settlement of payments. To that end, we are working with the operator of
+12
+
+Norman, B, (2010), ‘Liquidity saving in real-time gross settlement systems – an overview’, Financial Stability Paper no. 7
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+8
+
+CREST to modify the system so that intraday liquidity for securities settlement is extended only when
+necessary.
+
+Finally, and slightly separately, the Bank is supportive of efforts to modify the centralised settlement of
+collateralised loans in CREST, so instead of the previous arrangement, which saw the deal winding and
+unwinding every day, settlement simply occurs at the start of the deal and unwinds at the end. This will
+reduce demand for intraday liquidity from the settlement banks, which in turn reduces the intraday expansion
+of the Bank’s balance sheet and the associated operational risks. As such, I encourage market participants
+to embrace the new CREST “Term DBV” product which went live just over a week ago.
+
+To conclude, the payments infrastructure proved resilient during the crisis. In no small part this was a
+dividend from the efforts invested in the 1990s to introduce real time settlement into those systems. But the
+Bank has long held the view that extensive indirect membership means that the UK payments infrastructure
+is not as robust as it could be, a perspective which has been reinforced by the lessons of the financial crisis.
+The Bank is actively working to address this issue.
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+9
+
+

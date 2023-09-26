@@ -1,0 +1,362 @@
+Bank of England
+
+Page 1
+
+Reflections on DeFi, Digital
+Currencies and Regulation −
+speech by Jon Cunliffe
+Given at Warwick Business School’s Gilmore Centre Policy Forum
+Conference on DeFi & Digital Currencies
+21 November 2022
+
+Bank of England
+
+Page 2
+
+Speech
+I had intended today to talk about the work the Bank of England, is doing with the
+Treasury, the FCA on the regulation of crypto stablecoins and our work on a potential
+central bank digital currency in Sterling.
+That remains the bulk of what I will talk about today. But between beginning to draft these
+remarks and delivering them today, we have seen what is probably the largest – and
+certainly the most spectacular – failure to date in the crypto ecosystem, by which of course
+I mean the collapse of the crypto trading platform FTX and most of its associated
+businesses.
+So I thought it might be worthwhile to start with a brief look at the FTX implosion to frame
+some of the points I intend to make on regulation of the use of crypto-related technologies
+to provide financial services and on why, as a central bank, we are actively exploring the
+issuance of a digitally native Pound sterling.
+Untangling exactly what happened at FTX will no doubt take a great deal of time, effort
+and investigation by the relevant authorities. For anyone interested in the scale of the
+challenge, I can only recommend a quick read of last week’s bankruptcy filing. But while
+we will not know in full how it happened for some time, there do appear to be some
+general themes that are very familiar to those who regulate and supervise conventional
+financial firms and financial instruments.
+The first are fundamental issues around how financial institutions should be organised, by
+which I mean their corporate structure, governance, internal controls and record keeping.
+Regardless of the financial service activity – be it banking, insurance, exchanges, clearing
+houses – regulation in the conventional financial sector imposes stringent/substantive
+requirements. Supervision aims to ensure that these are implemented.
+These requirements reflect the risks inherent in financial services – risks to the users, risks
+to other financial firms and risks more broadly to the financial system. Technology in and
+of itself does not change the need for transparency in corporate structures, governance,
+audit and systems and controls – for example to protect customers’ funds.
+In a similar vein, and to prevent conflicts of interest, regulation imposes requirements and
+constraints on the connections between a financial firm and its affiliates, while also
+requiring controllers to be fit and proper. In this respect, transparency in corporate
+structures and the relationships between them is the key foundation.
+
+Bank of England
+
+Page 3
+
+The connections between activities carried out within the firm matter also. Lending,
+brokering, providing an exchange platform, clearing and settlement perform different
+economic functions that carry different risks.
+For financial market infrastructure firms, such as a central counterparty or an exchange or
+custody of assets (both/all of which activities FTX sought to undertake, the regulatory
+system and international standards in place aim to stop these important pieces of financial
+market infrastructure from taking on credit/liquidity/market risk beyond what is absolutely
+necessary to discharge their core functions. Where they happen within one group,
+regulation requires separate, independent governance, to ensure the risks inherent in each
+is properly managed.1
+FTX, along with a number of other centralised crypto trading platforms, appear to operate
+as conglomerates, bundling products and functions within one firm. In conventional finance
+these functions are either separated into different entities or managed with tight controls
+and ring-fences.
+It is worth noting that this bundling appears to have been primarily organisational rather
+than technological – that is to say, the functions were offered by different parts of the FTX
+group but were not bundled in the sense of being run as one single piece of code
+performing multiple functions. I will return to the question of integration of functions in
+smart contracts later on.
+I have mentioned some familiar regulation issues around the organisation and governance
+of conventional financial firms. There appear, in the FTX case, also to be familiar issues
+around the financial instruments involved. Collateral performs a variety of vital function in
+financial services. It protects lending counterparties from credit risk. It can also serve as
+margin in clearing processes. The higher the credit quality and lower the volatility of assets
+used as collateral, the better suited it is to serving as assurance against risk. For this
+reason, there are stringent, material conditions on collateral that can accepted, for
+example, in central counterparty clearing.
+Unbacked cryptoassets are highly volatile, given that they have no intrinsic value. They are
+subject to runs and their value can change very quickly as we have seen in recent months.
+Moreover, a firm accepting its own unbacked crypto asset as collateral for loans and
+margin payments, as there are indications may have happened with FTX, creates extreme
+‘wrong way’ risk – i.e. when the exposure to a counterparty increases together with the risk
+
+1
+
+‘CPSS-IOSCO Review of Standards for Payment, Clearing and Settlement Systems. (2010)’
+
+Bank of England
+
+Page 4
+
+of the counterparty’s default2. Indeed, in the FTX case, there are indications that it could
+have been a run on its crypto coin, FTT, which triggered the collapse.
+Moreover protection of client funds is crucial. In many of these platforms the platform takes
+possession of the cryptographic keys and manages transactions on the ledger for a pool of
+assets. It is far from clear whether these practices deliver the assurance of either custody
+of assets in the conventional finance world or of a claim on the balance sheet in the way
+that occurs with accounts at a bank.
+‘Crypto’ was born in unregulated space: indeed, part of the objectives of its early
+developers was to create a financial system outside regulation. While not yet of systemic
+scale, the crypto ecosystem has grown very rapidly in recent years and broadened to
+encompass a range of financial services.
+The experience of the past year has demonstrated that it is not a stable ecosystem. Part
+of this is because, its foundation is completely unbacked instruments of extreme volatility
+that can swing wildly in value. But part is also because the crypto institutions at the centre
+of the much of the system exist in largely unregulated space and are very prone to the
+risks that regulation in the conventional financial sector is designed to avoid. It is in part for
+this reason that, since September, the FCA has warned publically on FTX that “this firm
+may be providing financial services or products in the UK without our authorisation… you
+are unlikely to get your money back if things go wrong”3.
+Some, of course, would argue that the answer is not proper regulation of the risks in
+centralised crypto platforms, like FTX, but rather the development of decentralised finance
+in which functions like lending, trading, clearing etc. take place through software protocols
+built on the permission-less blockchain. In such a world, it is effectively the ‘code’ that
+manages the risks rather than intermediaries. And indeed, there is some tentative and
+limited evidence that the failure of FTX has stimulated some transfer of activity to
+decentralised platforms.
+From the standpoint of a financial stability authority and a financial regulator, I have yet to
+be convinced that the risks inherent in finance can be effectively managed in this way.
+That scepticism is greater if the activity in question is the trading, lending, etc. of super
+volatile assets without intrinsic value. The robustness and resilience of the permission less block chain has not been demonstrated at scale and over time. And some of the
+protocols themselves may carry risks – for example automatic liquidation of volatile
+
+2
+
+The intuition here is generally quite familiar to people - you probably would think twice before buying fire
+insurance from a company being run out of the house next door for example.
+3 Information for FTX customers | FCA
+
+Bank of England
+
+Page 5
+
+collateral, no matter how rapid, does not remove the need for liquidity providers to avoid
+the amplification of fire sale dynamics.
+Moreover, it is not clear the extent to which these platforms are truly decentralised. Behind
+these protocols typically sit firms and stakeholders who derive revenue from their
+operations. Moreover it is often unclear who, in practice, controls the governance of the
+protocols.
+More generally, as with driverless cars, they are only as good as the rules, programmes
+and sensors which organise their operations. We would certainly need a great deal of
+assurance before such systems could be deployed at scale in finance.
+Against that background, the question – more pointed now, following the collapse of FTX is whether we should bring the financial service activities and the entities that now
+populate the crypto world within the regulatory framework. And, if so, how?
+My answer to the first question is that we should continue to bring these activities and
+entities within regulation, for three reasons.
+First, and most obviously, the need to protect consumers/investors. Whether or not one
+thinks it is sensible to invest or trade in the highly speculative assets that make up most of
+the activity in the crypto world, investors should be able to do so in transparent, fair and
+robust marketplaces, with the protections that they would get in conventional finance.
+There will probably always be some who prefer – for a variety of reasons – to invest and
+trade in an unregulated, opaque world. But we should not push the majority who do not
+want those risks into that world because there is no regulated alternative.
+My second reason is the need to protect financial stability. While the crypto world, as was
+demonstrated during last year’s crypto winter and last week’s FTX implosion is not at
+present large enough or interconnected enough with mainstream finance to threaten the
+stability of the financial system, its links with mainstream finance have been developing
+rapidly.
+We should not wait until it is large and connected to develop the regulatory frameworks
+necessary to prevent a crypto shock that could have a much greater destabilising impact.
+The experience in other areas of digitalisation has demonstrated the difficulty of retrofitting
+regulation on new technologies and new business models after they have reached
+systemic scale.
+It is, of course, possible that neither of these two reasons - investor protection and
+protection against financial stability risk - will be relevant because the very instability and
+riskiness of the world of unregulated crypto finance, most recently demonstrated by FTX,
+will in the end ensure that the sector cannot grow. Indeed, some have argued for
+
+Bank of England
+
+Page 6
+
+regulators grappling with the crypto world to keep it outside the regulatory framework to
+ensure that users’ ‘caveat emptor’ concerns prevents both growth and connection with
+mainstream finance4.
+And that leads to my third reason.
+Forecasting the direction and pace of technological innovation is an even more uncertain
+game than economic forecasting. Promising technologies fall by the wayside; unexpected
+ones flourish. And technologies combine in ways that cannot be anticipated. But the
+technologies that have been pioneered and refined in the crypto world, such as
+tokenisation, encryption, distribution, atomic settlement and smart contracts, not only seem
+unlikely to go away as our everyday lives become more ‘digital’, but may well have the
+potential to improve efficiency, functionality and reduce risk in the financial system.
+A potential example of this is the integration of functions in ‘smart contracts’ that I
+mentioned earlier. A possible use case for such integration, which has been pioneered in
+the defi world is the combining the functions of trading, clearing and settlement of
+tokenised financial assets into a single, instantaneous contract, rather than being carried
+out in sequence by three separate institutions over a number of day. This, if applied to
+‘real world’ assets, like equities, could offer a substantial improvement in the efficiency of
+financial market infrastructure and reduce risks by enabling instant settlement – T plus
+now5.
+There are of course risks in such integration as I mentioned earlier, whether it happens
+organisationally or technologically. The Bank of England is working with the FCA and the
+Treasury to set up a regulatory ‘sand box’ for developers to explore whether and how
+those risks can be managed to the level of assurance we expect from the current system6
+So my third reason for bringing the activities of the crypto world within the relevant
+regulatory frameworks is to foster innovation. This may appear counter intuitive to those
+who see regulation as opposed to innovation. But, as I have said before, ‘people do not fly
+in unsafe aeroplanes’. Innovation may start in unregulated spaces. But it will only be
+developed and adopted at scale within a framework that manages risks to existing
+standards.
+
+For an argument of this position see for example ‘Let Crypto Burn: Just say no to legitimacy-inferring
+regulation’ – FT Alphaville (17.11.2022)
+5 See the discussion of the potential risks and benefits in Cunliffe (2022): ‘Innovation in post trade services opportunities, risks and the role for the public sector’.
+6 Financial Services and Markets Bill – Articles 21 and 22.
+4
+
+Bank of England
+
+Page 7
+
+And by holding innovative approaches, using technological advance, to the same
+standards as existing approaches we can ensure that the benefits of new technology and
+new business models actually flow form innovation rather than from regulatory arbitrage.
+This in turn, determines the answer to the second question of ‘how’ regulation should be
+extended to these areas. The guiding principle should be ‘same risk, same regulatory
+outcome’. The starting point should be our existing regulatory frameworks – for
+investment products, for exchanges, for payments systems and other financial functions –
+and the level of assurance we require that the relevant risks have been managed.
+Technological change and different business models may mean we have to find new ways
+to deliver that assurance. We should be under no illusions that this will always be an easy
+process. For example, as I have said, it remains for me a very uncertain question whether
+use of the permission-less blockchain could deliver the necessary level of assurance for
+activities that are integral to the stability of the financial system.
+Our approach as regulators should be open -- by which I mean we should be prepared to
+explore whether and if so how the necessary level of assurance – equal to that in
+conventional finance - could be attained. But we should also be firm that where it cannot,
+we are not prepared to see innovation at the cost of higher risk.
+This is very much the approach we are looking to take in the UK for the extension of the
+regulatory framework to the use of crypto technologies and business models in finance.
+The Financial Services and Markets Bill, currently in Parliament addresses the regulation
+of payment systems using “digital settlement assets” defined as “digital representations of
+value” – in other words digital tokens representing money.
+The objective is to extend the current Bank of England and FCA regulatory regimes for
+e money and payment systems to cover the use ‘stablecoins’ for payments7.
+The powers in the Bill will extend not only to the systems for transferring such coins
+between parties to make payments, but to the issuance and storing of the coins. The Bank
+will have responsibility for such payment systems which are systemic or likely to become
+systemic. This will apply whether such systems exist to make payments for real things or
+for crypto assets should the latter activity become systemic in scale.
+We intend early next year to consult in detail the regulatory framework that will apply to
+such systemic payment systems and the services, like wallets, that accompany them. In
+doing so, we will be guided by the principle of ‘same risk, same regulatory outcome’ set
+out above. In the case of stablecoins used as money to make payments, the regulatory
+The Banking Act 2009 provides the statutory basis for the Bank’s oversight of payment systems. It allows
+HM Treasury to recognise systems for supervision by the Bank of England as part of the Bank’s objective to
+maintain UK financial stability.
+7
+
+Bank of England
+
+Page 8
+
+outcome has been expressed by the Financial Policy Committee of the Bank as an
+expectation that stablecoins used in systemic payment chains should meet standards
+equivalent to those expected of commercial bank money. And that's in terms of stability of
+value, robustness of legal claim and the ability to redeem at par in fiat8.
+Some of the likely foundational features of the regulatory regime on which we will consult
+are already clear. The FPC made clear last year that to deliver that regulatory outcome
+“regulatory safeguards will be needed for a non-bank systemic stablecoin to ensure that
+the coin issuance is fully backed with high quality and liquid assets, alongside loss
+absorbing capital as necessary, to compensate coinholders in the event that the stablecoin
+fails”9. It also made clear that in the absence of deposit protection for coinholders, other
+elements of the regime would need to be strengthened to deliver the necessary level of
+assurance.
+The consultation will set out in more detail how the coinholders’ claims on the stablecoin
+issuer and wallets should be structured to deliver redemption at par in line with commercial
+bank money, how the backing assets should need to be managed to ensure they are
+always available to meet redemptions and, more generally the requirements for corporate
+structure, governance, accountability and transparency necessary to meet the standards
+we expect in other parts of the financial system that carry out the same functions. The
+FTX example underlines how important these aspects are.
+The legislation covers the use of crypto technologies for the payments function. The
+Treasury intends to consult in the near future on extending the investor protection, market
+integrity and other regulatory frameworks that cover the promotion and trading of financial
+products to activities and entities involving crypto assets. At present, in the UK, it is, to a
+large extent, only the anti-monetary laundering regulatory framework which applies to
+these activities and entities.
+Finally, let me turn to our work with the Treasury on central bank digital currency, or, to put
+it more plainly on the issuance by the Bank of England of a digitally native pound sterling.
+Our plan remains to issue a consultative report around the end of year setting out the next
+steps that we propose.
+Over the past few days, I have had a few comments both to the effect that the collapse of
+FTX shows that we need to get on and issue a digitally native pound – and to the effect
+that FTX shows that we do not need do so.
+
+8
+9
+
+Bank of England Record of the Financial Policy Committee Meeting 13 December 2019.
+Bank of England Record of the Financial Policy Committee Meeting 24 March 2022.
+
+Bank of England
+
+Page 9
+
+My initial reaction to both points of view was that there really was no connection between
+FTX and our work on a digitally native, general purpose form of Bank of England money,
+for use by households and businesses in making payments.
+But on reflection, I think I understand the comments better. FTX in particular and the
+crypto ecosystem in general are emblematic of these new technologies and the possibility
+that they might revolutionise financial services and the forms that money takes in our
+economy.
+For some perhaps the lesson is that tokenisation and digitalisation of finance should not
+take place in unregulated space and, moreover, needs to be underpinned by a robust and
+reliable of digital settlement asset. For others, the message is perhaps that the crypto
+world and its technologies are a very long way from influencing, let alone changing, the
+way financial services, including payments, are delivered at scale in the real world.
+It is, as I said earlier, very difficult to predict which technologies will be successful and
+when and how they might begin to change the way we do things. The bursting of the
+dot.com bubble in the early years of this century did not herald the end of the development
+of internet commerce though it took longer than its original enthusiasts imagined and
+emerged in a very different form, dominated by big tech platforms.
+Our work on a digitally native pound is driven by the trends we now see both specifically in
+payments, including the reducing role of cash, and more generally in the increasing
+digitalisation of daily life.
+It is motivated by two primary concerns.
+First, that in a world in which new, tokenised forms of money emerge, enabled by new
+technology, we remain able to ensure that all forms of money that circulate in the UK are
+robust, interchangeable without loss of value and denominated our unit of account – the
+pound sterling. Physical cash plays a role in ensuring that, at present, all forms of
+commercial bank money in the UK have to be redeemable in cash - Bank of England
+money - on demand in cash and without loss of value. Given the trends away from
+physical cash, which cannot be used in an increasingly digital economy, and, potentially,
+towards new forms of tokenised money, a digital pound may be needed in future to fulfil
+the same function.
+Second, to ensure that there can be competition and innovation in the development of new
+functionalities using tokenised money. Given the network externalities around money and
+the likely cost of developing robust and risk managed tokenised money like stablecoins, it
+is possible that the development of digital settlement assets will converge on a few large
+players who will dominate and perhaps control innovation in payment services. We have
+seen a similar dynamic in the emergence of large internet platforms and marketplaces. A
+
+Bank of England
+
+Page 10
+
+digital pound would provide a digital settlement asset available to a wide variety of private
+sector innovators and developers of payment services.
+The first concern is primarily for central banks, charged with ensuring the stability of
+money in the economy. The second is more of a concern for government. And of course
+there are other motivations, such as financial inclusion and resilience.
+I do not have the time to go into those in detail today, and, in any event, I do not wish to
+pre-empt the report on the next steps for this work that we and the Treasury intend to
+issue soon. But I do want to emphasise that this work, and any future decision to
+introduce a digitally native pound should not be seen in the context of the status quo but
+rather in the context how current trends in money, payments and technology might evolve.
+And above all, in this, as in the work on regulation that I discussed earlier, our aim is to
+ensure that innovation can take place but within a framework in which risks are properly
+managed and which safeguards the sustainability of such innovation. The events of last
+week provide a compelling demonstration of why that matters.
+Thank you.
+The views expressed here are not necessarily those of the Bank of England, the Monetary
+Policy Committee or the Financial Policy Committee. I would like to thank Amy Lee,
+Teresa Cascino, Emma Butterworth, Katie Fortune, Bernat Gual-Ricart, Jenny Khosla,
+Grellan McGrath, Andrew Walters, Daniel Wright and Cormac Sullivan for their help in
+preparing the text.
+
+

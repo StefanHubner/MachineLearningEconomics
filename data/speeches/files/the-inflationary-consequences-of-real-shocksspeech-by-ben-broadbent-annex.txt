@@ -1,0 +1,121 @@
+The Monetary Policy Committee’s use of Optimal Policy Projections
+1.
+The MPC’s monetary policy remit requires it to maintain price stability, defined
+by the Government to be a 12-month increase in CPI of 2%. The remit recognises
+that inflation may deviate temporarily from the target on account of shocks, however.
+Since 2013, the remit has explicitly recognised that in these circumstances, bringing
+inflation back to target too rapidly could cause volatility in output and employment
+that is undesirable. The remit requires the MPC to consider, balance and explain
+such short-run monetary policy trade-offs. While the inflation target of 2% applies at
+all times, the remit recognises that it can be desirable to manage trade-offs between
+inflation and activity.
+2.
+This trade-off management in the MPC’s remit is consistent with an
+economics literature on ‘flexible inflation targeting’. The positive relationship
+between inflation and the output gap, which captures the extent to which activity is
+above or below the economy’s potential, encapsulated in the slope of the Phillips
+Curve lies at the core of this monetary policy trade-off. 1 The central bank can
+address inflationary pressures only by compressing output. This may be desirable
+when the economy is hit by demand shocks which push inflation and the output gap
+in the same direction. But it generates a crucial trade-off in the presence of supply
+shocks or cost-push shocks that can move inflation and output in opposite directions.
+3.
+During the preparation of the MPC’s forecasts, Bank staff produce
+model-based simulations, Optimal Policy Projections (OPPs), designed to explore
+this policy problem. 2 They seek to identify the best outcomes – in terms of inflation
+and the output gap – that monetary policy could achieve, and the policy path that
+would deliver them. And although there may not always be a trade-off between
+inflation and activity, the OPPs remain useful in such circumstances by helping to
+identify the optimal policy stance to return inflation to target and close the output gap.
+4.
+This is inevitably a highly conditional exercise. The OPPs take the MPC’s
+forecast as given, assume that it is known and believed by all, and explore whether
+adjusting monetary policy relative to the market curve on which the forecast is
+conditioned can improve economic outcomes. 3
+5.
+The OPPs are not a perfect guide to policy. Like all model-based exercises,
+they abstract from a number of important real-world policy considerations. For
+example, there is no role for uncertainty or risks, whereas, in reality, uncertainty
+about the outlook is likely to be an important factor in policy decisions. There is also
+no time variation in the monetary transmission mechanism, for example to capture
+
+1
+
+Originally formulated by Phillips (1958), albeit as a relationship between wage growth and
+unemployment.
+2 OPPs have also been used by several other central banks, including the Federal Reserve which
+publishes the paths in its Tealbook B, the Norges Bank and the Riksbank.
+3 In using a different model to produce OPPs from that used to produce the MPC’s forecast, the
+Bank’s approach follows that of Svennson and Tetlow (2005).
+
+possible changes in the way the economy works over time. And the OPPs do not
+consider interactions with other policymakers and tools.
+6.
+The policy model that is used for the OPPs formalises the monetary
+transmission mechanism (MTM). It is a slightly simplified version of the DSGE
+model used in the production of the MPC’s forecast, Compass, replacing rational
+expectations with bounded rationality. 4 While agents in this model still have perfect
+foresight of how the economy will evolve, they discount their knowledge of the future.
+This makes real interest rates in the distant future less relevant for current
+consumption decisions and therefore dampens the so-called ‘forward guidance
+puzzle’ that would otherwise arise. 5
+7.
+The OPPs take the MPC’s forecast as given, and simulate optimal policy
+responses conditional on that forecast.6 The policy problem is solved under the
+assumption that the policymaker sets policy in a time-consistent way, such that they
+re-optimise and decide on policy in every period. An alternative would be to assume
+that the policymaker can credibly commit to a state-contingent policy plan, and solve
+the problem only once for all periods. But in reality, it would likely be both infeasible
+and undesirable for the MPC to commit to such a plan, not least because it would tie
+the hands of future committees. 7
+8.
+
+The per-period loss function used to simulate the OPPs is:
+𝐿𝑡 = (𝜋𝑡 − 𝜋 ∗ )2 + 𝜆(𝑦𝑡 − 𝑦𝑡∗ )2 + 𝛿(Δ𝑖𝑡 )2
+
+where the parameters are set such that the policymaker dislikes in equal measure
+the marginal effect of: a 1 percentage point deviation of annual inflation from target;
+a 1/ 𝜆 percentage point deviation in the output gap; and a 1/ 𝛿 percentage point
+change in the quarterly interest rate.
+9.
+The final term in the loss function implies that policymakers prefer small policy
+rate changes to large ones. The inclusion of such ‘smoothing’ in the loss function
+leads to gradual changes in policy paths and rules out sudden policy reversals
+without explicitly needing to introduce non-linearity. This helps to generate policies
+that are both stable and predictable. Calibrating the weight on interest rate
+smoothing is difficult, and given the lack of a reasonable anchor, staff routinely show
+the MPC OPPs under a range of different assumptions.
+10.
+The parameter attached to the output gap deviations, 𝜆, captures the essence
+of the monetary policy trade-off and formally measures how wide an output gap the
+policymaker is willing to bear in order to keep inflation close to target. Previous Bank
+analysis has sought to identify the MPC’s implied lambda over the inflation targeting
+4
+
+In the spirit of Gabaix (2020). See Burgess et al (2013) for more details on Compass.
+See Del Negro, Giannoni and Patterson (2015) for a more detailed exposition of the forward
+guidance puzzle.
+6 For more details on toolkit and optimal policy solution, see Dennis (2007) and Harrison and Waldron
+(2021).
+7 See Broadbent (2022).
+5
+
+era, returning an estimate of 0.25 for the post-global financial crisis sample since
+2008, and explored the reasons why it may vary over time. 8
+11.
+The OPPs can inform the MPC’s decision-making in a variety of ways. 9 The
+OPPs can be useful for illustrating trade-offs in the forecast and demonstrating the
+likely path for rates that might be appropriate given a particular forecast. While this
+can only be an input for policymakers, given the number of strong assumptions that
+the OPPs rely on, it can be a useful discussion point, and help to inform
+communications. It provides another lens on the policy outlook to sit alongside the
+forecasts conditioned on the market curve and a constant path for Bank Rate.
+
+8
+
+For more details, see Carney (2017).
+For past examples where OPPs have been used in MPC member speeches, see Saunders (2016),
+Tenreyro (2018) and Haskell (2019).
+9
+
+

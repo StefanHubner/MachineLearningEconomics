@@ -1,0 +1,1088 @@
+Containing System-Wide Liquidity Risks: Some Issues and
+Challenges
+Speech given by
+Nigel Jenkinson, Adviser to the Governor, Bank of England
+
+At the University of Frankfurt Conference on the “Law and Economics of Money and
+Finance in Times of Financial Crisis”
+15 May 2009
+
+I am very grateful to Nicola Anderson, Emily Beau, Roger Clews, Sebastiano Daros, John Elliott,
+Lee Hemphill, Marius Jurgilas, Sujit Kapadia, Jochen Schanz, George Speight and Paul Tucker for
+helpful comments and assistance.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+CONTAINING SYSTEM-WIDE LIQUIDITY RISKS: SOME ISSUES AND
+CHALLENGES
+Section 1: Introduction
+1
+
+Commercial banks’ ability to transform short-term deposits into long-term loans
+
+provides clear benefits to individual agents and to the economy more broadly. Savers
+can place funds with banks that are available contractually on demand or with a short
+delay. Depositors can thus draw down their funds quickly in the event of an adverse
+shock, such as a temporary spell of unemployment, or to finance transactions that may
+sometimes be ‘lumpy’ at the level of an individual household, such as a deposit on a
+house. And borrowers can obtain funding to support the purchase of assets providing
+economic services over the long term, such as plant and machinery and commercial
+and residential property.
+2
+
+Banks provide such maturity transformation by pooling across agents and taking
+
+account of aggregate behaviour. In any one period, only a small proportion of savers
+will experience an adverse shock or make a major lumpy payment that requires a
+large withdrawal. Moreover, recipients of such payments are likely to place the
+proceeds back into the banking system. A bank that has just financed a large payment
+can bid for the surplus deposits on the interbank market. So, providing savers retain
+confidence in the bank, deposits with an immediate or short-term contractual maturity
+are transformed through this pooling process into deposits with a much longer term
+‘effective’ maturity. That enables the bank to offer long-term loans.
+3
+
+‘Providing savers retain confidence in the bank’ is of course the key phrase here.
+
+By undertaking maturity transformation, banks are exposed to funding liquidity risk –
+the risk that a bank cannot generate sufficient cash to meet the obligations placed
+upon it in any time period. Perceptions that a bank is facing liquidity pressures will
+lead to a withdrawal of funding and ultimately to a ‘run’, as time deposits are not
+rolled over and as customers withdraw demand deposits (particularly if deposit
+insurance arrangements are weak). An inability to withstand such pressure and
+restore market confidence quickly will lead to failure of the bank, unless additional
+support can be obtained either from the private sector (for example, through an
+
+3
+injection of funding or a takeover by a stronger bank) or from the central bank (in
+cases where the problem is demonstrably one of liquidity rather than solvency, and
+the authorities are concerned that failure of the bank would threaten stability of the
+system more broadly).
+4
+
+The managers and shareholders of a bank will face losses if funding liquidity risk
+
+crystallises. That provides an incentive to manage and control liquidity risk. The
+losses are capped, however, for example for equity holders to the value of their equity
+in the bank. Such losses thus do not capture the broader impact of severe liquidity
+distress on the wider financial system. A bank facing acute liquidity pressures may
+attempt to sell assets at “fire sale” prices, lowering market liquidity and adding to
+balance sheet and liquidity pressures on other banks.1 It is also likely to hoard
+liquidity, withdrawing funding from the interbank market and shortening the terms of
+remaining lending. And other banks and financial intermediaries may also hoard
+liquidity as a defensive response, exacerbating the stress on the system. In addition, a
+bank that fails is likely to generate counterparty losses for other banks and increase
+funding pressures on banks operating perceived similar funding models. There is no
+incentive for the managers and shareholders of a bank to take account of the
+‘externalities’ of their own liquidity distress on other banks and the financial system
+more broadly. That provides a clear justification for regulation and supervision of
+liquidity risk, to hold banks to higher standards than they would naturally adopt given
+their own individual incentives, in support of the public policy goal of protecting
+financial stability.2
+5
+
+The current financial crisis has exposed severe failings in risk management by
+
+financial firms and flaws in regulatory design. One clear lesson is that insufficient
+attention was given to the system-wide dimension of risks. In designing prudential
+regulation to support the resilience and robustness of the financial system as a whole,
+it is essential to consider both the likelihood that a number of firms will face a
+common stress at the same time, and the impact of their response to that stress on
+other firms and the wider system. Such responses may substantially amplify the
+impact of the individual shock. Moreover, they may negate the value of some
+defences that would work effectively if a bank were the only one to face a particular
+1
+2
+
+Cifuentes et al (2005), Brunnermeier and Pederson (2007).
+Basel Committee on Banking Supervision (2008b), Brunnermeier et al (2009).
+
+4
+adverse shock. It is clearly important that regulatory design delivers resilience to a
+system-wide shock as well as to a firm-specific one. Indeed, the very marked rise in
+international financial market integration in recent years,3 as well as the growing
+convergence in business models across the global financial system, has increased the
+relative chances that adverse shocks will have system-wide ramifications.4
+6
+
+There are many examples of the importance of system-wide interactions and
+
+feedback effects for the design of financial market regulation and of market
+infrastructure.5 The current crisis has demonstrated vividly the importance of
+feedbacks within the financial system, and between the financial system and the
+macroeconomy.6 For example, attempts by banks individually to rein back lending to
+limit prospective credit losses may in practice lead collectively to a rise in such losses,
+as a widespread shortage of credit would deepen the recession. Another example is
+that the design of payment and settlement systems should ensure that system problems
+in one institution do not spill over to the whole network, and that the systems are as
+robust as possible to potential single points of failure.7 I plan, however, in my
+remarks today to focus especially on the issue of liquidity risk. That is an area where
+system-wide interactions are particularly important.
+7
+
+The next section describes briefly how system-wide liquidity risks rose in advance
+
+of the crisis and why some defences to the crystallisation of liquidity risk in individual
+banks were ineffective in cases of system-wide stress. Section 3 sets out some highlevel objectives to bear in mind in considering ways to reduce both the likelihood and
+impact of events of severe liquidity stress. Section 4 discusses some of the practical
+challenges and outstanding issues in carrying these ideas forward.
+
+3
+
+Hamilton et al (2007), Haldane (2009a and b).
+Gai et al (2007), Haldane (2009b), Gai and Kapadia (2009).
+5
+See Renault et al (2008) for a payment systems example.
+6
+It is vital to take such feedbacks into account in judging risks to the financial system as a whole
+Jenkinson (2007), Haldane (2009a and b). The Bank of England is developing a model to support the
+assessment and modelling of systemic risk (Aikman et al (2009), Alessandri et al (2009), Haldane
+(2009a)).
+7
+Bedford et al (2004).
+4
+
+5
+Section 2: Liquidity risk and the current crisis
+8
+
+The origins of the crisis have been described well in a number of reports and
+
+speeches.8 I shall keep my summary brief and focus particularly on the liquidity risk
+dimension.
+9
+
+Fuelled by low global real interest rates (associated with high Asian saving rates),
+
+a perceived decline in macroeconomic volatility, and rapid advances in information
+and communication technology that spurred innovation, capital market activity and
+financial system leverage rose sharply and persistently in the years ahead of the crisis.
+Market participants sought higher yields by increasing leverage both on and off
+balance sheet and by investing in higher risk, innovative and complex structured
+products. Many banks saw opportunities to exploit new wholesale market funding
+sources to expand activity, in some cases to finance loan origination for eventual sale,
+in others to fund holdings of highly rated structured assets both on and off balance
+sheet. Banks’ funding liquidity became increasingly dependent on sustained market
+liquidity.9 In advance of the crisis, high market confidence supported high market
+liquidity (Chart 1).10 Indeed, Federal Reserve Governor Kevin Warsh argued that in
+terms of its most fundamental feature: “Market liquidity is confidence”.11 But as
+leverage rose, credit spreads tightened, and liquidity risk premia narrowed, the
+likelihood of a sharp and pronounced correction continued to increase.12 Indeed as
+Claudio Borio has noted, the vulnerability to a change in market liquidity is highest
+when liquidity itself appears at its most plentiful: “The illusion of permanent market
+liquidity, in the strong sense of feeling always able to transact at the prevailing price,
+is the most insidious threat to liquidity itself”.13
+10
+
+Once sentiment changes it may change very quickly. To take a sporting analogy:
+
+“Confidence is contagious. So is lack of confidence” Vince Lombardi.14 And
+financial markets are particularly vulnerable to contagious swings in confidence given
+the importance of the interactions between participants and the influence of others’
+8
+
+For example see Bank of England Financial Stability Reports 22 (2007), 23 (2008) and 24 (2008),
+Turner (2009).
+9
+Basel Committee on Banking Supervision (2008a).
+10
+Kerry (2008).
+11
+Warsh (2007a).
+12
+Bank of England Financial Stability Report April 2007 and King (2007).
+13
+Borio (2004).
+14
+Legendary coach of the Green Bay Packers.
+
+6
+behaviour.15 My incentive to sell a financial asset or withdraw funds from a bank
+increases if I expect that others are about to sell or run from the bank.
+11 By the first half of 2007, many financial market participants were expressing
+concerns that compensation for taking both credit and liquidity risks had been bid
+down to unsustainably low levels. Equally, while many recognised that financial risks
+were rising, few were prepared to pull out of the most over-heated markets or take the
+contrary position. Pressures to match short-term performance led to a reluctance to
+restrict risk-taking before competitors. Running profits had been a successful strategy
+over a number of years, notwithstanding warnings of heightened risks in speeches and
+numerous Financial Stability Reports across the globe. And many market participants
+thought the business risks of withdrawing actively from certain markets were higher
+than the increased financial risks they were running.16
+12 A major mistake made by many was failing to recognise the similarity of their risk
+position to that of many others, and the vulnerabilities that posed. As concerns about
+the credit quality of US sub-prime assets rose, market liquidity evaporated as many
+participants simultaneously attempted to sell or hedge positions, with few if any
+investors willing or able to fund a major contrarian position on the other side of the
+trade given the weight of selling pressure and the marked rise in uncertainty. It very
+quickly became a similar story in other asset-backed securities markets, as investors
+attempted to lower risk positions, given increased concerns about the opacity and
+underlying credit quality of structured products in particular, and as market
+participants hoarded liquidity to protect themselves against a perceived rise in
+redemption risk. The hoarding of liquidity by stronger market participants
+compounded pressures on institutions with structurally weak funding positions, such
+as Northern Rock. Financial market liquidity fell dramatically as confidence was lost
+(Chart 2).
+13 Defences against a rise in system-wide liquidity pressure were clearly inadequate.
+Indeed, attempts by banks to use defences designed to address idiosyncratic liquidity
+problems affecting the bank in isolation severely compounded system-wide stress.17
+
+15
+
+Bernardo and Welch (2004), Morris and Shin (2004).
+Bank of England Financial Stability Report (July 2006 and April 2007).
+17
+Jenkinson (2008).
+16
+
+7
+14 Consider the options available to a bank suddenly faced by a liquidity problem –
+perhaps, for example, because of the revelation of unexpected losses due to a fraud
+that raises market uncertainty but does not jeopardise solvency? Assume the bank is
+the only one affected and that other banks have strong funding positions and that
+financial market liquidity is high. A number of options are open. Examine the
+following three. First, the bank could sell (or repo) less liquid assets, accepting a loss
+in income to obtain additional liquidity. Alternatively, the bank could ‘pay up’ for
+additional funding, offering higher returns to attract deposits. Third, the bank could
+scale back lending plans by raising borrowing rates and introducing more stringent
+lending conditions. Each of the defences would work. The bank would have to pay
+more and accept a loss in profitability to restore confidence in its liquidity position.
+And there would be a small adverse effect on other banks and the financial system
+more broadly. But under the conditions outlined, these would be easily absorbed.
+15 A bank focussing on its own liquidity risk in isolation might consequently draw
+comfort from such defences. But consider now the merits of such defences when
+other banks are facing similar pressures and attempting to use the same tools? The
+first option will no longer work, as a sudden, sharp increase in selling pressure is
+likely to lead to a complete evaporation of market liquidity for less liquid assets.
+Paying up for additional funding is also likely to be relatively ineffective as many
+other banks pursue the same strategy and compete actively to retain and indeed
+increase deposits – any impact from higher aggregate savings is likely to be small and
+sluggish at the level of the individual bank. And the third option of restricting lending
+growth may appear attractive to an individual bank, but again will precipitate a
+defensive response from other banks attempting to strengthen their own liquidity and
+credit position, and, as noted above, could severely amplify the adverse impact of the
+initial shock. So not only is the comfort drawn from such defences false in this case,
+but an attempt to use them is likely to have an adverse impact on other banks and the
+financial system more broadly given the externalities and spillovers they entail.
+16 Problems of poor liquidity risk management have been exacerbated by the undercapitalisation of the banking system in advance of the crisis. A fear that
+counterparties may have insufficient capital and reserves to meet obligations clearly
+has a major and immediate impact on the availability of funding to such firms.
+
+8
+Moreover, lenders in a relatively strong funding position are likely to hoard their own
+liquidity in conditions of heightened uncertainty, both to contain counterparty risks
+and to guard against a rise in their own perceived redemption risk. Such behaviour
+has been very clearly apparent during the current crisis, and was particularly acute
+following the collapse of Lehman Brothers in September 2008.18 Provision of
+additional capital is essential to bolster confidence and maintain financial stability in
+such circumstances. And there are clear lessons from the crisis that the quantity and
+quality of capital must be raised in the future to strengthen the resilience of the
+banking system.19 A stronger capital position will have some benefits on liquidity
+risk given the clear inter-relationships between the two.20 As Charles Goodhart has
+remarked “An illiquid bank (system) would not remain solvent for long, nor an
+insolvent bank (system) remain liquid”.21 But equally, measures to strengthen the
+capital position alone are unlikely to correct for market failures leading to excess
+system-wide liquidity risk. The recent crisis has clearly highlighted the need to
+strengthen defences against liquidity risk as well as to bolster future capital levels.
+Section 3: Reducing the likelihood and impact of severe liquidity stress – some
+guiding objectives
+17 Reducing the likelihood and impact of future episodes of system-wide liquidity
+risk is high on the policy agenda.22 Given the numerous shortcomings revealed by the
+recent crisis, the Basel Committee has revised and strengthened its high level ‘Sound
+Principles’ that provide guidance on the management and supervision of liquidity
+risk,23 and is taking further action to improve the consistency and robustness of
+liquidity risk standards for international banks. CEBS is undertaking parallel work
+within Europe. Domestically, the FSA is consulting on improvements to the UK
+regime for the management and supervision of liquidity risk in line with the Basel
+Sound Principles.24
+18 These initiatives are all very welcome and should help strengthen substantially the
+management and supervision of liquidity risk by individual firms, taking more explicit
+18
+
+Bank of England Financial Stability Report (October 2008), Heider et al (2009)
+G20 (2009).
+20
+Basel Committee on Banking Supervision (2008b).
+21
+Cited with permission of Professor Goodhart.
+22
+G20 (2009).
+23
+Basel Committee on Banking Supervision (2008b).
+24
+FSA (2008).
+19
+
+9
+account of system-wide interactions. Strengthening the robustness of the individual
+institutions is an important precondition to contain incentives for banks collectively to
+take excess system-wide liquidity risk. As recent academic work has highlighted,
+however, there are some difficult and challenging issues governing the design of
+future financial regulation to take full account of such system-wide risks.25 Further
+research and analysis should over time yield additional insights that may help promote
+further improvements to policy design and implementation over and above those
+currently in hand. To support that process in relation to liquidity risk, the BCBS and
+CGFS are setting up a joint research programme on the measurement of systemic
+funding liquidity risk, as recommended by the Financial Stability Forum.26
+19 As re-emphasised recently in the Turner Report,27 the design of regulation must
+balance both costs and benefits. While it is clear that standards of financial regulation
+must be toughened to lower the probability and impact of future financial crises, it is
+also important to bear in mind the impact of regulation on financial intermediation
+and the wider economy in drawing the appropriate balance. In relation to the design
+of liquidity regulation, the high level objective is to reduce the frequency and severity
+of system-wide liquidity crises, while recognising, as highlighted in the introduction,
+the economy-wide benefits of maturity transformation and of banks taking sustainable
+liquidity risks. Gauging the appropriate level of intervention to balance the costs and
+benefits of financial regulation is a formidable challenge for policy makers, as the
+Turner Report highlights, and is an important area for further research.
+20 Set against this broad background, there are a number of high-level objectives that
+in my view should influence the future development and design of a framework for
+liquidity regulation as research and analysis continues. These are set out below. The
+following section provides a preliminary assessment of some of the issues and
+challenges in meeting the objectives.
+
+25
+
+For example, see Brunnermeier et al (2009) and Perotti and Suarez (2009).
+FSF (2009)
+27
+Turner (2009).
+26
+
+10
+21 Five high level objectives are proposed below:
+Objective 1: Liquidity regulation should encourage prudent liquidity risk
+management by individual banks. Defences should be robust to both the
+crystallisation of firm-specific and market-wide stress.
+Objective 2: Liquidity regulation should provide a disincentive for banks to increase
+liquidity risk. The disincentive should take into account the impact of liquidity risk
+distress at the bank on the overall financial system.
+Objective 3: Liquidity regulation should guard against the crystallisation of systemwide liquidity risk. Disincentives to contain liquidity risk should increase as systemwide liquidity risk rises.
+Objective 4: Regulatory standards should be applied consistently internationally, to
+prevent regulatory arbitrage and leakage.
+Objective 5: The design and operation of central bank facilities should underpin
+incentives for banks to manage liquidity risk prudently, in the long-run interests not
+only of the banking system but of the wider economy.
+Section 4: Issues and challenges in meeting these objectives
+22 The objectives set out above are designed to fit together as a package. That
+should be borne in mind as a number of the issues and challenges in fulfilling these
+high level guidelines are highlighted in turn below.
+Objective 1: Liquidity regulation should encourage prudent liquidity risk
+management by individual banks. Defences should be robust to both the
+crystallisation of firm-specific and market-wide stress.
+23 As emphasised in the revised Basel Sound Principles,28 a bank is responsible for
+the sound management of liquidity risk. The bank should establish a robust liquidity
+risk management framework that ensures it maintains sufficient liquidity, including a
+cushion of unencumbered, high quality liquid assets, to withstand a range of stress
+events, including the loss or impairment of both unsecured and secured funding
+28
+
+Basel Committee on Banking Supervision (2008b).
+
+11
+sources. To support confidence in the strength of liquidity risk management, it is vital
+that banks build up defences that are useable to meet potential liquidity demands
+under conditions of severe market stress. To contain system-wide spillovers and
+risks, prudent liquidity risk management by individual banks must ensure that use of
+the defences does not have a major adverse impact on the rest of the financial system.
+24 Objective 1 consequently supports banks holding increased stocks of the highest
+quality safe liquid assets, such as cash and high quality government bonds, as
+proposed in the revised Basel Sound Principles document and the recent FSA
+Consultation Paper. These assets can typically be utilised to raise liquidity in private
+markets even under conditions of market strain, without prompting large haircuts or
+fire-sale discounts that add to stress on other banks and the financial system.
+25 As I noted in a speech a year ago,29 banks were poorly placed to use such defences
+in the current crisis, as many had economised on holdings of the highest quality assets
+in their internal treasury operations (Charts 3 and 4), based on the erroneous
+assumption that higher-yielding, riskier assets would remain liquid. Rebuilding these
+defences is an important component of the strengthening of liquidity risk management
+in the medium term.
+26 There are, however, a number of open and difficult questions in gauging the
+optimal size of defences to liquidity stress. As highlighted above, analysis and
+research on these questions must take into account the strategic interactions within
+financial markets that govern behavioural responses to liquidity stress: the incentive
+to run (or sell assets) rises, the greater the perception that other participants will run or
+sell. Higher reserves of liquidity will thus strengthen confidence; the higher the level
+of confidence, the less the likelihood that the reserves will be used. Given the aim of
+sustaining confidence, as Paul Tucker recently noted,30 a time series showing low use
+of a liquidity reserve does not provide compelling evidence that a standard was too
+strict.
+
+29
+30
+
+Jenkinson (2008)
+Tucker (2009)
+
+12
+Objective 2: Liquidity regulation should provide a disincentive for banks to
+increase liquidity risk. The disincentive should take into account the impact of
+liquidity risk distress at the bank on the overall financial system.
+27 The regulatory disincentive should encourage banks to seek longer maturity, more
+stable, funding sources and to improve the liquidity of their overall balance sheet. For
+example, the disincentive should rise in line with estimates of maturity mismatch the
+bank is running. Further analysis of the potential role of metrics such as the core
+funding ratio (the proportion of a bank’s funding from more stable, longer-term
+sources)31 and net cash capital would be useful in this context.32
+28 As emphasised in the introduction, the case for regulatory intervention to support
+the public policy goal of protecting system-wide stability rests on the market failure
+that banks have no natural incentive to take account of the adverse impact of their
+own distress on the financial system more broadly. Extending this argument, the
+regulatory disincentive should consequently take account of the system-wide impact
+of a firm’s distress. As noted in the recent Geneva Report and in two recent speeches
+by Andrew Haldane, prudential regulation should thus be calibrated to such systemwide externalities.33 To illustrate this argument, standards of resilience should be
+tougher for a large bank that plays a very active role in interbank markets and as a
+key market maker in capital markets, than for a small bank with few interconnections
+to the rest of the financial system. Liquidity stress will have a much more pronounced
+impact on the overall system in the former case.
+29 Developing a formal approach to implement this objective remains an important
+challenge for researchers and policymakers. In particular, research to develop robust
+indicators of the importance of individual institutions in financial networks and of
+system-wide spillovers in distress remains in its infancy. There are some promising
+ideas, such as the so-called CoVar (or more generally co-risk) approach developed by
+Brunnermeier and Adrian that delivers estimates of the correlation of tail risks.34 And
+
+31
+
+See Turner (2009).
+Net Cash Capital is generally defined as Long Term Funding minus Illiquid Assets minus Illiquid
+Portion of Securities.
+33
+Brunnermeier et al (2009) and Haldane (2009a and b).
+34
+See Brunnermeier and Adrian (2008).
+32
+
+13
+research within the Bank of England is attempting to model liquidity spillovers.35 But
+considering how best to redesign prudential regulation to capture system-wide
+externalities more effectively warrants much further analysis and research.
+Objective 3: Liquidity regulation should guard against the crystallisation of
+system-wide liquidity risk. Disincentives to contain liquidity risk should increase
+as system-wide liquidity risk rises.
+30 System-wide liquidity risk has both cross-section and time series dimensions. The
+discussion of objective 2 above highlights the importance of taking into account the
+role played by each bank in the financial system, and of imposing more stringent
+standards on institutions that pose the greatest threat to the stability of the financial
+system if they come under pressure. There is, however, also an important time series
+aspect to add to this cross-section story. For example, system-wide liquidity risk is
+more likely to crystallise at times when maturity mismatch across the system as a
+whole is high than when it is low. That suggests that there is merit in trying to
+develop reliable indicators of system-wide liquidity risks that could be used to support
+macro-prudential objectives. Under this approach, incipient signs of an excessive
+build up of system-wide liquidity risk would lead to a strengthening of disincentives
+to take liquidity risk.
+31 Academic economists have highlighted that system-wide liquidity risk depends on
+the interactions and interconnections between banks. For example, Hellwig provides
+an example of a funding chain along the following lines: bank 1 takes deposits at
+sight and lends them for one week to bank 2; which then in turn lends the one week
+deposit for two weeks to bank 3; which on-lends the two week funds for three weeks
+to bank 4 and so on….36 Maturity mismatch by each bank is limited to one week.
+But system-wide maturity mismatch for a chain of n banks extends to n weeks – an
+attempt by the initial depositors to demand full repayment of their sight deposits
+would ripple through the system and, absent any liquidity reserves, would ultimately
+depend on the liquidity of the n week maturity assets owned by the nth bank.
+
+35
+36
+
+Aikman et al (2009)
+Brunnermeier et al (2009).
+
+14
+32 This stylised example illustrates the inherent difficulties of developing regulatory
+approaches to guard against system-wide liquidity risks, based purely on measures of
+maturity mismatch by individual banks. That said, signs that a large number of banks
+were extending their individual maturity mismatches would provide an important
+amber light.
+33 Another approach that might yield dividends would be to develop supplementary
+indicators that could act as proxies for system-wide liquidity risk. Such proxies could
+in principle provide valuable macro-prudential signals that could guide supervisory
+standards and help to dampen the financial cycle.
+34 More research and analysis is needed to develop and review such indicators.
+Some candidates are beginning to emerge. For example, Drehmann and Nikolaou
+have developed an interesting measure of system-wide funding risk based on the
+bidding pressure for central bank funds.37 Nonetheless, one problem with this
+indicator for the task above is that the measure is a highly contemporaneous indicator
+of system-wide liquidity pressures at a particular point in time, whereas the prudential
+requirement is for an indicator containing strong leading indicator properties.
+35 One indicator that might have some value in this regard is a measure of aggregate
+leverage (see Chart 5). High leverage may provide an advance indication of the
+potential for a large drain in financial market liquidity, should market sentiment
+change and banks and other market participants seek to de-lever at the same time.
+The Basel Committee is currently examining the case for introducing a supplementary
+measure such as a leverage ratio to bolster the capital framework. A possible byproduct of the introduction of such a measure is that it might also restrain systemwide liquidity risk, although more research and analysis is needed to review the
+robustness of this link.
+36 A further option could be to try to derive a measure of system-wide maturity
+mismatch that strips out the impact of the interbank market (the internal part of the
+‘Hellwig chain’ outlined above) by focussing on transactions with non-banks. A good
+measure of the aggregate maturity breakdown of banking system assets and liabilities
+with non-banks could provide such a guide. There is currently no such indicator
+37
+
+Drehmann, M and Nikolaou, K (2009)
+
+15
+readily to hand for the UK: deriving one from the major banks’ balance sheets may
+yield interesting insights.
+37 Another possibility worth exploring further is a market-based estimate of the
+compensation for liquidity risk, for example, derived from a decomposition of
+corporate bond spreads (see Chart 6).38 While bearing in mind that structural factors
+such as market transparency and corporate governance will affect the long-run
+sustainable compensation for liquidity risk, an indication that such compensation was
+falling well below historical norms may provide a useful warning sign of a build up of
+market liquidity risk (see Chart 7).39 That in turn could threaten the stability of
+banking system funding given the strong links between market and funding liquidity.
+Objective 4: Regulatory standards should be applied consistently
+internationally, to prevent regulatory arbitrage and leakage.
+38 The three objectives spelt out above are designed to strengthen system-wide
+resilience to liquidity risk by improving risk management by individual banks, taking
+into account the system-wide spillovers and externalities from liquidity stress and that
+such system-wide risks may alter over the economic cycle. They are silent, however,
+on international issues. These raise additional important challenges.
+39 To date, standards and regulations for containing liquidity risk have been
+developed and applied at the national level. Although unsurprisingly there is much
+commonality of the high level approach, in line with successive Sound Principles
+guides prepared by the Basel Committee (1992, 2000 and 2008),40 there is also
+considerable diversity of detail.41 In part, the diversity may be explained by
+differences in structural features of national economies and financial systems that
+influence liquidity risks, such as deposit insurance arrangements and insolvency and
+bank resolution regimes. For example, a jurisdiction with relatively weak deposit
+insurance arrangements may ask banks to hold stronger liquidity reserves to provide
+similar protection against a retail deposit run off to a jurisdiction with strong deposit
+38
+
+Webber, L and Churm , R (2007)
+This chart combines the illiquidity premia (proxied by the residual from the corporate bond spread
+decomposition) from four markets (US investment grade and high yield, UK investment grade and high
+yield) according to their size.
+40
+Basel Committee on Banking Supervision (1992, 2000 and 2008b.)
+41
+Basel Committee on Banking Supervision (2008a).
+39
+
+16
+insurance. Likewise, a jurisdiction with weak banking resolution arrangements may
+require banks to hold higher reserves because the costs of banking failure are higher
+than in a jurisdiction with a stronger regime. That needs to be factored in when
+assessing the consistency of national approaches to liquidity risk supervision. But
+also in part, the diversity simply reflects the fact that regimes have been developed
+nationally over a long period.
+40 The international financial authorities are working together closely in the Basel
+Committee and CEBS to improve both the robustness and the international
+consistency of liquidity risk regulation and supervision. The recent G20
+Communiqué42 committed the BCBS and national authorities to:
+“Develop and agree by 2010 a global framework for promoting stronger liquidity
+buffers at financial institutions, including cross-border institutions.”
+Given the scope for arbitrage and leakage that could undermine the effectiveness of
+regulation, it is very important that standards are applied consistently internationally.
+Objective 5: The design and operation of central bank facilities should underpin
+incentives for banks to manage liquidity risk prudently, in the long-run interests
+not only of the banking system but of the wider economy.
+41 As no liquidity buffer can be proof against all circumstances, central banks
+provide liquidity insurance to the financial system to help contain the costs to the
+wider economy of a crystallisation of the liquidity risks to which banks are exposed.
+The availability of insurance, however, may encourage moral hazard – banks may
+take excessive risks in the knowledge that such insurance is available.43 As noted in
+the consultative paper on the Bank’s market operations last year,44 banks may
+temporarily make higher profits by running higher liquidity risks, but the potential
+costs to the wider economy of liquidity risk crystallising would increase.
+42 The design and operation of central bank facilities should consequently support
+incentives for the prudent management of liquidity risk. They should be time
+consistent so that banks can plan on the assumption that they will not be altered
+42
+
+G20 (2009).
+Committee on the Global Financial System (2008),
+44
+Bank of England (2008)
+43
+
+17
+materially in the event that severe stress crystallises. But it is important to note that
+such incentives cannot provide a substitute for effective prudential regulation to
+correct for the misalignment between the costs of liquidity risks facing an individual
+bank and the broader costs to the financial system from such risks materialising
+discussed in detail above.
+43 Absent any regulatory disincentive, a bank would be encouraged to take on excess
+liquidity risk and turn to the central bank should the risk crystallise. In these
+circumstances, the maximum cost to the equity holders of the bank would be the loss
+of their equity from failure. Society, through the central bank, would still be faced
+with the challenge of meeting the additional spillover costs from the bank’s
+inadequate liquidity risk management on the overall financial system. As this
+example shows, the incentives for banks to run excessive liquidity risks from a
+system-wide perspective must be addressed through regulatory constraints on
+behaviour ex ante, as they cannot be offset by penalties and haircuts on central bank
+lending ex post.
+Section 5: Concluding comments
+44 I have set out above some high level objectives that may help guide future
+research and analysis on the development of a framework to strengthen the regulation
+of system-wide liquidity risks. That must balance the containment of system-wide
+liquidity risks, to lower the likelihood and impact of severe financial system stress,
+against the benefits the financial system provides through maturity transformation and
+the taking of liquidity risk. Good progress has been made in some areas, such as
+developing strong standards for liquidity risk management at individual banks that
+take account of system-wide stress. In other areas, such as calibrating the potential
+contribution of individual banks to potential system-wide liquidity strain and
+reviewing how best to address spillovers and externalities from both a microprudential and macro-prudential perspective, research is just beginning.45 Developing
+these approaches is an important objective for the design of prudential regulation in
+the medium term.
+
+45
+
+See for example Perotti, E and Suarez, J (2009) and Brunnermeier et al (2009).
+
+References
+Aikman, D, Alessandri, P, Eklund, B, Gai, P, Kapadia, S, Martin, E, Mora, N,
+Sterne, G and Willison, M (2009) ‘Funding Liquidity Risk in a Quantitative Model
+of Systemic Stability’ preliminary Bank of England Working Paper.
+Alessandri, P, Gai, P, Kapadia, S, Mora, N and Puhr, C (2009) ‘Towards a
+Framework for Quantifying Systemic Stability’ International Journal of Central
+Banking (forthcoming).
+Bank of England (various) ‘Financial Stability Report: various issues ’ available at
+http://www.bankofengland.co.uk/publications/fsr/index.htm .
+Bank of England (2008) Consultative paper ‘The Development of the Bank’s Market
+Operations’ available at http://www.bankofengland.co.uk/markets/money/ .
+Basel Committee on Banking Supervision, Bank for International Settlements
+(1992) ‘A framework for measuring and managing liquidity’ report available at
+http://www.bis.org/publ/bcbs10b.htm .
+Basel Committee on Banking Supervision, Bank for International Settlements
+(2000) ‘Sound Practices for Managing Liquidity in Banking Organisations’ report
+available at http://www.bis.org/publ/bcbs69.htm .
+Basel Committee on Banking Supervision, Bank for International Settlements
+(2008a) ‘Liquidity Risk: Management and Supervisory Challenges’ report available
+at available at http://www.bis.org/publ/bcbs136.htm .
+Basel Committee on Banking Supervision, Bank for International Settlements
+(2008b) ‘Principles for Sound Liquidity Risk Management and Supervision’ report
+available at http://www.bis.org/publ/bcbs144.htm .
+Bedford, P, Millard, S and Yang, J (2004), Assessing operational risk in CHAPS
+Sterling: a simulation approach’, Bank of England Financial Stability Review 16.
+Bernardo, A. E., and Welch, I. (2004). ‘Liquidity and Financial Market Runs’, The
+Quarterly Journal of Economics, 119(1), 135-158.
+Borio, Claudio (2004), ‘Market Distress and vanishing liquidity, anatomy and policy
+options’ BIS Working Paper No 158 available at
+http://www.bis.org/publ/work158.htm .
+Borio, Claudio (2009), ‘Ten propositions about liquidity crises’ Bank for
+International Settlements, mimeograph, forthcoming in CESifo Economic Studies.
+Borio, C and Drehmann, M, (2008), ‘Towards an operational framework for
+financial stability: “fuzzy” measurement and its consequences’ paper presented at
+the 12th Annual Conference of the Central Bank of Chile on ‘Financial Stability,
+monetary policy, and central banking.
+
+19
+Brunnermeier Marcus K and Pedersen Lasse Heje, (2007),’Market Liquidity and
+Funding Liquidity’ NBER Working Papers 12939, National Bureau of Economic
+Research, Inc. (forthcoming in Review of Financial Studies)
+Brunnermeier, M and Adrian, T, (2008), ‘CoVaR’ available at
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1269446 Social Science
+Research Network Working Paper.
+Brunnermeier, M, Crockett, A, Goodhart, C, Persaud, AD and Shin, H (2009)
+‘The fundamental principles of financial regulation’, Geneva Reports on the World
+Economy 11 discussed at 11th Geneva Conference on the World Economy hosted by
+the International Center for Monetary and Banking Studies (ICMB) .
+Cifuentes, R, Ferruci, G and Shin, HS (2005) ‘Liquidity risk and contagion’
+Journal of the European Economic Association, Vol 3 (2-3)
+Committee on the Global Financial System, Bank for International Settlements
+(2008) ‘Central bank operations in response to the financial turmoil’ Paper No.31.
+Drehmann, Mathias and Nikolaou, Kleopatra (2009), "Funding Liquidity Risk:
+Definition and Measurement," Working Paper Series 1024, European Central Bank
+Financial Services Authority (2008) Consultation Paper CP08/22 ‘Strengthening
+liquidity standards’ available at http://www.fsa.gov.uk/pubs/cp/cp08_22.pdf .
+Financial Services Authority (2009) Discussion paper DP09/2: ‘A regulatory
+response to the global banking crisis’ available at
+http://www.fsa.gov.uk/pages/Library/Policy/DP/2009/09_02.shtml .
+Financial Stability Forum (2009), ‘Report of the Financial Stability Forum on
+Addressing Procyclicality in the Financial System’ April.
+G20 (2009), ‘Declaration on strengthening the financial system’, London Summit 2
+April.
+Gai, P, Jenkinson, N and Kapadia, S (2007) ‘Systemic risk in modern financial
+systems: analytics and policy design’, Journal of Risk Finance 8(2).
+Gai, P and Kapadia, S (2009), ‘A Network Model of Super-Systemic Crises’, in
+Alfaro, R and Gray, D (eds), Financial Stability, Monetary Policy, and Central
+Banking, Central Bank of Chile Series on Central Banking, Analysis, and Economic
+Policies, Vol. 14, forthcoming.
+Gieve, J (2009) ‘Seven lessons from the last three years’ available at
+http://www.bankofengland.co.uk/publications/speeches/2009/speech377.pdf
+Goodhart, CAE (2008) ‘Liquidity and Money Market Operations: A proposal’ LSE
+Financial Markets Group Special Paper 179.
+Haldane, A (2009a) ‘Why Banks Failed the Stress Test’, available at
+http://www.bankofengland.co.uk/publications/speeches/2009/speech374.pdf
+
+20
+Haldane, A (2009b) ‘Rethinking the financial network’, available at
+http://www.bankofengland.co.uk/publications/speeches/2009/speech386.pdf
+Hamilton, R, Jenkinson, N and Penalver, A (2007) ‘Innovation and Integration in
+Financial Markets and the Implications for Financial Stability’ in ‘The Structure and
+Resilience of the Financial System’ (editors Kent, C and Lawson, J, Reserve Bank of
+Australia) Pegasus Print Group, Sydney, Australia.
+Heider, F, Hoerova, M and Holthausen C (2009) ‘Liquidity Hoarding and
+Interbank Market Spreads: The role of counterparty risk’ forthcoming in the ECB
+Working Paper series.
+Jenkinson, N (2007) ‘Developing a Framework for Stress Testing of Financial
+Stability Risks’ Speech at the ECB Conference on Stress Testing and Financial Crisis
+Management in Frankfurt available at
+http://www.bankofengland.co.uk/publications/speeches/2007/speech318.pdf .
+Jenkinson, N (2008) ‘Strengthening Regimes for Controlling Liquidity Risk: Some
+lessons from the Recent Turmoil’ Speech at the Euromoney Conference on Liquidity
+and Funding Risk Management available at
+http://www.bankofengland.co.uk/publications/speeches/2008/speech345.pdf .
+Kerry, W (2008) ‘Measuring financial market liquidity’ Journal of Risk
+Management in Financial Institutions, Vol 1 No2.
+King, M (2007) Speech at the Lord Mayor’s Banquet for Bankers and Merchants of
+the City of London at the Mansion House available at
+http://www.bankofengland.co.uk/publications/speeches/2007/speech313.pdf
+King, M (2009) ‘Finance: A Return from Risk’ Speech to the Worshipful Company of
+International Bankers at the Mansion House available at
+http://www.bankofengland.co.uk/publications/speeches/2009/speech381.pdf .
+Morris, S., and Shin, H. S. (2004). ‘Liquidity Black Holes’ Review of Finance, 8(1),
+1-18.
+Perotti, E and Suarez, J (2009) ‘Liquidity Insurance for Systemic Crises’, available
+at www.parliament.uk/documents/upload/EA44_PerottiEnrico20090220.pdf prepared
+for testimony to the Select Committee for Banking Regulation and Supervision,
+House of Lords, 24 February 2009.
+Persaud, A (2008) ‘Regulation, valuation and systemic liquidity’, Banque de France
+Financial Stability Review No12.
+Renault, F, Bech, M, Beyeler, WE, Glass, R., and Soramäki, K (2008),
+‘Performance and Resilience to liquidity disruptions in interdependent RTGS payment
+systems, paper presented at the joint Banque de France/European Central Bank on
+“Liquidity in interdependent transfer systems”, Paris, 9-10 June 2008 available at
+http://www.banque-france.fr/fr/publications/seminaires/9juin_programme.htm .
+
+21
+Tucker, P (2009) remarks at Panel Session at The Turner Review Conference, The
+Queen Elizabeth II Conference Centre, London, 27 March 2009 available at
+http://www.bankofengland.co.uk/publications/speeches/2009/speech384.pdf .
+Turner, A (2009) ‘The Turner Review: A regulatory response to the global banking
+crisis’, Financial Services Authority available at
+http://www.fsa.gov.uk/pages/Library/Corporate/turner/index.shtml .
+Van der End, W (2008) ‘Liquidity stress-tester: A macro model for stress-testing
+banks liquidity risk’, De Nederlandsche Bank Working Paper No 175.
+Warsh, K (2007a) ‘Market Liquidity: Definitions and Implications’, speech at the
+Institute of International Bankers Annual Washington Conference, Washington DC,
+5 March. Available at
+http@www.federalreserve.gov/boarddocs/speeches/2007/20070305 .
+Warsh, K (2007b) ‘Financial Intermediation and Complete Markets’, speech at the
+European Economics and Financial Centre, London, 5 June. Available at
+http@www.federalreserve.gov/boarddocs/speeches/2007/200706052 .
+Webber, L and Churm, R (2007) 'Decomposing corporate bond spreads', Bank of
+England Quarterly Bulletin, Vol 47, No. 4, pages 533-41.
+
+22
+CHARTS
+Chart 1: Financial market liquidity(a)
+
+Chart 2: Financial market liquidity(a)
+
+Liquidity index
+1.0
+
+Liquidity index
+1.0
+
+0.6
+
+0.6
++
+0.2
+0.2
+
+0.2
++
+0.2
+-
+
+0.6
+1.0
+1.4
+
+0.6
+
+1.8
+2.2
+
+1.0
+
+2.6
+3.0
+
+1.4
+92
+
+92 93 94 95 96 97 98 99 00 02 03 04 05 06
+
+Sources: Bank of England, Bloomberg, Chicago
+Board Options Exchange, Debt Management Office,
+London Stock Exchange, Merrill Lynch, Thomson
+Datastream and Bank calculations.
+(a) The liquidity index shows the number of standard
+deviations from the mean. It is a simple unweighted
+average of nine liquidity measures, normalised on the
+period 1999-2004. The series shown is an
+exponentially weighted moving average. The
+indicator is more reliable after 1997 as it is based on
+a greater number of underlying measures.
+
+94
+
+96
+
+98
+
+00
+
+Percentage of
+total assets
+(all currencies)
+35
+
+Cash ratio deposits
+1981
+
+Sterling stock
+liquidity regime
+1996
+
+73
+
+78
+
+83
+
+88
+
+93
+
+98
+
+03
+
+08
+
+Avg UST / Assets 1970 - 1992
+
+Percentage of
+total assests
+(all currencies)
+16
+14
+
+30
+
+12
+
+25
+
+10
+
+20
+
+8
+
+15
+
+6
+
+10
+
+4
+
+5
+
+2
+
+0
+68
+
+06
+
+Sources: Bank of England, Bloomberg, Chicago Board
+Options Exchange, Debt Management Office, London
+Stock Exchange, Merrill Lynch, Thomson Datastream
+and Bank calculations.
+(a) The liquidity index shows the number of standard
+deviations from the mean. It is a simple unweighted
+average of nine liquidity measures, normalised on the
+period 1999-2004. The series shown is an exponentially
+weighted moving average. The indicator is more reliable
+after 1997 as it is based on a greater number of
+underlying measures.
+
+UST / Assets
+
+Competition &
+credit control
+1971
+
+04
+
+Chart 4: US banks holdings of Treasury
+Bonds
+
+Chart 3: Sterling liquid assets
+relative to total asset holdings of UK
+banking sector(a)
+Broad ratio(b)
+Reserve ratio(c)
+Narrow ratio(d)
+
+02
+
+08
+
+Source: Bank calculations.
+(a) 2009 data are as of end-March 2009.
+(b) Cash + Bank of England balances + money at call +
+eligible bills + UK gilts.
+(c) Proxied by: Bank of England balances + money at call +
+eligible bills.
+(d) Cash + Bank of England balances + eligible bills.
+
+0
+66 69 72 75 78 81 84 87 90 93 96 99 02 05 08
+Source: FDIC Statistics on Depository Institutions.
+
+23
+Chart 6: Decomposition of sterlingdenominated high-yield corporate bond
+spreads
+
+Chart 5: UK banks' leverage ratio(a)(b)
+Maximum-minimum range
+
+Per cent
+70
+
+Interquartile range
+
+3200
+
+Co mp ensatio n fo r uncertainty ab o ut d efault lo sses
+
+60
+
+Median
+
+Ba sis point s
+
+Resid ual (includ ing co mp ensatio n fo r illiq uid ity)
+
+3000
+
+50
+
+Co mp ensatio n fo r exp ected d efault lo sses
+
+2800
+
+Actual
+
+2600
+2400
+
+40
+
+2200
+2000
+
+30
+
+1800
+1600
+
+20
+
+1400
+
+10
+
+1200
+1000
+
+0
+
+800
+600
+
+87 89 91 93 95 97 99 01 03 05 07 09
+
+400
+
+Source: Thomson Datastream, published accounts
+and Bank calculations.
+(a) Gross leverage measured by total assets divided
+by shareholders equity minus minority interests.
+(b) Due to the mergers and acquisitions of banks, the
+chart includes data for the bank peer group as used in '
+A new peer group to analyse large UK-owned banks
+resilience over time', Financial Stability Review, Box
+7, December 2004, page 68.
+
+200
+0
+-200
+98
+
+00
+
+01
+
+02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+Sources: Bloomberg, Merrill Lynch, Thomsom
+Datastream and Bank Calculations.
+(a) Webber, L and Churm, R (2007), 'Decomposing
+corporate bond spreads', Bank of England Quarterly
+Bulletin, Vol 47, No. 4, pages 533-41.
+(b) Option-adjusted spreads over government bond
+yields.
+
+Chart 7: Illiquidity premia in sterling
+and US dollar-denominated corporate
+bond spreads(a)(b)
+Illiquidity premia (c)
+Full sample average
+Average to end Jun 07
+
+99
+
+Basis points
+500
+450
+400
+350
+300
+250
+200
+150
+100
+50
+0
+
+98 99 00 01 02 03 04 05 06 07 08 09
+Sources: Bloomberg, Merrill Lynch, Thomsom Datastream
+and Bank Calculations.
+(a) Webber, L and Churm, R (2007), 'Decomposing
+corporate bond spreads', Bank of England Quarterly Bulletin,
+Vol 47, No. 4, pages 533-41.
+(b) Option-adjusted spreads over government bond yields.
+(c) Average of sterling and dollar IG/HY illiquidity premia,
+weighted by market value of bonds outstanding.
+
+09
+
+

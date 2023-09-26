@@ -1,0 +1,2358 @@
+The yield curve and QE
+Speech given by
+Gertjan Vlieghe
+External MPC Member
+Bank of England
+
+Imperial College Business School
+Tuesday 25 September 2018
+
+I would like to thank Rodrigo Guimarães, Yad Selvakumar, Manveer Sokhi, Ali Schomberg, Mike Joyce,
+Michael Saunders, Silvana Tenreyro, Michael McLeay, Clare Macallan for help with data and comments.
+1
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+There is a great deal of interest among economic commentators, in the UK and elsewhere, in the yield curve.
+What should a “normal” yield curve look like? What does the current shape of the yield curve mean for the
+economy? What has QE done to the yield curve? What will an unwind of QE do to the yield curve?
+These are some of the questions I will address today. I have discussed yield curves before.1 My motivation
+for bringing up the topic again is that the MPC has given updated guidance this year on the QE unwind.
+Moreover, the Fed is now in the process of unwinding QE. ECB is winding down its QE purchases, and the
+BoJ is revising its QE implementation. In this speech I discuss what, in theory, should drive the shape of the
+yield curve. I use a very long run of historical data to provide some empirical evidence to support the theory
+and explain where we are today. In light of this, I then revisit the arguments and evidence about how QE has
+influenced the yield curve. Finally, I discuss what lessons central banks can learn from the early stages of
+QE unwind in the US.
+This is a rather long speech, so I will give you a really short version up front. The yield curve was
+upward-sloping, on average, in the 20th century. Holders of long-term bonds required higher returns, on
+average, than holders of short-term bonds. But the yield curve was flat before that, in the gold standard era.
+I argue that, since Bank of England independence, the fundamentals of inflation and inflation risk have
+become more similar to the gold standard era than to the 20th century average, and in particular are very
+different from the 1970s and 1980s. So we should expect yield curves to be flat again, on average. I argue
+that all of these changes in fundamentals and term premium were largely in place before QE started, so we
+do not need to resort to QE as a separate factor to explain the current shape of yield curves. Does QE not
+affect the yield curve? Of course it does. But it does so primarily by affecting expectations of future monetary
+policy, revealing the central bank’s reaction function. This anchors inflation expectations even when interest
+rates are constrained at the effective lower bound, which in turn affects a wide range of asset prices,
+economic growth and inflation. In that sense, QE is not that different from conventional monetary policy.
+I argue against the view that QE works primarily by pushing down long-term interest rates directly, through
+compressing the term premium (the “portfolio balance channel”). Understanding the main channels through
+which QE works is going to be very important when it comes to unwinding QE: my view that QE works
+primarily via expectations, with additional powerful liquidity effects that are temporary and mainly relevant
+during periods of market stress, implies that unwinding QE need not have a material impact on the shape of
+the yield curve, or indeed on the economy, if properly communicated and done gradually.
+
+1. What determines the shape of the yield curve in theory?
+Anyone that has applied for a mortgage, or a loan more generally, will have first-hand experience of how
+interest rate are different for different horizons, or maturities. The yield curve is a simple graph of interest
+rates at different maturities. When commentators say the yield curve is “flat”, they tend to mean that
+long-term interest rates are at similar levels to short-term interest rates. A “steep” curve is one where
+long-term interest rates are quite a bit higher than short-term interest rates. And, for completeness, an
+1
+
+See Vlieghe (2016).
+2
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+2
+
+“inverted” yield curve is one where long-term interest rates are lower than short-term interest rates. The
+difference, or spread, between long-term interest rates and short-term interest rates is commonly referred to
+as the yield spread or term spread.
+There is no precise convention about what constitutes long term vs short-term, but usually long term means
+10 years or more, and short term means 3 years or less.
+Many different financial instruments have a yield curve: mortgages, government bonds, corporate bonds,
+interest rates swaps, credit default swaps. I will generally refer to interest rates on government bonds.
+Interest rates on government bonds can be usefully decomposed into real and nominal rates, and into an
+expectations component and a risk premium component, often referred to as the term premium.2
+The diagram below illustrates this decomposition. The decomposition can be done for each maturity. It can
+also be done for average rates (spot rates) or rates that apply to a future short term period (forward rates).
+
+Diagram 1: Decomposition of nominal interest rates
+
+Source: Bank of England
+
+So long-term rates can be higher than short-term rates because expected future real rates are higher than
+current real rates, or expected future inflation is higher than current inflation, or because investors demand a
+high real term premium, or because investors demand a high inflation risk premium.
+I will now discuss what drives each of these components in turn. The expectations component of the yield
+curve, ie the extent to which future real rates are expected to be above or below current real rates, is closely
+linked to the economic cycle. In a downturn, the central bank cuts short-term interest rates to low levels, but
+after some years the interest rate is expected to revert back to a higher level, that will be appropriate when
+the inflation is at target, there is no slack in the economy and growth has returned to trend.3 Conversely,
+during an economic boom, when growth is above potential but there is little slack and inflation pressures are
+
+2
+3
+
+For a detailed general discussion see Guimarães (2012) and Vlieghe (2016).
+See the discussion on the equilibrium interest rate in Box 6 of the Inflation Report of August 2018.
+3
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+3
+
+building, the central bank might raise short-term rates to levels above those expected to prevail further out.
+In simple terms, a weak economy will therefore have a steep yield curve, and a strong economy will have a
+flat or even inverted yield curve, simply due to the expected future path of interest rates.
+Next, I turn to the risk premium, or term premium, component of the yield curve. Finance theory tells us that
+the risk premium that any investor demands on an asset is related to how the returns on that asset vary with
+consumption.4 Intuitively, investors like assets that have high returns when consumption is low, i.e. high
+returns when economic activity is depressed. So investors will accept a low or negative risk premium on such
+assets. Such assets have insurance-like properties: they pay out more in bad times, when investors need it
+most. Investors dislike assets that have low returns when economic activity is depressed, and will therefore
+demand a high risk premium on such assets. So the key driver of risk premia is the covariance of asset
+returns with consumption growth, which simply means the extent to which an asset has insurance-like
+properties.
+In the case of government bonds, long-term expected returns depend on future short-term real interest rates,
+as well as future inflation. So the risk premium will depend on how both of these are expected to vary with
+future consumption.
+The insurance benefit of long term bonds as compared to short term bonds depend on how persistent
+consumption growth is. Short-term real interest rates tend to fall when the economy is weak, pushing the
+price of real bonds up. If consumption growth is persistent, i.e. if weak current consumption growth tends to
+be followed by weak subsequent consumption growth as well, then risk-free real rates will tend to be
+persistently low as well. If that is the case, the return on real long-term bonds will rise by more than the return
+on real short-term bonds during a period of low consumption growth. Real long-term bonds therefore provide,
+other things equal, more insurance value than real short-term bonds if consumption growth is persistent.
+The more persistent consumption growth is, the more negative the real term premium will be.5 In other
+words, long-term real bond returns should, on average over the cycle, be lower than short-term real bond
+returns when consumption is persistent.6
+Next, let us think about the inflation risk premium. Investors need to be compensated for the risk that future
+inflation turns out differently from today’s expected inflation. Again, the covariance point is key: investors will
+demand an inflation risk premium if inflation surprises on the upside (eroding the real returns on nominal
+bonds) precisely at the time when consumption growth is weak. And the inflation risk premium will be higher
+if inflation is persistent, i.e. if inflation drifts away from its previously expected level for a long time. If, instead,
+inflation surprises on the downside when consumption growth is weak, the inflation risk premium should be
+negative.
+4
+
+See my discussion in Vlieghe (2017). For a general textbook treatment see Campbell (2018).
+For general treatments see Campbell (1986); Breeden (1986); Backus, Gregory and Zin (1989); Chapman (1997); Abel (1999); and
+recent overview of Campbell, Shiller and Viceira (2009). UK estimates include Evans (1998); Seppala (2004); Joyce, Lildholt and
+Sorensen (2010); Guimarães (2016); for US see Chernov and Mueller (2012) and D’Amico, Kim and Wei (2018). The real premium is
+only positive if there is negative autocorrelation in consumption growth.
+6
+This is indeed what Guimarães (2016) finds for the UK using robust decompositions of the nominal and real yield curve. Chernov and
+Mueller (2012) find similar estimates for the inflation term premium in the US (high in early 1980s and near zero or negative in the
+2000s).
+5
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+4
+
+So the two key variables that determine the size of the inflation risk premium are the covariance of inflation
+with consumption growth and the persistence of inflation itself. Negative covariance and high inflation
+persistence hurt investors most, therefore requiring the highest inflation risk premium.
+2. Long run analysis of the yield curve and its drivers
+I now turn to long run data on consumption, inflation, short-term and long-term rates7 to see to what extent
+the theory is supported by the data. The benefit of looking at a long sample is that there is more variation of
+the separate theoretical drivers, allowing a cleaner test of the theory.8 The bottom line from the evidence I
+review below is that the theory works very well in practice. In particular, the periods of increasing and
+persistent inflation, with negative covariance with consumption growth, such as the late 1970s and early
+1980s, were the periods of highest term premium. Periods with stable inflation, and with positive covariance
+with consumption, as we experienced in the last two decades, as well as the gold standard era, were periods
+of low or negative term premium.
+A first cut of the data is to compare the UK term spread between two long samples that had on average very
+different values of persistence and covariance, namely the gold standard era, and the post-gold standard era
+(after 1931).9 I then look at the variation over time in more detail within the past century.
+Table 1. Term spread and macro fundamentals during and after the Gold Standard
+
+Mean
+(1)
+
+(2)
+
+Autocorrelation
+
+Correlation
+
+Term
+
+Inf
+
+Con
+
+Inf, Con
+
+(3)
+
+Inf
+
+Con
+
+GS (1831-1914)
+
+0
+
+0.8
+
+-0.2
+
+0.1
+
+-0.1
+
+0.2
+
+Post GS (1931-2016)
+
+5
+
+1.9
+
+1.2
+
+0.8
+
+0.5
+
+-0.2
+
+Notes: (1): Annual percentage change in GDP price deflator; (2): Real per capita consumption annual growth; (3): Term spread is the
+difference between the consol rate and short term market rate.
+Source: BoE Millennium of Macroeconomic Data, Bank Calculations, Bank calculations
+
+As shown in Table 1, during the gold standard, the term spread was, on average, slightly negative at -20bp.
+In the more recent period, the term spread averaged around 120bp. So the sum of real and inflation risk
+premia was significantly higher in the more recent period compared with the gold standard.
+How does this compare with the theoretical drivers of the term premium, namely the persistence of
+consumption and inflation, and their covariance? During the gold standard, consumption growth showed little
+7
+
+It is only in recent decades that countries have started issuing real, i.e. inflation-linked, government bonds systematically, allowing us
+to observe long-term real bond returns distinctly from long-term nominal bond returns. Before that, most bonds were nominal, so returns
+on real bonds were not observable separately. In my longer-term analysis, I will focus on the total risk premium on nominal long-term
+bonds, which is the sum of the real premium and the inflation premium.
+8
+A second reason for relying on long time periods is because, over such long periods, it is reasonable to consider that expectations of
+future short-term rates will, on average, be equal to short-term rates, i.e. there is no systematic expectation that interest rates in the
+future will be different from those in the short term. That allows us to interpret the term spread, averaged over a long period, as
+reflecting risk premia rather than differences between the current short-term rate and expected future short-term rates. The term
+structure estimates using the available term structure data from 1971 and state-of-the-art models confirms this conjecture for the period
+1972-2017.
+9
+See Vlieghe (2017) for details on data and further description of the behaviour of asset prices during and after the Gold Standard.
+5
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+5
+
+persistence, as did inflation, and inflation was on average zero. When neither consumption nor inflation are
+persistent, the risk premium on long-term bonds should be around zero, as indeed it was in the data. After an
+inflation surprise, inflation is not expected to drift, i.e. it is expected to return to its previous rate, so long-term
+nominal bonds are not subject to higher inflation risk than short-term nominal bonds. And with little
+consumption persistence, long-term real bonds do not provide much additional insurance relative to
+short-term real bonds, because consumption growth and therefore short-term rates are expected to return to
+their averages relative quickly.
+But in the more recent period starting in 1931, inflation and consumption became more persistent, and
+inflation rates trended up. The autocorrelation of inflation, a measure of persistence, rose from around 0.1 to
+around 0.8. Moreover, consumption growth and inflation became negatively correlated with each other, so
+periods of high inflation were also periods of low consumption growth, on average. So inflation tended to hurt
+investors precisely when the economy was depressed, and the inflation pain tended to be persistent. That
+made long-term nominal bonds far riskier than short-term nominal bonds, and investors demanded higher
+average returns to compensate for that risk: the average term spread rose to 120bp from slightly negative. 10
+So far, we have just looked at the post 1930s period as a single period. But in fact, there were substantial
+variations in the monetary regime within that period, notably joining the Bretton Woods exchange rate regime
+in 1946 (followed by periodic devaluations), breaking up of Bretton Woods in 1971, the start of inflation
+targeting in 1992, and the resumption of operational independence of the Bank of England and the creation
+of the Monetary Policy Committee in 1997. Benati (2008) has documented that the persistence of inflation
+was influenced by these different monetary regimes. Persistence rose somewhat after the gold standard was
+abandoned in 1931, but rose much more sharply when Bretton Woods effectively ended in 1971. With no
+clear nominal anchor for UK monetary policy, inflation drifted very far from any notion of price stability in the
+1970s and 1980s. Only when inflation targeting was adopted in 1992 did inflation re-anchor.
+To assess the implications of these changes for the term premium, we also need to examine what happened
+to the covariance between inflation and consumption growth within the post-1930s era.
+Figure 1 and 2 shows the time-varying long run mean and persistence of inflation estimated for England
+since the 1300s, to show just how unique the persistent drift up in inflation in the 1970s was. This analysis
+highlights yet again that the 1970s-1980s were unusual in the big sweep of history.11 These were times when
+nominal bonds were unusually risky.
+
+10
+
+The autocorrelation of consumption became positive in the post 1930s period, rising from -0.1 to 0.5. That should lower the real risk
+premium, because long-term real bonds pay off more when consumption growth is low. Because of the absence of inflation-linked
+bonds for most of the period, we can only measure the sum of the real risk premium and the inflation risk premium, not its separate
+components. So I infer that the rise in the inflation risk premium was far bigger than the decline in the real risk premium, resulting in the
+total term premium going up by 120bp.
+11
+See my discussion of real rates in Vlieghe (2017).
+6
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+6
+
+Figure 1. Implied long run mean of inflation from UCSV-
+
+Figure 2. AR(1) coefficient on inflation from UCSV-TVP
+
+TVP model – England 1371-2016
+
+model – England 1371-2016
+
+Note: Figures 1 and 2 show the long-run mean and AR(1) coefficients from a Stock and Watson (2007) Unobserved Components Stochastic Volatility
+th
+
+th
+
+(UCSV) model with time-varying coefficients. The solid black line shows the median estimates, and the dotted black lines show the 5 and 95 percentiles
+of the posterior distribution.
+Source: BoE Millennium of Macroeconomic Data, Bank calculations
+
+Not only was inflation persistent and with a rising trend, but it had the most negative covariance with
+consumption growth in its history, meaning that inflation tended to hurt investors most when consumption
+was already low. Negative supply shocks had persistent effects on inflation, as the nominal anchor for
+monetary policy was weak or absent.
+Figure 3 shows simple rolling estimates of the correlation between inflation and consumption growth. It
+shows the correlation steadily declined in the post 1930s, becoming more negative. It was only in recent
+decades that it became positive again, resembling the correlation that prevailed during the gold standard.
+Figure 3: Co movement: 30-year rolling window correlation of inflation and consumption
+
+Source: BoE Millennium of Macroeconomic Data, Bank calculations
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+7
+
+With trend inflation low and stable after inflation-targeting and independence, and inflation correlation with
+consumption positive again, one would expect long-term bonds to have a term premium that is close to zero
+or negative, after a period of a strongly positive inflation risk premium in the 1970s and 1980s.
+That is exactly what we find in the data. Figure 4 shows estimates from term structure models that
+incorporate the information in surveys of professional forecasters about expectations.12 The term premium on
+10y government bonds is estimated to have been positive for the 1972-1996 period, before falling to slightly
+negative after Bank of England independence in 1997. Moreover, today’s levels are not that different from
+the pre-crisis 1997-2007 average. (See Table A1 in the appendix).
+The fact that we are able to understand the decline in term premium since the 1980s using only the deep
+fundamentals of inflation persistence and inflation correlation with consumption means that we do not need
+to appeal to extraordinary circumstances or the impact of unconventional monetary policy as an explanation.
+I will return to that in sections 3 and 4.13
+Figure 4: Range of 10 year spot nominal term premium estimates (different samples and number
+of factors)14
+
+Sources: BoE, HMT, updated models estimates from Guimarães (2012, 2016)
+
+I am not making a forecast that the term premium will never rise again. First, the term premium moves
+around over the cycle, just like risk premia on other assets. I am only making a point about where we should
+expect it to be on average now. Second, I am arguing that we would need to see a change in the inflation
+risk fundamentals to see a large and sustained increase in the term premium. That in turn will depend on
+both the shocks hitting the economy, and how the MPC responds to those shocks. But even before the
+
+12
+
+See Guimarães (2012, 2016) and Vlieghe (2016) for detailed discussion.
+Persistence and correlation have moved in similar ways in the US. The US yield curves have behaved very similarly to UK, as
+discussed in Vlieghe (2016), with the important difference that the Fed only recently adopted an explicit inflation target, hence their
+perceived target drifted lower over time, in contrast to the more sudden anchoring in the UK following the adoption of inflation target and
+independence.
+14
+The range includes a total of 69 estimates, with models of 3 to 5 factors estimated over 23 different samples (varying start and end
+date) each. This is an update through July 2018 of the range shown in Vlieghe (2016). See Guimarães (2016) for a full discussion.
+Figure A3 in the appendix shows the range for the same combination of estimates (number of factors and sample choices) when no
+survey forecast information is used.
+13
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+8
+
+financial crisis and ensuing period of QE and policy rates at their effective lower bound, the term premium
+was roughly where it is now in the UK, so just a return to pre-crisis normal would not mean a significantly
+higher term premium than where we are today15. As I have mentioned before,16 the decline in long-term
+yields relative to the pre-crisis period that can be attributed to the term premium is measured in tens of basis
+points, not hundreds of basis points.
+3. How does conventional and unconventional policy work?
+Before turning to the specifics of QE and the yield curve, I want to recap more broadly how I think QE works
+as an instrument of monetary policy.
+It is important to emphasise that, conceptually, QE is not that different from conventional monetary policy.
+Conventional monetary policy and QE both involve open market operations: purchases and repos of
+government bonds and other financial instruments, in exchange for central bank reserves. The difference is
+only in emphasis and scale: conventional monetary supplies the necessary reserves to achieve a particular
+level of a very short-term interest rate (in the case of the UK, the target of conventional policy was the SONIA
+rate that prevails from one MPC policy decision to the next one).17 But the wider objective of policy is that
+such changes in very short-term money market interest rates affect a wide range of other interest rates and
+other asset prices, which in turn affect growth and inflation. QE policy also supplies reserves, but
+de-emphasises the impact on the very short-term money market rate18, which is typically at its effective lower
+bound when QE is deployed. Like conventional policy, QE policy also aims to affect a wide range of interest
+rates and other asset prices, which in turn affect growth and inflation. Both conventional policy and QE policy
+are deployed with the aim of keeping inflation close to target.
+It has long been understood19 that the key mechanism by which conventional policy affects the economy is
+not the direct effect on the economy of very short term money market rates, which is small. Rather, changes
+in policy rates affect not just current money market rates, but also expectations of future money market rates,
+which in turn affect mortgage rates, corporate bond rates and a whole range of asset prices that are
+important for the economy. If market participants thought that a change in the policy rate today was going to
+be reversed next month, today’s change would have very little impact. The powerful impact from monetary
+policy is that today’s action influences expectations of future actions, because policy rate changes and the
+accompanying communication reveal the central bank’s reaction function. There is a close parallel with QE:
+15
+
+One additional subtlety about the behaviour of inflation in the post-crisis years might have played a role: in the UK and other
+advanced economies, the post-crisis recoveries have been characterised by weaker than expected inflation pressure during a period
+where the effective lower bound on interest rate has been binding. That has led to persistent fears of low inflation coinciding with low
+consumption growth, which should push the term premium more deeply into negative territory. Given we expect r* to remain lower than
+pre-crisis for the foreseeable feature, the likelihood of being at the ELB has increased which might lead to a more negative term
+premium than pre-crisis.
+16
+See Vlieghe (2016).
+17
+See The Bank of England’s Sterling Monetary Framework (2015), known as the Red Book
+www.bankofengland.co.uk/markets/Pages/sterlingoperations/redbook.aspx
+18
+Through the operation of a floor system for reserves since the introduction of QE, the link between short-term interest rates and
+reserves has been weakened, in the sense that oversupply of reserves does not preclude control over short-term interest rates. But we
+should not forget that it is only the existence of some bank demand for central-bank provided reserves that permits central bank control
+over short-term interest rates. And I believe it is still useful to think of monetary policy as having an important impact via the quantity of
+aggregate money and credit, not just via interest rates (eg see “Money Creation in a Modern Economy”, Bank of England Quarterly
+Bulletin 2014 Q1).
+19
+See the synthesis in Woodford (2003), who says “Not only do expectations about policy matter, but, […] very little else matters” (page
+15).
+9
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+9
+
+today’s purchases of government bonds send a clear signal that the central bank deems adding more
+stimulus is necessary, with the size and pace revealing the amount of stimulus, even though the policy rate is
+at or near its effective lower bound. That influences expectations of future monetary policy, as QE is a
+powerful signal that a central bank is not minded to raise rates any time soon, since it just voted to add even
+more stimulus.
+I prefer calling this an “expectations channel” rather than a “signalling channel” because the signalling
+channel is usually interpreted more narrowly as just providing information about the future path of rates. By
+“expectations channel” I have in mind a broader mechanism that informs people about the future path of
+interest rates, but also about the reaction function: how the central bank responds to news, conditions under
+which further QE might be deployed, tolerance for temporary above-target inflation when the output gap is
+large.20 Just like with conventional policy, both the actions and the communication are important in
+determining the impact on the economy and asset prices.
+It is important to note that my assessment that both conventional policy and QE work largely via expectations
+does not mean they have no effect on term premia or risk premia of other assets. There is a large body of
+evidence that conventional policy affects all kinds of asset prices: long term bonds, credit spreads, equity
+prices, and exchange rates.21 Monetary policy changes the outlook for the economy and the balance of risks,
+so there is every reason to think it should also have an impact on risk premia. And QE can be expected to
+have similar effects, even if both conventional and QE policy work primarily via expectations. If this
+description of conventional monetary policy sounds unfamiliar it is because textbook macro models tend to
+ignore risk premia, which finance theory tells us are crucial to understand any asset price.
+One argument that some are tempted to make, but I want to dismiss, is the following: if QE policy is all about
+influencing expectations, why not just stick to forward guidance? Forward guidance merits a place in the
+monetary policy toolbox, but there are two reasons why QE and forward guidance are not perfect substitutes.
+Unlike forward guidance, QE does have important direct effects, even if they are less well understood than in
+the case of conventional policy. First, purchasing a large quantity of any asset in a short space of time
+pushes up the price, even if only temporarily. Second, QE improves aggregate liquidity by increasing
+reserves at a time when aggregate liquidity is scarce. Third, QE can target specific assets for which buyers
+are scarce.22 Once orderly market function has been restored, these liquidity effects fade away, but they are
+crucial at a time of financial stress23. Finally, the demonstrated commitment to avoiding deflation by adding to
+the money supply may also help anchor inflation expectations.
+A second reason why QE and forward guidance are different is that the impact on expectations from QE
+comes from taking a policy action today, not just talking about policy action in the future. To see this more
+
+20
+
+See Carney (2017).
+See Bernanke and Kuttner (2005); Alvarez , Atkeson and Kehoe (2009); Gorodnichenko and Webber (2015); Bekaert, Hoerova and
+Duca (2015); Lucca and Moench (2015); Hanson and Stein (2015); Boyarchenko, Haddad and Plosser (2017); Javadi, Nejadmalayeri
+and Krehbiel (2018); Nakamura and Steinsson (2018); Inoue and Rossi (2018).
+22
+Examples include the purchases of mortgage-backed securities in the US and corporate bonds in the UK.
+23
+Note that the added liquid assets do not disappear, but their effect on markets and the economy disappears. Hence the liquidity effect
+is temporary.
+21
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+10
+
+clearly, imagine arguing, in normal times, that we can set policy by talking about future interest changes,
+while keeping current interest rates always unchanged. Everyone would see through that pretty quickly: if
+talk about future changes is never accompanied by current changes, it will soon cease to have an effect. The
+absence of policy action, in the case of pure forward guidance that is not accompanied by action validating
+the guidance, inevitably invites doubts about the future action irrespective of how it is communicated,
+rendering it less powerful than immediate action.
+Having set out how I believe QE works, let me now provide some evidence that it does work. One striking
+illustration of the impact of QE is given by the different experience in the early phases of QE in the UK and
+US on the one hand, and Japan on the other hand. Japan was the subject of much criticism by leading
+macroeconomists for not doing enough to avoid a deflationary trap in the 1990s and 2000s.24 Yet the path of
+nominal rates, both short-term and long-term, was incredibly similar in the early stages, as seen in Figures 5
+and 7. These similar changes across the nominal yield curve took place despite the fact the US and UK
+resorted to asset purchases early on, while Japan only pursued similar policies more than a decade later,
+having raised policy rates briefly in the intervening period.25
+The difference was the path of inflation, and more importantly, inflation expectations.26 While inflation
+expectations remained relatively anchored in the US and UK, they drifted lower in Japan early on, and
+remained stuck at low levels (Figure 6).27 The absence of more decisive action caused doubt about the
+BoJ’s commitment to fighting disinflation, and as a result, inflation expectations drifted lower. This meant
+that, for similar nominal rates, real rates were much higher in Japan, i.e. policy was less stimulative,
+entrenching the low inflation expectations. Eventually, lower inflation expectations brought down nominal
+yields in Japan by even more than in the US and UK, despite the fact that Japan did not buy long-term
+government bonds over the period shown in the chart.
+A similar picture emerges in the Eurozone following the interest rate hikes in 2011 and the absence of QE in
+the initial phases of the downturn. As shown in Figure 8, inflation expectations began to drift lower from 2014
+onward. It was only when the ECB committed to QE that inflation expectations started to recover, allowing
+real rates to fall lower and therefore be more stimulative, which in turn reinforced the drift up of inflation
+expectations back towards target.
+
+24
+
+See for example Bernanke (2000).
+Figure 7 shows that the US and UK cut interest rates by more, earlier in the easing cycle. One further difference that the charts above
+do not show is that the US and UK started the easing cycle much earlier than the ECB and Japan. The US started the easing cycle in
+October 2007, just 3 months after the start of the stock market decline, and the UK in December 2007, whereas the ECB only began in
+November 2008 (more than a year after the start of the crisis, by then stock markets had fallen by more than 40%) and Japan only
+began easing in July 1991, though the stock market peak was in December 1989 and the stock market had fallen by more than 40% by
+July 1990.
+26
+See Boneva et al (2017) for effects of QE on inflation expectations in the UK. They do not find similar effect for forward guidance.
+27
+Short-term inflation expectations show the Euro Area was somewhere in between the anchoring seen in the US and UK and the deanchoring of inflation expectations in Japan.
+25
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+11
+
+Figure 5: Change in policy rates since start of easing
+
+Figure 6: 10 year expected inflation since start of easing
+
+cycle that led to ELB
+
+cycle that led to ELB
+
+Source: Reuters DataStream, Bank calculations
+
+Source: Consensus Forecasts, Bank calculations
+
+Figure 7: 10 year yields since start of easing cycle that
+
+Figure 8: Euro Area policy rates and term structure of
+
+led to ELB
+
+inflation expectations
+
+Sources: BIS, FRED, Bank of England, ECB, Bank calculations
+
+Source: ECB
+
+I have argued that QE works mainly by influencing expectations of future monetary policy, underpinned by
+the strong signal that immediate policy action sends about the central bank’s reaction function and its
+assessment of the economy, as well as by strong liquidity effects during times of financial stress.
+I would now like to contrast this view of how QE works with the “portfolio balance” view as used in much of
+the literature analysing QE so far. The portfolio balance view of QE is mostly based on the work of
+Vayanos and Vila (2009), which introduces “preferred habitat” investors (inelastic demand investors) along
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+12
+
+with myopic arbitrageurs to examine the role of the quantity supplied of particular bonds28. Applied to QE, the
+theory says that, by buying large quantities of government bonds, the central bank bids up the price of
+government bonds by compressing their term premia, which reduces long-term interest rates. In turn, the
+reduction in long-term interest rates via lower term premia pushes up other asset prices and stimulates
+economic activity. Everything else equal, the preferred habitat theory implies a permanent decrease in the
+real term premium following a permanent reduction in net supply.
+Much of the literature29 on the effects of QE that uses the portfolio balance framework finds evidence that is
+consistent with such a framework, but, as is often the case in economics, also permits other interpretations.
+Moreover, some patterns in the data are plainly inconsistent with the framework, and I will highlight four.30 My
+view is that, thinking about QE as working through expectations and temporary liquidity effects instead, runs
+into fewer inconsistencies with the data, but of course, that does not constitute definitive proof in favour of my
+own view. Significant uncertainty remains about the precise channels through which QE works.
+The first challenge is shown in Figure 9. Long-term forward rates – which are the rates that are affected
+more in the portfolio balance channel – did not move much in the early stages of QE, which is also the period
+when the high-frequency evidence in favour of portfolio balance effects suggests it had the strongest
+impact.31 Initially, at the depth of the crisis, forward rates stayed persistently high. When it gradually became
+clear that the recovery would be slow and protracted, so short-term interest rates would not swiftly return to
+pre-crisis levels as was expected early on, only then did forward rates decline significantly relative to precrisis levels.32 As I described in an earlier speech (Vlieghe (2016)), the behaviour of forward rates resembles
+a “lying down” of the curve, with the date of rising rates being pushed out further over time and reaching a
+lower end point as time went by, which essentially reflected the evolution of expectations.33
+
+28
+
+Either quantity supplied or aggregate duration supplied, as in Greenwood and Vayanos (2014). Greenwood and Vayanos (2014) find
+smaller effects than most QE studies (see Williams (2013)), and their identification of significant effects of quantities on bond yields and
+returns has been questioned by Bauer and Hamilton (2018) and shown to be insignificant during the ELB period by King (2018).
+29
+This includes the event studies (e.g. Joyce et al (2011) for the UK and Gagnon et al (2011) for the US); panel studies using bond
+specific amount purchased by central banks (D’Amico and King (2013) for the US and Joyce and Tong (2012) for the UK); and a
+number of VAR studies (e.g. Kapetanios et al (2012), Baumeister and Benati (2013) and Weale and Wieladek (2016)). Importantly, the
+first and third strands (event studies and VAR) use the portfolio balance theory indirectly to interpret their results, with nothing in their
+methods that would unambiguously identify this mechanism versus alternatives. One identification used is that conventional policy
+should not affect long term rates, which is contradicted by the evidence (e.g. Hanson and Stein (2015) and Nakamura and Steinsson
+(2018)).
+30
+I have discussed these issues before in Vlieghe (2016), including some additional evidence on the term premia vs. expectation
+components contribution for the post-crisis period. Some of the points I raise have been raised also by some of the leading authors of
+preferred habitat models. For instance, Greenwood and Vayanos (2010) acknowledge that the effects maybe transitory and that it is
+important to account for variation in arbitrageur capital, which is what I have in mind when I refer to the effects of QE as liquidity effect:
+temporary price pressure that is largely temporary, with the magnitude and persistence of the price pressure depending on both the
+level of aggregate liquidity – i.e. arbitrageur capital – and size of quantity changes). Greenwood also separately shows (1) event studies
+are not reliable in identifying the supply effects in segmented markets (Greenwood, Hanson and Liao (2018)) and (2) the challenge that
+accounting for aggregate supply changes in this period (not just QE) poses to the view that QE has lowered term premia (Greenwood,
+Hanson, Rudolph and Summers (2014)). The importance of a signalling channel has also been raised by others (e.g. Krishnamurthy
+and Vissing-Jorgensen (2011) and Bauer and Rudebusch (2014)).
+31
+See the discussion in Haldane et al (2016) and Broadbent (2018) for the UK, and Greenlaw et al (2018) for the US.
+32
+This is not only true for the UK – a similar point can be made with US yields. See Figure A2 for the similar charts as Figure 9 for the
+US.
+33
+Table A1 in the appendix updates the analysis in Guimarães (2012).
+13
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+13
+
+Figure 9: Evolution of UK 1-year forward rates relative to pre-crisis average
+
+UK Gilts: 1-year,0-year forward
+
+UK Gilts: 1-year,1-year forward
+
+UK Gilts: 1-year,2-year forward
+
+QE1
+
+QE1
+
+QE
+
+QE3
+
+QE4
+
+UK Gilts: 1-year,10-year forward
+
+QE1
+
+QE2
+
+QE3
+
+QE2
+
+QE3
+
+QE4
+
+UK Gilts: 1-year,15-year forward
+
+QE1
+
+QE2
+
+QE3
+
+QE3
+
+QE4
+
+QE4
+
+UK Gilts: 1-year,20-year forward
+
+QE1
+
+QE1
+
+QE2
+
+QE2
+
+QE3
+
+QE4
+
+QE4
+
+Notes: Mean and standard deviation are calculated for each security between January 2000 and July 2007
+Source: BoE calculations
+
+Second, the portfolio balance channel relies on a direct effect of the net quantity of bonds that the private
+sector needs to absorb. By reducing that quantity, the central bank is supposed to reduce risk premia. But
+the quantity of government bonds that the private sector needed to absorb after accounting for the
+purchases by central banks (shown in Figure 10) went up drastically during the crisis and stayed high, as the
+increased bond supply required to finance deficits far outstripped central bank purchases.34 So one could
+argue that the portfolio balance channel prevented risk premia from going up even more, but it cannot
+logically be an explanation for the general decline in yields since QE started. Moreover, the magnitude of the
+rise in net supply of government bonds in the early part of the crisis, and the contemporaneous rise in term
+premium during that period (between 2008 and 2010) suggests a small and temporary quantity effect, rather
+than a large and permanent one: supply has stayed high while the term premium completely unwound the
+rise in the 2008-2010 period.35
+
+34
+
+A point also made by Greenwood, Hanson, Rudolph and Summers (2014) for the US.
+The average maturity of debt also went up, suggesting that a duration channel (see Greenwood and Vayanos (2014)) would also point
+to higher term premia if these mechanical quantity channels were dominant and persistent.
+
+35
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+14
+
+Third, much of the evidence of the direct impact of QE on yields comes from short window event studies:
+analysing the change in yields around the time when the central bank made official QE announcements or
+took QE actions. These event studies allow us to abstract from all the other economic and financial events
+that generally tend to move yields, and isolate the impact of QE. But, as I and many others36 have pointed
+out, the announcement effects are still subject to possible biases. The method could underestimate the
+impact of QE, if financial markets partially anticipate the announcement, or if it takes time for the market to
+digest the announcement. Conversely, the method could overestimate the impact of QE, if QE has temporary
+liquidity effects that die out quickly.37
+
+Figure 10: Net supply of UK debt and 10-year spot term premia
+
+Note: “All gilts” include both nominal and inflation-linked bonds; “Conventional gilts” include only nominal bonds. Solid lines
+show free float (% GDP); while dotted lines show free float (% GDP) minus Asset Purchase Facility purchases.
+Source: DMO, ONS and Bank calculations
+
+Greenwood, Hanson and Liao (2018) extend the Vayanos and Vila (2009) and Greenwood and Vayanos
+(2014) models to a world with two markets and slow-moving capital between them. Their model implies that
+event studies are not able to identify the real effects of shocks to quantities in one market, as the market
+initially affected will overreact in the short term.
+
+36
+
+For a general discussion see Gurkaynak & Wright (2013). In an extension of the Vayanos and Vila (2009) model to an economy with
+two markets, Greenwood, Hanson and Liao (2018) show that event studies will not correctly identify the quantity effects on prices,
+irrespective of the length of the window around the announcement.
+37
+Greenlaw, Harris, Hamilton, West (2018) raise concerns that announcement effects are biased upward because the researchers
+overly focus on a few announcements that have had large effects, ignoring others that have had little effect. Arguments that QE became
+part of the central bank reaction function are exactly the argument we are making, which would then imply that the effect is not only
+about the mechanical quantity effect as predicted by the preferred habitat theory, but also about the central bank’s reaction function.
+Studies that use micro data to identify local supply effect (D’Amico and King (2013) for the US and Joyce and Tong (2012) for the UK)
+are subject to the Woodford(2012) criticism that if the effect of QE is mostly to affect relative pricing of close substitute bonds (which is
+the implication of their findings of significant effects and lack of any clear effects in the time series) then it has no relevance for
+macroeconomic outcomes. See also Krishnamurthy and Vissing-Jorgensen (2013).
+15
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+15
+
+Figure 11: Cumulative response of 10 year spot yield to all UK QE announcement dates
+
+Note: The blue line is the cumulative response of the 10-year spot yield to all UK QE events. The light, medium and dark redshaded areas denote the 99%, 95% and 90% confidence internal respectively.
+Source: BoE, Bank calculations
+
+To analyse the reliability of event studies, I re-run this type of analysis, but show in Figure 11 the response
+of yields not just on the day of the announcement, but in the 30-day subsequent window.38 There is a clear
+pattern here that shows that much of the effect tends to die out very quickly, which is why it is impossible to
+spot any effect from QE in the time series of long forwards shown in Figure 9. This is not definitive proof of
+anything, but it is much more consistent with a short-lived liquidity effect than with a persistent portfolio
+balance effect.39 In contrast, the “lying down” pattern of the yield curve, reflecting a change in expectations,
+happened slowly and persisted.40
+Fourth, studies that use data on investor positions and broad wealth to investigate these quantity channels
+along with other channels (including expectations), tend to find very small effects.41 A recent Eurozone study
+by Koijen et al (2018) uses the most comprehensive and detailed information on the asset holdings of
+individual investors to examine the effects of QE in the Eurozone. They find that (1) the impact on
+government bond yields directly attributable to QE in the first 22 months of the ECB purchase programme is
+
+38
+
+Figure 11 shows the sum of changes in 10-year spot yield across all the identified QE events outlined in Appendix table A3. To avoid
+the double counting of responses in the aggregate, I use non-overlapping windows in the individual responses. Individual
+announcement date charts are shown in the Table A4 in the appendix. Confidence bands are obtained using the bootstrap procedure
+proposed by Mamaysky (2018).
+39
+Wright (2012) finds little persistence. Swansson (2018) also shows no persistence when March announcement is included (15 days
+half-life). Only if March is excluded, which accounts for almost all of the effect in event studies, does he find evidence of persistence. But
+without the March announcement the LSAP factor Swansson (2018) extracts is very similar before and after LSAPs ever took place, so
+implicitly also making the case that QE is like conventional policy – though he doesn’t say this.
+40
+See Table A2 in the appendix.
+41
+See Piazzesi and Schneider (2008), who allow both a quantity and expectations channel in their study, and find that the quantity effect
+is small. This stands in contrast to the much of the literature on effects of QE which does not model quantities and expectations jointly.
+Moreover the Vayanos and Vila (2009) model and its extensions (see Greenwood, Hanson and Vayanos (2015)) assume that the short
+rate factor and quantities are independent, which is clearly inappropriate for evaluating QE. To capture this explicitly, King (2018)
+extends the Vayanos and Vila (2009) to include the ELB using the “shadow rate” framework and finds larger effects from changes in
+expectations than quantity effects in the US.
+16
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+16
+
+small, at only 13bp; (2) they find no evidence at all that domestic inelastic investors tend to switch to riskier
+assets after they sell their bonds to the central bank.
+One way to reconcile the permanent quantity effects, as implied by much of the QE empirical literature
+stressing preferred habitats and portfolio rebalance, with the temporary liquidity effects that I stress instead,
+is to extend the notion of slow moving capital in the two market model of Greenwood et al (2018) more
+generally, along the lines discussed in Duffie (2010). The idea of the slow moving capital literature is that
+arbitrageurs need time to raise capital, or might be temporarily constrained, which means large quantity
+changes can have large price effects until new capital flows in to the affected market. This is a more general
+way of capturing liquidity effects (meaning temporary price effects of large trades) economists have long
+known to exist. Figure 12 shows a popular measure of bond market illiquidity for the UK and US, highlighting
+how the late part of 2008 and early part of 2009 was an extremely extraordinary period of low liquidity.
+
+Figure 12: Noise squared: Bond market illiquidity for US and UK government bonds
+
+US QE1
+
+UK QE1
+
+Note: This measure of illiquidity shows the squared deviations of the bond yield from an estimated smoothed yield curve. Under
+this measure, a market is deemed illiquid if the squared deviations are high, as it suggests a shortage of arbitrage capital that
+usually plays an important role in keeping bond yields ‘close’ to the curve. See Hu, Pan and Wang (2013) for further
+information.
+Source: BoE, Bank calculations
+
+In the slow moving capital view, large quantity effects are mostly temporary, and larger when intermediaries
+are constrained, as in the financial crisis. But they have much smaller or no long run effects once
+intermediaries are unconstrained. Viewed from this perspective, QE effects would be larger in states of
+illiquidity, with little or no long run effects on term premium. In this sense it would not be different from
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+17
+
+conventional policy42 in preserving long run neutrality: its role is to speed up recovery, not to affect the end
+point or have any permanent real effects (e.g. on term premium).43
+
+4. QE and the yield curve: what to expect from QE unwind
+Let me recap briefly what we have learned so far. Low term premia are consistent with economic
+fundamentals, namely stable trend inflation and positive covariance between consumption and inflation.
+There is no need to appeal to a story of term premia being artificially compressed by QE to explain where we
+are today. QE policy works primarily via expectations of future monetary policy, with important liquidity
+effects which are temporary.
+Why is it so important to distinguish views about how QE affects the yield curve? Because it will inform how
+policy works when QE is unwound.
+A portfolio balance channel would be expected to work in a rather symmetric way: if the central bank
+compresses the term premium by a certain amount when buying assets, it would raise the term premium by
+a similar amount when selling assets. The economic impact should be symmetric as well.
+But a QE channel that works via expectations along with temporary liquidity effects is not symmetric on the
+way in and on the way out.
+Liquidity effects are far less important when markets functions well and its participants are well capitalised.
+This is consistent with the much smaller impact observed for the later rounds of QE relative to the initial
+announcements.44 And this would suggest that, as long as QE is unwound in a gradual and predictable way
+so as not to disrupt market functioning, liquidity effects on the way out should be negligible. This is precisely
+why the MPC has emphasised in its QE guidance that QE unwind will be “gradual and predictable” and
+“would take account of the need to maintain the orderly functioning of the gilt and corporate bond markets”.45
+The expectations channel of QE is not symmetric either. When policy rates are at the effective lower bound,
+the central bank is no longer able to use changes in the policy rates to affect expectations of future monetary
+policy. A key instrument is lost. So the main policy tool becomes QE, along with continuing communication,
+as the new policy lever to affect expectations. But when the policy rate moves away from the effective lower
+bound, the central bank now has two levers with which to affect expectations. To avoid sending conflicting
+signals in the future, the MPC has made it clear that, once Bank Rate is around 1.5%, Bank Rate will once
+again become “the primary instrument for monetary policy”.46 This is important because it means that
+expectations of future policy rates can once again be influenced by changing current policy rates and
+continuing communication, exactly as was the case in pre-QE days. Provided this is well understood by
+42
+
+Further reinforcing the similarities, Brooks, Katz and Lustig (2018) find that conventional monetary policy also leads to portfolio
+balance effects that explain the momentum in bond yields following monetary policy shocks.
+43
+Long run neutrality implies the economy will end up in the same place (in terms of real variables – which includes term premia)
+irrespective of what monetary policy does. But even in a world with long run neutrality, monetary policy might reduce the temporary
+deviations from steady state, which is welfare improving.
+44
+See Meaning and Zhu (2011), Haldane et al (2016) and Broadbent (2018).
+45
+The MPC guidance on the unwind of QE was first provided in the November 2015 Inflation Report (p. 34) and updated in the June
+2018 MPC Minutes.
+46
+Ibid.
+18
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+18
+
+households, businesses and financial markets, the unwind of QE should then have no additional effect on
+expectations, and therefore on the economy.
+
+Figure 13: US 10-year spot term premium
+
+Source: Federal Reserve St. Louis (fred.stlouisfed.org), Kim and Wright (2005)
+
+Emphasising the expectations and liquidity channels of QE rather than the portfolio balance channel allows a
+better understanding of recent yield developments in the US. Recall that the Fed started raising its policy rate
+in late 2015, while leaving the QE portfolio in place. Over the course of 2017, it began to communicate that
+QE would start to be unwound in the near future, and in October 2017 the unwind process actually began.
+Over this period, the US yield curve flattened, and the term premium rose only slightly (Figure 13).47 Note
+that the QE unwind was even accompanied by significant news about increased government bond supply,
+given the fiscal easing currently taking place in the US. A portfolio balance story would have predicted large
+term premium effects. 48
+While the term premium has been little changed, the yield curves in the US and UK have flattened
+significantly over the past few years. That has been largely driven by changing expectations of future interest
+rates, in response to changes in the economic outlook and actual policy rate changes.
+
+47
+
+Estimates from updated Kim and Wright (2005) model, which is a 3 factor model with survey information, one particular choice of
+number of factor and sample of those shown for the UK in Figure 5.
+See Broadbent (2018), in particular his Chart 7, for a related discussion of the evidence so far from the US QE unwind.
+
+48
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+19
+
+Figure 14: UK policy rate and 10-2 year slope in
+
+Figure 15: Change in 10-2 year slope per ppt change in
+
+tightening cycles
+
+policy rate in UK tightening cycles
+
+Source: BoE, Bank calculations
+
+Figure 16: US policy rate and 10-2 year slope in
+
+Figure 17: Change in 10-2 year slope per ppt change in
+
+tightening cycles
+
+policy rate in US tightening cycles
+
+49
+
+Note: The red dots in the LHS figures denote the beginning and end of each tightening cycle for policy rate (blue line) . The red dots on the slope
+shows the corresponding slope at the beginning and end of each tightening cycle. The blue bars on the RHS figures show the change in 10-2 year
+slope divided by the corresponding increase in the policy rate (in ppts) in each tightening cycle, as defined by the red dots.
+Sources: Fed St. Louis FRED, Bank calculations
+
+Figures 14 - 17 show the evolution of the yield curve slope against the evolution of the policy rate, for the UK
+and the US. It is entirely normal for the yield curve to flatten when the policy rate is rising, and for the yield
+curve to steepen when the policy rate is falling, as I discussed right at the beginning of this speech. Larger
+49
+
+As both Figures 14 and 16 show, policy cycles in the 70s and 80s are less clear than in the 90s and onwards. For the more recent
+90s-present period, I define the beginning of a tightening cycle as the first increase in the policy rate after a significant period of
+decreases or no-changes, and the end of the tightening cycle as the last of the policy increases. In the 70s and 80s, I define a tightening
+cycle by identifying a large change in the policy rate, for which some judgement is required.
+20
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+20
+
+increases in short-term rates during a tightening cycle, with relatively more stable expected long-term rates,
+explain this pattern. As can be seen in the case of the US, the flattening in the yield curve in the current
+cycle, measured per unit of Federal Reserve conventional tightening, is quantitatively similar to the flattening
+that always tends to take place during tightening cycles. What has been crucial is the Fed’s careful
+communication around the QE unwind steps, so that they do not inadvertently send a signal about future
+monetary policy that they do not wish to send. The MPC has already taken important steps in this direction
+with its November 2015 guidance and the update in June 2018, and further communication can be expected
+as we approach the date when QE unwind is likely to start.
+
+5. Conclusion
+The yield curve was upward-sloping, on average, in the 20th century. Holders of long-term bonds required
+higher returns, on average, than holders of short-term bonds. But the yield curve was flat before that, in the
+gold standard era. I argue that, since Bank of England independence, the fundamentals of inflation and
+inflation risk have become more similar to the gold standard era than to the 20th century average, and in
+particular are very different from the 1970s and 1980s. So we should expect yield curves to be flat again, on
+average. I argue that all of these changes in fundamentals and term premium were largely in place before
+QE started, so we do not need to resort to QE as a separate factor to explain the current shape of yield
+curves. Does QE not affect the yield curve? Of course it does. But it does so primarily by affecting
+expectations of future monetary policy, revealing the central bank’s reaction function. This anchors inflation
+expectations even when interest rates are constrained at the effective lower bound, which in turn affects a
+wide range of asset prices, economic growth and inflation. In that sense, QE is not that different from
+conventional monetary policy. I argue against the view that QE works primarily by pushing down long-term
+interest rates directly, through compressing the term premium (the “portfolio balance channel”).
+Understanding the main channels through which QE works is going to be very important when it comes to
+unwinding QE: my view that QE works primarily via expectations, with additional powerful liquidity effects that
+are temporary and mainly relevant during periods of market stress, implies that unwinding QE need not have
+a material impact on the shape of the yield curve, or indeed on the economy, if properly communicated and
+done gradually.
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+21
+
+Appendix
+Table A1. Decomposition of nominal yields into inflation and real rates
+Nominal (level)
+
+Inflation (level)
+
+Real (level)
+
+5y
+
+5y,5y
+
+10y
+
+9y1y
+
+5y
+
+5y,5y
+
+10y
+
+9y1y
+
+5y
+
+5y,5y
+
+10y
+
+9y1y
+
+spot
+
+fwd
+
+spot
+
+fwd
+
+spot
+
+fwd
+
+spot
+
+fwd
+
+spot
+
+fwd
+
+spot
+
+fwd
+
+10.1
+
+9.9
+
+10.0
+
+9.5
+
+6.5
+
+5.6
+
+6.1
+
+5.3
+
+3.6
+
+4.2
+
+3.9
+
+4.3
+
+97 to Jun-07
+
+5.0
+
+4.8
+
+4.9
+
+4.7
+
+2.7
+
+2.8
+
+2.8
+
+2.7
+
+2.3
+
+2.0
+
+2.2
+
+2.0
+
+Jul-09
+
+3.1
+
+4.7
+
+3.9
+
+5.2
+
+2.0
+
+3.4
+
+2.7
+
+4.0
+
+1.0
+
+1.3
+
+1.2
+
+1.2
+
+Jul-10
+
+2.2
+
+4.9
+
+3.6
+
+5.4
+
+2.2
+
+3.2
+
+2.7
+
+3.6
+
+0.0
+
+1.7
+
+0.9
+
+1.8
+
+Jul-11
+
+1.8
+
+4.6
+
+3.2
+
+5.2
+
+2.9
+
+3.5
+
+3.2
+
+3.9
+
+-1.2
+
+1.1
+
+0.0
+
+1.3
+
+Jul-12
+
+0.6
+
+2.7
+
+1.6
+
+3.2
+
+2.0
+
+2.6
+
+2.3
+
+2.8
+
+-1.5
+
+0.1
+
+-0.7
+
+0.5
+
+Jul-13
+
+1.3
+
+3.9
+
+2.6
+
+4.4
+
+2.8
+
+3.4
+
+3.1
+
+3.6
+
+-1.5
+
+0.4
+
+-0.5
+
+0.8
+
+Jul-14
+
+2.0
+
+3.5
+
+2.8
+
+3.8
+
+2.9
+
+3.3
+
+3.1
+
+3.5
+
+-0.9
+
+0.3
+
+-0.3
+
+0.3
+
+Jul-15
+
+1.4
+
+2.6
+
+2.0
+
+2.8
+
+2.6
+
+3.3
+
+2.9
+
+3.5
+
+-1.2
+
+-0.6
+
+-0.9
+
+-0.6
+
+Jul-16
+
+0.3
+
+1.3
+
+0.8
+
+1.7
+
+2.4
+
+2.6
+
+2.5
+
+2.9
+
+-2.2
+
+-1.3
+
+-1.7
+
+-1.2
+
+Jul-17
+
+0.6
+
+2.0
+
+1.3
+
+2.4
+
+2.8
+
+3.3
+
+3.0
+
+3.7
+
+-2.3
+
+-1.3
+
+-1.8
+
+-1.3
+
+Jul-18
+
+1.0
+
+1.9
+
+1.4
+
+2.1
+
+3.0
+
+3.4
+
+3.2
+
+3.6
+
+-1.9
+
+-1.5
+
+-1.7
+
+-1.5
+
+Average Jan85 to Oct-92
+Average Jun-
+
+Source: BoE, HMT
+
+22
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+22
+
+Table A2. Decomposition of nominal yields into expectations and term premia
+Nominal (level)
+
+Expectation (level)
+
+Term premia (level)
+
+5y
+
+5y,5y
+
+10y
+
+9y1y
+
+5y
+
+5y,5y
+
+10y
+
+9y1y
+
+5y
+
+5y,5y
+
+10y
+
+9y1y
+
+spot
+
+fwd
+
+spot
+
+fwd
+
+spot
+
+fwd
+
+spot
+
+fwd
+
+spot
+
+fwd
+
+spot
+
+fwd
+
+10.1
+
+9.9
+
+10.0
+
+9.5
+
+9.7
+
+7.8
+
+8.8
+
+7.3
+
+0.5
+
+2.0
+
+1.2
+
+2.2
+
+97 to Jun-07
+
+5.0
+
+4.8
+
+4.9
+
+4.7
+
+5.1
+
+5.0
+
+5.1
+
+5.0
+
+0.0
+
+-0.2
+
+-0.1
+
+-0.2
+
+Jul-09
+
+3.1
+
+4.7
+
+3.9
+
+5.2
+
+2.7
+
+4.4
+
+3.6
+
+4.5
+
+0.4
+
+0.3
+
+0.3
+
+0.7
+
+Jul-10
+
+2.2
+
+4.9
+
+3.6
+
+5.4
+
+2.3
+
+3.8
+
+3.0
+
+4.1
+
+0.0
+
+1.0
+
+0.5
+
+1.2
+
+Jul-11
+
+1.8
+
+4.6
+
+3.2
+
+5.2
+
+1.9
+
+3.5
+
+2.7
+
+3.8
+
+-0.2
+
+1.0
+
+0.4
+
+1.3
+
+Jul-12
+
+0.6
+
+2.7
+
+1.6
+
+3.2
+
+1.1
+
+2.7
+
+1.9
+
+3.1
+
+-0.5
+
+-0.1
+
+-0.3
+
+0.0
+
+Jul-13
+
+1.3
+
+3.9
+
+2.6
+
+4.4
+
+1.6
+
+3.2
+
+2.4
+
+3.5
+
+-0.3
+
+0.6
+
+0.2
+
+0.8
+
+Jul-14
+
+2.0
+
+3.5
+
+2.8
+
+3.8
+
+2.1
+
+3.6
+
+2.8
+
+3.9
+
+-0.1
+
+-0.1
+
+-0.1
+
+-0.1
+
+Jul-15
+
+1.4
+
+2.6
+
+2.0
+
+2.8
+
+1.7
+
+3.1
+
+2.4
+
+3.5
+
+-0.3
+
+-0.6
+
+-0.4
+
+-0.7
+
+Jul-16
+
+0.3
+
+1.3
+
+0.8
+
+1.7
+
+0.9
+
+2.4
+
+1.7
+
+2.8
+
+-0.6
+
+-1.1
+
+-0.9
+
+-1.1
+
+Jul-17
+
+0.6
+
+2.0
+
+1.3
+
+2.4
+
+1.1
+
+2.6
+
+1.9
+
+3.0
+
+-0.6
+
+-0.7
+
+-0.6
+
+-0.6
+
+Jul-18
+
+1.0
+
+1.9
+
+1.4
+
+2.1
+
+1.5
+
+2.8
+
+2.2
+
+3.2
+
+-0.5
+
+-1.0
+
+-0.7
+
+-1.1
+
+Average Jan85 to Oct-92
+Average Jun-
+
+Note: The estimates of expectation and term premia are updates from Guimarães (2012, 2016). See also
+Vlieghe (2016) for a further discussion and policy-related inferences.
+Source: BoE, HMT, Bank calculations
+
+23
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+23
+
+Table A3. Description of event study dates for UK QE
+Date of
+
+Communication
+
+Announcement
+
+strategy
+
+Details and key quotations
+
+11-Feb-09
+
+Inflation Report
+
+APF as potential policy instrument in Inflation Report box called
+"Monetary policy at low interest rates". Inflation report also
+mentioned that "a further easing in monetary policy was likely to
+be needed."
+
+05-Mar-09
+
+MPC statement
+
+"The Bank of England’s Monetary Policy Committee today voted
+to reduce the official Bank Rate paid on commercial bank
+reserves by 0.5 percentage points to 0.5%, and to undertake a
+programme of asset purchases of £75 billion financed by the
+issuance of central bank reserves." [...] "Committee agreed that
+the Bank should, in the first instance, finance £75 billion of asset
+purchases by the issuance of central bank reserves. [...] Part of
+that sum would finance the Bank of England’s programme of
+private sector asset purchases through the Asset Purchase
+Facility, intended to improve the functioning of corporate credit
+markets. But in order to meet the Committee’s objective of total
+purchases of £75 billion, the Bank would also buy medium- and
+long-maturity conventional gilts in the secondary market. It is
+likely that the majority of the overall purchases by value over the
+next three months will be of gilts. "
+
+07-May-09
+
+MPC statement
+
+"Committee also agreed to continue with its programme of
+purchases of government and corporate debt financed by the
+issuance of central bank reserves and to increase its size by £50
+billion to a total of £125 billion."
+
+06-Aug-09
+
+MPC statement
+
+"In the light of that outlook, the Committee also agreed that it
+should extend its programme of purchases of government and
+corporate debt to a total of £175 billion, financed by the issuance
+of central bank reserves."
+
+05-Nov-09
+
+MPC statement
+
+"The Committee also agreed that it should extend its programme
+of purchases of government and corporate debt by £25 billion to
+a total of £200 billion, financed by the issuance of central bank
+reserves."
+
+06-Oct-11
+
+MPC statement
+
+"The Committee therefore voted to increase the size of its asset
+purchase programme, financed by the issuance of central bank
+reserves, by £75 billion to a total of £275 billion."
+
+24
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+24
+
+Table A3 (continued). Description of event study dates for UK QE
+Date of
+
+Communication
+
+Announcement
+
+strategy
+
+Details and key quotations
+
+09-Feb-12
+
+MPC statement
+
+"The Committee therefore voted to increase the size of its
+programme of asset purchases, financed by the issuance of
+central bank reserves, by £50 billion to a total of £325 billion."
+
+05-Jul-12
+
+MPC statement
+
+"The Committee therefore voted to increase the size of its
+programme of asset purchases, financed by the issuance of
+central bank reserves, by £50 billion to a total of £375 billion."
+
+04-Aug-16
+
+MPC statement
+
+“This package comprises: a 25 basis point cut in Bank Rate to
+0.25%; a new Term Funding Scheme to reinforce the passthrough of the cut in Bank Rate; the purchase of up to £10 billion
+of UK corporate bonds; and an expansion of the asset purchase
+scheme for UK government bonds of £60 billion, taking the total
+stock of these asset purchases to £435 billion.”
+
+Source: Bank of England MPC Summary and Inflation reports
+
+25
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+25
+
+Table A4. Description of event study dates for US QE1
+Date of
+
+Communication
+
+Announcement
+
+strategy
+
+Details and key quotations
+
+25-Nov-08
+
+FOMC statement
+
+"Purchases of up to $100 billion in GSE direct obligations
+under the program will be conducted with the Federal
+Reserve's primary dealers through a series of competitive
+auctions and will begin next week. Purchases of up to $500
+billion in MBS will be conducted by asset managers selected
+via a competitive process with a goal of beginning these
+purchases before year-end. Purchases of both direct
+obligations and MBS are expected to take place over several
+quarters."
+
+01-Dec-08
+
+Bernanke speech
+
+"Could purchase Treasuries in substantial quantities".... "This
+approach might influence the yields on these securities, thus
+helping to spur aggregate demand. Indeed, last week the Fed
+announced plans to purchase up to $100 billion in GSE debt
+and up to $500 billion in GSE mortgage-backed securities over
+the next few quarters. It is encouraging that the announcement
+of that action was met by a fall in mortgage interest rates."
+
+16-Dec-08
+
+FOMC statement
+
+"The Committee is also evaluating the potential benefits of
+purchasing longer-term Treasury securities."
+
+28-Jan-09
+
+FOMC statement
+
+"The Committee stands ready to expand QE and buy
+Treasuries."
+
+18-Mar-09
+
+FOMC statement
+
+"Committee decided today to increase the size of the Federal
+Reserve’s balance sheet further by purchasing up to an
+additional $750 billion of agency mortgage-backed securities,
+bringing its total purchases of these securities to up to $1.25
+trillion this year, increase its purchases of agency debt this
+year by up to $100 billion to a total of up to $200 billion.
+Committee decided to purchase up to $300 billion of longerterm Treasury securities over the next six months."
+
+12-Aug-09
+
+FOMC statement
+
+"Federal Reserve is in the process of buying $300 billion of
+Treasury securities." (Statement took away "up to")
+
+23-Sep-09
+
+FOMC statement
+
+"Federal Reserve will purchase a total of $1.25 trillion of
+agency mortgage-backed securities". (Statement took away
+"up to")
+
+26
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+26
+
+Table A4 (continued). Description of event study dates for US QE1
+
+Date of
+
+Communication
+
+Announcement
+
+strategy
+
+Details and key quotations
+
+10-Aug-10
+
+FOMC statement
+
+"Committee will keep constant the Federal Reserve's holdings
+of securities at their current level by reinvesting principal
+payments from agency debt and agency mortgage-backed
+securities in longer-term Treasury securities. (Swapping of
+holdings of Agency debt into Treasury debt)"
+
+Source: Federal Reserve Board
+
+27
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+27
+
+Figure A1: Cumulative UK yield changes relative to pre-crisis average (June 1997 - June2007)
+5 year spot rate
+
+5year rate, 5years forward
+
+1year rate, 9years forward
+
+Source: BoE, HMT, Bank calculations, updated models estimates from Guimarães (2012, 2016)
+
+28
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+28
+
+Figure A2: Evolution of US instantaneous forward rates relative to pre-crisis average
+Instantaneous rate, 1-year
+
+UST: Instantaneous rate, 2-year
+
+UST: Instantaneous rate, 3-year
+
+forward (%)
+
+forward (%)
+
+forward (%)
+
+QE1
+
+QE2
+
+QE3
+
+Taper tantrum speech
+
+QE1
+
+QE2
+
+QE3
+
+Taper tantrum speech
+
+QE1
+
+QE2
+
+QE3
+
+Taper tantrum speech
+
+UST: Instantaneous rate, 11-year
+
+UST: Instantaneous rate, 16-year
+
+UST: Instantaneous rate, 21-year
+
+forward (%)
+
+forward (%)
+
+forward (%)
+
+QE1
+
+QE2
+
+QE3
+
+Taper tantrum speech
+
+QE1
+
+QE2
+
+QE3
+
+Taper tantrum speech
+
+QE1
+
+QE2
+
+QE3
+
+Taper tantrum speech
+
+Note: Mean and standard deviation are calculated for each security between January 2005 and July 2007
+Source: BoE calculations
+
+29
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+29
+
+Figure A3: Range of 10 year spot nominal term premium estimates (different samples and number of
+factors)
+
+Note: This chart shows the analogous estimates of the term premium as Figure 4, estimated without survey
+expectations.
+Sources: BoE, HMT, updated models estimates from Guimarães (2016).
+
+30
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+30
+
+Figure A4: Reaction of 10 year spot rates for UK QE event study dates
+Inflation Report: APF a potential
+
+Statement: £75bn QE announced
+
+Statement: £125bn QE
+
+policy instrument
+
+& 50bps rate cut
+
+announced
+
+Statement: £175bn QE
+
+Statement: £200bn QE
+
+Statement: £275bn QE
+
+announced
+
+announced
+
+announced
+
+Statement: £325bnQE
+
+Statement: £375bn QE
+
+Statement: £435bn QE
+
+announced
+
+announced
+
+announced
+
+Note: The blue line is the cumulative response of the 10-year spot yield following each QE event. The light, medium and dark redshaded areas denote the 99%, 95% and 90% confidence internal respectively.
+Source: BoE, Bank calculations
+
+31
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+31
+
+Figure A5: Reaction of 10 year spot rates for US QE1 event study dates
+Statement: $100bn GSE, $500bn
+
+Speech (BB): Could purchase
+
+Statement: Committee evaluating
+
+MBS
+
+Treasuries in substantial quantities
+
+the potential benefits of purchasing
+longer-term Treasuries
+
+Statement: Stands ready to expand
+
+Statement: $100bn GSE, up to
+
+Statement: Took away “up to
+
+QE and buy Treasuries
+
+$750bn MBS, up to $300bn
+
+$300bn” in Treasuries
+
+Treasuries
+
+Statement: Took away “up to
+
+Statement: Swap maturing agency
+
+Aggregate US QE1 reaction to 10y
+
+$750bn” in MBS
+
+debt into Treasuries
+
+spot yields
+
+Note: The blue line is the cumulative response of the 10-year spot yield to each QE events. The light, medium and dark redshaded areas denote the 99%, 95% and 90% confidence internal respectively. The bottom-right chart shows the cumulative
+response of the 10-year spot yields to all of the US QE1 announcements – analogous to Figure 11 in the main text.
+Source: Federal Reserve Board, Bank calculations
+
+32
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+32
+
+References
+Abel, A. (1999), “Risk premia and term premia in general equilibrium”, Journal of Monetary Economics, 43
+(1999): 3-33.
+Abrahams, M., Adrian, T., Crump, R. and Moench, E. (2016), “Decomposing real and nominal yield
+curves”, Journal of Monetary Economics, 84(C): 182-200.
+Alvarez, F., Atkeson, A., Kehoe, P. (2009), “Time-Varying Risk, Interest Rates, and Exchange Rates in
+General Equilibriums”, The Review of Economic Studies, 76(3): 851-878.
+Ang, A., Bekaert, G., and Wei, M. (2008), "The Term Structure of Real Rates and Expected Inflation,"
+Journal of Finance, vol. 63, no. 2, pp. 797-849.
+Backus, D., Gregory, A., Zin, S. (1989), “Risk premiums in the Term structure: Evidence from Artificial
+Economies”, Journal of Monetary Economics, 24: 971-399
+Baumeister, C. and Benati, L. (2013), “Unconventional Monetary Policy and the Great Recession:
+Estimating the Macroeconomic Effects of a Spread Compression at the Zero Lower Bound”, International
+Journal of Central Banking, 9(2):165-212
+Bekaert, G., Hoerove, M. and Duca, M. (2013), “"Risk, Uncertainty and Monetary Policy”, The Journal of
+Monetary Economics, 60(7): 771-788.
+Benati, L. (2008), “Investigating Inflation Persistence Across Monetary Regimes”, The Quarterly Journal of
+Economics, 123(3):1005-1060.
+Bernanke, B. (2000), "Japanese Monetary Policy: A Case of Self-Induced Paralysis?" in R. Mikitani and A.
+S. Posen, eds., Japan's Financial Crisis and Its Parallels to U.S. Experience, Washington: Institute for
+International Economics.
+Bernanke, B. and Kuttner, K. (2005), “What Explains the Stock Market's Reaction to Federal Reserve
+Policy?”, Journal of Finance, 60(3), 1221-1257.
+Boneva, L., Cloyne, J., Weale, M. and Wieladek, T. (2016), “The effect of unconventional monetary policy
+on inflation expectations: evidence from firms in the United Kingdom”, International Journal of Central
+Banking, 12(3), 161-195.
+Boyarchenko, N., Haddad, V., Plosser, M. (2017), “The Federal Reserve and market confidence”, Staff
+Reports from Federal Reserve Bank of New York, No 773.
+Breeden, D. (1986), “Consumption, Production, Inflation and Interest Rates: A Synthesis”, Journal of
+Financial Economics, 16(1): 3-39.
+
+33
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+33
+
+Broadbent, B. (2018), “The history and future of QE”, speech available at:
+https://www.bankofengland.co.uk/speech/2018/ben-broadbent-society-of-professional-economists
+Brooks, J, Katz, M. and Lustig, H. (2018), “Post-FOMC Announcement Drift in U.S. Bond Markets”,
+Stanford GSB Working Paper, No. 3268.
+Campbell, J. (1986), “Bond and Stock Returns in a Simple Exchange Model”, Quarterly Journal of
+Economics, 101(4):785-804.
+Campbell, J., Shiller, R., and Viceira, L. (2009), “Understanding Inflation-Indexed Bond Markets”,
+Brookings Papers on Economic Activity, Spring: 49-120.
+Carney, M. (2017), “Lambda”, speech available at: https://www.bankofengland.co.uk/speech/2017/lambda
+Chapman, D. (1997), “The cyclical properties of consumption growth and the real term structure”, Journal of
+Monetary Economics, 39(2): 143-357.
+Chernov, M. and Mueller, P. (2012), “The term structure of inflation expectations”, Journal of Financial
+Economics, 106(2): 367-394.
+D’Amico, S. and King, T. (2013), “Flow and stock effects of large-scale treasury purchases: Evidence on
+the importance of local supply”, Journal of Financial Economics, 108(2): 425-448.
+D’Amico, S., Kim, D., and Wei, M. (2018), "Tips from TIPS: The Informational Content of Treasury InflationProtected Security Prices," Journal of Financial and Quantitative Analysis, vol. 53, no. 1, pp. 395-436.
+Duffie, D. (2010), “Asset Price Dynamics with Slow-Moving Capital”, Journal of Finance, 65(4): 1237-1267.
+Evans, M. (1998), “Real Rates, Expected Inflation, and Inflation Risk Premia”, Journal of Finance, 53(1):
+187-218.
+Gagnon, J., Raskin, M., Remache, J. and Sack, B. (2011), “The Financial Market Effects of the Federal
+Reserve's Large-Scale Asset Purchases," International Journal of Central Banking, 7(1): 3-43.
+Gorodnichenko, Y. and Weber, M. (2016), “Are Sticky Prices Costly? Evidence from the Stock Market”,
+American Economic Review, 106(1): 165-199.
+Greenlaw, D., Hamilton, J., Harris, E. and West, K. (2018), “A Skeptical View of the Impact of the Fed's
+Balance Sheet”, NBER Working Paper, No. 24687
+Greenwood, R. and Vayanos, D. (2010), “Price Pressure in the Government Bond Market”, American
+Economic Review, P&P, 585-590.
+Greenwood, R. and Vayanos, D. (2014), “Bond Supply and Excess Bond Returns”, Review of Financial
+Studies, 27(3): 663-713.
+Greenwood, R., Hanson, S., and Vayanos, D. (2015), “Forward Guidance in the Yield Curve: Short Rates
+versus Bond Supply”, in Elias Albagli, Diego Saravia, and Michael Woodford, eds.: Monetary Policy Through
+
+34
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+34
+
+Asset Markets: Lessons from Unconventional Measures and Implications for an Integrated World, 2016,
+Chapter 2, Central Bank of Chile.
+Greenwood, R., Hanson, S., Rudolph, J. and Summers, L. (2016), “Managing the US Government’s
+Debt”, Brookings Institution Press.
+Greenwood, R., Hanson, S. and Liao, G. (2018), “Asset Price Dynamics in Partially Segmented Markets”,
+Review of Financial Studies, vol. 31, no.9.
+Guimarães, R. (2012), “What accounts for the fall in UK ten-year government bond yields?", Bank of
+England Quarterly Bulletin, 52 (3).
+Guimarães, R. (2016), “Fool’s Errand? Robust identification of risk premia and expectations in asset prices”,
+Unpublished Working paper.
+Haldane, A., Roberts-Sklar, M., Wieladek, T. and Young, C. (2016), “QE: the story so far”, Bank of
+England Staff Working Paper, No. 624.
+Hanson, S., and Stein, J. (2015), “Monetary Policy and Long-Term Real Rates”, Journal of Financial
+Economics, 115(3): 429-448.
+Hu, X., Pan, J., and Wang, J. (2013), “Noise as Information for illiquidity”, Journal of Finance, 68: 22232772.
+Inoue, A., and Rossi, B. (2018), “The Effects of Conventional and Unconventional Monetary Policy on
+Exchange Rates”, NBER Working Paper, No. 25021.
+Javadi, S., Nejadmalayeri, A. and Krehbiel, T. (2018), “Do FOMC Actions Speak Loudly? Evidence from
+Corporate Bond Credit Spreads”, Review of Finance, 22(5): 1877-1909.
+Joyce, M., Lasaosa, A. , Stevens, I. and Tong, M. (2010), “The financial market impact of quantitative
+easing”, Bank of England Working Paper, No. 393.
+Joyce, M., Lildholdt, P. and Sorensen, S. (2010), “Extracting inflation expectations and inflation risk premia
+from the term structure: A joint model of the UK nominal and real yield curves”, Journal of Banking &
+Finance, 34(2): 281-294.
+Joyce, M., Tong, M. and Woods, R. (2011), “The United Kingdom’s quantitative easing policy: design,
+operation and impact”, Bank of England Quarterly Bulletin 51(3): 200-212.
+Joyce, M. and Tong, M. (2012), “QE and the Gilt Market: a Disaggregated Analysis”, Economic Journal,
+Royal Economic Society, 122(564): 348-384.
+Joyce, M., Miles, D., Scott, A. and Vayanos, D. (2012), “Quantitative easing and unconventional monetary
+policy – an introduction”, The Economic Journal, Royal Economic Society, November 2012: F271-F288.
+Koijen, R., Koulischer, F., Nguyen, B. and Yogo, M. (2018), “Inspecting the Mechanism of Quantitative
+Easing in the Euro Area”, Banque de France Working Paper, No. 601.
+
+35
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+35
+
+Kim, D. and Wright, J. (2005), "An arbitrage-free three-factor term structure model and the recent behavior
+of long-term yields and distant-horizon forward rates," Finance and Economics Discussion Series 2005-33,
+Board of Governors of the Federal Reserve System (U.S.).
+King, T. (2018), “Expectations and Duration at the Effective Lower Bound”, Federal Reserve Bank of
+Chicago Working Paper, No. 2016-21.
+Lucca, D. and Moench, E. (2014), “The Pre‐FOMC Announcement Drift”, Journal of Finance, 70(1): 329371.
+Mamaysky, H. (2018), “Time horizon of price responses to Quantitative Easing", Journal of Banking &
+Finance, 90(C): 32-49.
+McLeay, M., Radia, A., Thomas, R. (2014), “Money creation in the modern economy?", Bank of England
+Quarterly Bulletin 2014 Q1.
+Meaning, J. and Zhu, F. (2012), “The impact of Federal Reserve asset purchase programmes: another
+twist”, BIS Quarterly Review, March.
+Nakamura, E. and Steinsson, J. (2018), “High-Frequency Identification of Monetary Non-Neutrality: The
+Information Effect”, The Quarterly Journal of Economics, 133(3): 1283-1330.
+Piazzesi, M. and Schneider, M. (2008), “Bond Positions, Expectations and the Yield Curve”, Federal
+Reserve Bank of Atlanta working paper.
+Seppala, J. (2004), “The term structure of real interest rates: theory and evidence from UK index-linked
+bonds”, Journal of Monetary Economics, 51(7): 1509-1549.
+Stock, J. and Watson, M. (2007), “Why Has U.S. Inflation Become Harder to Forecast?”, Journal of Money,
+Credit and Banking, 39(1): 3-33.
+Swanson, E. (2017), “Measuring the effects of Federal Reserve Forward Guidance and Asset Purchases on
+Financial Markets”, NBER Working Paper Series, No. 23311.
+Vayanos, D. and Vila, J-L. (2009), “A Preferred-Habitat Model of the Term Structure of Interest Rates?”,
+NBER Working Paper, No. 15487.
+Vlieghe, G. (2016), “Monetary policy expectations and long term interest rates”, speech available at:
+https://www.bankofengland.co.uk/speech/2016/monetary-policy-expectations-and-long-term-interest-rates
+Vlieghe, G. (2017), “Real interest rates and risk”, speech available at:
+https://www.bankofengland.co.uk/speech/2017/real-interest-rates-and-risk
+Weale, M. and Wieladek, T. (2016), “What are the macroeconomic effects of asset purchases?,” Journal of
+Monetary Economics, 79(2016):81-93.
+Williams, J. (2014), “Monetary Policy at the Zero Lower bound: Putting Theory into Practice”, Hutchins
+Center Working Papers, Brookings.
+36
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+36
+
+Woodford, M. (2003), “Interest and Prices: Foundations of a theory of Monetary Policy?”, Princeton
+University Press.
+Woodford, M. (2012), “Methods of Policy Accommodation at the Interest-Rate Lower Bound?”, Proceedings
+- Economic Policy Symposium - Jackson Hole, Federal Reserve Bank of Kansas City, pages 185-288.
+Wright, J. (2012), “What does monetary policy do to long-term interest rates at the Zero Lower Bound,”
+Economic Journal, Royal Economic Society, November(2012):F447-F466.
+
+37
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+37
+
+

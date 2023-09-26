@@ -1,0 +1,439 @@
+Turbo-charging sterling LIBOR transition: why 2020 is the year
+for action – and what the Bank of England is doing to help
+Speech given by
+Andrew Hauser, Executive Director, Markets
+
+International Swaps and Derivatives Association/SIFMA Asset Management Group
+Benchmark Strategies Forum, London
+
+Wednesday 26 February 2020
+
+I am grateful to Sarah Hall for co-writing this speech – and to Amber Evans, Alastair Hughes, Wayne Leslie, Will Parry,
+Rhys Phillips, Edwin Schooling Latter, Dave Ramsden and Francesca Zwolinksy for their advice and comments.
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+Introduction
+2020 is a critical year for LIBOR transition.
+Great progress was made in 2019, particularly in sterling wholesale markets – and I want to give special
+thanks to the part that ISDA’s support and leadership has played in that.
+But, with the finish line for LIBOR now clearly in view, there is still a lot of ground to cover – particularly in the
+cash markets. We need to see another decisive acceleration in effort in 2020 to ensure risk-free rates are
+adopted across the full range of sterling business, and LIBOR is left behind for good.
+The motor racing analogy is apt, because LIBOR transition is complex, fast-paced and – above all – a team
+effort.
+The green lights came on some time ago, and the private sector has been decisively – and rightly – leading
+from the front. The chronic lack of underlying transactions1 means that LIBOR is simply too fragile a
+benchmark to support a sustainable business model – indeed its continued existence poses material risks to
+financial stability, both in the UK and globally. That’s why in the race to say goodbye to LIBOR, it is firms’
+own business leads, project managers and subject matter experts that are designing and driving the cars,
+supplying the tyres, and running the pit crews – re-engineering systems, innovating new financial products
+and services, and delivering them to customers. But it’s not just a firm-by-firm effort: it’s cross-market too.
+Under the leadership of Tushar Morzaria, Barclays’ CFO, the sterling Risk Free Rate Working Group and its
+various offshoots have brought together over 200 industry experts to solve collective problems. That
+includes setting the route map to the chequered flag – the latest version of which was released in January
+(Figure 1).2 Amongst many important milestones on that map, the most important is to cease issuance of
+term sterling LIBOR-linked cash products by the third quarter of 2020.3
+
+The increased focus and energy from sterling market participants this year is palpable. But they cannot run
+this race alone. As track marshals and safety officials, the Bank of England and FCA also have important
+roles to play – and we are using all the tools at our disposal in that quest.
+Understandably, perhaps, focus often alights on the ‘sticks’ we can wield. And it’s true that the regulatory
+authorities have stressed that firms’ boards and executives must take ownership of the transition and its key
+milestones, through ‘Dear CEO’4 and ‘Dear Senior Manager’5 letters, and through direct supervisory
+
+1
+
+You can see this vividly in the charts at: www.theice.com/iba/historical-data
+www.bankofengland.co.uk/-/media/boe/files/markets/benchmarks/rfr/rfrwgs-2020-priorities-and-milestones.pdf
+This target refers to products maturing beyond 2021
+4
+Dear CEO letter: www.bankofengland.co.uk/prudential-regulation/letter/2018/firms-preparations-for-transition-from-libor-to-risk-freerates and feedback: www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/2019/firms-preparations-for-transitionfrom-libor-to-risk-free-rates.pdf
+5
+www.bankofengland.co.uk/prudential-regulation/letter/2020/next-steps-on-libor-transition
+2
+3
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+2
+
+engagement. The FCA has set out how it will exercise its powers of life and death over LIBOR, including the
+critical judgment on representativeness.6 And the Bank’s Financial Policy Committee (FPC) has said that it
+will consider using other policy and supervisory tools to encourage transition if progress is too slow.7
+
+FIGURE 1: Sterling Risk Free Rate Working Group roadmap for 2020
+
+But the public sector has ‘carrots’ too – and we are doing at least as much to encourage and enable sterling
+transition as we are to enforce it. The Bank of England has been producing SONIA, the market’s chosen
+risk-free rate, on a daily basis since 2018. With the FCA, we provide the secretariat for the Working Group,
+helping market participants to identify common goals and targets. We regularly gather structured
+market-wide information on progress – first through the ‘Dear CEO’ process and more recently by initiating a
+regular data collection exercise – and we use it to provide feedback on risks and share good practices. We
+are working to identify and remove any unnecessary regulatory obstacles to transition, and clarify
+supervisory expectations.8 And we help provide international liaison and leadership through the Financial
+Stability Board’s Official Sector Steering Group, co-chaired by Andrew Bailey and John Williams.
+
+6
+
+www.fca.org.uk/news/speeches/next-steps-transition-libor
+www.bankofengland.co.uk/-/media/boe/files/financial-policy-summary-and-record/2019/december-2019.pdf
+See for instance www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/letter/2019/prudential-regulatory-framework-andlibor-transition.pdf and www.fca.org.uk/markets/libor/conduct-risk-during-libor-transition
+7
+8
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+3
+
+It is in that spirit that I want today to announce two new initiatives aimed at further supporting LIBOR
+transition:
+
+-
+
+First, and in direct response to feedback from market practitioners, the Bank is intending to publish a
+compounded SONIA index from July 2020. Complementing our existing overnight SONIA rate, the
+index will provide a flexible tool to help market participants construct compounded SONIA rates in an
+easy and consistent way, supporting achievement of their 2020 Q3 target for new issuance.
+
+-
+
+The second relates to the Bank’s own lending operations for banks and other financial
+intermediaries. From October this year, we will begin increasing haircuts progressively on
+LIBOR-linked collateral we lend against. This will give firms the time they need to replace that
+collateral with risk free rate alternatives, ensuring their borrowing capacity is maintained while also
+protecting public funds. This approach reflects the clear preferences of respondents to our
+discussion paper last year.9
+
+These initiatives are aimed at turbo-charging sterling transition, helping the market deliver against its
+commitment to transition away from LIBOR and further de-risking sterling markets. More detailed material
+on both has been published this morning on our website.10 In the rest of my remarks today, I want to take
+stock of progress so far, and explain how our new initiatives will work.
+
+Progress in sterling markets: derivatives instruments
+
+As this ISDA audience will know well, by far the largest sterling LIBOR exposures come from derivatives
+positions – and progress here has been good. Swaps account for the lion’s share of sterling derivatives, by
+notional value – and last year approximately half of new cleared sterling swaps referenced SONIA. That’s
+some £4 trillion a month. That ratio rose to more than two-thirds in January this year, amidst a sharp rise in
+trading of expectations on the outcome of that month’s monetary policy decision (Figure 2). That
+demonstrates the depth of liquidity in the market to absorb additional interest.
+But we can’t rest on our laurels – SONIA usage still needs to be higher. For some time there has been a
+sense that progress could be accelerated if a way could be found to overcome the potential ‘first mover’
+challenge for intermediaries otherwise keen to switch. For that reason, and following consultation with the
+industry, the Bank and FCA have strongly encouraged market makers to use SONIA as the standard
+reference rate for sterling interest rate swaps from 2 March 2020 – that’s next Monday. From then, market
+makers should consider SONIA first.
+
+9
+
+www.bankofengland.co.uk/-/media/boe/files/paper/2019/the-boes-risk-management-approach-to-collateral-referencing-libor-for-use-inthe-smf
+10
+www.bankofengland.co.uk/speech/2020/andrew-hauser-isda-sifma-amg-benchmark-strategies-forum-2020
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+4
+
+FIGURE 2: SONIA vs LIBOR Linked Trading Flow Volumes (January 2020)
+
+Floating rate notes**
+
+Swaps
+
+Futures
+
+Sources: Bloomberg Finance L.P., CME Group, CurveGlobal, ICE and LCH Group
+* Incremental increase in January 2020 from average SONIA flows in 2019
+** Maturing post-2021
+
+This should put the brakes on further increases in the stock of sterling LIBOR swaps maturing beyond 2021
+– a metric the FPC has been monitoring closely. And that number should start to go into reverse as
+contracts mature and others follow the early lead of firms like Nationwide and Legal & General Investment
+Management – which have publicly switched their balance sheet and client positions respectively to SONIA.
+As I announced last year, the UK’s foreign exchange reserves also now transact only in SONIA-linked
+contracts.11
+
+Even with these sorts of steps, we cannot be sure that the stock of LIBOR-linked swaps will fall to zero in a
+timely way – and that leaves the system exposed. That’s where ISDA’s work on fallbacks comes in. While
+my remarks today focus on new business, I want to thank ISDA for its work – it is a major achievement to
+have reached consensus on both the structure and the parameters of a market-wide fallback for LIBOR
+cessation. We welcome the intention to re-consult on the provisions for pre-cessation fallback, and look
+forward to working with you to deliver on that. Edwin Schooling Latter will talk more to these issues this
+afternoon.
+
+Having put in place the foundations for a decisive switch in swaps liquidity to SONIA, the next challenge for
+derivatives markets is to accelerate transition in futures and non-linear products. In preparation for the
+provision of a robust forward-looking sterling term rate, many banks are now streaming executable SONIA
+swap prices to regulated trading venues. Having the inter-dealer market able to trade SONIA in a single click
+is a key building block to helping firms hedge with the smallest friction possible. The Working Group will be
+considering what more needs to be done to drive transition in these markets over the coming months.
+
+11
+
+www.bankofengland.co.uk/-/media/boe/files/speech/2019/join-the-revolution-why-it-makes-business-sense-to-move-on-from-liborspeech-by-andrew-hauser.pdf
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+5
+
+Progress in sterling markets: cash instruments and lending
+
+If derivatives are well on their way, the big challenge for 2020 is to drive transition in the sterling cash
+markets – and in particular to hit the market’s target of no new issuance of term LIBOR-linked cash
+instruments after Q3.
+
+We know it can be done. SONIA has quickly become the default reference rate for floating-rate notes and
+securitisations – accounting for around 85% of new issuance across the two markets in the second half of
+2019.
+
+But these are predominantly wholesale transactions, involving a relatively small number of experienced
+counterparties. Replicating this success in the bilateral and syndicated loan markets – where LIBOR
+remains the norm – is a different challenge, for at least three reasons:
+
+-
+
+First, these markets involve a much wider range of lenders and borrowers, from the most complex
+global banking groups and largest multinational corporates, to the smallest regional lenders and
+businesses – many of whom have been distant from earlier stages of the transition effort;
+
+-
+
+Second, they rely on a deeply-embedded and relatively fixed infrastructure of pricing conventions,
+legal agreements and systems; and
+
+-
+
+Third, they are largely private markets, making it harder to observe progress using public data and
+demonstrate change.
+
+Acknowledging these challenges, in 2018 the Working Group broadened its membership to include key
+participants on all sides of the loan markets. Since then, the Group has undertaken a range of initiatives to
+explore ways to standardise conventions both domestically and cross-border, meet with loan and treasury
+systems providers to develop the infrastructure to support SONIA, and standardise documentation. In turn,
+this work helped support the early examples of sterling SONIA linked loans we saw last year to household
+names including National Express, South West Water and Associated British Ports.
+
+So, as with wholesale markets, it can be done. But to meet the Q3 target will require a substantial scaling up
+of what has so far been a cottage industry. Much of the onus for that lies with individual lenders, and many
+already have pilot loans in the pipeline. That should go a long way towards establishing market norms,
+testing the investor base, and creating healthy competitive tension between lenders. To support that
+process, and deal with market-wide issues, a new market-led ‘Loans Enablers’ taskforce has also been
+established under the Working Group to identify and deliver incremental tools in four main areas:
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+6
+
+-
+
+Conventions – where the taskforce is working with sterling market participants and international
+counterparts to finalise key product conventions for new SONIA linked loans;
+
+-
+
+Infrastructure – where the largest providers of loan valuation and pricing systems now have
+SONIA-linked loan capabilities, and the taskforce is ensuring new conventions can quickly and
+efficiently be incorporated into those systems. The group is also identifying typical links across firms’
+IT systems to ensure alignment across operations, treasury and risk management teams;
+
+-
+
+Documentation – where the task force is looking for ways to help share lessons learnt on
+documentation used in firms’ pilot loans, in what is largely a private market, allowing others to adapt
+quickly and standardise where possible. This will complement the important work already underway
+by the Loan Market Association to revise its own documentation;
+
+-
+
+Communications – where, despite good progress, there remains an urgent need to expand
+understanding of the substance and timetable for LIBOR transition to a much wider range of
+end-users of LIBOR across the UK economy. Central responsibility for this lies with lenders
+communicating effectively with their clients. But to support that the Working Group recently issued a
+fact sheet with the Association of Corporate Treasurers, the CBI and the authorities.12 And a
+number of other collective initiatives are planned in 2020, including events with a wide range of trade
+associations, and further materials to help support borrowers to transition.
+
+If those are the challenges facing the private sector, what more can we in the public sector do to assist? Let
+me talk about the two further steps we are announcing today.
+
+A new compounded SONIA index
+
+Before borrowing firms can transition away from LIBOR-linked loans and bonds, they need to know what rate
+they will be transitioning to. That rate needs to be fair, verifiable and cost efficient to use.
+
+An early desire to minimise change from the status quo led some initially to look for a forward looking
+SONIA-based term rate to replace LIBOR. As I have mentioned, UK financial markets are deep enough to
+allow such a rate to be offered in due course. But a report published last month from a cross-market Term
+Rate Task Force comprised of both lenders and borrowers showed that, for many types of business, this is a
+red herring.13 Broad-based consultation and analysis conducted by the Task Force showed that a far simpler
+rate, based on overnight SONIA compounded in arrears, can give the desired cashflow certainty for
+approximately 90% of sterling LIBOR loans (by value), is operationally achievable, and is more
+straightforwardly consistent with the basis for pricing interest rate hedges.
+12
+
+www.bankofengland.co.uk/-/media/boe/files/markets/benchmarks/rfr/factsheet-calling-time-on-libor-why-you-need-to-act-now.pdf
+www.bankofengland.co.uk/-/media/boe/files/markets/benchmarks/rfr/use-cases-of-benchmark-rates-compounded-in-arrears-termrate-and-further-alternatives.pdf
+13
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+7
+
+One challenge sometimes made to the widespread adoption of compounded SONIA is that a degree of
+expertise, and access to data, is required to calculate the appropriate number. For example, to calculate the
+compounded interest rate for a three month period requires approximately 60 data inputs (the overnight
+SONIA rates for each working day of the interest period). In addition, there are a number of ways to
+calculate the precise compounded rate, depending for example on the convention used for non-business
+days, or how to round numbers. Uncertainty over such issues could make it harder for some types of
+non-financial borrower to calculate their interest charge and reconcile it with the various quotes they might
+receive.
+
+This operational challenge has long been understood, and a number of private sector lenders and
+infrastructure providers have developed products to simplify these processes for sterling lending. But there
+have also been increasing calls for a single trusted ‘golden source’ from which bespoke rates can be
+calculated, to complement or cross-check those quoted by commercial providers. Similar steps are being
+taken in other jurisdictions, including the US and Switzerland for dollar and Swiss Franc rates respectively.14
+
+The Bank is therefore announcing today our intention to publish a SONIA-linked index from July this year. In
+addition to the overnight SONIA rate we already publish, this index will allow market participants to calculate
+a wide range of compounded SONIA rates for longer-than-overnight products by simply using the start and
+end-date of their product (Figure 3). This approach brings three main benefits for market participants;
+
+-
+
+Ease – the index will make it easier to calculate compounded SONIA interest rates, requiring only
+two data points;
+
+-
+
+Reduction of uncertainty – the index will use a consistent and standard set of conventions,
+reducing the scope for confusion over different calculation methodologies, and making reconciliation
+simpler; and
+
+-
+
+Flexibility – the index will be publicly available and allow firms and end-users to calculate the
+compounded rate for products of any combination of start and end dates and any maturity.
+
+We hope that, in time, this tool will complement others already available, helping to build further momentum
+for LIBOR transition in sterling cash markets – supporting both end-users and loan and infrastructure
+providers. But these firms should not wait for the index before undertaking their own broader preparations.
+We already know that new loans and bonds can be issued without the index, based on the range of existing
+risk free rates and conventions already used in different markets. The SONIA Compounded index will
+provide an additional, optional tool to complement these, and firms can plan on the basis that the index will
+be ready to use ahead of the 2020 Q3 target for ceasing new LIBOR issuance.
+
+14
+
+FRBNY will commence publication of its SOFR Index on 3 March: www.newyorkfed.org/markets/opolicy/operating_policy_200212
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+8
+
+FIGURE 3: Overnight Rates, Compounded Index and Compounded SONIA Rates15
+
+Some market participants may like us to go one step further by producing daily ‘screen rates’ for one or more
+specific period averages – for example 6-month, 3-month or 1-month compounded SONIA rates. Illustrative
+snapshots of those averages are shown at the bottom of Figure 3. But for screen rates to be of use and
+drive transition in sterling markets, the specific set of published rates would need to be simple, widely
+accessible, and based on a clear consensus from the market on the preferred convention to be used.
+Publishing a large number of alternatives could risk undermining the very certainty that borrowers need.
+
+So, in addition to announcing the index, we are today opening a consultation on whether there is sufficient
+market consensus for production of a given set of simple period averages, giving market participants the
+choice between a small number of alternative options. If that consensus exists, we stand ready to work with
+the market to deliver this complementary tool. We strongly encourage market participants to engage on this
+consultation and look forward to receiving responses.
+
+15
+
+For presentational reasons, Figure 3 shows the SONIA index and compound rates over different time periods from those shown in
+Section 2 of the accompanying Discussion Paper, but the underlying data and calculation methods are identical.
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+9
+
+Transitioning the Bank of England’s lending facilities away from LIBOR
+
+Our second announcement today also relates to our presence in the market – specifically, how we treat
+LIBOR-linked collateral in our Sterling Monetary Framework lending operations. We released a discussion
+paper on this topic last year and today we set out the actions we intend to take.
+
+Our lending operations are designed to provide liquidity support to market participants experiencing either a
+predictable liquidity need or a firm-specific or market-wide shock. We lend to firms against a wide set of
+eligible collateral. But to protect public funds we apply a risk-averse ‘haircut’ to that collateral to protect
+against possible falls in its value in the period between a counterparty default and collateral sale, including in
+times of potentially severe stress. The current average haircut on pre-positioned collateral is a little under
+25%, giving the Bank a lending capacity of over £300bn after accounting for existing lending (for example
+under the Term Funding Scheme).
+At present, roughly a tenth of banks’ drawing capacity is collateralised by assets referencing sterling LIBOR.
+Those assets include: securities paying a LIBOR-linked coupon; securitisations with embedded
+LIBOR-linked swaps; and LIBOR-linked loans, in either raw or securitised form. The risk is that, absent
+appropriate planning, these assets could become increasingly difficult for the Bank to value, risk manage and
+service as LIBOR cessation approaches. These are activities the Bank must be able to perform in case we
+have to take that collateral onto our balance sheet in a firm default, in order to protect public funds. A
+precipitate response to such risks could create a sudden ‘cliff edge’ reduction in drawing capacity, impairing
+the availability of effective liquidity insurance at a possibly critical moment.
+In order to avoid this risk and ensure that firms’ borrowing capacity at the Bank is managed progressively
+through the LIBOR transition period, we are announcing a new policy for LIBOR-linked collateral to allow
+firms to plan ahead. There are two key elements, summarised in Figure 4:
+
+-
+
+First, from 2020 Q3, we will progressively increase the haircuts on LIBOR-linked collateral
+pre-positioned with us. Haircuts are scheduled to reach 100% (i.e. implying effective ineligibility) at
+the end of 2021.
+
+-
+
+Second, and in line with the Working Group’s 2020 Q3 target for no new term LIBOR loan issuance,
+any LIBOR linked collateral issued after October 2020 will be ineligible for use at the Bank.
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+10
+
+FIGURE 4: Haircut schedule for LIBOR-linked collateral
+
+This graduated approach reflects the clear feedback we received from firms on our discussion paper last
+year. It is intended to give firms the incentives, certainty and time they need to prepare for LIBOR transition,
+replacing LIBOR-linked collateral with risk free rate alternatives and maintaining drawing capacity
+throughout. Careful analysis suggests that this should be a manageable task in the time available, but we
+will monitor this closely and continue to work with impacted firms on their plans.
+
+Concluding remarks
+
+I began my remarks by comparing LIBOR transition to a motor race. For some, I know it may have felt at
+times more like a Le Mans endurance race than a Grand Prix. But dawn is at last approaching – and the
+finish line is drawing nearer. For sterling markets in particular, 2020 is a critical year. The announcements
+we have made today, coupled with the huge efforts going on right across the private and public sectors,
+demonstrate I hope that, working together, we can keep sterling markets at the forefront of LIBOR transition.
+
+Thank you.
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+11
+
+

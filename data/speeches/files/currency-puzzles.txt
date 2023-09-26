@@ -1,0 +1,2902 @@
+Currency Puzzles
+Speech given by
+Sushil Wadhwani, Monetary Policy Committee
+
+At the London School of Economics
+16 September 1999
+
+This lecture draws extensively on ongoing joint work with Hasan Bakhshi of the Bank of England, to
+whom I am enormously indebted. Simon Cartwright and Peter Berry provided able research
+assistance. Spencer Dale, Paul Fisher and Chris Salmon gave me much helpful advice during the
+project. I am also extremely grateful to Bill Allen, Peter Andrews,
+Andy Brigden, Alec Chrystal, Charles Goodhart, DeAnne Julius, Mervyn King, Gus O’Donnell, Ian
+Plenderleith, Peter Rodgers, Clifford Smout and John Vickers for their comments and suggestions. Of
+course, this lecture only reflects my personal views, and does not in any way reflect a position held by
+the Monetary Policy Committee or the Bank of England.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+1 INTRODUCTION
+
+It is a great pleasure to speak at the LSE today. This is the institution that I came to as an
+undergraduate in 1977, and then stayed for nearly 14 years, both, as a student and as a
+member of the teaching staff. I have also had close links with the Centre for Economic
+Performance (CEP) – indeed, I joined the Centre for Labour Economics (which evolved into
+the CEP) as a research assistant in 1980, and remained with the CLE/CEP until 1991. Those
+were happy, if intense, days. The LSE was an intellectually exciting place to be, and I learnt
+a great deal by just being around.
+
+One of the things that we were puzzling about back then were aspects of currency movements
+(see, eg Charles Goodhart’s (1988) inaugural lecture; even I wrote a little paper then on
+excessive currency volatility – see Wadhwani (1987)), and it is perhaps in the challenging
+nature of the subject that we are still worrying about similar issues.
+
+Today is the seventh anniversary of Black/Golden/White Wednesday, when the markets
+decided that a £-DM central rate of 2.95 was too high and yet, today, we are wrestling with
+what many consider to be the opposite problem, ie that the current exchange rate of above
+DM3 is too high for the long-term health of the British economy.
+
+The MPC’s exchange rate forecast is a critical component of the inflation forecast, which is a
+key input into the policy decision. Today, I will discuss with you a variety of ways of
+coming up with an exchange rate forecast.
+
+I shall first begin in well-trodden territory, and compare our current (majority) convention of
+using the Uncovered Interest Parity hypothesis (UIP, hereafter) for the modal (most likely)
+outcome, with the naïve Random Walk hypothesis (RW, hereafter), and also discuss whether
+it is appropriate to expect a higher-interest rate currency to appreciate (rather than depreciate,
+as per UIP).
+
+Broadly speaking, the evidence appears to favour RW over UIP. Currently, UIP suggests
+that sterling might be expected to depreciate – the evidence here suggests that it might be
+unsafe to rely on the UIP-based forecast.
+
+3
+I then discuss valuation indicators like Purchasing Power Parity (PPP, hereafter) or the socalled Fundamental Equilibrium Exchange Rate (FEER, hereafter), and propose an
+alternative model for the exchange rate which encompasses these indicators as special cases.
+
+At present, measures based on either PPP or FEER suggeest that sterling is significantly
+overvalued against the euro. However, our models imply that on the assumption that
+current economic conditions broadly persist, the markets might keep sterling at around DM3.
+
+The evidence here suggests that the market might have re-rated sterling against the
+deutschmark because, in recent years, the German unemployment rate has risen relative to
+that in the UK. It is important to emphasise that the market’s current perception of the
+appropriate value of sterling (which is what we attempt to measure) might be very different
+from the “true”, underlying, long-term fair value.
+
+I have little doubt in my mind that the current level of sterling inflicts considerable pain on
+large sectors of the economy – therefore, I do not in any way seek to “justify” the current
+level of sterling.
+
+The models presented here imply that a significant fall in the US stock market could have a
+significant downward impact on sterling’s “equilibrium value” vs the DM, as would a large
+fall in German unemployment.
+
+Many commentators have been puzzled by the extent of sterling’s rise from around DM2.20
+in late 1995 to about DM3 today. This is especially because the actual change in relative
+UK-German interest rates can only explain a rather modest fraction of the rise (eg, the BoE’s
+“monetary news” decomposition can explain a rise from about DM2.20 to about DM2.32).
+
+However, the model presented below can explain, both, a significant fraction of sterling’s
+initial rise in 1996-97, and can shed some light on why sterling is still high now. The model
+can be interpreted as a generalisation of the UIP condition, and, importantly, it deviates from
+the UIP straitjacket which requires variables like unemployment/growth to only affect
+exchange rates through interest rates.
+
+4
+Obviously, modelling exchange rates is exceptionally difficult, and the estimates presented
+below are pretty fragile and uncertain. We clearly should not forget the lessons of previous
+16 Septembers that deriving accurate measures of equilibrium exchange rates is not easy.
+Also, more research is clearly needed. Nevertheless, I shall argue that when setting interest
+rates, the MPC should continue to examine alternatives to the current UIP convention (used
+by the majority), especially as some of the alternatives imply that sterling might stay rather
+stronger than the UIP convention assumes.
+
+2 THE IMPORTANCE OF THE EXCHANGE RATE CONVENTION
+
+The inflation forecast that the MPC produces is rather sensitive to the exchange rate
+convention for the modal forecast that it is prepared under. For example, during the last
+forecasting round, the collective projection used the uncovered interest parity convention,
+whereby sterling was assumed to decline in line with market interest differentials, thereby
+leading to a fall in the sterling ERI from around 103.1 (the 15 day average up to 4 August) to
+96.6 by the end of the 2-year forecast period. The corresponding assumption vis-à-vis the
+euro was that sterling would depreciate from around 0.66 (equivalent to about DM2.95) to
+0.71 (equivalent to DM2.75). However, the Inflation Report also presented an alternative
+projection for inflation, which was prepared on the assumption that the exchange rate would
+remain constant. The difference in the outturn for our 2-year ahead RPIX inflation forecast
+was significant, with the constant exchange rate convention delivering a projection that was
+about 0.4 percentage points lower, which is large in relation to an inflation target of 2.5%.
+Alternatively, recall that the MPC has previously reported model simulations (see MPC
+(1999)) which suggested that a temporary increase in the three month interest rate of 1
+percentage point might, under certain assumptions, be associated with a fall in inflation of
+between 0.2 and 0.4 percentage points after nine quarters. Hence, were one to use the
+inflation forecast and model mechanically (which the MPC does not), the implied difference
+for the appropriate level of the interest rate between the alternative exchange rate conventions
+is clearly substantial. It therefore behoves one to examine the arguments for the two
+competing conventions, and, indeed, consider further alternatives, which I shall go on to do
+later in this lecture.
+
+5
+2.1 THE INTUITIVE CASE FOR THE UNCOVERED INTEREST PARITY
+CONVENTION
+The intuitive appeal of the UIP convention is the same as the visceral appeal of the efficientmarkets hypothesis, ie that no arbitrage opportunities should remain in an efficient market.
+To see this, suppose that the one-year sterling interest rate is 6 per cent, and the comparable
+Euro interest rate is 4 per cent. On the UIP hypothesis, we only have an equilibrium
+situation if investors also expect sterling to depreciate by 2 per cent. If instead, they did not
+expect sterling to depreciate at all, risk neutral investors would borrow a very large amount in
+euros, and lend it in sterling, which would cause sterling to appreciate against the euro, and
+there would also be upward pressure on euro interest rates and downward pressure on sterling
+interest rates. This process would continue until the interest differential (which would be
+lower) was equalised with the expected depreciation of sterling (which would presumably
+now exist as sterling would have risen relative to its prior level).
+
+It is easy to understand the intuitive appeal of the UIP hypothesis – therefore, I next turn to
+some of the empirical evidence relating to this hypothesis.
+
+2.2 UIP – THE EMPIRICAL EVIDENCE
+
+Around a dozen years ago, in his inaugural lecture at the LSE, my colleague,
+Charles Goodhart, presented evidence based on a variety of datasets suggesting that the
+econometric evidence was rather unsupportive of the UIP hypothesis (see Goodhart (1988)).
+A standard test of the UIP hypothesis1 is performed by regressing the actual change in the
+exchange rate on the prior interest rate differential, ie
+
+(
+
+)
+
+∆ st + k = α + β it* − it + ν t +
+
+∆ st +
+
+k
+
+k
+
+(1)
+
+is the percentage appreciation of the currency over k periods, and ( it* − it
+
+)
+
+is the current k-period foreign interest rate less the corresponding k-period domestic interest
+rate. The null hypothesis of the weak form of UIP is that β = 1 , ie if the foreign interest rate
+is higher than the domestic interest rate, the currency appreciates in line with the differential
+1
+
+What we describe as the UIP hypothesis is sometimes referred to as the “risk neutral UIP hypothesis”. We
+consider the more general case, which allows for risk averse investors below.
+
+6
+(on average). Note, in passing, that one may replace the interest differential in equation (1)
+by the forward premium, ie the percentage difference between the current spot and forward
+exchange rates. This is why the failure of regressions such as (1) to yield estimates of β = 1
+are sometimes referred to as the forward premium puzzle. Back in 1990, in surveying the
+literature which has estimated equations like (1), Froot and Thaler (1990) wrote:
+“A very large literature has … .. found that the coefficient β is reliably less than one. In fact,
+β is frequently estimated to be less than zero. The average coefficient across some 75
+published estimates is –0.88 … .. . A few are positive, but not one is equal to or greater than
+the null hypothesis of β = 1 .”
+More recently, the UIP hypothesis has continued to work poorly for UK policymakers, eg
+Figure 1 reminds us that with UK interest rates above those in Germany, a UIP-based
+projection has, since 1996, always looked for sterling to depreciate against the DM. Yet, for
+much of this period, the actual 12-month change has been for sterling to appreciate, often
+very significantly (eg by over 25% in the 12 months to mid-1997).2 Further, if one updates
+estimates of equation (1) (with k = 12 or 24 months) to include the period up to 1998, one
+continues to find results that are adverse to the UIP hypothesis (see Appendix 1A).
+Specifically, for the seven exchange rates considered here, all of the estimates of β were
+negative rather than being +1, and, in several cases, the difference is statistically significant.
+Note that, if, in line with some of the academic literature, β is set to zero, rather than
+negative, one would then be left with the exchange rate being a random walk, (RW,
+hereafter – recall that Charles Goodhart’s inaugural lecture at the LSE was subtitled “A
+Random Walk with a Dragging Anchor”) ie one would just assume that the exchange rate
+would be constant.3 In line with some of this earlier academic work, the results suggest that
+RW outperforms UIP. Specifically, Table 1 records the mean square error (MSE) of the
+forecasts associated with RW vs UIP. It is notable that for every one of the bilateral rates
+considered here, the rather naïve hypothesis that the exchange rate is constant does better
+
+2
+
+Of course, the “monetary news” associated with unanticipated increases in the UK interest rates relative to
+those in Germany would, consistent with the UIP hypothesis, explain some of the appreciation. However, as
+will be discussed below, “monetary news” can only account for a small fraction of the actual rise in the
+exchange rate.
+3
+Recall that the economics profession has had to confront the possibility that the assumption that the exchange
+rate follows a random walk outperforms many other structural models ever since the work of Meese and Rogoff
+(1983).
+
+7
+than using the UIP convention – this does, indeed, appear to be an instance where a little bit
+of knowledge of textbook economics (ie UIP) appears worse than no knowledge!
+
+8
+
+Fig. 1
+Actual and UIP-based forecast changes in £-DM, 1996-99
+Actual
+
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+-0.05
+-0.10
+-0.15
+
+UIP Projection
+
+Jan96
+
+Jul96
+
+Jan97
+
+* 12 month % changes
+
+Jul97
+
+Jan98
+
+Jul98
+
+Jan99
+
+Jul99
+
+9
+TABLE 1
+COMPARING THE FORECASTING PERFORMANCE OF UIP WITH THE
+RANDOM WALK HYPOTHESIS
+
+CURRENCY PAIR
+
+£- DM
+£-$
+£-Yen
+£-Ffr
+$-DM
+$-Yen
+DM-Yen
+
+MSE OF FORECAST ERROR
+UIP
+RW
+(X 10-2)
+(X 10-2)
+1.18
+1.16
+1.69
+1.53
+2.50
+1.43
+1.01
+0.87
+1.80
+1.68
+2.31
+2.01
+1.79
+1.72
+
+SAMPLE PERIOD
+
+1976:1 –
+1976:1 –
+1978:9 –
+1978:10 –
+1976:1 –
+1978:9 –
+1978:9 –
+
+1999:7
+1999:7
+1999:7
+1999:7
+1999:7
+1999:7
+1999:7
+
+Note
+We form a 12-month ahead forecast based either on interest differentials (UIP) or assume that
+the exchange rate is constant (RW).
+
+10
+Although, at first sight, the evidence presented above is somewhat problematic for the UIP
+hypothesis, it is appropriate to be cautious.
+
+Note that some (see, eg Fisher et al (1990), McCallum (1994)) argue that the conventional
+econometric estimation of equation (1) is flawed, because the interest differential itself
+depends on exchange rate expectations. This is because when policymakers set interest
+rates, they may well be influenced by what they expect the exchange rate to do. Under
+certain assumptions, this would bias the estimates of β away from 1 (towards being
+negative) and, might, therefore explain the results that are commonly found in the literature.
+However, when we re-estimate equation (1) and use a more appropriate econometric
+technique, (see Appendix 1B), although the estimates of β are generally closer to 1, it is still
+the case that five out of seven of our estimates of β are negative, and the other two are
+below 1. Hence, at least on this evidence, the alternative econometric estimation technique
+is not enough to make one feel comfortable with the UIP hypothesis.
+
+However, it would be misleading to suggest that there is no econometric evidence that is
+supportive of the UIP hypothesis.
+
+First, Frankel and Rose (1994) show that UIP worked better for currencies within the
+European Monetary System, suggesting, perhaps, that the documented failure of UIP
+elsewhere is dependent on the exchange rate regime (ie managed vs floating). We did add
+ERM-membership dummies to the earlier equations, and found that the results for the nonERM period were generally more adverse to the UIP hypothesis.
+
+Second, Bansal and Dahlquist (1999) report evidence which suggests that the forward
+premium puzzle might be confined to the developed economies, in that for so-called
+emerging and low-income economies, a positive domestic interest rate differential does tend
+to predict a depreciation of the domestic currency.
+
+Third, if one is interested in a longer time-horizon than the one-year time period considered
+here, Meredith and Chinn (1998) report evidence suggesting that, although UIP is usually
+rejected at shorter-maturities, the estimates of β are much closer to 1 when one uses data on
+longer-maturity bonds (eg 5 or 10 years), ie they conclude:
+
+11
+
+“ … .. at short horizons, from an unconditional forecasting perspective, the conclusion
+remains that UIP is essentially useless as a predictor of short-term movements in exchange
+rates. Over longer horizons, however, our results suggest that UIP may significantly
+outperform naïve alternatives, such as the random-walk hypothesis, although it is still likely
+to explain only a relatively small proportion of the observed variance in exchange rates.”
+(Page 17)
+Fourth, Harrison and Salmon (1999) suggest that if one confines oneself to the 1990s, then,
+for the major sterling cross rates, one obtains results that are closer to UIP. However, their
+results might, in part, be explained by the fact that their sample includes the period during
+which the UK was in the EMS – in which case, given the results of Frankel and Rose (1994)
+that we alluded to earlier, their results might arise from the validity of UIP in an exchange
+rate regime that we are no longer in. Also, in assessing whether or not UIP is an adequate
+forecaster of exchange rate movements on a one-year horizon, a data sample consisting just
+of the 1990s might arguably be too short to base any firm conclusions on.
+
+To summarise, though, the bulk of the econometric evidence for G7 countries suggests that,
+when exchange rates are floating, UIP is a misleading indicator of currency movements for
+anything but a very long time-horizon (5 years or more). Hence, the evidence might induce
+some of us to not want to use UIP in the preparation of our inflation forecast, although
+reasonable people may disagree about this. In particular, there remains the issue of whether
+one feels comfortable with not using UIP while simultaneously believing that financial
+markets might be efficient.
+
+2.3 ATTEMPTING TO EXPLAIN THE FAILURE OF UIP
+
+In the discussion of UIP so far, I have assumed that investors are risk neutral. However, if
+investors were risk averse, then the interest differential is the sum of the expected change in
+the exchange rate plus a risk premium, so one would no longer necessarily expect a finding of
+
+β = 1 , and the above evidence might still be consistent with efficient markets. There is a
+large and voluminous literature on this subject, and this is not the place to summarise it.
+Suffice it to say that in the survey of this literature, Lewis (1994) concludes:
+“However, no risk premium model with believable measures of risk aversion has yet been
+able to generate the variability in predictable (foreign currency) excess returns that are
+observed in the data” (page 38)
+
+12
+
+Alternatively, it is possible to argue that one should not expect the FX market to be
+informationally efficient. In his intriguing Presidential Address to the American Finance
+Association, Sanford Grossman (1995) appears to have some of the elements of a story that
+might help explain the failure of UIP. I cannot hope to do justice the subtleties of his
+explanation here,4 but the key elements are:
+
+(i)
+
+Markets cannot be perfectly efficient when information is costly, for if they were,
+then no one would be able to earn a return from devoting resources to information
+collection.
+
+(ii)
+
+If prices move for reasons unrelated to future expected payoffs, this causes ‘noise’ in
+the signal extraction process of uninformed investors, and it is this ‘noise’which
+allows informed investors to earn a return from their information collection and
+processing, and thereby leads the econometrician to observe that the market is
+informationally inefficient.
+
+In our context of attempting to explain the failure of UIP, it seems to me that we need
+changes to interest rates which are, sometimes, associated with changes in the underlying
+equilibrium exchange rate (EER, hereafter). Then, we need two classes of investors – those
+who invest in information acquisition to decide whether or not a particular rise in the interest
+rate is associated with a change in the EER, and those who do not spend any resources on
+answering this question, but transact currencies in the normal course of their business.
+Under these circumstances, UIP might not hold.
+
+Grossman makes another important related point. A non-UIP world also facilitates a
+necessary flow of resources across country borders.
+
+4
+
+Also, he does not present a fully worked-out model, so not all the necessary elements of his argument are fully
+articulated out in his address.
+
+13
+Grossman points to German unification as an example. In that case, the German demand for
+capital rose substantially, and German rates also rose relative to US and Japanese rates. On a
+UIP view, the rise in the German-US interest differential should have been accompanied by
+an expected depreciation of the German currency; on the Grossman view, the rise in the
+differential was “a real reward offered to the world for investing more in a particular type of
+risk, namely, the risk of Deutschemark-denominated assets.” (page 776)
+
+For me, an attractive feature of the Grossman hypothesis is that it is a fairly accurate
+description of the behaviour of several traders/fund managers, who pursue so-called “carry
+trades”, where one borrows in the low interest-country and lends in the high-interest country.
+Of course, these traders rarely behave in such a mechanical fashion, but also tend to use other
+criteria to decide whether a “carry trade” is worth pursuing.
+Note that provided that β < 1 in equation (1), then “carry trades” make sense, because the
+advantage offered by holding the high-interest currency is only partially offset by a currency
+depreciation. Obviously, if β = 0 , (the random walk case), the investor, on average, profits
+by the extent of the interest differential, while, with β < 0 , the “carry” investor not only
+benefits from holding a higher-yielding asset, but also, on average, profits from an
+appreciating currency. Bansal and Dahlquist (1999) report the fact that the excess returns
+which can be earned, on average, by borrowing in the low-interest currency and lending in
+the high-interest currency are often statistically significant in relation to the volatility of the
+trade (see Appendix 2).
+
+Nevertheless, it is important to emphasise that all the alternative approaches that were
+discussed above do a pretty poor job of forecasting the exchange rate. Although the MSE
+associated with assuming a constant exchange rate might be somewhat lower than using the
+UIP hypothesis, the naïve method of assuming a constant exchange rate is hardly an accurate
+method! Either convention gives you rather poor forecasts of the exchange rate. This is one
+reason that one needs to contemplate other alternatives.
+
+There is, also, another reason to contemplate alternatives – it is that the constant exchange
+rate assumption does not allow for any interest rate effects on the exchange rate. From a
+policy-making perspective, this makes one uncomfortable as the policy instrument (the short-
+
+14
+term interest rate) would, in the model, be assumed to have no effect on the exchange rate.
+Yet, on average, interest rate changes do contemporaneously affect exchange rates.
+Appendix 1C reports some results which are consistent with unanticipated changes in the
+relative monetary policy stance having, on average, the theoretically expected effect on
+exchange rates. One might, therefore, supplement the constant exchange rate assumption
+with an additional, empirically based assumption about how much the exchange rate would
+contemporaneously jump in response to an interest rate shock. Alternatively, one might
+want to consider a more general model for exchange rates which, among other things,
+includes a role for interest rates.
+
+3.1 “FAIR VALUE” MEASURES OF THE EXCHANGE RATE
+
+It is sometimes argued that, in the current conjuncture, the UIP convention is likely to yield
+the correct directional profile for the probable path for sterling because, currently, sterling
+appears to be “overvalued” on conventional, Purchasing Power Parity (PPP, hereafter) – style
+measures. Certainly, the current academic consensus is that PPP might be valid in the longrun. For example, in his recent survey Rogoff (1996) concluded:
+
+“Overall, … .. the recent literature has reached a surprising degree of consensus: PPP
+deviations tend to damp out, but only at the slow rate of roughly 15% per annum.”
+(pages 657-658)
+Table 2 displays some estimates of conventional, PPP-style estimates of the equilibrium
+value of the sterling-deutschmark exchange rate. Clearly, current estimates of the PPP
+exchange rate (which are in the range of around 2.35 – 2.60), are well below the current spot
+exchange rate of 2.97, and hence, it might be reasonable to expect mean reversion, and
+consequently, predict an exchange rate decline.
+
+Indeed, in the May 1999 inflation report, while the MPC used UIP for its modal (ie most
+likely) projection for sterling, the mean projection for sterling was informed by what the
+measured consensus of outside forecasts for sterling was predicting. Currently, the
+
+15
+consensus forecast (2 years out) is for sterling to decline to around 2.70, and is clearly
+influenced by PPP-style estimates.5
+
+Of course, some economists point out that PPP relies on arbitrage in the goods market, but
+yet evidence suggests that there are important limitations to arbitrage in that market,
+primarily because of differentiated products and transport costs. Hence, an alternative
+longer-term equilibrium concept that has attracted a following is the so-called “Fundamental
+Equilibrium Exchange Rate” (FEER, hereafter) – see, eg Wren-Lewis and Driver (1998) for a
+recent review.
+
+There is no unique definition of FEER – John Williamson (1983) first used the term – but, in
+general, it refers to the level of the real exchange rate that would deliver, both, internal and
+external balance over the medium-term.
+
+Table 3 presents some recent FEER-based estimates of the equilibrium value for the sterlingDM exchange rate. Note that, once again, the current exchange rate is well above existing
+estimates of the FEER.
+
+5
+
+Note, though, that the consensus forecasts were interpreted as being informative about sterling’s risk
+premium. The MPC was using a risk-adjusted UIP condition. Also, the MPC used a modified version of UIP
+for its modal projection, in that the exchange rate path had to be made consistent with the unchanged interest
+rate assumption
+
+16
+TABLE 2
+
+ALTERNATIVE ESTIMATES OF THE PPP RATE FOR STERLING-DM
+
+ALTERNATIVE MEASURE
+
+ESTIMATE
+
+Consumer Price index based measure1
+
+2.57
+
+Producer Price Index based measure1
+
+2.37
+
+Measure based on unit labour costs2
+
+2.60
+
+Actual exchange rate3
+
+2.97
+
+1
+
+Based on the CPI and PPI indices up to June 1999.
+
+2
+
+Based on measures of unit labour costs up to May 1999.
+
+3
+
+On 17 August 1999.
+
+17
+TABLE 3
+
+FEER-BASED ESTIMATES OF THE EQUILIBRIUM EXCHANGE RATE FOR
+STERLING-DM
+
+AUTHOR
+
+RANGE OF ESTIMATES
+
+Wren-Lewis and Driver (1998)
+
+2.13-2.60 (for 1995:H1)
+2.04-2.49 (for 2000)
+
+Church (1999)
+
+2.30
+
+18
+In addition, of course, businesses generally say that the equilibrium exchange rate is
+somewhat lower than the current rate, eg in a recent CBI survey, the median “appropriate
+exchange rate for entry” into EMU was deemed to be DM2.60 – 2.70, with less than 5%
+regarding a level above DM2.90 as a satisfactory entry rate.
+
+Of course, the sterling-DM exchange rate has persisted at levels well above these measures of
+“fair value” for some time now.
+
+The MPC has at least three choices for its modal (ie most likely case) assumption:
+
+(i)
+
+Assume that the mean reversion will occur at some point – in which case the MPC
+would, other things being equal, keep interest rates higher than they might be if they
+were following the random walk convention.
+
+(ii)
+
+Ignore the possibility of mean reversion by, say, using the random walk convention,
+but react to it if and when the exchange rate fell (this would be analogous to how the
+MPC treats equity prices). Of course, the skew could reflect the risk of a fall in the
+exchange rate, ie in this case, mean reversion would not affect the modal assumption,
+but would affect the mean of the assumed distribution. Other things being equal,
+interest rates would be lower than under (i).
+
+(iii)
+
+Investigate the possibility that the markets might be operating under some alternative
+notion of “equilibrium”, which might keep the real exchange rate above its historical
+mean.
+
+In that context, it is important to emphasise that, to some extent, the FEER is a normative
+concept in that it asserts what the exchange rate should be in the context of a particular model
+with certain specific assumptions about economic behaviour. For example, FEERs depend
+on assumptions made about the conduct of fiscal policy, and the medium-term current
+account targets that are chosen do involve an element of arbitrariness. There is little effort
+devoted in this approach to assess whether, over some period of time, FEERs have provided
+an appropriate longer-run benchmark to which exchange rates do actually revert to. By
+contrast, one might be interested in what exchange rates actually do (see, eg Clark and
+MacDonald (1998), who distinguish between FEERs and the so-called Behavioural
+
+19
+Equilibrium Exchange Rate (BEER), where the latter is based on a model of the actual
+exchange rate.
+
+3.2
+
+ESTIMATING A MODEL FOR THE EXCHANGE RATE
+
+3.2.1 THEORETICAL CONSIDERATIONS
+
+Economists differ on whether it is feasible to produce an economic model of the exchange
+rate that might be used for policy purposes.
+
+For example, Isard (1995) asserts that “… .. economists today still have very limited information about the relationship between
+equilibrium exchange rates and macroeconomic fundamentals .… . . Until economists can
+tell market participants with a reasonable degree of precision what they ought to believe
+about where exchange rates are headed, … .. there is little reason to believe that rational
+market participants will trade currencies on the basis of expectations formed only from
+assessments of macroeconomic fundamentals.” (pp 182-183)
+By contrast, there are, now, a host of studies that do attempt to link the real exchange rate to a
+host of macroeconomic variables. Indeed, MacDonald (1998) concluded a recent survey of
+this literature by asserting:
+
+“It seems we do know a great deal about the behaviour of real exchange rates, although there
+is plenty of scope for refining and elaborating the current body of knowledge.” (p 40)
+Indeed, many Wall Street firms now routinely publish their estimates of the medium-term
+equilibrium exchange rate, and even central banks occasionally do so (see, eg Deutsche
+Bundesbank (1995)). These approaches typically estimate a reduced form equation. For
+present purposes, I shall follow a somewhat idiosyncratic approach, where one estimates a
+modified version of the risk-adjusted UIP condition, and uses proxy variables for the risk
+premium, ie starting with the modified UIP condition,
+
+(
+
+)
+
+Et st + k − st = α + β it* − it + ρ t + k … ..(2)
+
+where ρ t + k is a risk premium.
+
+20
+Appendix 3 shows that one may proxy the risk premium by
+−
+
+
+ρ t + k = F  qt − qt , Z t  … ..(3)
+
+
+−
+
+Where qt − qt is the estimated deviation of the real exchange rate, qt from an estimate of the
+−
+
+equilibrium exchange rate qt , and Z t is a set of variables that commonly helps predict the
+returns on other assets (eg stocks, bonds, etc).
+
+The advantages of this approach include:
+(i) We do not specify a particular model for the risk premium, ρ t + k , because, as we noted
+earlier, we have no successful economic models for it. Instead, we have decided to use a
+proxy variable approach, where we rely on the fact that the deviation of the current real
+−
+
+exchange rate, qt , from some long-run equilibrium level, qt will, in part, depend on
+perceived risk. In addition, conventional asset pricing theory considerations suggest that
+variables that help predict excess returns on other assets like stocks or bonds (and therefore
+proxy for the risk of those assets) should also play a role in predicting excess currency
+returns, as, on this model, all assets must be priced off the same set of underlying risks.
+
+(ii) The approach used here nests two different strands of the literature – one of which
+−
+
+focuses on estimating a reduced from relationship linking qt to qt (see, eg Clark and
+MacDonald (1998)), while another attempts to estimate a “structural model” with Z t
+proxying for the risk premium (eg Bekaert and Hodrick (1992)). If one follows a FEER−
+
+style approach, Appendix 4 shows that we may proxy the equilibrium exchange rate qt by
+−
+
+qt = F ( CADt ,UNEDt , NFADt , RWPCPt ) … ..(4)
+
+where
+CADt
+
+= Difference in current account/GDP ratios
+
+UNEDt
+
+= Difference in the unemployment rates
+
+NFADt
+
+= Difference in the Net Foreign Asset/GDP ratio
+
+21
+RWPCPt = Relative ratio of the WPI to the CPI
+
+Intuitively, relative to some current account target, a current account deficit will require an
+exchange rate depreciation to restore equilibrium. If a country is experiencing a current
+account deficit at a time when its unemployment rate is high, it will then require an even
+larger depreciation to restore external equilibrium while simultaneously being in internal
+equilibrium. Other things being equal, a higher stock of net foreign assets is compatible
+with a higher current account deficit and, therefore, requires a smaller depreciation. Finally,
+the ratio of the WPI/CPI is included as a crude proxy for differential productivity growth in
+the traded goods sectors.
+
+Third, an advantage of our approach is that we potentially nest the PPP and FEER approaches
+as special cases.
+
+Turning now to the set of variables that help predict asset returns more generally, we include:
+
+(a) The difference in lagged dividend yields – this is rationalised by the evidence that a
+higher dividend yield appears to be associated with higher future stock returns (see,
+among others, Fama and French (1988b)).
+
+(b) Relative lagged stock returns – again, there is evidence that these help predict future stock
+returns, with the evidence suggesting some persistence in the short run (see, among
+others, Fama and French (1988a)).
+
+(c) Lagged yield spreads – we experiment with the relative difference between yields on
+bonds of different maturities with the evidence suggesting that a steeper yield curve is
+predictive of higher bond returns (see for example Keim and Stambaugh (1986)).
+
+(d) Past inflation helps predict stock returns (see, eg Keim and Stambaugh (1986)), although
+it must be admitted that this is not an empirically stable relationship when one considers
+longer historical periods (see, eg Mullins and Wadhwani (1989)).
+
+22
+The main advantage of the approach used here is that it breaks free from the straitjacket that
+is imposed by the conventional UIP approach, which is often interpreted as requiring that a
+given variable should only affect the exchange rate indirectly through interest rates. Since
+one often observes instances where a said change in the economic environment affects the
+exchange rate without appearing to affect interest rates, our framework has obvious
+advantages. Also, within any framework, changes in interest rates do not only have an
+instantaneous affect on exchange rates, but can potentially continue to have a subsequent
+affect on the exchange rate in the same direction, which is consistent with the evidence on
+“delayed overshooting” that is reported in, say, Eichenbaum and Evans (1995).
+
+3.3 EMPIRICAL RESULTS
+The detailed econometric results may be found in Appendix 5. However, the key features of
+interest are:
+
+(i)
+
+Explanatory power
+
+A crude measure of explanatory power R 2, (at over 50%) is rather higher than in the case of
+the simple UIP regressions. Note, though, that these measures are biased upwards, and, also,
+that these are in-sample R 2, and therefore reflect an energetic search process.
+
+(ii)
+
+Mean reversion
+
+For all six bilateral exchange rates that are considered here, there is evidence of mean
+reversion, in that the real exchange rate term is highly significant. Note that we also tested
+for so-called “hysteresis” effects, by allowing for the possibility that actual changes in the
+real exchange rate also induce a change in the equilibrium exchange rate in the same
+direction, by leading to changes in productivity. (This is why we also included the real
+exchange rate relative to its 3 year moving average.) There was some evidence of
+“hysteresis” in three of the six bilateral rates considered here, though note that it is of only a
+partial variety as the real exchange rate term itself is also significant in these cases.
+
+23
+Of course, although there is evidence of mean reversion here, movements in other variables
+(eg productivity, unemployment) change the “equilibrium” exchange rate, so there is no
+reason for the real exchange rate to revert to its PPP value.
+
+(iii) The effect of relative unemployment rates on the exchange rate
+
+The relative unemployment rate terms attract the ‘right’sign in five of the six bilateral rates,
+ie a rise in country A’s unemployment rate relative to country B induces its exchange rate to
+depreciate. Although unemployment rates do clearly affect calculations of FEER, somewhat
+surprisingly, the literature that estimates direct reduced form equations for the exchange rates
+(so-called BEERs, which are surveyed in Macdonald (1998)) do not include the relative
+unemployment rate.
+
+Our results suggest that this might be a significant misspecification
+
+error.
+
+It is important to emphasise that the unemployment term is not merely proxying for cyclical
+variation in GDP growth – on adding terms involving the latter, the coefficient on relative
+GDP growth displayed a rather mixed pattern.
+
+(iv) Net Foreign Assets/Current account balances
+
+Somewhat disappointingly for those who use FEERs, the current account balance term was
+only correctly signed and statistically significant for one out of the six bilateral rates
+considered here. Similarly, the net foreign assets term was only significant in two out of six
+cases.
+
+On the basis of this evidence, the foreign exchange markets do not appear to attach the same
+degree of importance to external balance as proxied by the current account or net foreign
+assets position of a country as might be implied by the FEER approach. A simple way to see
+this is to look at Table 4, where notice that the US current account position has deteriorated
+significantly relative to Japan or Germany over the 1993-98 period, and is expected to get
+worse in 1999. Yet the nominal exchange rate in 1998 was higher than in 1993, despite the
+fact that the US has had a higher average inflation rate over this period (so the real exchange
+rate appreciation has been even greater).
+
+24
+Following traditional practice, we have proxied the net foreign asset position by cumulating
+current account balances. However, the latter can, sometimes, be a somewhat inaccurate
+measure of the former, and, in future work, it is our intention to remedy this.
+
+Also, it is possible that the current account only matters some of the time. Casual
+observation suggests that countries with a current account deficit can have a currency that
+stays strong for a surprisingly long period, until, sometimes, there is an abrupt adjustment. A
+potential catalyst for such an adjustment might be a fall in global equities – an experiment
+which is consistent with this possibility is reported below. In addition, the model uses recent
+current account balances. If one uses future current account out-turns instead, these terms
+are statistically significant in four of the six models, which is more consistent with the
+theoretical model, though this, of course, is reliant on future “news” about the current account
+that is unknown at time t, while the essence of the approach is to use information available at
+time t, since we are looking for a predictive model. I shall, nevertheless, discuss some
+simulations based on these alternative results below.
+
+(v) Relative productivity effects
+
+There is evidence for this in three of six cases, which given that our proxy variable
+(WPI/CPI) is distorted by several other factors, is quite impressive.
+
+(vi) Equity market effects
+
+If country A’s stock market outperforms equities in country B, this appears to presage an
+appreciation of country A’s currency (in 4 out of 6 cases). This might be because investors
+expect country A’s equity market to continue to outperform for some time.
+
+We also find a similar effect from the relative dividend yield, eg if the US dividend yield
+rises relative to the UK dividend yield, that normally suggest that US equities will outperform
+UK equities, which, in turn, is associated with sterling depreciating vis-à-vis the dollar.6
+
+6
+
+We have one instance where the sign of the relative dividend yield term is positive instead, which is
+inconsistent with the interpretation offered in the text. However, we have left it in because the relative dividend
+yield term could also be rationalised in other ways, eg a lower dividend yield signals higher growth.
+
+25
+TABLE 4
+CURRENT ACCOUNT AND EXCHANGE RATES: 1998 VS 1993
+
+USA
+
+JAPAN
+
+GERMANY
+
+1998
+
+-2.7
+
+3.2
+
+-0.2
+
+1993
+
+-1.3
+
+3.1
+
+-0.7
+
+1999 (projection)
+
+-3.4
+
+3.0
+
+0.0
+
+1998
+
+1.0
+
+130.9
+
+1.759
+
+1993
+
+1.0
+
+111.2
+
+1.653
+
+2.5
+
+0.7
+
+Current Account (% of GDP)
+
+Nominal exchange rate (vis-à-vis
+US$)
+
+Consumer Price Inflation (Avg)
+1993-98
+
+SOURCE: OECD
+
+2.2
+
+26
+(vii) UIP term
+
+Since we have modified the UIP equation to include a variety of other terms to proxy for risk,
+one might expect the coefficient to get closer to +1. On the other hand, if one believes that
+there are good reasons for why the coefficient should not be +1 (eg the discussion in
+Grossman (1995)), then we would continue to expect a different coefficient. As it happens,
+the results are mixed. While, previously, all six coefficients were negative, now two of them
+are actually positive, with one of them even greater than +1. It is rather difficult to offer a
+coherent story to explain this pattern of coefficients.
+
+(viii) Yield Spread terms
+
+Relatedly, the pattern of coefficients on the yield spread terms is also somewhat puzzling, eg
+if we take the change in the yield spread, four are negative, while two are positive. In terms
+of the level term, the tally is two negative, while one is positive. The lack of consistency of
+these results is difficult to explain, and deserves further investigation.
+
+Given the previously noted difficulties that economists have had in explaining exchange
+rates, it is not surprising that some of our results are puzzling. Instead, we are encouraged by
+the fact that several of the linkages appear to be quite robust. Therefore, we turn next to
+attempting to explain the post-1995 appreciation of sterling in the context of this model.
+
+3.4 ATTEMPTING TO EXPLAIN THE RISE IN STERLING VS THE DM
+
+Recall that sterling rose from around DM2.20 in December 1995, to about DM2.60 in
+December 1996, and, then, to approximately DM3.00 in December 1997 (see Figure 2). I
+have already noted before that the rise in sterling was not predicted by the interest differential
+using conventional UIP analysis, although it is true that about 2 ½% of the post-1995 rise
+can, in fact, be explained by “news” about monetary policy using the UIP-based methodology
+outlined in Brigden, Martin and Salmon (1997). Since “monetary news” appears to explain
+so little of sterling’s appreciation, it is common to see commentators describe sterling as
+“puzzling”.
+
+27
+
+Fig. 2
+£-DM exchange rate
+
+3.2
+3.0
+2.8
+2.6
+2.4
+2.2
+2.0
+
+Jan-95 Aug-95 Mar-96 Oct-96 May-97 Dec-97
+
+Jul-98
+
+28
+One may use the estimated exchange rate model to attempt to “explain” the rise in sterling.
+Table 5 attempts just such a decomposition.
+
+The results suggest that of the actual appreciation of around 27½%, about two-thirds can
+actually be “explained” by the model. Specifically, about 18½% of the appreciation is
+attributable to the fact that the real exchange rate was low by historical standards in early
+1996 (see Figure 3). In addition, German unemployment rose substantially relative to UK
+unemployment (see Figure 4), which warranted a further appreciation. However, there is a
+need to adjust this effect in the light of what has happened to the relative prices of traded and
+non-traded goods in the two countries (possibly due to productivity differentials). Figure 5
+displays the fact that the relative German-UK PPI/CPI ratio has made new historical lows in
+the 1990s. Nevertheless, even allowing for superior German productivity growth over this
+period, the net effect of the changes in unemployment and productivity is sterling-supportive
+(by about 7%) over this period. Those who think in terms of a UIP model usually assume
+that a rise in German unemployment should only affect the exchange rate by affecting
+relative interest rates. It is, therefore, notable that in the more general framework considered
+here, the change in relative unemployment has a direct effect on the exchange rate over and
+above the indirect effect through relative interest rates. There are further modest positive
+contributions from lagged monetary effects (ie, the lagged effect of movements in yield
+spreads) and the average trend appreciation that is implied by our model estimates. Note that
+before German unification, our model estimates suggested that the DM appreciated vs
+sterling on trend, but by end-1995, the relevant coefficient suggest that this had been replaced
+by a tendency for sterling to appreciate vs the DM on trend. Over this period, although the
+UK’s net foreign asset position was improving relative to that of Germany (see Figure 6),
+there is still a negative effect on sterling because the level of German/UK net foreign assets is
+still high by historical standards. According to the equation, this should have knocked
+around 9% off sterling’s value.
+
+To conclude, around two-thirds of sterling’s appreciation from early 1996 to early 1998 can
+be “explained” in the context of our relatively simple medium-run model for sterling-mark.
+This is quite impressive as our model only relies on predictor variables, and does not include
+any contemporaneous, “news” effects. Note that of the remaining “unexplained“ effect,
+about 2.7% can be explained by the “monetary news” over this period. An important upward
+
+29
+
+Fig. 3
+Real Exchange Rate (£-DM) based on CPI
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+Jan-76
+
+Jan-80
+
+Jan-84
+
+Jan-88
+
+Jan-92
+
+Jan-96
+
+30
+
+Fig. 4
+Relative German-UK Unemployment
+Rate*
+
+Jan-95
+
+Nov-95
+
+* in logarithms
+
+Sep-96
+
+Jul-97
+
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+May-98
+
+Mar-99
+
+31
+
+Fig. 5
+Relative German-UK PPI/CPI Differential
+0.40
+0.35
+0.30
+
+UKPPICPIGER
+
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+Jan-74
+
+Jan-79
+
+Jan-84
+
+Jan-89
+
+Jan-94
+
+-0.05
+Jan-99
+
+32
+
+Fig. 6
+Relative German-UK Net Foreign Assets
+
+0.4
+
+(% of GDP)
+0.3
+0.2
+0.1
+0.0
+-0.1
+Jan-77
+
+Jan-81
+
+Jan-85
+
+Jan-89
+
+Jan-93
+
+Jan-97
+
+33
+pressure on the exchange rate is the fact that, over this period, German unemployment has
+risen relative to UK unemployment. In the theoretical framework considered above, one
+reason that this depresses the DM vs sterling is because the markets infer that Germany’s true
+current account position is less good than the observed measure, because a subsequent fall in
+unemployment is likely to worsen the external account. In addition, if the unemployment
+differential reflects “supply side” advantages, it might also affect the exchange rate because
+these same factors that make a country’s unemployment rate low might also make it more
+attractive to external investors, so, it might thereby attract more FDI flows. In the latter case,
+the unemployment differential may act as a proxy variable for unobserved (to the
+econometrician) supply-side advantages.
+
+I next move on to consider the intermediate-term model-based equilibrium exchange rate
+(ITMEER, hereafter) that is implied by our model, and investigate what might change it.
+
+34
+TABLE 5
+EXPLAINING THE 1996-98 RISE IN THE STERLING-DM EXCHANGE RATE
+
+VARIABLE
+
+FEB 1996 – FEB 1998*
+(%)
+
+Actual £-DM Exchange Rate
+
++27.6
+
+EXPLANATORY VARIABLES
+Real Exchange Rate (PPP)
+
++18.8
+
+Unemployment Differential adjusted for Productivity effect
+
++ 7.1
+
+Trend appreciation
+
++ 2.6
+
+Lagged “Monetary effects”
+
++ 0.3
+
+Equity Market effect
+
+- 0.7
+
+Net Foreign assets
+
+- 9.0
+
+TOTAL
+UNEXPLAINED RESIDUAL
+
+* Note that this refers to beginning-of-month values.
+
+18.8
+8.8
+
+35
+3.5 COMPUTING THE INTERMEDIATE-TERM, MODEL-BASED EQUILIBRIUM
+EXCHANGE RATE (ITMEER) UNDER ALTERNATIVE SCENARIOS
+Table 6A reports estimates of the ITMEER that are implied by our baseline exchange rate
+model under alternative scenarios.7
+
+Scenario I suggests that, using December 1998 values for the variables, the ITMEER for £DM was about 2.92. However, if the German economy were to recover faster than the UK
+economy, and the German unemployment rate were to fall by 1 percentage point more than in
+the UK, the equilibrium exchange rate falls to 2.81 (Scenario II).8
+
+Scenario III instead allows for the possibility that the UK’s current account position
+deteriorates relative to that in Germany, and is expected to do so for a 5-year period. This,
+though, is only worth around 5pf in terms of the ITMEER, which is reflective of the fact that
+the current account only appears to affect the ITMEER through the net foreign asset position,
+implying that the effect is rather glacial in pace.
+
+Scenario IV attempts to capture the link that many investors/commentators make between the
+US equity market and the US dollar. The conventional argument is that as long as the US
+equity market is healthy, foreigners are likely to be willing to finance the US current account
+deficit. This argument is consistent with the fact that there is a strong, contemporaneous
+correlation between the S&P500 and the US dollar, although it is not difficult to think of
+shocks to the system which could lead this correlation to break down. Also, we are more
+than aware of the fact that, especially in this case, correlation does not imply causality.
+Nevertheless, the notion that a general, above-average rise in equity markets leads to a
+decline in the degree of risk aversion, and, therefore, a greater willingness to hold assets of
+countries with current account deficits does appear intuitively attractive – recall that some
+
+7
+
+Recall that the ITMEER is obtained by solving from the implied equilibrium value from our 12-month ahead
+forecasting equation, that is cast in an error correction framework. Hence, the exchange rate will have a
+tendency to gradually converge to the ITMEER asymptotically. We, nevertheless, described it as an
+“intermediate-term” rather than “long-term” equilibrium because we have used the current values, rather than
+the steady-state values of the variables in the equation. Of course, when solving for the long-term equilibrium,
+it would be more appropriate to use the steady-state values.
+8
+I should emphasise that all the estimates reported in Table 6 are just partial equilibrium calculations based on
+our model. Of course, the general equilibrium consequences of some of these assumed scenarios could be quite
+different. However, our calculations are illustrative of how, other things being equal, a particular exogenous
+change would impact the ITMEER.
+
+36
+members of the academic economics fraternity (eg Fischer Black) did appeal to a wealth
+decline-induced increase in risk aversion to explain the October 1987 stock market crash.
+
+Normally, an increase in risk aversion is associated with investors bringing their money back
+home. Such behaviour can be expected to disproportionately affect countries with current
+account deficits.
+
+Alternatively, a more straightforward ‘story’ for the link between the S&P500 and the dollar
+or pound is that some market participants believe in the ‘new paradigm’, and also
+simultaneously believe that some of the Anglo-Saxon economies (the US, and to some extent,
+the UK) are ahead of the continental European economies in benefiting from the ‘new era’
+(with the difference in unemployment performance being adduced as evidence).
+
+Anyhow, we attempted to calibrate the size of this effect by including the contemporaneous,
+average change in the UK and German equity markets in our £-DM model. The estimate in
+Table 6A reports the effect of the two stock markets being 30% lower than they were in
+December 1998. I suspect that the estimated size of the impact (around 10pf – taking the
+ITMEER from 2.92 to 2.82) is rather smaller than would actually materialise – certainly, our
+regression coefficient appears to be rising steadily over time, and it is, therefore, entirely
+possible that I have underestimated the likely effect.
+
+Many economists have been puzzled by, both, the high level of the US equity market and the
+level of sterling vs the DM. On the above evidence, it is possible that the two could fall
+together (eg if market participants were less enchanted with ‘new era’thinking). Of course
+if the fall in Wall Street that accompanied a fall in sterling were significant, the Monetary
+Policy Committee would not necessarily respond to the fall in the exchange rate by increasing
+interest rates – as my colleague, Mervyn King, has emphasised on many occasions, we do not
+respond mechanically to a change in the exchange rate, but, instead, attempt to understand
+why it moved.
+
+If all three scenarios were to materialise together (lower German unemployment, a higher UK
+current account deficit and lower global stock markets), the ITMEER falls to 2.66, which is
+in territory that UK businesses would find comfortable vis-à-vis EMU entry.
+
+37
+TABLE 6A
+ESTIMATES OF ITMEER FOR £-DM UNDER ALTERNATIVE SCENARIOS
+USING THE BASELINE MODEL
+
+SCENARIO
+
+ESTIMATE
+
+I – All variables set to actual December 1998 values
+
+2.92
+
+II – The German unemployment rate falls (by 1%) relative to UK
+unemployment
+
+2.81
+
+III – UK Current Account Deficit rises by 2% relative to the German surplus
+for 5 years (relative to Scenario I)
+
+2.87
+
+IV – Average equity returns are lower than in December 1998 (relative to
+Scenario I)
+
+2.82
+
+V – Scenarios II, III and IV occur together
+
+2.66
+
+38
+The above results are based on a model where the effects of the current account are relatively
+weak. However, I have already alluded to some experiments that were conducted with a
+model that also included future values of the current account balance, which were statistically
+significant. Table 6A had suggested that a 2% current account deficit in the UK had to be
+expected to last for 5 years before it reduced the ITMEER by around 5pf. Table 6B suggests
+that one might achieve a fall of 6pf with a deficit that lasts only a year, so a much larger
+response, when one uses an alternative model based on the future current account deficit.
+
+Another alternative model that was estimated allowed for the possibility that the current
+account deficit matters more when the US stocks market is falling. On the assumption that
+the UK’s current account deficit rises by 4% of GDP and the S&P500 falls by 20%,
+the model suggests a decline in the ITMEER from 2.85 to 2.62 – this is rather consistent with
+one’s casual impression (eg following the Russian crisis of 1998) that the markets can punish
+countries with current account deficits quite suddenly if there is a rise in risk aversion.
+
+Note, in passing, that the three alternative models generate a baseline value of the ITMEER
+ranging between 2.85 and 3.01, so our estimates are quite sensitive to model specification.
+
+The simulations in Tables 6A and 6B are based on December 1998 values. Updating the
+calculation of the ITMEER to use current (ie 1September 1999) values of the variables yield,
+an estimated value of DM2.99, which is modestly higher than the December 1998 estimated
+of DM2.92. The ITMEER has edged up during 1999 primarily because the 2 year – 1 year
+yield spread has widened more in the UK than in Germany, and the fact that UK equities
+have outperformed those in Germany.
+
+A potentially significant aspect of our results is that despite the fact that we have explicitly
+allowed for mean reversion towards the PPP value of around DM2.60, other factors in our
+model (especially the unemployment rate differential) suggest a rather higher equilibrium
+value around DM3.00 currently. Since this is clearly higher than the MPC’s collective
+projection of a decline to DM2.75, this potentially has implications for the MPC’s modal
+inflation projection. Therefore, one needs to critically assess whether or not one should put
+any weight on these estimates of the ITMEER.
+
+39
+TABLE 6B
+
+EFFECT OF CHANGES IN THE CURRENT ACCOUNT BALANCE ON THE £-DM
+EXCHANGE RATE USING ALTERNATIVE MODELS
+
+SCENARIO
+
+ESTIMATE
+
+ALTERNATIVE MODEL I
+A – All variables set to actual December 1998 values
+
+3.01
+
+B – UK Current Account Deficit rises by 2% (of
+GDP) relative to the German surplus for 1 year
+
+2.95
+
+ALTERNATIVE MODEL II
+C – All variables set to actual December 1998 values
+
+2.85
+
+D – UK Current Account deficit rises by 4% (of
+GDP) relative to Germany AND the S&P500
+falls by 20%
+
+2.62
+
+40
+3.6 ITMEER VS ALTERNATIVE EQUILIBRIUM CONCEPTS
+
+If one is trying to forecast the exchange rate because it affects the inflation forecast, it is, at
+first sight, more attractive to use the ITMEER, rather than a FEER (or a PPP value), because,
+the former has done rather better in terms of explaining the post-1995 rise and persistence of
+sterling. Recall that FEER estimates are based on assumed current account targets, and are,
+ultimately, a normative concept in that they say what the exchange rate should be – there is
+no attempt, within that framework, to cross-validate the estimates with what the exchange
+rate has actually done. FEER estimates are also, self-avowedly, ‘medium-term’equilibrium
+estimates, where the ‘medium-term’ is defined to be 5 or 10 years (see, eg Wren-Lewis and
+Driver (1998)), which is well beyond the relevant horizon for our inflation forecast.
+
+On the other hand, there is little doubt that an exchange rate of DM3, if sustained indefinitely,
+would inflict considerable pain on the UK’s manufacturing industry. For example, in his
+evidence to the House of Lords Select Committee on the MPC, Sir Brian Moffatt, Chairman
+of British Steel, said that:
+
+“When currency was weaker at around DM2.50 we were the lowest cost producer in the
+world. Nowadays, I cannot sell a tonne of steel in an export market and make a profit.”
+(Q 1302)
+In their evidence, the BCC also provided examples of how an overvalued level of sterling had
+hurt employment.
+
+The National Farmers’Union describes the current situation as “the worst farming crisis
+since the 1930s” (see, The Financial Times, 1 September), and the NFU does blame their
+current plight, in part, on the strength of sterling.
+
+It is, though, worth mentioning that not everyone who testified to the Select Committee
+agreed that sterling needed to full back to the DM2.5-2.6 area. For example, the LSE’s Lord
+Professor Desai said (see House of Lords (1999)):
+
+“ … .. it is genuinely true that the British economy now has higher growth potential and more
+flexible labour markets than it used to have and therefore to some extent the exchange rate
+should reflect that higher real strength of the British economy … ..” (p 269)
+
+41
+and, elsewhere
+“ … .. I expect the Sterling/Euro rate to be higher than what many people wish or expect it to
+be. In old fashioned terms, it will be more like DM2.7/2.8 than DM2.5. … .. There is a shift
+to services and … .. the UK enjoys a healthy surplus on the balance of trade in services.”
+(p 268)
+It is nevertheless clear to me that the estimate of ITMEER should not necessarily be regarded
+as a level that is either socially desirable, or as one that would be obviously sustainable in any
+potential currency union. Nevertheless, using the ITMEER rather than a FEER or a PPP
+value might just give us better 2-year ahead inflation forecasts.
+
+It is, though, obviously important to understand why the ITMEER and FEER estimates are so
+different. One reason is that, in our model, while the current account deficit does affect the
+exchange rate, there is no requirement that, at some stage, the deficit be reduced to some preordained “sustainable” level.
+
+In a world where current account flows are dwarfed by capital flows, downgrading the
+importance of the current account may well be the right thing to do, especially given how
+little impact the largely persistent current account deficits of the last two decades in the US
+and Australia appear to have had on their currencies. On the other hand, the recent
+East Asian currency crisis should warn us against an overly complacent view of the
+sustainability of current account deficits – these deficits appear not to matter until, well, they
+suddenly do! The possibility that the financial markets might suddenly mark sterling down
+on account of a growing trade deficit if, say, the US stock market were falling significantly at
+the same time was captured in one of the models that were discussed earlier and we saw that,
+on that scenario, the ITMEER could fall to around DM2.6 – however, that scenario required a
+large fall in the US stock market and a much larger increase in the UK’s current account
+deficit than anyone is projecting.
+
+A second reason for the large difference between the ITMEER and the FEER estimates is that
+the former is affected by the difference in the raw unemployment rate in the two countries,
+while the latter is influenced only by the differences in the estimated cyclical level of
+unemployment (ie the unemployment rate is compared to its estimated natural rate in each
+country). We tested the alternative formulation of comparing cyclical unemployment rate
+differences instead of the gap between the raw unemployment rates. However, for all the
+
+42
+five bilateral rates where the difference in unemployment exerts an impact on the exchange
+rate, the raw difference was preferred over the cyclical difference. Given that most estimates
+of the so-called “NAIRU” appear to move up and down with lagged levels of the actual
+unemployment rate, one can see as to why the markets are suspicious of conventional
+measures of unemployment. On the other hand, the presumption that the entire difference
+between unemployment in the UK and Germany (relative to its long-term historical average)
+is reversible does also seem to be a somewhat extreme assumption – though it appears to be,
+implicitly, what the markets are currently assuming. Of course, if some of the post-1995 rise
+in the German-UK unemployment differential were a case of the relative NAIRU having also
+risen, then, our estimate of ITMEER could be significantly overstated.
+
+The discussion above suggests that while it is important that central bankers understand what
+it is that makes market prices move, we must simultaneously guard against the danger of
+assuming that the markets have always got it right – indeed, if they have got it wrong, we
+need to be aware of the risk that they might suddenly change their mind.
+
+In the Lionel Robbins Memorial Lectures at the LSE, the former Vice-Chairman of the Board
+of Governors of the US Federal Reserve Board, Alan Blinder (1998) said:
+
+“ … .. financial markets seem extremely susceptible to fads and speculative bubbles which
+sometimes stray far from fundamentals. Central bankers must innoculate themselves against
+whimsy and keep their eye on the fundamentals … .. traders in financial markets … .. often
+behave as if they have ludicrously short time horizons, whereas maintaining a long time
+horizon is the essence of proper central banking.” (p 61)
+and again,
+
+“Following the markets too closely … .. may lead the central banks to inherit precisely the
+short time horizon that central bank independence is meant to prevent. There is no more
+reason for central bankers to take their marching orders from bond traders than to take their
+orders from politicians.” (p 76)
+In thinking about the fickleness of markets, recall that today is the seventh anniversary of
+Black/White/Golden Wednesday, when the markets decided that a £-DM central rate of 2.95
+was too high, but yet, we are, today, above that level despite the fact that British prices have
+risen faster than German prices over the subsequent period.
+
+43
+Also, one must not get too influenced by any particular econometric result relating to the FX
+market. Recall that, in the early-to-mid eighties, it was fashionable amongst academics to
+argue that the econometric evidence did not support any mean reversion towards PPP – this
+was just before the post-1985 fall in the US dollar, which was a rather convincing example of
+reversion to PPP!
+
+Although there is considerable merit in what Alan Blinder says, one still needs to, somehow,
+come up with a modal projection for the exchange rate. In that regard, Table 7 presents a
+comparison of the out-of-sample forecasting performance of the models for sterling that was
+previously discussed (with the additional requirement that we dropped all variables with
+Newey-West t-ratios below 2), with the random walk and UIP alternatives. The MSE
+ranking is that the model-based forecasts appear to do the best (followed by RW and UIP in
+that order), with the MSE associated with the model being less than half that associated with
+UIP for £-DM or £-$. However, some caveats are in order:
+
+(a) The model-based forecasts deteriorate significantly relative to their in-sample
+performance – conventional Chow tests would point to a rejection over the out-ofsample period. Indicative of the problem, in the £-DM model, the R 2 falls from 0.70 up
+to 1995, to 0.37 over the 1996-98 period.
+
+(b) The model-based forecasts are exceptionally sensitive to modest changes in equation
+specification – eg if, instead of only including variables that have Newey-West adjusted
+t-statistics greater than 2, we also retained variables where such t-ratios were greater than
+1, the forecast performance deteriorated very significantly.
+
+(c) The estimates in Table 7 are contaminated by a subtle form of look-ahead bias, in that,
+having lived through developments in the foreign exchange markets over the 1996-1998
+period, one cannot but help pick variables that the markets were then focussing on to
+specify a model up to 1995.
+
+Notwithstanding these problems, and the more general difficulties associated with the rather
+hard to forecast exchange rate, the above evidence does suggest that approaches other than
+UIP possibly deserve our attention.
+
+44
+In concluding this section, I cannot resist noting the obvious fact that the more optimistic that
+the MPC is about the level of sterling’s equilibrium exchange rate, then, other things being
+equal, the lower that the interest rate will be, and, consequently, the lower that sterling will
+actually be. Hence, those who desire sterling to be lower must actually want the MPC to
+believe that sterling’s equilibrium exchange rate will remain high!
+
+45
+TABLE 7
+
+COMPARING THE PERFORMANCE OF THE UIP, RW AND MODEL-BASED
+FORECASTS, 1996- 99
+
+BILATERAL RATE
+
+MSE OF FORECAST
+(X 10-2)
+UIP
+
+RW
+
+MODEL
+
+£-DM
+
+2.33
+
+1.73
+
+1.04
+
+£-$
+
+0.23
+
+0.20
+
+0.10
+
+£-Yen
+
+3.45
+
+2.25
+
+2.09
+
+Model-based forecasts based on assuming that the coefficients estimated up to 1995:12
+remain unchanged over the out-of-sample period.
+
+46
+4 CONCLUSIONS
+I have, this evening, attempted to look at the difficulties associated with producing our
+exchange rate forecast – a critical input into our views about the outturn for inflation.
+
+I first reviewed our current convention of using UIP, and compared it to the naïve convention
+of assuming a constant exchange rate. The bulk of the econometric evidence presented here,
+consistent with much of the academic literature, is that RW outperforms UIP, and, indeed,
+that, perhaps, having a bias that the high-interest currency would appreciate (not depreciate as
+per UIP, or remain constant, as per RW) might do even better than RW. However, the
+empirical evidence was not wholly clear-cut. Also, although some progress had been made
+in the area of economic theory to explain the empirical findings, more work was clearly
+needed. However, one’s overriding feeling about the UIP vs RW debate was that neither
+model fared particularly well in forecasting exchange rates, and it was therefore important to
+consider alternatives.
+
+We then saw that conventional valuation measures like PPP, or the so-called FEER, would,
+like UIP, imply a lower value for sterling. Next, I proposed and estimated an alternative
+econometric model for exchange rates, which potentially encompassed PPP and FEER as a
+special case. This model could explain a significant fraction of the rise in sterling vs the DM
+during 1996-97, a period during which the rise in the UK interest rates vs those in Germany
+could only explain a rather modest fraction of the rise (which led many to conclude that
+sterling’s rise was puzzling). On the conventional UIP framework, variables like
+unemployment only affect exchange rates if they also affect interest differentials. In the
+framework presented above, variables like unemployment have a direct affect on the
+equilibrium exchange rate over and above any indirect affect through the interest differential,
+which helps resolve the “puzzle” that, sometimes, exchange rates move without any
+associated move in the interest differential.
+
+Further, a recent estimate of the intermediate-term equilibrium exchange rate was only a little
+below current levels ( around DM3 vs current levels of around DM3.04) and, therefore, there
+is a risk that sterling might not depreciate as much as those who believe in PPP or FEER
+might think. It was, though, noted that market perceptions of the fundamentals could, on
+occasion, be wrong, or at least prone to change quite suddenly. Also, although the model
+
+47
+appeared to have done moderately well recently (and had somewhat outperformed the naïve
+RW alternative), it was important to not overemphasise the precise econometric estimates, as
+they were rather fragile.
+
+I also noted that the MPC’s view on the likely path of the exchange rate can have counterintuitive effects, ie if the MPC expect it to be weak, it might stay strong and vice versa.
+Therefore, it was important for the MPC to continue to examine alternatives to the current
+UIP convention (used by the majority), especially as some of the alternatives (eg RW, or the
+models considered here) imply that sterling might stay rather stronger than the UIP
+convention assumes.
+
+I also argued, though, that although the model currently implied that sterling might remain
+strong, one could envisage circumstances (eg a steep fall in Wall Street) that would,
+according to the model, bring sterling tumbling down. This was because in a period of
+investor risk aversion that would follow a fall of the S&P500, investors would be less willing
+to finance current account deficits.
+
+In this context, I have previously argued (see Wadhwani (1999)), that there are, currently,
+above-average risks associated with owning US equities. However, if sterling fell
+significantly in association with a large fall on Wall Street, the net impact of these two
+opposing forces is unlikely to be inflationary.
+
+It is also important to emphasise that this lecture has not, in any way, attempted to “justify”
+the current level of sterling as being normatively “appropriate”. There is no doubt in my
+mind that the current level of sterling inflicts very considerable pain on may sectors of the
+UK economy. Normative measures of “fair value” like FEERs do, therefore, suggest a rather
+lower level for sterling. However, the MPC has an inflation target, not an exchange rate
+target. It must set interest rates on the basis of what it expects the exchange rate to do, and
+not on where it thinks the exchange rate should be.
+
+I hope that this lecture has shed some light on the complexities associated with forming our
+best collective judgment about the likely path of the exchange rate. There are some difficult
+decisions to make along the way, as there is so much that is puzzling about the foreign
+exchange market. It is, therefore, hardly surprising that we do not always agree about the
+
+48
+best way to forecast exchange rates – one also observes significant heterogeneity of views
+among foreign exchange market participants. It is extremely difficult to have any significant
+degree of confidence in an exchange rate forecast. I am sure that the markets will continue
+to challenge us and we will need all our collective skill, and perhaps an above-average dose
+of luck, to get this right.
+
+49
+APPENDIX 1
+
+A TESTING THE UIP HYPOTHESIS BY ESTIMATING EQUATION (1) USING
+OLS
+We estimated equation (1) from, where possible, 1976 onwards for sterling vs the other G5
+currencies, and also for the G3 bilaterals, as a point of reference. Table A1.1 reports our
+estimates of β , and the associated test-statistic to assess whether β is significantly different
+from 1, for the 12-month ahead horizon.
+Note that all seven of the estimates of β are actually negative, with several of them being
+statistically significantly different from +1 at conventional levels (using Newey-West
+standard errors). The results vis-a-vis the Yen are particularly striking.
+
+In the light of some recent interesting work by Harrison and Salmon (1999), it is possible that
+we can obtain potentially superior estimates (in small samples) of our standard errors by
+using a maximum likelihood estimation technique, rather than computing Newey-West
+corrected standard errors. Hence, it might be that our estimates of the t-tests in Table A1.1
+can be improved by further work.
+However, we remain impressed by how all our estimates of β (which are consistently
+estimated here) are negative, rather than +1. Moreover, when we repeat these regressions for
+the 2-year ahead horizon (k = 24), all seven estimates of β are still negative. Note though,
+that, in some cases, the R2 of these regressions is very low (almost indistinguishable from
+zero), though it is impressively high for some of the regressions involving the yen.
+
+B INSTRUMENTAL VARIABLE ESTIMATES OF EQUATION (1)
+
+Given the potential endogeneity of the interest differential, we re-estimated equation (1)
+using an instrumental variables technique instead. The set of instrumental variables
+considered included the 2 year - 1 year yield spread differential a year ago (since it should be
+correlated with the market’s forecast of the interest differential today, if the expectations
+theory of the term structure is valid), lagged interest differential terms (one and two years
+
+50
+ago), the inflation differential, and the difference between the dividend yield in the two
+countries.
+We present, both, the OLS and IV estimates of β in Table A1.2.
+
+Notice that, in six of the seven cases, the IV estimates are closer to +1 than the OLS estimates
+($-Yen is the only exception). However, five of the seven IV estimates are still negative, and
+the other two are also below 1.
+C TESTING FOR THE UNANTICIPATED EFFECT OF “MONETARY NEWS” ON
+EXCHANGE RATES
+One approach used by the Bank of England to measure the effect of unanticipated changes in
+relative interest rates on the exchange rate is to derive “monetary news” from a UIP-based
+decompostion (see Brigden, Martin and Salmon (1997)).
+
+Table A1.3 displays the results of estimating regressions of the following form:
+
+(
+
+)
+
+∆ st + 3 = α + β it* − it + γ ”monetary news” + ν t + 3 … (A1.1)
+
+In particular, the estimates of γ (with the associated t-statistics) and the R 2 are displayed.
+Theoretical considerations suggest that γ should be equal to 1.
+In general, the results presented in Table A1.3 are quite encouraging. The coefficient, γ , is
+typically positive and statistically significant, suggesting that, on average, “monetary news”
+does have the theoretically expected effect. The R 2 suggests that between 10%-50% of the
+exchange rate movements over this period could be explained by “monetary news”, with the
+£-$ rate being most susceptible to such analysis, and £-DM least.
+
+Although these results are consistent with an implication of the UIP hypothesis, they would
+also be consistent with alternative hypotheses, eg the “carry trade” view, where unanticipated
+changes in relative interest rates would also have a similar effect on exchange rates.
+
+51
+TABLE A1.1
+TESTING UIP (OLS ESTIMATES)
+
+CURRENCY PAIR
+
+COEFFICIENT
+
+t-test for
+
+β
+
+β =1
+
+R2
+
+SAMPLE PERIOD
+
+£-DM
+
+-0.02
+
+1.8x10-5
+
+-1.73
+
+76:1-98:12
+
+£-$
+
+-0.70
+
+0.021
+
+-2.36
+
+76:1-98:12
+
+£-Ffr
+
+-0.05
+
+3x10-4
+
+-3.28
+
+78:10-98:12
+
+£-Yen
+
+-4.06
+
+0.224
+
+-5.56
+
+78:9-98:12
+
+$-DM
+
+-0.32
+
+0.005
+
+-2.28
+
+76:1-98:12
+
+$-Yen
+
+-2.87
+
+0.258
+
+-6.67
+
+78:9-98:12
+
+DM-Yen
+
+-1.19
+
+0.025
+
+-1.59
+
+78:9-98:12
+
+Notes
+1
+
+OLS estimates of equation (1),
+
+(
+
+)
+
+∆ st + k = α + β it* − it + ν t + k … (1)
+
+using monthly data, with k = 12.
+
+2 The t-test is computed on the basis of Newey-West standard errors.
+
+52
+TABLE A1.2
+
+TESTING UIP – OLS & IV ESTIMATES COMPARED
+
+CURRENCY PAIR
+
+OLS COEFFICIENT
+
+IV COEFFICIENT
+
+£-DM
+
+-0.02
+
+0.44
+
+£-$
+
+-0.70
+
+-0.68
+
+£-Ffr
+
+-0.05
+
+0.79
+
+£-Yen
+
+-4.06
+
+-3.26
+
+$-DM
+
+-0.32
+
+-0.30
+
+$-Yen
+
+-2.87
+
+-3.43
+
+DM-Yen
+
+-1.19
+
+-0.02
+
+53
+TABLE A1.3
+
+TESTING FOR THE EFFECT OF “MONETARY NEWS” ON EXCHANGE RATES
+
+CURRENCY
+
+COEFFICIENT
+
+PAIR
+
+OF “MONETARY
+
+t1 STATISTIC
+
+R2
+
+SAMPLE
+PERIOD
+
+NEWS”
+£-DM
+
+0.79
+
+1.73
+
+0.108
+
+1992:2 - 1999:7
+
+£-$
+
+1.41
+
+5.75
+
+0.524
+
+1990:12 - 1999:7
+
+£-Ffr
+
+1.22
+
+3.75
+
+0.335
+
+1991:4 - 1999:7
+
+£-Yen
+
+1.38
+
+2.32
+
+0.189
+
+1992:9 - 1999:7
+
+$-DM
+
+1.43
+
+5.65
+
+0.353
+
+1992:2 - 1999:7
+
+$-Yen
+
+0.93
+
+3.34
+
+0.149
+
+1992:9 - 1999:7
+
+DM-Yen
+
+0.82
+
+2.23
+
+0.108
+
+1992:9 - 1999:7
+
+1 Is based on Newey-West standard errors
+
+54
+APPENDIX 2
+
+RETURN TO “CARRY” TRADES
+
+Table A2.1 show the mean returns associated with a dynamic trading strategy which
+compares the interest rate in the US with that in the foreign country, and one is always long
+the bond of the high-interest country, and short that of the low-interest country.
+
+Note that the mean return for the three sample of countries is positive in 26 out of 28 cases,
+and the associated Sharpe ratio is, often highly statistically significant.
+
+55
+TABLE A2.1
+CURRENCY TRADING STRATEGIES
+
+RETURNS FROM DYNAMIC STRATEGIES
+MEAN
+
+STANDARD
+
+SHARPE RATIO
+
+WALD
+
+DEVIATION
+Switzerland
+
+1.93
+
+12.32
+
+0.16
+
+[0.36]
+
+Hong Kong
+
+0.79
+
+1.43
+
+0.56
+
+[0.00]
+
+Singapore
+
+0.07
+
+4.92
+
+0.01
+
+[0.93]
+
+Japan
+
+2.82
+
+11.31
+
+0.25
+
+[0.16]
+
+Belgium
+
+7.58
+
+10.63
+
+0.71
+
+[0.00]
+
+Austria
+
+2.99
+
+10.80
+
+0.28
+
+[0.10]
+
+Denmark
+
+9.72
+
+10.29
+
+0.85
+
+[0.00]
+
+Canada
+
+1.96
+
+4.27
+
+0.46
+
+[0.01]
+
+France
+
+6.38
+
+10.29
+
+0.62
+
+[0.00]
+
+Germany
+
+1.64
+
+10.81
+
+0.15
+
+[0.37]
+
+Netherlands
+
+2.83
+
+10.72
+
+0.26
+
+[0.12]
+
+Italy
+
+3.42
+
+10.33
+
+0.33
+
+[0.96]
+
+UK
+
+6.92
+
+10.53
+
+0.66
+
+[0.00]
+
+Australia
+
+5.74
+
+7.20
+
+0.80
+
+[0.07]
+
+Sweden
+
+4.62
+
+9.55
+
+0.48
+
+[0.01]
+
+Spain
+
+5.43
+
+10.59
+
+0.51
+
+[0.00]
+
+Portugal
+
+5.36
+
+10.54
+
+0.51
+
+[0.00]
+
+Poland
+
+8.07
+
+6.77
+
+1.19
+
+[0.00]
+
+Greece
+
+6.27
+
+9.62
+
+0.65
+
+[0.11]
+
+Czech Republic
+
+5.50
+
+8.62
+
+0.64
+
+[0.03]
+
+Malaysia
+
+1.17
+
+8.40
+
+0.14
+
+[0.48]
+
+Argentina
+
+7.01
+
+2.16
+
+3.24
+
+[0.00]
+
+Venezuela
+
+-5.36
+
+24.70
+
+-0.22
+
+[0.44]
+
+Thailand
+
+2.36
+
+15.07
+
+0.16
+
+[0.62]
+
+Mexico
+
+4.60
+
+25.20
+
+0.18
+
+[0.68]
+
+Turkey
+
+12.79
+
+4.25
+
+3.01
+
+[0.00]
+
+0.67
+
+11.12
+
+0.06
+
+[0.86]
+
+-4.88
+
+9.01
+
+-0.54
+
+[0.02]
+
+Philippines
+India
+
+The table presents summary statistics from trading strategies. The Returns from Dynamic Strategies are the (uncovered)
+returns for a US investor borrowing in the low interest currency and lending in the high interest currency for a one-month
+horizon. Means and standard deviations are annualised by multiplying the variables by 12 x 100 and 12 x 100,
+respectively. The Sharpe Ratio is the annualised mean divided by the annualised standard deviation of the excess returns.
+The Wald statistics refer to tests of the hypothesis of zero Sharpe Ratio, where p-values are given within parentheses. The
+period covered is from the inclusion date of each currency to 1998.
+Source: Bansal and Dahlquist (1999)
+
+56
+APPENDIX 3
+PROXYING FOR THE RISK PREMIUM
+
+The starting-point of our analysis is a modified version of the UIP condition, i.e.
+
+(
+
+)
+
+Et st + k − st = α + β it* − it + ρ t + k … (A3.1)
+
+where ρ t + k is a risk premium.
+We have noted before that attempts to be use theoretical models for ρ t + k have not been
+successful. This is why we prefer to use “latent variables” approach to proxy for the risk
+premium. We use two classes of proxies.
+
+First, note that we may convert (A3.1) into a relationship in real terms by subtracting the
+expected inflation differential from the exchange rate and the interest differential. Then, by
+rearrangement, we have
+
+(
+
+)
+
+qt = Et qt + k − β rt* − rt − α − ρ t + k
+
+(A3.2)
+
+where qt is the real exchange rate, and rt , rt* are ex ante real interest rates. Note from
+(A3.2) that, other things being equal, a higher risk premium, ρ t + k , depresses the current real
+exchange rate, qt . Now, to make our argument in a transparent fashion, we assume that
+−
+
+Et qt +
+
+k
+
+−
+
+can be replaced by qt where qt is an estimate of the equilibrium exchange rate. (For
+
+? sufficiently large, it would, in any case, be plausible that the long-run fundamentals provide
+an anchor for Et qt + k ). Therefore, it is clear from (A3.2) that the deviation of the current real
+−
+
+exchange rate from an estimate of its equilibrium value, qt − qt , will be correlated with the
+risk premium, ρ t + k , and might therefore, be used as a proxy variable for the unobservable.
+ρ t+ k .
+
+57
+This is analogous to the literature on stock returns, where measures of the deviation of the
+current price from “fundamental value” like the dividend yield are used to predict stock
+returns because they act as a proxy variable for unobservable risk premia (see, e.g. Fama and
+French (1988b)).
+
+A second way of attempting to proxy for the risk premium is to use the latent variable model
+of Hansen and Hodrick (1983). Following closely the application of this model in Bekaert
+and Hodrick (1992), specifically, assume that there are J risks in the world economy that are
+priced, and that the expected rates of returns on all assets depend linearly on these risk factors
+with constant betas. In this case, each rate of return in the world economy would have the
+following representation:
+
+(
+
+) ∑
+
+Et rti+ 1 − rt +f 1 =
+
+J
+
+j=1
+
+(
+
+β ij rt +j 1 − rt +f 1
+
+)
+
+(A3.3)
+
+where rti+ 1 is the return on asset i, the rt +j 1 are the rates of return on portfolios that are
+perfectly correlated with the sources of risks, and rt +f 1 is the risk-free rate. If θ is the (NXM)
+matrix of reduced form coefficients from regressions of N excess returns on M explanatory
+variables, the J-dimensional latent variable model is the restriction that the rank of θ is J.
+
+To take an example, if one had three asset returns, and a single latent variable model, then,
+we would require that
+r1,t + 1 = α t Z t + ε 1,t + 1
+
+r2,t + 1 = β 1α t Z t + ε 2,t + 1
+
+r3,t + 1 = β 2α t Z t + ε 3,t + 1
+
+(A3.4)
+
+i.e. the single latent variable model constrains the explanatory power of the predictor
+variables, Z t , to be proportional across the three excess returns.
+
+58
+The main implication of the latent variable model for our analysis is that we would expect the
+unobservable risk premium ρ t + k , to also depend on the predictor variables, Z t which also
+help to predict returns in other asset markets (e.g. stock and bond markets).
+
+Hence, to summarise, we shall write the modified UIP condition as
+
+(
+
+)
+
+−
+
+
+Et st + k − st = α + β it* − it + F  qt − qt , Zt  (A3.5)
+
+
+
+where we have replaced the risk premium with a function of the deviation of the current real
+−
+
+exchange rate, qt , from its “equilibrium” value, qt and a set of variables that help predict
+returns in other asset markets, Z t .
+
+59
+APPENDIX 4
+
+THE DETERMINANTS OF THE EQUILIBRIUM EXCHANGE RATE, q .
+
+A tractable, partial equilibrium method to compute FEERs is to (see, e.g. Wren-Lewis and
+Driver (1998)):
+
+(i)
+
+Calculate the “trend current account” position, i.e. use the estimated export/import
+equations to compute what exports/imports would be if output moved to its trend
+level, i.e. the level consistent with full employment.
+
+(ii)
+
+Compute the real exchange rate that would be necessary to ensure that the trend
+current account is equal to the assumption relating to structural capital flows.
+
+If, for simplicity, we allow the structural capital flows to be proportional to the net foreign
+asset position of the country, the above considerations suggest that:
+−
+
+qt = F ( CADt ,UNEDt , NFADt )
+
+(A 4.1)
+
+where CADt = Difference in current account position,
+UNEDt = Difference in unemployment rates
+and
+
+NFADt = Difference in the Net Foreign Asset position
+
+Note that we have implicitly assumed that the full employment level is unchanging in relative
+terms (otherwise, we should include the unemployment rate relative to an estimate of the
+natural rate in each country). Also, to aid comparability, CA and NFA are expressed as a
+ratio of nominal GDP.
+
+We note one more rather standard modification that is relevant – on the assumption that the
+PPP-like tendency towards international price equalisation is confined to internationally
+traded goods, then, if we measure the real exchange rate using a broadly defined price index
+comprising both traded and non-traded goods, we would expect a systematic tendency
+
+60
+towards appreciation of the currency with relatively higher productivity advances in the
+traded goods sector. (see Balassa (1964)). We might attempt to capture this effect by adding
+the relative ratio of the domestic wholesale price index (WPI) to the consumer price index
+(CPI) as a proxy for the relative price of traded to non-traded goods prices to equation (A4.1)
+above.
+
+61
+APPENDIX 5
+
+ECONOMETRIC ESTIMATES OF OUR EXCHANGE RATE MODEL
+
+Combining equations, (2), (3) and (4), we finally estimated
+∆ ln st + 12 = δ0 + δ1 ln qt + δ2CADt + δ3 ln UNEDt + δ4 NFADt + δ5 ln RWPCPt + δ6 ln DYDt + δ7 RELEQt
++ δ8 (Rel. Yield Spread)t + δ9 ∆ 12 (Rel. Yield Spread)t + δ10 (Infl. Diff.)t + δ11 ( i* − i )t + ν t + 12
+(A5.1)
+
+where, in addition to the variables that were previously defined,
+
+DYDt = Divided yield differential
+RELEQt = Relative equity returns
+
+Recall that st is the foreign currency price of a unit of home currency, qt is the CPI-based
+real exchange rate, and the convention adopted with the RHS variables is that the differences
+are of the form (XFOREIGN –XHOME).
+
+We estimated equation (A5.1) using OLS (with Newey-West standard errors to deal with the
+MA errors induced by using overlapping data) over the period 1982-1995 (using monthly
+data, 1996-98 was retained as an out-of-sample period). Table A5.1 reports our estimates for
+the following six bilateral exchange rates: £-DM, £-$, £-Yen, $-DM, $-Yen and DM-Yen
+respectively. Note that our reported estimates reflect simplified versions of equation (A5.1),
+based on a standard general-to-simple modelling strategy.
+
+62
+TABLE A5.1
+
+ESTIMATES OF THE EXCHANGE RATE MODEL FOR UK BILATERAL RATES
+
+VARIABLES
+
+£-DM
+
+£-$
+
+£-YEN
+
+qt (Real Exchange
+
+-0.859
+
+-0.871
+
+-1.327
+
+Rate)
+
+(-11.99)
+
+(-9.86)
+
+(-10.09)
+
+-1.033
+
+-0.304
+
+(-5.85)
+
+(-1.88)
+
+0.336
+
+0.091
+
+0.247
+
+(5.28)
+
+(1.58)
+
+(3.39)
+
+Real Exchange rate –
+
+-
+
+3 year MA
+Unemployment rate
+
+Net Foreign Assets
+
+-0.412
+
+-
+
+-
+
+(-2.51)
+Relative (WPI/CPI)
+
+1.977
+
+ratio
+
+(6.78)
+
+Dividend Yield
+
+Equity Returns
+
+Yield Spread
+
+-
+
+2.893
+(9.88)
+
+-
+
+-0.554
+
+-0.262
+
+(-4.49)
+
+(-3.74)
+
+-0.245
+
+-0.494
+
+-0.121
+
+(-6.36)
+
+(-6.91)
+
+(-2.12)
+
+-4.786
+
+-
+
+-
+
+(-3.21)
+∆ 12 Yield Spread
+
+(i
+
+*
+
+− i
+
+)
+
+-1.935
+
+-2.826
+
+-1.700
+
+(-3.16)
+
+(-2.76)
+
+(-1.35)
+
+0.748
+
+-2.29
+
+-0.209
+
+(-3.26)
+
+(-0.37)
+
+(1.33)
+-4
+
+German Unification
+
+5.4 X 10
+
+-
+
+-
+
+Dummy
+
+(0.32)
+
+SAMPLE PERIOD
+
+1982:1 – 1995:12
+
+1982:1 – 1995:12
+
+1984:1 – 1995:12
+
+R2
+
+0.700
+
+0.722
+
+0.805
+
+63
+NOTES TO TABLE A5.1
+
+1
+
+All regressions include a constant term.
+
+2
+
+t-ratios based on Newey West standard errors are reported in parentheses.
+
+3
+
+Yield spread term in £-DM is the (2 year – 1 year) yield differential.
+
+Yield spread term in the £-$ equation is the (10 year – 2 year) yield spread, while the ∆ 12
+yield spread term refers to the 2 year – 1 year spread.
+The ∆ 12 yield spread term in the £-yen equation reflects the 2 year – 1 year spread.
+
+4 The equation for £-yen includes the inflation differential which attracts a coefficient of
+2.119 with a t-ratio of 2.89.
+
+64
+TABLE A5.2 ESTIMATES FOR OTHER BILATERAL RATES
+
+VARIABLES
+
+$-DM
+
+$-YEN
+
+DM-YEN
+
+qt (Real Exchange
+
+-0.919
+
+-0.738
+
+-1.556
+
+Rate)
+
+(-5.72)
+
+(-8.60)
+
+(-20.83)
+
+Real Exchange rate –
+
+-
+
+3 year MA
+Unemployment rate
+
+Net Foreign Assets
+
+-1.466
+
+-
+
+(-9.95)
+-
+
+-
+
+0.148
+
+0.427
+
+(1.36)
+
+(5.59)
+
+-3.09
+
+-
+
+(-9.83)
+Current Account
+
+-
+
+-
+
+-1.985
+(-11.17)
+
+Relative (WPI/CPI)
+
+-
+
+-
+
+ratio
+
+1.422
+(6.59)
+
+Dividend Yield
+
+Equity Returns
+
+-
+
+-
+
+-0.439
+
+0.113
+
+(-12.54)
+
+(4.03)
+
+-0.193
+
+-
+
+(-4.09)
+Yield Spread
+
+∆ 12 Yield Spread
+
+(i
+
+*
+
+− i
+
+)
+
+-13.09
+
+-4.505
+
+-
+
+(-6.36)
+
+(2.78)
+
+-2.17
+
+2.957
+
+3.34
+
+(-1.73)
+
+(3.60)
+
+(3.43)
+
+-6.783
+
+1.572
+
+-1.280
+
+(-4.33)
+
+(1.70)
+
+(-1.70)
+
+German Unification
+
+-1.25 X 10-3
+
+Dummy
+
+(0.50)
+
+SAMPLE PERIOD
+
+1981:2 - 1995:12
+
+1984:3 – 1995:12
+
+1984:1 – 1995:12
+
+R2
+
+0.533
+
+0.812
+
+0.850
+
+-
+
+5.13 x 10-3
+(4.10)
+
+65
+NOTES TO TABLE A5.2
+
+1
+
+See Notes to Table A5.1.
+
+2
+
+Yield spread term in the $-DM model is the 10 year – 2 year spread.
+
+The ∆ 12 yield spread term is the 2 year – 1 year yield spread.
+In the $-Yen model, the yield spread term is the 2 year – 1 year spread, while ∆ 12 yield spread
+is the 10 year – 2 year yield spread. The equation also contains an extra term (the relative
+change in 2 year yields).
+In the DM-Yen equation the ∆ 12 yield spread term refers to the 2 year – 1 year spread.
+
+66
+BIBLIOGRAPHY
+
+Balassa, B (1964) “The Purchasing-Power Parity Doctrine: A Reappraisal”, Journal of
+Political Economy Vol 72, pp 584-596.
+Bansal, R and M Dahlquist (1999), “The Forward Premium Puzzle: Different Tales from
+Developed and Emerging Economies”, CEPR Discussion Paper No 2169.
+Bekaert, G and R J Hodrick (1992) “Characterizing Predictable Components in Excess
+Returns on Equity and Foreign Exchange Markets”, Journal of Finance, Vol XLVII, No 2,
+June, pp 467-509.
+Blinder, Alan (1998) “Central Banking in Theory and Practice”, The MIT Press, Cambridge,
+Mass.
+Brigden A, Martin and C K Salmon (1997) “Decomposing exchange rate movements using
+the uncovered interest parity condition”, Bank of England Quarterly Bulletin, November.
+Church, Keith B (1999) “Properties of the Fundamental Equilibrium Exchange Rate in the
+Treasury Model”, National Institute Economic Review, July, pp 96-104.
+Clark, Peter B and Ronald MacDonald (1998) “Exchange Rates and Economic
+Fundamentals: A Methodological Comparison of BEERs and FEERs”, IMF WP/98/67.
+Deutsche Bundesbank (1995) “Overall determinants of the trends in the real external value of
+the Deutsche Mark”, Deutsche Bundesbank Monthly Report, August, pp 17-37.
+Eichenbaum, M and C Evans (1995), “Some Empirical Evidence on the Effects of Monetary
+Policy Shocks on Exchange Rates”, Quarterly Journal of Economics, 110, pp 975-1009.
+Fama E and K R French (1988a) “Permanent and Temporary Components of Stock Prices”,
+Journal of Political Economy Vol 96, No 2, April, pp 246-273.
+Fama, E and K R French (1988b) “Dividend Yields and Expected Stock Returns”, Journal of
+Financial Economics, Vol 22, No 1, pp 3-26.
+Fisher P G, S K Tanna, D S Turner, K F Wallis and J P Whitley (1990) “Econometric
+Evaluation of the Exchange Rate in Models of the UK Economy”, The Economic Journal,
+Vol 100, December, pp 1230-1244.
+Flood, Robert P and Andrew K Rose (1994) “Fixes: Of the Forward Discount Puzzle”,
+NBER Working Paper No 4928.
+Froot, K A and R H Thaler (1990) “Anomalies: Foreign Exchange”, Journal of Economic
+Perspectives, Vol 4, No 3, Summer, pp 179-192.
+Goodhart, C A E (1988) “The Foreign Exchange Market: A Random Walk with a Dragging
+Anchor”, Economica, Vol.55, pp 437-60.
+
+67
+Grossman, Sanford J (1995) “Dynamic Asset Allocation and the Informational Efficiency of
+Markets”, The Journal of Finance, Vol L, No 3, July, pp 773-787.
+Hansen, L P and R J Hodrick (1983) “Risk averse speculation in the forward foreign
+exchange market: An econometric analysis of linear models” in Jacob A Frenkel, ed:
+Exchange Rates and International Macroeconomics, University of Chicago Press, Chicago,
+IL.
+Harrison, R and C Salmon (1999) “Forecasting the Exchange Rate”, Bank of England.
+House of Lords (1999) Select Committee on the Monetary Policy Committee of the Bank of
+England, HL Paper 96-I.
+Isard, P (1995) “Exchange rate economics”, Cambridge University Press, Cambridge.
+Keim, D B and R F Stambaugh (1986) “Predicting returns in the stock and bond markets”,
+Journal of Financial Economics Vol 17, pp 357-390.
+Lewis, Karen K (1994) “Puzzles in International Financial Markets”. NBER Working Paper
+No 4951.
+MacDonald, R (1998) “What Do We Really Know About Real Exchange Rates?”, University
+of Strathclyde, Mimeo.
+Meese, Richard A and Kenneth Rogoff (1983) “Empirical Exchange Rate Models of the
+Seventies: Do They Fit Out of Sample?”, Journal of International Economics, Vol 14, pp 324.
+McCallum, B T (1994) “A reconsideration of the uncovered interest parity relationship”,
+Journal of Monetary Economics, Vol 33, pp 105-132.
+Meredith, G and M D Chinn (1998) “Long-Horizon Uncovered Interest Parity”, NBER
+Working Paper No 6797.
+Monetary Policy Committee (1999) “The transmission mechanism of monetary policy”, Bank
+of England.
+Mullins, Mark and Sushil Wadhwani (1989) “The effects of inflation and interest rates on
+stock returns: evidence from three centuries of UK data”, LSE FMG Discussion paper
+No 72.
+Rogoff, K (1996) “The Purchasing Power Parity Puzzle”, Journal of Economic Literature,
+Vol 34, pp 647-668.
+Wadhwani, Sushil B (1987) “Are Exchange Rates ‘Excessively’Volatile?”, Journal of
+International Economics.
+Wadhwani, Sushil B (1979) “The US Stock Market and the Global Economic Crisis”,
+National Institute Economic Review, No 167, January, pp 86-105.
+
+68
+Williamson, John (1983) “The Exchange Rate System”, Policy Analyses in International
+Economics, 5, Washington: Institute of International Economics.
+Wren-Lewis, Simon and Rebecca L Driver (1998) “Real Exchange Rates for the Year 2000”
+Institute for International Economics, Washington DC.
+
+

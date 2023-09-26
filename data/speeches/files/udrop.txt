@@ -1,0 +1,927 @@
+UDROP – A Contribution to the New International Financial
+Architecture * **
+Speech given by
+Willem H. Buiter, Member Monetary Policy Committee and Professor of International
+Macroeconomics, University of Cambridge, CEP, NBER and CEPR
+
+Anne C. Sibert
+Professor of Economics, Birkbeck College, University of London and CEPR
+
+At the Royal Institute of International Affairs in London
+22 October 1998
+Revised 10 May 1999
+
+*8 Willem H. Buiter and Anne C. Sibert 1998, 1999.
+**The opinions expressed are those of the authors only. They do not necessarily represent those of
+the Bank of England or of the other members of its Monetary Policy Committee. We would like to
+thank two anonymous referees, as well as Richard Brealey, Barry Eichengreen, Maxwell Fry, Mervyn
+King and Ian Plenderleith for helpful comments on an earlier version of this article. The paper was
+presented at a Seminar at De Nederlandsche Bank on March 5, 1999. We would like the organiser,
+Age Bakker (of the Nederlandsche Bank), our discussant, Han de Jong (of ABN Amro Bank), and the
+other seminar participants for helpful comments. Special thanks are due to Bert van Selm
+(Netherlands Ministry of Finance) and to Wim Boonstra (Rabobank), who provided detailed and
+constructive suggestions for enhancing UDROP.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Abstract
+The purpose of the UDROP proposal is to prevent debt rollover crises for foreign-currencydenominated debt instruments. For such liabilities, there is no international analogue to the
+domestic lender of last resort or to domestic deposit insurance. UDROP stands for Universal
+Debt Rollover Option with a Penalty. Our proposal is that all foreign currency liabilities should
+have a rollover option attached to them. The ‘pure’ version of the option would entitle the
+borrower to extend or roll over his performing debt at maturity for a specified period. The
+pricing of the option would be left to the contracting parties. A number of variants on the basic
+version are also considered. These make the individual borrower=s ability to exercise his option
+contingent on the prior declaration of a state of ‘disorderly markets’, by the national central
+bank, the International Monetary Fund or an indicator of ‘disorderly markets’. All versions
+of the scheme have the property that no commitment of public money is required, either by
+national governments or by international agencies such as the IMF or the World Bank.
+UDROP also ensures that all creditors, private and public, are automatically ‘bailed in’.
+The UDROP proposal is rule based and general: it is mandatory for all foreign-currency debt
+and automatic. That is, it is exercised at the discretion of the borrower. This stands in sharp
+contrast to the current practice of discretionary and politicised refinancing arrangements cobbled
+together in an ad-hoc manner on a case-by-case basis by the IMF – an approach continued
+in the recent scheme for contingent ‘contagion’ credit lines (Contingent Credit Lines) proposed
+by the Fund. UDROP is market-oriented: the terms and conditions on any foreign-currency
+loan and associated rollover option would be negotiated by the lenders and borrowers. It is
+immune to the ‘dynamic hedging critique’, according to which a borrower could undo the effect
+of the mandatory rollover insurance by subsequent trading in contingent claims. This is because
+all foreign currency liabilities, including contingent liabilities, would be required to carry a
+rollover option. In the case of contingent liabilities, the amount of rollover insurance required
+would be the magnitude of the foreign currency liability that arises when the contingency defining
+the contingent claim materializes.
+
+JEL Classification Numbers: F31, F32, F33, F34, G13.
+Key Words: Liquidity crisis, disorderly markets, foreign debt rollover option, contingent
+credit line, dynamic hedging.
+Authors:
+Willem H. Buiter
+Bank of England, Threadneedle Street, London EC2R 8AH, UK
+Tel. 44-171-6014071
+E-mail: willem.buiter@bankofengland.co.uk
+or
+Faculty of Economics and Politics, University of Cambridge
+Sidgwick Avenue, Cambridge CB3 9DD, UK
+Tel. 44-1223-335210
+E-mail: willem.buiter@econ.cam.ac.uk
+Anne C. Sibert
+Department of Economics, Birkbeck College, University of London
+7-15 Gresse Street, London W1P 2LL, UK
+Tel. 44-171-6316420
+E-mail: asibert@econ.bbk.ac.uk
+
+1
+
+I. Liquidity Crises: the Problem
+Sometimes a solvent borrower with illiquid assets and short-term liabilities faces a
+liquidity crisis.1 Consider a bank whose liabilities are convertible on demand into cash and
+whose assets consist of old-fashioned, non-securitised loans. These loans are all as safe as Fort
+Knox or the Bank of England, but they have long remaining maturities. As long as most
+depositors believe that there will not be a run on the bank, there is no reason for any depositor
+to cash in his deposit and the bank is safe. If, however, a belief arises that enough depositors
+may withdraw their deposits at short notice, each depositor has an incentive to convert his
+deposit into cash. In a first-come, first-served environment, where cashable claims exceed the
+cash in the till, a bank run is the only individually rational response. The bank will fail.
+The bank run represents a co-ordination failure. The ‘run’ equilibrium is Paretodominated by the ‘don’t run’ equilibrium. The reason is that bank failures, like any default,
+involve more than a lump-sum redistribution of ownership rights. Real resources are destroyed
+in the process of financial restructuring. Default is therefore socially and well as privately costly.
+Unnecessary defaults should be avoided. This is one reason we have, at the national level, a
+number of second-best institutional arrangements aimed at preventing a bank run. These
+include, a lender of last resort (the central bank), deposit insurance (ultimately underwritten by
+the ministry of finance), and unscheduled bank holidays. In the case of a wide-spread systemic
+panic, only the resources of the state2 are adequate to convince lenders that a run is not
+
+1 The classic paper on bank runs is Diamond and Dybvig [1983]. See also Diamond [1984]
+and Dybvig [1992]. For international models of self-fulfilling debt crises see Cole and Kehoe
+[1996] and Krugman [1997].
+2 We are viewing the central bank as the monetary agent of the state. Whatever the formal
+independent status of the central bank in monetary policy matters, the central bank is the
+monetary agent of the state, inextricably linked to the rest of the state apparatus through the
+ability of the general government (through the ministry of finance) to tax the central bank.
+1
+
+privately rational. The unique position of the state reflects its monopoly of the use of legitimate
+force and compulsion, expressed through the power to tax and declare certain of its bearer
+liabilities to be legal tender. This power to issue domestic legal tender means that the state,
+uniquely, has the means to support and bail out any borrower whose liabilities are denominated
+in domestic currency.3
+A country with a fixed exchange rate can face the same problem as a bank if its financial
+sector has a large short-term foreign-currency debt that is not hedged with comparable shortterm foreign-currency assets.4 Imagine an emerging market commercial bank that has
+borrowed hard currency abroad and made domestic-currency loans. This foreign-currency
+borrower is solvent and if the short-term debt can be rolled over, it will be serviced in full. But,
+if its foreign creditors are seized by one of the occasional waves of panic that have swept the
+international financial system for centuries, the debt rollover will not take place or only on terms
+little related to the underlying creditworthiness of the borrower. Faced with an urgent need for
+foreign exchange to repay the maturing short-term debt, the borrower will turn to the central
+bank. If the value of the maturing debt exceeds the available foreign exchange reserves of the
+
+3 The state could, of course, grant the right to issue legal tender to other, private agencies. If
+the bearer liabilities of these private agencies had to be accepted as legal tender at par, the
+private agencies in question become de facto state agencies. If their bearer liabilities have to
+be accepted in final settlement of debt, but only on terms to be determined by the market,
+this ‘privatisation’ of legal tender property would be without significance.
+4 For recent reminders see International Monetary Fund [1998], especially Section II, AThe
+Crisis in Emerging Markets@ and Section III, ATurbulence in Mature Financial Markets@ and
+Goldstein [1998]. Interesting theoretical models of international contagion and crisis include
+Caballero and Krishnamurthy [1998], Corsetti, Pesenti and Roubini [1998a], Chang and
+Velasco [1998a,b], Chan-Lau and Chen [1998], Huang and Xu [1998], Loisel and Martin
+[1999]. Empirical studies of the most recent crises include Dornbusch, Goldfajn and Valdes
+[1995], Sachs, Tornell and Velasco [1996], Glick and Rose [1998], Kaminsky and Reinhart
+[1998], Corsetti, Pesenti and Roubini [1998b] and Eichengreen and Rose [1998]. The role of
+liquidity is highlighted in Goldfajn and Valdes [1997] and in Demirguç-Kunt and Detragiache
+[1997].
+2
+
+central bank, a foreign exchange crisis results.5 The local currency plunges, creating an
+imbalance between foreign-currency liabilities and domestic-currency assets that can wipe out
+domestic banks’ capital. Bank failures may occur and if the government is among the
+borrowers, it too can default. The crisis spreads to the country=s commercial and industrial
+borrowers. Foreign lenders must write off their loans. If the scale of the problem is large
+enough, a global financial crisis can ensue. As with the domestic bank run, an international
+liquidity crisis results in unnecessary, socially costly defaults.
+Of course, foreign exchange crises can occur without foreign-currency-denominated
+external loans. Suppose a country has a fixed exchange rate and domestic banks have only
+home-currency liabilities. If international capital flows are unrestricted, domestic residents can
+decide to swap their liquid domestic financial assets into foreign exchange. The central bank is
+stripped of its foreign exchange reserves and must devalue its currency or let it float. However,
+there are two differences between this and the previous scenario. First, there is no default on
+external debt and, second, there is no mismatch between foreign-currency liabilities and
+domestic-currency assets in resident banks’ balance sheets. This precludes the defaults and
+bankruptcies otherwise associated with a currency collapse.
+Under a floating exchange rate regime, future exchange rates are always uncertain.
+Sensible and risk averse foreign-currency borrowers take precautions to lower the chances of
+finding themselves with too large a net short foreign exchange position. However, any open
+position can turn against a market participant. If the exposure is sufficiently large, this can result
+in bankruptcy. Supervision and regulation should ensure that the private and social costs and
+returns to foreign-currency investments are closely matched.
+Although banking crises can occur with floating exchange rates, fixed exchange rate
+
+5 Including access to borrowed foreign exchange reserves.
+
+3
+
+regimes may foster a moral hazard problem. In Asia, those who acquired short-term foreign
+exchange loans assumed that the central bank would underwrite the exchange risk by
+maintaining the pegged exchange rate.
+In principle, central banks can always fight off a speculative attack. All they must do
+is set overnight and other short-term interest rates high enough to achieve the necessary
+contraction of domestic credit. The requisite rates depend on the perceived commitment of the
+central bank, and without credibility they may be very high indeed. For example, a confidently
+expected 10 percent devaluation of the currency overnight, requires a 10 percent overnight
+interest rate differential (at a daily rate) to discourage speculators. The corresponding
+annualised rate causes an overflow on most small hand calculators. During the ERM crisis of
+1992 - 1993, the central banks of Sweden and Ireland were unable to stave off devaluation
+even though they set the rates charged by their central banks on overnight reserves at 500 and
+300 percent, respectively.6
+The political unpopularity of very high rates, and the real economic damage they do to
+borrowers affected by it, make a policy of defending a fixed exchange rate by interest rate
+increases ‘à l=outrance’ less than fully credible. While there exists an equilibrium where a
+credible peg is defended successfully with relatively low interest rates, the more likely outcome
+is an unsuccessful attempt to defend an incredible peg with very high rates. A few currency
+pegs, such as the currency boards of Argentina and Hong Kong, have survived. But, for most
+countries, a currency peg remains a high-risk strategy.
+Following the demise of the gold standard after World-War I and the Great Depression
+of the 1930s, both mainstream academic opinion and the political conventional wisdom have
+
+6 See Buiter, Corsetti and Pesenti [1998a,b].
+4
+
+accepted the primacy of the domestic stabilisation role of monetary policy. The notion that
+monetary policy could be devoted solely to the defence of an exchange rate peg became
+incredible. During the Bretton Woods era, capital controls were widespread and the
+vulnerability of currency pegs could be hidden or suppressed for a while. With the nearly
+unfettered financial capital mobility of today, currency pegs die much more swiftly and
+spectacularly.
+A foreign-currency version of deposit insurance is not feasible. Neither is an
+international lender of last resort. Domestic deposit insurance is ultimately underwritten by the
+central bank and the treasury and relies on the central bank’s ability to produce the necessary
+cash to pay off footloose depositors. The deposit insurer, like any lender of last resort, must
+have deep pockets. Faced with a foreign exchange crisis, a national central bank does not have
+and cannot to borrow the required foreign exchange. Only external entities with full coffers can
+hope to stop a bank run.
+To a small extent, the IMF, other international financial institutions, and the creditorcountry governments, have tried to be an international lender of last resort. They do this either
+with their own money or by pressuring private financial institutions into involuntary rollovers and
+other forms of involuntary credit extension.7 In the 14 months since the Asian crisis arose, three
+things have become apparent: first, the G-10s’ and multilaterals’ pockets are not deep enough;
+second, their ability or willingness to cajole unwilling creditors into involuntary rollovers is too
+limited; and third, the adverse selection and moral hazard problems inherent in any conceivable
+global deposit insurance or lender-of-last-resort arrangement are too severe. Conventional IMF
+lending, with conditionality and money available only in tranches is inappropriate for dealing with
+
+7 The truth is not served by the Orwellian practice of calling loans Avoluntary@
+
+rolled over after arm-twisting by multilateral agencies and G10 governments.
+5
+
+when they are
+
+a liquidity crisis. With neither ‘international deposit insurance’ nor an international lender of last
+resort feasible options, we turn to another entry on the ‘second-best’ menu: mandatory foreign
+debt rollover insurance.
+
+II.
+
+UDROP: a Proposal
+We propose a universal debt rollover option with a penalty (UDROP) to deal
+
+with liquidity crises. All foreign-currency IOUs must have a rollover option attached to it. This
+includes private and sovereign, long-term and short-term, marketable and non-marketable,
+negotiable and non-negotiable debt, including overdrafts, credit lines and contingent claims.8
+In the case of contingent claims, the rollover should be for the value of the liability realized when
+the contingencies that define the claim materialize. For sake of brevity, we will refer to all
+foreign currency obligations as >loans=. This option would entitle the borrower, at his sole
+discretion, to extend maturing debt for a specified period (say three or six months) at a penalty
+rate.9 The borrower would be entitled to the rollover only if the debt in question had been
+serviced in full, barring the final repayment. The UDROP would permit no further extensions
+after the initial rollover. For the scheme to work, the penalty must be large enough to ensure
+that the borrower would not exercise the rollover option under orderly market conditions. It
+might be specified as a hefty surcharge on top of the spread over LIBOR that the borrower
+
+8 It is important that the option be for both short and long-term foreign currency debt, because
+over time over time, long maturities have a habit of becoming short maturities. Only if all debt
+took the form of perpetuities (liabilities with infinite maturities) would rollover crises not occur.
+Most private financial instruments have finite maturities. Equity is an obvious exception. Very
+few governments have issued perpetuities. British government consols are an notable exception.
+9 Richard Brealey has pointed out to us that, as an implication of put-call parity, the short loan
+cum rollover option is equivalent to a longer loan with a pre-payment option. If the rollover is
+priced at a penalty rate, the prepayment would be priced at a discounted rate.
+6
+
+would normally pay for the currency in question. This ‘normal’ spread might be computed as
+a long-run moving average of the actual market spreads.
+We expect the penalty spread and other features of the rollover contract, to be
+negotiated between debtors and creditors, rather than decreed by a government or international
+body. While borrowers would be obliged to acquire and retain a rollover option for the full face
+value of the debt, the pricing of these options is up to market participants. One possible pricing
+structure might be an upfront commitment fee plus a rule for determining the ‘penalty spread’
+over the ‘normal spread’ on the loan extension if the rollover option is exercised.10
+The ambitions behind this proposal are modest. Default is costly.
+
+Unnecessary
+
+defaults should be avoided. Disorderly markets can cause foreign currency debt rollover crises
+that result in unnecessary defaults. Disorderly market conditions are unusual and short-lived.
+The rollover option allows foreign currency debtors to ride out the storm until orderly market
+conditions prevail again and new debt can be issued. UDROP ensures that, in times of crisis
+and disorderly markets, all creditors, private and public, are automatically ‘bailed in’. It will only
+be useful when otherwise solvent borrowers are unable to roll over their foreign-currency debt
+because of a liquidity crisis. It is meant solely to minimise the consequences of disorderly
+markets. This scheme is ineffective if a debtor (country) is insolvent. 11 In the case of Russia,
+for example, the government=s chronic inability to raise tax revenues commensurate with its
+spending ambitions, makes our option scheme irrelevant. A country that is able, but unwilling,
+to service its maturing debt would likewise not be reformed by this scheme. It would roll over
+its debt at the penalty rate and default at the end of the rollover period. Our proposal only helps
+
+10 This >rule= could of course be as simple as a fixed number.
+11 It is a drawback of the proposal that insolvent borrowers can postpone formal default by
+exercising the rollover option. See Sections III.1 and III.2.
+7
+
+when a country is solvent and willing to pay, but is prevented from doing so because
+international financial and credit markets have a temporary seizure. Korea would have benefited
+from this scheme. Brazil would be less stressed if its maturing debt had a rollover option
+attached to it.
+There is no risk that introducing UDROPs into loan agreements will cause additional
+crises. The contrary argument is that creditors, anticipating that the maturity of their credit is
+about to be extended, will scramble out of the market in anticipation of this possibility, where
+in the absence of the option they would have been prepared to stay in. However, creditors
+would only anticipate that the maturity of their credit is about to be extended through the
+exercise of UDROPs, if they anticipated a rollover crisis. If they anticipated a roll-over crisis,
+they would have as strong an incentive to bail out without a UDROP attached to their loan, as
+they would have with a UDROP.
+More to the point, creditors with UDROPs attached to their loans can only ‘bail out’
+before the loan matures, by selling the loan, inclusive of the UDROP. Some other would-be
+creditor would have to ‘bail in’. If they ‘bail out’ when the loan matures, by reducing their net
+foreign exposure (assuming that no UDROP is exercised on maturity), there is no liquidity crisis
+on maturity, and the decision to reduce the foreign exposure can be viewed as the appropriate
+response to the risk of being forced into future rollovers. UDROPs may (should) make
+creditors more wary about entering into foreign currency loans. They will not increase the
+incentive to ‘bail out’, once a loan (with UDROP) has been contracted.
+The UDROP proposal is only meant to address disorderly market conditions. Large
+sudden capital inflows or outflows can, even under orderly market conditions, create serious
+dislocations in the real economy. It does not help countries cope more effectively with
+
+8
+
+overvalued exchange rates and overheating economies, nor does it address the ultimate causes
+of these common problems.
+There are many grander proposals for improving the international financial system.
+These include proposals for restraining capital flows, either with ‘Tobin taxes’ or ‘Chilean-style’
+administrative controls and descriptions of mechanisms to facilitate an ‘orderly workout’ of
+sovereign debt defaults.12 Our scheme is compatible with these proposals, but its effectiveness
+does not depend on their success.
+Under the ‘pure’ version of the scheme, no third party determines whether the
+conditions for exercising the option have been satisfied. No central bank or national supervisory
+or regulatory agency nor the International Monetary Fund or any other international financial
+institution is called upon to judge whether economic and market conditions warrant the
+exercising of the option. The exercise of the option is at the sole discretion of the borrower.
+This is attractive because a ‘liquidity crisis’ is not always verifiable.
+In Section III.1 we consider variations on the UDROP proposal where the option
+cannot be exercised without the prior declaration of a state of disorderly markets by either the
+relevant central bank, the IMF, or a mechanical ‘disorderly markets trigger’. These versions
+of the scheme retain the attractive property that no commitment of public money is required,
+either by national governments or by international agencies.
+
+III. UDROP Close Up
+In this Section we consider some of the characteristics of the UDROP proposal of
+
+12 See Dornbusch [1998] and Fischer et. al. [1998] for a discussion of the former type of plan
+and Eichengreen and Portes [1995], Sachs [1995, 1996], Kenen [1996], Eichengreen [1998]
+and Litan [1998] for descriptions of the latter. Eaton [1987, 1989] analyses the welfare costs of
+capital flight in a second-best world.
+9
+
+Section II in greater detail.
+III.1 Why does the rollover option apply only to foreign-currency liabilities?
+There is no lender of last resort for domestic borrowers with foreign-currency liabilities.
+Our proposal is aimed at filling this gap. For domestic-currency-denominated liabilities, the
+national central bank is a domestic lender of last resort. It can always print any amount of
+domestic currency to accommodate a sudden surge in demand.13 In the absence of an
+international lender of last resort with an unlimited capacity for creating foreign currency, the
+same does not apply to foreign-currency-denominated liabilities.14
+It may be the case that requiring UDROPs for domestic currency-denominated liabilities
+It is indeed the case that our proposal merely shifts potential liquidity problems from
+foreign currency borrowers to foreign currency lenders. That, however, is exactly what is
+required when the lenders have access to an effective lender of last resort and the borrowers
+do not. Lenders will, effectively if only implicitly, rely on their own central banks for liquidity
+support to cover such contingencies. These central banks will try to price this liquidity risk
+properly and thus, paraphrasing Bagehot’s dictum, lend freely in a crisis but at a penalty rate.
+While this will act as a tax on international lending, it should be viewed as a Pigovian, allocative
+efficiency-enhancing tax.
+Applying UDROP only to foreign-currency liabilities creates an additional asymmetry
+
+13 The logic of our proposal therefore implies that no UDROP would be attached to
+instruments like the Mexican tesobonos, treasury bills that were foreign currency indexed
+rather than foreign currency denominated. Since interest and principal were payable in
+Mexican pesos, and since the Central Bank of Mexico can be an effective lender of last
+resort for borrowers caught in a rollover crisis involving peso-denominated financial claims.
+14 There is of course nothing to stop lenders and borrowers in domestic currency from
+creating their own, voluntary debt rollover options (VDROPs).
+10
+
+between debtors who differ in the currency in which their debt is denominated.15 Imagine, for
+example, a bank which has made two loans to domestic residents, one denominated in the
+domestic currency and one denominated in a foreign currency. If either borrower defaults, the
+creditor can appeal to the domestic courts and may be able to attach some of the debtor=s
+assets. However, the invocation of default procedures following nonpayment of the loan is
+immediate in the case of the domestic-currency borrower. In the case of the foreign-currency
+borrower with UDROP attached, the default procedures are postponed for the duration of the
+period for which UDROP permits the debt to be rolled over. This need not create a problem,
+however. Market pricing of the UDROP option will ensure that lenders are indifferent between
+the two types of loans.
+UDROP is not without drawbacks as it may worsen adverse-selection problems in
+credit markets. An adverse-selection problem may occur when lenders are unable to distinguish
+between borrowers with different characteristics. For example, some borrowers may be more
+likely to become insolvent in orderly markets than others and this may not be observable to
+lenders. If the invocation of the UDROP proposal is at the discretion of borrowers then it can
+be invoked by insolvent borrowers in orderly markets and well as by fundamentally sound
+borrowers in disorderly markets. This makes foreign-currency loans with UDROP more
+attractive to the relatively risky borrowers. If the lenders try to charge a risk premium in the
+form of a higher penalty rate, then UDROP would become less attractive to the safer borrowers
+and more attractive to the risky ones. There may be no penalty rate at which lenders want to
+satisfy foreign-currency loan demand. Adverse selection typically leads to inefficiency.16
+
+15 This was emphasised out by Bert van Selm during the March 5, 1999 seminar at the
+Nederlandsche Bank where the UDROP proposal was discussed.
+16 UDROP may also cause moral-hazard problems. Once the option is invoked, borrowers
+may have an incentive to engage in riskier behaviour than they otherwise would. However, this
+11
+
+In Section III.3 we consider mechanisms for minimising the risk of abuse of the option.
+Even when the exercise of the option is at the sole discretion of the borrower, we believe that
+the potential for abuse, while real, is unlikely to outweigh the benefits of the proposal. There are
+two reasons for this.
+First, the initiation of legal default proceedings against defaulters on foreign-currency
+liabilities is postponed for the duration of the rollover (we expect this to be between three and
+six months), rather than avoided permanently. Second, the lender and the borrower are free
+to negotiate any terms and conditions for the rollover package. In countries with reasonable
+debtor-creditor laws, the adverse selection problem may be mitigated with collateral
+requirements.
+
+Lenders can offer both UDROP contracts with high penalty rates and low
+
+collateral and UDROP contracts with lower penalty rates and high collateral. Then borrowers
+will sort themselves by type. Those who are likely to become insolvent in orderly markets
+prefer the former contract; those who are unlikely to be insolvent except in disorderly markets
+prefer the latter.
+III.2 Should the option be for one or for multiple rollovers?
+Our proposal is for a mandatory option for one fixed-term rollover only. One could,
+in principle, envisage a UDROP for a sequence of rollovers, each one at a higher penalty rate
+than the previous one. There are several reasons for not going this route. First, in the limit it
+would permit an insolvent borrower (or a borrower who is unwilling to meet the terms of the
+original debt contract), to engage in what effectively would be Ponzi finance, without the creditor
+being able to invoke the sanctions of formal default and bankruptcy.17 Second, rollover crises
+
+does not obviously lead to inefficiency. See Besley [1994] and Aizenman [1998] for discussions
+of adverse-selection and moral-hazard problems in loan markets.
+17 Consider a sequence of one-period maturity loans. In a Ponzi scheme, the borrower each
+12
+
+tend to be intense but short-lived. A three or six month extension to the original loan should
+enable the dust to settle.
+III.3 Should a party other than the borrower pull the trigger?
+In its pure form our proposal envisages calls for the rollover option to be exercised at
+the sole discretion of the borrower.18 Wim Boonstra has argued that a possible solution to
+adverse-selection problems associated with UDROP is to alter the way the option is
+triggered.19 The idea is to find a mechanism so that UDROP is exercised only in ‘disorderly
+market conditions’ rather than in ‘normal’ times.
+Boonstra=s first proposal involves giving national central banks the power to decide
+when a liquidity crisis has occurred. The UDROPs can be exercised only after a crunch has
+been officially declared. We do not believe the central bank should rule on individual cases.
+The pressure on the central bank to act hastily would preclude the bank from being able to
+gather sufficient information to do so. It would also create a serious threat of corruption and
+would encourage wasteful rent-seeking by interested parties.
+Even if the central bank remained virtuous and disinterested, its competence in this area
+can be questioned. In many countries, the central bank is close to being a pure ‘monetary
+authority’ with very limited supervisory and regulatory functions. Even when it has significant
+supervisory and regulatory functions, it is unlikely to have the information necessary to make the
+
+period borrows an amount at least equal to last period=s principal plus interest due.
+18 The ‘European’ option format, according to which an option can be exercised only at a
+specific date (in our case the expiration date of the original loan contract) seems slightly simpler
+than the ‘American’ option format, under which the option can be exercised any time before or
+at a specific date, but no issue of principle is involved.
+19 At the March 5, 1999 seminar at the Nederlandsche Bank and in subsequent
+correspondence.
+13
+
+>illiquid= vs. >insolvent= call with any degree of accuracy. There is also no reason to believe that
+the most exposed foreign-currency debtors will be central-bank-regulated financial
+intermediaries. Indeed they may not be classified as financial intermediaries at all.
+The allure of the UDROP proposal is that it does not require any intrusive vetting of
+would-be rollover candidates by some third party. Restricting the role of the central banks to
+that of determining a state of national disorderly markets might not compromise the strengths of
+UDROP too much. Granting the national central banks the power to authorize the exercise of
+UDROPs by all borrowers in their jurisdiction would be a natural extension of the lender of last
+resort function of the central bank. Note, however, that among the foreign currency debtors
+who might wish to invoke the rollover option could be a national government or indeed a central
+bank itself. The potential for abuse of UDROP by the insolvent would therefore not be
+completely eliminated.
+In another version of UDROP, the power to make a determination of disorderly
+markets (either at the national level or at a wider regional or global level) would rest with the
+IMF rather than with central banks. However, one of the strengths of the pure UDROP
+proposal is that it keeps politically mandated international bureaucrats out of the debt rollover
+game. Our proposal is rule-based, market-oriented and general. This is at the opposite end
+of the spectrum from IMF operations, which tend to be discretionary, intensely political and
+case-by-case. Inevitably, a decision on whether to declare a condition of national disorderly
+market would be tied up with how happy the IMF felt with a country=s general compliance with
+IMF standards of good behaviour. The experience of the last two decades raises doubts about
+whether the Fund possesses the expertise, the clout or the political independence to be an
+
+14
+
+effective arbiter.20 The only role for the IMF that would preserve the key strenghts of UDROP
+would be for the Fund to be granted the authority to authorize the exercise of UDROPs globally,
+by declaring a state of ‘global disorderly markets’.
+A final restriction on the pure debtor-initiated trigger mechanism, also proposed by
+Boonstra, would be to base the determination of a condition of national disorderly markets on
+a mechanical rule, based on observable and ‘objective’ indicators, rather than on the judgement
+of a central bank or a multilateral agency. One definition of ‘disorderly markets’ might be a
+rapid and large increase in the spread on sovereign debt over the relevant benchmark. Another
+might be a sufficiently sudden and sizable loss of net foreign exchange reserves. It is essential
+for this alternative, that the relevant variables are well defined, that they can be measured swiftly
+and that their values are verifiable. Speed, automaticity, universality and absence of political
+interference must remain the hallmarks of the UDROP.
+III.4 Should the rollover option be mandatory or voluntary?
+The reason for making the rollover option mandatory is that rollover risk is not correctly
+priced in international financial markets. An important reason for this is adverse selection.
+Some might object that creditworthy borrowers, unlikely to face a rollover problem,
+should not be forced to pay for this irrelevant option. In our view, there is a crucial weakness
+in relying solely on market forces to produce voluntary rollover schemes (VDROPS) or
+analogous arrangements such as those discussed below.
+If borrowers differ in the likelihood that they would invoke the option in times of orderly
+markets, then safer borrowers might try to signal their type by asking for loans without the
+rollover option. Refusing the option would become necessary to be judged credit worthy. This
+
+20 For a more positive view of the IMF=s role and performance, see Fischer [1998]. Brealey
+[1999] contains a wide-ranging discussion of the strengths and weaknesses if IMF operations.
+15
+
+could limit or destroy the effectiveness of any voluntary, market-based scheme. This may be the
+key reason why the reason the markets have not produced any significant amount of VDROPs.
+The negative consequences of adverse selection can be mitigated by mandating. This is well
+known from other areas of insurance where adverse selection is a problem, such as health
+insurance. UDROP falls squarely in that tradition.
+There have already been some plans similar to what we propose. Argentina and
+Mexico have schemes where the country pays a commitment fee to foreign banks in return for
+the right to draw upon a foreign-currency facility over a specified time period. This is similar to
+a foreign-currency overdraft facility or credit line and is a (voluntary) option to borrow foreign
+currency.21 The Argentine central bank and a group of 14 international banks agreed upon a
+Contingent Repo Program. This gives the central bank the option to sell certain domestic assets
+for US dollars subject to a repurchase clause. In 1995, Mexico arranged a contingent-loan
+facility with a group of international banks. Indonesia arranged stand-by facilities three times
+during the period 1995-1997 and made drawings totaling $1.5 billion on two occasions.
+In a similar spirit, in May 1998 the Shadow Financial Regulatory Committee proposed
+that a haircut be imposed on foreign-currency creditors who refuse to roll over their loans to
+countries who have been granted IMF emergency lending.22 IMF emergency lending should
+
+21 From Eichengreen [1998], we quote the following information on these credit lines.
+Argentina agreed a contingent repurchase facility with 13 commercial banks, which provides for
+$ 7 billion in standby credits. Mexico has an arrangement with 31 commercial banks which
+provides for $ 2.5 billion in facilities. The Argentine Central Bank can swap Argentine
+Government securities for U.S. dollars up to the specified ceiling, at an effective interest rate of
+Libor plus 205 basis points. The commitment fee is 33 basis points. Loan length is two to five
+years, depending on the commercial bank involved. These agreements omit the no-adversematerial-change clause that would otherwise permit banks to back out of their agreement in the
+event of a crisis.
+22 See Litan [1998].
+16
+
+be made conditional on borrowing countries having a mechanism that imposes a financial penalty
+(the haircut) on creditors who refuse to roll over their credit. The haircut does not apply if the
+creditors roll over their loans at no higher rate of interest until the IMF loan is paid back. We
+view this proposal as inadequate for dealing with liquidity crises that often erupt with very little
+notice. If one had to wait until an IMF loan (presumably with an IMF program and associated
+conditionality attached) was agreed, the damage would already be done. The rollover
+mechanism has to be automatic. It should be activated at the discretion of the borrower, without
+any need for time-consuming interventions and assessments by international agencies or national
+central banks. The pure UDROP proposal satisfies these criteria. The UDROP with central
+bank determination of national disorderly market conditions comes close.
+The main problem with these voluntary rollover facilities or credit lines is that they are
+few and far between. Where they have been arranged, they have covered only a small fraction
+of the foreign-currency debt potentially subject to rollover problems. No doubt the adverse
+selection problem already referred to is one cause for the market=s under-provision of rollover
+insurance.
+It is easy to overstate the cost of our scheme to credit-worthy borrowers (and even to
+those who are both credit worthy and confident of never being caught in a rollover crunch).
+Creditworthy borrowers who are perceived as certain never to exercise the rollover option
+would not be hurt by the obligation to buy it. An option that will never be exercised has a price
+of zero. Of course, a borrower’s credit worthiness may be his private information, but as we
+mentioned before, if a country has sensible debtor-creditor laws and an efficient judicial system,
+collateral may be used to overcome the associated adverse-selection problem. If some
+countries= country’s legal systems are inefficient, we consider the costs due to adverse selection
+to be a price worth paying if the alternative is the unnecessary liquidity crunches that periodically
+17
+
+damage the world economy.
+The introduction of UDROPs is likely to discourage some intermediation and we believe
+this is a good thing. If there is considerable nervousness about the possibility of an international
+credit crunch, rollover options would be expensive. This would discourage inappropriate
+intermediation that might have occurred if market participants had not been forced to take a
+hard look at the risks.
+Most market participants are opposed to rule-bound universality of any kind, including
+our proposal that UDROPs be made universal. The US Secretary of the Treasury, Mr. Rudin,
+appears singularly reluctant to contemplate the relevant legislation. Against that, the UK
+Chancellor of the Exchequer and many of the continental European authorities favour rule-bound
+universality of some kind. Market opposition can partly be attributed to the belief held by
+virtually every player, that he will be able to outsmart the market as a whole and get his money
+out before a liquidity crunch bites. They cannot all be right. Second, despite the recent serious
+losses, many private participants have done rather well out of the current arrangements, as
+beneficiaries of large resource transfers from the global tax payer, intermediated through the
+international financial institutions and through bilateral or multilateral government support. There
+are legal and administrative costs associated with out proposal, and there may be an element
+of redistribution (from borrowers whose likelihood of invoking the rollover option is
+overestimated by the market to borrowers for whom it is underestimated). We believe these
+to be minor compared to the costs of liquidity crises. Politicians therefore should not pay so
+much heed to the objections of ‘the markets’. Every player speaks just for himself. No-one
+speaks for the system. Our proposal does.
+III.5 How can we put the U in UDROP?
+If it is indeed desirable that the rollover option be universal, how could it be made legally so?
+18
+
+The legal issue could be resolved at the national level if governments were to declare any
+foreign-currency debt contracts without a rollover option to be illegal, and non-enforceable. To
+encourage countries to impose such a legal clause, the IMF could refuse assistance to countries
+not requiring UDROP. Even better would be an agreement among all IMF members that
+foreign currency-debt contracts without the option would be unenforceable in any member’s
+courts. This would also help resolve a problem, discussed at greater length in Section III.5, that
+arises when borrowers, lenders and other market participants engage in dynamic hedging
+strategies, buying and selling rollover options and other contingent claims, in an attempt to
+escape the UDROP obligation.
+Derivative securities like UDROPs tend to be traded on over-the-counter markets,
+where reporting requirements are all but nonexistent. Neither do corporates with positions in
+these securities have to report their positions. The authorities are most unlikely to have the
+technical expertise to follow the money. By making all foreign currency liabilities (including
+contingent claims) non-enforceable unless they have a rollover option attached, the money will
+follow the authorities. Lenders will not lend without the rollover option.
+III.6 Could the rollover option be strippable?
+While under our proposal every foreign-currency loan would come with a rollover
+option, it might be efficient to allow the option to be stripped from the associated debt and to
+be traded separately. While borrowers would not be permitted to sell the right to roll over their
+debt, the obligation to provide the funds to finance the rollover could be traded by the creditor
+(either the original creditor or the party to whom the debt instrument has subsequently been
+sold).
+We believe it to be essential that the creditor at the moment the option is exercised, is
+also the party that has the obligation to roll over the debt. This would ensure that, as far as a
+19
+
+debtor caught in a rollover crisis is concerned, the funds to finance the rollover would indeed
+be there: the maturity of the existing debt would simply be extended. The creditors could,
+however, avail themselves of private rollover re-insurance. There is no compelling reason for
+insisting that lending and insurance be provided by the same financial intermediary, as long as
+it is clear that, should the counterparty in the re-insurance market fail, the obligation to roll over
+the debt stays with (or reverts to) the party who is the creditor at the moment the option is
+exercised. UDROP might be ineffective if borrowers had to chase down the purchaser of the
+option to receive an extension.
+Unbundling the loan and the rollover option has two interesting potential consequences.
+The first is that one has to deal with the ‘dynamic hedging critique’, according to which a
+borrower could undo the effect of the mandatory rollover insurance by subsequent trading in
+contingent claims. For instance, the borrower, while dutifully holding the rollover option on his
+debt (that is, holding a long position in rollovers bundled with his debt), could, if rollover options
+were created and traded separately, go short in the unbundled rollover option (buy the option
+back in the market or write an option himself), thus ending up with a zero or even a negative net
+rollover position.23 However, the UDROP proposal is designed to make it impossible for
+foreign currency borrowers to get rid of their right to roll over their foreign currency liabilities
+through any dynamic hedging strategy. Two features of the UDROP proposal ensure that a
+borrower cannot be forced into default either on his original loan or on any contingent liabilities
+acquired as part of a dynamic hedging strategy.
+
+23 Barry Eichengreen, who articulated this concern to us, noted that this argument is directly
+analogous to the ‘dynamic hedging critique’ of the idea that emerging markets can insure themselves
+against crises by prenegotiating commercial credit lines. Dynamic hedging refers to an investment
+strategy where hedges are adjusted over time. For instance, currency risk can be hedged by taking
+a short position in the currency of the security. If this short position changes over time, the hedging
+strategy is dynamic.
+20
+
+The first is that the rollover option is specific (an obligation by the creditor to roll over,
+at a specific date, a given amount of foreign currency debt issued by a specific, named
+borrower) and has seniority or priority over other obligations incurred by the borrower. This
+ensures that the borrower cannot be forced into default on his original loan.
+The second reason is that if the borrower were to buy back in the market, the obligation
+to roll over the loan, he would incur an additional (contingent) foreign currency liability. The
+UDROP proposal applies to all foreign currency obligations, including contingent foreign
+currency obligations such as the rollover option. The borrower would therefore have to obtain
+a ‘second tier’ UDROP for the ‘first tier’ UDROP he just acquired. Clearly, if the amount of
+‘second tier’ rollover insurance the borrower had to purchase were limited to the value of the
+‘first tier’ option, he would still not be able to meet his obligation if the original, ‘first tier’
+UDROP he bought back in the market, were to be exercised. The borrower would default on
+the ‘first tier’ option rather than on the original loan. Our proposal is therefore that the amount
+of rollover insurance required for a contingent claim would be the total exposure in the event the
+contingent claim is exercised. This would prevent default on the ‘first tier’ option bought back
+by the borrower, as well as on the original loan. Under our proposal therefore, the borrower
+who buys back the UDROP from the lender (or from the market) is required to purchase
+another option to roll over a foreign currency liability of the same magnitude as his initial loan.
+That ‘second tier’ option could be exercised only if the ‘first tier’ option were exercised. The
+borrower would therefore be in the same position as he would have been had he not bought
+back the ‘first tier’ option. If there are any transaction costs, no borrower will buy back the
+‘first tier’ option.
+These two features of our proposal therefore address the concern that borrowers
+
+21
+
+would be tempted to buy back the option themselves and that we would then be back in the
+same boat as we started, without UDROPs.
+Consider the following example. Ruritania obtains a foreign currency loan from
+Megabank Inc, with a rollover option attached to the loan. The option gets stripped and
+Ruritania buys it back in the market. Note that, according to our scheme, it is “contractually
+clear, that it is the holder of the foreign currency credit at the time the option is exercised,
+who is obliged to roll over the debt. It would be the responsibility of that creditor to try
+and re-claim the rollover from the party that has written the rollover option, or to whom
+the rollover obligation has subsequently been traded.” Assume there is a rollover crisis.
+Ruritania has the right to insist that Megabank Inc. rolls over its debt. Megabank Inc, having
+agreed to the rollover, then can go back to Ruritania to try and compel performance by
+Ruritania on the option. Ruritania obviously cannot perform and would default on the option,
+had it not been required to acquire a ‘second-tier’ UDROP for the full value of the foreign
+currency obligation it would have to meet if the ‘first tier’ UDROP were to be exercised.
+Ruritania now exercises its ‘second tier’ rollover option. The rollover of the original loan has
+taken place, as has the rollover of the original UDROP.
+We are in favour of voluntary rollover insurance, in addition to the mandated rollover
+insurance embodied in UDROP. The adverse selection argument for mandating rollover
+insurance (based on the belief that not demanding the rollover option would be used as a signal
+of superior creditworthiness) does not apply to trading in unbundled or general rollover options
+as long as, as far as the foreign currency debtor is concerned, the original debt obligation
+remains bundled with a rollover option for the full face value of the debt at maturity. The original
+bundled option ensures that the creditor cannot compel the debtor to repay a specific loan at
+maturity. That feature survives intact regardless of the amount of additional, general, rollover
+22
+
+insurance that is written.
+The second consequence, already referred to, is that, if the option is unbundled and sold
+separately, additional counterparty risk could interfere with the ability of the borrower to
+exercise the option, if the party to whom the rollover obligation has been sold were to default.24
+The solution to this second potential problem is, again, to make it contractually clear, that it is
+the holder of the foreign currency credit at the time the option is exercised, who is obliged to roll
+over the debt. It would be the responsibility of that creditor to try and re-claim the rollover from
+the party that has written the rollover option, or to whom the rollover obligation has
+subsequently been traded.
+We agree that the rollover option should be an integral part of the loan and that the
+creditor at the moment the option is exercised must be obliged to provide the extension if the
+option is exercised. It is also key that foreign currency rollover options be themselves subject
+to a further UDROP requirement for the full value at risk if the original option is exercised.
+Subject to that, the option could be stripped and traded, with market participants effectively
+creating a reinsurance market to spread the risk of UDROPs being exercised.25
+III.7 Introducing UDROP
+It will probably be necessary to ‘grandfather’ existing foreign-currency loans that do not
+have a rollover option attached. UDROPs would then be required only for new foreign
+currency borrowing. As long as the stock of outstanding foreign-currency debt without a
+rollover option is significant, some liquidity crisis risk will remain. As time passes and
+outstanding foreign-currency loans without UDROP mature, this risk will dwindle.
+
+24 We are grateful to Wim Boonstra and Han de Jong for this point.
+25 We would expect this reinsurance to be provided by financial institutions for whom the
+currency of the original loan is the home currency. For such institutions there is no need for
+23
+
+III.8 The IMF’s contingent ‘contagion’ credit line
+The UDROP proposal differs from recent IMF proposals for a ‘contagion credit line’,
+as reported by Chote [1999], from whom we quote freely. The objectives of the Fund’s
+Contingent Credit Lines (CCL) are the same as ours: to protect solvent countries with sound
+economic policies from the backwash of financial crises elsewhere. The Fund’s scheme will
+operate alongside the IMF’s ‘supplemental reserve facility’, launched in 1997 to provide big
+loans quickly to countries facing a catastrophic loss of market confidence. Under the Fund’s
+proposal, however, there will be no predetermined sum the debtor country can gain access to
+automatically, at a time of its own choosing. Instead the IMF will decide if a country can draw
+money from the facility, and how much. A country would normally have access to between 300
+percent and 500 percent of its recently increased IMF quota. However, whether a country can
+draw at all, and if so, how much, will depend on the country’s policies, the nature of the
+potential crisis and the state of the IMF’s finances. With $76 billion in uncommitted resources
+and $46 billion available from borrowing agreements, Fund liquidity could easily become
+strained if contagion were severe.
+Any credit line can create moral hazard: a country with a credit line has less incentive
+to maintain sound policies and the Fund may be reluctant to withdraw the facility. The Fund
+hopes to avoid this by tough policy conditionality. Policy conditionality for access to the credit
+lines fall into four categories. A country wishing to draw on the credit lines is required to satisfy
+a ‘critical mass’ of conditions under each heading. The four categories are the following. First,
+the country must be pursuing policies so sound they would not normally (in the opinion of the
+Fund) be expected to required Fund finance. Second, the country must meet, or be making
+good progress towards, international codes of conduct on statistical, monetary, financial and
+
+‘second tier’ UDROPs.
+24
+
+fiscal policies. Third, the country must submit a good economic and financial policy programme,
+which it must be prepared to adjust if necessary. Fourth, an applicant must have good relations
+with private creditors (as evidenced by absence of arrears, negotiation of private sector credit
+lines, sensible bond contracts and good management of debt and reserves). To draw on the
+credit line, a country must be able to demonstrate, to the satisfaction of the IMF, that it is a
+victim of contagion: “circumstances largely beyond the control of the member, but stemming
+primarily from adverse developments in capital markets and consequent upon development in
+other countries”.
+Because it is not mandatory, the Fund’s scheme does nothing the alleviate the adverse
+selection problem: an application for a credit line might be viewed as a signal by the markets that
+the applicant is more likely to be subject to unexpectedly severe debt service and rollover
+problems.
+In our view this proposal represents a continuation of the Fund’s ‘conditionality as
+usual’. It will be inflexible, slow and politicised. The Fund’s case-by-case approach has not
+prevented or mitigated rollover crises in the past. There are few grounds for believing things will
+be different in the future.
+
+IV. Conclusion
+UDROP is meant to address the situation where a large number of people all try to
+leave a room simultaneously through a small door, hotly pursuing a limited number of prizes that
+will be handed out on a first-come, first-served basis. If it works as we expect it to, it will not
+only allow the system to cope better with a rollover crisis when one occurs, it will also reduce
+the likelihood and incidence of such crises.
+The UDROP proposal is market friendly and does not involve large administrative,
+25
+
+regulatory and enforcement costs. There is no need for an independent agency to monitor any
+‘trigger’ that would allow the borrower to exercise the option. The option can be exercised by
+the borrower when his original loan expires, under any conditions. The penalty ensures that
+under normal market conditions, no borrower would choose to exercise the option. It does not
+require any commitment of public (bilateral or multilateral) money. In times of crisis all creditors,
+private and public, are ‘bailed in’ automatically.
+An added benefit of the options is that it would force the market participants, who have
+to price these options, to pay serious attention to the prospects of liquidity crises. The
+mandatory rollover option would force all market participants to assess and price these risks.
+The pricing, under orderly market conditions, of instruments for dealing with disorderly market
+conditions will no doubt always be an imperfect science. The cost of not having this international
+liquidity insurance in place is however, too high to tolerate.
+In the past few centuries, financial markets have fluctuated unpredictably between
+periods of orderly market conditions and episodes where herd instinct and collective panic ruled
+the roost, liquidity dried up, collateral vanished and asset values collapsed. The harm inflicted
+on the real economy by such liquidity crises has been out of proportion to the cost of forcing all
+international financial market players to add UDROPs to foreign currency lending and
+borrowing.
+Professors Merton and Scholes, who may have time on their hands, can derive formulae
+for pricing these options, bundled or unbundled. Options traders can deal in them. More
+important, it would make a contribution to global financial stability. The alternatives are
+continued financial instability, capital controls, foreign exchange controls, taxes on international
+capital flows and other costly and inefficient interventions, that invite evasion and corruption.
+It seems worth a try.
+26
+
+27
+
+Bibliography
+
+Joshua Aizenman [1998], “Capital Mobility in a Second Best World: Moral Hazard with Costly
+Financial Intermediation”, NBER Working Paper No. 6703.
+Timothy Besley (1994), “How do Market Failures Justify Interventions in Rural
+Credit Markets”, World Bank Research Observer 9, January, pp. 27-48.
+Richard Brealey [1999], “International Financial Stability”, mimeo, Bank of England,
+March.
+Willem H. Buiter, Giancarlo Corsetti and Paolo Pesenti [1998a], Financial Markets and
+European Monetary Cooperation: The Lessons of the 1992-93 Erm Crisis,
+Cambridge, Cambridge University Press.
+Willem H. Buiter, Giancarlo Corsetti and Paolo Pesenti [1998b], Interpreting the ERM Crisis:
+Country-Specific and Systemic Issues, Princeton Studies in International Finance, No.
+84, March.
+Ricardo J. Caballero and Arvind Krishnamurthy [1998], “Emerging Market Crises:
+An Asset Markets Perspective”, NBER Working Paper No. 6843, December.
+Jorge A. Chan-Lau and Zhaohui Chen [1998], “Financial Crises and Credit Crunch as
+a Result of Inefficient Financial Intermediation - with reference to the Asian
+Financial Crisis”, mimeo, International Monetary Fund.
+Roberto Chang and Andres Velasco [1998a], “Financial fragility and the exchange
+rate regime”, NBER Working Paper No. 6469, March
+Roberto Chang and Andres Velasco [1998b], “Financial crises in emerging markets: a
+canonical model”, NBER Working Paper No. 6606, June.
+Robert Chote [1999], “IMF’s new ‘contagion’ credit line: would any country really use
+it?”, Financial Times, Monday April 26, p. 4.
+Harold Cole and Timothy Kehoe [1996], “A self-fulfilling model of Mexico=s 1994debt crisis”, Journal of International Economics, 41, pp. 309-330.
+Giancarlo Corsetti, Paolo Pesenti and Nouriel Roubini [1998a], “Paper Tigers? A
+Model of the Asian Crisis”, paper presented at the NBER-Bank of Portugal
+International Seminar on Macroeconomics, Lisbon, 14-15 June.
+Giancarlo Corsetti, Paolo Pesenti and Nouriel Roubini [1998b], “What caused the
+Asian Currency and Financial Crisis? Part II: The Policy Debate.” NBER
+28
+
+1995
+
+Working Paper No. 6834, December.
+Ash Demirguç-Kunt and Enrica Detragiache [1997], “The Determinants of Banking
+Evidence from Developing and Developed Countries”, International
+Monetary
+Working Paper No. 106.
+
+Crises:
+Fund
+
+Douglas Diamond [1984], “Financial Intermediation and Delegated Monitoring”,
+Review of Economic Studies, LI, pp. 393-414.
+Douglas. Diamond and Philip H.. Dybvig [1983], “Bank Runs, Deposit Insurance,
+Liquidity”,' Journal of Political Economy 91, 1983, 401-419.
+
+and
+
+Rudiger Dornbusch, Ilan Goldfajn and Rodrigo O. Valdes [1995], “Currency
+Crises and Collapses”, Brookings Papers on Economic Activity, 1, pp. 219-270.
+Rudiger Dornbusch [1998], “Capital Controls: An Idea Whose Time Is Past”, In S.
+et. al. [1998].
+
+Fischer
+
+Philip H. Dybvig [1992], “Bank Runs”, a contribution to The New Palgrave
+Dictionary of Money and Finance 1, New York: Stockton Press, 1992, 171173.
+Jonathan Eaton [1987], “Public Debt Guarantees and Private Capital Flight” , World
+Economic Review, 1 (May 1987): 377-395.
+
+Bank
+
+Jonathan Eaton [1989], “Beyond the Debt Crisis: Alternative Forms of Financing
+Growth: Comment”, in Dealing with the Debt Crisis: A World Bank Symposium
+edited by Ishrat Hussein and Ishac Diwan. Washington DC: World Bank,
+1989.
+Barry Eichengreen and Andrew Rose [1998], “Staying Afloat When the Wind Shifts:
+Factors and Emerging Markets Banking Crises”, NBER Working
+Paper No. 6370.
+
+External
+
+Barry Eichengreen [1998], “Bailing In the Private Sector”, Mimeo, September.
+Barry Eichengreen and Richard Portes [1995], “Crisis? What Crisis? Orderly
+Workouts for Sovereign Debtors”, CEPR, 1995, pp. i-xviii + 1-34.
+Stanley Fischer [1998], “In Defense of the IMF. Specialized Tools for a Specialized
+Foreign Affairs, 77(4).
+
+Task”,
+
+Stanley Fischer et. al.[1998], “Should the IMF Pursue Capital-Account
+Liberalization?”, Essays in International Finance, No. 207, International
+Finance Section, Princeton University, May.
+Reuven Glick and Andrew K. Rose [1998], “Contagion and trade: why are currency
+29
+
+crises
+
+regional?”, NBER Working Paper No. 6806, November.
+Ilan Goldfajnn and Rodrigo O. Valdes [1997], “Capital flows and the twin crises: the
+liquidity”, International Monetary Fund Working Paper 97/87, July.
+
+roleof
+
+Morris Goldstein [1998], “The Asian financial crisis: causes, cures and systemic
+implications”, Policy Analyses in International Economics No.55, Washington
+D.C., Institute for International Economics.
+Haizhou Huang and Chenggang Xu [1998], “Financial Institutions, Contagious Risks,
+Financial Crises”, Mimeo, London School of Economics.
+
+and
+
+International Monetary Fund [1998], World Economic Outlook and International
+Capital Markets, Interim Assessment, December, International Monetary
+Fund, Washington D.C.
+Graciela L. Kaminsky and Carmen M. Reinhart [1998], “On Crises, Contagion and
+Confusion”, Mimeo, December.
+Peter B. Kenen (ed.) [1996], “From Halifax to Lyons: what has been done about crisis
+management?”, Essays in International Finance No. 200, International
+Finance Section, Princeton University, October.
+Paul Krugman [1997], “Are Currency Crises Self-Fulfilling?”, NBER Macroeconomics
+Annual.
+Robert E. Litan [1998], “Does the IMF Have a Future? What Should it Be?”, Paper given
+at the IMF/Federal Reserve Bank of Chicago Conference on the IMF, October 1998.
+Olivier Loisel and Philippe Martin [1999], “Coordination, cooperation, contagion and
+currency crises”, CEPR Discussion Paper Series No. 2075, February.
+Jeffrey Sachs [1995], “Do We Need an International Lender of Last Resort?”,
+presented as Frank D. Graham Lecture at Princeton, April, 1995, forthcoming as
+Essays in International Finance.
+Jeffrey Sachs [1996], “Alternative Approaches to Financial Crises”, Revista de
+Economia Politica, vol 16, no. 2, April-June 1996.
+Jeffrey Sachs, Aaron Tornell and Andres Velasco [1996], “Financial Crises in
+Emerging Markets: the Lessons of 1995”, Brookings Papers on Economic
+Activity, 1, pp. 147-217.
+
+30
+
+

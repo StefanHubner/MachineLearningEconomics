@@ -1,0 +1,555 @@
+An evolving financial system: don’t leave it too late, simulate
+Alex Brazier
+Bank of England
+28 September 2018
+Conference on non-bank financial institutions and financial stability
+
+I am grateful to David Baumslag, Pavel Chichkanov, Sinem Hacioglu, David Mallaburn, Laura Silvestri, Henry Tanner, Jagdish Tripathy, Nick Vause and Michael Yoganayagam for their assistance with
+preparing this speech.
+
+Ten years ago, a financial crisis sideswiped households and
+businesses.
+
+Back then, the financial system was fragile.
+A non-bank system dominated by shadow banks …
+
+Back then, the financial system was fragile.
+Shadow banks didn’t contain problems, they spread them ...
+
+Back then, the financial system was fragile.
+Derivative markets spread problems too. They created an opaque web of connections.
+Losses could spread through the network.
+Pre-reform counterparty network of UK credit default swaps(1)
+
+(1) Showing only the largest 16 dealers (in blue) and 24 randomly chosen other market participants (in purple). Lines denote non-zero net notional amounts
+outstanding between counterparties. Data as of early 2009.
+Source: Depository Trust & Clearing Corporation.
+
+Back then, the financial system was fragile.
+And the banking system didn’t have enough of its own money on the line to absorb
+the resulting losses.
+Losses vs. capital for major UK banks(1)
+
+The result: taxpayer bail‐outs and a credit
+crunch for households and businesses.
+
+(1) Barclays, HSBC, Lloyds, Nationwide, RBS and Santander UK.
+(2) 2008-10 impairment and market losses.
+(3) Basel III common equity tier-1 capital (estimated).
+Sources: Bank of England, banks' financial reports and Bank calculations.
+
+The banking system is now stronger.
+Banks can absorb crisis losses with their own capital.
+Losses vs. capital for major UK banks(1)
+
+The result: a banking system that can serve
+households and businesses even in testing
+times.
+
+(1) Barclays, HSBC, Lloyds, Nationwide, RBS and Santander UK.
+(2) Crisis losses adjusted for changes in (estimated) risk-weighted assets.
+(3) Basel III common equity tier-1 capital.
+Sources: Bank of England, banks' financial reports and Bank calculations.
+
+Derivative markets are safer.
+Webs of connections have been stripped back. And participants must put up security.
+Post-reform counterparty network for UK credit
+default swaps(1)
+
+Posting of collateral (margin) means
+that if one party goes bust, the other
+isn’t left with a loss
+This is similar to using a house as
+security on a mortgage
+
+= collateral
+(1) Positions as of early 2009, but cleared at current rates of clearing for new trades in order to proxy the
+future steady-state network. The figure shows only the CCP (in green), the largest 16 dealers (in blue) and
+24 randomly chosen other market participants (in purple).
+Source: Depository Trust & Clearing Corporation and Bank calculations.
+
+New collateral must be posted every
+day as markets move and the value of
+derivatives change
+
+And the system is now more diverse.
+Shadow banks have shrunk and been reformed …
+Shadow bank financial assets(1)
+
+Structural reforms separating dealers
+from banks
+
+Structural reform to money market
+funds (fewer constant NAV funds)
+
+(1) 'Broker-dealers', 'securitisations vehicles' and 'finance companies'
+respectively correspond to economic functions (EFs) 3, 5 and 2 of the FSB's
+‘narrow’ measure of shadow banking. Money market funds are in EF1. EF4
+(credit insurance) is omitted as it is relatively small.
+Source: Financial Stability Board and Bank calculations..
+
+Incoming requirements and incentives
+to make securitisations simple,
+transparent and standardised (STS)
+
+And the system is now more diverse.
+… and their place taken by safer non-banks.
+Shadow bank financial assets(1)
+
+(1) 'Broker-dealers', 'securitisations vehicles' and 'finance companies'
+respectively correspond to economic functions (EFs) 3, 5 and 2 of the FSB's
+‘narrow’ measure of shadow banking. Money market funds are in EF1. EF4
+(credit insurance) is omitted as it is relatively small.
+Source: Financial Stability Board and Bank calculations..
+
+Non-bank financial assets
+
+(1) Investment funds other than hedge funds and money market funds.
+Sources: Financial Stability Board and Bank calculations.
+
+A more diverse system can be a safer system.
+
+But it doesn’t guarantee financial stability …
+
+A financial system that can serve
+households and businesses in bad
+times as well as good
+… so we must be vigilant.
+
+And vigilant we are. To firesale risks especially.
+Firesale risk: The risk that non-banks are forced into selling assets quickly, driving prices
+down and volatility up …
+
+Sudden cash calls, for example when:
+
+Derivative exposures
+change
+Investors redeem their
+money at short notice
+
+Lower prices
+Volatile
+markets
+Higher
+borrowing costs
+Restricted
+credit supply
+
+… and harming households and businesses
+
+Our approach to monitoring the risk:
+Don’t wait, simulate.
+
+Not: what has gone wrong before?
+
+Instead: given how non-banks have changed, how
+could they harm the economy in the future?
+
+Simulation 1: Cash calls on derivative positions.
+
+How big might be the calls non-banks face for margin to square off derivative
+positions after markets move?
+
+Do they have the cash or liquid assets to meet those calls?
+
+Or might they be forced into firesales?
+
+Simulation 1: Cash calls on derivative positions.
+Non-banks would face margin calls on derivatives following an increase in interest
+rates …
+£bn
+
+£3.5bn
+
+Uncleared
+
+4.0
+3.5
+
+3.0
+2.5
+
+This simulation covers:
+Margin calls on OTC forward rate
+agreements and single currency
+interest rate swaps …
+
+2.0
+1.5
+Cleared
+
+1.0
+0.5
+
+… for a selection of 73 pension
+funds, investment funds and
+insurers …
+
+0.0
+Total margin calls
+
+… following a 25bp increase in
+interest rates.
+Slides amended on 26/10/2018
+
+Simulation 1: Cash calls on derivative positions.
+… but in aggregate, their liquid assets dwarf these margin calls.
+£bn
+
+Government
+bonds
+
+£299bn
+
+350
+300
+
+250
+
+But:
+
+1
+
+Liquid assets are also needed for
+other purposes.
+
+2
+
+Margin calls on centrally cleared
+derivatives must be met in cash.
+
+3
+
+These aggregate liquid assets must
+be in the right place: at the firms
+facing margin calls.
+
+200
+150
+100
+£3.5bn
+
+Cash
+
+Total margin calls
+
+50
+Liquid assets
+
+Slides amended on 26/10/2018
+
+Simulation 1: Cash calls on derivative positions.
+Adjusting for these things, some firms would face a shortfall …
+£bn
+
+Government
+bonds
+
+£299bn
+
+£bn
+
+350
+300
+
+250
+
+0.6
+
+150
+
+0.4
+
+£3.5bn
+
+Total margin calls
+
+50
+Liquid assets
+
+£0.91bn
+
+Shortfall
+
+0.8
+
+200
+
+100
+Cash
+
+1
+
+0.2
+
+£0.23bn
+£0.05bn
+
+0
+25bps
+
+50bps
+
+100bps
+
+Slides amended on 26/10/2018
+
+Simulation 1: Cash calls on derivative positions.
+… and the shortfall increases with the size of the market move.
+£bn
+
+Government
+bonds
+
+£299bn
+
+£bn
+
+350
+300
+
+250
+
+0.6
+
+150
+
+0.4
+
+£3.5bn
+
+50
+-
+
+Total margin calls
+
+Liquid assets
+
+£0.91bn
+
+Shortfall
+
+0.8
+
+200
+
+100
+Cash
+
+1
+
+0.2
+
+£0.23bn
+£0.05bn
+
+0
+25bps
+
+50bps
+
+100bps
+
+These shortfalls are small, but must continue to be
+monitored (by simulation) as the system evolves.
+Slides amended on 26/10/2018
+
+Simulation 2: A system is more than the sum of its parts.
+Are there feedback loops lurking under the surface in the bond market?
+
+Investors redeem
+from open-ended
+funds
+
+Market
+prices fall
+
+Dealers reduce
+activity
+
+Less repo
+funding
+
+Long-term
+investors see
+value
+
+Asset sales
+
+Purchases, but fewer
+Bond
+market
+Hedge funds
+step back
+
+Purchases?
+
+Purchases,
+but fewer
+
+Market move
+amplified?
+
+Simulation 2: A system is more than the sum of its parts.
+How material could feedback loops be? A work in progress.
+Amplification of initial price shocks(1)
+
+(1) For UK investment-grade corporate bonds.
+Source: Bank of England.
+
+Forthcoming Bank of England staff working paper: ‘Simulating stress in the UK corporate bond market: investor
+behaviour and asset fire-sales’ by Yuliya Baranova, Graeme Douglas and Laura Silvestri
+
+Next steps for us: Putting it all together.
+How might all parts of the non-bank system combine?
+Asset
+markets
+
+MMFs
+
+Financial
+Institutio
+ns
+Securities
+financing
+markets
+
+Broker
+Dealers
+
+Banks
+
+Financial
+institutions
+
+Pension Funds
+
+Insurers
+
+Hedge
+Funds
+
+Investment Funds
+
+Derivative
+markets
+
+Next steps for us: Putting it all together.
+How might all parts of the non-bank system combine?
+Asset
+markets
+
+MMFs
+
+Financial
+Institutio
+ns
+Securities
+financing
+markets
+
+Broker
+Dealers
+
+Banks
+
+Financial
+institutions
+
+Pension Funds
+
+Insurers
+
+Hedge
+Funds
+
+Simulation 1
+
+Investment Funds
+
+Derivative
+markets
+
+Next steps for us: Putting it all together.
+How might all parts of the non-bank system combine?
+Asset
+markets
+
+MMFs
+
+Simulation Financial
+2
+Institutio
+ns
+Securities
+financing
+markets
+
+Broker
+Dealers
+
+Banks
+
+Financial
+institutions
+
+Pension Funds
+
+Insurers
+
+Hedge
+Funds
+
+Investment Funds
+
+Derivative
+markets
+
+Next steps for us: Putting it all together.
+How might all parts of the non-bank system combine?
+Asset
+markets
+
+System-wide
+stress simulation
+
+MMFs
+
+Financial
+Institutio
+ns
+Securities
+financing
+markets
+
+Broker
+Dealers
+
+Banks
+
+Financial
+institutions
+
+Pension Funds
+
+Insurers
+
+Hedge
+Funds
+
+Investment Funds
+
+Derivative
+markets
+
+Summary
+The financial system is stronger, simpler and safer than ten years ago.
+
+Safer non-banks have taken the place of dangerous shadow banks.
+This diversity can be a source of strength, but we have to be vigilant about firesale
+risks.
+These risks need monitoring. Not by asking whether they have appeared, but by
+asking whether they could.
+Don’t wait. Simulate.
+
+

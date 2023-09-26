@@ -1,0 +1,369 @@
+Asset Prices, Monetary Policy and Financial Stability: A Central
+Banker’s View
+Speech given by
+Charles Bean, Chief Economist and Member of the Monetary Policy Committee, Bank of
+England
+
+At the American Economic Association Annual Meeting, San Diego
+3 January 2004
+
+Abstract
+This paper reviews the argument that monetary policy should react to asset price movements and/or
+financial imbalances over and above their impact on the inflation outlook. In a simple New Keynesian model,
+modified to allow for capital and debt accumulation, I then explore some of the ways in which the possibility
+of a credit crunch in the aftermath of an asset boom can affect the design an optimal monetary policy.
+JEL Classification: E52, E58, E44
+Key Words: Asset prices, monetary policy, financial stability.
+The views expressed are those of the author and do not reflect those of either the Bank of England or the
+Monetary Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+1
+
+Asset Price Bubbles and Monetary Policy
+
+What role should asset prices play in the setting of monetary policy? Prompted by
+the experience of the 1980s Japanese asset price bubble and the 1990s US stock
+market bubble, that question is hotly debated in central banking and academic circles.
+Under one view, exemplified by Alan Greenspan (2002) and Ben Bernanke and Mark
+Gertler (1999, 2001), monetary policy should remain focused on achieving the
+macroeconomic goals of low inflation and stable growth and should seek to do no
+more than deal with the fall-out from the eventual unwinding of an asset price bubble.
+An alternative perspective is that such an unwinding may lead to financial instability
+and that it is better to take pre-emptive action against the bubble during the upswing;
+see, for instance, Andrew Crockett (2003), Claudio Borio and Philip Lowe (2002),
+Stephen Cecchetti, Hans Genberg, John Lipsky and Sushil Wadhwani (2000) and
+Michael Bordo and Olivier Jeanne (2002).
+At the outset, it is worth stressing that the issue is not really about asset price bubbles
+per se. If the only macroeconomic consequence of booms and busts in asset prices
+were via conventional wealth effects on aggregate demand, then they would
+constitute little more than a nuisance to monetary policy makers. Since the lags from
+changes in wealth to consumer spending seem to be at least as long as those from
+interest rates, policy makers would be able to offset the impact of asset price swings
+without much difficulty.
+Rather, as stressed by Borio and Lowe and by Bordo and Jeanne, asset price bubbles
+tend to be associated with a broader set of symptoms, typically including high
+investment and a build-up of debt. The development of a bubble may initially be
+prompted by a beneficial supply shock, but subsequently excessive optimism about
+future returns drives up asset values, prompting increased borrowing to finance
+further capital accumulation. Moreover, appreciating asset values raise the value of
+collateral facilitating the accumulation of debt. During the upswing, balance sheets
+may look healthy as the appreciation in asset values offsets the build-up of debt. But
+when the bubble bursts the consequence will be a sharp deterioration in net worth and
+the possibility of financial distress. That is particularly likely if financial
+
+1
+
+intermediaries respond to the deterioration in balance sheets by tightening credit
+conditions. Offsetting the macroeconomic consequences of such a credit crunch is
+more problematic than offsetting conventional wealth effects as a monetary relaxation
+is likely to have a smaller and less predictable impact.
+The discussion is sometimes portrayed as being about whether the traditional central
+bank objectives of low inflation and stable growth need to be augmented with a
+separate objective relating to asset prices or financial stability. And a number of the
+analytical contributions, including some of those cited above, approach the issue by
+asking whether the incorporation of asset prices into a Taylor-style reaction function
+in which the interest rate responds to the leads to (sometimes expected) inflation and
+the output gap leads to better macroeconomic performance judged according to the
+usual criteria. But though these studies contain important lessons, they do not imply
+that an additional asset price/financial stability objective is required. Asset price
+bubbles are of concern precisely because of the financial instability and contraction in
+output that may result when they burst. Consequently a central bank seeking to
+stabilize inflation and output over a sufficiently long time horizon, should necessarily
+aim to incorporate the possible adverse long-term consequences of an asset price
+bubble in its deliberations. Changes in the formal mandates of central banks such as
+the Federal Reserve and the Bank of England1 are therefore not required; for further
+discussion, see Charles Bean (2003).
+But though the principle that a central bank should take on board the long-term
+implications for output and inflation of asset price boom-busts is persuasive, there are
+a number of serious practical difficulties in implementation. First, the policymaker
+must judge whether an asset price increase is warranted by the fundamentals or
+whether it is instead based on misplaced expectations and furthermore poses a threat
+to future financial and macroeconomic stability. A mechanical response that treats all
+asset price movements alike, whatever their cause, is unlikely to be appropriate; see
+Marvin Goodfriend (2002). Given that asset price boom-busts are apt to occur when
+there has also been an improvement in fundamentals, that is not likely to be a
+straightforward task, at least in the early stages of the upswing.
+1
+
+The Bank of England is formally required to pursue an inflation rate for the CPI of 2% at all times
+and, subject to that, to support the Government’s objective of high and stable growth and employment.
+
+2
+
+Second, once a bubble is large enough to be reliably identified, the presence of lags in
+the transmission mechanism of monetary policy complicates the calibration of the
+appropriate policy. Raising official interest rates will be counterproductive if the
+bubble subsequently bursts, so that the economy is subject to the twin deflationary
+impulses of the asset price collapse and the effect of the policy tightening. Indeed in
+the unlikely event that the policymaker knew that an asset price collapse was
+imminent, then monetary relaxation, rather than tightening, would be called for.
+David Gruen, Michael Plumb and Andrew Stone (2003) show that once one takes
+account of such lags, then the informational requirements necessary to make effective
+an activist policy are extreme. At best there is likely to be only a very narrow
+window of opportunity during which such action is desirable.
+Third, a modest increase in interest rates may do little to restrain an asset price boom.
+But an increase large enough to materially affect the evolution of asset prices is likely
+to have a significant adverse impact on economic activity. So the policy maker
+would need to believe that the short-term costs from such a strategy are outweighed
+by the uncertain longer term gains. Moreover, if the key concern is the associated
+build-up of debt, then higher interest rates could exacerbate the problem if the
+associated increase in debt service outweighs the depressing effect on new borrowing.
+In any case, expectations of future returns are likely to be a key driver of asset prices,
+investment and borrowing, suggesting that expectations of future policy actions may
+be just as significant as current policy.
+
+2
+
+Optimal Monetary Policy with Asset Booms and Busts
+
+The remainder of this paper illustrates some of these issues - in particular the role
+played by expectations of future policy actions – in the context of a simple New
+Keynesian macroeconomic, modified to allow for debt-financed capital accumulation
+and the possibility of credit crunches. Asset prices do not figure explicitly, but can be
+thought of as moving in sympathy with investment and borrowing.
+Besides the central bank, there are two types of agents in the economy: households
+
+3
+
+and firms. Households supply labour, consume and save. Firms are monopolistic
+competitors, and nominal prices are fixed with a fraction of prices being re-set each
+period as in the standard New Keynesian Phillips curve. Capital lasts a single period,
+has to be installed a period in advance, and is financed by borrowing from
+households. Debt lasts a single period and is denominated in real terms.
+Credit crunches occur with a fixed probability, ρ. When they do occur their effect is
+to lower the level of supply in the economy. One rationalisation could be that a credit
+crunch leads to bankruptcies and the associated reorganisation of the firm’s assets
+absorbs resources. Another could be that firms need access to working capital within
+the period in order to pay their workers, buy inputs, etc.; if firms cannot get access to
+the required working capital then supply will be curtailed. In effect a credit crunch is
+a negative shock to total factor productivity, though it reflects events in financial
+markets rather than a change in the technical capabilities of the economy.
+Moreover, if a credit crunch occurs, it is assumed to be more severe the higher is the
+overall debt outstanding. It is this feature that provides the incentive for the central
+bank to moderate a current debt-financed investment boom. Since an individual
+firm’s borrowing decision has negligible impact on overall debt, firms ignore the
+impact of their borrowing on the severity of any future credit crunch. Of course, the
+first-best policy would be to seek policies that tackle this market failure directly, such
+as prudential capital requirements, but it is nevertheless of interest to ask how the
+presence of such a market failure impinges on the design of the optimal monetary
+policy.
+The production function is (variables are in logarithms and inessential constants are
+normalised to zero throughout):
+(1)
+
+yt = at + αkt + (1–α)nt,
+
+where yt is output, at is total factor productivity, kt is the capital stock at the start of
+the period and nt is employment. Total factor productivity is given by the process:
+(2)
+
+at = et – [γ + ω(dt – Et-1yt)]εt,
+4
+
+where et is a serially uncorrelated shock to the technology, dt is debt outstanding and
+εt takes the value unity if a credit crunch occurs and zero otherwise2.
+The demand for capital, conditional on the expected future level of output, is then:
+(3)
+
+kt+1 = Etyt+1 – Etat+1 + (1–α)(Etwt+1 – Etpt+1 – rt + vt)
+= Etnt+1 + Etwt+1 – Etpt+1 – rt + vt,
+
+where wt is the nominal wage, pt is the price level, rt is the real rate of return on debt
+and vt is a serially uncorrelated shock to “animal spirits”.
+Price changes are staggered as in the standard New Keynesian pricing equation:
+(4)
+
+πt = βEtπt+1 + δmt + ut,
+
+where mt (= wt – pt + nt – yt) is marginal cost, ut is an uncorrelated shock to the markup and β is the discount factor.
+Households’ savings are assumed to be a constant fraction of income, and labor
+supply is an increasing function of the real wage alone:
+(5)
+
+wt – pt = φnt.
+
+The model can be developed along standard lines with an inter-temporal optimality
+equation for consumption and a corresponding intra-temporal optimality condition for
+labor supply, but that complicates the dynamics without changing the basic insights.
+Given the constant savings rate assumption, an IS schedule can then be obtained from
+(3) using the equality of marginal cost and the labor share:
+
+2
+
+Making the severity of the credit crunch depend on the debt-to-expected-output ratio facilitates the
+
+5
+
+(6)
+
+yt = Etyt+1 + Etmt+1 – rt + vt.
+
+Aside from the presence of marginal cost, this is similar to the standard New
+Keynesian IS schedule, though its interpretation is somewhat different with the terms
+on the right-hand side being the determinants of investment rather than consumption.
+From (2) and (5), marginal cost is
+(7)
+
+mt = (α+φ)yt/(1–α) – (1+φ)(at + αkt)/(1–α).
+
+The flexible price level of output, yot, is then obtained by setting mt = 0:
+(8)
+
+yot = ν(at + αkt),
+
+where ν ≡ (1+φ)/(α+φ). The model may then be condensed into a New Keynesian
+Phillips curve:
+(9)
+
+πt = βEtπt+1 + κxt + ut,
+
+where xt ≡ yt – yot and κ ≡ δ(α+φ)/(1–α), and an IS schedule:
+(10)
+
+xt = ηEtxt+1 + rot – rt + vt,
+
+where rot ≡ Etyot+1–yot is the natural real rate of interest and η ≡ (1+φ)/(1–α) (= κν/δ).
+The policymaker’s loss, Lt, is of the usual quadratic form, except that the objective
+for output is assumed to be minimize volatility around the natural rate that would
+obtain in the absence of a credit crunch, y*t:
+k=∞
+
+(11)
+
+Lt = Et[ ∑ βk(πt+k2 + λx*t+k2)],
+k=0
+
+analysis while losing nothing of substance.
+
+6
+
+where x*t ≡ yt – y*t and y*t = ν(et + αkt). Using the fact that dt = kt + rt-1, the two
+output gap concepts are related by:
+(12)
+
+x*t = xt – ν[γ + ω(kt + rt-1 – Et-1yt)]εt = xt – [ν(γ + ωvt-1) + ωηEt-1xt]εt.
+
+The quantity in square brackets represents the output cost of a credit crunch, with
+terms reflecting the fact that debt carried into the period will be high if “animal
+spirits” had been buoyant in the preceding period or if output had been expected to be
+high.
+Note that the impact of the credit crunch is not directly affected by the interest rate in
+the preceding period. A higher rate of interest reduces capital formation and debt
+accumulation, but that is exactly nullified by the higher interest payments on the debt.
+The total amount to be repaid is thus left unchanged. That means the effect of
+monetary policy on the severity of any future credit crunch operates purely through
+its impact on the expected future level of activity.
+Consider first the optimal policy when the central bank cannot pre-commit. In that
+case it treats private sector expectations as unaffected by its current policy choice.
+Using standard methods, the associated optimality condition is, for all t:
+(13)
+
+πt = – (λ/κ)x*t.
+
+In the absence of a credit crunch today, policy is thus unaffected by the possibility of
+a future credit crunch. If, on the other hand, there is a credit crunch today, policy is
+set looser than it would otherwise be. So the optimal policy is in effect to ignore the
+asset boom, but to mitigate the fallout when it busts. Furthermore the expectation of
+a looser monetary policy in the event of a future credit crunch raises expected
+inflation. Consequently there is an upward bias to inflation. There are echoes here of
+the analysis by Marcus Miller, Paul Weller and Lei Zhang (2002) of the “Greenspan
+put”.
+The reason the possibility of future credit crunches does not affect policy in the
+
+7
+
+upswing directly is simple: a current policy tightening has no effect of the future debtincome ratio, because the reduction in borrowing is exactly counterbalanced by
+higher interest payments. The only way the future debt-income ratio can be affected
+is by lowering expectations of future activity, but that is impossible when the policy
+maker cannot pre-commit.
+Now suppose the central bank can pre-commit. Employing the approach of Lars
+Svensson and Michael Woodford (2003), the “timelessly optimal” plan can be shown
+to satisfy the conditions, for all t and all k > 0:
+(14)
+
+Etπt+k = – [λ(1–ρωη)/κ](Etx*t+k – Etx*t+k-1).
+
+Assuming that ρωη < 1, the possibility of a credit crunch is thus similar in effect to
+reducing the weight on output in the central bank’s objective function.
+That there is less incentive to stabilize current output when the economy is
+overheating may appear counterintuitive. However, recall that though policy cannot
+affect the future debt stock directly, it can affect it via expectations of the future
+output gap. The expectation of a large positive output gap tomorrow boosts capital
+accumulation today, so raising the future debt stock and the costs associated with a
+credit crunch.
+Now optimal policy in the standard New Keynesian model without credit crunches is
+history-dependent despite the absence of any backward-looking structural dynamics.
+That is because the optimal policy exploits the fact that a credible commitment to
+hold output above potential in the future raises inflation today via the expectations
+term in the Phillips curve. Given the convexity of the loss function, the optimal
+response to a temporary supply disturbance thus involves a small, but persistent,
+output gap, rather than returning inflation to target straightaway through a larger, but
+more short-lived, one (demand shocks are contemporaneously and fully neutralized).
+When there is a possibility of a credit crunch, however, a gradualist response to, say,
+a beneficial supply shock generates additional expected future costs in the shape of a
+more severe credit crunch, should one occur. The optimal policy therefore involves a
+8
+
+less accommodative policy today, i.e. more variation in the current output gap, and
+less persistence than in the standard model. Moreover, the optimal policy under
+commitment involves a weaker monetary policy response to the occurrence of a credit
+crunch than is the case under discretion. That is because the central bank recognizes
+that a policy of accommodating credit crunches through the loosening of monetary
+policy has adverse effects on inflation expectations.
+
+Consequently there is less
+
+monetary response to a credit crunch than under discretion, but average inflation is
+lower.
+The analysis here is obviously highly stylized and purposely omits a number of
+features that may be of practical significance, including a direct influence of current
+interest rates onto future debt levels and the non-linearities that could arise in the
+event of a credit crunch. Nevertheless it highlights the role of expectations and intertemporal linkages in designing an optimal monetary policy that recognizes the
+potential for an asset price boom today to increase the threat of future financial
+instability.
+
+9
+
+References
+Bean, Charles (2003), ‘Asset Prices, Financial Imbalances and Monetary Policy: Are
+Inflation Targets Enough?’, in Asset Prices and Monetary Policy, (eds. Anthony
+Richards and Tim Robinson), Reserve Bank of Australia, pp.48-76.
+Bernanke, Ben and Mark Gertler (1999), ‘Monetary Policy and Asset Volatility’
+Federal Reserve Bank of Kansas City Economic Review, 84(4), pp. 17-52.
+Bernanke, Ben and Mark Gertler (2001), ‘Should Central Banks Respond to
+Movements in Asset Prices?’ American Economic Review, 91(2), pp. 253-257.
+Bordo, Michael and Olivier Jeanne (2002), ‘Monetary Policy and Asset Prices: Does
+Benign Neglect Make Sense?’, International Finance, 5(2), pp.139-164.
+Borio, Claudio and Philip Lowe (2002), ‘Asset Prices, Financial and Monetary
+Stability: Exploring the Nexus’, Working Paper 114, Bank for International
+Settlements, Basle.
+Cecchetti, Stephen, Hans Genberg, John Lipsky and Sushil Wadhwani (2000), Asset
+Prices and Central Bank Policy, Geneva Reports on the World Economy, 2,
+International Centre for Monetary and Banking Studies and Centre for Economic
+Policy Research.
+Cecchetti, Stephen, Hans Genberg and Sushil Wadhwani (2002), ‘Asset Prices in a
+Flexible Inflation Targeting Framework’, in Asset Price Bubbles: The Implications
+for Monetary, Regulatory and International Policies, (eds. William Hunter, George
+Kaufman and Michael Pomerleano), MIT Press, pp.427-444.
+Crockett, Andrew (2003), ‘International Standard Setting in Financial Supervision’,
+Institute of Economic Affairs Lecture, Cass Business School, London, 5 February.
+Goodfriend, Marvin (2002), ‘Interest Rate Policy Should Not React Directly to Asset
+Prices’, in Asset Price Bubbles: The Implications for Monetary, Regulatory and
+International Policies, (eds. William Hunter, George Kaufman and Michael
+Pomerleano), MIT Press, pp.427-444.
+Greenspan, Alan (2002), ‘Opening Remarks’, in Rethinking Stabilization Policy,
+Federal Reserve Bank of Kansas City, Kansas.
+Gruen, David, Michael Plumb and Andrew Stone (2003), ‘How Should Monetary
+Policy Respond to Asset-Price Bubbles?’, in Asset Prices and Monetary Policy, (eds.
+Anthony Richards and Tim Robinson), Reserve Bank of Australia, pp.260-280.
+Miller, Marcus, Paul Weller and Lei Zhang (2002), ‘Moral Hazard and the US Stock
+Market: Analysing the Greenspan Put’, Economic Journal, 112 (3).
+Svensson, Lars and Michael Woodford (2003), ‘Implementing Optimal Policy
+through Inflation-Forecast Targeting’, in Inflation Targeting (eds. Ben Bernanke and
+Michael Woodford), University of Chicago Press, Chicago.
+10
+
+

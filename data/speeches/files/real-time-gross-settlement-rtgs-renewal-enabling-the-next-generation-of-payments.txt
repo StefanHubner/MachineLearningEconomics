@@ -1,0 +1,276 @@
+Remarks
+Real-Time Gross Settlement (RTGS) Renewal: Enabling the
+Next Generation of Payments
+Remarks by
+Victoria Cleland, Executive Director, Banking, Payments and Financial Resilience
+
+Technology and Innovation Risk Conference 2018
+25 September 2018
+
+I would like to thank Richard Lewis and Cameron Penny for their contributions.
+1
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+Opening
+
+Good morning, it is a pleasure to join you today at the Technology and Innovation Risk Conference. I would
+like to update you on an exciting programme to renew our Real Time Gross Settlement (RTGS) service,
+where we are seeking to use the latest technology to help to reduce risks and increase innovation and
+competition in payments, and in the financial sector more broadly.
+
+RTGS is a key piece of national infrastructure but one which many people have not heard of. This morning I
+would like to demystify the acronym and take you through the work the Bank is undertaking to enhance this
+vital service and to innovate for the future.
+
+The RTGS service supports accounts for banks, building societies, financial market infrastructures, and most
+recently, non-bank payment service providers, and provides sterling settlement services for Bacs, CHAPS,
+Cheque & Credit, CREST, Faster Payments (FPS), LINK, Visa and cheque clearing. Most payments in the
+UK eventually pass through the RTGS service, and on average over £600billion of payments are settled
+through the system each day - roughly equivalent to the UK’s GDP every three days. Under the real-time
+gross settlement model payment instructions are exchanged and settled individually on a gross basis
+throughout the business day (unlike under a ‘deferred net settlement’ model where payments are exchanged
+by participants during a ‘clearing cycle’). Under the RTGS model ‘settlement risk’ does not occur and our
+financial stability objective is promoted as claims and liabilities between banks and other participants are
+settled in central bank money which is the ultimate secure and liquid asset. It is also the platform through
+which monetary policy decisions are implemented and provides liquidity to the financial system.
+
+Why are we renewing?
+
+Just metres from this conference venue is Pudding Lane where in 1666, after a long, hot summer it was an
+ember from a baker’s oven that set off the Great Fire of London. This triggered the rebuilding of St Paul’s
+Cathedral, the city’s gates and bridges and much more. I’m pleased to say that the Bank of England today
+finds itself in the far more fortunate position of renewing its critical infrastructure through choice rather than
+necessity.
+
+RTGS was launched in 1996, and the world, let alone the financial system, has changed dramatically in the
+intervening 22 years. RTGS has undergone various upgrades but now is time for a more fundamental
+renewal. Technology is changing, the payments landscape is changing and the demands of users and
+potential users are changing. There are also a wide range of domestic and international policy changes
+ranging from the creation of the New Payments Architecture to the implementation of PSD2 so now seems
+an opportune time to promote the transformation of the payments landscape. The Bank is committed to
+introducing the new service in a safe and sustainable way which ensures the integrity of the high-value
+payments system and provides for close levels of co-ordination with participants.
+2
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+2
+
+A core objective in the renewal programme is to ensure the resilience and safety of the UK’s payment
+infrastructure whilst also supporting competition and innovation in the financial services industry. We want to
+support new ways of doing business and serving society’s payment needs. Our vision of the future RTGS
+1
+
+was set out in a Blueprint published in 2017. In developing this vision we undertook considerable dialogue
+with industry: it is essential that the new system meets its needs.
+
+Our vision
+
+Five guiding principles sit behind our vision for the renewed Real-Time Gross Settlement service.
+
+Higher resilience: Resilience to operational and security issues will be at the heart of the new service, as it
+is today. The renewed RTGS will continue to offer best-in-class resilience which means it will be designed
+to deliver an improved objective of zero or near-zero downtime for currently known resilience problems.
+
+Broader access: The Bank wishes to promote membership of RTGS and has made steps towards this by
+extending direct access to RTGS accounts for non-bank Payment Service Providers (PSPs). We will also
+continue to focus on streamlining the onboarding and testing regimes for direct members.
+
+Wider interoperability: We will promote ways in which users can reroute payments especially if outages
+occur. This will reduce the risk of downtime and help to keep the economy moving. Implementation of the
+ISO 20022 Common Credit Message (CCM) across CHAPS, Bacs and FPS will aide in this.
+
+Improved user functionality: The new system will be designed to better support the needs of users, for
+example enhanced liquidity management. And we will also look to extend opening hours.
+
+Strengthened end-to-end risk management: A more robust system with greater oversight and governance
+from the Bank of England has been introduced since the operation of CHAPS was brought in-house in
+November 2017. The Bank now has responsibility for system-wide risk management, including relationships
+with participants, and clearer lines of responsibility and integrated governance will help to reduce further the
+risks in the High-Value Payment System (HVPS).
+
+Today I will cover three key areas:
+•
+
+Firstly, how we want to expand access to RTGS to enhance financial stability and promote
+competition;
+
+1
+
+Bank of England, A blueprint for a new RTGS service for the United Kingdom, https://www.bankofengland.co.uk/paper/2017/ablueprint-for-a-new-rtgs-service-for-the-uk
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+3
+
+•
+
+Secondly, how we are examining ways of supporting settlement across innovative payment
+technologies; and
+
+•
+
+Finally how ISO 20022 implementation will support innovation, harmonisation and resilience.
+
+Improving access
+
+The Bank wants to see the next generation of RTGS support greater competition and innovation within the
+payments industry. Expanding access to the service also has the benefit of providing greater financial
+stability by reducing operational reliance on a small number of banks and lowering the credit exposures
+between direct and indirect participants. We have therefore changed the access criteria to enable non-bank
+Payment Service Providers (PSPs) to join. Earlier this year Transferwise was the first non-bank to gain direct
+access to RTGS, followed soon after by Ipagoo.
+
+Going forward we also want to make the onboarding process smoother and more efficient. For instance, we
+intend to introduce automated testing, which will reduce the burden and manual effort required by both new
+and existing participants when someone joins RTGS. And we will introduce simulators to help onboarders
+better familiarise themselves with RTGS and the full functionality it offers before going live.
+
+Innovative payment technologies
+
+The UK is a world-leader in financial services technology and innovation. We have a fintech industry which
+2
+
+employs over 60,000 people. This success is not limited to London; centres of excellence exist across the
+country including Manchester, Leeds, Edinburgh and Cambridge (where Sir Dave Ramsden is today chairing
+a fintech roundtable). Innovation is not the preserve of those in the fintech sector; the banking industry as a
+whole is making system-wide changes to improve how it serves the people of the UK. The Bank is also no
+stranger to innovation and in my previous role as Chief Cashier I oversaw the introduction of the new
+cleaner, safer and stronger five pound and ten pound notes.
+
+We decided not to build the renewed RTGS on Distributed Ledger Technology (DLT), wanting to first see
+greater proof of resilience and scalability. However, we are keen to facilitate the use of new technologies
+and we are working to deliver a service that has the capability to interact with DLT systems should demand
+emerge.
+
+The Bank has recently concluded a Proof of Concept (PoC) with a number of fintech firms on this topic. The
+purpose of this PoC was to (a) understand how RTGS could be capable of supporting settlement in systems
+operating on innovative payment technologies. (b) To understand the limitations that such systems might
+need to navigate. Amongst those considerations was what additional functionality the renewed RTGS service
+2
+
+KPMG, Value of Fintech, https://assets.kpmg.com/content/dam/kpmg/uk/pdf/2017/10/value-of-fintech.pdf
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+4
+
+would need to provide in order to enable platforms using innovative technology to optimise their access to
+central bank money settlement.
+3
+
+The results of the POC were published on the Bank of England’s website in June this year. The results were
+encouraging and demonstrated that participants using alternative technology, such as DLT, could connect
+and settle. If used in this way, it could enable a wider range of institutions and infrastructures to access
+prefunded settlement, supporting competition and innovation, offering efficiency gains for users preparing
+RTGS for future demand.
+Another area of research is synchronisation – sometimes known as ‘atomic settlement’. This would provide
+the ability to link payments (or other asset movements) so that each individual movement would happen if
+and, only if, they all do. Initial industry feedback suggested that for certain transaction types (such as housing
+transactions, corporate transactions, securities settlement and cross-border payments), synchronisation
+might reduce cost and risk, improve efficiency, and support innovative new methods of settlement. We
+4
+
+recently published a Call for Interest on synchronisation; the deadline for which is 28 September.
+
+ISO 20022
+
+None of our ambitions; be they higher resilience, broader access, wider interoperability, improved user
+functionality, or stronger end-to-end risk management, would be possible without a messaging standard in
+place. A messaging standard is a common set of rules for exchanging relevant payment information in order
+to enable efficient communication with participants and related infrastructures. Messaging standards cover
+such things as:
+•
+
+How senders and receivers identify each other;
+
+•
+
+How key properties of a payment message, such as currency, amount and value date, are
+represented; and
+
+•
+
+What additional information can be included.
+
+The Bank is committed to transitioning to a new standard, specifically ISO 20022, as is the New Payment
+System Operator (NPSO). This is an open and global standard which can continually evolve to meet the
+needs of users. It is network agnostic to enhance interoperability with various operating systems and it has
+substantially increased data carrying capacity. Ultimately, in the very long term, ISO 20022 could also enable
+us to include a diverse range of characters from existing languages and other communications systems,
+though we will focus on ensuring we get the basics right first. In any case, this transition from the legacy and
+3
+
+Bank of England, RTGS Renewal Programme Proof of Concept: Supporting DLT Settlement Models,
+https://www.bankofengland.co.uk/news/2018/july/rtgs-renewal-programme-proof-of-concept-supporting-dlt-settlement-models
+4
+Bank of England, Call for interest: Synchronised settlement in central bank money, https://www.bankofengland.co.uk//media/BoE/Files/payments/rtgs-call-for-interest-synchronised-settlement-in-central-bank-money
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+5
+
+restrictive standards currently used will have far-reaching implications and benefits for not only the UK’s
+payments system, but participants and their customers.
+
+One of the key changes will be the creation of the UK Common Credit Message (CCM).The proposed CCM
+would provide a set of definitions, structures and rules for inputting data into a payment message for
+Payment Service Providers and users. Domestic adoption of the CCM will ensure that the majority of the
+content in high-value and retail payments is aligned, streamlining processes for payment services providers
+and potentially enabling rerouting of payments between different payments systems in the event of
+operational disruption.
+
+Other benefits arising from ISO adoption will be much improved information concerning the identities of those
+in payment transactions. This will include the adoption of Legal Entity Identifiers (LEIs), which when rolled
+out more widely have the potential to enable banks and non-bank payment service providers to deploy
+next-generation fraud prevention measures. The Bank will ensure that this functionality is in place but it will
+be up to industry to deliver these enhanced services for customers.
+
+As with the overall RTGS Programme the Bank is committed to proactively engaging with industry to get this
+right. A consultation on ISO 20022 closed in July 2018 and the Bank, in collaboration with the NPSO, is
+reviewing the responses received. There will be an update on next steps and how the Bank will structure
+future ISO engagement towards the end of the year. We are also maintaining an active dialogue with the
+NPSO as it takes forward plans for the New Payments Architecture which will also deploy on ISO 20022.
+
+Close
+
+The RTGS Programme is a significant piece of the puzzle for the future of payments in the UK. I would like
+encourage the industry to continue to work with us to help shape the future of RTGS a smooth transition to
+the new service. We need to have a close and transparent working relationship with key stakeholders
+across the whole payments industry over the next few years. As the Bank builds and delivers its renewed
+RTGS system, and stakeholders make changes and improvements to their own payment processing
+systems, we can ensure that the full benefits of a renewed RTGS are enjoyed and delivered as safely,
+securely and efficiently as possible, across the whole of the payments industry.
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+6
+
+References
+Bank of England, A blueprint for a new RTGS service for the United Kingdom,
+https://www.bankofengland.co.uk/paper/2017/a-blueprint-for-a-new-rtgs-service-for-the-uk
+
+KPMG, Value of Fintech, https://assets.kpmg.com/content/dam/kpmg/uk/pdf/2017/10/value-of-fintech.pdf
+
+Bank of England, RTGS Renewal Programme Proof of Concept: Supporting DLT Settlement Models,
+https://www.bankofengland.co.uk/news/2018/july/rtgs-renewal-programme-proof-of-concept-supporting-dltsettlement-models
+
+Bank of England, Call for interest: Synchronised settlement in central bank money,
+https://www.bankofengland.co.uk/-/media/BoE/Files/payments/rtgs-call-for-interest-synchronised-settlementin-central-bank-money.
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+7
+
+

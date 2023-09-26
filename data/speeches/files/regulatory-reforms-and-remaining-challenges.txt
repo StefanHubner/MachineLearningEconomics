@@ -1,0 +1,272 @@
+II. Basel III, Too-Big-To-Fail,
+and Macroprudential Regimes
+by Paul Tucker
+
+Basel III corrects some of the big problems in the Basel I and Basel
+II Accords. I will first cover that, and then put it in the context of the
+wider debates about the too-big-to-fail issue and about macroprudential
+regimes.
+I would highlight one big gap and three design flaws in the earlier
+Accords. The gap was, of course, liquidity. We entered this crisis with
+a banking system whose very essence is, obviously, to provide liquidity
+insurance, and was indeed providing lots of it to shadow banks, but
+which did not actually carry much liquidity itself. There is a perfectly
+legitimate debate about the details of the Basel plans on liquidity, but
+broadly speaking, the official sector is surely right in filling the gap in
+this area. We do need a Liquidity Accord.
+The first design flaw in the earlier Capital Accords was applying
+a zero weight to 364-day lines of credit, which fuelled the shift of
+credit supply into unconsolidated vehicles, that is to say, shadow banks.
+Frankly, applying a zero weight to any type of asset leads to the asset
+being oversupplied.
+A second design flaw was a capital regime for the trading book that
+did not take any account of the risk of big but rare swings in liquidity premia. In other words, the tradability in stressed conditions was
+ignored in the trading book. We need to require capital to cover the
+
+15
+
+risks of swings in liquidity premia. That is one of the Basel Committee’s
+agenda items for 2011, and it should be a priority.
+But the third and most significant design flaw in the previous Basel
+Capital Accord was that instruments were included in regulatory capital
+that could not in fact absorb losses in a going concern.
+At this point, I would like to tell a stylized version of some of our
+crisis experiences.
+During the crisis—I can’t remember whether this was toward the
+end of ’07 or early ’08—we held an emergency meeting in the Bank of
+England about a small bank or building society. So this is the Governor
+of the Bank of England, Mervyn King, and me, one or two others, and
+the experts on this particular bank. It was held either late in the evening
+or at the weekend, I can’t remember which, but it is important to the
+story that it was a special meeting. The team comes in and they say:
+we’ve got this bank, it’s made losses of 200 and it’s got regulatory capital
+of 300.6 But before they carry on, Mervyn and I and others exclaim,
+well, then, if it’s got capital of 300 and losses of 200, if it’s still solvent,
+can’t it survive, why are we having this meeting as an emergency? The
+team goes on robustly: because its got only 100 of equity, which will be
+wiped out by the losses and so it’s going to have to go into liquidation,
+and that could be one almighty mess.7 We said, what do you mean its
+got regulatory capital of 300 but equity of 100? They said, well, all the
+rest is subordinated debt and hybrids and so forth, and those instruments absorb loss only if a bank goes into liquidation, and the U.K.
+doesn’t yet have a regime for handling that smoothly.
+In that meeting, anything other than common equity (and retained
+earnings) counting toward assessments of capital adequacy struck a
+severe blow in the Bank of England. In assessing the capital adequacy
+of firms, the Bank of England will place weight only on common equity and instruments that truly can absorb losses in a going concern or
+through orderly resolution procedures. This story exactly demonstrates
+the flaw in the earlier Capital Accords of including instruments under
+“regulatory capital” that could not actually absorb losses. (There is now
+a Federal Deposit Insurance Corporation-style resolution regime in the
+U.K., by the way.)
+
+6
+
+Numbers invented for the purpose of demonstrating the story.
+
+7
+
+Given the UK’s lack of a special resolution regime at the time.
+
+16
+
+New Instruments and Resolution Regimes:
+Tackling Too-Big-To-Fail
+These issues have ended up being related to debates about new instruments and about resolution regimes. At the moment, there is a somewhat confusing debate going on about instruments that convert into
+equity at the point of nonviability; bail-in under contract; bail-in via
+resolution; and about Contingent Convertible bonds (CoCos). The latter
+convert into equity, with triggers based either on accounting ratios or
+market prices, and those triggers can be either distant from or close to
+nonviability. Over the next six months or a year, the official sector is
+going to have to tidy this up because it is easy for people to lose track
+of what this is actually about.
+A few reflections on that.
+There is agreement in the G-208 that there will be some kind of
+requirement for the most significant and complex firms in the world—
+so-called Global Systemically Important Financial Institutions (GSIFIs)—to carry greater loss-absorbing capacity over and above the Basel
+III minimum. There is a discussion about whether all of this greater
+loss-absorbing capacity must necessarily be met by common equity.
+Could it be met partly by, for example, CoCos rather than by common
+equity? Currently my personal view is that any CoCos counting towards
+greater loss absorbency could not have low triggers; they could not
+have a trigger for conversion at an equity ratio of let us say 5 percent
+because if a big universal bank got to the point where its equity ratio
+was getting that low but these instruments had not converted, the firm
+would most probably have imploded. So if CoCos were to contribute
+towards requirements for GSIFIs they must have high triggers; preemptive recapitalization.
+There has been a debate about whether anyone would want to buy
+these instruments, and the official sector needs to be quite careful not
+to try to design every feature of them. Why should we be better at that
+than the market? We do, of course, need to be clear about what characteristics would be necessary for these CoCos to count toward GSIFI’s
+greater loss-absorbing capacity. And if there isn’t a market for them,
+8
+
+Members of the G-20 are Argentina, Australia, Brazil, Canada, China, France, Germany, India,
+Indonesia, Italy, Japan, Mexico, Republic of Korea, Russia, Saudi Arabia, South Africa, Turkey,
+the United Kingdom, the United States, and the European Union.
+
+17
+
+then the banks and dealers concerned would just have to carry extra
+common equity or be less risky.
+Where this particular debate meets resolution is really in the area of
+“bail-in.” The “bail-in” label is both helpful and unhelpful. It is helpful in that it signals that we are talking about the opposite of bailout
+by the taxpayer and ensuring that losses fall on certain categories of
+creditor and on equity holders. But it is unhelpful insofar as there are
+at least two, probably three, ways of delivering this. One would be to
+write the terms of the trigger and the extent of the write-down into the
+indenture of a bond. In that case, no role is played by the authorities in
+the write-down of individual bonds.
+Another, quite different route would be to make the haircutting
+(and partial conversion into equity) of certain classes of creditor a right
+of the resolution authority, either as part of an orderly rundown and
+sale or as part of resurrecting any viable core of the business as a going
+concern that would be released from resolution after a reconstruction
+of its capital structure (failure followed by restoration). It is fairly clear
+that countries should have this tool. Without it, they are ill-equipped
+to handle a crisis at a complex firm.
+Crucially, and I want to stress this, those two variants of “bail-in” are
+not necessarily mutually exclusive, and they could have quite different
+triggers. And a possible hybrid, mentioned by some, would be for the
+authorities to trigger a write-down but for the extent of the write-down
+to be determined in the bond indenture. Without getting into too much
+detail on all that, what one realizes is that we enter immediately into
+territory where supervision meets resolution; the hybrid route risks
+muddying the distinction.
+Note that CoCos and bail-in-as-a-resolution tools are not in competition. They operate at very different stages of a firm’s life. CoCos can be
+used as a preventive measure. Bail-in is one potential resolution tool
+when, notwithstanding improvements in regulation and supervision
+and any earlier re-equification from CoCo conversion, a firm is in distress, is in the last-chance saloon. An interesting question is whether
+there are instruments that can be useful between those two poles, as a
+firm’s capital is progressively eroded. Those might be bonds with triggers
+that were not high but were clearly prior to the point of nonviability.
+Given the importance of resolution, the G-20 has endorsed a program
+of work by the Financial Stability Board to do the following things
+during 2011.
+
+18
+
+1. Develop the Key Attributes that are needed in national
+resolution regimes both for normal banks and, in particular, for the
+largest, most complex banks and other financial firms.
+2. Recommend how to remove the impediments to crossborder cooperation and coordination in this area. Among other
+things, this will involve agreements among home and host countries on
+particular firms. I think this will have to be led or endorsed eventually
+by finance ministries and governments rather than just by central bankers and regulators, because this has to do with intervention in property
+rights and a degree of surrender of sovereignty, which only the executive arm of government, carrying their Parliament or Congress, can do.
+3. Steer the development of Living Wills for the most significant firms. As all that work proceeds, this could change the way people
+think about the Basel III capital package and about the role and work
+of banking supervisors.
+That is reflected in the way the planned new U.K. setup for supervision and regulation is being designed. Just as significant as the microprudential supervisor coming under the Bank of England umbrella
+is that the objective of bank supervision in the U.K. will no longer be
+cast in terms of the protection of depositors. Instead, the goal of bank
+supervision will be to contribute to the preservation of stability, and to
+ensure, in particular, that if a bank fails, it fails in an orderly way. Together with many other countries, the U.K. is certainly guilty of saying
+for many years that it did not have a zero failure regime while giving
+no thought as to how failure would actually be handled. Resolution
+regimes were a crucial missing set of instruments.
+
+Countercyclical Buffers and Macroprudential Regimes
+Another set of missing instruments concerned preserving stability in
+the face of credit booms. We see the countercyclical buffer in Basel III
+as only the first step toward creating a macroprudential regime. In the
+U.K., we debated whether we thought it was a good thing or a bad thing
+to include this in Basel III. The risk is that microsupervisors around the
+world might think this is the end of the story. But we concluded that
+it was important for Basel III to genuflect in the direction of cyclical
+macroprudential tools, in the interest of signalling to and within the
+
+19
+
+microsupervisory community that this is the beginning of what may
+well prove to be a big change over the coming years and decades. And
+it will be helpful that the Basel III countercyclical buffer switches on
+semi-automatically unless overridden by the application of judgment,
+in light of the circumstances, by the authorities. To exercise that judgment, the authorities have to have a macroprudential, or systemwide,
+perspective and mandate.
+In terms of how this is playing out in the U.K., we are on course to
+create a regime where the countercyclical instruments will probably
+include not only varying headline capital requirements but also varying
+risk weights on certain types of exposure. There is also a question of
+whether to have policies on loan-to-value ratios or haircuts.
+More important, building resilience during booms (“countercyclical
+policy”) is only one of three broad elements of the mandate that the
+U.K. government plans to give to the new Bank of England Financial
+Policy Committee (FPC). Another element will include monitoring
+developments beyond the core regulated community with a mandate
+to make recommendations to the U.K. government on when the perimeter of microregulation should be changed in the interests of stability.
+This can be thought of as a provision for countering shadow banking,
+where needed. I personally expect to take to the table the issue of how
+to address the threats to stability from the money market mutual fund
+industry, which is smaller in the U.K. but, as currently structured,
+still a fault line in the international financial system that confronts all
+authorities concerned about stability.
+The third element of the FPC’s mandate is in many ways the most
+interesting, and it carries an echo of the Paulson Plan in the United
+States. It is that the FPC will have a right to make recommendations
+to, and under certain conditions to direct, both the microsupervisor
+and the securities regulator to alter their rulebooks or policies so as to
+preserve stability. That might, for example, include the FPC leading on
+the broad parameters for a Systemically Important Financial Institution
+greater loss-absorbing capacity policy; and it might also have included
+stepping in, had only this regime existed a long time ago, to require
+over-the-counter derivatives to go through central counterparties or to
+enhance the framework for Asset Backed Securities/Collateralized Debt
+Obligation issuance and placement. The FPC will be a fairly revolutionary change in the U.K. setup.
+
+20
+
+Microsupervision in the U.K.
+Finally, I want to discuss some points about central banks and microsupervision, given the planned establishment in the U.K. of a macroprudential umbrella for banking supervision.
+First, the Bank of England’s experience during the crisis underlined,
+if it needed to be, that the lender of last resort is unavoidably involved
+in trying to preserve stability. And it is distinctly uncomfortable being
+the lender of last resort if you do not have ready access to information
+about individual firms. That has had a bearing on the plans to bring
+microprudential supervision under the Bank of England.
+At the Bank of England, we have not campaigned for the return of
+microsupervision to the central bank, but we did think that it was highly
+desirable to adopt Twin Peaks in the U.K.; that is, to split the Financial
+Services Authority (FSA) into two parts—a prudential supervisor and a
+securities regulator. And that having been decided upon, we thought it
+was perfectly reasonable—indeed, that there would be advantages—for
+the Prudential Regulatory Authority to be combined with the central
+bank, given the plan to give us the macroprudential mandate and that
+we are, inalienably, the lender of last resort.
+The integration challenge is obviously significant, but we see an
+opportunity to make some improvements, working with FSA leaders.
+Just one example: Adair Turner, FSA Chairman, along with the FSA’s
+Chief Executive, Hector Sants, has been driving increased analytical
+use of data in the FSA. That is one example of things that, when the
+Prudential Regulatory Authority comes to the Bank of England, we will
+be able to take further. We can also ensure that more weight is given
+to issues highlighted by market intelligence. But the big difference between microsupervision and the rest of the central bank is that there
+just has to be more delegation in microsupervision. Of course, there
+has to be senior management monitoring and guidance, and it is vital
+to increase the involvement of senior supervisors in line supervision.
+But this is not a function where all the decisions can be taken at the
+top or toward the top of the organization. That is one reason why the
+microsupervisor is going to be put in a subsidiary of the Bank with its
+own board, which Governor King will chair, with the chief executive,
+Hector Sants, coming from the FSA, and myself on the board and then,
+importantly, some independents, too. In this, at the Bank, we have been
+highly influenced by the structure in France, where microsupervision
+
+21
+
+is part of the broader central banking group but has its own distinctive
+management lines of command and its own mandate.
+Finally, and perhaps most important, a lot of what this is about in an
+institutional sense is going back to a broader definition of what central
+banking is about; where it is most certainly about maintaining the
+value of our money in terms of goods and services, but it is also about
+the value of private sector money (deposits) in terms of our money;
+that is to say, stability. There needs to be a major debate about how to
+best be accountable and communicate to the public on those border
+responsibilities and also about how international coordination will
+work. I think a reasonable prediction would be that in 10 years’ time,
+the Committee on the Global Financial System will have a somewhat
+higher profile than it has had over the past 10 years.
+
+22
+
+

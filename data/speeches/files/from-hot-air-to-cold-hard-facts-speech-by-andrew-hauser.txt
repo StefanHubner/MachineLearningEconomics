@@ -1,0 +1,958 @@
+From hot air to cold hard facts: how financial markets are
+finally getting a grip on how to price climate risk and return –
+and what needs to happen next
+Speech given by
+Andrew Hauser, Executive Director, Markets
+Investment Association, London
+16 October 2020
+
+I am grateful to Benjamin Bowry for his help in writing this speech, and to Andrew Bailey, Imane
+Bakkar, Bethany Blowers, Sarah Breeden, Mark Cornelius, Eleanor Eden, Amber Evans, Sarah Hall,
+Andrew Harley, Ronan Hodge, Sarah Kemmitt, Zane Jamal, Theresa Lober, Arjun Mahalingam,
+Tom McLaren, Jenny Owladi, Dave Ramsden, Andrea Rosen, Tom Silvester and Mathieu Vital for
+their comments and guidance.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+Introduction
+2020 is not the likeliest of years for the green revolution to have started paying off in financial markets. With
+a global pandemic raging, and economic uncertainty at historic highs, issuers, investors and intermediaries
+might have been forgiven for having their minds elsewhere.
+But, in fact, after many years of rhetoric from market practitioners, the temperature has changed noticeably.
+Hot air is turning into cold hard fact:
+-
+
+Climate oriented equity indices have outperformed the broader market by 2-5% in 2020, as
+economic activity has shifted away from travel and other fossil fuel-intensive sectors, and towards
+online commerce and technology (Chart 1);
+
+-
+
+Green bonds also outperformed their conventional counterparts over that same period (Chart 2), and
+made up a fifth of total European investment grade issuance in September alone. And companies
+such as VW and Daimler secured material reductions in financing costs (or ‘greeniums’) when
+issuing their first green bonds, linked to the development of low-emission technologies;
+
+-
+
+Governments have been increasingly persuaded of the powerful direct and indirect effects of issuing
+their own ‘sovereign green bonds’ too, with a raft of countries coming to market for the first time this
+year: Germany’s innovative dual-bond issuance was five times oversubscribed and commanded a
+clear greenium; and the European Commission announced that it will fund 30% of its €750bn ‘Next
+Generation’ budget in the same way; 1
+
+-
+
+More and more investment money is massing on the sidelines. Funds with above-average
+sustainability ratings have seen big inflows this year, and now hold $4.6 trillion in assets globally. In
+response, fund managers are overhauling their investment strategies to put sustainability centre
+stage.2 To take just one example, more than 500 global investors, accounting for over $47 trillion of
+assets, have committed to support the Climate Action 100+ initiative, aimed at ensuring the world’s
+largest corporate greenhouse gas emitters take action on climate change. 3
+
+For the many organisations, including the Bank of England, that have pushed so hard for climate economics
+to be taken seriously, these are welcome developments, especially in the runup to next year’s UN Climate
+Change Conference, ‘COP26’. But, on a moment’s reflection, the fact that this is happening now is less
+surprising. Covid-19 reminds us all that we cannot ignore the daunting forces of the natural world. And it is
+accelerating economic trends that had previously been slow to reveal themselves. Those trends bring many
+challenges – but they also bring opportunity, amongst them the chance to advance the pace of climate
+transition.
+
+1
+2
+3
+
+https://ec.europa.eu/commission/presscorner/detail/en/ip_20_1657
+See eg https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter
+http://www.climateaction100.org/
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+The need to do so is pressing. The UN Environment Programme estimates that global greenhouse gas
+emissions must be cut by 7.6% in each and every year from now until 2030 to meet a 1.5°C temperature
+goal.4 To put that number in context, it’s roughly the decrease the International Energy Agency expects to
+see this year as a result of Covid-19. 5 Repeating that reduction every year for a decade is hard to
+comprehend. It will certainly require huge investment, estimated to be at least $3.5 trillion per annum, for the
+foreseeable future.6 That’s a doubling in capital spending in the power sector alone.
+Chart 1: Excess returns of green equity indices
+
+Chart 2: Excess returns of green bond indices
+
+vs relevant market-wide benchmark
+
+vs relevant market-wide benchmark
+
+Source: MSCI, Bloomberg Finance L.P. and Bank calculations.
+Source: FTSE Russell, MSCI, S&P Dow Jones Indices and Bank
+calculations.
+
+Funding those massive sums will fall, in part, to governments around the world, and in part to the banking
+system. A lot has been said about the challenges that will pose. But increasingly the task will also fall to the
+capital markets – and that’s where I want to focus my remarks today.
+Well-functioning capital markets are amongst the most powerful tools we have for turning the vision of a
+resilient carbon neutral economy into reality.7 Cold hard price incentives that reward investments aligned
+with that goal, and penalise those which aren’t, are worth a thousand entreaties on the dangers of inaction.
+Establishing those incentives requires three key building blocks. First, credible public metrics of the
+climate impact of specific investment projects and corporate activities, and the financial risk and return
+involved. Second, effective capital market instruments to package that risk and return and match it with
+4
+
+https://www.unenvironment.org/news-and-stories/press-release/cut-global-emissions-76-percent-every-year-next-decade-meet-15degc
+https://www.iea.org/reports/global-energy-review-2020/global-energy-and-co2-emissions-in-2020
+6
+See eg https://www.irena.org/financeinvestment/Investment-Needs, https://www.fca.org.uk/publication/corporate/climate-financial-riskforum-guide-2020-innovation-chapter.pdf and https://www.iea.org/news/deep-energy-transformation-needed-by-2050-to-limit-rise-inglobal-temperature
+7
+Indeed, a recent paper by Ralph De Haas and Alexander Popov (https://www.ecb.europa.eu/pub/economicresearch/resbull/2019/html/ecb.rb191127~79fa1d3b70.en.html) argues that capital markets (and in particular equity markets) may be
+superior to banks in incentivising climate-supporting investment.
+5
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+growing investor demand. And third, asset allocation strategies allowing those investors to construct
+portfolios aligned with, and facilitating, the transition to a carbon neutral economy.
+For much of the past decade, those three building blocks have been slow to develop, or vulnerable to
+charges of ‘greenwashing’ (projects, vehicles or investment strategies that are ‘green’ in name only). I want
+first to review why that historical performance has been so sluggish, before turning to look at how things are
+changing, and fast, under the influences of shifting public policy and consumer behaviour, and the physical
+realities of a changing planet. I will focus mainly on developments in private financial markets, but will also
+touch on some of the ways that we in the UK public sector can contribute, as market participants in our own
+right.
+Why markets have struggled to price climate risk: externalities, horizons and opacity
+Given the sheer scale of the climate challenge, it is at first glance surprising that financial markets have
+struggled to reflect it in asset pricing. The reasons for that failure are threefold.
+First, it is in the nature of climate change that many of the costs of failing to address it, and the opportunities
+for positive change, fall to society as a whole, rather than specific individuals or companies. The freedom to
+emit unlimited amounts of carbon is one example. Markets are notoriously poor at pricing such
+‘externalities’.
+Not all climate risks are externalities, of course. Investor activism can bring consequences to bear on firms
+viewed to be responsible for climate harm.8 And climate-related natural disasters – already three times more
+frequent than 40 years ago – fall on real individuals and real companies. Financial markets and institutions
+can help provide insurance against those risks, but great care is needed to ensure such cover is provided
+appropriately: too little, and households, companies and lenders will go under-covered; too much, and
+insurers may be unable to follow through on their commitments.9
+But the most important force for internalising these externalities will be public policy – on climate regulation,
+carbon pricing and taxing, and legal liability. Such policy ‘privatises’ the social cost on specific companies
+and sectors of the economy, and creates powerful opportunities for those first to innovate climate-positive
+technologies. I will not have more to say on the priorities for future policy in this area today, 10 but it is safe to
+say that these steps will only intensify as governments follow through on the sort of mid-century net-zero
+commitments legislated in law by the UK last year, and recently by China.
+The second factor impeding financial market pricing of climate risk has been the long horizon over which that
+risk has historically been thought likely to crystallise. Financial markets do not have a great track record
+pricing such longer-term phenomena, particularly when their scale and incidence is also uncertain – a failing
+8
+
+To take just one example amongst many, ‘Make My Money Matter’ was formed by Richard Curtis and Jo Corlett to drive change in
+pension fund investment: https://makemymoneymatter.co.uk/.
+9
+For a recent discussion of these issues, see https://www.bankofengland.co.uk/speech/2020/anna-sweeney-moodys-the-resilience-ofinsurers-in-a-changing-climate
+10
+For a recent central banker’s perspective on these points, including the case for establishing a global price for carbon, see the speech
+by Isabel Schnabel of the ECB at https://www.ecb.europa.eu/press/key/date/2020/html/ecb.sp200928_1~268b0b672f.en.html
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+that Mark Carney has called the ‘tragedy of the horizon’.11 But here, too, things are changing. Climate risk
+doesn’t seem so hypothetical or far off to those gazing at red skies over San Francisco, fleeing their burning
+homes in the Australian outback, baling out flooded villages in the UK, or contemplating big writedowns in
+the value of their businesses (as the boards of Ford, VW, BP and Shell, to name but a few, have done).
+Here, a combination of consumer action, government policy, and financial market pricing are bringing the
+future into the present.
+The final issue is the most prosaic, but perhaps also the most important from a financial markets perspective
+– and that is the historic absence of robust measurement. Measurement of how much pollution specific
+companies, their supply chains and consumer markets, produce. And measurement of the extent, and
+efficacy, of remedial action. While financial performance and risk is measured, and audited, to the nth
+degree, climate risk has historically been a void. What isn’t measured can’t be priced, traded or risk
+managed. This is perhaps where change has been most profound, as I will discuss shortly.
+The consequences of the historic failure of financial markets to price climate risk have been two fold. Much
+of the focus has been on the under-pricing of downside risk – to polluters, or polluted – and the potential for
+a ‘climate Minsky moment’: a sudden sharp downwards adjustment when that risk crystallises. But
+opportunities to improve climate outcomes have been under-priced too: making it harder to get the finance
+needed to drive positive change. Both sides of this equation need to change – and they are.
+The building blocks of change
+In what follows I want to cover those three key building blocks for an effective capital markets infrastructure
+that I mentioned at the start: climate disclosure; climate-linked capital instruments; and climate-focused
+asset allocation strategies.
+But before doing so I will note an irony – which is that the very need to have climate-specific tools reveals the
+immaturity of financial markets’ relationship with climate risk. In a world where climate risks were fully
+internalised, measured, priced and traded, there would be little need for dedicated climate financial
+infrastructure: climate risk would be factored into each and every risk and reward decision. Green bonds
+would just be bonds. And ‘impact investors’ could focus their efforts on other challenges, as market pricing
+would align the private and societal costs associated with greenhouse gas emissions. That ‘integrated
+approach’ is a worthy goal: the Holy Grail of market maturity. But we are some way from that today.
+Building block 1: climate disclosure
+The field of climate disclosure is as good an example of that gap as any. No-one needs to convince public
+companies of the merits of regular disclosure of their financial risks and returns: their economic health
+depends on it; and, just in case that’s not enough, it’s compulsory.
+
+11
+
+https://www.bankofengland.co.uk/speech/2015/breaking-the-tragedy-of-the-horizon-climate-change-and-financial-stability
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+The incentives to disclose climate risks and returns may seem somewhat less hard-edged. Much of the
+early discourse on disclosure has certainly been aimed at encouraging firms to adopt such disclosures
+voluntarily. But that is changing rapidly.
+Companies at the sharp end have increasingly strong business incentives to disclose, some of which I’ve
+tried to summarise in Table 1. Robust climate metrics not only help with managing your own investment
+programme, they also signal clearly to your retail and business customers, and your employees, that you ‘get
+it’ and have coherent plans to address the risks over time. Doing so buys customer commitment and brand
+image, and helps your supply chain; failing to do so risks customer boycotts, lost contracts and poor
+investment planning.
+Something similar is afoot in capital markets too. Disclosing your plans can improve your credit rating,
+broaden your investor base, reduce your cost of finance, and economise on the fixed costs of meeting
+increasingly vocal investor requests for information. A recent large-scale study of some 6,000 corporate
+disclosures found that firms that published data on their Environmental, Social, and Governance (ESG)
+performance received cheaper debt funding, with environmental disclosures having the largest effect. 12 And
+increasingly that message is getting across: three-quarters of UK board members believe structured
+disclosure along the lines of that recommended by the Task Force on Climate-Related Financial Disclosures
+(TCFD) will increase brand value, nearly half expect improved alignment with shareholder priorities, and a
+third already see tangible financial benefits. 13
+Table 1: Potential economic benefits of disclosing climate metrics (and costs of not)
+
+Potential issuer benefits
+
+Potential issuer costs from
+
+from disclosing
+
+not disclosing
+
+Improved rating
+
+Worse rating
+
+risk premium
+
+Higher asset valuations
+
+Lower asset valuations
+
+Financing
+
+Size of investor
+
+Access to more investors
+
+Shrinking investor base
+
+terms and
+
+base
+
+Credit rating
+Lower uncertainty
+
+asset
+valuations
+
+More expensive finance as
+Financing rate
+
+Cheaper finance
+
+raters/investors apply a risk
+premium
+
+Fixed cost of
+
+Lower cost of engaging
+
+Confusion drives increasing
+
+investor
+
+with investors
+
+costs of investor engagement
+
+engagement
+12
+13
+
+https://www.researchgate.net/publication/335016621_ESG_practices_and_the_cost_of_debt_Evidence_from_EU_countries
+https://www.carbontrust.com/news-and-events/news/two-thirds-of-major-uk-companies-to-incorporate-climate-change-risks-and
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+Management of
+
+Improved understanding
+
+Weaker awareness internally
+
+own risks
+
+and ability to manage risks
+
+and externally
+
+Retail consumer
+
+Improved brand image and
+
+Customer boycotts harm firms’
+
+Business
+
+expectations /
+
+hence demand / revenues
+
+positions in contested markets
+
+management
+
+demand
+Supply chain
+
+Awarded more contracts
+
+Cut out of contracts from firms
+
+expectations /
+
+from firms seeking lower
+
+seeking lower ‘Scope 3’ scores
+
+demand
+
+‘Scope 3’ scores14
+
+Human resources
+
+Attracting, motivating, and
+
+Challenges in hiring and
+
+retaining staff
+
+retaining key staff
+
+Clean regulatory record
+
+Fines and infractions
+
+Regulation
+
+Regulatory
+compliance
+
+That’s all very well for firms with a good story to tell – but doesn’t it still pay laggards to stay silent?
+Increasingly not. Where firms fail to provide their own authoritative disclosures, customers, investors and
+rating agencies will attempt to construct their own. And that’s not good for your financial health: because
+disagreement between different measures of a firm’s climate performance, whether driven by poor data or
+otherwise, increases equity risk premia, and hence the cost of raising investment finance. 15 It increases the
+overhead from dealing with investor queries or resolutions on ESG issues, which have risen this year despite
+the Covid-19 pandemic.16 And it will leave you scrambling when disclosure becomes mandatory. The FCA
+is already consulting on proposals that firms listed in the UK will be expected to make a TCFD disclosure. 17
+And the EU Taxonomy Regulation will make green revenue and expenditure disclosures obligatory for those
+falling within its jurisdiction. Setting out pathways to mandatory TCFD disclosures should be a priority for
+public authorities; in the UK this is being explored by the Government-led taskforce on climate disclosure. 18
+If that gives the case for disclosure in principle, what makes a good disclosure from the perspective of
+effective capital markets functioning? According to the TCFD, disclosures should be: consistent (complete,
+and comparable across time and issuers); ‘decision useful’ (relevant to investment decisions, specific,
+reliable, verifiable); and forward looking (showing not just where you have been, but where you are going,
+and how).19
+
+14
+
+The Greenhouse Gas Protocol Corporate Standard classifies a company’s emissions into: Scope 1 (direct emissions from owned or
+controlled sources); Scope 2 (indirect emissions from generation of purchased energy); and Scope 3 (all other indirect emissions in the
+upstream and downstream value chain of the reporting company).
+15
+https://www.inrate.com/cm_data/ESG_Rating_Disagreement_and_Stock_Returns.pdf
+16
+According to https://citigatedewerogerson.com/wp-content/uploads/2020/10/IR-SURVEY-2020.pdf, 79% of firms report a rise in ESG
+investor queries in 2020; and https://shareaction.org/fossil-fuels/resolutions-tracker/ suggests a pickup in shareholder resolutions on
+climate change.
+17
+https://www.fca.org.uk/news/press-releases/fca-announces-proposals-improve-climate-related-disclosures-listed-companies
+18
+https://www.bankofengland.co.uk/-/media/boe/files/speech/2020/leading-the-change-climate-action-in-the-financial-sector-speech-bysarah-breeden.pdf?la=en&hash=A76529EC3930769B0D6FA8FECBFF0507BE6DBBA3
+19
+https://www.tcfdhub.org/recommendations/
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+Consistency – the first of those criteria – has been a challenge. The TCFD is widely recognised as the right
+overarching framework: nearly half of large companies globally were already disclosing TCFD-aligned
+metrics at the time of the last comprehensive survey in 2019 (Chart 3), and support for the TCFD had grown
+to over 1,440 organisations by September this year, with a market capitalisation of over $12.6 trillion. But at
+the next level of detail – the standards giving specific guidance on what should be disclosed and how – there
+are at least five approaches to choose from: the Carbon Disclosure Project (CDP), the Climate Disclosure
+Standards Board (CDRB), the Global Reporting Initiative (GRI), the International Integrated Reporting
+Council (IIRC) and the Sustainability Accounting Standards Board (SASB). And the raw data disclosed
+under these approaches are being packaged by third-party providers into a daunting variety of summary
+statistics, the correlation between which can be low or zero, even when they purport to measure identical
+concepts (Chart 4).
+Such diversity can be helpful in driving innovation. But fragmentation of standards is no basis for a viable
+global capital market for climate risk. In recognition of that fact, the ‘group of five’ framework producers, 20 the
+‘big four’ accounting firms21 and the International Financial Reporting Standards Foundation22 have all
+recently announced initiatives to deliver a single harmonised set of metrics that could be commonly adopted
+and reported alongside other core financial information. These are positive developments – but given the
+importance of consistent climate disclosures, further definitive convergence is needed, and soon.
+
+20
+
+https://impactmanagementproject.com/structured-network/statement-of-intent-to-work-together-towards-comprehensive-corporatereporting/
+21
+http://www3.weforum.org/docs/WEF_IBC_Measuring_Stakeholder_Capitalism_Report_2020.pdf
+22
+https://www.ifrs.org/news-and-events/2020/09/ifrs-foundation-trustees-consult-on-global-approach-to-sustainability-reporting/
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+Chart 3: TCFD-aligned disclosures23
+
+The second TCFD criterion is that good metrics should be ‘decision useful’. From a business management
+perspective, this point is obvious: to be useful in shaping strategy, a metric has to be something with a direct
+influence on investment decisions. And from a financial markets perspective, it has to be relevant to
+understanding risk and return. A lack of meaningful, consistent metrics makes it hard, or impossible, for
+investors to construct viable portfolios by comparing climate performance across firms. And that, in turn,
+dampens the incentive of those firms to improve and disclose their climate performance in the first place.
+
+23
+
+https://www.fsb-tcfd.org/wp-content/uploads/2019/06/2019-TCFD-Status-Report-FINAL-053119.pdf
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+Chart 4: Correlations between environmental scores from different rating providers 24
+
+Key
+Each matrix displays correlation coefficients between
+Environmental ratings given by five rating providers
+(labelled P1 – P5 in the charts) on a sample of 924 firms
+(2017 data).
+Right: Correlation coefficients between aggregate
+Environmental ratings.
+Below: Correlation coefficients between ratings of a
+selection of more granular environmental categories.
+
+Energy
+
+Green Buildings
+
+n/a
+
+P5 0.37
+
+0.05
+
+0.17
+
+0.36
+
+P4 0.19
+
+n/a
+
+0.18
+
+P5 0.55
+
+n/a
+
+0.34
+
+0.34
+
+P4
+
+n/a
+
+0.02
+
+P3
+
+n/a
+
+0.33
+
+n/a
+
+P2
+
+P5 n/a
+
+P4 0.26
+
+P3 0.22
+
+P1
+
+n/a
+
+P5
+
+0.47
+
+0.19
+
+P4
+
+P4 0.28
+
+P3 0.22
+
+P3
+
+n/a
+
+P1
+
+P3 n/a
+
+P2
+
+P2 n/a
+
+P5
+
+P2 0.40
+
+P4
+
+P2 0.25
+
+P3
+
+P1
+
+P2
+
+P1
+
+P1
+
+P1
+
+P5
+
+Greenhouse Gas Emissions
+
+A key decision for investors is whether to make use of the raw climate data disclosed by firms, or packaged
+summary measures from ratings providers, such as those illustrated in Chart 4. Summary measures have
+obvious attractions, since they delegate to specialists the daunting task of data gathering, analysis,
+gap-filling and aggregation. But in so doing they also risk injecting further inconsistencies: fully half of the
+variation in the aggregate ratings shown at the top of Chart 4 reflects decisions on the composition or
+weighting of those aggregate measures, as opposed to variations in how firms’ raw disclosures are
+measured. A recent paper from the Bank of Italy suggests that investors can construct better-performing
+portfolios by combining the raw data themselves. 25
+The final TCFD criterion is that disclosures should be forward looking. This is particularly important for
+capital markets, because a climate asset’s value will be determined far more by where it is going, than by
+where it has been. Faced with the choice between assets from two companies, one with relatively low
+current emissions but no investment plans, and another with relatively higher current emissions but
+aggressive and credible future plans to lower them, an asset allocation strategy based exclusively on current
+24
+25
+
+Results drawn from https://mitsloan.mit.edu/ideas-made-to-matter/why-esg-ratings-vary-so-widely-and-what-you-can-do-about-it
+https://www.researchgate.net/publication/342550204_Mind_the_gap_Machine_learning_ESG_metrics_and_sustainable_investment
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+metrics would not only underperform an alternative strategy that takes account of forward looking
+information, it would also risk failing to fund the very investments needed to tackle climate change. The
+biggest rewards will fall to those who are first to spot a heavy polluting company on its way to becoming
+credibly green.
+Forward looking disclosures can take many forms. At the highest level, they may set out issuers’ climate
+targets, and their chosen strategies for meeting them. They may give specific descriptions of investment
+projects. Or they may involve model-based projections of future performance. We at the Bank of England
+showed one such measure, of ‘portfolio warming potential’, when we published the first full disclosure of the
+climate risks on our own balance sheet earlier this year.26 The measure, based on the provider’s emissions
+projections for each issuer with corporate bonds held in the Bank’s Asset Purchase Facility (APF), suggested
+that if those projections were representative of the emissions performance of corporates globally, the world
+would experience 3.5 degrees of warming by end-century (Chart 5).
+So far, so dramatic. But similar measures based on alternative forecast assumptions for the same portfolio
+suggested a much wider range of possible outcomes, from <1.75 to 4 degrees: a huge variation given the
+consequences of missing a 2 degree warming target (Chart 6). The problem stems in part from different
+assumptions about how the world will evolve and how different industries will need to react. For a given
+temperature goal, investors need to know how much carbon can be emitted, over what timeframe, and by
+whom, in order to assess where companies sit relative to their required trajectory. Detailed and standardised
+reference scenarios are needed for this kind of assessment, such as those being developed by the Network
+of Central Banks and Supervisors for Greening the Financial system. 27
+
+26
+27
+
+https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2020/climate-related-financial-disclosure-report-2019-20.pdf
+https://www.ngfs.net/sites/default/files/medias/documents/820184_ngfs_scenarios_final_version_v6.pdf
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+Chart 5: Estimate of APF corporate
+
+Chart 6: Alternative warming potential metrics for same
+
+holdings ‘portfolio warming potential’
+
+portfolio
+
+Source: see footnote 26.
+Source: see footnote 26.
+
+Building block 2: capital instruments
+The second key building block for an effective capital markets infrastructure for trading climate risk is a set of
+viable capital instruments. As I mentioned earlier, it is not clear a separate climate asset class is needed in
+steady state: dedicated ‘IT investment bonds’ or ‘physical buildings equity’ are for example pretty rare! But
+climate-linked instruments can be very helpful on the transition path, to give focus to the need for change,
+help meet specific investor needs, and provide a credible ‘put your money where your mouth is’ commitment
+from issuers to deliver on specific projects until more robust and consistent decision useful metrics can be
+developed.
+A wide variety of new climate-linked markets have begun or are under discussion, including for example
+Voluntary Carbon Offsets,28 derivatives products to manage risks in renewable energy29 or green
+mortgage-backed securities.30 But I want to focus my remarks today on the most prominent example: that of
+climate-linked, or ‘green’ bonds.
+
+28
+
+See in particular the recently launched Task Force on Scaling Voluntary Carbon Markets: https://www.iif.com/tsvcm/MainPage/Publications/ID/4061/Private-Sector-Voluntary-Carbon-Markets-Taskforce-Established-to-Help-Meet-Climate-Goals
+29
+See discussion in the CFTC’s report on Managing Climate Risks in the U.S. Financial System:
+https://www.cftc.gov/PressRoom/PressReleases/8234-20
+30
+Fannie Mae is currently the world’s largest issuer of green MBS: https://multifamily.fanniemae.com/media/8616/display
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+12
+
+Green bonds come in different flavours, illustrated in Chart 7. The dominant model is the ‘use of proceeds’
+bond, designed to raise funds for specific earmarked investment projects that the issuer sees as
+climate-positive. This earmarking, coupled with regular reporting on project progress, provides debt
+investors with targeted transparency on the credentials of the projects their funds are supporting. The first
+such bond, issued in 2007 by the European Investment Bank, coupled the use of proceeds structure with a
+number of other innovative features, and other supranationals and government agencies helped develop the
+market further in subsequent years. But the concept only really took off after the agreement of the Green
+Bond Principles in 2014, which established market-wide standards of transparency, disclosure and
+reporting.31 There are now approaching $1 trillion of such bonds across a wide range of issuers (Chart 8) –
+and, while that stock is so far just a tiny fraction of the $120 trillion global corporate bond market, 32 green
+issuance is growing several times more rapidly than conventional bonds. UK companies currently lie well
+down the issuance league table (Chart 9), and have primarily issued in euros (Chart 10).
+Chart 7: A selection of ‘green bond’ structures
+
+One concern sometimes expressed with this first generation of green bonds is that there are no binding
+requirements as to what constitutes a green project, and hence bonds may sometimes be labelled green on
+spurious grounds.33 There have been various attempts to address this issue, for instance the
+Climate Bonds Initiative’s Taxonomy and Certification Scheme34 and the European Union’s Green Bond
+Standard35, which set out more robust scientific criteria for identifying projects which genuinely help with
+climate change. The model also requires an issuer to have fairly sizeable green capital expenditures in order
+to issue a bond liquid enough to appeal to mainstream investors.
+31
+
+https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/Green-Bonds-Principles-June-2018-270520.pdf
+BIS Quarterly Review, September 2020
+33
+Consistent with this, researchers have so far failed to identify a near-term relationship between green bond issuance and subsequent
+reductions in carbon emissions (https://www.bis.org/publ/qtrpdf/r_qt2009c.htm) – though there clearly are many possible reasons for this
+result, not all of which suggest greenwashing.
+34
+https://www.climatebonds.net/standard/taxonomy
+35
+https://ec.europa.eu/info/business-economy-euro/banking-and-finance/sustainable-finance/eu-green-bond-standard_en
+32
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+13
+
+An alternative approach is to link some element of the financial return on the bond to the achievement by the
+issuer of a particular climate sustainability outcome, without linking the bond to specific green expenditures.
+The first such ‘sustainability-linked bond’ was issued by Enel, an Italian electricity producer, and offered a
+‘step up’ coupon penalising the issuer if it failed to meet a specific target for the share of renewable energy
+in its installed capacity. Such bonds are not a complete answer to the concern of greenwashing: the degree
+of challenge in the target remains the choice of the issuer, for example, and the use of funds cannot be
+traced to specific projects in the same way as use of proceeds bonds. But they do illustrate the type of
+innovation now underway in capital markets.
+Chart 8: Total green bond issuance
+
+Chart 9: Corporate green bonds outstanding by
+nationality of issuer
+
+Source: Climate Bonds Initiative (CBI) data (including all selflabelled green bonds aligned with CBI’s Climate Bonds
+Taxonomy and with at least 95% use of proceeds financing or
+refinancing green/environmental projects) and Bank
+
+Source: CBI data and Bank calculations.
+
+calculations.
+
+The billion dollar question, of course, is whether the market is yet discriminating in favour of climate-positive
+investment, and away from the reverse. There are some encouraging signs from recent primary issuance:
+green bonds issued by European companies in September priced on average nearly 10 basis points inside
+existing curves, and tighter than other non-green issuance over the same time period (Chart 11). That’s real
+money: for example, the average -15bp new issue premium on VW’s recent €2bn green bond issues will
+save the firm around €3mn a year in interest costs compared to a conventional bond. Evidence of a
+persistent ‘greenium’ in secondary market pricing is however more mixed.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+14
+
+Chart 10: Currency composition of bonds by UK
+
+Chart 11: New issue premia for non-financial
+
+domiciled issuers (excluding gilts)
+
+European € bonds (Sep 2020)
+
+Source: CBI, Bloomberg Finance L.P. and Bank calculations
+
+Source: Bloomberg Finance L.P. and Bank calculations
+
+Governments’ interest in issuing green bonds is also growing rapidly. The outstanding stock of sovereign
+green bonds (SGBs) currently stands at $80bn (Chart 12), and recent months have seen inaugural issues
+from a range of countries including Sweden (a use-of-proceeds bond), Luxembourg (the first European
+sovereign sustainability bond) and Germany (an innovative twin green and conventional issue designed to
+aid liquidity and comparability).
+Chart 12: sovereign green bonds in issue
+
+Chart 13: Dutch green corporate bonds
+
+Source: CBI and Bank calculations.
+
+Source: CBI, Bloomberg Finance L.P., Luxembourg Government,
+Swedish National Debt Office and Bank calculations.
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+15
+
+The direct benefits to government finances are similar to those in the corporate sector, and include the ability
+to lock in commitments to undertake climate-improving investment, while reducing issuance costs and
+reaching a larger, more diverse investor base. But there are also potential indirect benefits for their national
+economies: establishing a ‘green risk free curve’ for private issuers to use as a benchmark for green pricing;
+setting conventions for issuance, including definitions of acceptably green projects or climate goals; providing
+assets for hedging and collateralising borrowing; and encouraging the development of climate finance
+expertise in the local financial services community, driving wider product innovation. The issuance of
+corporate green bonds in the Netherlands, for example, picked up materially after the Dutch government
+issued a SGB in 2018 (Chart 13).
+Building block 3: asset allocation strategies
+However rapid the progress in climate-related disclosures and financing vehicles on the issuer side of the
+equation, it has been totally eclipsed by the explosion in interest on the investor side. Gripped by an
+increasing awareness of the scale of the climate challenge, and the impact of past and expected future
+policy change, investors are demanding, ever more loudly, that those in charge of their savings demonstrate
+that they can measure, and direct, their investments in ways that are sensitive to the climate impact of those
+flows. Asset managers have launched an ever-increasing range of ‘climate aware’ funds in recent years
+(Chart 14), and invested heavily in internal expertise, building systems, and hiring in specialists (or buying
+their firms outright).36 The consequent shift in assets under management towards funds with higher
+sustainability ratings, and away from those with lower ratings, is striking (Chart 15).
+But amidst all this frenzied activity, the most pressing question is how to put all of this money to work in a
+productive way that appropriately reflects climate factors, but also continues to deliver the desired risk and
+return profile for investors.
+
+36
+
+https://www.ft.com/content/247f4034-4280-318a-9900-87608a575ede
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+16
+
+Chart 14: number of launches of new
+
+Chart 15: AUM and flows into sustainability-
+
+‘climate aware’ funds
+
+rated open ended funds
+
+Source: Morningstar
+
+Source: Morningstar, Sustainalytics, and Bank calculations.
+
+The nirvana is so-called ‘ESG integration’ – when climate is just one more risk factor in an otherwise fully
+integrated risk/return framework. Chart 16, drawn up by the Chartered Financial Analyst Institute and
+Principles for Responsible Investment, illustrates the sort of processes required, working outwards from
+research in the centre through security-level analysis to portfolio construction on the outer rim. It’s an
+impressive story – but the sheer complexity of the picture also rams home just how comprehensive full
+integration really is. Everyone may be talking about it, but few are actually doing it – yet at least.
+If that’s the ultimate goal, the challenge facing asset managers today is how to build robust but consciously
+partial or second-best investment strategies that bridge between investors’ desire to express a particular
+view on climate risk and return, and the practical limitations of today’s climate disclosures, climate modelling
+and asset universe.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+17
+
+Chart 16: The ESG integration framework
+
+Source: CFA Institute37
+
+Chart 17 shows a range of such strategies. 38 The simplest approach is a ‘screen’, in which the asset
+manager constructs a portfolio by including, or excluding, certain companies or sectors. Such approaches
+are currently popular because they can be directly linked to investors’ wishes (eg ‘no fossil fuel producers’),
+and require little in the way of sophisticated climate metrics. But they cannot provide much of the solution to
+a credible path to a carbon neutral economy. While individual investors may be able to divest, the financial
+
+37
+
+https://www.cfainstitute.org/-/media/documents/survey/guidance-case-studies-esg-integration.ashx
+The Investment Association’s Responsible Investment Framework provides an alternative taxonomy:
+https://www.theia.org/sites/default/files/2019-11/20191118-iaresponsibleinvestmentframeworkglossary.pdf
+38
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+18
+
+system as a whole cannot. And divestment strategies based on backward-looking carbon metrics give no
+scope for incentivising climate-enhancing investment in high-carbon sectors.
+Chart 17 Strategies for integrating climate considerations in asset allocation decisions
+
+A ‘theme’ strategy aims instead to look across sectors, constructing portfolios of assets issued by firms with
+a particular climate approach. Examples include firms focusing on the production of climate-enhancing
+technologies, firms with credible transition strategies in place, or sharing a common supply chain.
+Depending on the theme chosen, such strategies typically require somewhat more granular and timely
+climate metrics than screens. But they remain somewhat binary in composition, and can lack diversification.
+A ‘tilt’ strategy starts from the same investment universe as a standard market capitalisation-weighted index,
+but then adjusts the weights on individual securities or sectors in that index up or down to reflect various
+climate factors. A common tilt might be ‘low carbon’, in which portfolio weights are adjusted based on a
+measure of each issuer’s carbon footprint – or better still a forward-looking assessment of an issuer’s
+transition trajectory to net zero, such as that produced by the Transition Pathway Initiative.39 Tilt strategies
+avoid binary composition issues of the previous strategies, and can be dynamic in nature as the parameters
+used to construct the portfolios evolve. But they can be more reliant on those very consistent, decision
+useful and forward looking metrics I mentioned earlier, which are not yet universally available.
+
+39
+
+https://www.transitionpathwayinitiative.org/.
+19
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+19
+
+‘Unconstrained’ investment – the final category in the chart – is a catch-all for the wide variety of active
+management strategies that investors can employ, either across an entire portfolio, or as an overlay. Such
+strategies may for example be driven by top-down or bottom-up research, or by quantitative statistical
+analysis of correlations between environmental factors and risk-adjusted returns. While such approaches
+have at least the potential to deliver stronger performance, by substituting judgment or modelling for current
+data gaps, they are clearly more costly to undertake and harder for end-investors to monitor.
+This analysis draws out an interesting interaction between the quality of climate disclosures, the structure of
+the asset management industry and the scope for rapid growth in the role of capital markets in climate
+investment. Poor disclosures force investors either to form crude portfolios – which cannot send particular
+finely graduated price signals – or to seek active management – which, being costly, is not available to all.
+Neither is ideal. It is only when disclosures have reached true maturity that the full panoply of modern asset
+allocation techniques can be brought to bear. That underscores just how vital it is to make progress on
+disclosures.
+There are as yet few comprehensive studies of the relative performance of current strategies. Indeed, there
+is a genuine question about how such performance should be measured, given that one motivation for
+investing in climate-based funds is the desire to generate a measurable beneficial environmental impact
+alongside a financial return – so-called ‘impact investing’. There has been a long and lively debate about
+whether achieving this requires a willingness to sacrifice financial gain. Some funds explicitly recognise this
+possibility in their construction, for example granting explicit concessionary rates to climate-positive projects.
+But others dispute the existence of such a tradeoff, noting the range of non-financial tools such as investor
+engagement that can act as ways to achieve impact. What is certainly true, as I’ve argued throughout this
+speech, is that such tradeoffs should not exist when the costs of emissions have been effectively
+internalised, and capital market structures have fully matured. That must be our ultimate goal.
+The choice of potential investment strategies is a live issue for the Bank of England too, as a market
+participant in our own right. Most of our asset holdings consist of UK government securities. But 2% of the
+Bank’s Asset Purchase Facility consists of sterling corporate bonds, acquired as part of the MPC’s
+quantitative easing programme. As we stated in our TCFD disclosure, the framework for the MPC’s asset
+purchases is determined by the Committee’s remit given to it by the Chancellor. But, subject to the
+Government indicating a willingness to update this remit, we will over the coming year be considering how to
+incorporate climate factors into decisions on the mix of financial assets, whilst still achieving our policy aims.
+We will have much to learn from the range of approaches already adopted in the private sector.
+Conclusions
+So where does this all leave us?
+One thing is clear: there is a lot to be positive about – capital markets are innovating, and rapidly, in
+response to the very real rise in demand from clients, businesses, investors and public authorities to take
+20
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+20
+
+climate risk and return seriously. And that innovation is beginning to drive some hard-edged price
+discrimination based on climate risks.
+In short, the hot air is cooling.
+But some big challenges remain:
+-
+
+On disclosures, to reach the goal of securing a fully consistent, decision useful and forward looking
+set of metrics requires standard setters to agree on a single framework; for it to be made mandatory;
+and for corporates to measure, model and disclose;
+
+-
+
+On instruments, we need to see a further scaling up in the range and depth of tools providing
+credible incentives for green investment and more effective transparency for investors on
+performance against climate goals. That will drive broader-based price discrimination between
+climate-positive and climate-negative assets, which in turn will provide powerful incentives for further
+adjustment; and
+
+-
+
+On asset allocation strategies, we need to coalesce more around terminology and approaches,
+providing a clear and credible choice for clients and investors, on that journey towards full
+integration. And we need more research on what works and what doesn’t!
+
+Many of the actions here are for the financial markets themselves to resolve – and rightly so, because we
+want the power of markets working to deliver climate change. But there are important priorities for the public
+authorities too: to ensure externalities are properly internalised, so markets can do their job; to help
+co-ordinate and set market-wide standards, and where necessary to make them obligatory; and to use our
+strength and influence as market participants in our own right to drive change, where doing so is consistent
+with our mandates.
+We at the Bank of England are doing all those things. As I noted at the start, the irony is that true success
+will come when we don’t even talk about climate risk and return any more as a special category, but simply
+factor it into our every decision as part of an integrated whole. If the momentum we are currently seeing in
+capital markets continues, that end-goal maybe closer than we think.
+Thank you
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+21
+
+

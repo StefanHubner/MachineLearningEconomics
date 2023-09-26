@@ -1,0 +1,1062 @@
+Monetary policy and financial dislocation
+Speech given by
+David Miles, External Member of the Monetary Policy Committee, Bank of England
+
+To the Royal Economic Society, London
+10 October 2011
+
+I would like to thank Jochen Schanz and Arpad Morotz for research assistance, and others for helpful
+comments. The views expressed are my own and do not necessarily reflect those of the
+Bank of England or other members of the Monetary Policy Committee.
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+Introduction
+It is a tired cliché to say that we live in interesting times. And it is, like most clichés, used far too often; I
+suspect that humans are inclined to think that the times they live in are far more interesting than other
+humans who are alive later will think. But the economic times we are living through will surely be judged to
+be worth remembering by anyone who has even a passing interest in such things for several generations to
+come. One thing that makes them (uncomfortably) interesting is the long period that the richer countries
+have now lived with the repercussions of the financial crisis. That crisis began in August of 2007, became
+intense in the autumn of 2008 and has not subsided yet. It is over four years since Northern Rock failed in
+the UK – that is today about as far in the past as the outbreak of the First World War was from the signing of
+the Armistice.
+
+It might have become easy to forget just how interesting monetary policy has become here in the UK
+because until last Thursday policy has been unchanged for nearly two years. It was in early 2010 that the
+last asset purchases were made. Further purchases of £75bn were started earlier today. It was more than
+two and a half years ago in March of 2009 that Bank Rate was last changed. Judging by money market
+interest rates and yields on short dated government bonds the market expectation is that Bank Rate will not
+change for many months yet.
+
+What is extraordinary about this – and what future generations will find interesting – is not so much that Bank
+Rate has been unchanged for many consecutive months. Rather it is the place at which monetary policy has
+been left – in other words it is the level (both of interest rates and of asset purchases) that has been
+extraordinary rather than the fact that those settings of policy were, until now, not changed for many months.
+
+The degree to which this is unusual is self evident when we look at Bank Rate (Figure 1). We have a record
+of Bank Rate since 1694, when the Bank of England was founded. Over those 317 years the average level
+of Bank Rate is close to 5% (the mean is 4.8%). The standard deviation of the level of Bank Rate is 2.2%.
+With Bank Rate at ½% it sits at a level that is about 2 standard deviations below the average. Of course,
+Bank Rate is not normally distributed – it does not fall below zero. But the log of Bank Rate might follow a
+distribution that looks somewhat more normal (Figure 2). Today the log of Bank Rate is about five standard
+deviations below the mean of log Bank Rate.
+
+But you don’t have to believe that Bank Rate is really log normally distributed for it to be blindingly obvious
+that where we have been for the past two and a half years is very unusual. Before 2008 the lowest level to
+which Bank Rate had ever fallen was 2%. What is not so unusual is that Bank Rate should be unchanged
+for a few years. As I have observed before Bank Rate was not changed for just over 100 years between
+April 1719 and June 1822 – but Bank Rate was then left at 5%, not ½%
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+2
+
+Figure 1: Bank Rate
+
+18
+16
+
+Mean: 4.8%
+SD: 2.2%
+Previous low: 2%
+
+14
+12
+%
+
+10
+8
+6
+4
+2011
+2
+0
+1694
+
+1744
+
+1794
+
+1844
+
+1894
+
+1944
+
+1994
+
+Note: Depicted are the Bank’s respective key rates over time: bank rate, minimum lending rate, minimum band
+1 dealing rate, repo rate, and official Bank Rate.
+Source: Bank of England.
+
+Figure 2: Cumulative distribution of log Bank Rate
+
+1
+
+Probability
+
+0.8
+0.6
+
+Normal cumulative
+distribution function
+
+0.4
+ln(Bank Rate)
+cumulative
+distribution function
+
+0.2
+0
+‐1
+
+0
+
+ln(0.5)
+
+1
+
+2
+
+3
+
+4
+
+ln(Bank Rate)
+
+Source: Bank of England
+
+I think it has been right to set monetary policy at its most expansionary setting in the history of this country.
+This may seem a bizarre thing to say when for much of the past two years inflation has been above the
+target level of 2% and when it is quite likely that in the very near term it may go yet higher and get to around
+5%. But setting monetary policy in the light of the current inflation rate – rather than in the light of where
+inflation pressures might be when a change in policy made today will have its effect – cannot be sensible.
+And it is not what the Monetary Policy Committee does. A better strategy is to do one’s best to understand
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+3
+
+why inflation is where it is and make an assessment of where inflation pressures will be over the next few
+years. And for some time it has seemed likely that those pressures will fall away because the underlying
+domestically generated forces driving up prices are weak and the factors that are responsible for taking
+today’s inflation rate to around 5% are not likely to be repeated over the next few years. I will not spend time
+this evening elaborating on this. It is set out in detail in the Bank’s August Inflation Report. An updated
+assessment of those inflation pressures will be published in a few weeks with the November report.
+
+A lot has happened since the August report and much of the news on demand, output, business confidence
+and employment prospects right across Europe and in the US has been negative. Until recently there has
+been less news on near term cost and price pressures – though commodity prices having held up through
+the summer did fall in late September (Figure 3).
+
+Figure 3: Commodity prices
+Indices, 2008 =100
+
+160
+Agriculture and livestock
+140
+120
+Industrial metals
+
+100
+80
+
+Brent Crude
+60
+40
+2008
+
+2009
+
+2010
+
+2011
+
+Note: The agriculture and livestock and industrial metals series are calculated using S&P (dollar) commodity
+price indices.
+Sources: Standard & Poor's and Thomson Reuters Datastream.
+
+I thought it was right to maintain the stance of UK monetary policy through the first half of this year and into
+the summer. But since August, the news on the economic outlook has been overwhelmingly negative. The
+chances that inflation further ahead will sit below the target level have risen. In the light of that the decision
+was taken last week to increase the size of the asset purchase programme. Tonight I want to consider what
+the impact of further asset purchases might be. There are three reasons for addressing that issue today.
+First there has now accumulated a good deal of evidence (from the UK and from the US) about what the
+impact of asset purchases made a few years ago has been, and it is worth assessing that. Second, there is
+also a good deal of scepticism – even from those who believed that asset purchases in the UK in 2009 did
+some good – that it can be effective today. Third, and most obviously, further asset purchases are now –
+starting this week – about to be made. I want to look at what we might have learned from past asset
+purchases and what we should infer about the impact of more asset purchases now.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+4
+
+Let me start by briefly describing the environment in which the decision to make further asset purchases was
+made, and how it had changed over the summer.
+
+What has changed?
+When the Bank published its latest Inflation Report two months ago, it seemed to me that the main drivers of
+growth would be net trade and private investment. It also seemed to me plausible that the cost of bank loans
+would gradually fall back as remaining stresses with banks’ funding continued to lessen.
+
+Since then, bad news has arrived on a number of fronts. The international growth outlook has worsened,
+reflected in declining business confidence in a number of countries. In the UK, output surveys have
+deteriorated markedly, suggesting that GDP might be broadly flat in the fourth quarter. Employment growth
+has slowed and the unemployment rate edged up to 7.9% in the three-months up to July. Consumer
+confidence has fallen. Surveys of investment intentions point to only weak growth in capital spending ahead.
+
+Financial market sentiment deteriorated markedly over the past couple of months; it remains exceptionally
+volatile. Equity markets have fallen substantially, globally and in the UK: by the end of September, the S&P
+Global Index had declined by around 15%, and the FTSE 100 by almost 12%, from the levels of July
+(Figure 4).
+
+Figure 4: Global equity price indices
+
+8000
+
+2000
+
+7000
+
+1800
+1600
+
+6000
+
+1400
+
+5000
+
+1200
+
+4000
+
+1000
+
+3000
+
+800
+
+2000
+
+FTSE100 (lhs)
+
+600
+
+S&P Global (rhs)
+
+400
+
+1000
+
+200
+11 Sep
+
+11 Jun
+
+10 Dec
+
+11 Mar
+
+10 Sep
+
+10 Jun
+
+10 Mar
+
+09 Sep
+
+09 Dec
+
+09 Jun
+
+09 Mar
+
+08 Sep
+
+08 Dec
+
+08 Jun
+
+08 Mar
+
+07 Sep
+
+0
+07 Dec
+
+0
+
+Source: FTSE and S&P.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+5
+
+Gross issuance of corporate bonds by UK private non-financial corporations (PNFCs) almost stalled over the
+summer months. Major UK banks’ CDS premia, one indicator of banks’ wholesale funding costs, have
+almost doubled, from around 150bp at the end of July to around 250bp at the end of September (Figure 5).
+Figure 5: Selected international banks' CDS premia(a)
+Basis points
+450
+United States (b)
+
+400
+
+European (excl. UK)(c)
+
+350
+
+United Kingdom (d)
+
+300
+250
+200
+150
+100
+50
+
+Jan. Apr. Jul. Oct. Jan. Apr. Jul. Oct. Jan. Apr. Jul. Oct. Jan. Apr. Jul.
+2008
+09
+10
+11
+
+0
+
+Source: Markit Group Limited.
+(a) Unweighted averages of five-year, senior CDS prices.
+(b) Average of Bank of America, Citi, Goldman Sachs, JP Morgan Chase & Co and Morgan Stanley.
+(c) Average of BBVA, BNP Paribas, Crédit Agricole, Credit Suisse, Deutsche Bank, Santander, Société Générale, UBS and UniCredit.
+(d) Average of Barclays, HSBC, Lloyds Banking Group, RBS and Standard Chartered.
+
+In part, this may have been a reaction to the perception that demand had weakened at a global level. But
+fiscal developments also continued to influence financial markets. Existing concerns about the sustainability
+of fiscal positions and the implications for banking sectors spread to some euro-area economies that had
+previously been less affected.
+
+Investors tried to reduce their exposure to risky assets and sought refuge in ‘safe haven’ assets. Ten-year
+nominal gilt yields fell to historically low levels (Figure 6).
+
+Whether the marked deterioration in financial markets and in business and consumer optimism will last is
+hard to know – conditions have certainly been volatile from one week to the next since August. But
+monetary policy needs to be set in real time. We cannot stop the clock. Right now the likely future levels of
+UK inflation pressures look to me materially lower than in August. Monetary policy should respond to that.
+The question I want to consider is what can be expected to be achieved through more asset purchases.
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+6
+
+Figure 6: International ten-year nominal government bond yields(a)
+
+United States
+United Kingdom
+Germany
+
+Per cent
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+00
+
+02
+
+04
+
+06
+
+08
+
+10
+
+Source: Bank calculations.
+(a) Spot interest rates derived from the Bank's government liability curves.
+
+The effects of the Bank of England’s asset purchases during 2009/10
+When the Bank started to purchase assets in early 2009, its objective was the same as for a cut in Bank
+Rate. At the time, the MPC was concerned that demand for goods and services would fall so much behind
+supply that inflation would fall below target towards the end of the Bank’s forecast horizon. Asset purchases
+were designed to stimulate demand so that the Bank could meet its inflation target.
+
+Since then, economists in the Bank have undertaken several empirical studies of the impact these asset
+purchases had on gilt yields, the price of risky assets, output and inflation. A recent article in the Bank of
+England’s Quarterly Bulletin summarises the results of these studies.1 One of the most direct ways of
+assessing the impact of asset purchases is by looking at changes in asset prices around the dates at which
+purchases were announced. Table 1 shows estimates of these announcement effects in the middle column,
+and changes over the entire period of asset purchases in the right column.
+
+While prices of assets respond quickly to news, demand and inflation adjust far too slowly to allow their
+reaction to be captured by event studies. Economists at the Bank have therefore used a variety of other
+empirical methods, for example estimating vector auto-regressions (VARs), to evaluate the impact on output
+and prices. The key difficulty is to separate the effect of asset purchases from that of other factors. But a
+range of estimates – based on different assumptions designed to control for the impact of other factors –
+suggested that the asset purchases had about the same effect as a cut in Bank Rate of between 150bp to
+300bp, increasing GDP by about 1.5% to 2%.
+
+1
+
+See Joyce, M, Tong, M, and Woods, R (2011), ‘The United Kingdom’s quantitative easing policy: design, operation, and impact’, Bank
+of England Quarterly Bulletin, pages 200-212.
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+7
+
+Table 1: Event study: Asset Purchases in 2009/10
+Asset
+
+Event study: Change
+
+For reference: Change
+
+around announcement
+
+4 March 2009 – 31 May 2010
+
+Gilt yields
+
+- 100bps
+
++ 30bps
+
+Corporate yields
+
+- 70bps
+
+- 400bps
+
+Corporate yields (high yield)
+
+- 150bps
+
+- 2,000bps
+
+FTSE All-Share
+
+- 3%
+
++ 50%
+
+(investment grade)
+
+Source: Bank of England (2011).
+
+The difficulty these studies face is that the Bank has not made large scale asset purchases during most of its
+recent history. It is therefore not possible to find time series of big asset purchases, inflation, and output with
+sufficient variability to identify the impact of large-scale purchases on the wider economy directly. Instead,
+the studies proceed in two steps. They first estimate the impact of asset purchases on bond yields and
+money aggregates, for example using the announcement effects presented in Table 1. And then they rely
+on the typical effect of changes in bond yields and money stocks on inflation and GDP – based on many
+decades of data. This allows one to come up with estimates of the overall effect of asset purchases on the
+wider economy.
+
+Joyce et al (2011) describe the methods used in more detail. The results are summarised in Table 2.
+
+Table 2: Estimates of the macroeconomic impact of QE, peak impact on the level of output
+Method
+
+Level of GDP (per cent)
+
+SVAR
+
+1.5
+
+Multiple time-series
+
+1.5
+
+models
+Monetary approach
+
+2
+
+Bottom-up approach
+
+1.5-2.5
+
+Range across methods
+
+1.5-2
+
+Source: Bank of England (2011). Range across methods calculated using the mid-point of the reported range for the bottom-up
+approach.
+
+In the first set of models – referred to as SVAR and time-series models – the authors took as given that asset
+purchases reduced gilt yields over the respective model’s forecast horizon by 100bps. In another (‘monetary
+approach’), the authors assumed that asset purchases increased money supply (M4) by between about
+£80bn and £200bn. In the final approach (‘bottom up’), the authors first assessed the increase in asset
+prices associated with QE, and then used standard models to relate the associated increase in household
+and corporate wealth to changes in consumption and investment.
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+8
+
+So these estimates reflect results from applying a wide range of econometric techniques. I should say here I
+am not someone who readily believes the apparently precise results of regressions. This is probably
+because I have in my life run lots of regressions. This is something which is relatively very easy to do but
+because of that it can make a mockery of the claims for statistical significance of many reported results. So I
+am rather sceptical about the reliability of many econometric estimates – though it is reassuring that a range
+of very different techniques (various time-series models and event studies) give broadly similar results for the
+impact of the £200 billion of asset purchases made so far in the UK. But I would certainly take these results
+much less seriously if these were just apparent empirical regularities for which there was no plausible
+economic mechanism that could have generated them. Let me put the point in a less negative way. I
+believe that there are very good reasons for thinking that purchases of government bonds in exchange for
+money created by the central bank will have an impact on a range of asset prices and will influence the cost
+and availability of credit to the private sector. I will explain some of the mechanism through which I think this
+works in a moment. Most of them reflect portfolio re-allocations made by those who sell bonds to the Bank
+of England and which trigger impacts in a wide range of markets beyond the gilt market.
+
+My belief in this set of mechanisms was not based on the results of an econometric exercise – it was not
+driven by simulation results from an estimated VAR. It was based on the basic idea of portfolio theory which
+suggests strongly to me that many of those who sold fixed income instruments with significant duration to the
+Bank of England in exchange for cash would subsequently set in train a series of further transactions that
+would influence a wider set of prices and also create flows of funds that could change credit conditions.
+
+What I found hard to assess was how powerful those mechanism were. Was £200 billion of gilt purchases
+the equivalent monetary easing of cutting Bank Rate by 100bp or 500bp? In Bayesian terms, I had a strong
+prior that the impact of purchases on the scale made in 2009 was significant, but I had relatively flat priors
+about just how significant. The econometric evidence – some of which was not strongly based on a
+particular model of portfolio re-allocation and some of which was more closely tied to portfolio theory – has
+helped me sharpen my estimate of the impact of QE. But for me without the prior belief that there were
+plausible economic mechanisms that generated such impacts the weight I would place upon the econometric
+evidence of those effects would have been substantially less.
+
+So what are the elements of the transmission mechanism of asset purchases? In my view, there are two,
+somewhat distinct (though related) channels. The first channel operates through the impacts on a range of
+asset prices of the portfolio rebalancing in the non-bank private sector that central bank purchases generate;
+the second is via potentially alleviating bank funding constraints should they exist. The first would operate in
+most circumstances and I think is generally likely to be the more important. The second channel might
+operate only in conditions when banks face funding problems. Asset purchases ease credit conditions and
+stimulate demand, possibly via both channels but more consistently via the first. Figure 7 provides a stylised
+overview of them.
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+9
+
+Figure 7: Key channels for the impact of the Bank of England’s gilt purchases on domestic demand
+
+Portfolio substitution
+channel (always operates)
+
+Gilt yields 
+
+Bank of
+England gilt
+purchases
+
+Term premia 
+Yields on long‐dated
+risky assets 
+
+Cost of accessing
+credit in financial
+markets
+
+Bank deposits and liquid
+assets
+
+Wealth 
+
+Domestic
+demand
+
+Credit risk
+premia 
+
+Availability of
+bank credit
+
+Bank funding channel (may operate in
+conditions of stressed bank funding)
+
+Consider first the portfolio substitution channel, shown in the upper half of Figure 7. The Bank of
+England’s purchases of gilts reduce the free float of gilts while increasing central bank reserves of banks. It
+is likely that most gilts are purchased from non-banks (since that is where most gilts are). Initially most of the
+proceeds from the sale of gilts show up in bank deposits. If gilts and bank deposits were perfect substitutes
+when interest rates are close to zero that might be the end of the story – in terms of portfolio rebalancing for
+the non bank private sector – and it is not clear that gilt yields would react. The economy would be in a
+liquidity trap: in that situation additional supply of money does not lead to a reduction in bond yields or in any
+other yields. So people who sold gilts would swap them for bank deposits; and banks might just passively
+accept higher reserves at the Bank of England.
+
+But bank deposits and bonds are not perfect substitutes. There are at least two (related) reasons for this,
+one related to preferred habitats, and the other to the pricing of duration risk.
+
+When investors sell gilts to the Bank of England, they initially exchange a long-dated asset – the gilts – for a
+short-dated asset: bank deposits. Some investors may not care much about the resulting change in duration
+in their portfolio. But I believe that they would be in a minority. Many investors in gilts – primarily pension
+funds and insurance companies – have long-dated liabilities and prefer to match these liabilities with equally
+long-dated assets.2 Figure 8 shows that pension funds and insurance companies own about 30% of gilts.
+These investors are likely to purchase other long-dated assets, such as corporate bonds, to restore the
+duration of their portfolio
+
+2
+
+One also speaks of investors having preferred habitats in certain classes of assets.
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+10
+
+Figure 8: Stocks of gilt holdings by sector(a)
+£bn
+1200
+
+Other (households, local authorities, public corporates, PNFCs)
+ICPFs
+
+1000
+
+OFIs
+Non‐residents
+800
+
+UK MFIs, excl. BoE
+Bank of England
+600
+
+400
+
+200
+
+2005 Q1
+Q2
+Q3
+Q4
+2006 Q1
+Q2
+Q3
+Q4
+2007 Q1
+Q2
+Q3
+Q4
+2008 Q1
+Q2
+Q3
+Q4
+2009 Q1
+Q2
+Q3
+Q4
+2010 Q1
+Q2
+Q3
+Q4
+2011 Q1
+
+0
+
+Sources: ONS and BoE.
+(a) Market values. Total excludes central government holdings.
+
+Yields of long-dated securities might also fall for another reason. By purchasing gilts, the Bank of England
+reduces the stock of privately held, relatively long-dated assets. With less duration risk to hold in the
+aggregate, those in the market that needed to be induced to take it should require a lower premium. This
+tends to reduce the term premium for all long-dated assets.
+For both these reasons, the prices of long-dated risky assets – corporate bonds and equities – are likely to
+rise. Sterling corporate bond yields did indeed decline substantially since the start of the Bank’s asset
+purchase programmes (Figure 9), particularly in 2009 when most of the purchases were made.
+Figure 9: Sterling corporate bond spreads for financials, non-financials and high yield(a)
+Basis points
+
+Basis points
+
+1200
+
+3500
+Financials (rhs)
+
+3000
+
+1000
+
+Non-f inancials (rhs)
+2500
+
+High yield (lhs)
+
+800
+
+2000
+600
+1500
+400
+1000
+200
+
+500
+0
+2007
+
+0
+2009
+
+2011
+
+Sources: Bank of America/Merrill Lynch and Bloomberg.
+(a) Spreads of corporate bond yields over reference gilt yields.
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+11
+
+How much of that decline was due to asset purchases by central banks is impossible to tell from a graph of
+course – which is why one does econometrics. But what is clear is that this is helpful for companies who can
+directly tap the capital markets. These companies may be able to replace bank funding with funds directly
+raised on financial markets. There is evidence that this happened during 2009 (Figure 10).
+
+Figure 10: PNFC substitution of bank debt to capital market issuance(a)
+Annual flow as % of nominal GDP
+6
+Capital issues
+
+5
+
+Loans
+4
+3
+2
+1
+0
+‐1
+‐2
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Source: Bank of England.
+(a) The capital issuance series shows the net amount raised from sterling issuance of equity, bonds and commercial paper by UK
+PNFCs. Lending series is sterling net lending to PNFCs excluding the effects of securitisation.
+
+The decline in yields and the rise in asset prices also generates capital gains for households who own risky
+assets, and they may decide to consume part of their increased wealth.
+
+It is important to note that the impact of asset purchases by the central bank on the yields on risky assets is
+the sum of any impact on gilt yields plus the impact on the spread between the yield on risky asset yields
+over gilts. A reduction in gilt yields is not necessary for gilt purchases to have an effect on the real economy
+via the portfolio balance mechanism: if the spread falls, asset purchases would be affecting the cost of
+finance to the private sector and potentially generating capital gains even if gilt yields are unchanged.
+
+There are certainly conditions under which the sort of portfolio re-balancing and re-pricing I have described
+would not happen. Gauti Eggertsson and Michael Woodford present a model in which they do not.3 The
+essence of this is that if the private sector – in the form of a single representative agent who has an infinite
+horizon and is rational – sees the assets held by the government and by the central bank as
+indistinguishable from their own assets then any swap of assets with the central bank cannot change
+anything. This is true and is analogous to the Ricardian Equivalence proposition. But the representative
+agent assumption is a very strong one. And the conditions for the result to go through are not likely to hold
+3
+
+Eggertsson and Woodford (2003), The zero bound on interest rates and optimal monetary policy, Brookings Papers on Economic
+Activity Vol. 2003, pages 139-211
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+12
+
+even in unstressed financial markets – let alone in the wake of a financial crisis where markets are still not
+operating smoothly.
+
+Let me turn to what I have called the bank funding channel (Figure 7). I see this as a channel that might
+help improve the availability of bank credit (or prevent it getting less available). I use the word ‘might’
+because it is only under conditions of stress in the availability funds to individual banks that I would expect it
+to operate.
+
+The more concerned banks are about their ability to refinance themselves, the less likely they are to grant
+loans. When the Bank of England purchases gilts owned by non-banks, all else equal, banks’ deposits rise
+as do reserve balances at the central bank. To the extent that a bank’s reserve holdings would then come to
+exceed its demand for liquidity, it is likely to be more willing to expand lending. Or, if a bank had already lost
+some other funding, it might be able to avoid a contraction in its lending or a sale of less liquid assets.
+
+The bank funding channel might be weak. It would be weak when the funds generated by the central bank
+asset purchases come to banks as very short-term wholesale deposits, and banks feel the need to increase
+their liquid asset holdings (in the form of reserve balances at the central bank) to insure against the risk that
+these deposits might be withdrawn at short notice. But even then it may be that banks increase their liquid
+assets by less than the amount of short-term inflows. Should the money inflow to a bank – generated by
+asset purchases by the Bank of England – be in the form of longer-term funds (term deposits, bonds, or even
+purchases of bank equity), then it is more likely that the additional funds could help banks expand, or at least
+avoid contracting, their lending.
+
+What will be different this time?
+Gilts comprise the vast majority of all assets that the bank bought in 2009/10: just above £198bn out of the
+almost £200bn worth of asset purchases. The purchases of corporate bonds and commercial paper,
+although relatively small, might have played an important role in stimulating these markets. The advantage
+of gilt purchases is that the market for gilts is liquid and deep, and there is no credit risk. The homogeneity of
+gilts (in terms of credit risk) means that the MPC is not drawn in to making credit allocation decisions
+between issuers and deciding which firms get funding and which do not. That is not something which the
+MPC is well placed to do. Liquidity and depth means that big purchases can be made relatively quickly. Net
+issuance of gilts has been positive over the past two years, so that even excluding the Bank’s purchases the
+value of outstanding gilts is now higher than it was at the time the Bank started purchasing gilts in
+March 2009. At the time, the Bank concentrated its purchases on conventional gilts with a residual maturity
+of greater than three years. There are now gilts with a market value of over £500bn falling in that category.
+At the time the Bank embarked on asset purchases in the Spring of 2009, the figure was around £375bn.4
+
+4
+
+Data as of 2 March 2009 and 30 September 2011.
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+13
+
+So I think there are good reasons why when further asset purchases are made to make monetary policy
+more expansionary it is being done through buying more gilts. Of course that would not be much good if
+buying gilts today was to have little impact. And conditions are different from 2009 – the period when the
+asset purchase programme started and from when the evidence of its impact comes.
+
+Gilt yields are now lower – ten-year yields were about 2.5% at the end of September compared to 3.5%
+when the Bank started to buy gilts in the Spring of 2009, and 4.5% at the start of 2008. But indicators of bank
+funding costs have increased. Figure 5 showed a simple measure of the cost of insuring against banks’
+default. The higher this cost, the more expensive it is for banks to raise new funds. Spreads of corporate
+over government bond yields have also risen (Figure 9), although they are still considerably lower than
+during the first half of 2009. Bank issuance of debt securities in public markets has been very weak over the
+summer months (Figure 11).
+
+So some of the stresses that were clear in early 2009 have resurfaced. Survey evidence suggests that
+tighter bank funding conditions might lead to a reduction in the supply of bank credit. The Bank of England’s
+Q3 Credit Conditions Survey5 showed a marked increase in the proportion of banks who thought that
+deteriorating bank funding conditions would contribute to a reduction in their supply of credit, in particular to
+PNFCs. (This anticipated reduction is shown by negative scores in Figure 12.)
+
+Figure 11: Term issuance by the major UK lenders in public markets(a)(b)
+
+Sources: Bank of England, Dealogic and Bank calculations. Data subject to revisions.
+(a) Includes debt issued by Banco Santander, Bank of Ireland, Barclays, Co-operative Financial Services, HSBC, Lloyds Banking
+Group, National Australia Bank, Nationwide, Northern Rock and RBS. Term issuance refers here to securities with an original
+contractual maturity or earliest call date of at least 18 months. It includes subordinated lower Tier 2 and Tier 3 capital instruments with
+debt features.
+(b) Includes unguaranteed senior debt; covered bonds; residential mortgage-backed securities; commercial mortgage-backed securities;
+medium-term notes; subordinated debt; senior debt issued under HM Treasury’s Credit Guarantee Scheme; and other asset-backed
+securities.
+(c) Data updated as of 3 October 2011.
+5
+
+Bank of England, Credit Conditions Survey, 2011 Q3.
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+14
+
+Figure 12: Influence of banks’ wholesale funding conditions on the availability of bank credit(a)(b)
+20
+10
+0
+‐10
+‐20
+‐30
+‐40
+‐50
+‐60
+
+PNFCs
+
+Q4 2011*
+
+Q3 2011
+
+Q2 2011
+
+Q1 2011
+
+Q4 2010
+
+Q3 2010
+
+Q2 2010
+
+Q1 2010
+
+Q4 2009
+
+Q3 2009
+
+Q2 2009
+
+Q1 2009
+
+Q4 2008
+
+Q3 2008
+
+Q2 2008
+
+Q1 2008
+
+Q4 2007
+
+‐70
+
+* forecast
+
+Household secured
+
+Source: Bank of England, Credit Conditions Survey, 2011 Q3.
+(a) Net percentage balances, calculated by weighting together the responses of lenders.
+(b) A positive balance indicates that more credit is available.
+
+Corporate bond issuance has almost stalled over the summer months (Figure 13).
+Figure 13: Cumulative gross issuance of bonds by UK PNFCs(a)
+£ billion
+60
+
+50
+
+40
+2009
+2010
+
+30
+
+2011
+20
+
+10
+2003 - 08
+0
+Jan
+
+Mar
+
+May
+
+Jul
+
+Sep
+
+Nov
+
+Sources: Dealogic and Bank calculations.
+(a) Data are subject to revisions.
+
+And the Bank’s Network of Agents reported in September that concerns about the withdrawal of overdraft
+facilities at short notice had led some small firms to run permanent sizable cash balances, inhibiting
+investment.6
+6
+
+Bank of England (2011), Agents’ summary of business conditions, September.
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+15
+
+This deterioration of funding conditions suggests to me that asset purchases now could support credit and
+demand growth not only via the portfolio substitution channel but possibly also via what I have called the
+bank funding channel. In conditions of heightened stress in markets, some banks’ lending may become
+constrained by their ability to raise deposits (either wholesale or retail). If QE generates more deposits for
+some such banks – and certainly if it generates longer term funding – it could have positive effects.
+
+Nonetheless there is a good deal of scepticism that asset purchases today will be particularly effective.
+
+One reason for scepticism about the effectiveness of further purchases of gilts is that gilt yields are already
+very low. Short-term yields are indeed extraordinarily low, though they are still significantly higher further
+out in the yield curve: 5-year yields were at 1.4% at the end of September, but ten year yields were higher,
+implying that five year yields in five years’ time were around 3.6% (Figure 14).
+Figure 14: UK five-year nominal government bond yields(a)
+Per cent
+7
+6
+5
+4
+
+Spot
+
+3
+
+5yr f orward
+2
+1
+0
+Jan 07 Jul 07 Jan 08 Jul 08 Jan 09 Jul 09 Jan 10 Jul 10 Jan 11 Jul 11
+
+Source: Bank calculations.
+(a) Spot and forward interest rates derived from the Bank's government liability curves.
+
+Yet even if we just focus on the impact of asset purchases on gilt yields, I am doubtful about the argument
+that more asset purchases now will be much less effective. It might take a larger volume of gilt purchases to
+drive yields down by 50bp now than when yields were higher. But a fall in yields of 50bp from, say, 2.5%
+also generates more of a rise in asset prices than the same fall in yields from 3.5%. Consider how the price
+of a perpetual bond would respond to a reduction in yields by 50bps. The price of a perpetual bond is just
+the inverse of its yield. So reducing yields from, say, 3.5% to 3% drives its price up by
+100*(3.5/3 -1) = 16.7%; whereas reducing the yield from 2.5% to 2% increases its price by 25%. So even if
+the impact on yields per pound of purchases was only two thirds as big, the impact on prices would be the
+same. Note too that the spreads in the yields on other assets (e.g. on corporate bonds) are not unusually
+low today (see Figure 9). So it is not at all likely that the scope to reduce those spreads is very limited.
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+16
+
+More fundamentally some might argue that additional asset purchases will mainly have an effect on inflation,
+not on real variables. But in many sectors of the economy demand for goods and services appears to have
+fallen behind productive capacity; it might fall further. The reason the MPC has embarked on a second
+round of asset purchases is that it is more likely than not that otherwise demand would be so weak that
+inflation would fall below the Bank’s target. That might seem farfetched today with inflation close to 5%. But
+recall that between September 2008 and September 2009, annual CPI inflation dropped from 5.2% to 1.1%.
+
+Conclusion
+The outlook for growth in the UK has deteriorated over the past months. That means that domestic
+inflationary pressures further ahead look lower than I thought in August. Stress has re-emerged in financial
+markets, and concerns about the stability of the banking sector have re-surfaced. In the light of this, the
+MPC has decided to resume asset purchases. That is where I think we stand today. It is an unusual
+situation and to future generations it will, as I observed at the outset, look like an interesting period. For
+today, it is not a comfortable situation to be in.
+
+Let me finally take a step back and think about why we are in this uncomfortable position. In my view, the
+key reason is the fragility of parts of the banking sector. And it seems to me clear that an important part of
+the long-term strategy to stop this happening again must be to make the financial system – and banks in
+particular – much more robust. As I have argued previously, I believe that the single most effective way to
+do this is to have banks use much more equity and less debt to finance their activities so that their leverage
+is reduced. This would mean that banks could withstand greater falls in the value of their assets before they
+got near to a position where those who had provided debt were sufficiently concerned about not getting all
+their money back that they withdrew funding.
+
+But for today monetary policy should be set to help prevent the economy from stagnating and driving inflation
+to sit persistently beneath the target. That is why today the Bank has started to buy more assets.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+17
+
+

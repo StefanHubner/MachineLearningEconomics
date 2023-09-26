@@ -1,0 +1,984 @@
+Monetary policy and forward guidance in the UK
+Speech given by
+David Miles, External Member of the Monetary Policy Committee, Bank of England
+
+At Northumbria University, Newcastle
+Tuesday 24 September 2013
+
+I would like to thank Jochen Schanz and Arpad Morotz for research assistance and others for helpful
+comments. I am grateful to the National Institute of Economic and Social Research for their
+permission to reproduce Chart 14. The views expressed are my own and do not necessarily reflect
+those of the Bank of England or other members of the Monetary Policy Committee
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+1. Introduction
+For the first time in some years the news on the outlook for economic activity in the UK over the past month
+or so has been overwhelmingly positive. Business surveys – of both current and future activity – look
+stronger and consistent with growth at least as high as what we used to think of as normal. Consumer
+confidence has moved up sharply. Hardly any indicator has failed to improve. This is all encouraging and
+very welcome. It is likely that the rate of the growth of the economy right now is at – and quite possibly
+1
+
+above – the average rate in the 50 years up to the onset of the financial crisis that started in 2007. But this
+comes after a period of several years of virtually no growth; and those recent low growth years came after a
+disastrous period in 2009 when output plummeted. So it would be spectacularly misguided to think that
+some signs of more normal growth mean that the economy is back to normal; and it would be equally
+misguided to think that if growth were to be near trend monetary policy should be quickly returned to a more
+normal setting. There are two reasons for that – first, the recent encouraging signs of growth might not prove
+to be durable (though I think they will); second – and more significant – the economy has been operating far
+short of its potential and the amount of slack is almost certainly large enough to mean that a sustained period
+of above average growth is needed to remove it (Chart 1). I believe that the main reason why it is now useful
+to offer guidance on the future stance of UK monetary policy is to reduce the risk that people believe that
+monetary policy would be quickly tightened once output began to rise at more normal rates. The nature of
+the guidance is simple; the message from the MPC is this: So long as inflation pressures don't start heading
+in the wrong direction, we will not tighten monetary policy until a recovery is strong enough and sustained
+enough that it has made a meaningful dent in unemployment so that it at least falls to 7 per cent.
+
+A key point here is that focusing just on the rate of growth of output is not a good guide to whether economic
+activity is running at a pace consistent with the control of inflation. Growth has to be seen in the context of
+the level of activity from which that growth comes. If that level of activity is significantly below a rate
+consistent with controlled inflation – as I believe is the case in the UK today – then it does not make sense to
+quickly return monetary policy to a more normal setting once growth moves to more normal rates. One
+indication that the level of activity is well below what can be sustainable, and consistent with inflation at the
+target, is that unemployment is far higher than during the long period before the financial train wreck and
+when inflation stayed close to target. Wage settlements have also been unusually low running beneath the
+actual (and expected) rates of consumer price inflation for some years. That suggests two things: first that
+slack it the economy is significant and second that linking the horizon over which an exceptionally
+expansionary monetary policy continues to support demand to the rate of unemployment has merit.
+
+1
+
+The average rate of growth of GDP in the UK between 1955 and March 2007 was close to 2.8%.
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+Chart 1: Evolution of GDP around recessions and banking crises
+
+(a)
+
+Indices: pre-recession or
+banking crisis peak = 100
+125
+Average: Advanced economy recessions (b)
+120
+Average: Big five banking crises(c)
+Euro area
+115
+United States
+110
+United Kingdom
+105
+100
+95
+90
+-8
+
+-4
+
+0
+
+4
+
+8
+12
+Quarters(d)
+
+16
+
+20
+
+24
+
+Sources: OECD, Reinhart and Rogoff (2008), Thomson Reuters Datastream and Bank calculations.
+(a)
+(b)
+(c)
+(d)
+
+Recessions are defined as at least two consecutive quarters of falling output.
+Covers the G20 advanced economies over the period from 1960 to 2006. For some countries, data are not available back to
+1960; for those countries, the sample starts at the earliest available date.
+Big five banking crises are Spain (1977), Norway (1987) Finland (1991), Sweden (1991) and Japan (1992), as defined in
+Reinhart and Rogoff (2008).
+Zero denotes the pre-recession peak in GDP, or the peak in GDP during the year of the banking crisis, as defined in footnote
+(c). For the UK quarter zero is 2008 Q1; the final quarter for the UK is 2013 Q2.
+
+Today I want to talk about forward guidance and what I see are its uses. But I want to talk at greater length
+about the sustainability of a period of more rapid growth and what it might mean for inflation pressures and
+optimal monetary policy. In doing that I will offer some thoughts on economic modelling and what I see as a
+deficiency in some of the most commonly used models of the whole economy.
+
+2. Forward guidance
+
+Let me start with some observations about the guidance the MPC has recently given. As you will know the
+essence of it is this: that so long as inflation pressures remain consistent with inflation moving back to the
+target monetary policy will not be tightened until a recovery has been sustained long enough to take the
+economy much closer to its potential level of production such that unemployment is significantly lower.
+
+2
+
+To my mind the single most useful thing about giving this guidance is that it makes clear that so long as
+inflation pressures remain controlled then a return to a more normal monetary policy is conditional on a
+sustained recovery in demand which brings down the rate of unemployment. Growth at average rates, or
+slightly above them, for a couple of quarters is most unlikely to bring slack in the economy or the level of
+unemployment down significantly. So the guidance implies that a – very welcome – couple of quarters of
+normal (or a bit above normal) growth should not mean that policy is about to be tightened. The reason I
+think guidance is helpful now is that it reduces the risk that a recovery that is still somewhat embryonic is not
+smothered by the anticipation that a tightening in monetary policy is imminent.
+
+2
+
+For details, see Bank of England (2013), Monetary policy trade-offs and forward guidance, London.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+Since guidance was announced market interest rates in the UK have moved up – both at the short end of the
+yield curve and at longer maturities. I suspect this is largely because the weight of money is behind a view
+that the significant positive news on the economic outlook means that the 7% unemployment level might be
+reached within around eighteen months. This is rather sooner than I think is likely. It is plausible that the
+level of productivity – which has fallen enormously relative to the trend we have been on – will bounce back
+once growth becomes more sustained (See chart 2). If that is so unemployment is likely to fall rather more
+slowly than would be usual. None of this is certain. We shall see how things play out. Maybe the market
+moves will prove transient – maybe not. I should certainly be pleased if we saw unemployment fall fast and
+productivity move sharply back towards its trend path because that would mean growth was very strong
+while inflation pressures might be contained since unit labour costs would be held down by rising output per
+hour worked.
+(a)
+
+Chart 2: Private sector labour productivity
+
+Indices: 2008 Q1=100
+120
+115
+Continuation of pre-2008/09
+recession average rate(b)
+
+110
+105
+100
+95
+90
+
+Private sector
+labour productivity
+
+85
+80
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+(a) Market sector output per hour.
+(b) The continuation of the pre-2008/09 recession average rate is calculated by projecting forward labour productivity from
+2008 Q2 using the average quarterly growth rate between 1999 Q3 and 2008 Q1.
+
+For whatever their reason, the financial market movements in the month or so since guidance was given at
+the start of August – a period when the news on economic activity and demand in the UK has been
+consistently positive – have been quite significant. The 1 year OIS rate two year forward is up by around
+60 basis points (Chart 3); the sterling effective exchange rate is up by around 4.5% (Chart 4); 2-3 year swap
+rates (off which most fixed rate mortgages are priced) are up by between 16bp and 33bp (Chart 5).
+
+These movements may not persist, but that is far from clear. Either way, I find it hard to see them as a sign
+that forward guidance has somehow failed at the outset. Yet some have suggested that forward guidance
+has backfired because the economy has picked up which means that the slow process of normalisation of
+monetary policy might have to begin before the middle of 2016, which was the date at which the MPC
+3
+
+thought it was likely that unemployment might have fallen to 7%.
+
+3
+
+This is speaking rather loosely. To be exact, the MPC judged at the time of its August Inflation report that the
+unemployment rate is as likely to reach the 7% threshold before the forecast horizon in mid-2016 as after it. In other words, mid-2016
+was the median estimate of the date at which the unemployment threshold would be reached.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+Chart 3: UK 1-year OIS rate, 2 years forward
+Per cent
+1.65
+1.55
+1.45
+1.35
+1.25
+1.15
+1.05
+0.95
+0.85
+0.75
+31 Jul 07 Aug 14 Aug 21 Aug 28 Aug 04 Sep 11 Sep 18 Sep
+Source: Bloomberg
+Last observation: 19 September 2013.
+
+Chart 4: Sterling ERI
+Index,1
+August 2013
+= 100% 106
+105
+104
+103
+102
+101
+100
+99
+98
+01 Aug 07 Aug 13 Aug 19 Aug 25 Aug 31 Aug 06 Sep 12 Sep 18 Sep
+Last observation: 19 September 2013.
+
+Chart 5: Daily swap rates
+3 year swap
+2 year swap
+
+Per cent
+1.4
+1.3
+1.2
+1.1
+1.0
+0.9
+0.8
+0.7
+0.6
+
+0.5
+31 Jul 07 Aug 14 Aug 21 Aug 28 Aug 04 Sep 11 Sep 18 Sep
+Source: Bloomberg
+Last observation: 19 September 2013.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+I think there is a rather Alice in Wonderland, upside down logic to this. It implies that somehow the MPC find
+unwelcome signs of a recovery in the economy. I can assure you that we do not! I would be pleased if
+growth turned out to be strong, productivity improved and inflation moved back towards the target level over
+the next eighteen months. And if all that happened so that unemployment came down steadily and
+significantly then I should also be pleased to start the process of normalising monetary policy. No one
+should want Bank Rate to be virtually zero for any longer than is needed. But it is quite possible to get
+average growth in the economy for 6 or 8 quarters – and maybe above average growth – and yet
+unemployment does not fall much because productivity growth is rapid. Not only is this possible, I think it is
+plausible. Chart 6 below shows just how strongly correlated are the growth in GDP and productivity. It is
+natural for productivity – a highly cyclical variable – to grow fast once demand picks up after a period of very
+anaemic growth.
+
+If this happened in a way that meant unemployment only fell very modestly it would also
+
+suggest that spare capacity might remain substantial and that a very expansionary monetary policy remained
+appropriate.
+
+Chart 6: Growth rates of real GDP and productivity
+6
+
+Real GDP
+
+4
+
+Productivity
+
+Per cent
+
+2
+0
+-2
+-4
+-6
+Mar 05
+Sep 05
+Mar 06
+Sep 06
+Mar 07
+Sep 07
+Mar 08
+Sep 08
+Mar 09
+Sep 09
+Mar 10
+Sep 10
+Mar 11
+Sep 11
+Mar 12
+Sep 12
+Mar 13
+
+-8
+
+Sources: ONS, Bank calculations.
+Quarterly data. Annual growth rates on quarter a year ago. Productivity is measured as output per hour.
+
+I don’t want to put much emphasis on some of the more bizarre interpretations as to what counts as success
+or failure of guidance. I think most businesses and households get the basic message – that so long as
+inflation pressures appear relatively well contained and consistent with a return to target then it is only when
+there has been a sustained recovery that has eaten significantly into slack that policy will be tightened. And
+in fact although I think the, relatively modest, tightening in effective monetary conditions since early August –
+the rise in bond yields, the appreciation of sterling; the increase in money market rates – is not in itself
+helpful, it is what I would call a benign tightening. By a benign tightening I mean that it is a response to
+stronger news on economic activity and confidence – and not a malign tightening, when a rise in money
+market interest rates and in bond yields comes as people expect higher inflation down the road.
+
+So while the tightening in monetary conditions is not a very helpful consequence of the news we have had
+over the past couple of months the fact is that that economic news has been good. The surveys and the
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+data on activity have been rather stronger than we might have expected at our August meeting (when we
+had already factored in some fairly favourable data relative to July). I would guess that right now we might
+have a rate of growth in the economy of between 2.5 and 3.5%. I think that is unambiguously good. The key
+questions are whether it can carry on, and if it does, what does it mean for the trajectory of inflation and the
+appropriate monetary policy.
+
+3. The sustainability of a recovery and monetary policy
+
+I think there are good reasons to believe that for an economy that has been in a deep recession there can be
+multiple equilibrium paths forward. By which I mean that for a given stance of policy there can be different
+paths for output. On some of them people are more optimistic in a way that is self-confirming. On others,
+low confidence about activity also becomes self-confirming. I think it is pretty clear that the higher growth,
+more-optimistic path is better, and indeed much of the academic literature on multiple equilibria in the
+aggregate economy shows that some paths are unambiguously better than others (they are Pareto superior).
+
+This idea that there are multiple paths for the aggregate economy each of which could be an equilibrium has
+4
+
+a long tradition in economics. It is probably the central message of Keynesian economics. Keynes argued
+that expectations over future returns are volatile and crucial in shaping investment and consumption plans.
+
+5
+
+Swings in households’ and firms’ expectations can move the economy from a good to a bad equilibrium, and
+vice versa.
+But Keynes’ central message – that there can be multiple equilibria – has been lost in the standard models
+most economists have used over the past 10 to 15 years. These are models that get labelled New
+Keynesian, but in which assumptions are usually made to ensure that the model has a unique equilibrium for
+output and employment. Such models also have the property that the real economy tends to be
+self-correcting – shocks will take the level of output, investment and employment away from its steady path
+for a while but there are strong forces which attract them back towards the path they were on in the absence
+of shocks.
+I have much sympathy with the idea that the central message from Keynes – that there can be multiple
+equilibria – has been lost in the standard models most economists, and central banks, have used in recent
+6
+
+years. Roger Farmer and Lawrence Summers – amongst others – have made this point and some of the
+ideas in Robert Hall’s recent Jackson Hole paper chime with it.
+
+7
+
+4
+
+Costas Azarides provides a concise overview in the New Palgrave Dictionary of Economics, Second Edition, 2008. For a discussion
+from a game-theoretic angle, see Russell Cooper (1999), “Coordination games: Complementarities and Macroeconomics”, Cambridge
+University Press.
+5
+Much of this literature formalises ideas that are in chapters 5 and 12 of Keynes’ 1936, The general theory of employment, interest and
+money, London: Macmillan.
+6
+Roger E A Farmer (2013), The Natural Rate Hypothesis: An idea past its sell-by-date, NBER Working Paper No. 19267.
+7
+Robert E Hall (2013), The Natural Rate of Interest, Financial Crises, and the Zero Lower Bound, Mimeo.
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+For much of the time a view of the world that sees it as having strong self-correcting characteristics that
+generates a path for output which fluctuates around a fairly smooth expansion path may be a reasonable
+approximation. But when shocks are really big the forces drawing real output and employment back towards
+the path they had been on – a path that in some sense remains a feasible one despite the shock – can be
+very weak. So weak in fact that the economy may get stuck on a different trajectory for activity for so long
+that for practical purposes it might as well be considered as a new equilibrium path that does not converge
+back to the old one. One might – somewhat loosely – think of this view of the world as one with multiple
+equilibria.
+8
+
+Let me sketch one version of the multiple equilibria story which seems relevant to the UK economy and to
+the sustainability of a path forwards from here along which there is much higher growth. It seems sensible to
+start by considering where we start from.
+
+The financial crisis hit the UK economy hard. In 2008 and 2009 a dramatic rise in uncertainty and a rational
+fear that future incomes might be much lower sharply reduced the value of assets. That reinforced the
+pessimistic assessment of people’s own finances and of the general economic situation taking their
+expectations to new lows (Chart 7). Unsurprisingly, consumption spending declined sharply (Chart 8).
+Chart 7: Households’ personal financial and general economic situation expectations
+
+Net balances (percentage point differences from averages since 1997)
+30
+20
+
+Personal financial
+situation expectations(a)
+
+10
+0
+-10
+
+General economic
+situation
+expectations(b)
+
+-20
+-30
+-40
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Source: Research carried out by GfK NOP on behalf of the European Commission.
+(a) The question asks how households expect their personal financial situation to change over the next twelve months.
+(b) The question asks how households expect the general economic situation to change over the next twelve months.
+
+8
+
+This is very much a sketch – and is not a formal model. But there are formal models consistent with this sketch. For formal models of
+the link between multiple equilbria and policy see, eg, Cooper (2002), ‘Financial Collapse: Lessons from the Great Depression’, Journal
+of Economic Theory 107, pages 159-190, and Morris, Stephen and Shin, Hyun Song (2000), ‘Rethinking Multiple Equilibria in
+Macroeconomic Modelling’, NBER Macroeconomics Annual, Volume 15. See also King and Wolman (2004) ‘Monetary Discretion,
+Pricing Complementarity and Dynamic Multiple Equilibria”, Quarterly Journal of Economics, pages 1513-1553.
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+Chart 8: Household consumption and real income
+Percentage changes on a year earlier
+6
+
+Real post-tax household income (a)
+
+4
+2
+0
+-2
+-4
+Consumption (b)
+2004
+
+2006
+
+2008
+
+2010
+
+-6
+
+2012
+
+(a) Total available household resources, deflated by the consumer expenditure deflator. Includes non-profit institutions serving
+households.
+(b) Chained-volume measure. Includes non-profit institutions serving households.
+
+Investment fell even more sharply than consumption. The decline in real interest rates on safe assets was
+not reflected in a fall in the cost of finance to companies so there was no offset to the joint effects of lower
+demand and falling confidence (Chart 9).
+
+Chart 9: Business confidence and investment
+
+Percentage changes on a
+quarter earlier
+
+15
+
+1
+
+5
+0
+-5
+-1
+-2
+-3
+1999
+Q1
+
+-15
+
+Range of Output Growth
+Survey Indicators (LHS) (a)
+ONS Business Investment
+(RHS) (b)
+2001
+Q1
+
+2003
+Q1
+
+2005
+Q1
+
+2007
+Q1
+
+2009
+Q1
+
+-25
+
+2011
+Q1
+
+Percentage changes on a year
+earlier
+
+25
+
+2
+
+-35
+2013
+Q1
+
+Sources: Bank of England, BCC, CBI, CBI/PwC, Markit Economics, ONS and Bank calculations.
+(a)
+
+(b)
+
+Aggregate measures of business expectations from the BCC, CBI and Markit/CIPS surveys have been produced by weighting
+together sectoral surveys using nominal shares in value added. The surveys used are: BCC turnover confidence
+(non-services and services), CBI business optimism (manufacturing, financial services, business/consumer services and
+distributive trades) and Markit/CIPS orders (manufacturing) and business expectations (services). The BCC data are
+non-seasonally adjusted. The aggregate measures have been adjusted to have the same mean and variance as quarterly
+GDP growth over the period 1999–2013 Q2. Survey indicators have been moved forward one quarter.
+Chained-volume measure. Business investment data have been adjusted by Bank staff to take account of the transfer of
+nuclear reactors from the public corporation sector to central government in 2005 Q2. Data are to 2013 Q1.
+
+Employment declined, but by less than anticipated, in part because employers were mindful of the costs of
+rebuilding a workforce later and workers accepted pay freezes to preserve their jobs (Chart 10).
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+Chart 10: Private sector output and employment
+Percentage change on a
+Percentage change on a
+year earlier
+year earlier
+5
+10
+Employment (a) (left-hand scale)
+4
+8
+3
+6
+2
+4
+1
+2
+0
+0
+-1
+-2
+-2
+-4
+-3
+-6
+(b)
+Output (right-hand scale)
+-4
+-8
+-5
+-10
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+Sources: ONS (including the Labour Force Survey) and Bank calculations.
+(a) LFS private sector employment. Calculated as the difference between LFS whole-economy employment and total public sector
+employment excluding publicly owned English further education corporations and sixth-form college corporations from the ONS’s public
+sector employment release, adjusted to be on a calendar-quarter basis. Data start in 2000 Q2.
+(b) Market sector gross value added. Chained-volume measure at market prices.
+
+With activity falling faster than employment, labour productivity declined. Real wages fell, in line with weak
+productivity (Chart 11). But unit labour costs rose, pushing up inflation (Chart 12).
+
+Starting from such a situation and after a series of such large negative shocks one can envisage how an
+economy might evolve along two very different paths. One is a ‘low confidence, weak growth’ path.
+Investment would remain weak, labour productivity would not pick up, and real wages would stagnate to
+match poor productivity. Because of weak productivity, unit labour cost growth might continue to be positive,
+so cost and inflation pressures would not look unusually weak even though the economy is in a deep
+recession. Falling real wages would not bring forth a return to full employment because demand for labour
+would not rise enough in an environment where firms expect demand for their goods to continue to be weak.
+I think this is roughly the path the UK has been on for much of the period since the financial train wreck.
+But an alternative, self-fulfilling upswing may also be possible. On this path productivity growth is faster, real
+wages can rise, and rising real incomes can justify greater spending. In this case greater optimism is
+self-confirming and greater activity generates a sustainable upswing during which productivity is stronger and
+higher incomes make the expectation of higher demand consistent with household plans.
+
+Inflation pressures generated within the economy may be quite similar along both paths, but for different
+reasons. In the first, inflation pressures do not fall much because unit labour cost growth is not unusually
+low; in the second, inflation pressures do not rise since stronger growth itself helps hold down unit costs of
+production because endogenous productivity growth creates flat costs of production.
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+Chart 11: Annual labour productivity growth and real wage growth
+6.0
+
+Annual labour productivity growth
+
+4.0
+
+Real weekly earnings
+
+2.0
+Per cent
+
+0.0
+-2.0
+-4.0
+-6.0
+-8.0
+2005 Q1
+
+2007 Q1
+
+2009 Q1
+
+2011 Q1
+
+2013 Q1
+
+Sources: ONS, Bank calculations.
+Quarterly data. Annual labour productivity growth is real GDP per hour.
+Real weekly earnings are calculated from ONS's average weekly earnings (AWE) figures, using the total earnings series deflated by CPI
+to 2005 prices.
+
+Chart 12: Annual growth in nominal wages, unit labour costs and CPI
+10
+
+Unit Labour Costs
+CPI
+Nominal wages
+
+8
+
+Per cent
+
+6
+4
+2
+0
+-2
+-4
+Jan 05
+
+Jan 07
+
+Jan 09
+
+Jan 11
+
+Jan 13
+
+Source: ONS.
+The growth rate of unit labour costs are quarterly data, CPI is monthly. Nominal wage growth figures are monthly 3-month averages
+and they are based on seasonally adjusted total nominal average weekly earnings.
+
+This story – where different paths of output and slack generate rather similar paths for costs and inflation –
+would mean that the link between spare capacity and inflation would be quite weak. In other words, the
+Phillips curve would be quite flat. The evidence from a range of countries in recent years is consistent with
+that. A recent IMF study found that inflation increases almost one for one with longer-term inflation
+expectations but that a 1pp increase in cyclical unemployment would only lead to a 0.1pp reduction in
+contemporaneous inflation. Chart 13 shows the distribution of their time-varying estimates of the slope of the
+Phillips curve for 21 advanced economies. The slopes seem to have fallen to exceptionally low levels.
+.
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+Chart 13: Range of estimates of the slope of the Phillips curve for 21 advanced economies
+
+9
+
+1.75
+1.5
+1.25
+
+25th/75th percentile
+Median
+
+1
+0.75
+0.5
+0.25
+0
+1961Q2 1966Q2 1971Q2 1976Q2 1981Q2 1986Q2 1991Q2 1996Q2 2001Q2 2006Q2 2011Q2
+Source: IMF World Economic Outlook, April 2013
+
+Country sample includes Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Japan,
+Netherlands, New Zealand, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, and United States.
+
+But there is considerable uncertainty around the slope of the Phillips curve. Empirical estimates appear to
+depend on the precise specification of the equation, the estimation procedure, and the sample period.
+
+10
+
+Multiplicity of equilibria may be one reason behind these difficulties in pinning down the form of the Phillips
+curve.
+
+In theory there is a very big difference between being in a world in which there are multiple equilibria or in
+one where the pull back towards a unique equilibrium level of real activity is very weak. But the practical
+difference may actually be rather small over a horizon of several years rather than several decades. That is
+important because the relevant horizon for monetary policy decisions is more likely to be several years than
+several decades.
+
+4. Policy implications
+
+What implications does the possibility of multiple equilibria have for monetary policy in the UK? Initially, the
+main distinction between the paths that I sketched above appears to be one of confidence: in the first,
+households and firms are pessimistic about their future earnings, whereas they are optimistic in the second.
+In both cases, beliefs are self-confirming.
+
+I believe that monetary policy can help to kick the economy onto the better output path. In part this could be
+done by changing people’s expectations about the future. Another possibility is to improve the fundamental
+conditions under which the economy operates. Lowering interest rates would encourage consumption and
+9
+
+Source: IMF (2013), ‘The dog that didn’t bark: Has inflation been muzzled or was it just sleeping?’, World Economic Outlook, April,
+Figure 3.6 (2).
+10
+See, for example, Mavroeidis et al (2013), Empirical evidence on inflation expectations in the new Keynesian Phillips curve,
+University of Oxford and Harvard University.
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+investment spending to be brought forward. Those effects can work even if the economy has a unique long
+run equilibrium because it can accelerate the transition back to it. Whether or not there are multiple equilibria,
+expectations and confidence can become more positive with a more expansionary monetary policy.
+The recent rise in activity and confidence in the UK could be – I believe – sustainable and self-confirming.
+Until quite recently it seemed to me that we remained on a path much more likely to be a low-confidence,
+weak –activity equilibrium. I favoured a more expansionary monetary policy to help shift the economy onto a
+better trajectory. There are some signs that we may now be on such a trajectory – and that is the reason I
+think keeping Bank Rate and the stock of asset purchases at their current levels is the right policy for now.
+
+I expect stronger growth to be consistent with inflation getting back to target through the course of next year
+because any impact faster growth might have on some input costs to firms will be offset by stronger – and
+cost reducing – growth in productivity. What the self-confirming and stronger path for output and confidence
+does not need right now is tighter monetary policy. That is why I think the guidance that has been given on
+monetary policy is helpful. It says that we will not raise interest rates until unemployment falls to 7%,
+provided inflation is under control and there are no risks to financial stability.
+
+5. Current policy
+Let me come back to the current position in the UK and the policy issues. I would like to make 4 simple –
+indeed obvious – points:
+1. Signs of stronger activity and confidence are very welcome – there is absolutely no double edge
+aspect to this that somehow comes from a tension with our forward guidance.
+
+2. Whether stronger activity means we get to a 7% unemployment rate much faster depends on the
+evolution of labour supply, and on how productivity responds to stronger demand. For any given
+path of output the change in unemployment is very sensitive to any change in productivity. If
+productivity responds positively there may be only a shallow fall in unemployment, despite stronger
+output growth. The table below illustrates this sensitivity.
+
+3. The 7% unemployment figure should be seen as a sign post, and not a preferred measure of slack; it
+is not a level of unemployment such that once you move below it slack is gone. One very powerful
+reason for stressing this is that I believe the unemployment numbers mean something rather
+different to what has been typical in recent decades. This is because so many people are now on
+part time work and an unusually high proportion of them want to work more. David Bell and David
+Blanchflower investigated the implications in a recent paper.
+
+11
+
+11
+
+They define underemployment as a
+
+Bell, D N F and Blanchflower, D G (2013), ‘Underemployment in the UK Revisited’, National Institute Economic Review 224.
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+situation in which someone is either unemployed, or is employed but would like to increase hours
+worked at the going wage rate. (They subtract the hours those in employment would like to work
+less from their underemployment measure.) Bell and Blanchflower note that unlike unemployment,
+their measure of underemployment has continued to rise during most of the recession. Chart 14
+illustrates this. Before the recession, those wishing to reduce their hours were balanced by those
+wishing to increase their hours, so the underemployment rate tracked the unemployment rate
+closely. But since the financial crisis, on a net basis, those working would have liked to work more
+hours. So the underemployment rate exceeded the unemployment rate. This means that there is
+likely to be more slack in the labour market than the unemployment rate suggests.
+
+Table 1: Sensitivity of the unemployment rate to changes in output and productivity
+Unemployment rate at the three-year
+horizon (per cent)
+
+Average four-quarter growth in
+productivity per hour over the
+forecast period (per cent)
+
+(a)
+
+Average four-quarter GDP growth over the
+forecast period (per cent)
+2.25
+
+2.5
+
+2.75
+
+3
+
+3.25
+
+2.25
+
+9.6
+
+8.9
+
+8.2
+
+7.5
+
+6.8
+
+2
+
+8.9
+
+8.2
+
+7.5
+
+6.8
+
+6.1
+
+1.75
+
+8.2
+
+7.5
+
+6.9
+
+6.2
+
+5.5
+
+1.5
+
+7.6
+
+6.9
+
+6.2
+
+5.5
+
+4.8
+
+Sources: ONS (including the Labour Force Survey) and Bank calculations.
+(a) Unemployment rate is a percentage of the economically active 16+ population. GDP is chained-volume measure at market
+prices. Productivity is whole economy output per hour. This highly stylised table gives a mapping between changes in
+output and changes in the unemployment rate, highlighting the sensitivity of that mapping to the response of productivity per
+hour. These numbers are only illustrative and are based on a number of simplifying assumptions about the elasticity of labour
+demand with respect to output, the extent to which increases in labour demand are met by increases in average hours worked
+rather than in the number of employees, and the participation rate.
+
+4. The absence of rising inflation pressures alongside the better news on activity gives a compelling
+case for not normalising policy until recovery has been sustained and a meaningful reduction in
+unemployment has been achieved.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+Chart 14: UK unemployment and underemployment index, 2001-12
+12
+Underemployment
+10
+Unemployment
+Per cent
+
+8
+6
+4
+2
+0
+2001 Q2 2003 Q2 2005 Q2 2007 Q2 2009 Q2 2011 Q2
+Source: Bell and Blanchflower (2013).
+
+6. Conclusion
+I think there are good reasons to believe that for an economy that has been in a deep recession there are
+likely to be multiple equilibrium paths forward. On some of them people are more optimistic in a way that is
+self-confirming. On others, low confidence about activity also becomes self-confirming. It seems plausible
+that you can have quite different paths for activity with very similar paths for inflation – on the low activity
+paths unit labour costs may be very similar to the high activity paths. Low growth in nominal wages can be
+offset by low growth in productivity on the low growth path, while higher wages are offset by higher
+productivity growth on the high growth path. This is a powerful reason why an inflation targeting central bank
+should do all it can to get the economy onto the higher growth path. I view the main way in which forward
+guidance can help in the UK now is to raise the chances of staying on that more favourable path. I believe
+we may be able to achieve that with the current setting for policy. That is a more optimistic position than I
+took a few months ago when I believed that resuming asset purchases was warranted. The recent rise in
+activity and confidence has the potential – I believe – to be sustainable and self-confirming. This is not
+guaranteed. But I am now more confident that we are on path to recovery than at any time since I joined the
+MPC in the first part of 2009. What a potentially self-confirming and stronger path for output and confidence
+does not need right now is tighter monetary policy. That is what the guidance that has been given by the
+MPC is designed to avoid.
+Of course we could well have a slide in activity and in confidence for other reasons – there is no shortage of
+things that could make that happen. But if that is how things play out we can and should do something about
+it.
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+

@@ -1,0 +1,476 @@
+Bank of England
+
+Page 1
+
+The Digital Pound − speech
+by Jon Cunliffe
+Given at UK Finance
+07 February 2023
+
+Bank of England
+
+Page 2
+
+Speech
+As some of you may have seen, the Bank of England and the Treasury have today
+published, as a Consultation Paper, the report of the Bank of England – HM Treasury
+Taskforce on the introduction in the UK of a central bank digital currency – a ‘digital
+pound’. So I am grateful for the opportunity today to set out some of the thinking behind
+the report and the next steps we propose.
+First, however, I should set out the headline conclusions of the Taskforce.
+Our assessment is that on current trends it is likely that a retail, general purpose digital
+central bank currency - a digital pound – will be needed in the UK. This would be a new,
+digital form of money, issued by the Bank of England for use by households and
+businesses for everyday payments.
+A digital pound would be a very substantial financial infrastructure project that would take
+several years to complete. It would, as many in this audience know, have major
+implications for the way we transact with each other and, more broadly, for the financial
+sector and the economy in general. The Taskforce’s conclusion is that we are not yet at a
+point where a firm decision can be made to implement a digital pound.
+However, in view of the likely need and the lead time to introduction, the Bank and The
+Treasury, will now proceed to the next stage of detailed policy and technical development
+of the digital pound - including the development of a technical blueprint.
+This stage will take around two to three years following which a decision will be made
+whether or not to proceed to the next stage and implement a digital pound in the UK. The
+work over the next two to three years will inform that decision and will reduce the lead time
+to launch should the decision at the end of this stage be to implement the digital pound in
+the UK, which could then be introduced in the second half of the decade.
+In this next stage of detailed policy and technical work, including the development of a
+technical blueprint for the chosen model of the digital pound, we will work closely with
+private sector partners on proofs of concept, experimentation as well as on the
+development of the blueprint itself. We expect that this research and development work
+will have important benefits for both the Bank and the fintech industry even if the eventual
+decision is not to introduce a digital pound.
+In order to proceed to the next stage, we need clarity about the model of a digital pound to
+be developed. The report published today sets out for consultation the key features of the
+model we propose to take forward. The report is accompanied by a Technology Working
+
+Bank of England
+
+Page 3
+
+Paper that sets out an accompanying illustrative conceptual model and seeks feedback on
+potential approaches to key technology considerations.
+Before I set this out in further detail, there is one important point I should make. Given all
+the attention that the cryptoasset world, with its attendant gyrations and failures, has
+received in recent years, it is perhaps understandable, that the digital pound can be
+confused in peoples' minds with cryptoassets such as bitcoin. I should take this opportunity
+to correct this misapprehension. Indeed, nothing could be further from the truth.
+The majority of cryptoassets are highly speculative assets, whose value is extremely
+volatile, because there is nothing behind them. They have no intrinsic value. For that
+reason, they are not suitable and not used for general payment purposes. One can think of
+them as more akin to a bet than to trusted money. The digital pound would be a safe,
+trusted form of money accepted for everyday transactions by households and firms, in the
+same way as Bank of England notes are today. It is of course possible that some of the
+technologies developed in the crypto world might be useful in the development of a digital
+pound, but as I will explain later, there is a large range of technologies that are now under
+consideration.
+Why is a digital pound likely to be needed?
+There are a number of considerations behind our assessment that a digital pound is likely
+to be needed. The assessment is forward looking. It turns first on current trends in the
+way we use money to make payments and the potential of emerging digital technologies
+and second on the public policy response necessary to ensure innovation and competition
+can flourish without jeopardising the safety and uniformity of the money we use in the UK.
+Money is at its root a social convention1 based on trust that allows us to store, transfer and
+settle obligations we hold on each other in society. It’s safe and efficient operation is, as
+history has demonstrated, fundamental to social and economic stability. The forms that
+money takes and the ways it is used have changed throughout history driven by changes
+in technology and the changing demands of ever more sophisticated and complex
+economies. However, trust in money is the bedrock on which that innovation is built.
+Two forms of money are currently available to the public2 throughout the UK. The Bank of
+England and the Royal Mint issue a physical form of money to the public – bank notes and
+
+1
+
+To function money relies on a shared understanding that the relevant instrument can be used to calibrate, exchange,
+store and settle claims. For further discussion on this point see recent speeches ‘It’s Time to Talk about Money’ (2020)
+and ‘Do We Need Public Money (2021)’.
+2 The Bank of England also issues reserves to financial institutions. This is a form of wholesale money that allows
+regulated firms to hold claims on the Bank of England.
+
+Bank of England
+
+Page 4
+
+coins, otherwise known as ‘cash’. Private commercial banks issue predominantly digital
+money in the form of electronic transfers between bank deposit accounts3.
+We have seen major changes in recent years in the form of use of money to make
+payments. In the mid-1960s, most workers were paid weekly in cash, and around 70% of
+the population did not have a bank account.4 Very few had access to credit or debit cards.
+Consequently, for every £100 of funds that people held to make payments, over a third
+would be held as cash. Nowadays, less than 5% is held as cash. Even 15 years ago, 60%
+of transactions in the UK used physical cash; pretty much everyone in this room would
+have carried enough for everyday transactions.
+In 2021 only 15% of transactions involved physical money. Technology and the increasing
+digitalisation of everyday life has transformed the way we use money. Private commercial
+bank money accounted for 85% of the payments made by the public. Within that, debit
+and credit card transactions accounted for 69% of transactions. Contactless payment has
+made such transactions much easier for everyday life. And the growth of internet
+commerce has required the use of digital money.
+It is always challenging to forecast how technological advances and social trends will play
+out. Few at the turn of this century would have predicted the development and growth of a
+massive and dominant market and social platforms. Or how the advances in the
+functionality of the smartphone, as most recently seen during the pandemic, would
+transform daily lives.
+But while we cannot know with certainty how current trends in payments and technology
+will play out, it would be complacent to assume that developments in money and payments
+will end with the status quo.
+There are already in existence new digital technologies that are being applied to the digital
+representation, transfer and storing of money like obligations. These offer the prospect of
+new possibilities in the way money and payments can be configured to interact with digital
+processes. Programmable money, for example, could enable the development of smart
+contracts which carry out specific actions based on pre-defined actions and conditions5.
+Moreover, money and payments are no longer the exclusive province of banks. New,
+non-bank players have already been successful in providing innovative payment services.
+Looking forward a wide range of non-bank payment firms, including bigtechs and some
+
+3
+
+Only the Bank of England issues banknotes in England and Wales, but six banks in Scotland and Northern Ireland also
+issue banknotes, backed largely by assets at the Bank of England. See Scottish and Northern Ireland banknotes |
+Bank of England and the Scottish and Northern Irish Banknotes Regulations (2009) for further details.
+4 The Payments of Wages Act 1960, as amended by the Truck Act.
+5 Some examples of programmable functionality might include: instantaneous currency exchanges with reduced
+settlement risk; more efficient real estate purchases whereby all parties’ transactions are executed simultaneously by a
+smart contract; or an automated payment made by a vehicle at a toll booth.
+
+Bank of England
+
+Page 5
+
+players from the crypto universe, are becoming increasingly interested in the possibilities
+of these new technologies in money and payments.
+Our assessment that a digital pound is likely to be needed is grounded first in the view that
+further decline in cash use and further development in the digitalisation of money and
+payments is likely and second in the view that these developments raise important
+questions to which the Bank of England and the Government should respond.
+As far as the decline of cash is concerned, the immediate response is to make sure cash
+will remain available to any and all that want to use it. The Bank has made clear that we
+will continue to produce it and the Government is taking powers under the Financial
+Services and Markets Bill to give the Bank of England and FCA new powers to ensure the
+future effectiveness, resilience, and sustainability of the cash ecosystem6.
+However, we cannot ignore the fact that the safest form of money, ‘public’ money, that it is
+to say money issued by the state for general use, will become increasingly less useful and
+useable and of shrinking relevance to a large part of the population. Nor can we ignore
+the likelihood that we will see the emergence of new forms of money, offering new
+possibilities and issued by new as well as established players.
+This raises, particularly for the Bank of England, the question of how we can continue to
+ensure that all of the types of money used in the UK are denominated in Sterling, remain
+safe and that each is interchangeable on demand and to all of the other types of money
+without loss of value, including publicly issued, Bank of England money.
+We ensure trust in money at present by regulation of the commercial banks that issue
+money, by requiring banks to settle amongst themselves in Bank of England money (i.e.
+Bank of England reserves) and, crucially, by requiring all private money to be
+exchangeable for Bank of England money, cash, on demand by the holder and without
+loss of value. Alongside regulation, the provision of Bank of England money to the public
+and reserve money to commercial banks institutions anchors the confidence, uniformity
+and interchangeability of money in the UK. Our assessment is that future developments in
+payments and money will make it likely that, alongside regulation, we will in future need a
+digital pound, issued by the Bank of England to perform this anchor function.
+The experience of digitalisation is that new products and services, enabled by new
+technology, can be adopted rapidly at scale. The Government has identified several
+characteristics of digital markets that may lead to concentration. Such characteristics
+include network effects, economies of scale and scope and data advantages, which can
+
+6
+
+Financial Services and Markets Bill (2023). In December 2022, the Bank of England published a consultation,
+closing on 10 February, setting how it intends to use these new powers.
+
+Bank of England
+
+Page 6
+
+act as barriers to entry. This suggests that the future development of private money
+issuance could tend towards a small number of firms taking a significant market share.
+While concentration and market power are not inherently harmful and may reflect
+innovative products and services, they can damage consumer choice, competition and
+innovation. Dominant issuers of new forms of private digital money may create ‘walled
+gardens’ - payment systems that are not fully interoperable or restrict the development by
+smaller firms of payment services using the money they issue.
+A digital pound issued by the Bank of England would provide an alternative, public, digital
+money - an open platform, which would be available to all developers of new digital
+payment services. Moreover, if designed appropriately, a digital pound could complement
+and support new forms of private digital money and payment services, for example by
+acting as the ‘bridging asset’ between different platforms enabling convertibility. By
+establishing technical standards available to all, it could help ensure interoperability
+between different platforms. Our assessment is that a digital pound, an alternative,
+publicly issued form of digital money, available to all, would help ensure competition and
+innovation and drive efficiency in payments.
+There are other important potential benefits. There is scope for innovation to generate
+further efficiencies in payments, allowing for faster and/or cheaper payments. That
+improvement might be facilitated by new technologies and new entrants to payments
+markets offering new functionalities. For example, small and medium-sized merchants pay
+far higher fees for accepting card payments than larger businesses7. Although these costs
+are not paid directly by customers, they may feed into higher prices in the economy
+overall. And cross-border transactions in particular are often very costly. The average cost
+of a payment sent to another country is about 6% of the value sent8.
+The digital pound could also complement existing financial inclusion initiatives, for example
+if it were able to provide for offline payments. It could, with international co-operation,
+present an opportunity to improve cross-border payments. And, by providing a highly
+resilient, alternative payment rail it could reinforce the overall resilience of the UK
+payments system. These motivations are explored more fully in the paper we have
+published today.
+The Model for a Digital pound
+Our assessment, therefore is that on current trends a digital pound would have benefits
+and is likely to be needed. However, the Taskforce concluded, that we are not at present
+at a point at which a firm decision could be taken to implement the digital pound. Further
+
+7
+8
+
+See for example Haldane, A.: ‘Seizing the Opportunities from Digital Finance’ (2020).
+World Bank (2022) – Remittances Prices Worldwide Quarterly.
+
+Bank of England
+
+Page 7
+
+work, especially detailed technical exploration and development is necessary to assess
+the feasibility and cost of what would be a very major public, financial infrastructure
+project.
+We expect this intensive exploration and technical development phase to take around
+three years. It will produce a technical blueprint for the digital pound. The work will not
+delay but rather shorten the lead time to actual launch should a firm decision be taken in
+the future to implement the digital pound so that a digital pound could be introduced in the
+second half of the decade. And during this next phase, we will be able to see more
+evidence of how the current trends and changes in payments and money are playing out
+which will help to inform a future decision.
+In order to proceed to the next phase we need clarity about the model of the digital pound
+we wish to develop. We have today set out that model in detail for consultation. We are
+seeking industry and public views on the key design choices that determine the model.
+The Consultation Paper is accompanied by a Technical paper which sets out our current
+thinking on the relevant technology and seeks feedback on the approaches we propose to
+consider.
+There is not time today to go through the model in detail, but I will briefly set out some of
+the most important details of what we propose.
+We envisage the digital pound as a partnership with the private sector. The Bank would
+provide the digital pound and the central infrastructure, including the ‘core ledger’. Private
+sector firms – which could be banks or approved non-bank firms – would provide the
+interface between the Bank’s central infrastructure and users by offering wallets and
+payment services. These private companies would be able to integrate the digital pound,
+as the settlement asset, into the services they would offer to wallet holders.
+The wallets would be operated on a ‘pass-through’ basis. That is to say, they would not
+constitute a claim on the wallet provider in the way that a bank account is a claim on a
+bank. Nor would they represent a custody arrangement. Rather, the wallets would hold all
+of the customer related information and ‘pass-through’ the customers instructions to the
+Bank’s infrastructure. All of the digital pounds would be held on the Bank of England’s
+central ledger.
+Privacy has been a major theme of the Taskforce’s engagement with industry and the
+public. We intend that the digital pound would have the same (or stronger) privacy
+protections as bank accounts, debit cards or cheques which are now used for 85% of
+transactions in the economy.
+Individuals’ personal details and transaction records would be known only to their private
+sector wallet provider in the same way they are for bank account providers today (and
+
+Bank of England
+
+Page 8
+
+subject to the same privacy protections). But individuals’ details and records would not be
+known by the Government or the Bank of England. In this way, the digital pound would
+provide privacy while also protecting against fraud and financial crime.
+The digital pound would not be an anonymous bearer instrument like cash, but physical
+cash would remain available to those who wanted to use it.
+Neither the Government nor the Bank would program a digital pound or restrict how it was
+spent. Instead, the Bank would provide the infrastructure and minimum functionality for the
+private sector to provide programmability features for users. Those features would require
+user consent.
+As with banknotes and many current accounts, no interest would be paid on a digital
+pound. Its purpose would be as a means of transaction -- to make and receive payments rather than as a savings product. Nor do we see the digital pound as a monetary policy
+instrument and as such it would, like cash, have neither positive nor negative
+remuneration.
+In our 2021 Discussion Paper on ‘New Forms of Digital Money’, we explored the financial
+stability risks and impact on the banking sector of the emergence of non-bank digital
+monies. Modelling of an illustrative scenario suggested that retail deposit outflows into
+digital money would affect banks’ funding and could lead to higher bank lending rates,
+although the impact was expected to be modest. This modelling was based on
+assumptions, set to be highly cautious9, about the amount of non- bank digital money
+households and businesses might want to hold and hence the scale of possible outflows
+from retail bank deposits.
+We cannot, of course, know ex ante, how households and businesses would respond to a
+digital pound and how much they would want to hold. We therefore propose that to
+manage financial stability risks, initially at any rate, the digital pound would need to be
+designed in a way that enabled some restrictions to be placed on amount an individual or
+business could hold.
+We propose a limit of between £10,000 and £20,000 per individual as the appropriate
+balance between managing risks and supporting wide usability of the digital pound. A limit
+of £10,000 would mean that three quarters of people could receive their pay in digital
+pounds, while a £20,000 limit would allow almost everyone to receive their pay in digital
+
+9
+
+The Illustrative Scenario assumed demand for the digital pound was around 20% of retail and business deposits, which
+was equivalent to nearly all transactional deposits in the banking system. This assumption is particularly cautious for
+higher interest rate environments when deposits would be expected to pay holders somewhat more interest than an
+(unremunerated) digital pound.
+
+Bank of England
+
+Page 9
+
+pounds10, keeping outflows from the banking system broadly within the assumptions set
+out in the Bank’s earlier modelling work.
+We are, as I have said, also seeking feedback on the technical approaches for such a
+model of the digital pound. The Technology Working Paper accompanying the
+Consultation Paper sets out an illustrative and complementary conceptual model
+consisting of a core ledger, API layer, analytics and alias service. The core ledger
+operated by the Bank might be centralised, running as a traditional database, or it might
+use Distributed Ledger Technology (whether a blockchain or another form of the
+technology).
+The paper includes key questions which will be further explored in the next phase of work,
+including for example which privacy-enhancing technologies might support our policy
+objectives and what features of an API for the digital pound would best enable innovative
+use cases.
+The Digital pound within a digital payments landscape
+Finally, I want to cover briefly how a retail digital pound, designed for use by firms and
+households in everyday transactions, might sit alongside a wholesale central bank digital
+currency, privately issued digital money, and also alongside central bank digital currencies
+issued by other jurisdictions.
+On the question of a ‘wholesale CBDC’ the first point to emphasise is that for the Bank this
+is not a question of either one or the other of ‘retail or wholesale’. We are working
+extensively on both areas, including through the renewal of the digital infrastructure we
+currently use to provide money to commercial banks in the form of Bank of England
+reserves.
+Many of the technologies which I referred to above offer the potential for wholesale
+financial transactions to take place at lower cost, higher speed and with greater resilience.
+In many cases the same considerations around the potential benefits of new technological
+approaches, for example the deployment of smart contracts, atomic settlement or potential
+resilience benefits, apply to the wholesale world.
+However, wholesale markets differ from retail in several respects and a digital pound
+designed for everyday use may not be best suited for wholesale financial markets. Our
+view is that for such markets there are other routes that might more quickly and effectively
+allow for new forms of digital representation, the ‘tokenisation’, of central bank money to
+be used in financial transactions.
+
+10
+
+Specifically, a limit of £10,000 would allow 75% of UK income earners to hold their salary, pre-existing balances as
+well as an illustrative 10% bonus or overtime payment.
+
+Bank of England
+
+Page 10
+
+There is now a great deal of experimentation in this area among central banks, including
+the Bank of England, and within the private sector. Some of the approaches proposed
+would involve a greater role for the private sector, particularly the large financial firms that
+already have access to a form of digital Bank of England money, in the tokenisation and
+transfer of central bank money including between currencies11. Other experiments are
+testing the feasibility of networks of central bank digital currency systems for cross border
+wholesale transactions12.
+The Bank is looking particularly at how we can exploit the capabilities of the new RTGS
+system we are building, with the new core RTGS settlement engine launching in 2024. We
+are examining features that could make it easier to connect to the RTGS service, including
+a broader range of APIs, improved availability, with near 24/7 operation and
+synchronisation of the RTGS system with other ledgers including those using distributed
+ledger technology and tokenisation of assets13.
+At the same time, the Bank of England is working with the FCA and HMT to establish a
+sandbox to explore innovative forms of digital settlement of wholesale financial market
+transactions. We are also actively engaged with the work of the BIS Innovation Hub,
+including through its London Centre, at experiments to look at the potential for improved
+settlement.
+All of this work will proceed alongside the next phase of development of the retail digital
+pound. We envisage that much of the technical work in this phase will provide insights
+that will be of significant value to our work on the future digitalisation of wholesale financial
+markets.
+The further development of the digital pound will also benefit the Bank’s work on private
+sector stablecoins14. The Financial Services and Markets Bill (2023) provides powers for
+the Bank of England to regulate stablecoins used in systemic payment systems in the UK.
+As with wholesale CBDC, this is not a question of whether we have a digital pound issued
+by the Bank of England or private sector stablecoins issued by private sector firms. In a
+future payments landscape, there could be opportunities for privately issued stablecoins,
+regulated to the same standards as we regulate other forms of privately issued money.
+
+11
+
+See for example the work the Bank of England has done with regard to omnibus accounts.
+See for example BIS Innovation Hub projects looking at this topic - such as mBridge, Icebreaker, Dunbar and Jura.
+13 Last year the Bank set out its thinking and approach on many of these elements through a consultation on the
+roadmap for RTGS beyond 2024. See also The road to enhanced payments - speech by Victoria Cleland | Bank of
+England. As noted, this effort is complemented by work ongoing at the BIS Innovation Hub London Centre to look at the
+potential benefits from synchronisation under Project Meridian.
+14 See Bank of England: ‘New Forms of Digital Money (2021)’ - Stablecoins are cryptoassets that aim to reduce volatility
+by pegging their value to government-sponsored – or ‘fiat’ – currencies.
+12
+
+Bank of England
+
+Page 11
+
+We envisage that these could operate alongside the digital pound and alongside
+commercial bank money and cash. The digital pound could act as a bridging asset
+between different types of privately issued digital money and establish standards for
+interoperability. And, crucially, the requirement for privately issued digital money to be
+exchangeable on demand and at par for Bank of England digital pounds would help secure
+the interchangeability and uniformity of money in the UK.
+Finally, many central banks, across the globe are exploring the issuance of a central bank
+digital currency for both retail and wholesale purposes. A few have now been launched 15.
+There is clearly a great opportunity and a great need for international cooperation in this
+area. Interoperability between national and regional central bank digital currencies could
+bring substantial benefits by reducing the cost and frictions in cross border payments. At
+the same time, there are broader macro-economic and geopolitical issues that need to be
+considered.
+The Bank of England is working actively on these issues with international counterparts
+through the Bank for International Settlements Committee on Payments and Market
+Infrastructures (CPMI), through the G7, the G20 and FSB and through close cooperation
+with a small group of advanced economy central banks16.
+Conclusion
+To conclude, the Consultation Paper and accompanying Technology Working Paper
+marks the end of the first stage of the work of the Bank of England – HM Treasury
+Taskforce. It sets out: our assessment that a digital pound issued by the Bank of England
+is likely to be needed; the next phase of work necessary to enable a firm decision to be
+taken in the future on whether to implement the digital pound; and consults on the model
+we now propose to develop.
+The consultation will run for four months and end on the 7th June 2023. The Bank and the
+Treasury will then review the responses and consider whether changes to the proposed
+model are necessary. We will publish our response to the consultation.
+We will then engage with private sector firms and other stakeholders on the next stage of
+work. This will include technological experimentation, particularly through collaboration
+with the private sector on proofs of concept17. This work will support the feasibility of the
+proposed model, the refinement of the associated technical requirements and the
+For an overview see Gaining momentum – Results of the 2021 BIS survey on central bank digital currencies.
+See for Example ‘Central bank digital currencies: foundational principles and core features’ (2020) and the
+series of reports on digital currency aspects (e.g. financial stability, system design) published in 2021.
+17 These are likely to involve testing individual components of the digital pound architecture (against standards built on
+the considerations set out in our Technology Working Paper). Project Rosalind, being run out of the London Centre of
+the BIS Innovation Hub is one example of the kind of work we envisage. That project is currently running a tech sprint
+and expressions of interest are open until 10 February.
+15
+16
+
+Bank of England
+
+Page 12
+
+development of a technological blueprint for the digital pound. Such a blueprint will provide
+evidence that will allow us to evaluate the feasibility and costs of developing a digital
+pound. This will be the keystone of our assessment of whether or not to proceed to build.
+We have made no decision yet on whether a digital pound would use DLT. Our technology
+working paper sets out high-level requirements for a ledger, and makes clear that in
+principle these could be fulfilled by conventional or DLT technology. But it is clear that
+experimentation with DLT, whether private or public, will be important to ensure it is
+appropriately considered. We will be putting in place the capabilities and mechanisms to
+increase our technology expertise, and to enhance our ways of working with DLT
+technology providers and those seeking to deploy DLT in finance, both through the FMI
+Sandbox and the digital pound design phase.
+Throughout the next phase we hope to continue to benefit from a wide range of views and
+expert advice on the digital pound. This consultation is an important element in that regard,
+as is the continued work of the Engagement and Technology Forums which have
+supported the Taskforce through the first stage of its work and which will continue.
+The money we use and the way we pay has changed throughout history, driven by
+technology and the changing needs of society. We have seen significant changes in recent
+years and current trends suggest that we are likely to see further major change as
+technology and the digitalisation of everyday life advance.
+The proposals set out today are designed to ensure that the UK is well placed to take
+advantage of the benefits that these changes can offer, while ensuring that we preserve
+the safety and uniformity of money in the UK.
+Thank you.
+
+I would like to thank Marilyne Tolle, Ali Aswad, Shiv Chowla, Katie Fortune, Stephanie
+Haffner, Dovile Naktinyte, Zaki Said, Simon Scorer, Danny Russell, Michael Yoganayagam
+and Cormac Sullivan for their help in preparing the text. I would like to thank Andrew
+Bailey, Sarah Breeden, Ben Broadbent, Victoria Cleland, Andrew Hauser and Tom Mutton
+for their comments.
+
+

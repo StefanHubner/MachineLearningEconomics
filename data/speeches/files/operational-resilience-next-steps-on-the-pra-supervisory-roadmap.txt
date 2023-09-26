@@ -1,0 +1,357 @@
+Bank of England
+
+Page 1
+
+Operational Resilience: Next
+steps on the PRA’s
+Supervisory roadmap −
+speech by David Bailey
+Given at the UK Finance Webinar “Operational Resilience: Beyond
+2022”
+28 April 2022
+
+Bank of England
+
+Page 2
+
+Speech
+Introduction
+Good morning everyone and I’d like to thank my colleagues at UK Finance for inviting me
+to speak today, the first opportunity I have had to speak at a UK Finance event since I took
+up my post as Executive Director for UK Deposit Takers Supervision at the Prudential
+Regulation Authority (PRA) last September.
+Given that, I’m going to focus on one of our highest supervisory priorities at the moment,
+Operational Resilience (Op Res). It is a particularly timely moment to be discussing the
+topic as it has been just over 12 months since our Op Res policy was published. Since
+then firms have been on a journey towards the end of March deadline that recently passed
+to identify their Important Business Services (IBS), set impact tolerances, and start
+mapping and testing to ensure they can remain within those impact tolerances.
+From our initial Discussion Paper in July 2018, through the follow up to our Consultation
+Paper in December 20191, and the close and collaborative work on implementation last
+year, I’d like to thank UK Finance and its members for their open engagement on this
+policy. At the PRA we have found this two way dialogue valuable in guiding the
+development of the Op Res policy, and in that spirit, my remarks today aim to keep you
+informed on the next steps on our Op Res roadmap.
+The need to focus on this topic has never been more pressing. Since our original
+Discussion Paper: the Covid pandemic; the ongoing shift of services to the Cloud; and,
+more recently, the terrible events in Ukraine have all brought fresh challenges to the
+overall operational resilience of the sector. This has included the need to shift to remote
+working at short notice, address the risk posed by dependencies on services and third
+party providers (including those located in highly disrupted areas of the world), and
+highlighted an increasing need to focus on cyber resilience.
+The good news is that the sector has, to date, shown itself to be resilient in the face of
+these challenges. However, while clear progress has been made, there is still distance to
+travel to a point where firms across the sector reach the level of operational resilience we
+expect to see. This has been highlighted by a variety of operational outages still occurring
+frequently, such as payment outages, app and website failures, and incidents at third party
+providers. These incidents often attract significant attention from both customers and the
+
+1
+
+PS6/21 | CP29/19 | DP1/18 Operational Resilience: Impact tolerances for important business
+services
+
+Bank of England
+
+Page 3
+
+media, emphasising the need for demonstrable resilience to underpin broader confidence
+in the financial sector.
+Today, there are a few areas I would like to focus on:
+•
+
+First, I will very briefly recap our Op Res policy, including our expectations of firms
+and the links to other key policy areas such as outsourcing and Critical Third Parties
+(CTPs);
+
+•
+
+Second, I will share with you some initial assessments of firms’ progress based on
+our supervisory work on UK banks and building societies so far; and
+
+•
+
+Finally, I will cover what is coming up next in our Op Res roadmap; this includes our
+expectations around what firms should be doing, and the supervisory steps the PRA
+will be taking.
+
+1. The PRA’s operational resilience policy
+Starting with the first of those points, I will provide a short recap of our expectations of
+firms in the Op Res policy. I will keep this brief as I am aware that many of you will already
+be very familiar with our expectations.
+In particular, there are three particular policy expectations that I will draw out.
+i) Important Business Services
+The first is the requirement for firms to identify their IBS. Here we expect firms to take a
+holistic approach and consider all parts of their business in order to identify the full suite of
+services they offer, and then which of those should be deemed “important”. The definition
+of “importance” should be based on a service being provided to an external end user and
+having the potential to threaten regulatory objectives in the event of a disruption.
+ii) Impact Tolerances
+The second is the requirement for firms to set impact tolerances for their IBS. Here, we
+expect firms to assume that disruption to IBS will occur and then set clearly defined
+time-based metrics, and well defined thresholds, at which the disruption would threaten
+regulatory objectives.
+iii) Mapping and Testing
+The third area is, following the identification of IBS and setting impact tolerances, we
+expect firms to perform mapping and testing so they are able to demonstrate their ability to
+stay within their impact tolerances. Firms’ testing strategies should incorporate the risks
+and vulnerabilities they will face in severe but plausible scenarios and then demonstrate
+how they will remediate any disruption in a timely manner. The experience gained from
+
+Bank of England
+
+Page 4
+
+this testing can then inform how firms monitor risks to their operational resilience and
+increase the maturity of their overall processes.
+Policy interactions
+For the recent March 2022 deadline, firms had to meet the first two of these elements,
+namely identifying the IBS and setting impact tolerances. Looking ahead to the next key
+deadline, which is in 2025, firms will have to prove that they are able to remain within the
+impact tolerances that they have set out, and this is where the assurance gained from high
+quality testing will be key.
+I would also like to highlight the interaction of these expectations with the PRA’s
+outsourcing and third party risk management policy2, which was published at the same
+time as the policy on Op Res. My former colleague Lyndon Nelson gave a speech last
+year3 setting out how the approaches in the two policies complement each other. In his
+remarks he very clearly stressed that whilst firms can outsource services, their boards and
+senior management cannot outsource their ultimate accountability and responsibility for
+their resilience.
+Our Op Res policy further emphasises this point. The identification of IBS, determining the
+maximum tolerable level of disruption to those services and taking measures so that firms
+can remain within those tolerances under severe but plausible scenarios, means firms and
+their boards need to assess in detail the dependencies that they have on other parties.
+2. Our initial supervisory assessment of firms’ progress
+Having provided a brief summary of the policy, I wanted to share some initial feedback on
+the progress that UK banks and building societies (firms) have made in meeting our
+expectations. We are still at a relatively early stage in our analysis and engagement with
+firms, with it being less than a month since we have received the initial responses from
+firms. So I want to emphasise that this initial feedback will be preliminary, and we won’t at
+this stage be able to say what “best in class” looks like for each aspect of the policy.
+However, there are some important themes that are already emerging from our review of
+the board-approved lists of IBS and impact tolerances which we received.
+Findings on Important Business Services identification
+On IBS, our current view is that firms have generally made positive progress against our
+expectations for identifying these services. This is good to see and reflects well on the
+
+2
+3
+
+SS2/21 Outsourcing and third party risk management
+Operational resilience – outcomes in practice - speech by Lyndon Nelson | Bank of England
+
+Bank of England
+
+Page 5
+
+sector as a whole. We also know that firms have taken a wide variety of approaches to the
+granularity with which they have identified their IBS.
+To illustrate this I will use a couple of examples of different approaches we have seen.
+These represent only a small subset of the IBS that firms’ submitted but I think illustrate
+the point. So, taking payment services as one example, we saw that some firms have
+identified all types of payments as a single business service, whilst others have split out
+different types of payment (for example payments made via individual systems including
+BACS, CHAPS and Faster Payments). Others have gone in a different direction, for
+example differentiating services for credit card payments versus debit card transactions.
+We have seen similar themes in other areas, such as services to do with lending. Here
+some firms have taken a granular approach – for example listing services such as
+“obtaining a loan” and separating different types of loan - while other firms have kept their
+IBS at a higher level or gone in different directions by identifying different types of products
+and/or the split between pre- and post-trade execution.
+Guidelines for identification of Important Business Services
+Given this divergence in approach, you might reasonably ask me whether these
+differences are justified, what the ‘right’ answer is, and why the regulators do not just
+specify what it is? In response, I think it’s important to recognise that we have deliberately
+built some flexibility into the policy to allow firms to identify IBS in a way that best suits
+their specific business models. So a degree of difference is absolutely expected.
+As we continue our supervisory work we will be asking firms to clarify how they have
+incorporated the key points of the policy that make clear that IBS should:
+•
+
+deliver a specific outcome or service to an identifiable external user. This means if
+it’s more than one outcome, or the user cannot be identified, then the granularity is
+too high;
+
+•
+
+be granular enough that they are distinguished from business lines which are a
+collection of services;
+
+•
+
+be at a level where one impact tolerance per regulatory objective can be set;
+
+•
+
+not be at the level of internal services (where the granularity would be too low); and
+
+•
+
+be at a level where boards can make prioritisation and investment decisions.
+
+We expect these guidelines for setting IBS to inform firms thinking and that differences in
+approach will narrow over time. Bodies such as UK Finance also have an important role to
+play in facilitating and encouraging information sharing across firms, which in turn is likely
+to help increase consistency where appropriate. And ultimately, where we identify that
+firms have taken an approach which is not consistent with the aims of the policy, then we
+will certainly let those firms know.
+
+Bank of England
+
+Page 6
+
+Findings on impact tolerances
+On impact tolerances it’s clear from our work that, whilst progress has again been made,
+firms have found this more challenging than identifying IBS. This is in part due to the
+complexity of defining tolerances for the different regulatory objectives of customer harm
+or market integrity versus safety & soundness, and – for the largest firms – financial
+stability.
+For example, we have seen that several of the IBS that have been submitted by firms were
+accompanied by an impact tolerance for customer harm or market integrity but did not
+include one for safety & soundness, and an even higher number did not include one for
+financial stability. These are gaps which we expect firms to fill as a matter of priority.
+We also noted that the granularity with which firms defined their IBS impacted the
+tolerances they then defined. Picking up the payments example I used earlier, again as
+one example of a broader trend, we saw that:
+•
+
+Where firms separated out BACS payments from other payment types, the impact
+tolerances they defined for customer harm or market integrity as well as safety &
+soundness were all within one working day;
+
+•
+
+The firms that listed CHAPS and Faster Payments as separate IBS typically set
+24 hours as the impact tolerance for customer harm or market integrity, but with a
+range of impact tolerances for safety & soundness that spread from two days to two
+weeks;
+
+•
+
+For international payments, the impact tolerances we saw ranged from 24 to
+48 hours for customer harm or market integrity, and from 24 hours to two weeks for
+safety & soundness; and
+
+•
+
+Where firms identified IBS more broadly than relating to individual payment
+systems, the tolerances they set were necessarily more generic.
+
+As a supervisor for many years, I have experienced a variety of operational incidents and
+seen the effects they have had on customers, market confidence, safety & soundness and
+ultimately financial stability. Based on this, my initial impression is that the range of impact
+tolerances that have been submitted for payments-related IBS seems surprisingly wide.
+Therefore, as we go about our supervisory reviews in the coming year, our teams will be
+pushing firms to justify their judgements and we will undertake more detailed comparisons
+across peer groups. This is certainly an area where I think dialogue amongst the industry
+would be beneficial to share information on the various approaches taken to modelling and
+setting impact tolerances. This will help individual firms understand where they are outliers
+and to consider if that is appropriate and justifiable. Getting this right over time will be key
+in supporting robust scenario analysis and ultimately, firms’ resilience.
+
+Bank of England
+
+Page 7
+
+Findings on mapping and testing
+Our policy also set the expectation that, by the end of March this year, firms would have
+done enough mapping and testing to identify IBS and set impact tolerances, but we did not
+expect mapping and testing frameworks to be fully developed. From our conversations on
+this topic so far, it appears that firms have typically leveraged existing frameworks and
+tools at this stage4. It is also clear that the maturity of firms’ thinking in these areas varies
+significantly. This may be understandable, as firms still have time before the final deadline
+in March 2025, but it indicates that significant further work is required in the next three
+years for firms to embed fully coherent mapping and testing frameworks.
+Summary of initial supervisory review
+So, to summarise, our view based on our initial supervisory work is that meaningful
+progress was made by firms in developing their Op Res capabilities ahead of the first
+deadline in March 2022. However, further analysis and development is needed to reach
+the standards we expect of a fully matured Op Res framework, where firms know what
+their impact tolerances are for all of their IBS, and know that they can remain within them
+in a severe but plausible scenario.
+3. So what comes next?
+Looking forward to what comes next on the supervisory roadmap, I hope firms can
+incorporate some of this feedback into the ongoing development of their Op Res
+capabilities.
+And, as we look further ahead to the full implementation of all aspects of the policy no later
+than the end of March 2025, we expect firms to proactively develop and progress their
+approaches to mapping and testing. In line with this, firms will also need to take forward
+the investment necessary to remediate the vulnerabilities they identify through their testing
+to ensure they can remain within their impact tolerances.
+Supervisory engagement
+Our supervisory approach to firm engagement during this time will be determined as we
+look in more detail at the submissions we have already received, as well as those to come,
+
+4
+
+Examples of frameworks and tools include but are not limited to:
+• OCIR catalogues (PS9/21 | CP20/20 – Operational continuity in resolution: Updates to the
+policy);
+• Operational Risk Management Framework (ORMF) assessment triggers;
+• ICAAPs (SS31/15 - The Internal Capital Adequacy Assessment Process (ICAAP) and the
+Supervisory Review and Evaluation Process (SREP));
+• Firms’ incident management; and
+• Risk and Control Self-Assessments (RCSAs).
+
+Bank of England
+
+Page 8
+
+from firms. It will include firm-specific engagement through our usual schedule of meetings
+with firms and relevant stakeholders as well as industry-wide roundtables or seminars, like
+this one, to discuss issues on a cross-firm basis. This builds on the two-way dialogue we
+have enjoyed to date, and industry bodies like UK Finance also have the opportunity to
+play a key part in facilitating information sharing and the building of expertise across the
+sector.
+In taking forward this work, we will continue to build on the close and collaborative
+approach we have taken to date with our fellow regulators; both domestically with the
+Financial Conduct Authority (FCA), and also internationally though standard setting bodies
+like the Basel Committee, supervisory colleges and the bilateral engagement we have with
+other supervisors. We recognise the importance firms attach to a coordinated approach on
+this topic.
+Implications from other relevant upcoming policies
+Finally, I would also like to highlight some other areas of ongoing work that have
+implications for Op Res. In particular, the Bank of England’s (Bank) Cyber Stress Test5
+and the work the Bank, FCA and PRA are undertaking with HM Treasury on potential ways
+to address the risks posed by Critical Third Parties (CTPs).
+We published information on the first of these, the Cyber Stress Test, in the FPC’s March
+2022 record6. Whilst it is a distinct exercise to the topics I have outlined today, we expect
+the findings will prove valuable in informing thinking about operational resilience more
+broadly.
+And on the second topic, CTPs, this a complex topic and to make sure our thinking is fully
+informed by industry perspectives the FCA, Bank and PRA are planning to publish a joint
+Discussion Paper on CTPs in 2022. This will be a key development in our thinking about
+Op Res (including third party risk management) as a whole. It will also inform the evolving
+cross-sectoral and international debate on the topic.
+4. Conclusion
+As I outlined at the start of my remarks, firms are on a journey to achieve the level of
+operational resilience set out in the policy we published as final just over a year ago.
+A positive start has been made on this journey, and I want to thank you all again for the
+open and direct engagement we have enjoyed along the way. It will be important to build
+on this as firms tackle the next legs of the journey. In line with my remarks today, there are
+
+5
+
+Prudential Regulation Authority statement on the 2022 cyber stress test: Retail payment system
+Financial Policy Summary and Record of the Financial Policy Committee meetings on 9 and 18 March 2022
+(bankofengland.co.uk)
+6
+
+Bank of England
+
+Page 9
+
+clear developments needed before the deadline for meeting the policy outcomes by end
+March 2025 at the latest.
+You can expect the PRA to continue to work with firms along the way both directly though
+firm specific supervisory dialogue but also through industry wide events like this. We will
+also be continuing to evolve our own supervisory and policy approach to ensure it supports
+this industry-wide effort.
+I would like to thank you for your time today and I look forward to ongoing engagement
+with you all, including through the discussion to come, as we collectively move this work
+forward.
+
+I would like to thank Helen Stone and Harry Grantham-Hill for their invaluable help in
+preparing these remarks.
+
+

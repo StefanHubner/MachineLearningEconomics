@@ -1,0 +1,713 @@
+Risks around the forecast
+Speech given by
+Kristin Forbes, External Member of the Monetary Policy Committee, Bank of England
+
+The London & Partners dinner, London
+22 January 2015
+
+I would like to thank Ida Hjortsoe and Tsveti Nenova for excellent assistance in preparing these
+remarks and the underlying research. Further thanks to Shiv Chowla, Matthew Corder, Silvia Domit,
+and Bonnie Howard for helpful input, and to Melissa Davey, Ian McCafferty, Emma Sinclair, and
+Martin Weale for comments. The views expressed are my own and do not necessarily reflect those of
+the Bank of England or other members of the Monetary Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Since starting my role on the MPC in July, one question which I am frequently asked is: “What has surprised
+you about the role?” To date, one of my biggest surprises has been the near-obsession with trying to decide
+the best avian classification for each MPC member. In July, it was merely a question of whether we were
+each a hawk or a dove. Since then, the categories have expanded to include “wise owls” and Canadian
+birds. I know better than to speculate what will come next.
+
+I’ve found these categories puzzling when applied to me and other members of the MPC based on what I’ve
+heard during my time here. None of us do seem to have a pre-wired tendency to vote for more or less
+accommodative monetary policy. Instead, different MPC members focus more or less on the various risks
+around our current understanding of the economy and our forecast. As the economy evolves, each of us is
+constantly updating these assessments and risks, with direct implications for how we view monetary policy.
+Translating these different assessments and risk weightings directly into a “hawk” vs “dove” divide, however,
+is not clear.
+
+My goal tonight is to show this challenge in the context of the Bank’s current forecast. I will begin by briefly
+summarizing the forecast released in November’s Inflation Report. Then I will discuss five risks to this
+assessment of the economy today and in the future – highlighting risks on which I put slightly more
+probability than the 3M’s (mean, median, or modal) view of the entire MPC committee – but which may or
+may not materialize. Most important, I’ll use a scenario analysis to assess how these different risks can affect
+the broader outlook and the appropriate path for monetary policy if these risks play out. This can be useful to
+understand exactly how some risks—although important economically or to certain segments of the
+population or sectors of the economy —would not imply a noteworthy monetary policy response. This series
+of scenarios also is intended to provide insight on how an MPC member constantly updates his or her
+forecast as new information on each of these risks becomes available, and why it is difficult to classify many
+of us as perennial hawks or doves.
+
+The Current Forecast
+
+Each quarter the MPC releases an Inflation Report. This includes an assessment of current economic
+developments and a detailed forecast for the economy over the next three years. Putting the forecast
+together is a lengthy process, which seems to start soon after the last forecast is officially released. Putting
+this together for one person would be quite a challenge, given the many uncertainties involved. Getting nine
+individuals, often with different views, to agree can be even more of a challenge. As a result the goal is to
+agree on a forecast which is the “Committee’s best collective judgment”, something approximating the mean,
+median, or mode of the nine of us. We joke that if everyone is equally unhappy, we have probably
+succeeded.
+
+Our last forecast was released in mid-November. Let me focus on predictions for two key macroeconomic
+variables – real GDP growth and inflation – shown in Figure 1. These data have changed somewhat since
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+the November Inflation Report due to new data being released and data revisions (which lowered reported
+growth for the first part of 2014). In order to be consistent in the scenario analysis below, however, I will
+continue to use these November forecasts as the baseline – which means also only using data that was
+available at that time.1 The baseline forecast for the UK is a continuation of fairly strong and robust economic
+growth in the end of 2014, 2015, and 2016, albeit slowing gradually from its above-trend rate in 2014. More
+specifically, GDP growth was expected to slow from 3.5% in 2014, to 2.9% in 2015 and 2.6% in 2016.2
+
+Figure 1: Forecasts for UK GDP Growth and Inflation from the November Inflation Report
+
+% change on a year earlier
+
+CPI
+N14 forecast
+
+6
+
+% change on a year earlier
+6
+
+4
+
+5
+
+2
+
+4
+
+0
+
+3
+
+‐2
+GDP
+N14 forecast
+
+2
+
+‐4
+
+1
+
+‐6
+
+0
+
+‐8
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+This strong, albeit slowing, growth is expected to be combined with continued improvement in the
+unemployment rate, albeit also improving at a slower rate. After plummeting from a peak unemployment rate
+of 8.4% in 2011 Q4, unemployment was expected to end 2014 at 5.7%, end 2015 at 5.4%, and 2016 at
+5.3%. Inflation was also expected to decline through the beginning of 2015, due to a combination of the
+lagged effects of sterling’s recent appreciation, lower oil and commodity prices, and slack in the economy.
+But then inflation would slowly increase to reach the 2% target by the end of the period. (It is worth noting
+that this forecast was done when oil prices were at $80 per barrel, and therefore does not capture any effect
+of the most recent decline in oil prices.)
+
+Given the many uncertainties that go into the forecast, and especially the different assessments of the risks
+around the paths for key variables, important components of the forecast are fan charts which indicate the
+range of possible outcomes. Figure 2 shows examples for the paths of GDP growth and inflation from our
+last forecast. I often find these fan charts even more useful than the central estimates. They highlight the
+substantial uncertainty around the forecast by the width of the fan. They also indicate what we view as the
+
+1
+
+The Bank of England’s updated forecasts that incorporate this new data and revisions will be released in the next Inflation Report on
+February 12.
+
+2
+
+These numbers include the backcast as of the November Inflation Report.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+balance of risks – whether we believe they are weighted more to the upside or downside – by the relative
+size of the upper and lower parts of the fan.
+
+Figure 2: Uncertainty around the UK Forecasts from the November Inflation Report
+
+One challenge with these fan charts, however, is that they embody a very wide range of possible scenarios
+for key variables – especially as one goes further into the future. For example, as of November, we could
+only say with 90% confidence that GDP growth would be between 0 and 5.3% and inflation would be
+between -0.5 and 4.4% at the end of the forecast horizon. These wide ranges are not unusual. For example,
+the IMF releases something similar when it produces its semi-annual forecasts of GDP growth for the global
+economy. Figure 3 shows its October 2014 forecast (the last public release), in which the IMF predicted with
+90% confidence that global GDP growth would be between 2.5 and 5.1% at the end of 2015. To put that in
+context, the IMF was basically saying that it can only predict with 90% confidence that within the next
+15 months the global economy will be in a recession or grow at a rate almost a full point above its pre-crisis
+average of 4.2%.3
+Figure 3: Uncertainty around the Global Forecast from the IMF’s World Economic Outlook
+
+Source: Figure 1.11. (1) from the IMF’s World Economic Outlook, October 2014.
+
+3
+
+The IMF has traditionally defined a global recession as global annual real GDP growth of 3.0% or less.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+These fan charts highlight the challenges of putting together economic forecasts – even for fairly short time
+horizons. Predicting accurately any one indicator – such as GDP growth or inflation – is hard enough.
+Predicting accurately the interaction of many highly uncertain variables is exponentially harder. The resulting
+fan charts are useful to highlight this uncertainty, but can make planning difficult. Therefore, I’ve found it
+helpful to focus not on all of the possible risks to the outlook, but instead to focus on a more limited set of
+risks which I think have a reasonably high probability of occurring. This is useful to understand which risks
+will have important implications for the economy, the forecast, and the future path of monetary policy.
+
+Therefore, in the remainder of my comments, I will focus on what I see as five risks around the MPC’s last
+forecast: stronger global GDP growth; persistently lower oil prices; faster pass-through from sterling’s
+appreciation; smaller labour supply; and faster productivity growth. In selecting which risks to focus on, I am
+not choosing the risks that would necessarily have the biggest impact – such as a major terrorist attack that
+wiped out key infrastructure – if I believe they are low probability events. Instead, I will focus on what I
+consider higher probability events that may – or may not – significantly affect our forecast. I will also focus on
+how these risks would affect GDP and inflation by the middle and end of 2016 – which is the appropriate time
+horizon when thinking about how changes in monetary policy will affect the economy with lags. This exercise
+should help clarify exactly how different assessments of these five risks by different MPC members could
+(and could not) have a significant effect on how they view the appropriate path for monetary policy.
+
+Before going through the five scenarios, however, let me highlight several important points so that these
+results are not misinterpreted. These results are based on simulations using a complicated – but still highly
+stylized model. They will not capture all of the complexities and interactions of the real world –
+especially related to financial markets. The estimates should therefore not be taken as precise. Instead, I
+interpret them as giving an idea of the direction and rough magnitude of different effects in order to assess
+whether they are meaningful or not. Also, these simulations continue to use the market-based curve for
+interest rates as in the November forecast, and do not incorporate any changes in monetary policy from this
+market-implied path. Finally, these estimates should not be taken as a preview of the new Bank of England
+forecasts that will be released in February. The results below are based on my own work with the staff. The
+February forecasts will incorporate data updates and reflect a range of different assumptions agreed upon by
+the full committee and incorporated simultaneously. The point of the exercise below is to highlight my own
+assessment of the individual effects of specific risks. This should facilitate an understanding of how a
+different evolution of just one of these risks –or a different weight on one of these risks by an individual MPC
+member – could change one’s views of the economy and appropriate path of monetary policy.
+
+Risk 1: Stronger Global GDP Growth
+
+In November I appeared before Parliament with other members of the MPC to discuss the Inflation Report
+and the economy. At the hearing, I mentioned that one area in which my assessment of the economy
+differed from the forecast was that I was more positive about the outlook for US economic growth, as well as
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+for the global economy more broadly. Since then, US GDP growth for 2014Q3 has been revised up from
+3.5% at the time of the hearing to 5.0% on an annualized basis as of December 2014. Although US growth is
+unlikely to continue at this pace in the fourth quarter, the United States appears to be on a stronger footing
+for at least the end of 2014 and early 2015 than in our baseline forecast. And although the US only
+comprises 18% of the UK export market, it is still the largest economy and largest importer in the world, so
+this growth should support exports and demand in a number of economies. The US, and broader global
+economy, will also see an additional boost to GDP growth in the near term from the recent decline in oil
+prices (albeit with differential effects on different economies). Of course, continual challenges in the euro
+zone and oil-exporting emerging markets could also undermine these supports to global growth – but for now
+– I will focus on the upside.
+
+In an effort to assess the impact of stronger growth in the US and global economy on the UK, it is possible to
+use the Bank’s forecasting model (COMPASS). More specifically, we start with the baseline forecast from
+November’s Inflation Report (summarized in Figure 1). Then we model the impact of 1 percentage point
+higher UK-weighted global demand growth for a year, phased in over two quarters, with growth returning to
+the baseline after 2016Q1.4 This improvement in UK-weighted global demand could occur from higher US
+GDP growth combined with stronger global growth from lower oil prices – assuming no major downside
+surprises in major oil exporters.5 As for all of the simulations, we assume that there is no monetary policy
+response and UK interest rates continue to follow the market curve (as of the November Inflation Report).
+Figure 4 shows the resulting effect on UK GDP growth and inflation. The peak impact on UK GDP growth
+occurs at the beginning of next year, with UK GDP growth 0.4 percentage points higher, but then it gradually
+slows and returns to the baseline forecast by the end of 2016. CPI inflation picks up slightly through the end
+of 2015, and continues to build gradually over time, so that by the end of 2016 inflation reaches 2.0%
+(relative to 1.8% in the baseline) and remains above target through 2017.
+
+4
+
+More specifically, global GDP growth would be 0.5 percentage points higher in 2015Q1 and 1 percentage point higher from 2015Q2
+through 2015Q4, then 0.5 percentage points higher in 2016Q1 before returning to baseline.
+
+5
+
+Since the US is only 18% of UK-weighted global demand, a 1% increase in US GDP growth would only boost UK-weighted global
+demand directly by 0.18%, but the overall impact on UK-weighted global demand would likely be higher due to the global importance of
+the US economy. Moreover, the IMF predicts that the decline in oil prices could boost global demand by 0.3% to 0.7% in 2015
+(http://blog-imfdirect.imf.org/2014/12/22/seven-questions-about-the-recent-oil-price-slump/#more-8706). A 1% boost to UK-weighted
+global demand is therefore an upside scenario combining both stronger US growth and stronger global growth (from lower oil prices).
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+Figure 4: Effects of Stronger Global Growth
+UK GDP growth
+% change on a year earlier
+4.0
+
+UK CPI inflation
+% change on a year earlier
+2.5
+
+3.5
+
+2.0
+
+3.0
+1.5
+
+2.5
+2.0
+
+1.0
+
+1.5
+
+0.5
+
+1.0
+
+0.0
+
+Higher World GDP scenario
+N14 forecast
+
+Higher World GDP scenario
+N14 forecast
+
+Risk 2: Permanently Lower Oil Prices
+
+Oil prices have fallen sharply since the November forecast was released – so this scenario is not just a
+“potential” risk around the forecast, but one which has already been realized. At the time the November
+forecast was “put to bed”, oil prices were around $80 per barrel. As of January 15, they are at $46 per barrel.
+This decline in oil prices will lead to a redistribution of income and demand away from net oil exporters
+toward net oil importers. This generally leads to higher global GDP growth and stronger global demand. But
+the impact on the UK would be different than simply a comparable boost to global demand (as modelled
+above), because it also includes a fall in the price of an important import and input into production – oil. As a
+result of this positive supply shock, prices and CPI inflation could fall, instead of increase, as occurs with a
+positive demand shock.
+
+Unfortunately the Bank’s main forecasting model does not contain an explicit energy sector, so does not fully
+capture these various effects. We are currently analysing how lower oil prices affect different aspects of the
+UK economy, however, and this analysis will be incorporated in our updated projections for the February
+Inflation Report. Given that the UK is a net importer of oil, the recent fall in oil prices is likely to boost UK
+GDP growth and significantly reduce inflation in the short term. The boost to GDP growth is expected to
+occur because of the boost to global growth (which should support exports), the reduction in production costs
+and increase in profits (which should support employment and investment6), and the boost to real incomes
+(which should support consumption). But for the context of this discussion of risks around the forecast, it is
+useful to highlight the most immediate effect of lower oil prices – on UK import prices and CPI inflation. To do
+
+6
+
+The fall in oil prices is expected to support net UK investment and employment, despite a fall in extraction investment in the North Sea.
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+this, we model a fall in UK-import prices of 5.8%, mainly spread over 2014Q4 and 2015Q1. This 5.8% fall
+incorporates the roughly 40% fall in oil prices from 1 November through 15 January, as well as a smaller and
+slower reduction in other import prices resulting from lower transportation costs.7 We ignore any other
+channels through which CPI inflation would be affected by lower oil prices. Simulations of this fall in import
+prices resulting from lower oil prices show that CPI inflation falls quickly in early 2015, and by the end of
+2015 could be 0.3 percentage points lower than the baseline forecast (which already incorporated the fall in
+oil prices up to November). This drag on the CPI, however, would quickly drop out. It is again important to
+highlight that this is just a partial analysis of the impact of the most recent fall in oil prices on import prices
+and does not capture the effects on growth and inflation that would occur through other channels – some of
+which would contribute to faster GDP growth and higher inflation over the medium term.
+
+Risk 3: Stronger Pass-through from Sterling’s Appreciation
+
+A third risk to the baseline outlook is one on which I’ve focused since my first few weeks on the MPC –
+how sterling’s recent appreciation is affecting the economy. In my first official speech in October, I suggested
+that sterling’s appreciation from the spring of 2013 to summer of 2014 could have a substantial effect on
+GDP and inflation over the coming quarters.8 According to the simulations in that speech, CPI inflation could
+be as much as 0.8 percentage points lower at the end of 2014 and early 2015 than it would otherwise have
+been – simply from exchange rate effects. These numbers should be taken as rough estimates – but they
+still indicated a potentially much larger effect of the exchange rate on the economy than in the baseline
+forecast. Recent data showing a sharp fall in inflation for traded goods relative to inflation for services would
+support the hypothesis that sterling’s appreciation is having a large effect, as does recent data showing
+steady (if not slightly stronger) rates of domestically-generated inflation despite the recent sharp fall in CPI
+inflation.9
+
+In the baseline forecast in the November Inflation Report, the estimates of “pass-through” from import prices
+to inflation do not fully incorporate all the general-equilibrium effects of sterling’s movements I modelled in
+my earlier speech. These estimates of pass-through used in the November Inflation Report are very
+protracted, with some effects still persisting five years after the exchange rate moves. Although this is not
+inconsistent with the academic literature, it is possible that pass-through has occurred more quickly over the
+past few years. Therefore, one risk to the baseline scenario is that the pass-through from import prices has
+been stronger and faster than currently incorporated. To capture this scenario, we assume that pass-through
+from import prices to the CPI is around 80% in the first year and full within 4 years.10 Figure 5 shows the
+7
+
+More specifically, we assume that oil prices fall 25% in 2014Q4 and another 15% in 2015Q1, with an immediate impact on fuel import
+prices. We also assume that transportation costs constitute 5% of all import prices, and these costs also fall 40%, so that there is an
+additional decline in import prices of 5% x 40% = 2%, which is spread over the 3 quarters starting in 2014Q4.
+
+8
+
+http://www.bankofengland.co.uk/publications/Documents/speeches/2014/speech760.pdf
+
+9
+
+More specifically, in December goods price inflation was -1.0%, while service price inflation was 2.3%
+
+10
+
+We assume that the CPI basket has 36% imported content, in line with the 2010 import intensities published by the ONS. This
+determines the extent by which changes in import prices affect the broader CPI. The November forecast has substantially slower pass
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+simulated effect on UK GDP and inflation. The estimated effects on GDP growth are fairly small – but the
+estimated effects on inflation are significant. CPI inflation is predicted to fall faster in late 2014 and early
+2015, reaching as much as 0.5 percentage points lower in the start of 2015 than in the November baseline.
+Inflation then bounces back faster, however, so that by the end of 2016 it would be higher than in the
+baseline and above the 2% inflation target.
+Figure 5: Effects of Faster Pass Through from Sterling’s Appreciation
+
+UK GDP growth
+
+UK CPI inflation
+
+% change on a year earlier
+4.0
+
+% change on a year earlier
+3.0
+
+3.5
+
+2.5
+
+3.0
+
+2.0
+
+2.5
+
+1.5
+
+2.0
+
+1.0
+
+1.5
+
+0.5
+
+1.0
+
+0.0
+2014
+
+2015
+N14 baseline
+
+2016
+
+2017
+
+Faster exchange rate pass‐through
+
+2014
+
+2015
+N14 baseline
+
+2016
+
+2017
+
+Faster exchange rate pass‐through
+
+Risk 4: Smaller Labour Supply
+
+One issue that has been subject to extensive debate on the MPC is the appropriate assumptions for labour
+supply. Forecasts for potential labour supply after the crisis tended to be too pessimistic. Partly in response
+to evidence that more people were choosing to work than expected, the MPC sharply revised up its
+estimates of labour supply this summer, just as I was joining the committee. Recent data revisions and data
+outturns, however, suggest that although some upward revision was merited, the magnitude of the
+adjustment to our assumptions may have been too optimistic. Not only has the upward trend in labour force
+participation stalled recently (falling from 63.7% in the three months ending in May to 63.2% in the three
+months ending in November), but wage growth has recently started to pick up more than expected (with
+private sector regular pay growth up 2% over the last three months on an annualized basis). Several
+conversations I’ve recently had with businesses around the UK suggest that many companies are expecting
+to give more substantial wage increases at the start of 2015, and a number of companies have expressed
+concerns about skill shortages in certain sectors. These anecdotes may indicate that there is less slack in
+
+through from sterling’s recent appreciation, partly due to its incorporation of the lagged effects of sterling’s depreciation in 2008. The
+scenario outlined above does not include these lagged effects of the 2008 depreciation (as it assumes faster pass through), which also
+drives the different paths for predicted inflation in 2013 in the figure.
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+the labour market than currently believed. If this risk plays out, the output gap could be smaller than in our
+November forecast, and holding all else constant, wages could pick up faster than expected.
+
+In order to assess how a smaller labour supply affects the forecast, we assume a “downside scenario” to
+labour supply, in which the total number of desired hours worked increases more slowly throughout 2015
+than currently expected. This results in a labour supply level that is 0.4% lower by 2016 relative to the
+baseline November forecast. (This could occur because there are fewer workers, or because people chose
+to work fewer hours, or some combination of the two.) Figure 6 shows the simulated effect on GDP and
+inflation, once again assuming no monetary policy response. GDP growth would initially be lower, by as
+much as 0.3 percentage points at the end of 2015, but this effect would largely dissipate by the end of 2016.
+The more significant, albeit more lagged, effect would be on CPI inflation. Prices would increase at a faster
+rate, with the effect building slowly in 2015 and generating CPI inflation 0.4 percentage points higher than
+the baseline and above the 2% target by the end of 2016.
+Figure 6: Effects of Smaller Labour Supply
+
+UK GDP growth
+% change on a year earlier
+4.0
+3.5
+
+UK CPI inflation
+% change on a year earlier
+2.5
+2.0
+
+3.0
+
+1.5
+
+2.5
+
+1.0
+
+2.0
+
+0.5
+
+1.5
+
+0.0
+
+1.0
+
+Lower labour supply scenario
+N14 forecast
+
+Lower labour supply scenario
+N14 forecast
+
+Risk 5: Faster Productivity Growth
+
+One major puzzle about the recent evolution of the UK economy is its low productivity growth. Much has
+already been written about this puzzle.11 The Bank of England (and most other forecasters) have continually
+been too optimistic in their projections, and continually revised down their productivity forecasts. In the
+November Inflation Report, the MPC lowered its productivity growth forecasts again, predicting that
+productivity growth would only reach 0.7% at the end of 2015 and 1.5% at the end of 2016. There is
+substantial uncertainty, however, about the future path of productivity, and a number of reasons why
+11
+
+Examples include: “The UK Productivity Puzzle,” Bank of England Quarterly Bulletin, 2014Q2 and speeches by MPC members
+Ben Broadbent, Ian McCafferty, David Miles and Martin Weale, each of which focus on different aspects of this puzzle and are listed in
+the references.
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+productivity growth may finally start to improve. More specifically, key forces which may have been holding
+back productivity growth may now have faded, such as: low business investment during the crisis; a weak
+banking system that was inefficiently allocating capital; and limited labor market mobility which inefficiently
+allocated workers. The most recent data also suggests that productivity growth may have finally begun to
+improve, although this data is volatile and subject to large revisions, so that it may be some time before we
+can identify if there is any persistent improvement.12
+
+Figure 7: Effects of Stronger Productivity Growth
+
+UK GDP growth
+% change on a year earlier
+4.0
+3.5
+
+UK CPI inflation
+% change on a year earlier
+2.5
+2.0
+
+3.0
+
+1.5
+
+2.5
+2.0
+
+1.0
+
+1.5
+
+0.5
+
+1.0
+
+0.0
+
+Higher productivity scenario
+N14 forecast
+
+Higher productivity scenario
+N14 forecast
+
+In order to assess the impact of stronger productivity growth on our forecast, we return to the November
+baseline. We now assume that productivity growth is 0.5 percentage points higher in 2015, 2016, and 2017
+than in the November forecast. (For comparison, productivity growth in the November forecast was 0.7% in
+2015, 1.5% in 2016, and 1.8% in 2017.) Before the crisis, productivity growth averaged 2.3% from 1990 to
+2007 – so that under this more optimistic scenario, productivity growth would only reach its pre-crisis trend
+by 2017 and would never exceed it. Figure 7 shows the simulated effect on UK GDP and inflation. By the
+end of 2016, UK GDP growth is almost 3.1% – about ½ percentage points higher than the baseline forecast.
+CPI inflation is 1.7%, slightly lower than the baseline.
+
+Tying it All Together
+
+So what do these different scenarios mean for the economic outlook and appropriate path for monetary
+policy? As I mentioned before – but a point that is so important that I would be derelict if I did not mention it
+again – I would not focus on the exact point estimates from any of these simulations. They are all based on a
+12
+
+Labour productivity growth was 0.3% in 2014Q3 after -0.6% in the previous quarter. Productivity growth is also likely to be weighed
+down by cohort effects in Q4.
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+stylized model and the estimates can change substantially based on the underlying assumptions and
+parameters. Instead, they are useful to give a sense of the relative direction and magnitude by which
+different risks would affect (or not affect) key economic variables. They also all assume that “everything else
+is held constant” – which we all know never occurs in this dynamic world. With these important caveats,
+reviewing these scenarios with this broad brush leads to several themes.
+
+First, UK growth would be stronger under most of these scenarios. More specifically, if global growth is
+higher, oil prices are permanently lower, and/or productivity growth strengthens relative to the baseline, then
+UK GDP growth would be stronger, and potentially substantially stronger if more than one of these risks
+plays out. Any such boost to growth could be partially counteracted if the labour supply is smaller than
+expected – but this offset would be much smaller than the support to growth from the other scenarios.
+
+Second, UK inflation in the short term would be substantially lower under two of the scenarios – of lower oil
+prices and faster pass through from sterling’s earlier appreciation. This drag on inflation could be slightly
+counteracted by a boost from stronger global growth and/or a smaller labour supply, but any such offsets
+would be much smaller in magnitude and take longer to play out, and therefore be overwhelmed by the
+forces dragging down on inflation.
+
+Third and finally, UK inflation in the medium term would be higher under three of the scenarios –
+of faster global growth, faster pass through, and smaller labour supply – with effects from any one of these
+scenarios potentially large enough that inflation could end up above target in two years (assuming market
+expectations for interest rates as of the time of the November forecast). This boost to inflation over the
+medium term could be slightly moderated if productivity growth was stronger than expected –
+although any such offset would likely be much smaller than the forces boosting inflation. The medium term
+effect of lower oil prices on inflation is unclear and would depend on a number of factors that require a fuller
+analysis – including how oil price movements affect consumption, production, and growth.
+
+Will any of these five scenarios play out? It is impossible to know. Putting together an economic forecast is
+difficult in the best of times. It is particularly difficult today given the legacy of the recent crisis and the
+resulting uncertainty about the structure of the economy. But if any of them did play out – they could have
+important implications for monetary policy. Several of the scenarios would imply a faster rate of growth and
+higher rate of inflation in the medium-term than currently expected. These scenarios, if they occur, would
+imply an earlier increase in interest rates than currently expected, especially in order to ensure that any
+subsequent interest rate increases are slow and gradual. On the other hand, some of these risks – especially
+low oil prices and faster pass through – imply a substantially lower rate of inflation in the short-term, so that
+even when inflation does start to pick up, it would begin from a very low level and take some time before
+reaching the 2% target. These two scenarios would imply that there is no urgency to start tightening
+monetary policy today – and that any subsequent increases in interest rates could be gradual, even given
+the lags until any such increases fully affect the economy.
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+But while these drags on inflation will lower the starting point from which inflation increases, and initially slow
+the rate at which prices increase, they should not derail the combination of other forces that are supporting
+growth, core inflation, and a normalization of monetary policy in the United Kingdom. Granted, the MPC will
+need to be vigilant against any signs that inflation expectations are becoming unmoored, that consumers or
+businesses are delaying purchases because they believe prices will be lower in the future, or that measures
+of core inflation or domestically-generated inflation are unusually low or high. On these risks, however, I
+place a lower probability than for the five scenarios outlined above. Instead, the scenarios on which I place a
+higher probability would imply that inflation would fall more in the next few quarters than in the November
+forecast, and then pick up more in the medium term. But none of these risks on which I am focusing may
+play out, as could only a subset of the scenarios that provide less support for inflation in the medium term.
+And, of course, there are many additional risks that I have not even discussed here and which contribute to
+the wide ranges in our fan charts of the possible paths for growth and inflation.
+
+Finally, this discussion of various risks around the forecast, and how they could affect the outlook for the UK
+economy and monetary policy, can hopefully provide some insight on how different MPC members think
+about monetary policy and the perennial “hawk vs. dove” debate. Depending on which of these risks they
+place a greater probability, they will be more or less worried about inflation in the medium term, and therefore
+could sound more “hawkish” or “dovish”. But whatever each member’s priors and probabilities on the various
+risks, each one of us is constantly revising our views on the outlook – and risks around the outlook – as new
+information emerges. We then adjust our views on the forecast and the appropriate path of monetary policy,
+no matter what our avian preferences.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+References
+Arezki, Rabah and Olivier Blanchard, ‘Seven Questions About the Recent Oil Price Slump’, IMFdirect post,
+December 22, 2014
+Barnett, Alina, Sandra Batten, Adrian Chiu, Jeremy Franklin and Maria Sebastia-Barriel, ‘The UK
+Productivity Puzzle’, Bank of England Quarterly Bulletin, 2014Q2.
+Bank of England, ‘Inflation Report, November 2014’.
+International Monetary Fund, ‘World Economic Outlook, October 2014’.
+Ben Broadbent, ‘Productivity and the allocation of resources’, September 2012.
+Kristin Forbes, ‘The economic impact of sterling’s recent moves: more than a midsummer night’s dream’,
+October 2014.
+Ian McCafferty, ‘The UK productivity puzzle – a sectoral perspective’, June 2014.
+David Miles, ‘Monetary Policy and the Damaged Economy’, May 2012.
+Martin Weale, ‘The UK productivity puzzle: an international perspective’, December 2014.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+

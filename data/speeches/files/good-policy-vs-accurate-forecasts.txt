@@ -1,0 +1,749 @@
+Good policy vs accurate forecasts
+Speech given by
+Gertjan Vlieghe, External MPC member, Bank of England
+
+Bloomberg Headquarters, London
+Wednesday 5 April 2017
+
+I would like to thank Rodrigo Guimarães, Jack Marston, Chris Redl, Clare Macallan, Simon Hayes,
+James Talbot, Michael Saunders, Marilyne Tolle, Thomas Belsham, Mike Peacock and Pavandeep
+Dhami.
+1
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+1. Introduction
+
+Although modern-day central bank communication typically involves making forecasts of growth and
+1
+
+inflation , I will argue that there is an important distinction to be drawn between good monetary policy and
+making accurate forecasts. There have been times when forecast errors were large, but monetary policy
+nevertheless improved outcomes significantly. There have been times when forecast errors were small, but
+policy did not respond as it should have. And there have been times, just recently, when forecast errors were
+small and policy was broadly right.
+
+I will illustrate these points using the experience of the pre-crisis period in the mid-2000s, the post-crisis
+aftermath in 2008, and the period following the EU referendum in 2016. I will then reflect on implications for
+current and future policy.
+
+None of this should be taken to mean that I am in any way complacent about forecast errors. Forecast errors
+might reveal missing ingredients in our models, or that key judgements need to be revised. Analysing
+forecast errors is therefore an important part of the MPC’s policy debate, and of the Bank’s internal process
+of updating and improving our analytical toolkit. But the existence of forecast errors per se, whether large or
+small, is not necessarily a sign of either wrong policy or of using the wrong framework. Sometimes forecast
+errors simply tell you things happened that could not have been foreseen.
+
+Before getting into the detail of evaluating our past economic forecast errors and monetary policy decisions, I
+think a few analogies with medicine are helpful.
+
+2. Medical analogy
+2
+
+Forecasting when a patient will have a heart-attack is difficult. No doctor can do this accurately. We only
+have an imperfect understanding of how the human body works, we have only partial information about what
+is going on “under the skin” at any point, and the human body is constantly hit by unanticipated shocks, such
+as disease or physical trauma, or a rapid change in the external environment.
+
+Doctors nevertheless have a hugely important role to play, both before and after the heart attack.
+
+Before the heart attack, doctors can tell a patient which factors contribute to increasing the risk of a heart
+attack. Some of these are beyond the patients’ control, such as old age. Some are entirely within the
+
+1
+
+It is easy to forget that using forecasts to communicate monetary policy, or indeed communicating monetary policy at all, is a relatively
+recent innovation. The Federal Reserve only began to announce that it had changed interest rates, and by how much, in the early
+1990s. And the Bank of England started publishing its economic outlook in regular Inflation Reports only in 1993. See also Haldane
+(2017).
+2
+A heart-attack is a drastic and life-threatening event, but it seemed an apt analogy given how often the 2008 crisis has been described
+as a heart attack in financial markets or in financial institutions.
+2
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+2
+
+patients’ control, such as smoking. Some factors can be partially influenced by life-style and diet choices,
+such as high blood pressure, high cholesterol and diabetes.
+
+After the heart attack, even one that was entirely unexpected, a doctor can perform life-saving procedures,
+such as administering blood-thinning medication, widening the coronary artery, or performing a coronary
+artery bypass.
+
+The key point, as far as my analogy goes, is that doctors can make an important contribution to lowering the
+risk of a heart attack beforehand, and increasing the probability of survival once a heart attack has occurred.
+The ability of doctors to make these important contributions is not dependent on the doctor’s ability to
+forecast accurately when a patient will have a heart attack. That of course is not to say that attempting to
+forecast heart attacks is not a fundamental part of the progress in treating and preventing heart attacks.
+Constantly examining past and new data is one way in which doctors learn better ways to prevent and treat
+3
+
+them.
+
+Similarly, forecasting the macro-economy is hard. No economist can do this accurately, even if some get it
+right some of the time. We only have an imperfect notion of how the economy works, we only have partial
+information about the state of the economy at any point in time, and the economy is constantly hit by
+unanticipated shocks.
+
+Despite this difficulty in forecasting, central banks make an important contribution to monetary and financial
+stability. Central banks can make adjustments to interest rates and macro-prudential tools during normal
+times to keep the economy on a sustainable trajectory, with growth close to trend and inflation close to
+target. This is about avoiding the crisis that we end up never experiencing, or reducing the fall-out from a
+recession that otherwise might have turned into a crisis.
+
+And when a recession or financial crisis does hit, central banks can administer life-saving procedures such
+as very large cuts in interest rates, emergency liquidity provision and asset purchases to return the economy
+to good health as soon as possible, keeping medium-term inflation expectations anchored.
+
+The success of central bank policies does not depend on having very accurate forecasts. Neither laying a
+sound basis for sustainable growth and stable inflation, nor responding quickly to an unfolding recession
+requires accurate macro-economic forecasts. Rather, they require a good diagnosis of the state of the
+4
+
+economy, source of shocks hitting the economy and an understanding of the effects of available tools .
+3
+
+The statistical techniques used to identify risk factors in heart failure closely resemble the techniques used by economists. A model is
+estimated on the data to test the hypothesis, for example, “is poor diet associated with higher incidence of heart failure, other things
+equal?”, in exactly the same way as a central bank might test the hypothesis “are higher house prices associated with higher
+consumption, other things equal?” or “is higher credit growth associated with incidence of financial crises, other things equal?”. See eg
+Califf and Pencina (2013), D’Agostino et al (2001).
+4
+A good diagnosis and understanding of the effects of available tools is precisely why central banks use so-called “structural models” of
+the economy, which provide estimates of what the effect of a particular policy change on the economy would be. We know these models
+3
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+3
+
+A good diagnosis and an understanding of the available treatments is of course also precisely the
+requirement for doctors to be able to contribute effectively to their patient’s health. But a good diagnosis and
+treatment does not translate into infallible forecasts, either in economics or in medicine.
+
+Before examining the pattern of past policies and forecast errors, I would like to make a few general points
+about the precision and evaluation of economic forecasting.
+
+3. What forecasting can and cannot do
+
+First of all, despite our best efforts and intentions, forecast errors will always happen. We will never reach a
+point when we have no more uncertainty about how the economy works. There is, in other words, a level of
+uncertainty that is irreducible. This is because the economy is driven by rapidly adapting and evolving human
+behaviour, not a stable mechanical process. Moreover, changes in our understanding of the economy
+themselves feed back into changed behaviour, through changes in policies, laws and expectations. Hence
+our understanding of how the economy works will never fully catch up. This probabilistic nature of forecasting
+is not unique to economics, it is present in many natural sciences as well. Your doctor can only ever tell you
+that the risk of a heart attack is high or low, not when you will have a heart attack. A weather forecaster can
+only tell you that chance of rain is high or low, not when it is actually going to rain. The doctor analogy is
+more apt than the weather analogy, because weather forecasters do not influence the weather, whereas
+doctors do influence your health, and central banks do influence economic outturns.
+
+5
+
+The principle that there is an irreducible uncertainty in economic forecasting also implies that we should be
+humble about our ability to forecast the next financial crisis or the next recession. The economy is likely to
+evolve in ways that we will only belatedly come to understand. And while we are unlikely to experience a
+financial crisis of the exact type we have just witnessed for – I hope – many decades, it would be hubris to
+think that no crisis of any type can ever happen again. It is precisely such hubris that tends to precede the
+6
+
+next crisis. Our contribution is to warn about increasing risks in advance, so that households, businesses
+and financial institutions are more cautious, and policymakers put regulatory firewalls in place, which will
+itself reduce the risk of a crisis actually happening. But, given a history of many centuries of financial crises,
+
+7
+
+we must also allow for the possibility that a collective failure to imagine how it could all go wrong will one day
+lay the groundwork for the next crisis. If we can forecast it, it is less likely to happen. If it does happen, it is
+probably because we did not see it coming.
+
+are inferior in terms of pure forecasting performance to unidentified “reduced-form models”, which simply aim to provide the most
+accurate statistical forecast without specifying the underlying economic mechanisms at work. Our aim is not forecast accuracy per se,
+our aim is understanding the mechanisms at work.
+5
+Incidentally, just as economists have debates about the need for better models, so do doctors. A recent editorial in a cardiology journal
+lamented that “many centres or groups develop their own models, each of which is necessarily based on a limited sample […] The field
+would benefit substantially if these efforts were united around the goal of creating a comprehensive, generalizable, well-validated model”
+(Califf and Pencina (2013)).
+6
+Minsky’s (1986) theory of financial instability featured the idea that periods of calm can plant the seeds of the next crisis, by increasing
+complacency about debt. See Brunnermeier & Oehmke (2013) for a review of theories of crisis.
+7
+See, e.g. Kindleberger (1978), Chancellor (1999) and Reinhart & Rogoff (2009).
+4
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+4
+
+While forecasting is a messy business that involves judgement as well as models, forecast evaluation is
+actually quite precise. A widely used framework is that a good forecaster is one who satisfies two criteria: (1)
+she must be unbiased, which means not systematically overpredicting or underpredicting; (2) she must be
+efficient, which means not systematically leaving useful information unexploited.
+In a detailed study of the Bank’s forecast errors, The Independent Evaluation Office show that the
+8
+
+Bank of England’s forecasts for, for example, GDP growth a year ahead indeed satisfy the two criteria of
+being unbiased and efficient. It also turns out Bank of England forecasts are about as good as those of
+private sector forecasters, and are about as good as other central banks’ forecasts of their own economies.
+9
+
+Bank of England forecasts are also systematically better than guessing, or asking a chimp, despite what
+some commentators would have you believe.
+
+It is only these formal forecast evaluations over long periods of time, and in comparison to other forecasts
+made in real time, without the benefit of hindsight, that tell us whether forecasts are any good. Using, as
+some commentators do, the fact that recent GDP outturns were stronger than expected as evidence that all
+economic forecasts are useless, falls into exactly the same logical trap as arguing that medical evidence of
+the dangers of smoking is useless because you know someone who smoked two packs per day and lived to
+be ninety years old.
+
+4. Forecast accuracy and policy effectiveness
+
+I am not saying that good forecasts are unimportant. Central banks publish their forecasts to provide public
+accountability for their actions: to explain why monetary policy has been set a certain way, and how that is
+going to contribute to meeting the inflation target. This allows the public to understand our policy reaction
+function, which in turn improves the transmission mechanism of monetary policy, by allowing households and
+firms to form expectations of how the central bank will respond to future economic circumstances, even ones
+which are not currently anticipated.
+
+10
+
+Rather, I am saying that monetary policy can do its job even if there are large forecast errors. And I will go
+one step further, which is to say that larger forecast errors do not imply worse monetary policy, nor do small
+forecast errors imply better monetary policy.
+Chart 1 shows the history of the Bank’s forecast errors for GDP at various horizons.
+
+8
+
+Results for other variables and other forecast horizons are broadly similar.
+The IEO compares the accuracy of Bank forecasts to those of a random walk model, which is the model you would use if you thought
+there was no point in models, and guessed that the next outturn was going to be the same as the previous outturn.
+10
+See Woodford (2013) for a detailed discussion of the role of central bank forecasts in communicating the policy reaction function.
+Note that, perhaps counterintuitively, the fact that policy affects the economy with a lag is not one of the reasons why central banks
+make forecasts. As Giannoni and Woodford (2003) show, optimal monetary policy can still be defined in terms of a response to the
+current state of the economy, rather than a forecast. The more forward-looking economic agents are, the less forward-looking the
+central bank needs to be.
+9
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+5
+
+Chart 1 – GDP growth forecast errors
+
+Notes: For each horizon, the chart shows the outcome minus Bank of England Inflation Report forecasts of quarterly yoy growth rate (in
+percentage points) for the date shown. For example the ‘12Q Ahead’ forecast errors for 2009Q1 are based on forecasts made in the
+February 2006 IR. The diamonds represent the forecast errors assuming quarterly growth in 2017 Q1 of 0.6%, the nowcast published in
+the March MPC Minutes.
+
+Before the crisis, in the mid-2000s, forecast errors were quite small. It was, after all, the period called “the
+Great Moderation” at the time.
+
+11
+
+Does that mean that policy was set perfectly? Not at all. As has been
+
+discussed widely since then, in focusing too narrowly on inflation, policymakers in the UK and in other major
+developed economies failed to take action to limit the rapid expansion of credit that ultimately contributed to
+12
+
+the deepest recession in 2008-09 that the UK had experienced since the Great Depression . It is a point of
+debate whether this was a failure of regulatory policy (too lax) or of interest rate policy (too low),
+
+13
+
+and I
+
+believe it was largely the former. But what is clear is that little or no action was taken on either front. Small
+forecast errors did not imply good policy. The medical equivalent would be that your doctor did not tell you to
+quit smoking and improve your diet, thereby missing an important opportunity to lower the risk of a heart
+attack at some uncertain future date. Just because you did not have a heart attack for many years, does not
+imply that it was a good decision for the doctor to let you keep smoking and eating badly.
+
+As the financial crisis unfolded, and started to have material consequences for the real economy in 2008,
+forecast errors were very large indeed. At its deepest trough, GDP was seven percentage points weaker
+than had been forecast just four quarters earlier.
+
+11
+
+See Stock & Watson (2002) and Bernanke (2004).
+Excluding World War II, and as measured by the peak-to-trough contraction in GDP, using ‘Three centuries of macroeconomic data’
+http://www.bankofengland.co.uk/research/Documents/datasets/threecenturies_v2.3.xlsx
+13
+Interest rates were not the ideal tool to lean against excessive credit growth, but the Bank did not have the macro-prudential tools it
+now has. Central banks could either have leaned against credit growth, or have leaned on regulators. See King (2013), Bean (2014) and
+Carney (2014).
+12
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+6
+
+But let us consider the policy response to the financial crisis. The Bank of England cut interest rates by
+4 ½ percentage points, provided emergency liquidity facilities, purchased government bonds to add further
+stimulus when interest rates reached their effective lower bound, and, together with the government, devised
+a bank recapitalisation plan to restore trust in the financial system. And all of this took place in the space of a
+few months after the collapse of Lehman Brothers.
+
+This policy, I believe, prevented the recession from turning into a depression.
+
+14
+
+By the second half of 2009
+
+the economy was growing again.
+Chart 2 – Inflation forecast errors
+
+Notes: For each horizon, the chart shows the outcome minus Bank of England Inflation Report forecasts of quarterly yoy growth rate (in
+percentage points) for the date shown. For example the ‘12Q Ahead’ forecast errors for 2009Q1 are based on forecasts made in the
+February 2006 IR.
+
+Chart 2 shows the Bank’s forecast errors for inflation. We also made large forecast errors on inflation, but in
+the opposite direction to the forecast errors on GDP. At the time, the policy narrative was that high inflation
+was caused by temporary factors (higher oil prices, increase in VAT, weaker exchange rate), and that
+substantial slack in the economy justified looking through those temporary factors when setting monetary
+policy. The temporary factors turned out to be significantly more persistent than expected. But even with
+hindsight, the diagnosis that underlying inflation pressures remained weak, so the economy did not require
+tighter monetary policy, proved correct.
+
+Chart 3 shows the forecast errors of inflation against changes in the oil price. A large share of the inflation
+forecast errors were driven by oil price changes, most of which are unanticipated. This is a good example of
+
+14
+
+See also Del Negro et al (2017).
+7
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+7
+
+forecast errors that are driven by unanticipated events, not by misjudgements or missing ingredients of the
+model.
+Chart 3 – Inflation forecast errors and oil price changes
+
+Notes: In addition to the CPI forecast errors shown in Chart 2 (in grey lines, right scale), the chart shows percentage change of 3month
+average on 3 month average 12months earlier in oil prices (on left scale).
+
+Despite large GDP and inflation forecast errors in the 2008 crisis period and its aftermath, I would argue that
+monetary policy was highly successful, responding quickly to unfolding events, and effectively putting a floor
+under the downward spiral of asset prices and economic activity that had begun to take hold. Just as a
+doctor does not need to predict your heart attack in order to respond to it effectively, monetary policy does
+not need to forecast a recession several quarters in advance to respond to it effectively.
+
+The success of central bank responses to the financial crisis owed a great deal to learning from past forecast
+errors, in particular learning from the Great Depression. Two policy choices that were made in the US in the
+early 1930s are now widely considered to have been a mistake, and contributed to the depth of the
+depression. One was the failure to ease monetary policy sufficiently, which was in turn driven by a misplaced
+desire to remain on the gold standard.
+
+15
+
+The other was the decision to let so many banks fail, which resulted
+
+in total loss of confidence in the financial system, and a downward spiral of asset prices and economic
+activity on a scale rarely seen up to that point or since then.
+
+16
+
+Both of these errors were avoided in 2008: monetary policy was loosened dramatically, and confidence in the
+financial system was shored up via a range of liquidity measures and bank recapitalisations. Of course, we
+did not learn all of the lessons of the past. If we had, we would also have learned to be more concerned
+15
+16
+
+See Bernanke & James (2000)
+Friedman and Schwartz (1963)
+8
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+8
+
+about the pre-crisis leverage build-up, and find ways to lean against it. But at least we did not compound the
+effect of the pre-crisis policy mistake with post-crisis policy mistakes, as happened in the early 1930s. So
+the period of small forecast errors was one when policy makers made costly mistakes by not realizing the
+dangers that were building up, while the period of large forecast errors was one of the best examples of the
+usefulness of modern central banks, thanks to important lessons learned from policy mistakes 80 years
+earlier.
+
+5. Forecasting around the time of the referendum
+
+Let me now turn to the forecast errors and policy in the period since the referendum. Economic growth has
+been better in the immediate post-referendum period than we and nearly everyone else had expected.
+We have gone from expecting a short and sharp slowing, to pencilling a much milder and more protracted
+slowing. Throughout this period of forecast revisions, we have remained more optimistic than most private
+sector forecasters. Both the upward revision in forecasts and the gap between the Bank and consensus are
+shown in Chart 4.
+Chart 4 – Evolution of forecasts for GDP growth in 2017
+
+Notes: Forecasts for calendar year growth rate in GDP for 2017. Median of Bloomberg survey of economists and Bank of England
+Inflation Reports.
+
+Why did we expect such a sharp slowing back in August? First and foremost, short-term indicators of the
+economy, such as business surveys, consumer confidence, housing indicators, had turned down sharply.
+We always monitor published data that, historically, has given a decent but not perfect signal of where the
+economy is heading in the near term (see Chart 5). And these data were falling rapidly in the immediate
+aftermath of the referendum. For example, the Composite PMI, an indicator of business activity growth, had
+fallen to its lowest level since 2009. And the RICS New Buyer Enquiries balance, an indicator of housing
+9
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+9
+
+activity, had fallen to its lowest level since 2008. In fact, some of these indicators were in outright recession
+territory. But allowing for the fact that they sometimes over-react to short-term events, we aimed higher than
+the indicators were suggesting, and our central forecast was for a marked slowdown, but not a recession.
+Chart 5 – GDP growth and PMI composite
+
+Notes: GDP quarterly growth rate (left scale) and the CIPS Composite PMI (index, right scale). Stalk shows PMI data available at the
+time of the August 2016 Inflation Report.
+
+Second, we noted the spike in various measures of uncertainty. The historical relationship between
+measures of uncertainty and economic growth implied that an uncertainty spike of the size we saw after the
+referendum was expected to lead to a sharp slowing in demand. There are many ways of measuring
+uncertainty, and different measures give you different forecasts of demand growth,
+
+17
+
+but all of them implied a
+
+sharper slowing than we have actually experienced.
+
+My main point regarding our August forecast is that we were not possessed by some innate feeling of gloom,
+nor were we beholden to one particular model of the economy that we thought would give us the right
+answer at all times. Rather, we were responding to actual published data on economic activity and
+uncertainty that was pointing to a sharp slowing in demand.
+
+Based on the real-time assessment that the economy was slowing, we put in place a stimulus package in
+August, of a 25bp Bank Rate cut, a funding scheme to make sure the rate cut was passed on, additional gilt
+purchases, and corporate bond purchases.
+
+17
+
+See Forbes (2016).
+10
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+10
+
+As I noted at the time,
+
+18
+
+I already saw considerable weakness in nominal growth as we headed into the
+
+referendum, and I was starting to think the economy might need more stimulus even in the status quo
+scenario of a remain vote. Based on the early economic indicators after the referendum, it was therefore an
+easy decision for me to decide that more stimulus was warranted. I thought our August package would be
+the start, and further stimulus would be needed.
+
+From around early August, the indicators of economic activity that had fallen so sharply in June and July
+started recovering, and measures of uncertainty started falling back.
+
+Even ex post, it is hard to know with precision what drove that improvement in the data. I will offer four
+possible reasons.
+
+First, political uncertainty was resolved much sooner than everyone expected. By mid-July we had a new
+prime minister, something that was initially expected only in September. Moreover, the new PM made it clear
+that article 50 would not be triggered immediately, contrary to earlier expectations. Businesses realised that it
+would take years before the UK’s trading relationship with the EU might actually change.
+
+Second, the outlook for fiscal policy changed. Before the referendum, there was talk of additional austerity
+should there be a vote to leave. After the referendum, the new government spoke of a “fiscal reset”,
+
+19
+
+suggesting a looser stance, which was confirmed in the Autumn Statement.
+
+Third, our own policy package did make a difference. Early communication by MPC members, and then
+action, stabilised sentiment.
+
+20
+
+The rate cut was fully passed on. Gilt purchases started to have their desired
+
+effect of lowering real yields while re-anchoring inflation expectations which had been too low. And the
+corporate bond programme lowered corporate bond spreads significantly and spurred new issuance. This
+effectively prevented the uncertainty spike from manifesting itself in a tightening of financial conditions, which
+is a key channel via which uncertainty can affect the economy.
+
+Fourth, completely unrelated to UK developments, the global economy started picking up in the summer, as
+evidenced by a range of global surveys, and the pick-up in commodity prices. This in turn fed back positively
+onto the UK economy, via foreign demand, confidence, and easier financial conditions.
+
+Note that, in the context of historical forecast errors, the forecast errors in the past few quarters have been
+rather small, as chart 1 clearly shows. I have been quite puzzled by the repeated attacks on economic
+experts, forecasters and models, based on these relatively small forecast errors. Dismissing experts in
+general, and attacking the expertise of the economics profession as a whole, is a worrying and dangerous
+18
+
+See Vlieghe (2016a,b).
+Comments by Philip Hammond on 22 July 2016, see http://www.bbc.co.uk/news/business-36864099.
+Carney (2016a) statement 24 June, Carney (2016b) speech 30 June, MPC minutes 14 July, Vlieghe (2016b) article in the FT on 17
+July, and Weale (2016) interview.
+19
+20
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+11
+
+development. Debate is always welcome, but it should be based on clearly articulated arguments and
+evidence. Otherwise, we risk making counterproductive decisions if prevailing evidence is simply ignored.
+Returning to my forecasts vs policy theme, even if our growth forecasts have so far turned out slightly too
+pessimistic, how do we evaluate the monetary policy response based on these forecasts? Some of the
+improvement in the outlook is likely to be due to our early and decisive monetary policy action, along with
+intensive financial stability contingency planning. Is anyone seriously arguing that things would have turned
+out better if policymakers had worried less, and taken no measures to add stimulus to the economy? I stand
+by those August decisions entirely. I would take exactly the same action again if faced with the same
+circumstances.
+
+6. Outlook for economy and monetary policy
+
+Monetary policy aims to hit the inflation target of 2% CPI. In recognition of the fact that it takes time for
+changes in monetary policy to have their full effect on the economy, the MPC generally tries to respond to
+medium-term inflation pressures, rather than short-term movements in actual inflation. Moreover, the horizon
+over which we aim to return inflation to target can vary in circumstances where economic shocks push
+growth and inflation in opposite directions, as we think is the case at the moment. To inform the mediumterm inflation outlook, I want to highlight two significant current themes, namely exchange rate pass-through
+and wage pressure.
+
+On a trade-weighted basis, sterling is down nearly 20% since its local peak in late 2015, and 12% since the
+referendum itself. Based on past experiences, we expect that to push up import prices, and, in turn, to push
+up consumer prices. While the exchange rate movement is quick, the pass-through to consumer prices is
+not. Given hedging practices, long-term pricing contracts, and lengthy supply chains, it takes several years
+for the pass-through to have its full effect. Our February central forecast was for inflation to rise to close to
+3% around the turn of the year, before coming down slowly, but still above target at the end of our forecast
+period due to the persistent effects of the exchange rate.
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+12
+
+Chart 6 – Wage forecast errors
+
+Notes: MPC forecast errors for wage growth one year ahead (four-quarter whole-economy AWE growth).
+
+The second inflation theme is wages. Despite the fact that the unemployment rate has come down from its
+peak of 8.5% in 2011 to 4.7% on the most recent data, wage data continues to surprise us on the downside,
+and has done so persistently for several years (see Chart 6). Let’s be clear, wage growth has picked up
+somewhat from the sub-1% pace in 2013 and 2014, but not nearly as much as we had expected, given the
+fall in the unemployment rate. On the most recent data, it is barely above 2%, with no sign of sustained
+upward momentum yet (see Chart 7). There are two categories of explanations for subdued wage growth.
+
+The first is that we have only recently emerged from a lengthy period of near zero headline inflation, from
+early 2015 until mid-2016. Low headline inflation means that a given nominal pay increase implies a larger
+real pay increase, so it plausibly lowers nominal pay demands for a period. If this is the main explanation for
+subdued wage growth, we might expect a reasonable pick-up in wage growth this year and next year, as pay
+negotiations will take place against a background of inflation heading towards 3%.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+13
+
+Chart 7 - Whole economy regular wage growth
+
+Notes: Growth rate of whole-economy AWE excluding bonuses, 3 month average over 3 month average 6 months or 12 months before
+(per cent).
+
+But we have been experiencing weaker than expected wage growth for longer than inflation has been near
+zero, so this is unlikely to be the only explanation, and, in my view, perhaps not even the dominant one.
+
+A second reason for subdued wage inflation is that there may be more slack in the labour market than the
+4.7% unemployment rate would suggest. Involuntary part-time and self-employed workers, the threat of
+future job losses due to automation, demographic changes,
+
+21
+
+all work in the direction of leading to less
+
+upward wage pressure for a given level of unemployment. To try and incorporate some of these changes to
+labour market into our forecast, the MPC revised down its collective estimate of the natural rate of
+unemployment in February, to 4.5%.
+
+22
+
+There is a lot of uncertainty around that, in either direction.
+
+If more slack, rather than a recent experience of low inflation, is the main explanation for subdued wage
+pressure, we might not see a significant change in wage pressure in the coming years, especially if growth
+slows somewhat, along the lines of our February forecast, or the weaker private sector forecasts.
+
+The bottom line is that, despite better than expected growth, we have not had higher than expected
+underlying inflation pressure. Inflation is set to rise, but that seems entirely accounted for by exchange rate
+pass-through, which, although persistent, will ultimately fade as long as inflation expectations remain well
+anchored. Wage pressure has continued to surprise us on the downside.
+
+21
+
+See also Saunders (2017).
+The repeated wage forecast errors in the same direction are an example of forecast errors that require action, as they reveal an
+aspect of the economy we seem to have misjudged. Our recent revision of the natural rate of unemployment has been a response to
+these repeated forecast errors.
+22
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+14
+
+Chart 8 – Household consumption growth and real (post-tax) income growth
+
+Notes: Annual growth rates (per cent) and forecasts from Table 5.D (page 36) in February 2017 Inflation Report.
+
+The impact on household income of these two forces, namely exchange rate pass-through and subdued
+wage inflation, is substantial. Until mid-2016, inflation was close to zero, courtesy of the earlier drop in oil
+prices and the strength of sterling. That meant that real household labour income growth was close to 3%,
+despite subdued nominal wage growth. We now expect real household income growth to slow to around zero
+(shown in Chart 8), a big shift.
+
+Recent retail sales data, though volatile, have started to show signs of slowing (Chart 9), after persistently
+surprising us to the upside for most of last year. Other household indicators, such as consumer confidence,
+car sales, housing indicators, are still more resilient, but many are nevertheless on a gradual downward
+trajectory over the past few months. My interpretation is that households are now responding to the change
+in real income growth.
+
+What does all of this mean for monetary policy?
+
+Given the low level of interest rates currently, and given that asset purchases are an imperfect substitute for
+policy rate changes, I do not think the MPC has as much room to ease as to tighten, i.e. there is an
+asymmetry. My view is that, in such circumstances, a rate hike that turns out to be premature is a more
+serious mistake than one that turns out to be somewhat late. Caution is warranted.
+
+The consumer slowdown, which initially did not materialise, now appears to be underway. Given the hit to
+real income from a mix of subdued wage growth and rising inflation, I think the slowdown is more likely to
+intensify than fade away.
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+15
+
+Chart 9 – Household consumption growth and retail sales
+
+Notes: Quarterly consumption growth rates and 3 month average on previous 3 months ONS retail sales growth (per cent).
+
+Although my interpretation of the consumption data is that a slowing has begun and is likely to intensify, that
+does not mean there are no upside risks. Consumer credit growth has been accelerating over the past few
+years, and has accelerated further in the second half of last year, suggesting that the resilience of household
+spending was in part financed by credit, and might persist for longer than expected. If strong credit growth
+continues, I would see it as a sign that monetary policy is too loose: in the absence of a consumption
+slowdown, there is less prospective economic slack, and therefore less justification for tolerating
+above-target inflation at the forecast horizon. The average consumer credit flow of past three months has
+fallen back, and has been the weakest for over a year. So perhaps a slowdown in credit growth is already
+underway. But I will be alert to any signs of re-acceleration.
+
+Concerning the outlook for business investment, the two-year clock on the renegotiations of the UK-EU
+relationship is now ticking. In the immediate aftermath of the referendum, firms did not react to the
+uncertainty by cutting spending sharply. Business investment growth has been about zero. Not great, and in
+fact the weakest we have seen since 2010, but not the sharp contraction we had feared either. It is possible
+that the absence of a sharp reaction was due to the fact that firms have generally taken a benign view of the
+impact on their business of possible future changes in the UK-EU relationship. It is also possible that
+uncertainty about these changes is substantial, but the changes have been too far away to have a marked
+effect spending decisions so far. As the time horizon now shortens, a more material reaction of spending in
+response to uncertainty might still occur. Much will depend on the detail of the final agreement, which might
+not be known until late in the negotiations.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+16
+
+In conclusion, a cautious strategy on interest rates is warranted, but only for as long as there is slack in the
+economy and underlying inflation pressures remain subdued. For now, taking together indicators of wages
+and inflation expectations, that seems to be the case. If, on the other hand, I see signs that inflationary
+pressures are spreading beyond just exchange-rate pass-through, or I see a re-acceleration of indicators
+related to household spending and credit, that would be my cue that a slightly higher level of Bank Rate is
+warranted.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+17
+
+References
+Bean, C. (2014). ‘The future of monetary policy’, speech available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2014/speech729.pdf
+Bernanke, B. (2004). ‘The Great Moderation’. February 20 2004 speech available at federalreserve.gov
+Bernanke, B. and H. James (2000), “The Gold Standard, Deflation, and Financial Crisis in the Great
+Depression: An International Comparison”, in Bernanke, B., Essays on the Great Depression, Princeton
+University Press.
+Brunnermeier, M. and M. Oehmke (2013). ‘Bubbles, financial crises, and systemic risk’. Handbook of the
+Economics of Finance, vol. 2. Constantinides, M.H., Stulz, R.M. (Eds.), North Holland Elsevier, Oxford,pp.
+1221–1288.
+Califf, R. and M. Pensina (2013). ‘Predictive Models in Heart Failure: Who Cares?’, Circulation: Heart
+Failure, 6: 877-878.
+Carney, M. (2014). ‘One Mission. One Bank. Promoting the good of the people of the United Kingdom’,
+speech available at: http://www.bankofengland.co.uk/publications/Documents/speeches/2014/speech715.pdf
+
+Carney, M. (2016a). Statement from the Governor of the Bank of England following the EU referendum
+result, available at http://www.bankofengland.co.uk/publications/Pages/news/2016/056.aspx
+Carney, M. (2016b). ‘Uncertainty, the economy and policy’, speech available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech915.pdf
+Chancellor, E. (1999). ‘Devil Take The Hindmost: A History of Financial Speculation’, Macmillan.
+D’Agostino, R., S. Grundy, L. Sullivan, P. Wilson and CHD Risk Prediction Group (2001). ‘Validation of
+the Framingham coronary heart disease prediction scores: results of a multiple ethnic groups investigation’,
+JAMA, vol. 286, pg. 180-187.
+Del Negro, M. G. Eggestsson, A. Ferrero and N. Kiyotaki (2017). ‘The Great Escape? A Quantitative
+Evaluation of the Fed’s Liquidity Facilities’, American Economic Review, vol. 107 (3), pg. 824-857.
+Forbes, K. (2016). ‘Uncertainty about Uncertainty’, speech available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech942.pdf
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+18
+
+Friedman, M. and A. Schwartz (1963), ‘A Monetary History of the United States, 1867-1960)’, Princeton
+University Press.
+Giannoni, M. and M. Woodford (2003). ‘How Forward-Looking is Optimal Monetary Policy?, Journal of
+Money, Credit and Banking, vol 35 (6), pg 1425-1469.
+Haldane, A. (2017). ‘A Little More Conversation A Little Less Action’, speech available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2017/speech971.pdf
+Kindleberger, C. (1978). ‘Manias, Panics and Crashes: A History of Financial Crises’, Wiley & Sons.
+King. M. (2013). ‘Monetary policy: many targets, many instruments. Where do we stand?’, speech available
+at http://www.bankofengland.co.uk/publications/Documents/speeches/2013/speech649.pdf
+Minsky, H. (1986). ‘Stabilizing an Unstable Economy’, Yale University Press.
+Reinhart, C. and K. Rogoff (2009). ‘This Time is Different: Eight Centuries of Financial Folly’, Princeton
+University Press.
+Saunders, M. (2017). ‘The labour market’, speech available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2017/speech953.pdf
+
+Stock, J. and M. Watson (2002). "Has the business cycle changed and why?" NBER Macroeconomics
+Annual.
+Vlieghe, G. (2016a). ‘Monetary policy expectations and long term interest rates’, speech available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech909.pdf
+Vlieghe, G. (2016b). ‘Brexit uncertainty makes the case for a lower interest rate’, Financial Times, July 17.
+
+Weale, M. (2016). Interview with Financial Times, July 26.
+Woodford, M. (2013) “Forward Guidance by Inflation-Targeting Central Banks”, CEPR Discussion Paper
+9722, November 2013.
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+19
+
+

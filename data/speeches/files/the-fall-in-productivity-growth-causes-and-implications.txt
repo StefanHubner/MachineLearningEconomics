@@ -1,0 +1,2418 @@
+The fall in productivity growth: causes and implications
+Speech given by
+Silvana Tenreyro, External MPC Member, Bank of England
+
+Peston Lecture Theatre, Queen Mary University of London
+15 January 2018
+
+The views are not necessarily those of the Bank of England or the Monetary Policy Committee.
+I would like to thank John Barrdear, Nikola Dacic, Gene Kindberg-Hanlon, Michael McLeay,
+Patrick Schneider, Manveer Sokhi, Michal Stelmach and Chris Young for research assistance and
+input into this speech. I am also grateful to Tom Belsham, Ben Broadbent, Lizzie Drapper,
+Perry Francis, Clare Macallan, Michael Saunders, Alex Tuckett and Gavin Wallis for helpful
+comments. All errors are mine.
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+Introduction
+
+Many thanks for the invitation.
+
+Maurice Peston was an inspiration and role model for economists, having combined a distinguished career in
+academia with an unwavering commitment to public policy. As well as his legacy here at Queen Mary, he
+also left a big mark at the LSE, both as a student and later as a faculty member. It is a true honour to be
+here to give the Peston Lecture.
+
+My talk today will be about productivity, and more specifically, about the UK productivity puzzle. Recently we
+have heard a lot about the productivity puzzle in the media, with policymakers, journalists and academics
+debating different reasons for the puzzle and many advancing ways to address it. Indeed, many of my
+colleagues and predecessors on the MPC have already given speeches about the UK productivity puzzle.
+
+1
+
+To those who have been around for a while, this debate might sound somewhat déjà vu, as it is not the first
+time that the UK economy has shown a “productivity puzzle”. Back in 2003, Basu, Fernald, Oulton and
+Srinivasan wrote an influential paper trying to explain the missing productivity in the UK economy during the
+second half of the 1990s. With hindsight, we know now that the productivity puzzle of the 1990s
+disappeared as measurement improved and as the data were revised.
+
+The current productivity puzzle, however, seems to be lasting longer than the one in the 1990s and it has
+certainly acquired a greater web-presence, judging by the large surge in the number of Google Scholar
+citations on the topic.
+
+But although much has been said and written on it before, given the importance of the current productivity
+puzzle, I will argue it is useful to take a fresh look using the latest vintage of data. I will use it to draw three
+main conclusions:
+
+
+Just two sectors, finance and manufacturing, can account for most of the fall in UK aggregate
+productivity growth.
+
+
+
+The post-crisis productivity drag from finance should disappear as deleveraging runs its
+course. Slower manufacturing productivity growth may relate to a reduction in the impact of
+lower-priced imported inputs from China and other emerging markets.
+
+
+
+Persistently weak investment has also been playing an increasingly important role in the
+weakness of manufacturing and aggregate productivity. But strong global growth should
+help support a recovery, especially if uncertainty were to be resolved.
+
+1
+
+For example, Dale (2011), Broadbent (2012), McCafferty (2014), Weale (2014) and Haldane (2017).
+2
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+2
+
+Before that, my plan is to first discuss concretely what I mean by the productivity puzzle, and to try to put it
+into context. Next, I will say a few words on why we care about productivity and why it is relevant for
+monetary policy. I will then explore the questions of where and why productivity got lost. And, although the
+MPC will not conclude our collective assessment of supply-side conditions until our February forecast, I
+would like to finish by offering some reflections of my own on what the data can tell us about future
+productivity growth and the direction of monetary policy.
+
+1.1. The Puzzle
+
+Let us first agree on a definition of the productivity puzzle. Though commentators have referred to different
+measures of productivity, most have focused on aggregate labour productivity, defined as the total value
+added of the UK economy divided by the total number of hours worked. In other words, it tells us how much
+a typical worker in the UK economy produces each hour.
+
+The so-called productivity puzzle is the observation that UK productivity has fallen well below its pre-crisis
+trend. Productivity fell sharply at the peak of the crisis, 2008 and 2009 – a level shock in the jargon. Since
+then, productivity has been growing, but at a rate significantly lower than its pre-crisis trend rate (Charts 1
+and 2). And though this growth slowdown has been experienced by other advanced economies, it appears
+to be more accentuated in the UK.
+
+Let me illustrate these points with a few numbers.
+
+Over the three decades before the global financial crisis, productivity growth averaged 2.3% per year. To get
+a sense of what this growth means in practical terms, the average UK worker in 2007, working the same
+number of hours, could produce twice as much as she could have just thirty years before.
+
+Chart 1 – Labour productivity, hours and GDP
+Productivity (GDP per hour worked)
+Total hours worked
+Real GDP at basic prices
+
+Percentage
+change on a
+year earlier
+
+6
+4
+
+Chart 2 – Labour productivity relative to trend
+Log scale, 1977=100
+Productivity (GDP per hour worked)
+
+240
+
+1977-2007 trend
+
+220
+
+2009-16 trend
+
+200
+180
+
+2
+
+160
+
+0
+
+140
+
+-2
+
+120
+
+-4
+-6
+2000
+
+2004
+
+2008
+
+2012
+
+Sources: ONS and Bank calculations.
+
+2016
+
+99.9999
+
+100
+
+1977 1982 1987 1992 1997 2002 2007 2012
+Sources: ONS and Bank calculations.
+3
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+3
+
+Since then, labour productivity growth has dropped significantly. Productivity fell in 2008 and 2009 as the
+financial crisis hit, and, in the seven years since, it has only grown by an average 0.4% per year. As a result,
+the typical worker in 2016, while still twice as productive as the 1970s, could only produce 1% more than in
+2007.
+
+1.2. Productivity: over the years and across the world
+
+Focusing just on the past half-century, the decade since the crisis looks like an aberration. Productivity
+growth barely deviated from its 2% trend until 2007 (Chart 2). It is little wonder, therefore – looking at these
+data – that forecasters (the Bank of England included) consistently predicted that productivity growth would
+recover to a rate close to its 1970s-2000s average.
+
+Over a longer sweep of history, the past decade is far from unusual. Chart 3 shows annual UK labour
+productivity growth since 1760. Prior to the 1970s, there were often large shifts in the average growth rate of
+productivity from one decade to the next. Depending on how you interpret the chart, that could be a
+good-news or a bad-news story.
+
+Chart 3 – Historical labour productivity (GDP per hour worked)
+Annual growth, 10
+year moving average
+
+5
+4
+3
+2
+1
+0
+-1
+-2
+
+1770
+
+1790
+
+1810
+
+1830
+
+1850
+
+1870
+
+1890
+
+1910
+
+1930
+
+1950
+
+1970
+
+1990
+
+2010
+
+Sources: Thomas and Dimsdale (2017) and Bank calculations.
+
+The ‘glass half full’ reading might note that we have been through several temporary periods of weak
+productivity growth before, but have always recovered. But there is also a ‘glass half empty’ interpretation.
+Robert Gordon from Northwestern University has argued that the hundred years spanning from 1870 to 1970
+were exceptional in the number and scope of life-changing break-through innovations and there is absolutely
+no reason to expect growth to be as high and broad-based now. The progress since 1970, he argues, has
+been concentrated in a relatively narrow part of the economy: entertainment, communication and information
+processing. But in other essential areas like food, clothing and shelter, progress has been much slower.
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+4
+
+Gordon’s ideas could explain why productivity growth has slowed down globally. But even if they are correct,
+all is not lost for the UK. That is because of what some have described as the second aspect of the
+productivity puzzle, namely, that the recent level and growth rates of labour productivity in the UK have been
+2
+
+lower than in many of its international peers. So even if productivity in other advanced economies were to
+stall completely, UK productivity could still grow rapidly for some time, if it were possible to catch-up to other
+countries’ levels.
+
+How much catching up is there to do? Cross-country comparisons are tricky, but the ONS estimates that
+compared to the UK, labour productivity is on average 18% higher in the other six members of the G7, 28%
+higher in the US and 35% higher in Germany (Chart 4). These are significant differences. If British workers
+were able to catch-up to the G7 average, what currently takes us five days’ work to produce could be done in
+little over four. If we were able to catch up to Germany, we might all be able to go home from work on
+Thursday afternoon each week without any fall in GDP.
+
+Chart 4 – Comparisons of labour productivity
+
+Chart 5 – Average annual growth rates of
+
+(current price GDP per hour worked), 2016
+
+labour productivity (constant price GDP per
+hour worked), 2007-16
+Per cent
+1.2
+
+40
+30
+
+1.0
+
+20
+
+0.8
+0.6
+
+10
+
+0.4
+0
+Percentage difference from UK
+G7 average (excluding UK)
+
+Sources: ONS.
+
+0.2
+
+-10
+
+0.0
+
+-20
+
+-0.2
+
+Sources: ONS.
+
+Rather than narrowing, the productivity gap with our international peers has actually been increasing since
+2007 (Chart 5). Despite subdued productivity growth globally – no G7 nation has recorded average annual
+rates above 1% – the UK has fallen further behind Germany, France and the US, while Canada and Japan
+have both caught up somewhat. Only Italy has recorded a slower rate of productivity growth.
+
+The plots have illustrated the UK productivity slowdown, both relative to other countries and also relative to
+the UK’s own recent past. Before turning to where we lost ground, let me briefly say why productivity growth
+– or lack thereof – is so crucially important.
+
+2
+
+See the transcript of oral evidence given by Sir Charles Bean to the Treasury Committee on the Autumn 2017 Budget on
+30 November 2017.
+5
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+5
+
+2. Why do we care about productivity?
+Productivity matters for welfare. Over time and across countries, higher productivity is reliably associated
+with higher wages, higher consumption levels and improved health indicators. The following charts illustrate
+these relationships.
+
+Higher productivity is associated, almost mechanically, with higher GDP and consumption per person,
+(Chart 6). Labour productivity is 25 times higher than in 1831. That has enabled a 12-fold increase in the
+level of GDP per person and a 9-fold increase in consumption per person. Those increases come despite
+spending less of our lives working. Leisure time, crudely measured as hours not in work, has increased from
+less than 20 hours a week in the 1830s to 50 hours a week today.
+
+3
+
+Chart 6 – Historical labour productivity and indicators of welfare
+Weekly hours not in
+work (out of 84)
+
+Log scale,
+Index 1831=100
+
+80
+
+Productivity (GDP per hour worked, RHS)
+
+70
+
+Real GDP per person (RHS)
+
+60
+
+Consumption per person (RHS)
+
+50
+
+Leisure (LHS)
+
+3200
+1600
+800
+
+40
+
+400
+
+30
+
+200
+
+20
+100
+
+10
+0
+
+50
+1831
+
+1851
+
+1871
+
+1891
+
+1911
+
+1931
+
+1951
+
+1971
+
+1991
+
+2011
+
+Sources: Thomas and Dimsdale (2017) and Bank calculations.
+Notes: Leisure calculated as 84 minus average weekly hours.
+
+Higher productivity also tends to lead to higher real wages (Chart 7). The average real wage has increased
+by around 14 times over the past 250 years, as employers have increased salaries for their increasingly
+productive employees.
+
+3
+
+Assuming 12 hours per day devoted to sleeping, eating and personal care. The statistic only includes workers, so does not count any
+benefits from longer periods spend in retirement.
+6
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+6
+
+Chart 7 – Historical labour productivity and real wages
+Log scale,
+Index 1762=100
+3200
+
+Productivity (GDP per hour worked)
+
+1600
+
+Real wages
+
+800
+400
+200
+100
+50
+1762
+
+1787
+
+1812
+
+1837
+
+1862
+
+1887
+
+1912
+
+1937
+
+1962
+
+1987
+
+2012
+
+Sources: Thomas and Dimsdale (2017) and Bank calculations.
+Notes: Real wages are calculated as earnings and salaries deflated by CPI.
+
+The welfare gains from productivity are not purely financial. While causality is less clear cut, more productive
+countries have better health outcomes. Being born in a country with 20% higher labour productivity is
+associated with higher life expectancy of around 1 year (Chart 8), as well as with a lower rate of child
+mortality, with four fewer deaths per thousand children (Chart 9).
+
+Chart 8 – Labour productivity and life
+
+Chart 9 – Labour productivity and child
+
+expectancy across countries, 2014
+
+mortality across countries, 2014
+
+y = 5.7379x + 78.338
+R² = 0.6278
+
+Life
+expect.
+at birth
+
+Under 5s
+mortality
+rate, per
+1000
+
+90
+85
+
+120
+100
+
+80
+
+80
+
+75
+70
+
+60
+
+65
+
+40
+
+60
+55
+
+20
+
+y = -22.238x + 5.5824
+R² = 0.5854
+
+50
+-5
+
+-4
+-3
+-2
+-1
+0
+Log productivity (GDP per worker, UK=0)
+
+1
+
+Sources: Feenstra, Inklaar and Timmer (2015); World
+Development Indicators, The World Bank; Bank calculations.
+Notes: Productivity uses real GDP at current PPPs (2011 $).
+
+0
+-5
+
+-4
+-3
+-2
+-1
+0
+Log productivity (GDP per worker, UK=0)
+
+1
+
+Sources: Feenstra, Inklaar and Timmer (2015); World
+Development Indicators, The World Bank; Bank calculations.
+Notes: Productivity uses real GDP at current PPPs (2011 $).
+
+As economists and as members of the public, my colleagues and I care enormously about productivity and
+its implications for welfare. However, as an MPC member, the reason I am discussing productivity today is
+7
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+7
+
+that it is crucial to setting monetary policy. The MPC’s remit sets out a 2% inflation target over an appropriate
+time horizon with the rationale that inflation stability can lay the foundations for strong and sustainable
+growth. Productivity growth is the key determinant of how much demand can grow without creating inflation
+and hence it is a critical input into our forecast and deliberations.
+
+To illustrate how productivity can affect monetary policy, Charts 10a-10d show two alternative productivity
+4
+
+scenarios, constructed using a version of COMPASS, the MPC’s main forecasting model. For clarity, I
+abstract from some of the complications of the current outlook. As a baseline, the black lines show an
+economy where output and productivity are growing in line with their potential and inflation is at
+target. Potential productivity grows at a subdued rate of 1% per year, roughly in line with the MPC’s
+5
+
+November forecast.
+
+Chart 10a – Model-based scenarios for the
+
+Chart 10b – Output gap response
+
+level of potential productivity
+Baseline
+High productivity (no policy response)
+Per cent
+High productivity (optimal policy)
+0.5
+Low productivity (no policy response)
+Low productivity (optimal policy)
+0.4
+
+Index
+Quarter 0=100
+125
+
+Baseline
+High productivity
+
+120
+Low productivity
+115
+110
+105
+
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+32
+
+36
+
+100
+95
+0
+
+4
+
+8
+
+12
+
+16 20 24
+Quarter
+
+28
+
+32
+
+36
+
+Quarter
+
+Sources: Bank calculations.
+
+Sources: Bank calculations.
+
+Chart 10c – Annual inflation response
+
+Chart 10d – Optimal Bank Rate change
+Baseline
+High productivity (optimal policy)
+Low productivity (optimal policy)
+
+Percentage change
+on a year earlier
+
+Baseline
+High productivity (no policy response)
+High productivity (optimal policy)
+Low productivity (no policy response)
+Low productivity (optimal policy)
+
+0
+
+4
+
+8
+
+12
+
+16 20 24
+Quarter
+
+Sources: Bank calculations.
+
+28
+
+32
+
+2.5
+2.4
+2.3
+2.2
+2.1
+2
+1.9
+1.8
+1.7
+1.6
+1.5
+
+0.3
+0.2
+0.1
+0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+
+Percentage
+points
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0
+
+4
+
+8
+
+12 16 20 24 28 32 36
+
+-0.1
+-0.2
+-0.3
+-0.4
+
+Quarter
+
+36
+
+-0.5
+
+Sources: Bank calculations.
+
+4
+
+Among other things, the model differs from the working-paper version of COMPASS, set out in Burgess et al (2013), by including
+bounded rationality on the part of households.
+5
+Overall potential supply growth in the November forecast was a little higher, at around 1½%, since potential labour supply growth was
+also expected to contribute positively. See Section 5 (page 40) of the November 2017 Inflation Report.
+8
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+8
+
+The other lines on the charts show the two scenarios. The blue solid lines show a scenario where a 1%
+growth rate for potential productivity was overly pessimistic (Chart 10a). It picks up instead to 2%, closer to
+its pre-crisis average. The response of demand to a shock to supply depends crucially on two things: the
+extent to which people realise that future supply growth will be stronger; and the response of monetary
+policy. In the scenario, the change in the rate of productivity growth is assumed to be
+unanticipated. Consequently, if monetary policy doesn’t respond to stronger supply growth, then demand
+rises by less than supply, and a negative output gap of 1/3% opens up (Chart 10b). Price rises slow, and
+inflation falls below the 2% target for an extended period of time (Chart 10c). The red solid lines show the
+opposite case. Here, even 1% productivity growth is too optimistic and productivity stagnates. In this case
+even modest demand growth outpaces supply, so that inflation rises above target.
+
+These suboptimal outcomes suggest a role for monetary policy. Monetary policymakers should seek to
+influence demand to match these different profiles for productivity and supply. The dashed lines in Chart 10d
+6
+
+show how they can best achieve this in the model. Following a positive, unanticipated shock to productivity
+growth, monetary policy must lower interest rates to stimulate demand in line with stronger supply. As a
+result, the output gap barely moves, and inflation remains closer to target (Charts 10b and 10c). In the low
+7
+
+productivity scenario, monetary policy tightens instead. Appropriate monetary policy clearly depends on
+how optimistic we are on future productivity growth. It will also depend on how, absent policy, demand
+responds to any changes in expectations of future supply.
+
+3. Why and where did productivity get lost?
+
+Having sketched some of the reasons why productivity is important and observed that productivity growth
+has fallen since the crisis, the question is why? To attempt an answer, it is helpful to carry out a sectoral
+analysis, breaking down the productivity slowdown by industry.
+
+89
+
+The sectoral distribution of productivity growth can help us locate where it has slowed.
+
+10
+
+A concentrated
+
+slowdown in some industries might suggest idiosyncratic causes that call for more targeted solutions.
+A broad-based slowing could point to possible macroeconomic explanations.
+
+6
+
+The optimal policy projections are calculated using the same framework as described in Carney (2017), with relative weights on
+inflation and the output gap of 1 and 0.25 respectively. They also place a weight of 1 on quarterly changes in the interest rate and on
+quarterly changes in the change in the interest rate.
+7
+In the scenario the shock to productivity growth is modelled as extremely persistent, but it eventually unwinds. If the change to
+productivity growth were permanent then it would also affect the long-run equilibrium interest rate, which may attenuate or reverse the
+signs of the policy responses shown here.
+8
+In what follows, I show decompositions at the SIC07 section level, based on new decompositions constructed by Bank of England
+staff. As pointed out by my colleague Ian McCafferty (2014), even at this level, many industries still contain a heterogeneous set of
+subsectors. But at further levels of disaggregation the data are likely to be less robust. The data used to carry out the growth
+accounting exercise are also not available at a more granular level.
+9
+Similar analyses were carried out by, among others, Goodridge, Haskel and Wallis (2016) and Oulton (2016a), but only using data up
+to 2011 and 2013 respectively.
+10
+There are also limitations to this type of analysis. In particular, GDP is typically thought to be better measured from the expenditure
+side than the output side (Oulton, 2013). One might therefore be more confident about measurement of the aggregate productivity
+slowdown than its split by industry, especially since industry-level data does not yet use double deflation.
+9
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+9
+
+We can also attempt to decompose sectoral productivity into different factors, to explore why productivity
+growth has slowed. Specifically, for each industry we can measure how much of the fall in productivity
+growth is due to slower growth in the amount and quality of the capital available to each worker; how much is
+due to changes in the quality of the labour input or human capital; and how much is due to changes in the
+efficiency with which quality adjusted capital and labour are used. I do this by industry because there are
+naturally big differences between the production processes of, for example, a manufacturing firm and one
+providing business services. The remaining or residual unexplained productivity growth is known as total
+factor productivity, or TFP. It is often taken as a proxy for technological progress, but in fact can stand in for
+a range of other factors, including structural change, imperfect competition and measurement error.
+
+11
+
+Let me be explicit about what I mean by quality of inputs. We normally split inputs into two broad categories:
+capital and labour. But as growth accountants have highlighted, both of these categories encompass a wide
+range of different subcategories. Capital, for example, includes computers, buildings, vehicles and other
+assets. The relative importance of each to production varies substantially across industries. I account for
+this heterogeneity using a disaggregated measure of the services provided by capital.
+
+12
+
+Similarly, the
+
+amount that can be produced by each worker per hour depends on their specific human capital
+(their experience, education and other characteristics). I control for this using the ONS’s measure of
+quality-adjusted labour input.
+
+I show the complete results of this industry-level growth accounting exercise in Appendix A1.
+shows a different industry.
+
+14
+
+13
+
+Each row
+
+The first three columns show the contribution of those industries to productivity
+
+growth over three time periods: a pre-crisis spanning from 2000 to 2007; the crisis period from 2007 to 2009
+and a post-crisis, going from 2009 to 2015.
+
+15
+
+The contribution to the slowdown in productivity growth – shown in the fourth column – is measured as the
+difference between the post- and pre-crisis productivity growth. The rest of the table decomposes the
+slowing in productivity growth between the two periods. Specifically, the fifth column shows the where: which
+sectors accounted for the slowing? And the remaining columns show the why: which changes in the
+quantity, quality or distribution of inputs explain the slowing? It is to those two questions that I now turn.
+
+Sector decomposition of the productivity growth slowdown
+
+The slowdown, or difference in the aggregate productivity growth rates between the pre- and post-crisis
+periods for the UK economy amounted to (a negative) 1.5 percentage points. Remarkably, three-quarters of
+
+11
+
+For more detail on the sources of TFP growth, see Caselli (2005) and Oulton (2016b).
+The capital services measure has been constructed by Bank of England staff based on the methodology of Oulton and Wallis (2016).
+See Appendix A2 for more detail.
+13
+Appendix A2 describes the methodology in more detail.
+14
+I exclude the real estate industry from the analysis, since measurement of its output includes imputed rent from owner-occupied
+housing, which is produced without any additional measured hours worked. Imputed rent therefore artificially inflates the estimates of
+labour productivity in the real estate sector.
+15
+I opt to exclude the 1990s from the comparison to exclude the effects of the ICT productivity boom, following Goodridge Haskel and
+Wallis (2016). I exclude 2016 since the data are not yet available to carry out the full decomposition.
+12
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+10
+
+this productivity growth shortfall is accounted for by just two sectors: manufacturing and finance (Chart 11).
+
+16
+
+Manufacturing contributed an average of 0.5pp per year to the UK’s 2% annual productivity growth in the
+2000s, with finance contributing another 0.4pp. Since 2009, the manufacturing contribution has shrunk to
+0.1pp, while finance has subtracted 0.3pp.
+
+Chart 11 – Industry contributions to average annual labour productivity growth
+ICT
+Prof. & scientific
+Finance
+Manufacturing
+Other
+Total
+
+Percentage points
+2
+1
+0
+-1
+-2
+
+1995-2000
+
+2000-07
+
+2007-09
+
+2009-15
+
+Difference (09-15
+minus 00-07)
+
+Sources: ONS and Bank calculations.
+
+A further quarter of the slowdown is explained by two more sectors: information and communication
+technologies (ICT); and professional, scientific and technical services. Together, these four sectors, which
+make up just one-third of value-added, can entirely account for the slowdown. The remaining 14 sectors
+contributed 0.5pp to productivity growth, both pre- and post-crisis. In other words, productivity outside those
+four sectors has been growing at a roughly constant, modest rate.
+
+One part of the story, the figures suggest, is that these four sectors were going through a boom period in the
+2000s. Manufacturing and finance alone contributed almost half of the UK’s productivity growth in the seven
+years leading up to the crisis. Without their contributions, UK productivity would have slowed more during
+the decade before the financial crisis.
+
+17
+
+This counterfactual would align our productivity slowdown more
+
+closely with that of the US, which is usually dated to the early 2000s.
+
+18
+
+So on one reading, idiosyncratic
+
+productivity gains in these two sectors hid an underlying slowdown that was taking place in the 2000s, more
+in line with global trends.
+
+But this is not likely to be the whole story. There are always some sectors where productivity is growing
+more rapidly than others: so it would be wrong to assume that any uneven contribution automatically implies
+that aggregate growth is unsustainable. Moreover, these sectors have also grown unusually slowly
+16
+
+Although the choice of comparison periods obviously affects the precise numbers, the same broad picture emerges for any
+reasonable cut-offs. For example, grouping the crisis and post-crisis periods together, and comparing productivity growth to its 2007-15
+(2007-16) average, manufacturing and finance still account for 52% (54%) of the slowdown. Or comparing a longer pre-crisis period of
+1995-2007 to 2009-15, manufacturing and finance account for 63% of the slowdown.
+17
+By contrast, productivity gains were distributed a little more equally in the 1995-2000 period.
+18
+Cette, Fernald and Mojon (2016). Although as discussed later, measured manufacturing productivity also grew strongly in the US in
+the early 2000s, which may have helped the US economy avoid a larger productivity slowdown then.
+11
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+11
+
+post-crisis. So any recovery in aggregate productivity growth is likely to require a pickup in their contribution.
+With that in mind, I now explore the two main sectors driving the slowdown, manufacturing and finance, in
+more detail.
+
+Manufacturing productivity grew at an average of 4.3% per year in the pre-crisis period (2000-2007), a
+notable increase on its 1990s growth rate (Chart 12). Since 2009, productivity growth has fallen to just 0.8%
+a year, a slowing of 3.5pp. The slowdown was widespread across most subsectors of the manufacturing
+industry, suggestive of a common or related set of causes.
+
+Chart 12 – Contributions to UK manufacturing
+
+Chart 13 – Manufacturing relative price and
+
+average annual labour productivity growth
+
+sector shares of hours and nominal GVA
+
+TFP
+Labour quality
+Capital services
+Total
+
+Percentage points
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+
+2000-07
+
+2007-09
+
+2009-15
+
+Sources: ONS and Bank calculations.
+
+Difference
+(09-15 minus
+00-07)
+
+Per cent
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+1995
+
+Hours share (LHS)
+Nominal value added share (LHS)
+Relative price (RHS)
+Index 2015=100
+120
+100
+80
+60
+40
+20
+0
+1999
+
+2003
+
+2007
+
+2011
+
+2015
+
+Sources: ONS and Bank calculations.
+
+A slower growth rate of capital deepening can explain around one-third of the manufacturing slowdown.
+Growth in capital per hour worked accounted for 1.1pp of productivity growth in 2000-07, but none at all in
+2009-15. The remaining 2.4pp cannot be explained by measured changes in the quality of labour, so is
+concentrated in the residual, TFP, which had grown faster than TFP in any other industry before the crisis.
+
+The UK manufacturing industry has undergone large structural changes over the past thirty years, mirrored
+in many advanced economies. Could this structural transformation be the source of the slowdown?
+Chart 13 shows that while manufacturing TFP was growing strongly in the 2000s, its relative price and
+employment share (in hours) were falling quickly. It is possible that productivity-enhancing changes in
+manufacturing led to higher TFP and hence lower prices. But with fast globalisation, it is also possible that
+causality ran in the opposite direction: pricing pressures may have led to TFP improvements. As in many
+countries, UK tradeable goods manufacturers were subject to increased competition from low-cost emerging
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+12
+
+market producers in the early 2000s, especially from China, which may have led to investments in capital
+and processes before the crisis.
+
+19
+
+A related plausible explanation for fast TFP growth before the crisis is greater offshoring – and what some
+considered a mismeasurement of manufacturing productivity growth. Houseman and Mandel (2015) point
+out that rapid globalisation increased offshoring and reduced import prices for manufacturing in ways that are
+missed by US official deflators. They argue that labour productivity growth in US manufacturing in the early
+2000s was materially overstated.
+
+How can offshoring increase measured TFP? Import price indexes miss cost cuts when the sourcing of a
+product is switched from a local supplier to, say, a lower-cost Chinese supplier. They also miss the cost
+saving if the switch is, for example, from a European supplier to a Chinese supplier. When the lower cost
+item is imported from the new supplier, effectively, it is treated as a new item and the item’s price fall is not
+registered by the index. As import prices do not reflect the cost savings from offshoring, then measured
+import price inflation is higher than it should be and real imports growth is reported as lower than it really is.
+This, the argument goes, means that real value added and productivity gains are overstated.
+
+Chart 14 –Contributions to US manufacturing
+average annual labour productivity growth
+Percentage
+points
+
+8
+6
+4
+2
+0
+-2
+
+TFP
+Labour quality
+Capital services
+Total
+2000-07
+
+2007-09
+
+-4
+-6
+2009-15
+
+Difference
+(09-15 minus
+00-07)
+
+Sources: Jäger (2017) and Bank calculations.
+
+Their arguments also apply to the UK economy, although with some nuances. For aggregate productivity
+and GDP measured from the expenditure side, similar problems arise as in the US because UK import-price
+deflators suffer from the same biases. For measuring industry-level manufacturing productivity, UK statistics
+do not yet use what is known as ‘double deflation’, which could make the offshoring effect even more
+important.
+
+20
+
+Real industry value added is deflated directly from nominal value added using the sector’s price
+
+index, without first deflating imported inputs. Changes in import prices are missed completely, so the effect
+19
+
+Autor, Dorn and Hansen (2013); Bloom, Draca and van Reenen (2016).
+Using double deflation to construct the output measure of GDP was one of the recommendations of Bean (2016) review of UK
+statistics, and the ONS are currently doing development work to allow them to do so.
+20
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+13
+
+on manufacturing productivity could be even larger. Interestingly, and perhaps reflecting the fact that many
+import price falls are missed even using the US methodology, manufacturing productivity in the US and the
+UK showed similar developments both before and after the crisis, with the rise and fall being more marked in
+the US economy (Chart 14).
+
+In my view, it is debatable whether this mismeasurement of imported input prices is fundamentally
+problematic – or indeed a mismeasurement. If an economist is interested in gauging the productivity gains
+from international trade, there is no reason why she should discount the contribution of lower priced imported
+inputs: falling costs of imported inputs should in principle also add to the economy’s productivity.
+
+Trade economists tend to think of international trade as a production technology in which imports are
+transformed into exports at a rate equal to their relative prices, or terms of trade. In that sense, an
+improvement in the terms of trade is comparable to an improvement in productivity.
+
+21
+
+Lower import prices
+
+mean that a given amount of exports can be turned into more imports. The country’s real income rises,
+because the economy as a whole can consume more (or work less), purely because of the change in prices.
+In that framework, productivity improvements coming from domestic TFP or from gains from international
+trade (in the form of cost savings) are not too dissimilar.
+
+When measuring real GDP, statistical offices aim instead at capturing only the domestically generated
+productivity gain, which is arguably a more appropriate measure of physical productivity (although, as
+pointed out, they do not always succeed at the task). This statistical practice attempts to purge from
+productivity gains any foreign price effects. (I for one, think of lower prices of imported inputs as a real
+productivity gain and would not count it as mismeasurement.)
+At any rate, whether you think as an economist or a statistician, this “offshoring hypothesis” can help explain
+rapid measured productivity growth in UK manufacturing pre-crisis. Manufacturing sectors have the highest
+shares of intermediate inputs in production: value-added in the industry is about one-third of gross output,
+compared to an average of around one-half for the other industries, and manufacturing inputs are highly
+tradable in international markets.
+
+22
+
+The subsequent slowdown in manufacturing productivity could be accounted for by the same offshoring
+argument if input prices fell less rapidly. Recent wage and total cost growth in China and other emerging
+markets may have slowed down the decline in input prices. The measurement of aggregate productivity may
+also have improved as statisticians incorporated new imported goods in their baskets. But precisely because
+there is an intrinsic problem with measurement, the quantitative importance both for aggregate productivity
+and for UK manufacturing remains an open question.
+21
+
+See Kehoe and Ruhl (2008), who also discuss how terms of trade changes do affect (correctly measured) real income. For measures
+of real income, if statisticians have overstated physical productivity, then they will also have understated the gains from trade by an
+equal amount.
+22
+Real product wages in manufacturing did not keep up with productivity increases pre-crisis. This is consistent with the offshoring
+explanation: if productivity gains were being driven by increased offshoring or low-cost imports, there would be less pressure to pass
+them on to domestic employees.
+14
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+14
+
+While the benefits from offshoring can help explain the rise and subsequent slowdown in TFP, the other
+question is why capital investment in manufacturing has come to a virtual standstill since 2009. I will come
+back to this point when I discuss investment in the whole economy, as capital shallowing is also observed in
+other sectors.
+
+23
+
+Let me now turn to finance.
+
+The finance sector is the biggest contributor to the productivity slowdown. It had the fastest-growing labour
+productivity of any sector in the run-up to the crisis, at 5% per year. Since 2009, productivity has actually
+shrunk by 2.1% per year.
+
+Chart 15 – Contributions to UK finance average
+
+Chart 16 – Finance relative price and sector
+
+annual labour productivity growth
+
+shares of hours and nominal GVA
+
+TFP
+Labour quality
+Capital services
+Total
+
+Percentage points 6
+
+Per cent
+12
+
+Index 2015=100
+140
+
+4
+
+10
+
+120
+
+2
+8
+
+0
+-2
+
+100
+80
+
+6
+
+60
+
+-4
+
+4
+
+-6
+2
+
+-8
+2000-07
+
+2007-09
+
+2009-15
+
+Sources: ONS and Bank calculations.
+
+Difference
+(09-15 minus
+00-07)
+
+40
+
+Hours share (LHS)
+Nominal value added share (LHS)
+Relative price (RHS)
+
+0
+1995
+
+1999
+
+2003
+
+2007
+
+2011
+
+20
+0
+2015
+
+Sources: ONS and Bank calculations.
+
+The finance productivity slowdown is overwhelmingly a slowdown in TFP (Chart 15). Capital deepening has
+held up better than in manufacturing and modest labour quality growth has continued, such that TFP
+accounts for over 80% of the fall in productivity growth.
+
+Changes in the structural distribution of industry cannot explain much of the fall (Chart 16). Unlike
+manufacturing, the measured relative price of financial-sector output was increasing during the pre-crisis
+period. (This is a key difference between these two sectors, which I will come back to later).
+
+23
+
+Researchers have explored the hypothesis of zombie firms, finding that it was an unlikely explanation for the UK slowdown
+(Arrowsmith et al, 2013; Haldane, 2017). The existence of zombie-firms would lead to investment in unproductive capital and low TFP
+growth, but not necessarily the collapse of investment. And perhaps more importantly, as economists at the Bank of England have
+recently pointed out, the biggest contribution to falls in productivity growth are made by firms at the top deciles of the productivity
+distribution. In other words, this appears to be a story of the most productive firms not keeping pace with their growth, rather a slowdown
+caused by less productive firms.
+15
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+15
+
+There are two possible explanations for the rapid rise and subsequent fall of financial-sector growth and
+productivity: one real; but another related again to measurement. Both are tightly linked to growth of
+leverage and under-pricing of systemic risk in the pre-crisis period. And both probably have some role to
+play in the sector’s slowdown.
+
+Financial services is an acute example of some of the challenges inherent in measuring services output
+more generally. Rapid product innovation; quality change adjustment; and simply defining what constitutes a
+unit of output all complicate measurement. One particular issue is how to accurately measure the output
+produced by banks carrying out their day-to-day business of intermediating between borrowers and lenders –
+a concept known as FISIM (financial intermediation services indirectly measured).
+
+24
+
+Many of the issues
+
+relate to its price and hence are less important for real output or productivity. But the growth of real FISIM
+output is closely related to the growth rate in the stock of loans and deposits on banks’ balance sheets.
+While this is not mismeasurement as such, it is conceptually debatable that the intermediation services
+provided by banks really increase one-for-one with the size of their balance sheets.
+
+25
+
+Finance-sector mismeasurement has been suggested many times before as a partial explanation for the UK
+productivity puzzle. Previous analyses argued that banking-sector mismeasurement could only account for a
+small amount of the pre-crisis boom.
+
+26
+
+But just as rapid balance sheet growth pre-crisis may have inflated
+
+measured finance output and productivity, post-crisis deleveraging may have detracted from it. Some rough
+calculations can give us a sense of the potential magnitudes. If the contribution of FISIM to real GDP had
+grown in line with the rest of GDP both pre- and post-crisis, it could explain around 0.2pp per year of the
+slowdown in GDP, or about one-third of the fall in financial sector TFP growth. If we were to exclude the
+financial-sector completely from the analysis – an extreme assumption, so definitely an upper bound –
+aggregate productivity growth would have been 0.2pp weaker per year pre-crisis and 0.4pp stronger postcrisis. The overall productivity slowdown would go from an annual average of 1.5pp to just 0.9pp.
+
+It is unlikely that the entire slowdown in financial sector TFP is down to mismeasurement. A complementary
+explanation is that the key contributors to the crisis itself – risk illusion and increasing financial-sector
+leverage – may have increased (correctly measured) pre-crisis productivity growth. In doing so, they may
+also have sowed the seeds of the crisis and subsequent weakness. Increased leverage and higher risk
+tolerance boosted profits, earnings and output. That may have attracted capital and employees from other
+sectors of the economy. More broadly, rapid credit growth and low risk premia fed into higher asset prices,
+with positive spillovers to demand elsewhere in the economy. As the crisis hit, these channels went into
+reverse, leading to falls in wealth and higher uncertainty. Both lowered spending and output and probably
+also increased households’ labour supply.
+
+24
+25
+26
+
+For more detail on this issue, see Haldane, Brennan and Madouros (2010), Burgess (2011) and Akritidis and Francis (2017).
+Inklaar and Wang (2007).
+For example, Burgess (2011) and Oulton (2013).
+16
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+16
+
+Whatever the ultimate trigger of the finance-sector slowdown, its contributions to measured GDP and
+productivity growth are unlikely to pick up to those we saw in its pre-crisis boom. To achieve that would
+require a repeat of the type of unsustainable increases in leverage that we saw in the 2000s.
+The financial-stability reforms we have seen since the crisis were put in place precisely to prevent the
+damaging consequences of those episodes.
+But nor should we expect finance to continue to drag on aggregate productivity. The sector’s post-crisis
+performance has been as poor as its pre-crisis performance was strong. Credit and deposit growth have
+been weak as banks and households have sought to deleverage. But those processes have largely run their
+course. Looking ahead, a neutral projection might assume that the performance of the finance industry
+begins to move in lockstep with aggregate GDP and productivity in the rest of the economy. Relative to the
+past few years, that would amount to a helpful boost to productivity growth. If there were positive spillovers
+to professional services and other complementary industries, there may be even greater grounds for
+optimism.
+
+Let me re-emphasise an important difference between the productivity performance of manufacturing and
+finance, the two biggest contributors to the slowdown. This is where the distinction between revenue
+productivity (defined as nominal value added in the industry deflated by the aggregate GDP deflator) and
+quantity or physical productivity (nominal value added in the sector deflated by a sector-specific price index)
+becomes relevant, as prices are an important part of the return to any activity.
+
+While manufacturing was experiencing growth in quantity or physical productivity before the crisis, trends in
+revenue productivity growth were very different. Because manufacturing prices were falling quickly pre-crisis
+but flat post-crisis, revenue productivity growth was actually stable over the two periods. In finance, sectoral
+prices were rising pre-crisis relative to the aggregate GDP deflator.
+
+Indeed, consistent with the fall in manufacturing prices, the sector had been shrinking as a share of the total
+economy before the crisis. Finance, on the other hand, registered the highest growth rates of revenue
+productivity growth in the UK and it arguably yielded the highest returns in the pre-crisis period. The sector
+grew remarkably fast in the UK before the crisis.
+
+As said, together with manufacturing, finance explains three quarters of the productivity slowdown.
+Professional services and ICT account for the other quarter. The two main subsectors within professional
+services, accounting for 50 percent of its value added are “Legal and accounting services” and “Management
+and management consultancy.” Naturally, the performance of these services is tightly linked to that of
+financial services, given the complementarities in activity. These services saw sharp falls in labour
+productivity during the period. Given the link to finance, their rise and fall likely obey the same causes.
+Let me just say a few words about ICT.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+17
+
+ICT also experienced a productivity boom pre-crisis, although unlike manufacturing and finance this largely
+took place in the late 1990s. Productivity growth in the industry then fell steadily from 6.4% per year in
+1995-2000, to 3.4% in 2000-07, 1.5% during the crisis, and 0.4% from 2009-15.
+
+In terms of measured inputs into production, around 60% of the slowdown relative to the 2000-07 period can
+largely be explained with slower capital deepening, with lower TFP growth more than accounting for the rest.
+ICT capital per hour worked grew at an average rate of 1.4% pre-crisis, but fell by 1.1% per year afterwards.
+This has been amplified by sharp falls in the relative price of ICT goods and services – by around one-fifth
+since 2000 (and by around one-third since the mid-1990s) – more than any other industry.
+Measurement challenges – and specifically adjusting for quality changes is a particular concern in this
+industry, given the proliferation of free services.
+
+27
+
+There is also an interesting debate on the role of
+
+intangibles investment that I will not have time to address, but could probably account for some of the
+missing growth in productivity in the sector.
+
+28
+
+Factor decomposition of the productivity growth slowdown
+
+So far, I have shown that a small number of industries can account for the fall in productivity growth. I have
+also suggested that there are a couple of hypotheses – both real and related to measurement – which may
+help explain the slowdown in measured aggregate productivity. Before turning to the implications, it is useful
+to see how this maps back into the aggregate data. One reason is that some stories may only be apparent
+at the aggregate level – reallocations of labour between different sectors can have effects on aggregate
+productivity, even if sector-level productivity is unchanged. In addition, as I have highlighted so far, there are
+measurement challenges in the collection of GDP data, which may lead one to place more weight on the
+whole-economy factor decomposition than its sectoral split.
+
+Table 1 shows an aggregated version of the industry-level decompositions. I will offer a few words on what I
+take from this, although other interpretations are equally possible.
+
+It is easiest to start with what the decompositions do not show: on these data, we can rule out labour quality
+and labour allocation explanations for the aggregate productivity slowdown. The quality-adjusted labour data
+suggest that human capital variations have contributed more positively to post-crisis productivity growth, so
+controlling for these actually slightly increases the size of the puzzle.
+
+29
+
+Pre-crisis, there was a small drag on
+
+productivity growth from labour reallocating to less productive sectors. But this has not occurred post-crisis,
+so this channel has also lessened the slowdown and slightly increases the size of the puzzle.
+
+27
+
+More broadly, Bean (2016) discusses a range of emerging challenges introduced by the digital economy in measuring GDP. Coyle
+(2017) argues that mismeasurement due to digital activities may be making significant contribution to the productivity growth slowdown.
+She also discusses the role of digital technologies in enabling a shift from market to non-market production.
+28
+See Goodridge, Haskel and Wallis (2013).
+29
+Although post-crisis, the contribution fell in 2014 and 2015.
+18
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+18
+
+Table 1 – Contributions to average annual labour productivity growth, pp
+Factor
+
+Pre-crisis
+(2000-07)
+
+Crisis
+(2007-09)
+
+Post-crisis
+(2009-15)
+
+Post-crisis
+difference
+
+(Per cent
+of total)
+
+TFP
+
+0.6
+
+-3.3
+
+-0.2
+
+-0.8
+
+(54)
+
+Capital services
+
+1.1
+
+1.0
+
+0.1
+
+-1.0
+
+(66)
+
+Labour quality
+
+0.4
+
+0.6
+
+0.5
+
+0.1
+
+(-7)
+
+Labour reallocation
+
+-0.2
+
+0.0
+
+0.0
+
+0.2
+
+(-13)
+
+Other
+
+0.1
+
+0.1
+
+0.1
+
+0.0
+
+(0)
+
+Total
+
+2.0
+
+-1.6
+
+0.4
+
+-1.5
+
+Sources: ONS and Bank calculations.
+
+As with manufacturing and finance in isolation, the results from aggregating together our 18 industry-level
+decompositions pinpoint to TFP and lower capital deepening as the sources of the aggregate productivity
+slowdown. The TFP slowdown is concentrated in finance, manufacturing, and to a lesser extent ICT and
+professional services – entirely consistent with the sectoral story in TFP I discussed earlier. But in
+aggregate, capital deepening is at least as important as TFP, accounting for over half of the overall
+productivity slowdown.
+
+30
+
+The contribution from lower capital intensity is broad-based across industries, which is suggestive of an
+economy-wide story. Only three sectors recorded a stronger contribution from capital deepening in the
+post-crisis period, compared to fifteen where it was lower.
+
+31
+
+This contrasts with the contribution from TFP,
+
+which increased in the post-crisis period in almost as many industries (eight) as it reduced (ten). Thus, the
+weakness in labour productivity is partly the consequence of an industry-wide fall in business investment
+during the crisis, as well as its subdued growth since. Given the productivity gains on offer, why has
+business investment been so weak? It is likely that the behaviour of the labour market, with unemployment
+at a 30-year low, is part of the explanation.
+
+Various factors may have led firms to substitute from capital towards greater labour in their production
+processes, dragging on labour productivity growth (Pessoa and Van Reenen, 2014). This substitution
+channel was sometimes downplayed in early years of the crisis, as the data showed that capital shallowing
+was not an important driver of weak productivity at the time.
+
+32
+
+But as an investment recovery has failed to
+
+arrive, it has become increasingly important.
+
+30
+
+Grouping the crisis and post-crisis periods together and comparing 2000-07 to 2007-15, lower capital deepening accounts for 39% of
+the puzzle (TFP accounts for 78%). Timing is the main reason for the greater role of capital and smaller role of TFP compared to
+Goodridge, Haskel and Wallis (2016), who compare 2000-07 to 2007-11.
+31
+Two of those three industries (agriculture and utilities) are very small as a share of nominal value added. The other is public
+administration and defence.
+32
+Broadbent (2012), Goodridge, Haskel and Wallis (2016), Oulton (2016a).
+19
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+19
+
+Pessoa and van Reenen stressed the role of the UK’s flexible labour market in facilitating a fall in real wages,
+as well as an increase in the cost of capital following the crisis.
+
+33
+
+But this is probably not the whole story.
+
+Higher levels of uncertainty post-crisis may also have led firms to opt for labour over capital – employment
+decisions that can now be more easily reversed – rather than invest in new capital. Higher uncertainty and
+lower income expectations may also have increased households’ desired labour supply for precautionary
+motives, contributing to lower real wages.
+
+34
+
+Arguably, uncertainty hit harder in the UK as finance represented
+
+a much bigger share of the economy.
+International comparisons show that these trends in capital accumulation are one cause of the UK’s relative
+productivity slowdown (Chart 18). Globally, there has been an increase in capital deepening, though this is
+partly an emerging markets story. Greater capital also explains a significant part of the stronger post-crisis
+productivity performance in the euro area, however. By contrast, in the US, the post-crisis slowdown in
+investment has weighed on productivity growth similarly to the UK. Flexible labour markets are one
+structural feature shared by both economies (but less so in the euro area).
+
+Chart 18 – Contributions to PPP-weighted average annual labour productivity growth
+TFP
+Capital
+Labour productivity
+
+Percentage points
+
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+
+00-0707-0909-16
+World
+
+00-0707-0909-16
+
+00-0707-0909-16
+
+EMEs
+
+00-0707-0909-16
+
+EA
+
+00-0707-0909-16
+
+US
+
+UK
+
+Sources: Eurostat, Feenstra, Inklaar and Timmer (2015), IMF WEO, US Bureau of Economic Analysis and Bank calculations.
+Notes: Decompositions use capital services data for the UK, but capital stocks for other countries.
+
+In the more recent data, however, investment has recovered in advanced economies, including the US, but
+not in the UK. One of the reasons why the UK might be lagging behind is the added uncertainty over the
+future trading relationship with the European Union. In the short term, this is likely to continue to weigh on
+business investment and capital accumulation.
+
+33
+34
+
+Oulton (2017) argues that in the UK context of high migration, this channel is stronger.
+Blundell, Crawford and Jin (2014) and Carney (2014) make similar arguments about the role of labour supply.
+20
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+20
+
+Looking further ahead, there are more grounds for optimism. As some of the uncertainty is resolved, I
+expect the drag on investment to wane. Moreover, the cost of capital has fallen in recent years as the health
+of the banking sector has improved. And if the current tightness in the labour market also translates into a
+real-wage pickup, as we forecast in November, then the capital-labour substitution process may start to
+reverse.
+
+Taking stock
+
+
+I have shown that a small number of sectors can account for the slowing in productivity growth since
+2009. Those were the sectors driving aggregate productivity growth before the crisis and the ones
+where growth fell with the crisis.
+
+
+
+For the rest of the economy, low productivity growth after the crisis is fairly similar to their low growth
+before the crisis. So, in some sense, the true puzzle is why was productivity in the rest of the economy
+growing so slowly before the crisis.
+
+
+
+I have also shown that there is an important difference in the revenue productivity performance between
+manufacturing and finance, the two biggest contributors to the slow down. Revenue productivity in
+finance grew remarkably fast in the UK before the crisis, while in manufacturing revenue productivity
+growth was modest. In other words, the “returns” to financial sector activities were much higher than in
+manufacturing - and indeed much higher than in any other sector in the economy.
+
+
+
+It is possible that the growth of financial activities somehow crowded out the growth in the rest of the
+economy in a competition for talent and resources.
+
+35
+
+In recent years, significant effort has gone into
+
+reducing the incidence of bubbles and imbalances in the economy and in the banking sector in
+particular. The economy is, in this regard, on a stronger position now. While the sector will probably not
+come back to the high levels of measured productivity growth pre-crisis, as the process of deleveraging
+runs its course, the negative contribution to aggregate productivity growth in the post crisis period will
+also, in all likelihood, come to an end.
+
+
+What are the prospects for aggregate productivity going forward? The UK productivity level is below that
+of other advanced economies. The silver lining is that there is scope to catch up with the frontier. How?
+By adopting technologies and processes that enhance productivity and are already tested and in place in
+
+35
+
+This relates to a hypothesis put forward by Murphy, Shleifer and Vishny in 1991. They argued that when rent-seeking rewards talent
+more than entrepreneurship or innovation, aggregate productivity suffers. They conjectured back then, and I quote literally, that
+“[t]he flow of some of the most talented people in the United States into law and financial services might be one of the sources of our
+low productivity growth”. If indeed most of our talent is applied to finance and law, rather than, say, engineering, health or potentially
+new areas of knowledge in which there is more scope for sustainable growth, aggregate productivity will inevitably suffer. But this should
+not make us rush to extreme inferences. It does not mean that finance is not good for growth. On the contrary, finance is critical to
+channel resources from less productive to more productive activities. Finance is also much needed to put talent to good use. And for
+centuries the UK has shown a comparative advantage in financial services vis a vis other countries. Finance has been an important
+export and source of national income. But it is also true that there were excesses before the crisis; the amount of systemic risk that built
+in the economy was unhealthy; and the returns seemed disproportionate once the sector’s valued added and returns over the longer
+period are taken into account. What the rapid rise and fall in the financial sector has highlighted is the need of a different approach to
+assessing systemic risk and to containing risky activities that are not conducive to sustainable growth.
+21
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+21
+
+other countries. I am optimistic about the long term. Firms in the UK have all the fundamental factors in
+their favour to be at the technological frontier: an advantageous institutional and legal framework, a
+favourable geographic location, top-rate research and innovation centres and the human capital to
+harness resources to foster growth.
+
+
+The big question is the timing for that catch up. The global economy and Europe in particular are
+undergoing a big investment boom, yet the UK is not part of it. Why is the UK the odd one out? The likely
+culprit, as I mentioned earlier, is the uncertainty regarding future EU trading relations, which many have
+argued, and I agree, is keeping the levels of domestic and foreign investment in the country relatively low
+in relation to what one would expect at this stage of the global cycle. We will have to live with some of
+that uncertainty for some time. And, understandably, firms will postpone some of the investments and
+structural changes needed to increase productivity.
+
+
+
+Measured UK productivity growth was strikingly weak at the start of 2017, even by recent standards. But
+the quarterly growth rate since recovered somewhat in Q3, picking up to 0.9%. And if the recent slowing
+in employment growth persists, then we may see some further cyclical recovery in productivity. In the
+medium-term, I am optimistic that productivity growth will recover to rates above its weak, post-crisis
+average. It is perhaps a sign of how poor our productivity performance has been, however, that even as
+an optimist, I think growth rates close to those we saw pre-crisis are unlikely.
+
+Let me now turn to my views on policy.
+
+4. Monetary policy implications
+
+Since I joined the MPC, we have faced an outlook of above-target inflation accompanied by modest domestic
+output growth and of a tight labour market coupled with weak wage growth. Inflation has been above target,
+but this can be traced back to the sharp fall in sterling following the referendum, which I have expected to
+dissipate as pass-through nears completion.
+
+When I joined, measures of domestically generated inflation, by contrast, had been at or below
+target-consistent levels. In line with this, my reading was that activity was still somewhat below potential,
+though there were signs in the labour market that the gap had been narrowing.
+
+With a small but negative output gap, weak wage growth and only temporarily high inflation, I judged the
+policy stance prevailing when I joined was appropriate, but that an increase in Bank Rate might be needed if
+the output gap continued to narrow. As a result, I voted for no change in Bank Rate and the stock of asset
+purchases in August and September.
+
+22
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+22
+
+As labour market slack reduced – evidenced by surveys reporting increasing recruitment difficulties, robust
+employment growth and record-low unemployment – by November I felt that removing a small amount of
+stimulus was justified.
+
+In December, with unit labour cost growth still subdued and inflation likely to be around its peak, my view
+was that there was ample time for us to continue to monitor the transmission of the November policy change
+before voting for another change in interest rates.
+
+Going forward, if the economy evolves as in our November forecast, with steadily increasing domestic
+inflationary pressures, I expect perhaps a couple more increases in Bank Rate will be required over the next
+three years. But a different outturn for productivity growth would affect that policy rate path. Although I
+concurred with our November IR projections for potential growth, the analysis I have discussed today leads
+me to think that in the medium-term, the risks to productivity may be skewed to the upside. Whether a more
+or less positive scenario for productivity materialises, as always, the question from an MPC perspective will
+be how quickly demand responds. A key part of my job will be to gauge the size of any emergent gaps
+between demand and output potential.
+
+23
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+23
+
+References
+Akritidis, L. and Francis, P. (2017), “Financial intermediation services indirectly measured (FISIM) in the
+UK revisited”, Office for National Statistics article.
+Arrowsmith, M., Griffiths, M., Franklin, J., Wohlmann, E., Young, G. and Gregory, D. (2013), "SME
+forbearance and its implications for monetary and financial stability," Bank of England Quarterly Bulletin,
+53(4): 296-303.
+Autor, D. H., Dorn, D. and Hanson, G. H. (2013). "The China Syndrome: Local Labor Market Effects of
+Import Competition in the United States," American Economic Review, 103(6): 2121-68.
+Basu, S., Fernald, J. G., Oulton, N. and Srinivasan, S. (2003), "The Case of the Missing Productivity
+Growth, or Does Information Technology Explain Why Productivity Accelerated in the United States but Not
+in the United Kingdom?" NBER Macroeconomics Annual, 18: 9-63.
+Bean, C. (2016), “Independent Review of UK Economic Statistics,” available at
+https://www.gov.uk/government/publications/independent-review-of-uk-economic-statistics-final-report
+Bloom, N., Draca, M. and Van Reenen, J. (2016), “Trade Induced Technical Change? The Impact of
+Chinese Imports on Innovation, IT and Productivity,” The Review of Economic Studies, 83(1): 87-117.
+Blundell, R., Crawford, C. and Jin, W. (2014), “What Can Wages and Employment Tell Us about the UK's
+Productivity Puzzle?” The Economic Journal, 124: 377–407.
+Broadbent, B. (2012), “Productivity and the allocation of resources”, speech given at Durham Business
+School.
+Burgess, S. (2011), “Measuring financial sector output and its contribution to UK GDP,” Bank of England
+Quarterly Bulletin 51(3): 234-246.
+Burgess, S., Fernandez-Corugedo, E., Groth, C., Harrison, R., Monti, F., Theodoridis, K. and Waldron,
+M. (2013), "The Bank of England's forecasting platform: COMPASS, MAPS, EASE and the suite of models,"
+Bank of England working papers 471.
+Carney, M. (2014), speech given at the 146th Annual Trades Union Congress, Liverpool.
+Carney, M. (2017), “Lambda,” speech given at the London School of Economics.
+Caselli, F. (2008), “Growth accounting” in The new Palgrave dictionary of economics (edited by S.N. Durlauf
+and L.E Blume). New York: Palgrave Macmillan.
+Cette, G., Fernald, J. and Mojon, B. (2016), “The pre-Great Recession slowdown in productivity,” European
+Economic Review, 88(C): 3-20.
+Coyle, D. (2017), “Do-it-Yourself Digital: The Production Boundary and the Productivity Puzzle,” ESCoE
+Discussion Paper 2017-01.
+Dale, S. (2011), “Productivity and monetary policy,” speech given at the South Tyneside Manufacturing
+Forum.
+Diewert, W.E. (2015), “Decompositions of Productivity Growth into Sectoral Effects”, Journal of Productivity
+Analysis, 43: 367-387.
+Feenstra, R. C., Inklaar, R. and Timmer, M. P. (2015), "The Next Generation of the Penn World Table,"
+American Economic Review, 105(10): 3150-82, available for download at www.ggdc.net/pwt.
+Goodridge, P., Haskel, J. and Wallis, G. (2013), “Can intangible investment explain the UK
+productivity puzzle?” National Institute Economic Review, 224(1): 48-58.
+24
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+24
+
+Goodridge, P., Haskel, J. and Wallis, G. (2016), “Accounting for the UK Productivity Puzzle: A
+Decomposition and Predictions," Economica.
+Gordon, R. J. (2016), The Rise and Fall of American Growth: the US Standard of Living since the Civil War,
+Princeton, NJ, and Oxford: Princeton University Press.
+Haldane, A. (2017), “Productivity puzzles,” speech given at the London School of Economics.
+Haldane, A., Brennan, S. and Madouros, V. (2010), “The Contribution to the Financial Sector, Miracle or
+Mirage?” in The future of finance: the LSE report, LSE.
+Houseman, S. N. and Mandel, M. eds. (2015). Measuring Globalization: Better Trade Statistics for Better
+Policy, Kalamazoo, MI: W.E. Upjohn Institute for Employment Research
+Inklaar, R., and Wang, J. C. (2007), “Not Your Grandfather’s Bank Any More? Consistent Measurement of
+Non-Traditional Bank Output,” mimeo.
+Jäger, K. (2017), (The Conference Board), “EU KLEMS Growth and Productivity Accounts 2017 release Description of Methodology and General Notes” September 2017.
+Jorgenson, D.W., Gollop, F.M. and Fraumeni, B.M. (1987), Productivity and U.S. Economic Growth,
+Harvard University Press, Cambridge, MA
+Kehoe, T. J. and Ruhl, K. J. (2008), "Are Shocks to the Terms of Trade Shocks to Productivity?" Review of
+Economic Dynamics, 11(4): 804-819.
+McCafferty, I. (2014), “The UK productivity puzzle – a sectoral perspective,” speech given at Market News,
+London.
+Murphy, K., Shleifer, A. and Vishny, R. (1991), "The Allocation of Talent: Implications for Growth," The
+Quarterly Journal of Economics, 106(2): 503-530.
+Oulton, N. (2013), "Has the Growth of Real GDP in the UK Been Overstated Because of Mismeasurement
+of Banking Output?" National Institute Economic Review, 224(1): 59-65.
+Oulton, N. (2016a), “Prospects for UK growth in the aftermath of the financial crisis” in The UK Economy in
+the Long Expansion and its Aftermath (edited by J. Chadha,A. Chrystal, J. Pearlman, P. Smith, and
+S. Wright), Cambridge: CambridgeUniversity Press.
+Oulton, N. (2016b), “The mystery of TFP,” International Productivity Monitor, No. 31, Fall: 68-87.
+Oulton, N. (2017), “The UK Productivity Puzzle: Does Arthur Lewis Hold the Key?” mimeo.
+Oulton, N. and Wallis, G. (2016), “Capital stocks and capital services: integrated and
+consistent estimates for the United Kingdom, 1950–2013,” Economic Modelling, 54: 117-125.
+Pessoa, J. P. and Van Reenen, J. (2014), “The UK Productivity and Jobs Puzzle: Does the Answer Lie in
+Wage Flexibility?” The Economic Journal 124: 433–452.
+Thomas, R. and Dimsdale, N. (2017), "A Millennium of UK Data," Bank of England OBRA dataset, available
+at http://www.bankofengland.co.uk/research/Pages/onebank/threecenturies.asp
+Weale, M. (2014), “The UK productivity puzzle: an international perspective,” speech given at the Mile End
+Group, Queen Mary, University of London.
+
+25
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+25
+
+Appendix A1 – Growth accounting decomposition by industry
+
+0.0
+-0.1
+0.5
+0.0
+0.0
+0.0
+0.4
+0.1
+0.0
+0.3
+0.4
+
+-0.1
+-0.2
+-0.1
+0.0
+0.0
+-0.3
+-0.4
+-0.3
+0.0
+0.1
+0.2
+
+0.1
+-0.1
+0.1
+0.0
+0.0
+0.2
+0.3
+0.1
+0.0
+0.1
+-0.3
+
+0.0
+0.0
+-0.5
+-0.1
+0.0
+0.1
+-0.2
+0.0
+0.0
+-0.2
+-0.6
+
+(-2)
+(1)
+(31)
+(4)
+(1)
+(-10)
+(12)
+(3)
+(3)
+(13)
+(43)
+
+0.0
+-0.2
+-0.1
+0.0
+0.0
+-0.1
+-0.1
+0.0
+0.0
+-0.1
+-0.1
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+of which, change in labour quality
+contribution, pp
+
+0.0
+0.0
+-0.3
+-0.1
+0.0
+0.2
+-0.1
+0.0
+0.0
+-0.1
+-0.5
+
+of which, change in TFP
+contribution, pp
+
+0.0
+0.2
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+-0.1
+
+of which labour
+reallocation/other, pp
+
+1
+3
+12
+1
+1
+8
+13
+5
+3
+7
+9
+
+Share of Sector in nominal GVA,
+2007, %
+
+3.2
+-6.2
+-3.5
+-4.9
+-2.1
+1.8
+-1.1
+-0.7
+-1.3
+-3.0
+-7.1
+
+Actual change in quantity
+productivity growth, pp
+
+6.2
+-13.5
+1.3
+-0.8
+-6.1
+0.6
+-1.0
+2.6
+2.1
+-1.0
+-11.7
+
+Actual change in revenue
+productivity growth, pp
+
+-1.2
+0.0
+0.6
+-3.3
+-3.1
+-0.1
+0.1
+
+of which, change in capital
+deepening contribution, pp
+
+-2.7
+2.4
+0.3
+0.7
+-0.4
+-1.0
+1.7
+
+(14)
+(-8)
+(0)
+(-2)
+(1)
+(1)
+(-3)
+(100)
+(103)
+(-3)
+
+(% of total)
+
+8
+5
+6
+7
+8
+2
+2
+100
+36
+64
+
+-0.2
+0.1
+0.0
+0.0
+0.0
+0.0
+0.0
+-1.5
+-1.5
+0.0
+
+Change in contribution, pp
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.2
+-0.1
+0.3
+
+0.1
+0.2
+0.0
+-0.1
+0.0
+0.0
+0.0
+0.4
+-0.1
+0.5
+
+Post-crisis (2009-15) average, pp
+
+-0.1
+0.2
+0.0
+0.0
+0.0
+0.0
+0.1
+-0.8
+-1.1
+0.2
+
+-0.1
+-0.1
+0.1
+-0.2
+-0.1
+0.0
+0.0
+-1.6
+0.0
+-1.7
+
+Crisis (2007-09) average, pp
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.1
+0.0
+0.1
+
+0.3
+0.0
+0.0
+-0.1
+0.1
+0.0
+0.0
+2.0
+1.5
+0.5
+
+Pre-crisis (2000-07) average, pp
+
+-0.1
+-0.1
+0.0
+0.0
+0.0
+-0.1
+0.0
+-1.0
+-0.4
+-0.6
+
+A: Agriculture, forestry and fishing
+B: Mining and quarrying
+C: Manufacturing
+D: Electricity, gas, steam and air conditioning
+E: Water supply, sewerage and waste
+F: Construction
+G: Wholesale and retail trade; repair of vehicles
+H: Transportation and storage
+I: Accomodation and food service
+J: Information and communication (ICT)
+K: Financial and insurance
+L: Real estate (excluded)
+M: Professional, scientific and technical
+N: Administrative and support service
+O: Public administration and defence
+P: Education
+Q: Human health and social work
+R: Arts, entertainment and recreation
+S: Other service activities
+Total
+Manufacturing, finance, prof. and ICT only
+Other sectors
+
+Sector
+
+26
+
+26
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+Appendix A2 – Methodology
+
+The decompositions of aggregate productivity growth are based on a new method developed by Bank of
+England staff. The decomposition method is very closely related to the approach in Diewert (2015), which
+we further augment by introducing the usual growth accounting terms following the framework originally
+proposed by Jorgenson, Gollop and Fraumeni (1987) and used recently for the UK by Goodridge, Haskel
+and Wallis (2016). The latter two references use an industry-level growth accounting framework that is
+based on aggregation using Törnqvist indices. The staff method, on the other hand, allows for the ONS’s
+aggregation method using annually-chained Laspeyres indices. It also allows for the attribution of labour
+reallocation effects to particular industries.
+
+We start with the definition of aggregate productivity as the weighted sum of productivity over sectors:
+𝑄𝑡 = ∑ 𝜔𝑖𝑡−1 ℎ𝑖𝑡 𝑄𝑖𝑡
+𝑖
+
+where 𝑖 and 𝑡 index sectors and years, 𝑄 is labour productivity (value-added over hours), 𝜔𝑖 is a sector’s
+𝐿𝑖
+
+‘relative price’ (sector over aggregate value-added implicit deflator) and ℎ𝑖 = ∑
+
+𝑖 𝐿𝑖
+
+is the sector’s labour share.
+
+Including both relative price and labour share weights ensures the aggregation matches the ONS method.
+
+Growth in aggregate productivity is therefore
+Δ𝑄𝑡
+Δ(∑i 𝜔𝑖𝑡−1 ℎ𝑖𝑡 𝑄𝑖𝑡 )
+=
+𝑄𝑡−1
+𝑄𝑡−1
+and the right hand side can be expanded into the four effects coming directly from each sector – changes in
+relative prices, ‘between’ type effects of changes in labour share, ‘within’ effects of changes in sector
+productivity and a residual second derivative term.
+Δ𝑄𝑡
+𝑄𝑖𝑡−1
+𝑄𝑖𝑡−1
+Δ𝑄𝑖𝑡
+𝑄𝑖𝑡−1
+= ∑ Δ𝜔𝑖𝑡−1 ℎ𝑖𝑡−1
++ ∑ 𝜔𝑖𝑡−2 Δℎ𝑖𝑡
++ ∑ 𝜔𝑖𝑡−1 ℎ𝑖𝑡
++ ∑ Δ 𝜔𝑖𝑡−1 Δℎ𝑖𝑡
+𝑄𝑡−1
+𝑄𝑡−1
+𝑄𝑡−1
+𝑄𝑡−1
+𝑄𝑡−1
+𝑖
+
+𝑖
+
+𝑖
+
+𝑖
+
+We make adjustments to these terms before arriving at our final decomposition:
+-
+
+We exclude relative price effects: these always sum to zero.
+∑ Δ𝜔𝑖𝑡−1 ℎ𝑖𝑡−1
+𝑖
+
+-
+
+𝑄𝑖𝑡−1
+=0
+𝑄𝑡−1
+
+We adjust the between effect to account for indirect effects of labour reallocations by subtracting
+the unweighted change in labour share from each sector (equal to zero in sum). This apportions
+between effects across sectors to take account of how ‘normal’ they are: a sector’s labour
+reallocation only drags on productivity if the product of its implicit deflator and its productivity is
+above (below) that of the aggregate economy and it loses (gains) labour-share.
+∑ 𝜔𝑖𝑡−2 Δℎ𝑖𝑡
+𝑖
+
+-
+
+𝑄𝑖𝑡−1
+𝑄𝑖𝑡−1
+= ∑ (𝜔𝑖𝑡−2
+− 1) Δℎ𝑖𝑡
+𝑄𝑡−1
+𝑄𝑡−1
+𝑖
+
+We expand the within effect to account for production function (or growth accounting) terms. First
+we adjust it so that industry level growth rates feature in the term and by approximating industry
+growth with its log-difference.
+27
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+27
+
+∑ 𝜔𝑖𝑡−1 ℎ𝑖𝑡
+𝑖
+
+Δ𝑄𝑖𝑡
+𝑄𝑖𝑡−1 Δ𝑄𝑖𝑡
+𝑄𝑖𝑡−1
+= ∑ 𝜔𝑖𝑡−1 ℎ𝑖𝑡
+≈ ∑ 𝜔𝑖𝑡−1 ℎ𝑖𝑡
+Δ ln 𝑄𝑖𝑡
+𝑄𝑡−1
+𝑄𝑡−1 𝑄𝑖𝑡−1
+𝑄𝑡−1
+𝑖
+
+𝑖
+
+Second, we substitute log-productivity at the industry level with the log of a production function in
+TFP growth, capital depth and labour quality change terms
+∑ 𝜔𝑖𝑡−1 ℎ𝑖𝑡
+𝑖
+
+𝑄𝑖𝑡−1
+𝑄𝑖𝑡−1
+𝐾𝑖𝑡
+𝐿𝑖𝑡
+Δ ln 𝑄𝑖𝑡 = ∑ 𝜔𝑖𝑡−1 ℎ𝑖𝑡
+[Δ ln 𝑇𝐹𝑃𝑖𝑡 + 𝛼𝐾 Δ ln ( ) + 𝛼𝐿 Δ ln ( )]
+𝑄𝑡−1
+𝑄𝑡−1
+𝐻𝑖𝑡
+𝐻𝑖𝑡
+𝑖
+
+𝐿
+
+Where factor shares (𝛼𝐾 and 𝛼𝐿 ), labour quality ( ) and capital services (𝐾) data are all published or
+𝐻
+
+constructed from ONS data (see Goodridge, Haskel and Wallis, 2016 for detail) and TFP is found as
+a residual.
+-
+
+The second derivative tends to be very small.
+
+-
+
+The final decomposition also includes a small log-approximation error term.
+
+Taken together, the full decomposition we employ can account for changes in aggregate productivity in terms
+of contributions from each sector that account for both direct and indirect influences.
+
+Capital services data
+
+The decompositions use capital services data from 2000 to 2015, constructed by the Bank of England
+following the methodology in Oulton and Wallis (2016). They differ from the capital stock, which is the value
+of all fixed and intangible assets (e.g., machinery, buildings and software) used for production (i.e., excluding
+dwellings). It measures the stock of wealth. Capital services are intended to measure the flow of services
+from the existing capital stocks into production.
+
+Intuitively, capital stocks provide services to production just as workers provide hours of service. For this
+reason, they are more appropriate to include in production functions, as it is the services provided by capital
+that do the work of producing.
+
+Stemming from this distinction, the two measures are aggregated in very different ways. Although the
+aggregation of both capital stocks and services is based on the growth rates of net stocks of individual
+assets, these are weighted differently: by total value of assets in the former, and by total rental income in the
+latter.
+
+As a result, the largest assets by value have the greatest influence on the aggregate capital stock. By
+contrast, the largest assets by rental income have the greatest influence on aggregate capital services.
+
+28
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+28
+
+

@@ -1,0 +1,7204 @@
+Entrepreneurship in the UK
+Speech given by
+David Blanchflower, Bruce V. Rauner Professor of Economics Dartmouth College,
+University of Stirling, NBER, IZA and Member of the Monetary Policy Committee,
+Bank of England
+
+At the Max Planck Summer Institute on Entrepreneurship Research, Berlin
+9 July 2007
+
+Chris Shadforth, External Monetary Policy Committee Unit, Bank of England, co-authored this speech.
+We thank Simon Parker and Jumana Saleheen for helpful comments, and Philip Bunn and Nicola
+Dufty for useful background research
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Abstract
+
+This paper examines the causes and consequences of changes in the incidence
+of entrepreneurship in the UK. Self-employment as a proportion of total
+employment is high by international standards in the United Kingdom, but the
+share has fluctuated over time. We examine the time series movements in
+self-employment, which are principally driven by financial liberalisation and
+changes in taxation rules, especially as they relate to the construction sector
+which is the dominant sector. We document that the median earnings of the
+self-employed is less than for employees. We show that in comparison with
+employees the self-employed are more likely to be male; immigrants; work in
+construction or financial activities; hold an apprenticeship; work in London;
+work long hours; have high levels of job satisfaction and happiness.
+Consistent with the existence of capital constraints on potential and actual
+entrepreneurs, the estimates imply that the probability of self-employment
+depends positively upon whether the individual ever received an inheritance
+or gift. Evidence is also found that rising house prices have increased the selfemployment rate. There appears to be no evidence that changes in selfemployment are correlated with changes in real GDP, nor national happiness.
+
+This paper examines the causes and consequences of changes in the incidence of
+entrepreneurship in the United Kingdom. But an initial question must be: how many entrepreneurs
+are there? The answer is not straightforward. There are several ways of counting them. The
+simplest is to count the number of self-employed workers, but even that is difficult. We could
+count those that self report their employment status, such as in the Labour Force Survey (LFS).1
+Or we could count the number of individuals who declare self-employment income for taxation
+purposes. It would be useful to do both and see if the numbers equate. They do not. In fact, the
+number of people who declare taxable income from self-employment in the United Kingdom is
+roughly 50% greater than the number that say they are self-employed. Her Majesty’s Revenue and
+Customs (HMRC) records just over 4.5 million individuals declaring some income from selfemployment in 2003/4, but the LFS records just over 3 million self-employed workers. This is not
+that surprising.
+It is clear that many individuals have more than one job, so the number of individuals
+reporting self-employed earnings for taxation purposes should be expected to be higher than the
+number that say they are self-employed. It is also likely that in some instances individuals will
+struggle to identify whether they are principally an employee or self-employed. They could base
+their decision on hours worked or income earned.
+
+Or it could reflect the timing of survey
+
+responses. A classic example is that of a free-lancing actor. Fifty-one weeks of the year they work
+for a wage waiting tables in a restaurant. But by the survey reference week they have quit their job
+
+1
+
+The definition of self-employment in the Labour Force Survey is left entirely to the respondent, and with no guidance
+or prompt. This could result in a lack of coherence with other measures of the self-employed, such as the Inland
+Revenue’s Survey of Personal Incomes (SPI) or with measures of jobs based largely on employer surveys, such as
+workforce jobs. There is currently a consistency check to the LFS, carried out by the ONS, which recodes some
+respondents’ employment status to employee if the occupation they claim to do is inconsistent with self-employment
+(for example, self-employed policeman).
+
+as a waiter and they star in a film for which they are paid one hundred times the wages they earned
+as a waiter over the previous fifty one weeks. Are they self-employed or employed?
+In this paper we focus primarily on the characteristics of the self-employed and how selfemployment has changed over time, principally in the United Kingdom, using the LFS.
+Unfortunately these data do not record self-employed earnings. Consequently, we also make use of
+the HMRC data as well as information from various Family Resources Surveys to compare
+earnings of the self-employed with the wages and salaries earned by employees.
+The most entrepreneurial individuals in the UK, such as Lakshmi Mittal, Sir Richard
+Branson and Sir Alan Sugar, are generally not included in our surveys. A very small number of the
+most entrepreneurial individuals are very important both in terms of wealth and job creation. What
+distinguishes them from everyone else? As far as we can, with the limited data available, we
+examine their characteristics too.
+In what follows we first consider time series trends in self-employment in the UK and
+elsewhere. Second, we compare the earnings of the self-employed with those of wage and salary
+workers. Third, we examine the characteristics of the self-employed. Fourth we perform a series
+of econometric analyses of the determinants of self-employment and draw comparisons with the
+United States and the EU. Fifth we consider the importance of liquidity constraints and the role of
+inheritances and gifts and rising house prices in overcoming these credit constraints. Sixth, we
+examine macro-economic consequences and correlates of self-employment and draw a series of
+conclusions. The aim of this paper is thus to identify the characteristics of the self-employed and
+try to explain how and why their numbers have changed over time.
+
+2
+
+1. Time series trends
+Self-employment as a proportion of total UK employment is especially high in comparison
+with other OECD countries (Blanchflower, 2000, 2005).2 Table 1 reports data on the change in the
+proportion of all workers who were self-employed in the decades since the 1960s for the OECD
+countries (Australia, Austria, Belgium, Canada, Czech Republic, Denmark, Finland, France,
+Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Korea, Luxembourg, Mexico, the
+Netherlands, New Zealand, Norway, Poland, Portugal, Slovakia, Spain, Sweden, Switzerland,
+Turkey, UK, USA). Data are taken from the OECD Labour Force Statistics. In the 1960s, the
+highest proportions were found in Italy (36.4%), Korea (35.0%), Poland (34.5%), Ireland (30.1%)
+and Austria (28.3%). The proportion of self-employed workers has subsequently fallen sharply in
+all these countries, and most others. The only countries to have recorded increases in their selfemployment rates between the 1960s and 2000s (for which data are available) have been the United
+Kingdom and New Zealand.3 The increase in the United Kingdom was +5.2pp while the increase
+in New Zealand was 4.7pp.
+A similar result holds in Table 2 for non-agricultural self-employment in these two
+countries. However, there are now several additional countries for which the trend has been
+upwards over the past 4 decades (or 3 where data for the 1960s is not available): Australia, Canada,
+Finland, Germany, Iceland, Ireland, Mexico, the Netherlands, Poland, Portugal, and Sweden.
+Within these other countries it would appear that declines in agricultural self-employment have
+shrouded an upward trend in self-employment across other sectors.
+
+Moreover, the self-
+
+employment rate falls by less (or increases in the case of those countries previously mentioned)
+
+2
+
+Alternatively, the total workforce can be used as the denominator, as in Weir (2003) or Taylor (2004). Movements in
+the two series appear very similar over time.
+3
+
+The Norwegian rate did increase by 0.7pp, but has actually been falling since the 1970s.
+
+3
+
+across 24 of the 25 countries for which data are available when only those employed in nonagricultural activities are considered; the exception being Mexico. The difference is most apparent
+in Poland, where the average non-agricultural self-employment rate was +9.0pp higher in the 2000s
+than the average of the 1960s, compared with a -12.6pp fall when all workers are considered. The
+change in the UK self-employment rate excluding agricultural workers is little different from that
+including those workers. But the change in the New Zealand rate is nearly twice as large (+7.7pp
+versus +4.7pp) when only those employed in non-agricultural activities are considered.
+Table 3 sets out a time series of self-employment rates for the United Kingdom, based on
+data published in various issues of the Employment Gazette between 1962 and 1991 (collected by
+the Department of Employment and Productivity (1962-1970); and the Department of Employment
+(1971-1991)), and subsequently data from the UK Labour Force Survey (LFS). In 2006, out of
+28,959,000 workers, 3,753,000 or 13.0% of the labour force were classified as self-employed. This
+figure has increased markedly in recent years, up from 11.9% in 2001. Between 2001 and 2006,
+the number of employees increased by 3.5%, while the number of self-employed workers increased
+by 13.7%. The self-employment rate has been higher than this, however. The rate peaked at just
+over 14% in 1991, and remained around 13.5% during much of the early 1990s, before gradually
+declining from 1997. But prior to the 1990s, the rate had been much lower. Using OECD data, the
+average self-employment rate in the United Kingdom during the 1960s was 7.1%; the 1970s, 8.0%;
+the 1980s, 10.8%; the 1990s, 13.3%; and the 2000s, 12.3%. These averages clearly indicate that
+the period of most rapid growth in UK self-employment was during the 1980s. As a validation of
+the changes in self-employment it is appropriate to look at VAT registrations published by the
+Department of Trade and Industry (DTI).4 VAT registrations and deregistrations, according to the
+
+4
+
+The VAT data were also examined by Black, De Meza and Jeffreys (1996),
+
+4
+
+DTI, are “the best official guide to the pattern of business start-ups and closures”.5 The VAT
+figures do not, however, give the complete picture of start-up and closure activity in the economy.
+Some VAT exempt sectors and businesses operating below the threshold for VAT registration are
+not covered. At the start of 2005, the VAT threshold was an annual turnover of £58,000, and only
+1.8 million of the estimated 4.3 million enterprises in the UK were VAT-registered.
+
+However,
+
+some businesses do voluntarily register for VAT even though their turnover is below the threshold.
+Data for 2005 shows that around a fifth of all registrations had turnover below the VAT threshold.
+In 2005 there were 177,900 registrations and 152,900 de-registrations, resulting in an
+increase of 25,000 (1.4%) in the stock of VAT registered enterprises. As can be seen below there
+have been increases in the stock of VAT registrations in every year from 1995.
+
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+
+Registrations
+160,550
+154,135
+168,280
+182,550
+184,575
+184,865
+193,755
+211,795
+245,800
+258,840
+239,105
+204,565
+187,000
+
+DeregisNet
+trations change
+145,270 15,280
+122,590 31,545
+148,315 19,965
+148,080 34,470
+155,085 29,490
+166,760 18,105
+169,070 24,685
+172,580 39,215
+179,650 66,150
+181,005 77,835
+191,840 47,265
+209,845
+-5,280
+226,000 -39,000
+
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+
+Registrations
+191,000
+166,870
+161,750
+166,050
+182,680
+182,205
+176,915
+178,905
+170,015
+176,920
+191,220
+183,780
+177,925
+
+Source: DTI http://www.dtistats.net/smes/vat/
+
+5
+
+“Business start-ups and closures: VAT registrations and de-registrations in 2005”, DTI,
+http://www.dtistats.net/smes/vat/VATStatsPressReleaseOct2006.pdf.
+
+5
+
+DeregisNet
+trations change
+213,000 -22,000
+173,610
+-6,740
+161,305
+445
+150,935 15,115
+145,950 36,730
+145,750 36,455
+150,310 26,605
+155,755 23,150
+155,890 14,125
+162,405 14,515
+165,530 25,690
+163,400 20,380
+152,945 24,980
+
+Chart 1 shows that these movements in VAT registrations loosely track the changes in selfemployment shown in Table 3 – the correlation is +.60.6 On both measures there were marked
+declines in the period 1991-1994. However, the two series move in opposite directions between
+1995 and 2002. The decline in the self-employment rate is primarily related to changes in the rules
+of the Construction Industry Scheme (CIS), which is the Inland Revenue’s taxation system for the
+construction industry. Freedman (2001) noted that between 1995 and 1997, 200,000 construction
+workers reclassified themselves as employees as a result of changes to the CIS. We discuss the
+impact of changes in the CIS in more detail below.
+It is also apparent that there have been significant changes in the size distribution of firms
+registered for VAT. The table below shows that the number of firms increased by nearly 620,000
+between 2000 and 2005, of which just over 570,000 (92.1%) were firms with no employees.
+All enterprises
+
+2005
+4,342,045
+
+2000
+3,722,610
+
+With no employees
+All employers
+1-4
+5-9
+10-19
+20-49
+50-99
+100-199
+200-249
+250-499
+500 or more
+
+3,162,600
+1,179,445
+778,700
+207,225
+106,020
+54,955
+17,160
+7,835
+1,575
+3,030
+2,940
+
+2,591,775
+1,130,835
+738,685
+206,090
+108,075
+46,155
+15,700
+7,820
+1,565
+3,260
+3,485
+
+Source: DTI http://www.dtistats.net/smes/sme/
+
+6
+
+Note that increases in the VAT registration threshold in 1991 and 1993 mean the estimates are only broadly
+comparable over the period 1980-2005.
+
+6
+
+Table 4 reports survival rates of VAT registered enterprises for up to 10 years for the UK
+from 1995-2005. The probability of a firm surviving 10 years is approximately one third. Over
+time the probability of survival has increased.
+The late 1980s account for most of the increase in the number of entrepreneurs in the UK
+economy – whether we define entrepreneurship using self-employment numbers or VAT
+registrations. The number of self-employed workers rose by more than two hundred and thirty
+thousand in each of the years 1986-1987, 1988-1989 and 1989-1990, while the 1987-1988 increase
+was a still healthy, one hundred and fifty thousand. So between 1986 and 1990 the number of selfemployed grew by over eight hundred and fifty thousand, from 2.91 million to 3.76 million, while
+the rate grew from 11.8% to 14.0%. It is apparent that 1984 was also an important year for growth,
+with the largest (+266k) annual increase on record.
+Sharp falls in both self-employment and VAT registrations followed in the early 1990s,
+contemporaneous with the UK recession. The number of self-employed workers fell by -91k in
+1991-1992, -208k in 1992-1993 and -58k in 1993-1994. It is notable, however, that the selfemployment rate did not start to fall until 1992, while the unemployment rate started to rise in late
+1990. This indicates that employees felt the effects of the downturn in demand earlier than the selfemployed. The self-employment rate then stabilised for a period, before falling again.
+The number of self-employed workers declined in all but two years between 1990 and
+2000. This decline was dramatically reversed in 2003, when the number of self-employed workers
+rose by +229k. A further 100k individuals became self-employed in 2006, causing the selfemployment rate to rise to 13.0%. VAT registrations also fell between 1997 and 2001 and then
+increased subsequently.
+
+7
+
+The big increases in self-employment in the late-1980s occurred as unemployment was
+declining sharply, while the falls of the early 1990s occurred as the labour market loosened. In
+contrast, the 2001-2004 increase of more than three hundred thousand, alongside a jump of nearly
+one percentage point in the rate (11.9% in 2001 to 12.8% in 2004), seems rather large given that
+the unemployment rate declined by only 0.4pp, from 5.2% to 4.8%, over this period. So how is
+self-employment related to the economic cycle?
+It is well established that the employment rate tends to move pro-cyclically, while the
+unemployment rate typically moves in the opposite direction. This inverse relationship is very
+simple to explain. Every individual in the population (Pop) can be categorised into three groups:
+employed (E), unemployed (U) or inactive (I). We can therefore write:
+(1)
+
+E + U + I = Pop
+
+By dividing through by population and substituting the standard definitions for the employment
+rate (e=E/Pop), unemployment rate (u= U/(U+E)) and the activity rate (a=(U+E)/Pop) into equation
+(1), we can state:
+(2)
+
+e = a (1-u)
+
+This says that the employment rate should be negatively correlated with the unemployment rate
+given stable activity; which it is.
+Self-employment is a significant component of total employment, so one might imagine
+that movements in the self-employment rate should also be closely (inversely) correlated with
+movements in the unemployment rate. But such a relationship is not clear in the United Kingdom.
+Chart 2 shows that while there was a strong negative correlation between 1984 and 1994 (-0.75),
+the correlation over the 35 years since 1971 has been positive (+0.41). Furthermore, Chart 3 shows
+that the self-employment rate and total employment rate are actually negatively correlated over the
+
+8
+
+same period. In other words, the self-employment rate is not well correlated with the economic
+cycle and the inverse relationship between employment and unemployment between 1971 and
+1984, and since 1994, is driven entirely by forms of employment other than self-employment. Why
+might this occur?
+There are two distinct types of self-employed workers: those that choose (‘pulled’) to
+become self-employed because of economic prosperity; and those that are pushed into selfemployment because of economic adversity. Chart 4 captures the rate of transition of workers
+‘pulled’ into self-employment over the economic cycle using micro-data from the Labour Force
+Survey. The transition rate clearly rises in periods of economic expansion. For example, 8.2% of
+self-employed workers in 2006 had been employees in 2005. This translates into a flow of 308,000
+workers. This may seem high, but one has to remember that a significant proportion of new
+businesses fail within a year, so there will be a flow out of self-employment too. Table 4 shows
+that 7.9% of new VAT registered businesses started in 2002 had failed in the first 12 months of
+trading according to the DTI, and around 30% had failed within the first 3 years. This means that
+the flow into self-employment must be high in order for the self-employment rate to even remain
+stable.
+In contrast, Chart 5 shows that the rate of transition of unemployed workers into selfemployment falls during periods of economic expansion. For example, just 1.4% of self-employed
+workers in 2006 had been unemployed in 2005, but the proportion was 3.1% in 1993, when the
+unemployment rate was at its previous peak. Chart 6 shows the transition from out of the labour
+force (OLF), which is uncorrelated with the unemployment rate over the long run.
+The self-employment rate is clearly a function of both ‘push’ and ‘pull’ factors, which are
+related in opposite ways to measures of the economic cycle. It would therefore appear that the two
+
+9
+
+effects cancel each other out to a degree over long periods and cause the self-employment rate to be
+uncorrelated with the economic cycle. However, it is also the case that other factors are more
+likely to dominate the decision to become self-employed. During the 1980s and early 1990s, selfemployment was stimulated in the United Kingdom through changes in: industrial composition,
+stemming from shifts in relative demand; technological advancements; government policy; and
+financial markets. We now look at these in turn.
+a) Industrial composition
+Probably most importantly, the industrial composition of the UK economy started to
+change. The contribution from service sector industries to total GVA rose from 57% in 1985, to
+66% in 1995 (Chart 7). In contrast, the contribution from manufacturing firms fell by 4pp over the
+same period, to 22%. Robson (1998) finds that self-employment rates across UK regions are
+highest in those regions in which ‘a relatively high proportion of GDP is accounted for by certain
+industries in which the [financial] barriers to self-employment tend to be relatively low.’
+Consequently, the transition to a predominantly service orientated economy appears to have opened
+up new opportunities for entrepreneurs.
+b) Financial deregulation
+The financial hurdles were further eroded by the liberalisation of banking rules in the 1980s
+and the subsequent appreciation of house prices (Chart 8). Robson (1998) argues that the major
+source of loan collateral for start-ups in the United Kingdom is the equity provided by owner
+occupied housing. Thus, rising house prices enable liquidity constrained, nascent entrepreneurs to
+start a business. The annual, nominal7 rate of house price inflation was positive throughout the
+1980s, averaging 12.3%, according to the Nationwide index. Indeed, the average UK house price
+
+7
+
+The real rate of annual house price inflation was positive from 1983 onwards.
+
+10
+
+rose 170% between 1980 and 1989. And the home-ownership rate, propelled by the sale of council
+houses following the 1980 Housing Act and introduction of the Right-to-Buy scheme, rose from
+57.6% in 1981 to 65.2% in 1989.8 Black et al. (1996), for example, found that a 10% rise in the
+value of unreleased net housing equity increases the number of new firm VAT registrations by
+some 5%. Cowling and Mitchell (1997) estimate that a 10% rise in housing wealth increases the
+proportion of the workforce in self-employment by 3%. Over the 1980s, the number of selfemployed workers rose by 1,327,000, or 60.2%.
+c) Government policies
+Financial liberalisation supported the growth in self-employment, but other government
+policies were introduced during the 1980s that were specifically aimed at encouraging more
+workers to become self-employed. Local Enterprise Agencies (LEAs), for example, were created
+in 1978, to encourage the formation and growth of small firms by providing grants, advice and
+training to unemployed workers. The agencies originated as a partnership response from business
+and local councils to high levels of unemployment and the demise of large sections of
+manufacturing, particularly in the industrial Midlands and the North, but their work continues
+today across the United Kingdom. These were followed in 1981 by the Loan Guarantee Scheme
+(LGS), through which the government acts as the guarantor on private sector loans to small and
+‘young’ businesses. Loans are made to firms or individuals unable to obtain conventional finance
+because of a lack of track record or security. The guarantee generally covers 70% of the
+outstanding loan. This rises to 85% for established businesses trading for two years or more. Loans
+can be for amounts between £5,000 and £100,000 (£250,000 for established businesses) and over a
+period of two to ten years. Data are not available prior to 1995, but in the decade since, 46,531
+8
+
+Depart for Communities and Local Government, housing Live Table 101.
+http://www.communities.gov.uk/index.asp?id=1156006
+
+11
+
+loans were granted worth about £2 billion. Of these, about a third went to start-ups. Table 5 shows
+that of the period total, around a third of firms (14,700) defaulted on their loan.
+The Enterprise Allowance Scheme (EAS) ran from 1983 to 1991, paying self-employed
+workers a supplementary weekly income (of around £40 a week) for up to 12 months. In theory,
+this scheme compensated workers for a loss of unemployment benefit. Only the very short-term
+unemployed, those unemployed for less than 13 weeks (although this was later reduced), were
+excluded from the programme.
+
+There were criticisms that the EAS potentially created
+
+displacement (occurring when subsidised businesses took output and employment from nonsubsidised firms) and ‘deadweight loss’ effects (arising when a subsidy was paid to a firm that
+would have been set up anyway in the absence of the scheme). Nevertheless, Campbell and Daly
+(1992) estimate that following implementation, one in eight of those that became self-employed
+during the late 1980s were supported into employment through this scheme. It is apparent from
+Table 3 that in the twelve months following the scheme’s introduction self-employment rose by
+266k, the largest recorded annual increase of the past 40 years.
+d) Tax system
+The decision to become, and remain, self-employed can also be affected by the tax system.
+The methods for computing tax between employees and self-employed workers vary significantly
+in the United Kingdom (see Freedman (2001) for a comprehensive discussion). Freedman (2001)
+argues that attempts to evade the payment of tax in the construction sector influenced movements
+in self-employment numbers over the late 1980s and 1990s. Under the original rules of the
+Construction Industry Scheme (CIS), which is the Inland Revenue’s taxation system for the
+construction industry, employers had an incentive to treat employees as self-employed workers in
+order to avoid paying National Insurance Contributions, nor provide benefits, training or observe
+
+12
+
+employment protection laws.
+
+The Inland Revenue took steps to revise the CIS in 1995 by
+
+introducing mandatory registration cards for all subcontractors. Without the card, a subcontractor
+is treated as an employee. With the card, the subcontractor is paid under deduction of tax and
+treated as self-employed. Freedman records that 700,000 construction industry workers were
+treated as self-employed in 1986. But between 1995 and 1997, 200,000 construction workers
+reclassified themselves as employees, which can more than explain the reduction in selfemployment over the period (-100k). Table 6 records a 12pp fall in the construction sector selfemployment rate between 1995 and 2000 using LFS data, while most other sectors (the exception
+being agriculture) recorded more modest declines, or small increases. The years 2000-2005 show
+an increase in the self-employment share of construction workers. Table 7 shows the changes in
+the industry distribution of the self-employed. The declining importance of construction in terms
+of its share from 1995-2000 is striking, as is its increased importance subsequently, alongside
+increases in Real Estate, Renting and Business Activities.
+Changes in the tax system can also have large, and sometimes unexpected, ramifications for
+the numbers of workers who choose to become self-employed. For instance, the UK government
+abolished corporation tax on the first £10,000 of company profits in April 2002, and also allowed
+directors of small companies to save income tax by taking their salaries as profits. This may have
+stimulated some already self-employed workers to incorporate in order to avoid paying income tax
+and national insurance contributions. But the changes probably also contributed to an increase in
+the number of employees who became self-employed; the number of self-employed workers
+increased by 10.1% between 2002Q1 and 2003Q4, according to the LFS. This increase is reflected
+in a rise in the proportion of self-employed workers who had been employees a year earlier. Table
+8 shows that the flows from employment into self-employment, while volatile, peaked in 2002-
+
+13
+
+2003.
+
+The largest increase in self-employment (around half) during 2002-2003 came in the
+
+Banking, Finance and Insurance sectors and was dominated by the 35-49 age group, although there
+were also large increases in the 50-64/59 and 65/60 and over age groups. The rise seems consistent
+with media stories about City job losses leading to people moving into self-employment (Lindsay
+and Macaulay (2004)). In any case, the government re-considered its position following the
+increase in incorporations and decided to tax distributed profits at 19% in 2004, thus reducing the
+incentives for workers to turn to self-employment. Following this tax change, the flows from
+employment into self-employment declined.
+e) Price of investment goods
+An additional exogenous stimulus to self-employment growth over the past few decades has
+been a steady decline in the price of investment goods, particularly information, communication
+and technology (ICT) products, relative to other goods (Chart 9). Such a decline can be explained
+by an increase in technological progress in the development of these goods in comparison with
+other sectors (Bakhshi & Thompson (2002)).
+
+These price falls will have increased the relative
+
+rates of return from self-employment, making independence more attractive (Blau, 1987 and Acs et
+al., 1994).
+Over the past couple of years there has been a substantial growth in the numbers of self
+employed as well as in the self-employment rate The data below are taken from Table 3 of Labour
+Market Statistics First Release, ONS April 2007. Total employment also includes small numbers
+of unpaid family workers and those on Government schemes. The numbers of self-employed over
+the period Dec-Feb 2005-2007 increased by 187,000, representing 64.0% of the total growth of
+employment of 292,000 over the period.9 Moreover, only 37.6% of the additional employee jobs
+
+9
+
+In the table below ‘others’ includes unpaid family workers and those on Government supported training &
+employment programmes.
+
+14
+
+were full-time compared with 61.8% of self-employed jobs. In addition, over the most recent
+quarter, December 2006 – February 2007, the number of employees fell by 68,000 while the
+number of self-employed grew by 30,000. What explains this increase?
+Total employment
+(‘000s)
+Dec-Feb 2005
+28,690
+Dec-Feb 2006
+28,835
+Mar-May 2006
+28,895
+Jun-Aug 2006
+29,015
+Sep-Nov 2006
+29,029
+Dec-Feb 2007
+28,982
+2 year change
++292
+
+Employees
+(‘000s)
+24,824
+24,924
+25,002
+25,077
+25,025
+24,957
++133
+
+Others
+(‘000s)
+230
+181
+182
+194
+211
+203
+-27
+
+Self-employed (rate)
+(‘000s)
+3,636 (12.67%)
+3,730 (12.94%)
+3,711 (12.84%)
+3,743 (12.90%)
+3,793 (13.07%)
+3,823 (13.19%)
++187
+
+Early analysis of LFS data for the period 2004-2006 suggests little if any change in the
+distribution of the self-employed by industry (Table 7) or by occupation or region.10 However,
+there have been increases in the proportion of the self-employed that are a) immigrants, b) females.
+At the same time there have been increases in the age of the self-employed and a decline in the
+
+10
+
+The distribution of the self-employed by region of residence is as follows
+2001-2003
+Tyne & Wear
+1.02
+Rest of Northern region
+2.40
+South Yorkshire
+1.54
+West Yorkshire
+2.81
+Rest of Yorks & Humberside
+2.63
+East Midlands
+6.71
+East Anglia
+4.15
+Inner London
+6.03
+Outer London
+8.58
+Rest of South East
+22.64
+South West
+10.32
+West Midlands (met county)
+3.03
+Rest of West Midlands
+4.51
+Greater Manchester
+3.43
+Merseyside
+1.44
+Rest of North West
+3.91
+Wales
+4.79
+Strathclyde
+2.51
+Rest of Scotland
+4.49
+Northern Ireland
+3.07
+
+15
+
+2004-2006
+1.02
+2.68
+1.56
+2.90
+2.76
+6.91
+3.89
+5.93
+9.16
+22.52
+9.71
+3.20
+4.73
+3.53
+1.46
+3.72
+4.47
+2.40
+4.22
+3.24
+
+hours worked over this period. Chart 10 shows changes in the transition rates into and out of selfemployment since 1995 for those of working age using matched data from the LFS. Data are only
+available from the ONS to do this matching for those of working age. There is little evidence of
+much change in the transition rates over time. The most pronounced change has been a small
+increase in the flow into self-employment from inactivity.
+Chart 11 shows that self-employment rates have remained roughly constant over time at all
+ages except for those above retirement age, which continues to rise for both men and women. As a
+result the average age of the self-employed continues to rise. Below we present the (weighted) age,
+proportion male and proportion immigrant of the self-employed between 2001 and 2006 from the
+LFS.
+2001
+2002
+2003
+2004
+2005
+2006
+.
+
+Age
+45.30
+45.31
+45.40
+45.45
+45.71
+45.84
+
+% male
+73.31
+73.10
+72.93
+73.36
+73.13
+72.26
+
+% immigrant
+10.26
+10.29
+10.83
+11.10
+11.12
+12.48
+
+# observations
+29,929
+29,839
+30,486
+29,194
+29,219
+29,137
+
+Data are available in the Spring quarter of each year of the LFS from the variables oycirc
+and oystat, which report the individual's labour market status and whether they were self-employed
+or not a year earlier and is not restricted to those of working age. These enable us to calculate
+transition probabilities for all ages (as in Table 8 and charts 4, 5 and 6). Reported below is labour
+market status in year t-1 for those who were self-employed in year t. It is apparent that the outflow
+rate from self-employment has slowed while the inflow rate from OLF has increased alongside a
+decline in the inflow rate from being an employee.
+
+Self-employed
+Employee
+
+2001-2003
+(n=20,656)
+86.69
+9.26
+
+2004-2006
+(n=19,608)
+87.12
+8.65
+
+16
+
+Unemployed
+OLF
+
+1.43
+2.62
+
+1.25
+2.99
+
+It is also feasible to use these data to identify which industries the new self-employed move
+into. Here we define the new self-employed as individuals who were self-employed in period t, but
+not self-employed in t-1. The industry distribution of the changers is as follows (%).
+Agriculture, hunting & forestry
+Fishing
+Mining, quarrying
+Manufacturing
+Electricity gas & water supply
+Construction
+Wholesale, retail & motor trade
+Hotels & restaurants
+Transport, storage & communication
+Financial intermediation
+Real estate, renting & business activities
+Public administration & defence
+Education
+Health & social work
+Other community, social & personal
+Private households with employed persons
+Extra-territorial organisations
+N
+
+2001-2003
+2.99
+0.20
+0.22
+6.95
+0.30
+18.40
+11.45
+3.95
+7.94
+1.99
+20.03
+0.87
+3.80
+7.44
+9.99
+3.42
+0.03
+2,950
+
+2004-2006
+3.25
+0.10
+0.12
+6.96
+0.28
+19.30
+11.44
+2.57
+6.48
+1.96
+18.94
+1.04
+3.81
+7.75
+13.37
+2.59
+0.04
+2,749
+
+The biggest change is the increase in the proportion working in Other Community, Social and
+Personal.
+At this time it is by no means obvious why the self-employment rate has increased. In part
+it is because of increased immigration alongside moves to self-employment from those who had
+previously been OLF. It does not appear that the most recent increase in self-employment has been
+the result of changes in regulation, tax changes or changes in the minimum wage (Blanchflower et
+al. 2007a, 2007b). However, we do believe that rising house prices are a significant explanatory
+factor through their ability to ease credit constraints (see below).
+
+17
+
+2. Self-employment and Earnings
+We make use of data from the Family Resources Survey (FRS) and the Survey of Personal
+Incomes (SPI) conducted by HM Revenue & Customs (HMRC) to compare the earnings of the
+self-employed with those of employees, as the LFS does not ask respondents who classify
+themselves as being self-employed about their labour income(s). The earnings distributions for the
+self-employed and employees are very different. Median incomes are lower for the self-employed
+than for employees, but the self-employed distribution has a longer right hand tail, so somebody
+90% up the self-employment earnings distribution has higher earnings than an employee at the 90th
+percentile of the wage and salary distribution. For example, the median gross weekly income from
+self-employment in 2005 was £249 (£12,948 annually), according to the FRS. This compares with
+£333 per week (£17,316 annually) for employees (Chart 12a).
+
+The lower weekly income for self-
+
+employed workers partly reflects the fact that 6.9% of self-employed workers actually earned
+nothing, or lost money as a result of their occupation in 2005. Excluding these workers causes the
+median gross weekly wage rate to rise to £276 (a sixth less than employed workers).
+The relative success of those at the top end of the self-employed income distribution is
+particularly striking if one looks at means rather than medians; the pay levels of the two groups are
+almost identical on this measure (Chart 12b). This indicates that there are significant returns
+available for successful entrepreneurs. But the fact that more than 80% of self-employed workers
+earn less than employees ‘is noteworthy considering the age distribution of the self-employed is
+older than that of employees (Weir, 2003)’.
+HMRC collects data on individuals’ incomes, principally for tax modelling and forecasting
+purposes. A sample of this data is made available in the form of the SPI, which provides the most
+comprehensive and accurate official source of data on personal incomes in the UK. The dataset
+
+18
+
+contains a range of variables related to taxable personal incomes arising from employment, selfemployment, pensions, benefits, property, savings and investments and other income sources. Also
+included are variables related to allowances, deductions and tax relief that people may be due. A
+limitation of the data, however, is that a continuous time series is only available from 1999/00. The
+SPI is carried out annually.11 Data are collected from three HMRC operational IT systems, which
+are as follows:
+1. COP: this covers all employees and occupational or personal pension recipients
+with a PAYE record;
+2. CESA: this covers the self assessment (SA) population; those with self-employment,
+rent or untaxed investment income, directors and other people with complex tax affairs or high
+incomes. Some people have both a COP and CESA record.
+3. Claims: this covers people without COP or CESA records who have had too much
+tax deducted at source and claim repayment.
+HMRC has kindly supplied data to us on employee and self-employee income distributions
+from the SPI, for the financial years 1999/00 to 2003/4. The distributions are banded, with lower
+limit thresholds ranging from zero (for self-employees) to £100,000+. The data presented below
+for 2003/4 indicate that 4.0 million individuals earned some income from self-employment – while
+another half a million self-employed reported no positive income. This compares with 3.63 million
+self-reported self-employed in the LFS for the same period. The difference between the two
+numbers reflects the fact that some individuals have more than one job. Total earnings from selfemployment are recorded at £67,750 million in 2003/4, compared with £446,000 million for
+
+11
+
+The approximate sample sizes for recent survey years are as follows: 1999/2000, n=150,000; 2000/2001, n=200,000;
+2001/2002, n=300,000; 2002/2003, n=400,000; 2003/2004, n=400,000.
+
+19
+
+employees. Earnings from self-employment therefore represented 13.19% of the combined total of
+earnings.
+
+Lower limit of
+employment income
+0
+£1
+£500
+£1,000
+£2,000
+£3,000
+£4,000
+£5,000
+£7,500
+£10,000
+£15,000
+£20,000
+£30,000
+£50,000
+£100,000
+Total
+
+Amounts
+(£m)
+22
+67
+212
+400
+641
+2,838
+13,688
+18,142
+51,838
+62,191
+109,247
+95,336
+51,840
+39,643
+£446,000
+
+Employees
+Numbers Cumulative
+(000's)
+%
+84
+91
+141
+160
+182
+609
+2,196
+2,074
+4,153
+3,578
+4,473
+2,582
+788
+195
+21,300
+
+0.4
+0.8
+1.5
+2.2
+3.1
+5.9
+16.3
+26.0
+45.5
+62.3
+83.3
+95.4
+99.1
+100.0
+
+Self-employed
+Amounts Numbers Cumulative
+(£m)
+(000's)
+%
+510
+11.2
+39
+161
+14.8
+112
+153
+18.1
+387
+263
+23.9
+601
+242
+29.2
+879
+251
+34.7
+1,448
+323
+41.9
+3,003
+484
+52.5
+3,133
+360
+60.4
+6,749
+548
+72.4
+6,432
+372
+80.6
+10,023
+414
+89.7
+9,624
+257
+95.4
+9,675
+140
+98.5
+15,647
+70
+100
+£67,752
+4,547
+
+There is evidence then, that on average, the self-employed are paid less than employees.
+Hamilton (2000) finds similar evidence in the US and argues that this arises in part because of the
+non-pecuniary benefits of “being your own boss” (2000, p.628). Similarly, Taylor (1996), using
+data for the UK from the British Household Panel Study for the Autumn of 1991, found that the
+self-employed had lower hourly earnings than employees (1996, Appendix).12 Weir (2003), using
+data from the 2001/2 FRS, found that the first four fifths of self-employed workers in the income
+distribution earn less than the first four-fifths of employees, but the highest one fifth earned more
+than employees. Updating this analysis indicates little change in the distribution over the past
+decade. Charts 13a & 13b provide income distributions for 2003/4 and 1994/5 respectively using
+
+12
+
+£8.20 and £9.71 per hour respectively (Taylor, 1996).
+
+20
+
+data from the Family Resources Surveys. These results are broadly supported by data from HMRC
+with data for 2003/4 and 1999/00 from the SPI (Charts 14a & 14b), although the proportion of selfemployed workers earning more than employees is slightly smaller.
+One problem with these earnings measures will be the extent to which the self-employed
+under-report their income because they inappropriately charge some of their income to expenses.
+There is also the possibility that work is paid for 'under the table' – self-employment allows more
+opportunities to work in the black economy.13 It is very difficult to obtain quantitative estimates
+for such illegal activities. Lyssiotou et al (2004) estimate the size of the black economy by
+estimating the extent to which self-employment income is underreported in the UK, using data
+from the 1993 Family Expenditure Survey. The idea is to use data on consumption to obtain an idea
+of the degree of under-reporting. Their empirical analysis suggests that the size of the selfemployment related black economy in the UK amounts to 10.6% of GDP. They also found that
+households with a head in a blue collar self-employment occupation under-report more than
+households with a head in a white collar self-employment occupation.
+We can appreciate the significant returns available to the most successful entrepreneurs
+based in Britain by looking at the Sunday Times Rich List. The list, which is compiled annually,
+records estimates of the minimum identifiable wealth of Britain’s 1,000 richest people or
+families.14 The results measure identifiable wealth, whether land, property, racehorses, art or
+significant shares in publicly quoted companies. Personal bank accounts are excluded – as access
+in not permitted. The most recent valuations available at the time of writing were carried out at the
+
+13
+
+Indeed, Fairlie (2002) finds that a specific group of people who worked in the black economy – drug dealers – were
+more likely to be self-employed in the real economy later, presumably because they understood risk taking.
+
+14
+
+The actual size of their fortunes may be much larger than the figures estimated by the Sunday Times.
+
+21
+
+beginning of January 2007.15 The results show that the richest entrepreneur in Britain (and 7th in
+the world) was Lakshmi Mittal, worth £19,250 million.
+
+The 1,000th richest person had an
+
+estimated personal fortune of £70 million. Clearly the returns for the most successful self-employed
+far exceed the highest paid employees – although some on the list have made a significant
+proportion of their wealth as city traders. The wealthiest trader in the 2007 list, which we might
+take to be the wealthiest employee in Britain, was Michael Sherwood, worth an estimated £225
+million (319th).
+Of those in the 2007 list, 1,028 were men and just 92 were women – the number is higher
+than 1,000 because some entries are couples or families. The eldest entrant was aged 94, while the
+youngest was 25. There are a total of 774 self-made millionaires, while the rest inherited their
+wealth. A fifth of the most wealthy made their fortunes in land and property. The breakdown by
+industry corresponds closely with our previous analysis of the LFS.
+Industry
+Land and property
+Banking, insurance, stockbroking and finance
+Industry, engineering, metal bashing, steel making
+Retailing (not food)
+Construction, house building
+Hotels, leisure, health and fitness, sport
+Computers, software, Internet, telecoms, mobile phones
+Food retailing, food production, drink
+Media, television and films, publishing, novels
+Music
+Business services, recruitment, office support
+Car sales, wholesaling and distribution
+Pharmaceuticals, nursing homes, health care
+Transport
+
+Number
+221
+155
+106
+71
+64
+62
+60
+59
+55
+36
+31
+27
+27
+26
+
+Over half of the entrants live, or have their primary interests centred in London (41%) or
+the south east (12%), again similar to our results from the LFS
+
+15
+
+For more details, see http://business.timesonline.co.uk/tol/business/specials/rich_list/article1716427.ece
+
+22
+
+Region
+Number of entries
+London
+411
+South East
+123
+North West
+68
+Scotland
+65
+East Midlands
+40
+Yorkshire
+39
+West Midlands
+37
+
+Region
+Number of entries
+South West
+36
+East Anglia
+26
+Wales
+25
+North East
+16
+Ireland
+42
+Channels Isles, Isle of Man
+27
+Overseas
+51
+
+The top 15 entrants in 2007 are not confined to any particular industry.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12=
+12=
+14
+15
+
+Name
+Lakshmi Mittal and family
+Roman Abramovich
+The Duke of Westminster
+Sri and Gopi Hinduja
+David Khalili
+Hans Rausing and family
+Sir Philip and Lady Green
+John Fredriksen
+David and Simon Reuben
+Jim Ratcliffe
+Sir Richard Branson
+Charlene and Michel de Carvalho
+Sean Quinn and family
+Simon Halabi
+Kirsten and Jorn Rausing
+
+Worth
+£19,250m
+£10,800m
+£7,000m
+£6,200m
+£5,800m
+£5,400m
+£4,900m
+£3,500m
+£3,490m
+£3,300m
+£3,100m
+£3,050m
+£3,050m
+£3,000m
+£2,825m
+
+Industry
+Steel
+Oil and industry
+Property
+Industry and finance
+Art and property
+Packaging
+Retailing
+Shipping
+Metals and property
+Chemicals
+Transport and mobile phones
+Inheritance, brewing and banking
+Quarrying, property and insurance
+Property, health clubs
+Inheritance and investments
+
+The average age of the top 15 wealthiest entrants in 2007 was 58. Of those that are self-made
+billionaires, rather than having inherited their fortunes (as is the case for the Duke of Westminster,
+Charlene and Michel de Carvalho, and Kirsten and Jorn Rausing), six have a degree-level
+education and six do not. None of the British born entrants in the top 15 has a degree. We could
+only find an estimated income figure for Lakshmi Mittal, which was estimated to be £413 million
+in 2007. But are these characteristics the exception or the rule?
+
+23
+
+3. Who are the self-employed?
+Thus far we have explained factors that may exogenously affect individuals’ decisions to
+become self-employed.
+
+But what if some workers are more pre-disposed to becoming self-
+
+employed than others? It is appropriate at this point to compare the characteristics of the selfemployed with those of employees. We do so by examining weighted means from the UK Labour
+Force Surveys.
+1. Age
+In the LFS, self-employed workers (aged 16+) were on average six years older than their
+employed counterparts in 2006 (45.8 vs. 39.3 respectively). Chart 15 illustrates that the age
+distribution of the self-employed is skewed to the right, compared with that for employees. It
+seems plausible that younger workers are less likely to have the necessary human capital
+(experience) to become self-employed. Younger individuals are probably also more likely to be
+credit constrained, limiting a larger proportion of them from starting a new business. At the other
+end of the distribution, older workers face retirement, but that is not an issue for the self-employed.
+Indeed, many retirees (either at state pension age or earlier) may take advantage of the opportunity
+self-employment brings to remain in the workplace, providing their skills on their own terms. It is
+probably also fair to say that there is an element of risk in becoming self-employed, and this risk
+can be minimised if workers have previously ensured financial stability (e.g. mortgage paid off) by
+working for others.
+2. Gender, marital status and children
+The split between male and female employees is roughly equal (56.6% male). However,
+the micro-data suggest that the self-employed are predominantly male (80.1% in 2006). This
+probably reflects the fact that self-employment is more common in industries not usually associated
+with high levels of female employment, such as construction (see below).
+
+It may also be a by-
+
+product of the fact that a much higher proportion of women are part time workers.
+
+24
+
+The self-employed are more likely to be married than employees.
+Single
+Married
+Separated
+Divorced
+Widowed
+
+Employee %
+36
+53
+3
+8
+1
+
+Self-employed %
+22
+65
+3
+9
+1
+
+The self-employed have more dependent children in their family under the age of 19 (.79 children)
+than is the case of employees (.71).16 This is consistent with the findings of Broussard et al (2003)
+for the US.
+3. Industry & Occupation
+The self-employed are more likely to work in occupations that are human-capital and labour
+intensive, such as construction, financial activities or agriculture. Chart 16 shows that nearly a
+quarter of self-employed individuals worked in the construction industry in 2006, compared with
+just 6% of employees. A further 20% worked in finance, real estate and business activities and
+almost all agricultural employees - though few in total - were self-employed. In general, we would
+think that service sector industries are more suited to self-employment as there will typically be
+lower start-up costs, reducing barriers to entry; although a lack of human capital or qualifications to
+signal ability (certainly for business activities, such as consultancy) may act as impediments.
+4. Education
+Chart 17 shows that about a fifth of both employees and self-employed workers had a
+degree in 2006. Indeed, the distributions of the two sets of workers are very similar in general.
+The one major difference is the higher proportion of the self-employed with Apprenticeship and
+craft qualifications.
+
+16
+
+In sweep 13 of the British Household Panel Study of 2003/4 the (weighted) self-employed also had more children
+than employees (.71 and .61 respectively), which includes natural children, adopted children and step children, under
+the age of 16.
+
+25
+
+Employee %
+Degree
+21
+Higher education
+10
+Apprenticeship, City & Guild Crafts etc 24
+GCSE grades A-C
+23
+Other
+12
+None
+9
+DK
+1
+
+Self-employed %
+21
+8
+30
+17
+12
+12
+1
+
+This suggests that the decision to become self-employed is not related to educational attainment,
+although, as we noted above, it seems to be more related to age and experience. This is quite
+different from the US where self-employment rates are particularly high among those with higher
+degrees, especially MBAs (see Blanchflower and Wainwright, 2005).
+
+We provide more
+
+assessment of the differences in the characteristics of the self-employed between the US and the
+UK below.
+5. Co-workers
+The weighted LFS micro-data for 2004-2006 show that three-quarters of the self-employed
+work alone or in a partnership.
+Works alone/with partner
+1-10 employees
+11-19 employees
+20-24 employees
+25-49 employees
+50-249 employees
+250-499 employees
+500 or more employees
+Other
+
+Employee
+0%
+18%
+9%
+4%
+14%
+23%
+8%
+18%
+6%
+
+Self-employed
+77%
+18%
+2%
+1%
+1%
+1%
+0.1%
+0.2%
+0%
+
+This would seem intuitive for business activities and consultancy, where specialist individuals may
+be employed by larger firms, or agriculture, where a lone individual can use technology to tend
+many activities. The distribution by industry for those with and without employees is as below.
+The main difference is that the self-employed tend to be sole contractors in construction and have
+employees in distribution.
+
+26
+
+Agriculture
+Energy & water
+Manufacturing
+Construction
+Distribution
+Transport
+Banking
+Public administration
+Other services
+
+Works alone
+5%
+0%
+6%
+26%
+12%
+8%
+19%
+10%
+14%
+
+With employees
+5%
+0%
+8%
+16%
+28%
+5%
+21%
+10%
+7%
+
+When the self-employed do employ others, more than 90% have fewer than 20 employees. This is
+in stark contrast to the employed, where two-thirds work in firms employing 25 or more workers.
+Interestingly, the proportion of the self-employed with employees has shown a steady decline over
+time, corroborating the trend in the VAT registrations data presented earlier.
+
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+
+% with
+Employees
+29.1
+27.7
+27.3
+26.7
+25.7
+26.8
+26.4
+26.4
+
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+
+% with
+Employees
+26.8
+26.8
+24.9
+24.0
+24.1
+23.2
+22.9
+
+The fact that most self-employed firms are small (in terms of employment) is suggestive of a
+degree of flexibility.
+6. Hours
+The self-employed tend to work longer hours than employees.
+
+On average, the self-
+
+employed worked 40 hours per week in 2006, compared with only 34 hours for employees (Chart
+18). However, the self-employed are only marginally less likely than employees to say that they
+are part-timers. For example, the latest figures available at the time of writing are for December
+2006-February 2007 and show that 25.7% of employees were part-time compared with 23.6% of
+
+27
+
+the self-employed.
+
+Moreover, if the self-employed report that they are part-time they actually
+
+work fewer usual hours than employees (17.3 and 18.1 per week respectively) whereas the reverse
+is the case for those who report being full-timers (46.3 and 39.3 hours respectively).
+7. Region
+There is considerable variation by region in self-employment rates. In 2006, using region
+of work to define location, self-employment rates ranged from under 8% in Tyne and Wear to just
+under 19% in Outer London.
+Tyne & Wear
+Rest northern region
+South Yorkshire
+West Yorkshire
+Rest Yorks. & Humberside
+East Midlands
+East Anglia
+Central London
+Inner London
+Outer London
+Rest of South East
+South West
+West Midlands Metropolitan
+Rest West Midlands
+Greater Manchester
+Merseyside
+Rest NW
+Wales
+Strathclyde
+Rest of Scotland
+Northern Ireland
+
+7.8
+12.3
+10.9
+11.1
+11.7
+11.9
+13.4
+8.0
+18.3
+18.8
+14.5
+13.5
+10.0
+14.0
+11.6
+9.0
+12.2
+12.9
+8.6
+11.4
+15.8
+
+8. Immigrants
+There are differences in self-employment rates by race. In 2006, in the UK, the rate for
+whites was 13.0% compared with 14.6% for Asians; 8.5% for blacks and 17.1% for Chinese. The
+self-employment rate of immigrants is generally higher than that of the indigenous population.
+Clark and Drinkwater (2000), in their study of self-employment among ethnic minorities in
+England and Wales, found that minorities who live in areas which have a high percentage of their
+
+28
+
+own group are less likely to be self-employed. They found that those with poor language skills
+(typically more recent immigrants) had lower self-employment probabilities. Borooah and Hart
+(1999) used data from the British 1991 Census to examine why so many Indians, but so few black
+Caribbeans in Britain are self-employed? Over 20% of economically active Indian males, but only
+8% of economically active black Caribbean males, were self-employed. The reluctance of black
+men to become self-employed was, as this study suggested, because of two factors. First, they
+were, relative to whites and Indians, “ethnically disinclined” to enter business – this stunted their
+desire to be self-employed. Second, they did not possess, relative to whites and Indians, the
+attributes that were positively related to entering business – this impaired their ability to be selfemployed. The authors estimated that 58% of the observed lack (relative to Indians) of selfemployed black males was because of ethnic disinclination and 42% was a result of attribute
+disadvantage. Of course this result begs the question of why Caribbean men were disinclined to be
+self-employed. Clark and Drinkwater (2000) also reported that, based on the 1991 Census of
+Population, self-employment rates for blacks in England and Wales were 5.8% compared with
+26.6% for Chinese and 12.3% for whites and 14.6% for non-whites.17
+Column 1 of Table 9 presents data from the Labour Force Surveys of 2004-2006, which
+contain data on 633,161 workers and shows that the (weighted) self-employment rate for the UK
+born was 12.5% compared with 14.5% for immigrants and 12.7% overall.
+
+The data file is
+
+restricted to those aged 16-70. The table also suggests that there is considerable variation in selfemployment rates by the immigrants’ country of birth. Self-employment rates were highest among
+those born in Romania (44%), Iran (32%), Thailand (32%), Pakistan (31%) and Turkey (27%) and
+
+17
+
+Using data from the Fourth National Survey of Ethnic Minorities conducted in 1993/1994 Clark and Drinkwater
+(2000) found self-employment rates to be especially high, among both men and women, for Pakistanis, Indians and
+African Asians.
+
+29
+
+lowest for those born in the Philippines (3%), Slovakia (3%) and Finland (1%). Self-employment
+rates tend to be lower for more recent immigrants, in part, for the very obvious reason, that they
+tend to be younger. For example, average self-employment rates and average age based on number
+of years in the UK for immigrants is as follows (LFS 2004-2006)
+<2 years
+< 5 years
+5-9 years
+10-19 years
+≥20 years
+
+Self-employment rate
+4.9%
+7.1%
+13.0%
+15.9%
+28.0%
+
+Average age
+29.5
+30.9
+33.8
+37.2
+40.4
+
+In the second column of Table 9 we present equivalent evidence on self-employment rates
+by country of birth for the United States using data for 2,552,483 workers from the Basic Monthly
+files of the Current Population Survey. Here we define self-employment to include both the
+unincorporated and the incorporated self-employed. In the official statistics the self-employment
+rate only includes the unincorporated, although their earnings are not included in wage and salary
+measures.18
+
+We only present evidence for countries where there are matched pairs - these
+
+exclusions are not significant. In the US, the self-employment rate of immigrants (10.1%) is
+marginally less than that of the indigenous population (10.6%). The self-employment rate of the
+UK born in the US (12.8%) is virtually identical to the rate in the UK as a whole (12.7%). In
+contrast the self-employment rates, of those born in the US who reside in the UK, (17.6%) is higher
+than in the US (10.6%). Interestingly, there is no correlation between the self employment rates
+across the two countries.
+
+18
+
+See, for example, Table 591 of the 2007 Statistical Abstract of the United States
+www.census.gov/compendia/statab/tables/07s0591.xls.
+
+30
+
+9. Self-employed second jobs
+The LFS data indicate that a number of individuals who are employees also work selfemployed in a second job. It turns out that this is a particularly important phenomenon in the
+public sector, especially among academics and health professionals, including therapists. It is
+especially high for those with higher degrees. Overall, 0.9% of employees in their main job had a
+second job that was self-employed: the rate was 0.6% in the private sector and 1.5% in the public.
+Private sector
+Public sector
+Public company, PLC
+Nationalised industry
+Central Govt., Civil Service
+Local Govt. or council (inc police etc)
+University, etc
+Health authority or NHS trust
+Charity, voluntary orgn. etc
+Armed forces
+Other public organisation
+UK
+
+0.6%
+1.5%
+0.7%
+0.6%
+0.9%
+1.4%
+3.0%
+1.8%
+2.5%
+0.3%
+1.0%
+0.9%
+
+10. Happiness, life and job satisfaction
+The self-employed are generally more satisfied with their jobs than employees
+(Blanchflower and Oswald, 1998; Blanchflower, 2004; Green and Tsitsianis, 2006).
+
+In an
+
+important paper, Frey and Benz (2002) examine job satisfaction data for the UK, Germany and
+Switzerland and find evidence that the self-employed are more satisfied at work than employees.
+What is impressive about this paper is that the authors have panel data over a number of years on
+the same individuals for both the UK (1991-1999) and Germany (1984-2000) and show that this
+result remains even in the presence of people specific fixed effects. There is also some recent
+evidence from Finland suggesting that the self-employed are less risk averse than employees.
+Ekelund et al (2005) used data from the 1966 Northern Finnish Birth Cohort Study. Unfortunately
+the measure of risk-aversion is a contemporaneous one so it is difficult to determine causality.
+
+31
+
+The self-employed seem to like their jobs despite the fact that their work isn’t easy. The
+self-employed report that they a) work under a lot of pressure, b) find their work stressful, c) come
+home from work exhausted, d) are constantly under strain, e) lose sleep over worry, f) place more
+weight on work than they do on leisure, but g) are especially likely to say they have control over
+their lives (Blanchflower, 2004).
+The self-employed in the UK also tend to report relatively high levels of happiness and life
+satisfaction (Blanchflower, 2004; Blanchflower and Oswald, 2004) and job satisfaction (Taylor,
+2004; Green and Tsitsianis, 2005). To illustrate, the European Quality of Life Survey of 2003
+asked respondents for their happiness, life satisfaction and job satisfaction on a scale of 1 to 10,
+with 10 being highest. The weighted average job satisfaction score for the UK was 8.31 for the
+self-employed and 7.22 for employees. The weighted scores for life satisfaction and happiness for
+the UK in 2003 were as follows:
+
+Self-employed
+Employee
+Homemaker
+Unemployed
+Retired
+Student
+
+Life satisfaction
+(n=980)
+7.7
+7.4
+6.9
+6.5
+7.5
+7.7
+
+Happiness
+(n=984)
+8.0
+7.9
+7.6
+6.7
+7.9
+8.1
+
+Results are similar in the British Household Panel Study Sweep 13 taken primarily during 2004
+with around 8% of responses in 2005. Levels of overall job satisfaction – based on a scale of 1
+through seven - were 5.7 for the self-employed and 5.4 for employees. In addition the selfemployed were also less satisfied with their job security (5.0 and 5.5) and their hours (5.0 and 5.3).
+Analogously the self-employed scored 5.4 and employees 5.2 when asked if they were satisfied
+with their life overall, once again on a scale of 1-7. The self-employed in the UK score highly on
+job satisfaction, life satisfaction and happiness.
+
+32
+
+11. Independence
+The self-employed are especially likely to report that they value their independence. Benz
+and Frey (2003) examined data on 23 countries from the International Social Survey Programme
+(ISSP). They conclude that the self-employed are more satisfied with their jobs because they enjoy
+‘greater autonomy and independence’. In a recent paper Hundley (2001) provides results for the
+U.S. which, are similar to those of Benz and Frey. His main findings are that the self-employed are
+more satisfied because their work provides more autonomy, flexibility and skill utilisation and
+greater job security. In the Flash Eurobarometer Survey #160 conducted in April 2004 individuals
+in EU member countries were asked "suppose you could choose between different kinds of jobs,
+which one would you prefer – being an employee or self-employed?". On average 47.1% said they
+would prefer to be self-employed. The individuals who said they were self-employed were asked
+to give reasons why and were allowed to provide multiple answers. The major reason by far was
+‘personal independence/self-fulfilment/interesting tasks’. On average across these countries, 70%
+gave this answer - the next highest response was ‘better income prospects (23%). Responses by
+country on independence are in column 1 below (n=9,358). Only in the US did fewer than half of
+the respondents give this answer, but a further 61% in the US said ‘no need to adapt to an
+environment’. These proportions by country are in the second column below
+
+Austria
+Belgium
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+
+Independence No need to adapt
+%
+%
+76
+19
+69
+10
+69
+11
+81
+55
+83
+6
+84
+7
+79
+22
+86
+12
+85
+22
+80
+30
+65
+26
+
+33
+
+Iceland
+Ireland
+Italy
+Latvia
+Lichtenstein
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Norway
+Poland
+Portugal
+Slovakia
+Slovenia
+Spain
+Sweden
+UK
+USA
+
+67
+84
+80
+61
+80
+64
+59
+80
+72
+77
+66
+62
+64
+73
+66
+75
+81
+21
+
+7
+4
+18
+43
+28
+26
+19
+8
+30
+14
+10
+11
+28
+5
+7
+9
+9
+61
+
+The self-employed report that they like another aspect of independence, the flexibility the
+job brings and the fact that they can pick their schedule (Hytinnen and Ruuskanen, 2007).
+However, the self-employed are especially likely to report being stressed (Blanchflower, 2004).
+Respondents in the 14th sweep of the BHPS were asked "Do you worry about job problems after
+work?" Weighted responses were as follows (%).
+Never
+Occasionally
+Some of the time
+Much of the time
+Most of the time
+All of the time
+
+Employee
+42.6
+31.3
+16.9
+4.8
+3.1
+1.3
+
+Self-employed
+35.1
+29.4
+22.6
+6.9
+3.8
+2.2
+
+The self-employed were more likely than employees to worry about job problems after work.
+
+34
+
+4. Econometric analysis of the probability of a randomly selected worker being self-employed
+Given the differences that exist in the characteristics of the self-employed in terms of their
+location, occupation, industry, schooling, age and gender it is appropriate to examine the extent to
+which there have been changes over time, holding constant these characteristics, in a regression
+framework. There is a growing body of research that has examined the probability that a randomly
+sampled worker is self-employed (see Blanchflower 2000, 2004 for a summary). The main results
+from this work are as follows. Self-employment is higher among men than women; among older
+workers than younger workers. It is also especially high among some immigrant groups, such as
+Asians. It does vary by location, being especially high in construction occupations, agriculture and
+retailing. These results are updated below.
+Tables 10 and 11 report the results of estimating the probability of a randomly selected
+worker being self-employed. The dependent variable is set to one if self-employed, zero if an
+employee; the estimation procedure is dprobit in STATA.19 Data used are from the Labour Force
+Survey and in Table 10 cover the period for January 1994 - December 1996, while Table 11
+performs an equivalent exercise ten years later from January 2004 - December 2006. In the first
+period, the mean self-employment rate in our data was 13.7% compared with 12.7% in the
+subsequent period.
+
+Where feasible identical controls are included; the major exception is
+
+occupation because of changes in the classification system used by the ONS in 2000. Controls in
+column 1 include age and its square; a gender dummy; four race dummies and six schooling
+dummies. As we move across the columns controls are added - an immigrant dummy in column 2;
+
+19
+
+The dprobit procedure in STATA fits maximum-likelihood probit models and is an alternative to probit. Rather than
+reporting the coefficients, dprobit reports the marginal effect, that is the change in the probability for an infinitesimal
+change in each independent, continuous variable and, by default, reports the discrete change in the probability for
+dummy variables.
+
+35
+
+region of residence and industry dummies in column 3 and occupation dummies in column 4.
+Interestingly, the patterns in the means isolated above are robust in the regressions.
+The main findings are as follows.
+1. The probability of self-employment rises non-linearly with age and reaches a maximum at age
+63.8 in column 1 of Table 10 and at age 70 in column 4. In column 1 of Table 11, for the later
+period the maximum was 76.7 compared with 73.0 in column 4. The positive sign on the age
+variable and the negative sign on the age squared term permits the calculation of these maxima.
+2. The probability of self-employment is higher for men, whites, Asians and immigrants generally,
+as well as for those with A-levels or equivalent, of which over half are individuals with trade
+apprenticeships (5.5%) or City & Guilds Advanced Craft Qualifications (45.3%). Probabilities are
+also high in the South West and London as well as in Agriculture and Construction. Occupations
+with high self-employment rates include Health Professionals; Construction Trades; Hairdressers;
+Artistic and Sports Occupations and Agricultural Occupations.
+3. The probability of self-employment is relatively low for blacks and those with Higher Education
+qualifications, which primarily include NVQ level 4 and teaching qualifications. It is also low in
+Distribution and Manufacturing and, of course, in the Public Sector. Ceteris paribus rates were
+lowest in Tyne and Wear in both periods.
+4. It is apparent that the patterns that emerge in Table 11 for 2004-2006 are very similar to those
+for the period 1994-1996. The age maximum increased over time, as noted above, but the gender,
+education and race gaps were broadly unchanged.
+Table 12 presents the results of estimating a further dprobit modelling the probability that
+an employee in their main job will have a second job where they are self-employed. So the
+dependent variable is one if an employee in the first job and self-employed in the second zero
+
+36
+
+otherwise. All those reporting being self-employed in their first job are omitted. Probabilities are
+higher for men, whites and rise with age reaching a maximum over the age 54 in column 3. They
+are especially high in London and East Anglia. As noted earlier, self-employed second jobs are
+especially important for people with higher degrees and teaching qualifications and are particularly
+important in universities. If we count these individuals into the self-employment count they add
+nearly a percentage point (mean=0.87%).
+How do the characteristics of the self-employed in the UK compare with those in the United
+States? As background, Table 13 provides details of the distribution of incorporated and
+unincorporated self-employment and wage and salary employment by gender, race and whether
+foreign born for the US in 2005.20 There were approximately twice as many unincorporated selfemployed than incorporated – 10 and a half million and 5 and a quarter million respectively. The
+incidence of self-employment is highest in middle age and is higher among men. In comparison
+with wage and salary work, minorities are under-represented in self-employment. For example,
+11.5% of wage and salary workers are black compared with 6.3% of unincorporated and 3.7% of
+incorporated self-employed and similarly for the foreign born. In contrast, Asians have a higher
+representation in incorporated self-employment than they do in wage and salary work.
+Table 14 presents econometric evidence for the United States comparable to that for the UK
+in Table A.11, again for 2004-2006, using data from the Basic Monthly files of the Current
+Population Survey (BMCPS) for the same years as in Table 11. The US sample size is four times
+larger at over two and a half million workers. The dependent variable is defined in the same way
+as in Tables 10 and 11, set to one if self-employed and zero if an employee. As in Table 9, the self-
+
+20
+
+Note that the unincorporated self-employment rate is actually constructed as in Table 9 as the proportion of the
+unincorporated self-employed over total workers, which in 2005 was 7.4%.
+
+37
+
+employed includes both the incorporated and unincorporated (Blanchflower and Wainwright,
+2005).
+It is necessary, however, to make an adjustment in the various regressions we report
+because there are repeat observations of individuals and households in the Current Population
+Survey. This has the effect of biasing downwards the size of the standard errors and biasing
+upwards the t-statistics, although it will leave the size of the estimated coefficients unchanged. The
+intuition is that the same people are in the survey multiple times, which causes a statistical problem
+as the econometric method assumes we are sampling different people. If we did not do this
+adjustment this would have the effect of wrongly suggesting statistical significance when it was not
+present, although practically this has little effect as the standard errors are generally so small.
+To adjust for the problem of repeat observations we cluster the standard errors at the level
+of the household using the cluster procedure in the econometric software program STATA. In total
+there are more than half a million data points for the period 2004-2006.21 Care has also to be taken
+because the individual identifiers in the BMCPS are recycled, which means that once an individual
+leaves the survey that number is given to another individual as they join the sample. These
+individual identifiers are recycled to individuals in the same area. Given this recycling problem we
+have had to adjust the data a second time to ensure that individuals and households are identified
+appropriately. We do so by creating a new identifier with the year the household first appears in
+the data file appended to the end of the original identifier, which solves the problem.
+The main results are as follows - where possible we draw direct comparisons with results
+from the UK, for the same period 2004-2006, in Table 11.
+
+21
+
+The data and documentation are downloadable from the NBER website at http://www.nber.org/data/cps_basic.html.
+The Bureau of Labor Statistics also maintains a CPS website at http://www.bls.census.gov/cps/ with a great deal of
+information about the survey and access to downloads of recent data.
+
+38
+
+1. The self-employment rate of men is higher than it is for women. It rises with age and reaches a
+maximum of 67.1 in column 1 and 72.5 in column 4. Probabilities are higher for immigrants
+holding constant characteristics, which was not true in the means.
+2. Self-employment rates for blacks are lower than for whites both in the UK and the US.
+3. In contrast to the UK, self-employment rates are highest for those with professional
+qualifications such as an MBA and a PhD in the US.
+4. Rates are highest in Montana and California and lowest in West Virginia, Delaware and the
+District of Columbia.
+5. As in the UK, self-employment rates are highest in Agriculture and Construction and among
+Artistic and Sporting as well as Sales occupations. They are also high in the US among Personal
+Care and Service Occupations.
+Finally, Table 15 reports self-employment probabilities across EU member states using data
+from the Eurobarometer data series. The first column covers data from 14 member countries plus
+Norway for the period 1974-2002. Column 2 performs a similar exercise, but for a very recent
+sweep of the Eurobarometer series, from December 2005- January 2006 and includes a larger
+sample of countries, including the new East European member states. In both cases the UK is the
+excluded category. The dependent variable once again is one if self-employed, zero if an employee.
+The main evidence from this table is as follows.
+1. There has been a declining time trend in the incidence of self-employment across member
+states.
+2. Self-employment rates are higher for men and for those with less schooling.
+3. There is no evidence that the age squared term is significant - the probability of being selfemployed rises linearly with age in each column.
+
+39
+
+4. In comparison to the UK, based on column 2, self-employment rates are significantly higher in
+Turkish Cyprus; the Czech Republic; East Germany; Greece; Italy; Poland; Romania and Turkey.
+To summarise, self-employment probabilities in the UK rise with age, are high for men,
+whites, immigrants, individuals with trade apprenticeships, workers in the South West and London
+as well as in Agriculture and Construction. Occupations with high self-employment rates include
+Health Professionals; Construction Trades; Hairdressers; Artistic and Sports Occupations and
+Agricultural Occupations. Broadly similar patterns are found in both the US and the EU.
+
+5. Liquidity constraints
+Even though approximately one worker in eight is self-employed in the UK there appears to
+remain a strong desire among employees to be self-employed. Blanchflower, Oswald and Stutzer
+(2001) examined data from the 1997/8 International Social Survey Programme and found that
+nearly half of employees in the UK expressed a desire to be self-employed. New data have
+recently become available from five sweeps of the Entrepreneurship Flash Eurobarometers on the
+same issue. There is consistent evidence in Table 16 from both data sources that approximately
+half of all wage workers in the UK say they would prefer to be self-employed; this pattern is
+repeated in other countries in the survey and is especially high in the US and Portugal.22
+This raises an important puzzle. Why do so few individuals manage to translate their
+preferences into action? Lack of start-up capital appears to be one likely explanation.
+In work based on US micro data at the level of the individual, Evans and Leighton (1989),
+and Evans and Jovanovic (1989), have argued that entrepreneurs face liquidity constraints. The
+authors use the National Longitudinal Survey of Young Men for 1966-1981, and the Current
+Population Surveys for 1968-1987. The key test shows that, all else remaining equal, people with
+22
+
+Sample sizes in Table 16 are as follows: column 2 n=32,606; column 3 =31,868; column 4=31,604.
+
+40
+
+greater family assets are more likely to switch to self-employment from employment. This asset
+variable enters probit equations significantly and with a quadratic form. Although Evans and his
+collaborators draw the conclusion that capital and liquidity constraints bind, this claim is open to
+the objection that other interpretations of their correlation are feasible.
+
+One possibility, for
+
+example, is that inherently acquisitive individuals both start their own businesses and forego leisure
+to build up family assets. In this case, there would be a correlation between family assets and
+movement into self-employment even if capital constraints did not exist. A second possibility is
+that the correlation between family assets and the movement to self-employment arises because
+children tend to inherit family firms. Parker (2002) provides some much needed theory on whether
+banks ration enterprises.
+Blanchflower and Oswald (1998), find that the probability of self-employment depends
+positively upon whether the individual ever received an inheritance or gift. Burke et al (2000,
+2002) replicate the findings using the same data source. Work by Holtz-Eakin, Joulfaian and
+Rosen (1994a, 1994b), drew similar conclusions using different methods on US data. Lindh and
+Ohlsson (1994) adopt the Blanchflower-Oswald procedure and provide complementary evidence
+for Sweden. Bernhardt (1994), in a study for Canada, using data from the 1981 Social Change in
+Canada Project also found evidence that capital constraints appear to bind. And Kidd (1993) also
+reported that the availability of capital in Australia is a significant barrier to self-employment.
+Taylor (2001), in an interesting paper that uses the British Household Panel Study for the
+period 1994-1996, explores the impact of windfall gains on self-employment. A windfall payment
+is defined as being from a personal accident claim; a redundancy payment; an annual/seasonal
+bonus from employment; a win on the football pools; national lottery or other sort of gambling; or
+anything else. Taylor finds that the size of the payment received has a positive, and concave,
+
+41
+
+impact on the probability of entering self-employment and on the performance of an existing selfemployed enterprise, once again consistent with the liquidity constraint hypothesis. Georgellis et al
+(2005) extend Taylor's analysis to the later period 1994-2000. The authors find evidence of
+significant capital constraints - windfalls raise the probability of transition into self-employment at
+a decreasing rate.
+Johansson (2000a, 2000b), in studies for Finland, used a unique data file drawn from the
+Longitudinal Employment Statistics, compiled by Statistics Finland. It covers the years 1987-1995
+and includes, in principle, every individual who has had a job in Finland during the period – it is
+the population. A sample of just over 100,000 workers aged 18-65 was randomly selected and they
+were followed from 1987-1994. Johannsson’s empirical strategy was to model the probability of
+an individual entering self-employment. The main result from the study was that a higher level of
+wealth significantly increased the probability that an individual made a transition from wageemployment to self-employment. Yannis and Wall (2005) find that capital constraints in Germany
+based on the GSOEP are especially important for men in explaining movements into selfemployment. Moreover Holtz-Eakin and Rosen (2005), also using the GSOEP, found that German
+workers faced capital constraints that are more severe than those faced by American workers.
+Hurst and Lusardi (2004) have claimed that there is little evidence that lack of wealth
+constrains entrepreneurship apart from at the top of the wealth distribution – above the 95th
+percentile. They make this claim using data from the Panel Study of Income Dynamics for the
+period 1989-1994, which contains only 7,500 observations. Very few people in their data – only
+304 or 4% - actually transit into self-employment. It appears that their results are driven entirely by
+measurement error and hence should be ignored. Not finding evidence for something in a poorly
+specified equation tells us little or nothing about the role of capital constraints or of wealth in
+
+42
+
+setting up a business. Indeed, Fairlie and Krashinsky (2006) examined this issue in some detail.
+They demonstrate that, using the PSID also, and bifurcating the sample into workers who enter
+self-employment after job loss and those who do not reveals steadily increasing entry rates as assets
+increase in both sub-samples. They argue that these two groups merit a separate analysis, because
+the two groups face different incentives, and thus have different solutions to the entrepreneurial
+decision. Second, they used micro-data from matched Current Population Surveys (1993-2004) to
+demonstrate that housing appreciation measured at the MSA-level is a significantly positive
+determinant of entry into self-employment. Their estimates indicate that a 10 percent annual
+increase in housing equity increases the mean probability of entrepreneurship by roughly 20
+percent and that the effect is not concentrated at the upper tail of the distribution.
+Krashinsky's
+
+(2006)
+
+findings
+
+on
+
+the
+
+relationship
+
+between
+
+housing
+
+Fairlie and
+
+appreciation
+
+and
+
+entrepreneurship are consistent with the liquidity constraint hypothesis.
+Using the 1991 French Household Survey of Financial Assets, Laferrere and McEntee
+(1995), examined the determinants of self-employment using data on intergenerational transfers of
+wealth, education, informal human capital and a range of demographic variables. They also find
+evidence of the importance played by the family in the decision to enter self-employment.
+Intergenerational transfers of wealth, familial transfers of human capital and the structure of the
+family were found to be determining factors in the decision to move from wage work into
+entrepreneurship.
+Broussard et al. (2003) found that the self-employed in the US have between .2 and .4 more
+children compared to the non-self-employed. The authors argue that having more children can
+increase the likelihood that an inside family member will be a good match at running the business.
+One might also think that the existence of family businesses, which are particularly prevalent in
+
+43
+
+farming, is a further way to overcome the existence of capital constraints. Transfers of firms within
+families will help to preserve the status quo and will work against the interests of blacks in
+particular, who do not have as strong a history of business ownership as indigenous whites.
+Analogously, Hout and Rosen (2000) found that the offspring of self-employed fathers are
+more likely than others to become self-employed (see also Dunn and Holtz-Eakin, 2000). These
+studies generally find that an individual who had a self-employed parent is roughly two to three
+times more likely to be self-employed than someone who did not have a self-employed parent.
+More recently Fairlie and Robb (2006) have demonstrated, using data from the 1992
+Characteristics of Business Owners (CBO) Survey, that more than half of all business owners had a
+self-employed family member prior to starting their business.
+
+Conditional on having a self-
+
+employed family member, less than 50 percent of small business owners worked in that family
+member's business suggesting that it is unlikely that intergenerational links in self-employment are
+largely the result of the acquisition of general and specific business human capital and that instead
+similarities across family members in entrepreneurial preferences may explain part of the
+relationship. In contrast, estimates from regression models conditioning on business ownership
+indicated that having a self-employed family member plays only a minor role in determining small
+business outcomes, whereas the human capital acquired from prior work experience in a family
+member's business appears to be very important for business success. Estimates from the CBO also
+indicated that only 1.6 percent of all small businesses are inherited suggesting that the role of
+business inheritances in determining intergenerational links in self-employment is limited at best.
+Fairlie and Meyer (2000), rule out a number of explanations for the difference in the selfemployment rates of white and black males. They found that trends in demographic factors,
+including the Great Migration and the racial convergence in education levels “did not have large
+
+44
+
+effects on the trend in the racial gap in self-employment” (p. 662). They also found that an initial
+lack of business experience “cannot explain the current low levels of black self-employment.”
+Further they found that “the lack of traditions in business enterprise among blacks that resulted
+from slavery cannot explain a substantial part of the current racial gap in self-employment” (p.
+664). Fairlie (1999) and Wainwright (2000) have shown that a considerable part of the explanation
+of the differences between the African American and white self-employment rate can be attributed
+to discrimination. Bates (1989) finds strong supporting evidence that racial differences in levels of
+financial capital have significant effects upon racial patterns in business failure rates. Fairlie
+(1999) also found that the black exit rate from self-employment is twice as high as that of whites.
+Using the same 1992 Characteristics of Business Owners (CBO) Survey, Fairlie and Robb
+(2005) examined why African-American owned businesses lag substantially behind white-owned
+businesses in sales, profits, employment, and survival. Black business owners, they found, were
+much less likely than white owners to have had a self-employed family member prior to starting
+their business and are less likely to have worked in that family member's business. They found
+further that the lack of prior work experience in a family business among black business owners,
+perhaps by limiting their acquisition of general and specific business human capital, negatively
+affects black business outcomes
+Blanchflower, Levine and Zimmerman (2003) examined the availability of credit to
+minority and female-owned small businesses using data from the 1993 and 1998 National Surveys
+of Small Business Finances conducted by the Reserve Board of Governors. They demonstrated
+that loan denial probabilities for African-American owned firms are approximately double those for
+comparable white-owned firms. Even when African-Americans were able to obtain loans they
+have to pay higher interest rates. Comparable, but smaller effects are found for Hispanics. These
+
+45
+
+differences were not explained by differences in creditworthiness or other observables. Such
+differences disappeared when the use of credit cards was examined, where the banks were unaware
+of the race of the applicant. The authors found that firms owned by minorities are discriminated
+against in the credit market. Similar results were found by Cavalluzzo, Cavalluzzo and Wolken
+(2002).
+A recent study published by the US Chamber of Commerce (2005) confirms the findings in
+Blanchflower, Levine and Zimmerman (2003). The survey was conducted in March and April
+2005 and detailed the financing problems experienced by small business owners, 95% of whom
+had less than 100 employees: 1,080 business owners were interviewed and reported that minority
+businesses rely heavily on credit cards to fund their businesses, often do not apply for credit, even
+though they need it, for fear of being denied and were especially likely to need working capital. In
+particular they report that the availability of credit is their top problem, exactly as reported by
+Blanchflower, Levine and Zimmerman (2003).
+
+The biggest difference in responses between
+
+minorities and Caucasian men and women was availability of credit: 19% of Caucasian males
+report credit as their top problem compared with 54% for minority males – a 35 percentage point
+difference. There was a 15 percentage point difference for women. In no other category is there
+more than a 10 percentage point difference for men or women.
+It is appropriate to examine some new empirical evidence which appears to support the
+proposition that liquidity constraints bind on small businesses. First we examine the impact of
+inheritances and gifts and then the role of rising house prices and find they both appear to generate
+more self-employment.
+Table 17 uses new evidence from the National Child Development Study (NCDS) on the
+incidence of self-employment among workers in their mid forties. The NCDS is a birth cohort
+
+46
+
+study covering every individual born in the week 3rd-9th March 1958. Blanchflower and Oswald
+(1998) examined the impact of inheritances and gifts on the probability of an individual being selfemployed on sweeps four and five conducted at ages twenty-three and thirty-three respectively. In
+that paper it was found that an exogenous shock or windfall in the form of an inheritance or gift received at any point from birth to age twenty three - and expressed in 1981 pounds raised the
+probability of self-employment. New data have recently become available on the seventh sweep of
+the NCDS conducted in 2004/2005 when the respondents were aged 46 or 47. It turns out that the
+higher the value of an inheritance or gift the higher is the probability of self-employment not only
+at ages twenty-three and thirty-three but also, more than twenty years later, at age 46/47. This
+result remains even when controlling for education and the social class of the respondent's mother's
+husband (usually the father) when the respondent was aged eleven. Having a father who was selfemployed - even when the respondent was young, at age 11 - raises the probability of the
+respondent being self-employed thirty-five years later. It turns out, also that a Copying Design test
+score conducted at age eleven is a significant predictor of whether or not the respondent is selfemployed thirty-five years later. Other controls including Verbal and Non-Verbal IQ, Math and
+Reading test scores at ages 7, 11 and 16 were everywhere insignificant. Results are the same in
+column 4 when the dependent variable is set to zero not only for employees, but also for the
+unemployed and those who are out of the labour force (OLF). Lack of start-up capital is a likely
+explanation why individual’s ambitions to be self-employed do not meet fruition. Blanchflower
+and Oswald (1998) also found that when directly questioned in interview surveys, potential
+entrepreneurs say that raising capital is their principal problem.
+Another type of windfall is an increase in house prices, which may help home owners to
+overcome capital constraints by releasing home equity. Rising house prices, for example, enable
+
+47
+
+liquidity constrained nascent entrepreneurs to start a business, or even to enable it to survive.
+Black et al (1996), for example, found that a 10% rise in the value of housing equity increased the
+number of new firm VAT registrations in the UK by some 5%. Taylor (2004) found that an
+increase in house prices increased the probability of self-employment entry.
+
+Chart 8 above
+
+suggested that, at the national level, changes in self-employment and nominal house price inflation
+moved reasonably closely together. The self-employment rate ticked up in 2005 as house prices
+rose and fell at the end of the 1980s as house prices fell.
+We explore this relationship more closely in Table A.18, where we regress the log of the
+self-employment rate, defined by region and year, on the (log) house price and the log of the
+regional unemployment rate, as well as a full set of year dummies and a lagged dependent variable.
+The year dummies can be thought of as proxying inflation, so the house price variable should be
+thought of as being in real terms. The year dummies will also capture any time-variant, yearspecific factors that affect all regions symmetrically – such as changes in legislation.
+In each of the columns 1-4, the house price variable enters significantly, with or without a
+lagged dependent variable or with region fixed effects. The unemployment rate is significant in
+columns 1 and 3 (although of opposite sign), but not in the presence of the lagged dependent
+variable. The unemployment rate does become significant in column 5, however, where the year
+dummies are replaced with an (insignificant) price deflator, but this equation fails to account for the
+effects of legislative changes. The house price elasticity of our preferred equation (column 4)
+means that a doubling of house prices leads to an increase in the self-employment rate of 9.5%, so
+the effect isn’t small. We take this as evidence of liquidity constraints being eased for nascent
+entrepreneurs as house prices rise, entirely consistent with the findings of Black et al. (1996) for the
+period 1966-1990, Cowling and Mitchell (1997) for the period 1972-1992, and Taylor (2004) for
+
+48
+
+the period 1970-2001. Henley (2005) also shows the importance of housing wealth for the selfemployed in job creation. It is also consistent with Fairlie and Krashinsky's (2006) findings for the
+US on the positive relationship between housing appreciation and the prevalence of
+entrepreneurship.
+Between 2005Q1 and 2007Q1 approximately 70% of the growth in total UK employment
+has been from self-employment (217k out of 305k), raising the self-employment rate from 12.6
+percentage points to 13.2 percentage points, which is an increase of 4.9%. Over the same period
+aggregate UK house prices have appreciated by 14.7%. Solving out the long run elasticity of the
+self-employment rate wrt to (log) house prices from column 4 of Table A.18, gives +0.17123:
+ln self-employment ratet = .4440 ln self-employment ratet-1 + .0952 ln house pricest
+To give an indication of how to interpret the size of this elasticity of 0.171, such a number
+means that if house prices double the associated long-run impact is to increase the self-employment
+rate by approximately a sixth. This elasticity therefore suggests that rising house prices can
+potentially explain approximately half (14.7 * .171 = 2.5%) of the observed 4.9% increase in the
+UK self-employment rate between 2005 and 2007. Liquidity constraints continue to bind for
+small-businesses in the UK.
+
+6. Discussion and conclusions
+Self-employment rose sharply in the United Kingdom during the 1980s, encouraged by
+focussed government intervention and supported by financial liberalisation. The period was also
+characterised by sustained and rapid economic growth. But did greater self-employment cause
+heightened growth?
+
+23
+
+.0952/(1-.4440)
+
+49
+
+Greater numbers of self-employed workers in an economy should, in theory, increase labour
+market flexibility in response to demand shocks because there is no binding wage contract on the
+number of hours worked. In turn, Millard (2000) argues that this should lead to greater output and
+consumption and lower unemployment.
+
+There is no empirical evidence to support such a
+
+theoretical proposition. As we noted above, self-employment appears to be uncorrelated with
+unemployment, although transitions between employees and self-employment are negatively
+correlated with unemployment, while transitions from unemployment to self-employment are
+positively correlated. In aggregate these two effects roughly cancel each other out. What about
+any relationship with output?
+Evidence from a series of GDP growth equations for twenty-three countries over the period
+1966-1996 presented in Blanchflower (2000) suggested that a higher self-employment rate does not
+increase the real growth rate of the economy; in fact there was even some evidence to the
+contrary.24 We repeat this analysis here for a longer time period and more countries. Table 19
+examines the relationship between the growth in real GDP and changes in the self-employment
+rate, using time series data on the 30 OECD countries for the period 1967-2005 (the additional
+seven countries are Czech Republic, Hungary, Korea, Mexico, Poland, Slovakia and Switzerland).
+As in Blanchflower (2000), the regressions should be thought of as a Cobb-Douglas production
+function, where the change in the numbers of employees over the previous period is included to
+distinguish the labour input. Capital is assumed to grow linearly and as the model is estimated in
+changes the effect of capital will be in the constant. Also included in the regressions are a set of
+country dummies plus a lagged dependent variable. The columns in Table 19 experiment with
+
+24
+
+The twenty-three countries were Australia, Austria, Belgium, Canada, Denmark, Eire, Finland, France, Germany,
+Greece, Iceland, Italy, Japan, Luxembourg, Netherlands, New Zealand, Norway, Portugal, Spain, Sweden, Turkey, UK
+and the USA
+
+50
+
+different measures of self-employment. Columns 1 and 2 define self-employment as the number of
+self-employed as a percentage of total employment. Columns 3 and 4 define self-employment as
+the number of non-agricultural self-employed as a percentage of total non-agricultural
+employment.25 These results presume a particular direction of causation, from self-employment to
+growth and not the reverse. Columns 1 and 3 include the change in the self-employment rate and a
+lagged GDP term. Columns 2 and 4 add the change in the number of employees. In no case is the
+change in the self-employment rate significant: experimenting with longer lags produced similar
+results. The results confirm Blanchflower’s (2000) earlier findings, but for a richer data set – we
+find no evidence that changes in self-employment are correlated with changes in real GDP.
+Another measure of economic benefit could be greater happiness.
+
+Table 20 presents
+
+evidence on life satisfaction using data from the Eurobarometer trend file of 1970-2002 for 16
+European countries in column 1 and for the UK in column 2. The final column uses data from the
+most recently available (14th) sweep of the British Household Panel Study of 2004/5. In all three
+columns the self-employed have significantly higher life satisfaction than do employees. So can a
+higher self-employment rate lead to greater aggregate happiness? The results are not supportive.
+We substituted mean life satisfaction scores on a four point scale taken from the World Database of
+Happiness for 1976-2006 for GDP growth and repeated our previous analysis. The question asked
+was "How satisfied are you with the life you lead? – very satisfied; fairly satisfied; not very
+satisfied; not at all satisfied, where very is coded as 4 down through not at all which is coded as 1.
+We include GDP growth as an explanatory variable, along with inflation and the unemployment
+rate and a complete set of country and year dummies.26 Self-employment fails to provide any
+
+25
+
+A split excluding non-agricultural data is not available for Switzerland.
+
+26
+
+The results are as follows, with the dependent variable being the mean life satisfaction score in year t.
+
+51
+
+incremental information in explaining happiness when these other variables are included. We find
+evidence that both unemployment and inflation lower happiness, although the effect is greater for
+unemployment than it is for inflation, as found by Di Tella et al (2001) and Wolfers (2003). The
+GDP term, which they did not include, enters significantly positive. It remains uncertain why selfemployment enters positively into a micro-level happiness equation, but not into a macro-level
+equation.
+These results, of course, do not mean that higher self-employment is a bad thing. A very
+high proportion of individuals across a number of surveys express the desire to become selfemployed. We certainly find no evidence that more self-employment is bad for the economy. The
+self-employed seem to especially value their independence. Many governments around the world
+believe that it is appropriate to try and make their economies more entrepreneurial, but that need
+not necessarily imply a higher self-employment rate.
+
+And it also means that a higher self-
+
+employment rate cannot be expected to translate directly into greater economic success. A lower
+self-employment rate could conceivably be better. Can we imagine a society consisting almost
+exclusively of wage and salary workers? It would seem unlikely that a self-employment rate
+around zero would be optimal.
+
+Unfortunately, we have no way of knowing what number
+
+governments should be aiming for. Market forces need to prevail and Blanchflower’s (2004)
+conclusion stands; more may not be better. Let the market rip.
+
+Satisfaction t-1
+.4501 (8.45)
+GDP annual growth rate
+.0060 (2.77)
+Inflation rate
+-.0010 (0.66)
+Unemployment rate
+-.0053 (2.70)
+Self-employment rate
+.0001 (0.03)
+Adjusted R2=.9631, N=344
+Includes year and country dummies. Countries are Austria; Belgium; Canada; Denmark; Finland; France; Germany;
+Greece; Ireland; Italy; Japan; Luxembourg; Netherlands; Portugal; Spain; Sweden; UK and the USA. T-statistics in
+parentheses.
+
+52
+
+The probability of being self-employed in the United Kingdom is higher for men and rises
+non-linearly with age. Those with craft qualifications, including trade apprenticeships, are more
+likely to be self-employed, and rates are higher for those working in the construction or retailing
+industries. Immigrants are more likely to be self-employed, but there is considerable variation by
+country of birth. Probabilities are also high in the South West and London as well as in Agriculture
+and Construction. Occupations with high self-employment rates include Health Professionals;
+Construction Trades; Hairdressers; Artistic and Sports Occupations and Agricultural Occupations.
+In the US, the probabilities are higher the more educated a person is, while the opposite is
+true in Europe. Financial windfalls or housing capital gains are important explanatory variables for
+self-employment, through their ability to mitigate liquidity constraints. House price increases
+appear to be associated with increases in the self-employment rate.
+Most self-employed individuals in the UK work alone or in a partnership and do not have
+any employees. They typically work longer hours than their employed counterparts, but generally
+earn less. There is, however, no evidence that in aggregate increases in self-employment affect
+growth in GDP, nor happiness, positively. At the very top end the successful entrepreneur earns
+considerably more than most wage and salary earners. The entrepreneur has a unique skill – he or
+she has created a job for him or herself and possibly even a job for others. The entrepreneur is an
+important engine for growth in the economy.
+
+53
+
+Table 1. Self-employment as a % of all employment
+Country
+Australia
+Austria
+Belgium
+Canada
+Czech Rep
+Denmark
+Finland
+France
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Italy
+Japan
+Korea
+Luxembourg
+Mexico
+Netherlands
+New Zealand
+Norway
+Poland
+Portugal
+Slovakia
+Spain
+Sweden
+Switzerland
+Turkey
+UK
+USA
+
+1960s
+14.4
+28.3
+17.1
+13.3
+18.5
+25.8
+24.9
+11.1
+19.1
+30.1
+36.4
+19.8
+35.0
+22.2
+14.1
+6.3
+34.5
+25.8
+24.3
+10.8
+7.1
+10.6
+
+1970s
+14.1
+21.6
+13.6
+9.5
+13.7
+18.4
+18.7
+14.3
+51.9
+15.8
+24.8
+28.6
+18.2
+34.1
+16.6
+18.8
+12.5
+15.2
+12.1
+26.6
+20.8
+22.0
+7.6
+8.0
+8.6
+
+1980s
+15.3
+13.3
+14.0
+8.8
+10.1
+13.7
+15.1
+10.5
+37.6
+13.5
+21.4
+24.2
+16.0
+32.0
+11.6
+21.7
+11.3
+17.1
+9.7
+26.0
+31.2
+22.1
+7.7
+29.8
+10.8
+8.7
+
+1990s
+14.5
+10.5
+14.8
+10.2
+11.7
+8.7
+14.2
+11.2
+9.5
+34.0
+16.6
+17.0
+20.6
+24.6
+12.5
+27.5
+8.3
+30.3
+10.6
+19.6
+8.4
+24.5
+25.8
+6.6
+20.7
+10.0
+9.9
+29.9
+13.3
+8.3
+
+Source: OECD Labour Force Statistics. *Luxembourg, 2004.
+
+2000s
+13.1
+11.1
+9.6
+15.5
+8.0
+12.5
+8.9
+10.5
+31.1
+13.6
+15.4
+17.0
+24.4
+10.6
+27.5
+7.0
+29.1
+11.1
+18.8
+7.0
+21.9
+24.4
+9.8
+17.2
+9.6
+10.0
+29.7
+12.3
+7.3
+
+2005
+12.7
+11.9
+9.2
+15.3
+7.9
+12.1
+9.0
+11.3
+30.1
+13.4
+14.1
+16.7
+25.1
+10.2
+27.0
+6.7*
+28.5
+17.9
+7.2
+20.5
+23.6
+12.6
+16.6
+9.6
+9.3
+29.8
+12.8
+7.4
+
+Table 2. Self-employment as a % of all non-agricultural employment
+Country
+Australia
+Austria
+Belgium
+Canada
+Czech Rep
+Denmark
+Finland
+France
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Italy
+Japan
+Korea
+Luxembourg
+Mexico
+Netherlands
+New Zealand
+Norway
+Poland
+Portugal
+Slovakia
+Spain
+Sweden
+Turkey
+UK
+USA
+
+1960s
+10.0
+13.3
+14.0
+7.7
+12.4
+14.0
+8.6
+9.7
+10.3
+25.7
+14.5
+13.4
+8.3
+2.8
+14.9
+7.1
+5.9
+8.1
+
+1970s
+10.5
+10.6
+11.3
+6.3
+9.5
+6.3
+11.3
+9.0
+31.6
+8.8
+10.2
+21.9
+13.9
+10.7
+16.6
+8.9
+8.8
+7.4
+2.6
+12.4
+15.7
+4.7
+7.0
+6.9
+
+1980s
+12.2
+7.3
+12.3
+6.9
+7.3
+7.1
+9.9
+8.1
+27.9
+8.8
+11.3
+21.0
+13.0
+25.5
+8.3
+14.3
+8.5
+11.9
+6.5
+4.8
+16.3
+17.2
+5.3
+26.0
+9.9
+7.5
+
+1990s
+12.2
+6.8
+13.6
+8.7
+11.7
+6.9
+9.9
+8.2
+8.6
+27.4
+15.3
+14.2
+13.3
+22.8
+10.2
+23.1
+6.8
+25.1
+9.0
+15.8
+5.8
+11.2
+18.3
+6.6
+17.8
+8.5
+25.2
+12.5
+7.3
+
+Source: OECD Labour Force Statistics. *Luxembourg, 2004.
+
+2000s
+11.5
+8.1
+8.7
+15.4
+6.9
+9.5
+7.0
+9.9
+25.0
+12.3
+13.1
+12.8
+23.3
+8.8
+24.2
+6.0
+25.8
+9.9
+16.0
+5.1
+11.8
+17.2
+9.8
+15.4
+8.6
+22.9
+11.8
+6.7
+
+2005
+11.4
+8.8
+8.4
+15.2
+6.9
+9.6
+7.1
+10.7
+24.8
+12.4
+11.9
+12.9
+24.2
+8.5
+23.9
+5.8*
+25.3
+15.6
+5.6
+11.3
+16.4
+12.6
+15.2
+8.8
+23.2
+12.2
+6.8
+
+Table 3. Self-employment # and as a % of all UK employment
+1962 1,854 (7.43%) 1985 2,844 (11.56%)
+1963
+1,840 (7.36%)
+1986 2,909 (11.75%)
+1964
+1,827 (7.21%)
+1987 3,151 (12.48%)
+1965
+1,813 (7.04%)
+1988 3,297 (12.64%)
+1966
+1,818 (7.10%)
+1989 3,532 (13.20%)
+1967
+1,875 (7.43%)
+1990 3,761 (14.00%)
+1968
+1,917 (7.64%)
+1991 3,669 (14.02%)
+1969
+2,018 (8.05%)
+1992 3,461 (13.55%)
+1970
+2,044 (8.20%)
+1993 3,403 (13.45%)
+1971
+2,004 (8.18%)
+1994 3,514 (13.78%)
+1972
+2,080 (8.46%)
+1995 3,551 (13.76%)
+1973
+2,114 (8.47%)
+1996 3,510 (13.47%)
+1974
+2,091 (8.35%)
+1997 3,458 (13.04%
+1975
+2,057 (8.25%)
+1998 3,352 (12.51%)
+1976
+2,055 (8.29%)
+1999 3,311 (12.19%)
+1977
+2,055 (8.28%)
+2000 3,260 (11.87%)
+1978
+2,034 (8.15%)
+2001 3,300 (11.91%)
+1979
+2,084 (8.27%)
+2002 3,344 (11.98%)
+1980
+2,205 (8.79%)
+2003 3,573 (12.68%)
+1981
+2,316 (9.48%)
+2004 3,630 (12.75%)
+2005 3,653 (12.71%)
+1982
+2,387 (9.97%)
+1983
+2,478 (10.42%)
+2006 3,753 (12.96%)
+1984
+2,744 (11.30%)
+Source: Labour Force Survey and various editions of the Employment Gazette
+Notes: These annual numbers are averages of quarterly data.
+
+56
+
+Table 4. Survival rates of VAT registered enterprises up to 10 years, whole of UK
+Percent still trading
+Year of registration
+1995
+1996
+6 months
+94.7
+94.9
+12 months
+88.1
+88.3
+18 months
+81.2
+82.1
+24 months
+75.2
+76.5
+30 months
+69.9
+71.3
+36 months
+65.6
+66.9
+42 months
+61.7
+62.8
+48 months
+58.3
+59.2
+54 months
+55.1
+55.8
+60 months
+52.2
+52.6
+66 months
+49.5
+49.9
+72 months
+47.0
+47.2
+78 months
+44.7
+44.7
+84 months
+42.5
+42.4
+90 months
+40.3
+40.3
+96 months
+38.4
+38.4
+102 months
+36.5
+36.7
+108 months
+34.9
+35.1
+114 months
+33.4
+33.9
+120 months
+32.1
+
+1997
+95.5
+89.7
+83.8
+78.1
+73.1
+68.5
+64.2
+60.3
+56.8
+53.3
+50.2
+47.3
+44.7
+42.5
+40.3
+38.5
+37.1
+
+1998
+95.7
+89.9
+83.9
+78.1
+72.6
+67.7
+63.2
+59.2
+55.4
+51.9
+48.9
+46.2
+43.7
+41.6
+39.9
+
+1999
+95.8
+90.1
+84.1
+78.4
+73.0
+68.3
+63.6
+59.5
+55.7
+52.4
+49.5
+47.0
+45.1
+
+2000
+96.0
+90.5
+84.8
+79.1
+73.6
+68.4
+63.8
+59.8
+56.1
+53.0
+50.7
+
+Source: DTI Small Business Service, February 2007
+http://www.dtistats.net/smes/200702/
+
+57
+
+2001
+96.5
+91.4
+85.9
+80.0
+74.5
+69.7
+65.1
+61.2
+58.2
+
+2002
+97.2
+92.1
+86.6
+81.1
+76.0
+71.3
+67.7
+
+2003
+97.8
+93.0
+87.0
+81.9
+77.5
+
+2004
+97.9
+92.1
+86.9
+
+2005
+98.6
+
+Table 5. Small Firms Loan Guarantee Scheme loans since 1995-96
+
+1995–96
+1996–97
+1997–98
+1998–99
+1999–00
+2000–01
+2001–02
+2002–03
+2003–04
+
+Number of
+guaranteed
+loans
+7,484
+6,942
+5,081
+4,482
+4,279
+4,312
+4,369
+3,616
+5,966
+
+Value
+(£ million)
+
+Number of
+loans to startups
+na
+na
+1,378
+1,209
+1,180
+1,323
+1,286
+1,024
+1,850
+
+na
+na
+201.34
+188.80
+205.99
+240.46
+254.69
+269.461
+409.258
+
+Value
+to start ups
+(£ million)
+na
+na
+39.09
+37.62
+40.34
+53.17
+53.857
+50.719
+42.205
+
+Number of loans
+defaulted/claims
+made
+814
+1,642
+2,085
+1,957
+1,779
+1,531
+1,624
+1,690
+1,578
+
+Source: House of Commons Publications
+
+Table 6. Self-employment in the United Kingdom as a % of total employment by industry
+
+A,B
+C,E
+D
+F
+G,H
+I
+J,K
+L-N
+O,Q
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+Agriculture, fishing etc.
+Mining, quarrying, and utilities
+Manufacturing
+Construction
+Wholesale, retail & hotels and rest.
+Transport, storage & communications
+Financial int. & business services
+Public sector
+Other
+
+47.5
+1.0
+4.3
+31.0
+17.2
+7.7
+12.3
+3.7
+21.4
+
+54.5
+3.5
+6.2
+40.7
+15.9
+11.4
+14.9
+na
+na
+
+54.0
+2.6
+5.5
+45.7
+14.8
+12.7
+15.5
+5.0
+24.9
+
+46.7
+2.7
+5.2
+33.3
+11.9
+11.5
+14.8
+4.8
+24.7
+
+52.1
+3.2
+6.0
+37.1
+10.7
+12.5
+16.5
+4.5
+26.2
+
+All industries
+
+11.6
+
+14.0
+
+13.8
+
+11.9
+
+12.7
+
+Source: Labour Force Survey
+
+58
+
+Table 7. Proportion of total UK self-employment by industry (%)
+
+Agriculture, hunting & forestry
+Fishing
+Mining & quarrying
+Manufacturing
+Electricity gas & water supply
+Construction
+Wholesale, retail & motor trade
+Hotels & restaurants
+Transport, storage & communication
+Financial intermediation
+Real estate, renting & business activities
+Public administration & defence
+Education
+Health & social work
+Other community, social & personal
+Private households with employed persons
+Extra-territorial organisations, bodies
+Workplace outside UK
+
+1995
+
+1996
+
+1997 1998
+
+1999 2000
+
+2001 2002
+
+2003 2004
+
+2005 2006
+
+7.3
+0.3
+0.2
+7.6
+0.1
+23.0
+16.0
+4.9
+5.9
+1.3
+14.1
+0.4
+2.2
+6.3
+8.7
+1.7
+0.0
+0.1
+
+7.0
+0.3
+0.1
+7.6
+0.1
+23.3
+14.6
+4.9
+5.9
+1.1
+14.8
+0.5
+2.4
+6.5
+8.8
+1.9
+0.0
+0.1
+
+6.8
+0.3
+0.2
+7.8
+0.1
+21.3
+15.2
+5.1
+6.4
+1.3
+15.4
+0.3
+2.5
+6.7
+8.8
+1.8
+0.0
+0.0
+
+5.6
+0.3
+0.1
+7.9
+0.1
+19.8
+15.2
+3.8
+6.5
+1.2
+17.6
+0.5
+3.0
+6.6
+9.9
+1.8
+0.0
+0.1
+
+5.2
+0.2
+0.2
+6.8
+0.2
+20.6
+14.6
+3.6
+7.0
+1.6
+17.7
+0.5
+2.4
+7.1
+10.4
+1.8
+0.0
+0.0
+
+5.0
+0.3
+0.1
+6.7
+0.1
+22.0
+13.2
+3.6
+7.0
+1.4
+18.6
+0.6
+3.0
+6.3
+10.1
+1.9
+0.0
+0.1
+
+5.2
+0.2
+0.2
+6.3
+0.1
+23.3
+12.4
+3.3
+6.8
+1.5
+18.8
+0.6
+2.7
+6.7
+10.2
+1.8
+0.0
+0.0
+
+Source: Labour Force Survey
+
+59
+
+6.4
+0.3
+0.1
+8.6
+0.2
+19.9
+15.3
+4.3
+6.3
+1.4
+16.6
+0.4
+2.6
+6.7
+9.1
+1.8
+0.0
+0.0
+
+5.4
+0.3
+0.1
+7.3
+0.1
+19.7
+15.2
+3.6
+6.7
+1.4
+17.7
+0.5
+2.8
+7.0
+10.3
+1.8
+0.0
+0.1
+
+5.0
+0.3
+0.2
+7.0
+0.2
+21.8
+13.9
+3.4
+7.2
+1.3
+17.9
+0.5
+2.5
+6.5
+10.5
+1.8
+0.0
+0.0
+
+5.0
+0.2
+0.1
+6.7
+0.1
+23.1
+13.0
+3.6
+6.7
+1.5
+18.2
+0.6
+2.9
+6.4
+9.8
+2.0
+0.0
+0.0
+
+5.1
+0.2
+0.2
+6.9
+0.1
+23.0
+11.7
+2.9
+7.7
+1.2
+19.1
+0.7
+3.2
+5.9
+10.2
+1.8
+0.0
+0.0
+
+Table 8. The % of self-employed workers who had been employees a year earlier
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+
+7.6%
+7.9%
+8.9%
+9.4%
+9.6%
+7.6%
+8.6%
+7.5%
+6.8%
+7.7%
+7.5%
+7.0%
+7.8%
+8.0%
+8.5%
+8.8%
+9.3%
+9.2%
+8.5%
+8.7%
+8.2%
+
+Source: Labour Force Survey microdata Spring quarters - own calculations (weighted)
+
+60
+
+Table 9. UK and US weighted self-employment rates by country of birth (ages 16-70),
+2004-2006.
+UK
+US
+Total
+12.7%
+10.6%
+Non-immigrant
+12.5%
+10.6%
+Immigrants
+14.5%
+10.1%
+UK
+12.8%
+USA
+17.6%
+Argentina
+Armenia
+Australia
+Austria
+Bangladesh
+Barbados
+Belgium
+Brazil
+Burma/Myanmar
+Canada
+Caribbean Commonwealth
+Chile
+China
+Columbia
+Cuba
+Denmark
+Egypt
+Ethiopia
+Finland
+Former Czechoslovakia
+Former USSR etc
+France
+Germany
+Ghana
+Greece
+Guyana
+Hong Kong
+Hungary
+India
+Indonesia
+Iran
+Iraq
+Irish Republic
+Israel
+Italy
+Jamaica
+Japan
+Kenya
+Korea
+
+12.6%
+9.2%
+14.6%
+19.5%
+17.6%
+3.7%
+8.0%
+8.5%
+12.5%
+16.9%
+4.6%
+5.0%
+12.8%
+11.5%
+17.0%
+21.0%
+26.2%
+14.8%
+1.4%
+5.2%
+23.0%
+10.4%
+12.5%
+7.8%
+18.0%
+15.2%
+16.8%
+15.0%
+13.3%
+14.7%
+31.7%
+22.6%
+18.4%
+21.0%
+19.8%
+12.6%
+8.3%
+18.1%
+17.5%
+61
+
+7.3%
+22.2%
+9.2%
+14.3%
+11.0%
+21.9%
+20.8%
+9.6%
+13.0%
+5.2%
+18.5%
+11.4%
+14.2%
+18.8%
+10.8%
+10.2%
+15.8%
+12.2%
+12.7%
+9.9%
+15.1%
+10.8%
+9.4%
+10.3%
+11.9%
+26.2%
+26.6%
+4.3%
+25.1%
+16.1%
+21.3%
+5.3%
+7.9%
+13.4%
+28.1%
+17.6%
+10.2%
+12.8%
+12.5%
+
+Latvia
+Lebanon
+Lithuania
+Malaysia
+Mexico
+Morocco
+Netherlands
+New Zealand
+Nigeria
+Norway
+Pakistan
+Philippines
+Poland
+Portugal
+Romania
+Singapore
+Slovakia
+South Africa
+Spain
+Sweden
+Switzerland
+Thailand
+Trinidad & Tobago
+Turkey
+Ukraine
+Venezuela
+Vietnam
+
+13.2%
+21.5%
+24.9%
+11.3%
+14.0%
+13.4%
+13.1%
+16.5%
+8.9%
+19.8%
+30.7%
+3.4%
+16.1%
+7.4%
+43.9%
+11.1%
+2.6%
+11.3%
+9.6%
+10.8%
+19.6%
+31.5%
+10.7%
+26.5%
+14.8%
+22.8%
+14.4%
+
+14.3%
+26.4%
+4.6%
+14.0%
+3.0%
+8.3%
+6.8%
+6.8%
+7.1%
+10.3%
+5.5%
+8.0%
+10.1%
+5.9%
+7.4%
+7.6%
+7.0%
+10.6%
+9.1%
+29.7%
+3.9%
+13.9%
+12.0%
+22.1%
+9.9%
+11.7%
+27.8%
+
+Correlation= -0.0044
+Source: UK Labour Force Surveys, 2004-2006 and US Basic Monthly files of the Current
+Population Survey, 2004-2006
+
+62
+
+Table 10. Self-employment dprobits, 1994-1996
+(1)
+Age
+.0102 (51.34)
+Age2
+-.00008 (32.54)
+Male
+.0933 (119.37)
+Asian
+.0654 (22.69)
+Black
+-.0461 (13.27)
+Chinese
+.1637 (17.87)
+Other race
+.0047 (1.07)
+1995
+-.0014 (1.58)
+1996
+-.0041 (4.65)
+Immigrant
+Higher education
+-.0311 (20.80)
+GCSE A level or equiv
+.0336 (26.93)
+GCSE grades A-C or equiv
+-.0093 (7.02)
+Other qualifications
+-.0170 (12.70)
+No qualification
+-.0010 (0.82)
+Don't know
+.0033 (0.34)
+Rest of North
+South Yorkshire
+West Yorkshire
+Rest Yorks & Humber
+East Midlands
+East Anglia
+Inner London
+Outer London
+Rest of South East
+South West
+West Midlands
+Rest West Midlands
+
+(2)
+.0101 (50.89)
+-.00009 (32.20)
+.0935 (119.66)
+.0349 (11.36)
+-.0583 (17.22)
+.1206 (13.62)
+-.0165 (3.87)
+-.0013 (1.47)
+-.0040 (4.53)
+.0337 (18.51)
+-.0306 (20.41)
+.0346 (27.68)
+-.0080 (6.02)
+-.0180 (13.40)
+-.0003 (0.27)
+.0046 (0.47)
+
+63
+
+(3)
+.0123 (67.28)
+-.0001 (47.39)
+.0568 (74.14)
+.0657 (21.55)
+-.0436 (13.89)
+.1102 (13.65)
+-.0104 (2.68)
+-.0015 (1.87)
+-.0037 (4.52)
+.0263 (15.82)
+-.0280 (20.54)
+-.0040 (3.64)
+-.0316 (27.25)
+-.0401 (34.45)
+-.0358 (30.86)
+-.0311 (4.01)
+.0409 (10.35)
+.0415 ( 9.56)
+.0391 (10.06)
+.0471 (11.46)
+.0446 (12.31)
+.0625 (15.64)
+.0804 (18.95)
+.0577 (15.50)
+.0632 (18.52)
+.0920 (23.66)
+.0313 ( 8.28)
+.0636 (16.25)
+
+(4)
+.0084 (54.18)
+-.00006 (35.90)
+.0169 (22.52)
+.0406 (16.05)
+-.0288 (11.21)
+.1282 (16.59)
+-.0098 (3.15)
+-.0007 (1.08)
+-.0022 (3.32)
+.0174 (12.75)
+-.0102 (8.45)
+.0072 (6.63)
+.0019 (1.66)
+-.0089 (7.58)
+-.0038 (3.13)
+-.0085 (1.20)
+.0312 (9.35)
+.0384 (10.21)
+.0344 (10.34)
+.0371 (10.59)
+.0396 (12.73)
+.0557 (15.96)
+.0538 (15.21)
+.0537 (16.51)
+.0590 (19.94)
+.0796 (23.28)
+.0302 (9.31)
+.0590 (17.14)
+
+Greater Manchester
+Merseyside
+Rest of North West
+Wales
+Strathclyde
+Rest of Scotland
+Northern Ireland
+Energy & water
+Manufacturing
+Construction
+Distribution
+Transport
+Banking
+Public administration
+Other services
+Workplace outside UK
+Prod managers - manufacturing etc
+Specialist managers
+Financial & office managers etc
+Managers in transport and storing
+Managers in farming, horticulture etc
+Managers etc service industry
+Managers, administrators nes
+Natural scientists
+Engineers and technologists
+Health professionals
+Teaching professionals
+Legal professionals
+Business & financial professionals
+Architects, town planners, surveyors
+
+.0415 (10.81)
+.0330 ( 7.70)
+.0508 (13.08)
+.0713 (17.73)
+.0129 (3.50)
+.0167 (4.82)
+.0728 (13.93)
+-.1016 (72.52)
+-.1635 (141.31)
+-.0381 (20.89)
+-.1210 (88.27)
+-.1051 (95.89)
+-.1127 (89.87)
+-.1851 (138.14)
+-.0780 (53.07)
+-.0865 (12.89)
+
+64
+
+.0363 (11.03)
+.0312 (8.46)
+.0406 (12.25)
+.0558 (16.16)
+.0172 (5.42)
+.0178 (6.04)
+.0697 (14.95)
+-.0662 (39.86)
+-.0860 (47.13)
+.0037 (1.25)
+-.0515 (22.76)
+-.0465 (21.80)
+-.0316 (13.11)
+-.1032 (51.38)
+-.0328 (14.22)
+-.0278 (3.24)
+.0121 (3.30)
+.0106 (3.22)
+-.0356 (12.15)
+-.0277 (6.99)
+.6248 (57.03)
+.3574 (57.96)
+.0621 (12.71)
+.0064 (1.20)
+.0653 (15.22)
+.5341 (62.93)
+.0777 (17.62)
+.2947 (35.42)
+.1457 (26.12)
+.1190 (18.63)
+
+Librarians etc professionals
+Professional occupations nes
+Scientific technicians
+Draughtspersons, surveyors etc
+Computer analysts, programmers
+Ship, aircraft officers & controllers
+Health associate professionals
+Legal associate professionals
+Business, finance associate profs
+Welfare etc associate professionals
+Artistic, sports etc professionals
+Prof, technical occupations nes
+Administrative staff in government
+Numerical clerks and cashiers
+Filing and record clerks
+Clerks nes
+Stores, despatch clerks & keepers
+Secretarial etc personnel
+Receptionist, telephonists etc
+Clerical, secretarial occupations nes
+Construction trades
+Metal machining, fitting etc trades
+Electrical, electronic trades
+Metal forming, welding etc trades
+Vehicle trades
+Textiles, garments etc trades
+Printing and related trades
+Woodworking trades
+Food preparation trades
+Other craft, related trades nes
+
+-.0493 (5.78)
+.0339 (6.43)
+-.0254 (6.25)
+.0522 (8.81)
+.0004 (0.11)
+.0000 (0.01)
+.1023 (20.27)
+-.0211 (2.74)
+.0413 (9.43)
+.2585 (34.28)
+.4088 (57.52)
+.1980 (31.17)
+-.0633 (13.58)
+-.0142 (4.77)
+-.0400 (11.30)
+-.0307 (9.90)
+-.0607 (18.81)
+-.0200 (6.53)
+-.0506 (14.13)
+-.0483 (10.21)
+.4576 (62.54)
+.0551 (12.70)
+.0867 (18.82)
+.1824 (31.12)
+.1407 (24.56)
+.1800 (28.00)
+.0813 (12.20)
+.3871 (52.08)
+.1013 (13.37)
+.1744 (29.46)
+
+65
+
+Ncos etc, armed forces
+Security etc service occupations
+Catering occupations
+Travel attendants etc occupations
+Health and related occupations
+Childcare and related occupations
+Hairdressers, beauticians etc
+Domestic staff etc
+Personal service occupations nes
+Buyers, brokers agents etc
+Sales representatives
+Sales, check-out assistants
+Mobile salespersons & agents
+Sales occupations nes
+Food, drink, tobacco operatives
+Textiles, tannery operatives
+Chemicals, paper etc operatives
+Metal making, treating operatives
+Metal working operatives
+Assemblers, line workers
+Other routine operatives
+Road transport operatives
+Other transport, machine operatives
+Plant & machine operatives nes
+Other farming related occupations
+Other manufacturing etc occupations
+Other construction occupations
+Other transport occupations
+Other communication occupations
+Other sales, service occupations
+
+-.0583 (6.06)
+-.0518 (16.08)
+-.0345 (10.98)
+-.0280 (4.06)
+-.0199 (5.10)
+.3007 (44.96)
+.4172 (47.90)
+-.0347 (7.85)
+.0228 (3.79)
+.0591 (8.06)
+.0942 (19.36)
+-.0451 (17.96)
+.4964 (51.70)
+.0884 (11.82)
+-.0367 (6.54)
+.0523 (5.02)
+-.0233 (4.58)
+.0099 (1.05)
+-.0024 (0.40)
+.0086 (1.64)
+-.0465 (12.85)
+.1216 (25.24)
+.0125 (2.89)
+.0819 (15.97)
+.0687 (11.62)
+.0130 (1.61)
+.1986 (29.31)
+-.0349 (6.82)
+.0096 (2.18)
+.0027 (0.85)
+
+66
+
+Other occupations nes
+Pseudo R2
+N
+
+-.0002 (0.04)
+.0663
+776,15
+
+.0669
+776,159
+
+.1822
+775,542
+
+.3237
+772,828
+
+Source: Labour Force Surveys, 1994-1996
+Notes: excluded categories; degree or equivalent; 1994; Gen managers - government, large orgs; Tyne and Wear. Dependent variable set to one
+if self-employed, zero if an employee.
+
+67
+
+Table 11. Self-employment dprobits, 2004-2006
+(1)
+Age
+.0092 (43.66)
+Age2
+-.00006 (26.12)
+Male
+.0911 (110.09)
+Asian
+.0341 (14.39)
+Black
+-.0360 (11.41)
+Chinese
+.0605 (8.02)
+Other race
+.0054 (1.31)
+2005
+-.0013 (1.33)
+2006
+.0006 (0.67)
+Immigrant
+Higher education
+-.0208 (13.95)
+GCSE A level or equiv
+.0214 (17.79)
+GCSE grades A-C or equiv
+-.0089 (7.19)
+Other qualifications
+-.0095 (6.75)
+No qualification
+.0070 (4.63)
+Don't know
+.0243 (4.86)
+Regions
+Rest of North
+South Yorkshire
+West Yorkshire
+Rest Yorks & Humber
+East Midlands
+East Anglia
+Inner London
+Outer London
+Rest of South East
+South West
+West Midlands
+Rest West Midlands
+
+(2)
+.0092 (43.41)
+-.00006 (25.85)
+.0912 (110.24)
+.0139 (5.48)
+-.0465 (15.01)
+.0348 (4.80)
+-.0140 (3.43)
+-.0013 (1.35)
+.0005 (0.50)
+.0282 (16.30)
+-.0204 (13.64)
+.0224 (18.58)
+-.0076 (6.11)
+-.0120 (8.52)
+.0072 (4.73)
+.0247 (4.93)
+
+68
+
+(3)
+.0109 (55.19)
+-.0000 (35.85)
+.0494 (60.52)
+.0388 (15.62)
+-.0362 (12.61)
+.0472 (6.97)
+-.0029 (0.75)
+-.0018 (2.08)
+-.0002 (0.31)
+.0189 (11.98)
+-.0194 (14.19)
+-.0080 (7.31)
+-.0267 (23.85)
+-.0322 (26.36)
+-.0262 (20.06)
+-.0062 (1.48)
+
+(4)
+.0073 (45.50)
+-.00005 (27.85)
+.0166 (22.06)
+.0315 (15.47)
+-.0183 (7.89)
+.0322 (5.99)
+-.0035 (1.17)
+-.0015 (2.14)
+-.0002 (0.38)
+.0092 (7.51)
+.0015 (1.27)
+.0025 (2.61)
+.0048 (4.54)
+-.0054 (4.73)
+.0012 (1.00)
+.0158 (4.23)
+
+.0238 (5.94)
+.0173(4.03)
+.0237 (6.01)
+.0393 (9.25)
+.0365 (9.75)
+.0393 (9.76)
+.0754 (16.85)
+.0563 (14.21)
+.0473 (13.54)
+.0525 (13.80)
+.0232 (5.91)
+.0455 (11.35)
+
+.0098 (3.18)
+.0132 (3.84)
+.0124 (4.04)
+.0239 (7.11)
+.0232 (7.80)
+.0246 (7.69)
+.0398 (11.44)
+.0347 (11.01)
+.0300 (10.78)
+.0314 (10.40)
+.0155 (4.95)
+.0266 (8.42)
+
+Greater Manchester
+Merseyside
+Rest of North West
+Wales
+Strathclyde
+Rest of Scotland
+Northern Ireland
+Industries
+Energy & water
+Manufacturing
+Construction
+Distribution
+Transport
+Banking
+Public administration
+Other services
+Workplace outside UK
+Occupations
+Production managers
+Functional managers
+Quality and customer care managers
+Financial instit and office manager
+Managers in distrib, storage and retail
+Protective service officers
+Health and social services managers
+Mngrs in farming, hort, forestry etc
+Managers in hospitality and leisure
+Managers in other service industries
+Science professionals
+Engineering professionals
+Info & communication technology
+
+.0272 (6.78)
+.0088 (2.06)
+.0394 (9.70)
+.0338 (8.59)
+.0002 (0.07)
+.0151 (4.13)
+.0795 (17.82)
+
+.0151 (4.79)
+.0061 (1.78)
+.0245 (7.58)
+.0202 (6.49)
+-.0029 (1.01)
+.0069 (2.42)
+.0500 (13.95)
+
+-.0944 (57.75)
+-.1300 (103.97)
+-.0520 (25.93)
+-.1231 (77.84)
+-.0991 (75.11)
+-.1062 (67.73)
+-.1982 (111.89)
+-.0677 (36.88)
+-.0859 (9.01)
+
+-.0593 (37.26)
+-.0757 (49.66)
+-.0391 (18.15)
+-.0612 (30.42)
+-.0547 (31.50)
+-.0480 (23.25)
+-.1245 (60.94)
+-.0482 (27.44)
+-.0452 (4.71)
+.1299 (13.03)
+.0599 (7.49)
+-.0350 (4.63)
+.0116 (1.64)
+.1410 (13.72)
+-.0011 (0.10)
+.1486 (12.38)
+.3059 (17.79)
+.3655 (25.70)
+.5311 (34.66)
+.0568 (5.42)
+.1457 (13.86)
+.1323 (12.95)
+
+69
+
+Health professionals
+Teaching professionals
+Research professionals
+Legal professionals
+Business & statistical professional
+Architects, town planners, surveyor
+Public service professionals
+Librarians and related professional
+Science and engineering technician
+Draughtspersons & bldng inspectors
+IT service delivery occupations
+Health associate professionals
+Therapists
+Social welfare assoc professionals
+Protective service occupations
+Artistic and literary occupations
+Design associate professionals
+Media associate professionals
+Sports and fitness occupations
+Transport associate professionals
+Legal associate professionals
+Business & finance assoc professnls
+Sales & related assoc professionals
+Conservation associate professional
+Public service and other assoc profs
+Administrative: government & relate
+Administrative occupations: finance
+Administrative occupations: records
+Administrative: communications
+Administrative occupations: general
+Secretarial and related occupations
+
+.5993 (36.89)
+.1787 (16.57)
+.1567 (11.06)
+.4107 (26.59)
+.2453 (19.85)
+.1885 (15.68)
+.1070 (9.80)
+-.0059 (0.50)
+.0308 (3.59)
+.1567 (11.75)
+.0254 (2.87)
+.1130 (11.24)
+.6494 (37.25)
+.0942 (9.02)
+-.0311 (3.55)
+.7805 (45.47)
+.5164 (31.13)
+.4567 (29.04)
+.4666 (27.19)
+.0265 (2.48)
+.0749 (5.78)
+.1703 (15.60)
+.1714 (15.53)
+.0836 (5.53)
+.1313 (12.70)
+-.0438 (6.87)
+.0368 (4.86)
+-.0084 (1.32)
+-.0196 (1.61)
+.0273 (3.65)
+.0237 (3.29)
+
+70
+
+Agricultural trades
+Metal forming, welding and related
+Metal machining, fitting, instr making
+Vehicle trades
+Electrical trades
+Construction trades
+Building trades
+Textiles and garment trades
+Painting trades
+Food preparation trades
+Skilled trades n.e.c
+Healthcare & related personal service
+Childcare & related personal services
+Animal care services
+Leisure & travel service
+Hairdressers and related
+Housekeeping occupations
+Personal services occupations n.e.c
+Sales assistants and retail cashier
+Sales related
+Customer service
+Process operatives
+Print and machine operatives
+Assemblers and routine operatives
+Construction operatives
+Transport drivers and operatives
+Mobile machine drivers & operatives
+Elementary agricultural
+Elementary construction
+Elementary process plant
+Elementary goods storage
+
+.4719 (29.94)
+.2196 (16.46)
+.0856 (9.03)
+.2092 (17.24)
+.2091 (17.86)
+.5165 (34.13)
+.6314 (37.74)
+.5335 (28.03)
+.1586 (11.59)
+.1409 (13.01)
+.5139 (30.38)
+.0880 (9.44)
+.3663 (26.25)
+.2337 (13.56)
+.0682 (6.82)
+.5850 (34.97)
+-.0147 (1.83)
+.1577 (8.88)
+-.0233 (4.27)
+.3254 (23.29)
+-.0412 (7.10)
+.0090 (1.16)
+.0467 (4.98)
+.0614 (6.74)
+.1710 (14.40)
+.2668 (21.75)
+.0005 (0.08)
+.0788 (7.40)
+.2615 (19.92)
+-.0085 (1.14)
+-.0404 (7.44)
+
+71
+
+Elementary administration
+Elementary personal service
+Elementary cleaning
+Elementary security
+Elementary sales
+Pseudo R2
+N
+
+.0244 (3.04)
+-.0201 (3.35)
+.1462 (14.21)
+-.0209 (3.29)
+-.0535 (7.51)
+.0653
+632,982
+
+.0674
+632,917
+
+.1652
+632,415
+
+.3061
+632,218
+
+Source: Labour Force Surveys, 2004-2006
+Notes: excluded categories; degree or equivalent; 2004; Corporate managers & senior officials; Tyne and Wear. T-statistics in
+parentheses.
+
+72
+
+Table 12. Second job self-employment, dprobits, 2004-2006
+(1)
+(2)
+Age
+.0012 (17.46)
+.0010 (14.86)
+-.00001 (15.00) -.00001 (13.03)
+Age2
+Male
+.0008 (3.13)
+.0024 (9.76)
+Asian
+-.0029 (3.63)
+-.0026 (3.46)
+Black
+-.0041 (4.43)
+-.0042 (4.80)
+Chinese
+-.0005 (0.24)
+-.0011 (0.55)
+Other race
+.0008 (0.66)
+.0004 (0.34)
+2005
+.0000 (0.06)
+.0000 (0.07)
+2006
+.0000 (0.13)
+.0000 (0.12)
+Immigrant
+-.0005 (1.11)
+-.0007 (1.53)
+Rest of North
+.0034 (2.20)
+.0034 (2.27)
+South Yorkshire
+.0034 (2.02)
+.0031 (1.95)
+West Yorkshire
+.0068 (4.10)
+.0068 (4.25)
+Rest Yorks & Humber
+.0027 (1.73)
+.0031 (2.04)
+East Midlands
+.0069 (4.47)
+.0072 (4.83)
+East Anglia
+.0116 (6.40)
+.0115 (6.50)
+Inner London
+.0150 (7.39)
+.0147 (7.47)
+Outer London
+.0067 (4.27)
+.0068 (4.44)
+Rest of South East
+.0094 (6.45)
+.0097 (6.83)
+South West
+.0111 (6.70)
+.0115 (7.05)
+West Midlands
+.0040 (2.59)
+.0039 (2.65)
+Rest West Midlands
+.0051 (3.29)
+.0056 (3.70)
+Greater Manchester
+.0047 (2.98)
+.0048 (3.12)
+Merseyside
+-.0030 (2.07)
+-.0029 (2.13)
+Rest of North West
+.0054 (3.41)
+.0060 (3.83)
+Wales
+.0049 (3.18)
+.0045 (3.10)
+Strathclyde
+-.0003 (0.27)
+-.0004 (0.34)
+Rest of Scotland
+.0076 (4.73)
+.0071 (4.64)
+
+73
+
+(3)
+.0008 (12.22)
+-.00001 (9.61)
+.0016 (6.77)
+-.0025 (3.65)
+-.0035 (4.19)
+-.0018 (1.01)
+.0005 (0.45)
+-.0000 (0.15)
+-.0001 (0.59)
+-.0003 (0.84)
+.0031 (2.22)
+.0031 (2.06)
+.0063 (4.20)
+.0029 (2.07)
+.0065 (4.66)
+.0104 (6.32)
+.0100 (5.92)
+.0049 (3.58)
+.0079 (6.12)
+.0098 (6.54)
+.0036 ( 2.57)
+.0048 ( 3.45)
+.0041 ( 2.88)
+-.0024 (1.88)
+.0051 (3.53)
+.0041 (3.01)
+-.0003 (0.31)
+.0064 (4.46)
+
+Northern Ireland
+Public company, plc
+Nationalised industry etc
+Central govt ,civil service
+Local govt or council
+University, etc
+Health authority/NHS trust
+Charity, voluntary org etc
+Armed forces
+Other public organisation
+Higher degree
+NVQ level 5
+First/Foundation degree
+Other degree
+NVQ level 4
+Diploma in higher Educn
+HNC,HND,BTEC etc higher
+Teaching, further educn
+Teaching, secondary educn
+Teaching, primary educn
+Teaching foundation stage
+Teaching, level not stated
+Nursing etc
+RSA higher diploma
+Other Higher Educn below degree
+NVQ level 3
+International bac'te
+GNVQ/GSVQ advanced
+A level or equivalent
+RSA advanced diploma
+
+.0080 (4.63)
+
+.0072 (4.40)
+-.0011 (1.35)
+-.0023 (1.64)
+.0012 (1.78)
+.0060 (14.97)
+.0229 (20.51)
+.0117 (19.74)
+.0191 (19.89)
+-.0059 (3.79)
+.0033 (2.22)
+
+74
+
+.0072 (4.61)
+-.0017 (2.21)
+-.0022 (1.65)
+-.0009 (1.56)
+.0023 (6.76)
+.0100 (11.71)
+.0075 (13.96)
+.0120 (14.98)
+-.0055 (3.99)
+.0003 (0.30)
+.0325 (23.05)
+.0315 (6.94)
+.0216 (20.00)
+.0307 (14.77)
+.0168 (7.36)
+.0221 (12.25)
+.0183 (14.11)
+.0408 (11.05)
+.0019 (0.62)
+.0232 (7.57)
+.0278 (2.98)
+.0408 (6.89)
+.0083 (6.27)
+.0088 (1.35)
+.0321 (11.15)
+.0133 (10.12)
+.0416 (3.23)
+.0203 (6.37)
+.0174 (14.89
+.0246 (4.36)
+
+OND,ONC,BTEC etc, national
+City & guilds advanced craft/part 1
+SCE higher or equivalent
+Access qualifications
+A,S level or equivalent
+Trade apprenticeship
+NVQ level 2 or equivalent
+Intermediate Welsh bac'te
+GNVQ/GSVQ intermediate
+RSA diploma
+City & Guilds craft/part 2
+BTEC,SCOTVEC first diploma etc
+O level, GCSE grade a-c or equiv
+NVQ level 1 or equivalent
+CSE below grade1,gcse < grade c
+RSA other
+City & guilds foundation/part 1
+YT,YTP certificate
+Key skills qualification
+Other qualification
+Don't know
+Pseudo R2
+N
+
+.0157 (9.87)
+.0061 (4.96)
+.0106 (4.84)
+.0152 (2.19)
+.0118 (3.86)
+.0063 (6.41)
+.0103 (8.04)
+.0107 (1.68)
+.0028 (0.61)
+.0139 (2.91)
+.0153 (7.14)
+.0190 (4.45)
+.0091 (11.05)
+-.0007 (0.30)
+.0060 (4.82)
+.0075 (3.65)
+.0028 (0.73)
+.0084 (0.79)
+.0005 (0.08)
+.0062 (6.60)
+-.0023 (1.01)
+551,584
+.0162
+
+550,131
+.0323
+
+548,659
+.0518
+
+Source: Labour Force Surveys, 2004-2006.
+Notes: sample consists of employees in their first jobs. Dependent variable set to one if employed in first job and self-employed in second job
+and 0 otherwise. Excluded - Tyne and Wear; whites; no qualification and private sector
+
+75
+
+Table 13. US Self-employment rates – incorporated and unincorporated, 2005
+
+Total (1,000)
+
+Unincorporated self-employed
+Total
+Male
+Female
+10,464
+6,632
+3,832
+5.8%
+
+Incorporated self-employed
+Total
+Male
+Female
+5,254
+3,828
+1,425
+3.7%
+
+5.0%
+
+Wage/salary workers
+Total
+Male Female
+125,889
+65,467
+60,423
+
+% employment
+
+7.4%
+
+8.7%
+
+2.2%
+
+16-19 years old
+20-24 years old
+25-34 years old
+35-44 years old
+45-54 years old
+55-64 years old
+65 years old +
+
+0.8
+3.0
+15.4
+24.4
+26.9
+19.8
+9.7
+
+0.8
+3.3
+14.9
+23.7
+27.2
+19.5
+10.6
+
+0.6
+2.4
+16.2
+25.7
+26.5
+20.3
+8.2
+
+0.1
+1.1
+11.6
+26.6
+31.4
+20.9
+8.2
+
+0.1
+1.0
+11.5
+26.3
+31.4
+21.2
+8.4
+
+0.1
+1.4
+11.8
+27.3
+31.6
+20.1
+7.6
+
+4.7
+10.7
+22.6
+24.4
+22.8
+12.0
+2.9
+
+4.4
+10.7
+23.8
+24.7
+22.0
+11.6
+2.8
+
+5.0
+10.6
+21.3
+23.9
+23.6
+12.5
+3.0
+
+White
+Black
+Asian
+Hispanic
+
+87.6
+6.3
+4.1
+9.9
+
+87.9
+6.3
+3.8
+11.2
+
+87.2
+6.1
+4.6
+7.6
+
+89.7
+3.7
+5.3
+6.2
+
+90.3
+3.4
+5.0
+6.2
+
+88.0
+4.6
+6.0
+6.2
+
+81.8
+11.5
+4.4
+13.7
+
+83.2
+10.1
+4.4
+15.8
+
+80.3
+13.0
+4.3
+11.4
+
+U.S. born
+Foreign-born
+U.S. citizen
+Not U.S. citizen
+
+86.6
+13.7
+6.2
+7.5
+
+85.5
+14.7
+6.2
+8.5
+
+88.3
+12.0
+6.1
+5.8
+
+86.6
+13.4
+8.7
+4.6
+
+86.8
+13.2
+8.7
+4.5
+
+86.2
+13.9
+8.8
+5.0
+
+85.0
+15.0
+5.9
+9.1
+
+82.8
+17.2
+5.8
+11.3
+
+87.4
+12.6
+5.9
+6.7
+
+Source: Current Population Survey. 2007 Statistical Abstract of the United States, table 590. Downloadable at
+www.census.gov/compendia.statab/tables/07s0590.xls
+Notes: wage and salary workers excludes the incorporated self-employed.
+
+76
+
+Table 14. United States Self-employment (incorporated+unincorporated) dprobits, 2004-2006
+(1)
+(2)
+(3)
+Age
+.0094 (53.62)
+.0093 (53.17)
+.0104 (60.99)
+Age2
+-.00007 (32.68)
+-.00006 (32.27)
+-.00007 (40.17)
+Male
+.0515 (78.29)
+.0514 (78.23)
+.0256 (39.31)
+Asian
+-.0130 (6.83)
+-.0207 (9.81)
+-.0151 (6.93)
+Black
+-.0543 (43.67)
+-.0549 (43.56)
+-.0375 (28.72)
+Native American
+-.0300 (7.15)
+-.0300 (7.18)
+-.0272 (6.84)
+Hispanic
+-.0303 (22.19)
+-.0349 (24.68)
+-.0361 (25.95)
+Other race
+-.0069 (2.20)
+-.0073 (2.33)
+-.0088 (2.82)
+2005
+-.0017 (1.45)
+-.0017 (1.45)
+-.0019 (1.64)
+2006
+-.0012 (1.07)
+-.0013 (1.12)
+-.0021 (1.85)
+Immigrant
+.0130 (8.36)
+.0078 (5.41)
+1st - 4th grade
+-.0110 (0.93)
+-.0113 (0.96)
+-.0123 (1.05)
+5th or 6th grade
+.0160 (1.28)
+.0157 (1.27)
+.0145 (1.16)
+7th or 8th grade
+.0486 (3.72)
+.0525 (3.98)
+.0687 (4.80)
+9th grade
+.0263 (1.96)
+.0303 (2.23)
+.0501 (3.51)
+.0352 (2.65)
+.0413 (3.05)
+.0692 (4.68)
+10th grade
+th
+11 grade
+.0210 (1.67)
+.0270 (2.10)
+.0574 (4.08)
+12th grade no diploma
+.0181 (1.41)
+.0230 (1.76)
+.0520 (3.68)
+High school graduate
+.0237 (1.96)
+.0292 (2.38)
+.0610 (4.75)
+Some college
+.0353 (2.82)
+.0415 (3.26)
+.0833 (6.00)
+Associates - vocational
+.0287 (2.27)
+.0349 (2.71)
+.0794 (5.44)
+Associates - academic
+.0163 (1.35)
+.0222 (1.80)
+.0785 (5.42)
+Bachelor's degree
+.0372 (2.94)
+.0430 (3.34)
+.0986 (6.83)
+Master's degree
+.0056 (0.46)
+.0105 (0.85)
+.0841 (5.54)
+Professional degree
+.1532 (8.72)
+.1618 (9.09)
+.2891 (13.31)
+Doctorate degree
+.0657 (4.35)
+.0716 (4.66)
+.2030 (10.26)
+States
+Alabama
+-.0230 (5.91)
+
+77
+
+(4)
+.0087 (56.44)
+-.00006 (37.17)
+.0236 (37.07)
+-.0094 (4.69)
+-.0298 (26.33)
+-.0213 (6.03)
+-.0275 (22.78)
+-.0053 (1.88)
+-.0017 (1.72)
+-.0025 (2.51)
+.0079 (6.20)
+-.0124 (1.27)
+.0092 (0.88)
+.0469 (3.92)
+.0306 (2.57)
+.0439 (3.58)
+.0328 (2.86)
+.0267 (2.31)
+.0355 (3.30)
+.0474 (4.18)
+.0412 (3.58)
+.0410 (3.52)
+.0510 (4.40)
+.0507 (4.05)
+.2476 (12.80)
+.1801 (10.06)
+-.0210 (6.07)
+
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+D.C.
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+
+.0045 (1.20)
+-.0104 (2.68)
+-.0055 (1.39)
+.0146 (5.26)
+.0081 (2.22)
+-.0200 (6.76)
+-.0269 (7.28)
+-.0303 (8.31)
+-.0036 (1.35)
+-.0097 (2.96)
+-.0115 (2.89)
+.0099 (2.26)
+-.0226 (8.16)
+-.0225 (6.85)
+-.0110 (3.43)
+-.0039 (1.06)
+-.0242 (7.00)
+-.0102 (2.39)
+-.0222 (7.52)
+-.0241 (7.47)
+-.0160 (5.06)
+-.0078 (2.43)
+-.0052 (1.18)
+-.0165 (4.92)
+.0161 (3.96)
+-.0147 (4.14)
+-.0237 (6.70)
+-.0088 (2.92)
+-.0228 (7.52)
+.0036 (0.68)
+
+78
+
+.0063 (1.85)
+-.0161 (4.87)
+-.0056 (1.59)
+.0043 (1.79)
+.0001 (0.03)
+-.0215 (8.46)
+-.0310 (9.84)
+-.0287 (9.03)
+-.0092 (3.95)
+-.0128 (4.53)
+-.0147 (4.30)
+.0082 (2.08)
+-.0241 (9.97)
+-.0226 (7.91)
+-.0145 (4.99)
+-.0072 (2.18)
+-.0232 (7.72)
+-.0123 (3.47)
+-.0242 (9.85)
+-.0236 (8.55)
+-.0172 (6.33)
+-.0117 (4.24)
+-.0067 (1.73)
+-.0169 (5.83)
+.0121 (3.26)
+-.0167 (5.33)
+-.0277 (9.23)
+-.0102 (3.81)
+-.0233 (9.09)
+-.0033 (0.76)
+
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Mining
+Industries
+Construction
+Manufacturing
+Wholesale and Retail Trade
+Transportation and Utilities
+Information
+Financial Activities
+Professional & Business Services
+Educational & Health Services
+Leisure and hospitality
+
+79
+
+-.0138 (5.03)
+-.0173 (5.03)
+-.0057 (1.60)
+-.0243 (8.06)
+.0068 (1.60)
+.0067 (1.84)
+-.0267 (9.58)
+-.0222 (7.41)
+-.0156 (4.06)
+.0053 (1.54)
+-.0094 (2.42)
+-.0045 (1.61)
+.0092 (2.40)
+.0051 (1.44)
+-.0221 (7.07)
+-.0130 (3.82)
+-.0355 (10.21)
+-.0088 (2.35)
+.0053 (1.33)
+-.0848 (42.80)
+
+-.0175 (7.34)
+-.0183 (6.19)
+-.0122 (3.97)
+-.0235 (9.15)
+.0020 (0.54)
+.0004 (0.15)
+-.0252 (10.38)
+-.0219 (8.48)
+-.0166 (4.89)
+-.0023 (0.77)
+-.0124 (3.73)
+-.0090 (3.61)
+.0032 (0.94)
+.0019 (0.63)
+-.0242 (9.18)
+-.0139 (4.69)
+-.0317 (10.30)
+-.0109 (3.39)
+.0008 (0.25)
+-.0693 (43.87)
+
+-.0689 (46.74)
+-.1200 (115.41)
+-.1116 (90.39)
+-.0933 (82.66)
+-.0879 (76.17)
+-.0911 (82.70)
+-.0824 (59.05)
+-.1519 (114.22)
+-.0950 (75.46)
+
+-.0686 (46.91)
+-.1046 (100.68)
+-.1097 (92.54)
+-.0778 (77.00)
+-.0744 (84.12)
+-.0822 (84.42)
+-.0750 (54.96)
+-.1405 (95.87)
+-.0864 (72.63)
+
+Other Services
+Occupations
+Business and financial operations
+Computer and mathematical science
+Architecture and engineering
+Life, physical & social science
+Community and social service
+Legal occupations
+Education, training, and library
+Arts, design, entertainment, sports, & media
+Healthcare practitioner and technical
+Healthcare support
+Protective service
+Food preparation and serving related
+Building & grounds cleaning & maintenance
+Personal care and service
+Sales and related
+Office & administrative support
+Farming, fishing, & forestry
+Construction & extraction
+Installation, maintenance & repair
+Production occupations
+Transportation & material moving
+Pseudo R2
+.0654
+N
+2,254,528
+
+-.0745 (53.80)
+
+.0656
+2,254,528
+
+.1548
+2,144,356
+
+-.0731 (64.52))
+-.0392 (30.81)
+-.0613 (47.11)
+-.0625 (45.51)
+-.0519 (21.70)
+-.0620 (30.59)
+-.0544 (33.31)
+-.0628 (46.49)
+.0681 (27.57)
+-.0393 (28.06)
+-.0407 (18.82)
+-.0678 (31.70)
+-.0664 (49.03)
+-.0364 (26.94)
+.0930 (38.55)
+.0080 (5.56)
+-.0731 (80.93)
+-.0690 (53.28)
+-.0422 (33.87)
+-.0477 (39.88)
+-.0502 (40.19)
+-.0529 (48.30)
+.1642
+2,144,356
+
+Source: Basic Monthly files of the Current Population Survey, 2004-2006. Notes: excluded categories: Whites: Less than 1st grade; Maine;
+Agriculture, Forestry, Fishing and Hunting; Management occupations. Public administration is dropped in columns 3 and 4 as all workers are
+employees. Standard errors are adjusted for clustering at the household level. Incorporated sample excludes the unincorporated self-employed
+while the unincorporated sample excludes the incorporated self-employed. Ages 16-70
+
+80
+
+Table 15. European Union self-employment dprobits
+Time
+Age
+Age2
+Male
+Austria
+Belgium
+Bulgaria
+Croatia
+Cyprus Republic
+Cyprus Turkish
+Czech Republic
+Denmark
+East Germany
+Estonia
+Finland
+France
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Slovakia
+Slovenia
+Spain
+Sweden
+Turkey
+West Germany
+Age left school 15
+Age left school 16
+Age left school 17
+Age left school 18
+Age left school 19
+Age left school 20
+Age left school 21
+Age left school ≥22
+Still studying
+
+1974-2002
+-.0016 (22.71)
+.0052 (20.85)
+.00001 (0.48)
+.0529 (46.98)
+.0716 (17.51)
+.0883 (29.11)
+
+2005-2006
+n/a
+.0060 (4.06)
+-.00002 (1.47)
+.0613 (10.09)
+-.0008 (0.04)
+.0173 (0.76)
+-.0014 (0.06)
+.0296 (1.19)
+.0117 (0.44)
+.4431 (12.58)
+.0780 (3.33)
+-.0136 (0.63)
+.1045 (3.37)
+.0180 (0.78)
+-.0094 (0.44)
+-.0302 (1.42)
+.3128 (10.88)
+-.0043 (0.19)
+.0366 (1.61)
+.1661 (6.61)
+-.0531 (2.56)
+-.0372 (1.65)
+-.0005 (0.02)
+-.0001 (0.00)
+-.0293 (1.46)
+n/a
+.1326 (4.77)
+.0277 (1.13)
+.0726 (2.93)
+.0219 (1.00)
+.0217 (0.92)
+-.0329 (1.35)
+.0026 (0.13)
+.4608 (14.15)
+.0248 (1.12)
+
+-.0278 (10.33)
+-.0089 (2.59)
+.0500 (11.60)
+.0453 (15.74)
+.3557 (97.56)
+.1727 (54.05)
+.1877 (58.20)
+.0124 (3.36)
+.0056 (1.90)
+.0094 (1.65)
+.1398 (39.70)
+
+.1434 (39.32)
+-.0158 (4.08)
+.0013 (0.51)
+-.0333 (15.43)
+-.0320 (15.85)
+-.0311 (14.06)
+-.0308 (15.91)
+-.0281 (11.63)
+-.0317 (12.31)
+-.0341 (12.10)
+-.0188 (10.26)
+-.0460 (5.94)
+81
+
+Age left school 16-19
+Age left school 20+
+No schooling
+Pseudo R2
+N
+
+-.0260 (2.82)
+-.0284 (2.97)
+-.0240 (0.53)
+.0982
+488,548
+
+.1084
+13,769
+
+Source column 1: Eurobarometer Trend file 1975-2002 (ICPSR #4357). Notes:
+excluded category UK and Age left school at 14 or under.
+Source: column 2: Eurobarometer 64.4, Mental well-being, Telecommunications,
+Harmful Internet Content and Farm Animal welfare, December 2005-January 2006
+(ICPSR #4667). Notes: excluded category UK and Age left school at 15 or under.
+T-statistics in parentheses.
+
+82
+
+Table 16. Desire for self-employment and difficulties in starting a business (workers
+only)
+(1)
+(2)
+(3)
+(4)
+Austria
+40
+39
+32
+Belgium
+37
+29
+31
+Cyprus
+59
+39
+18
+Czech Republic
+39
+37
+39
+33
+Denmark
+30
+36
+24
+37
+Estonia
+49
+47
+43
+Finland
+28
+17
+27
+France
+42
+43
+38
+41
+Germany
+46
+32
+34
+Greece
+63
+51
+37
+Hungary
+50
+47
+58
+46
+Iceland
+61
+22
+15
+Ireland
+62
+21
+18
+Italy
+63
+57
+32
+31
+Latvia
+44
+48
+41
+Lichtenstein
+54
+20
+10
+Lithuania
+62
+52
+58
+Luxembourg
+45
+30
+27
+Malta
+46
+52
+28
+Netherlands
+36
+33
+9
+16
+Norway
+27
+36
+14
+25
+Poland
+80
+57
+42
+37
+Portugal
+73
+69
+36
+34
+Slovakia
+36
+33
+28
+Slovenia
+58
+35
+62
+61
+Spain
+39
+61
+35
+26
+Sweden
+39
+35
+39
+45
+UK
+45
+47
+24
+24
+USA
+71
+66
+26
+20
+Sources: Column 1 1997/8 International Social Survey Programme and Blanchflower,
+Oswald and Stutzer (2001). Columns 2-4 Flash Eurobarometers 160 Entrepreneurship 5,
+2004; Flash Eurobarometer 146 Entrepreneurship 4, 2003; Flash Eurobarometer 134
+Entrepreneurship 3, 2002; Flash Eurobarometer 107 Entrepreneurship 2, 2001; Flash
+Eurobarometer 83 Entrepreneurship 1, 2000. ZUMA German Archive ZA #4184; 4156;
+3772; 3596 and 3498 (GESIS/ZA Central Archive for Empirical Social Research)
+http://www.gesis.org/eurobarometer
+Notes: columns 1 and 2. Suppose you were working and could choose between different
+kinds of work. Which would you prefer being an employee or self-employed – tabulated
+here is % saying prefer being self employed.
+Column 3 – do you strongly agree, agree, disagree, strongly disagree with the following
+opinion – it is difficult to start one’s own business due to a lack of available financial
+support – tabulated here is the % who strongly agree
+
+Column 4 – do you strongly agree, agree, disagree, strongly disagree with the following
+opinion – it is difficult to start one’s own business due to the complex administrative
+procedures – tabulated here is the % who strongly agree
+
+Table 17. Probabilities of being self-employed, dprobit, NCDS7 2004/5
+(1)
+.1150 (13.67)
+.0038 (3.30)
+
+Male
+Gift (1981£/1000)
+North
+Yorks & Humberside
+East Midlands
+East Anglia
+South East
+South West
+West Midlands
+North West
+Wales
+CSEs 2-5
+GCSE O levels
+AS levels
+2+ A-levels
+Diploma
+Degree
+Higher degree
+Copying design test
+Father's social class in 1969
+Manager employing<25
+Professional - self-employed
+Worker own-account
+Farmer employer manager
+Farmer own account
+Workers only
+Pseudo R2
+N
+
+Yes
+.0333
+7,216
+
+(2)
+.1140 (13.54)
+.0036 (3.19)
+-.0230 (1.03)
+.0147 (0.70)
+.0258 (1.20)
+.0477 (1.82)
+.0592 (3.47)
+.0577 (2.71)
+.0186 (0.90)
+-.0082 (0.42)
+.0293 (1.21)
+-.0084 (0.58)
+-.0016 (0.14)
+-.0718 (1.21)
+-.0134 (0.80)
+-.0199 (0.91)
+-.0104 (0.73)
+-.0274 (1.19)
+
+Yes
+.0404
+7,214
+
+(3)
+.1082 (12.17)
+.0030 (2.54)
+-.0307 (1.32)
+.0040 (0.19)
+.0154 (0.70)
+.0367 (1.39)
+.0476 (2.69)
+.0453 (2.08)
+.0101 (0.47)
+-.0182 (0.88)
+.0033 (0.14)
+-.0052 (0.34)
+-.0085 (0.64)
+-.0979 (1.54)
+-.0208 (1.18)
+-.0316 (1.40)
+-.0228 (1.50)
+-.0305 (1.24)
+.0103 (3.22)
+
+(4)
+.1073 (13.57)
+.0027 (2.57)
+-.0255 (1.25)
+.0035 (0.19)
+.0191 (0.97)
+.0376 (1.60)
+.0456 (2.92)
+.0443 (2.29)
+.0113 (0.61)
+-.0133 (0.73)
+.0014 (0.07)
+.0114 (0.82)
+.0098 (0.85)
+-.0784 (1.34)
+-.0020 (0.13)
+-.0106 (0.51)
+-.0002 (0.02)
+-.0076 (0.33)
+.0087 (3.14)
+
+.0555 (3.78)
+.0594 (1.33)
+.0970 (3.45)
+.1990 (4.37)
+.2276 (4.26)
+
+.0530 (4.03)
+.0513 (1.30)
+.0804 (3.29)
+.1863 (4.51)
+.2252 (4.55)
+
+Yes
+
+No
+
+.0520
+6,325
+
+.0582
+7,188
+
+Source: NCDS
+Notes: excluded categories; no qualifications; Scotland and ten other labour market statuses from
+1969 when the respondent was aged 11. T-statistics in parentheses
+Copying Designs Test score: For age 11.
+To obtain some assessment of the child's perceptuo-motor ability. The child, on a specially
+designed form, is asked to make two attempts to copy each of six different shapes. A score of 0 or
+1 is allocated for each attempt. The total score range is 0 to 12.
+
+Table 18. Self-employment rates and house prices (in logs)
+Log house pricest
+Log unemployment ratet
+Log self-employment ratet-1
+Price deflator
+East Midlands
+London
+Northern Ireland
+North East
+North West
+Scotland
+South East
+South West
+Wales
+West Midlands
+Yorks & Humberside
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+
+(1)
+.2742 (6.68)
+-.1298 (2.95)
+
+.0418 (0.72)
+-.0240 (0.41)
+-.0401 (0.66)
+-.0517 (0.85)
+-.0407 (0.68)
+.1326 (2.15)
+.1393 (2.27)
+.1674 (2.80)
+.0665 (1.11)
+.0169 (0.28)
+-.0605 (0.99)
+-.1340 (2.13)
+-.1755 (2.75)
+-.2427 (3.70)
+-.2807 (4.17)
+-.3228 (4.65)
+-.3314 (4.54)
+-.3841 (4.99)
+-.4021 (5.15)
+-.3630 (4.55)
+
+(2)
+.0434 (2.59)
+.0062 (0.37)
+.9196 (36.53)
+
+.0739 (2.44)
+.0101 (0.36)
+.0423 (1.58)
+-.0181 (0.66)
+-.0203 (0.74)
+.1619 (5.79)
+.0022 (0.07)
+.0300 (1.01)
+-.0799 (2.68)
+-.0290 (1.03)
+-.0425 (1.56)
+-.0514 (1.96)
+-.0324 (1.27)
+-.0475 (1.92)
+-.0311 (1.30)
+-.0301 (1.32)
+.0093 (0.42)
+-.0401 (1.86)
+-.0500 (2.33)
+
+(3)
+.1318 (3.25)
+.0842 (2.27)
+
+(4)
+.0952 (2.64)
+.0310 (0.92)
+.4440 (7.05)
+
+-.1502 (8.62)
+-.0395 (1.17)
+.0920 (3.95)
+-.3498 (14.28)
+-.2021 (10.33)
+-.3231 (15.29)
+-.0085 (0.44)
+.1201 (7.22)
+-.0415 (2.08)
+-.2097 (10.60)
+-.1934 (9.95)
+.0624 (2.81)
+.0674 (2.77)
+.1085 (3.92)
+.1003 (3.65)
+.0711 (2.61)
+.2398 (8.64)
+.2371 (8.62)
+.2571 (9.75)
+.1765 (6.80)
+.1462 (5.46)
+.1104 (3.85)
+.0678 (2.21)
+.0441 (1.37)
+.0125 (0.36)
+.0004 (0.01)
+-.0185 (0.45)
+.0099 (0.21)
+-.0045 (0.09)
+-.0173 (0.32)
+.0157 (0.28)
+
+-.0769 (4.18)
+-.0134 (0.44)
+.0798 (3.79)
+-.1779 (5.58)
+-.1063 (4.87)
+-.1631 (5.77)
+-.0115 (0.67)
+.0572 (3.38)
+-.0181 (1.02)
+-.1042 (4.69)
+-.1006 (4.66)
+.0799 (1.72)
+.0474 (1.15)
+.0808 (2.19)
+.0470 (1.24)
+.0338 (0.91)
+.2133 (5.65)
+.1354 (3.34)
+.1638 (4.04)
+.0594 (1.44)
+.0671 (1.73)
+.0393 (1.05)
+.0110 (0.30)
+.0070 (0.20)
+-.0189 (0.58)
+-.0188 (0.61)
+-.0290 (1.10)
+.0028 (0.13)
+-.0305 (1.51)
+-.0420 (2.16)
+
+86
+
+(5)
+.1237 (5.77)
+.1955 (7.18)
+.5607 (11.63)
+-.0001 (1.21)
+-.0778 (3.65)
+-.1099 (4.23)
+-.0082 (0.38)
+-.2228 (6.76)
+-.1297 (5.33)
+-.1861 (6.33)
+-.0092 (0.47)
+.0397 (2.00)
+-.0631 (3.01)
+-.1336 (5.56)
+-.1209 (5.01)
+
+Constant
+
+-.1291 (0.26)
+
+.2684 (1.12)
+
+.9604 (2.02)
+
+.3688
+.9118
+.9227
+Adjusted R2
+N
+250
+237
+250
+Source: Labour Force Survey and Nationwide data on house prices. T-statistics in parentheses
+
+87
+
+.3206 (0.68)
+.9413
+237
+
+-.4877 (1.77)
+.8949
+237
+
+Table 19. Growth rates in real GDP regressions, 1967-2005
+Selft – Selft-1
+Selft – Selft-1
+(Non-agricultural)
+GDP t-1
+
+(1)
+-.0602
+(0.76)
+.2705
+(8.24)
+
+.2187
+(6.74)
+.0014
+(7.58)
+
+845
+.2115
+8.30
+
+845
+.2628
+10.40
+
+Empt – Empt-1
+N
+Adjusted R2
+F
+
+(2)
+.0180
+(0.23)
+
+(3)
+
+(4)
+
+-.3089
+(2.16)
+.2650
+(7.98)
+
+-.1672
+(1.20)
+.2159
+(6.57)
+.0013
+(7.26)
+
+820
+.2429
+7.54
+
+820
+.2429
+9.48
+
+Source: OECD Labour Force Statistics and OECD National Accounts
+Equations 1 & 2 include 29 country dummies. Countries are: Australia, Austria, Belgium, Canada, Czech, Denmark, Finland, France,
+Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, South Korea, Luxembourg, Mexico, Netherlands, New Zealand, Norway,
+Poland, Portugal, Slovakia, Spain, Sweden, Switzerland, Turkey, UK and USA.
+Equations 3 & 4 include 28 country dummies. Data for Switzerland are not available.
+T-statistics in parentheses.
+Self-employment is defined as all self-employed over total employment in columns 1 and 2 and as non-agricultural self-employed over
+total non-agricultural employment in columns 3 and 4. Employment is total numbers of employees.
+Dependent variable = real GDP growth rate.
+
+88
+
+Table 20. Life Satisfaction Ordered Logits
+
+Age
+Age2
+Male
+Time trend
+Married
+Divorced
+Separated
+Widowed
+Self-employed
+Unemployed
+Retired
+Maternity leave
+Family care
+Student
+LT Sick/disabled
+Govt scheme
+Other
+
+Eurobarometer
+Europe 1970-2002
+-.0456 (45.34)
+.0005 (47.49)
+-.1150 (19.82)
+.0058 (15.17)
+.3413 (44.89)
+-.4868 (31.55)
+-.6379 (26.04)
+-.2791 (21.91)
+.0422 (4.49)
+-.9842 (84.45)
+-.0475 (4.59)
+
+Eurobarometer
+UK 1970-2002
+-.0314 (11.00
+.0004 (14.69)
+-.1722 (9.99)
+.0065 (6.16)
+.2940 (12.65)
+-.6660 (14.82)
+-.6492 (10.40)
+-.3464 (9.18)
+.0844 (2.59)
+-1.0764 (32.33)
+-.1084 (3.60)
+
+-.0276 (3.19)
+.2256 (10.21)
+
+-.1218 (5.19)
+.1661 (2.19)
+
+-.0281 (1.38)
+
+.0117 (0.19)
+
+BHPS
+UK 2004/5
+-.0444 (7.22)
+.0005 (8.38)
+-.0235 (0.73)
+n/a
+.3469 (7.44)
+-.1945 (2.84)
+-.4184 (3.77)
+-.1918 (2.33)
+.1296 (2.15)
+-.6635 (6.94)
+.0134 (0.20)
+.4905 (2.58)
+-.2003 (2.95)
+.0905 (1.14)
+-1.5882 (19.52)
+.3711 (1.15)
+-.4059 (1.98)
+
+Schooling dummies
+Region dummies
+Country dummies
+
+11
+16
+
+11
+-
+
+14
+18
+-
+
+Cut1
+Cut2
+Cut3
+Cut4
+Cut5
+Cut6
+
+-4.2851
+-2.5937
+.3094
+
+-3.5599
+-2.0856
+.6933
+
+-5.2809
+-4.2023
+-3.0939
+-2.0203
+-.6628
+1.0916
+
+N
+Pseudo R2
+
+598,116
+.0818
+
+66,339
+.0250
+
+14,232
+.0211
+
+Notes: Austria; Belgium; Denmark; East Germany; Finland; France; Greece; Ireland;
+Italy; Luxembourg; Netherlands; Norway; Portugal; Spain; Sweden; West Germany.
+
+89
+
+Chart 1: Net change in VAT registrations and change
+in self-employment
+Change
+(000s)
+400
+
+Self-employment (lhs)
+Vat registrations (rhs)
+
+Net change
+(000s)
+80
+
+300
+
+60
+
+200
+
+40
+
+100
+
+20
+
+0
+
+0
+
+-100
+
+-20
+
+-200
+
+-40
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+Correlation, 1980-2005: +0.60
+Source: DTI & ONS
+
+Chart 2: Unemployment rate and self-employment
+rate
+Per cent
+14
+
+Unemployment rate (lhs)
+Self-employment rate (rhs)
+
+Chart 3: Employment rate and self-employment rate
+
+Per cent
+15
+14
+
+12
+
+13
+
+10
+
+12
+
+8
+
+11
+10
+
+6
+
+9
+
+4
+
+8
+
+2
+
+7
+
+0
+
+6
+
+1971 1976 1981 1986 1991 1996 2001 2006
+
+Per cent
+62
+
+Employment rate (lhs)
+Self-employment rate (rhs)
+
+60
+58
+56
+54
+52
+50
+
+14
+13
+12
+11
+10
+9
+8
+7
+6
+
+1971 1976 1981 1986 1991 1996 2001 2006
+
+Correlation, 1971-2006: +0.41
+Correlation, 1984-1994: -0.75
+
+Correlation, 1971-2006: -0.33
+Correlation, 1984-1994: +0.72
+
+Source: ONS
+
+Source: ONS
+
+90
+
+Per cent
+15
+
+Chart 4: Rate of transition of employees to selfemployment
+Per cent
+
+Chart 5: Rate of transition of unemployed to selfemployment
+Per cent
+
+18
+
+14
+
+16
+14
+
+12
+10
+
+12
+
+8
+
+10
+8
+
+6
+
+6
+
+4
+
+Transition rate from employment to selfemployment (lhs)
+Unemployment rate (rhs)
+
+4
+2
+
+2
+
+0
+
+0
+
+1977 1981 1985 1989 1993 1997 2001 2005
+
+Per cent
+
+Transition rate from unemployment Per cent
+
+to self-employment (lhs)
+5.0
+Unemployment rate (rhs)
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+1977 1981 1985 1989 1993 1997 2001 2005
+
+Correlation since 1977: -0.38
+
+Correlation since 1977: +0.75
+
+Source: ONS & Labour Force Survey microdata Spring quarters
+
+Source: ONS & Labour Force Survey microdata Spring quarters
+
+Chart 6: Rate of transition of OLF to self-employment
+
+Chart 7: Contributions to total UK GVA
+
+Per cent
+
+Per cent
+
+Service industries
+Production
+Construction
+
+6
+
+14
+
+5
+
+12
+
+100%
+
+10
+
+80%
+
+4
+
+8
+3
+
+14
+12
+10
+8
+6
+4
+2
+0
+
+Agriculture & fishing
+Energy & water
+Manufacturing
+
+60%
+
+6
+2
+1
+
+4
+
+Transition rate from out of the labour
+force to self-employment (lhs)
+Unemployment rate (rhs)
+
+0
+1977 1981 1985 1989 1993 1997 2001 2005
+
+40%
+
+2
+
+20%
+
+0
+
+0%
+1985
+Source: ONS
+
+Correlation since 1977: +0.02
+Source: ONS & Labour Force Survey microdata Spring quarters
+
+91
+
+1990
+
+1995
+
+2000
+
+2005
+
+Chart 8: Nominal house price inflation and selfemployment
+
+Chart 9: Ratio of Business Investment deflator to GDP
+deflator
+Ratio
+
+Percentange change
+Annual house price inflation
+on a year earlier
+Annual growth in self-employment
+35
+30
+25
+20
+15
+10
+5
+0
+-5
+-10
+-15
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2.00
+1.75
+1.50
+1.25
+1.00
+0.75
+1965 1970 1975 1980 1985 1990 1995 2000 2005
+
+2005
+
+Source: Office for National Statistics & Nationwide
+
+Source: ONS
+
+Chart 10: Transitions into and out of self-employment
+as a proportion of all self-employment
+
+Chart 11: Self-employment rates by age
+
+Employment to Self-employment
+Unemployment to Self-employment
+Inactivity to Self-employment
+Self-employment to Employment
+Self-employment to Unemployment
+Self-employment to Inactivity
+
+Rate
+
+2006 - all
+2002 - all
+2006 - male
+2006 - female
+2002 - male
+2002 - female
+
+5.0
+4.5
+4.0
+3.5
+
+Per cent
+
+60
+50
+40
+
+3.0
+2.5
+
+30
+
+2.0
+
+20
+
+1.5
+
+10
+
+1.0
+0.5
+0.0
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+Source: LFS longitudinal dataset
+
+0
+1620
+
+21- 2625 30
+
+3135
+
+36- 41- 46- 51- 56- 61- 6640 45 50 55 60 65 70
+
+Source: Labour Force Survey
+
+92
+
+7199
+
+Chart 12a: Nominal incomes, medians
+Employees income
+Self-employee incomes (all)
+
+Chart 12b: Nominal incomes, means
+Nominal
+£ per week
+
+350
+
+Self-employee incomes (>0)
+
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+Nominal
+£ per week
+
+Employees income
+
+450
+
+Self-employee incomes (all)
+
+325
+
+425
+
+300
+
+400
+
+275
+
+375
+
+250
+
+350
+
+225
+
+325
+
+200
+
+300
+
+175
+
+275
+
+150
+
+250
+
+2004
+
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+2004
+
+1. Self-employed incomes greater than zero only in the first series.
+Source: Family Resources Survey
+
+Source: Family Resources Survey
+
+Chart 13a: Cumulative distribution of weekly incomes,
+2003/4, FRS
+
+Chart 13b: Cumulative distribution of weekly
+incomes, 1994/5, FRS
+
+Per cent
+
+Self-employed
+
+0 or less
+0-49
+50-99
+100-149
+150-199
+200-249
+250-299
+300-349
+350-399
+400-449
+450-499
+500-549
+550-599
+600-649
+650-699
+700-749
+750-799
+800-849
+850-899
+900-949
+950-999
+1000+
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Source: Family Resources Survey
+
+Employees
+Self-employed
+
+Source: Family Resources Survey
+
+93
+
+Per cent
+
+0 or less
+0-49
+50-99
+100-149
+150-199
+200-249
+250-299
+300-349
+350-399
+400-449
+450-499
+500-549
+550-599
+600-649
+650-699
+700-749
+750-799
+800-849
+850-899
+900-949
+950-999
+1000+
+
+Employees
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Chart 14a: Distribution of annual incomes, 2003/4,
+HMRC
+Per cent
+
+0
+1
+500
+1,000
+2,000
+3,000
+4,000
+5,000
+7,500
+10,000
+15,000
+20,000
+30,000
+50,000
+100,000
+
+Employed 03/04
+
+Source: HMRC
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Employed 99/00
+
+Source: HMRC
+
+Chart 15: Age distributions, 2006
+Self-employed
+
+Per cent
+
+Self-employed 99/00
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+0
+1
+500
+1,000
+2,000
+3,000
+4,000
+5,000
+7,500
+10,000
+15,000
+20,000
+30,000
+50,000
+100,000
+
+Self-employed 03/04
+
+Chart 14b: Distribution of annual incomes, 1999/0,
+HMRC
+
+Chart 16: Self-employment by industry, 2006
+Per cent
+
+Employed
+
+Per cent
+
+Self-employed
+
+4.0
+
+35
+
+Employed
+
+3.5
+
+30
+
+3.0
+
+25
+
+2.5
+
+20
+
+2.0
+15
+
+1.5
+
+10
+
+1.0
+
+5
+
+0.5
+0.0
+
+0
+1
+
+16 21 26 31 36 41 46 51 56 61 66 71 76 81 86
+
+2
+
+3
+
+4
+
+1: Agriculture & fishing
+Source: Labour Force Survey microdata
+
+5
+
+6
+
+7
+
+8
+
+9
+
+2: Energy & water
+
+3: Manufacturing
+4: Construction
+5: Dist., Hotels & Restaurants
+6: Transport & Com.
+7: Banking, Finance & Ins.
+8: Public admin. & Ed.
+9: Other services
+Source: Labour Force Survey microdata
+
+94
+
+Chart 17: Education, 2006
+
+Chart 18: Weekly hours worked, 2006
+Per cent
+
+Self-employed
+Employed
+
+40
+
+Self-employed
+
+Hours
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+Employed
+
+35
+30
+25
+20
+15
+10
+5
+0
+Degree A-level O-level/ Other
+GCSE
+
+None
+
+Don't
+know
+
+Source: Labour Force Survey microdata
+
+Average usual hours
+worked
+
+Average usual overtime
+hours worked
+
+Source: Labour Force Survey microdata
+
+95
+
+References
+Acs, Z., Audretsch, D. and D. Evans (1994), ‘The determinants of variations in selfemployment rates across countries and over time’, working paper.
+Bakhshi, H. and Thompson, J. (2002), ‘Explaining trends in UK business investment’,
+Bank of England Quarterly Bulletin, Spring, pp.33-41.
+Bates, T (1989), ‘Small business viability in the urban ghetto,’ Journal of Regional
+Science. 29(4): 625-43 (1989).
+Benz, M. and Frey, B. S. (2003), The value of autonomy; evidence from the selfemployed in 23 countries, Institute for Empirical Research in Economics,
+University of Zurich WP#173.
+Bernhardt, I. (1994), ‘Comparative advantage in self-employment and paid work’,
+Canadian Journal of Economics, May, pp. 273-289.
+Black, J., De Meza, D. and Jeffreys, D. (1996), ‘House prices, the supply of collateral,
+and the enterprise economy’, Economic Journal, 106, January, pp. 60-75.
+Blanchflower, D.G. (2000), 'Self-employment in OECD countries', Labour Economics, 7,
+September, pp. 471-505.
+Blanchflower, D.G. (2004), 'Self-employment: more may not be better,' Swedish
+Economic Policy Review, 11(2), Fall, pp. 15-74
+Blanchflower, D.G. (2007a), ‘The impact of the recent migration from Eastern Europe on
+the UK economy, Bank of England Quarterly Bulletin, 47(1), pp. 131-135.
+Blanchflower, D.G. (2007b), ‘Recent developments in the UK labour market, Bank of
+England Quarterly Bulletin, 47(1), pp. 158-172.
+Blanchflower, D.G., P. Levine and D. Zimmerman (2003), 'Discrimination in the small
+business credit market,' Review of Economics and Statistics, Vol. 85, Issue 4; 930943, November.
+Blanchflower D.G. and A.J. Oswald (1998), 'What makes an entrepreneur?', Journal of
+Labor Economics, January, 16(1) pp. 26-60.
+Blanchflower D.G. and A.J. Oswald (2004), 'Wellbeing over time in Britain and the
+United States', Journal of Public Economics, 88(7-8), pp.1359-1386.
+Blanchflower, D. G., A.J. Oswald and A. Stutzer (2001), 'Latent entrepreneurship across
+nations,' European Economic Review, 45(4-6), May, pp. 680-691.
+
+96
+
+Blanchflower, D.G. and J. Wainwright (2005), 'An analysis of the impact of affirmative
+action programs on self-employment in the construction industry', NBER Working
+Paper #11793.
+Blau, D. (1987), ‘A time-series analysis of self-employment in the United States’, Journal
+of Political Economy, 95, pp. 445-467.
+Borooah, V.K and M. Hart (1999), ‘Factors Affecting Self-Employment among Indian
+and Black Caribbean Men in Britain’, Small Business Economics, 13, pp. 111–129.
+Broussard, N., R. Chami and G. Hess, (2003), '(Why) do self-employed parents have
+more children?', CESiFO Working Paper #1103, September.
+Burke, A.E., F.R. Fitzroy and M.A. Nolan (2000), “When less is more: distinguishing
+between entrepreneurial choice and performance”, Oxford Bulletin of Economics
+and Statistics, 62(5), pp. 565-587.
+Burke, A.E., F.R. Fitzroy and M.A. Nolan (2002), ‘Self-employment wealth and job
+creation: the roles of gender, non-pecuniary motivation and entrepreneurial ability’,
+Small Business Economics, 19, pp. 255–270.
+Campbell, M. and Daly, M. (1992), ‘Self-employment: into the 1990s’, Employment
+Gazette, June, pp.269-291.
+Cavalluzzo, K., L. Cavalluzzo and J. Wolken (2002), 'Competition, small business
+financing and discrimination: evidence from a new survey', Journal of Business, 75,
+October, pp.641-679.
+Clark, K, and S. Drinkwater (2000), “Pushed out or pulled in? Self-employment among
+ethnic minorities in England and Wales”, Labour Economics, 7, pp. 603-628.
+Cowling M, and P. Mitchell (1997), ‘The evolution of UK self-employment: a study of
+government policy and the role of the macroeconomy’, Manchester School of
+Economic and Social Studies, 65(4), September, pp. 427-442.
+Di Tella, R., MacCulloch, R.J., and Oswald, A. (2001), ‘Preferences over inflation and
+unemployment: evidence from surveys of happiness’, American Economic Review,
+91, March, pp. 335-341.
+Dunn, T. A. and D.J. Holtz-Eakin (2000), 'Financial capital, human capital, and the
+transition to self-employment: evidence from intergenerational links,' Journal of
+Labor Economics, 18 (2): 282-305.
+Ekelund, J., E. Johansson, M.R. Järvelin and D. Lichterman (2005), 'Self-employment
+and risk aversion - evidence from psychological test data', Labour Economics,
+12(5), pp. 649-659.
+
+97
+
+Evans, D. and B. Jovanovic (1989), 'An estimated model of entrepreneurial choice under
+liquidity constraints', Journal of Political Economy, 97, pp. 808-827.
+Evans, D. and L. Leighton (1989), 'Some empirical aspects of entrepreneurship',
+American Economic Review, 79, pp. 519-535.
+Fairlie, R. W. (1999), 'The absence of the African-American owned business: an analysis
+of the dynamics of self-employment', Journal of Labor Economics, 17(1), pp. 80108.
+Fairlie, R.W (2002), ‘Drug dealing and legitimate self-employment’, Journal of Labor
+Economics, 20(3), July, pp. 538-67
+Fairlie, R.W. and H.A. Krashinsky (2006), 'Liquidity constraints, household wealth and
+entrepreneurship revisited', Working Paper, University of California, Santa Cruz.
+Fairlie, R.W. and B.D. Meyer (2000), 'Trends in self-employment among white and black
+men during the twentieth century', Journal of Human Resources, XXXV(4), pp.
+643-669.
+Fairlie, R.W. and A. Robb (2006), 'Families, human capital, and small business: evidence
+from the Characteristics of Business Owners Survey', forthcoming Industrial and
+Labor Relations Review.
+Fairlie, R.W. and A. Robb (2005), 'Why are black-owned businesses less successful than
+white-owned businesses? the role of families, inheritances, and business human
+capital', forthcoming Journal of Labor Economics.
+Freedman, J. (2001), ‘Employed or self-employed?: Tax classification of workers in the
+changing labour market’, The Institute for Fiscal Studies, Discussion Paper.
+Frey, B.S. and M. Benz (2002), ‘Being independent is a great thing: subjective
+evaluations of self-employment and hierarchy’, Institute for Empirical Research in
+Economics, University of Zurich WP#135.
+Georgellis, Y, J.G. Sessions and N. Tsitsianis (2005), 'Windfalls, wealth and the
+transition to self-employment', Small Business Economics, 25(5), pp. 407-428.
+Green, F. and N. Tsitsianis (2005), 'An investigation of national trends in job satisfaction',
+British Journal of Industrial Relations, 43(3), September, pp. 401.429.
+Hamilton, B. H. (2000), ‘Does entrepreneurship pay? An empirical analysis of the
+returns to self-employment’, Journal of Political Economy, 108(3), pp. 604-631
+Henley, A. (2005), 'Job creation by the self-employed: the roles of entrepreneurial and
+financial capital', Small Business Economics, 25(2), pp. 175-196.
+
+98
+
+Holtz-Eakin, D. and H.S. Rosen (2005), 'Cash constraints and business startups:
+deutschmarks versus dollars', BE Journals in Economic Analysis and Policy:
+Contributions to Economic Analysis and Policy, 4(1), pp. 1-26.
+Holtz-Eakin, D., Joulfaian, D., and H.S. Rosen (1994a), 'Entrepreneurial decisions and
+liquidity constraints', Journal of Political Economy, 102, pp. 53-75.
+Holtz-Eakin, D., Joulfaian, D., and H.S. Rosen (1994b), 'Sticking it out: entrepreneurial
+survival and liquidity constraints', Rand Journal of Economics, Summer, 25(2), pp.
+334-347.
+Hout, M. and H.S. Rosen (2000), 'Self-employment, family background and race', Journal
+of Human Resources, 15(4), pp. 670-692.
+Hundley, G. (2001), Why and when are the self-employed more satisfied with their
+work?, Industrial Relations, 40(2), April, 293-316.
+Hurst, E. and A. Lusardi (2004), 'Liquidity constraints, household wealth, and
+entrepreneurship,' Journal of Political Economy, April, Vol. 112(2), pp. 319-347.
+Hyytinen, A. and O. Ruuskanen (2007), 'Time use of the self-employed', Kyklos, 60(1),
+pp. 105-122.
+Johansson, E. (2000a), ‘Self-employment and liquidity constraints: evidence from
+Finland, Scandinavian Journal of Economics,102(1), March, pp. 123-34.
+Johansson, E. (2000b), ‘Self-employment and the predicted earnings differential-Evidence from Finland’, Finnish Economic Papers, 13(1), Spring, pp. 45-55.
+Kidd, M., (1993) ‘Immigrant wage differentials and the role of self-employment in
+Australia’, Australian Economic Papers; 32(60), June, pp. 92-115.
+Laferrere, A. and P. McEntee (1995), ‘Self-employment and intergenerational transfers of
+physical and human capital: an empirical analysis of French data’, Economic and
+Social Review; 27(1), October, pp. 43-54.
+Lindh T., and H. Ohlsson (1996). ‘Self-employment and windfall gains: evidence from
+the Swedish lottery’, Economic Journal, 106: (439), November, pp. 1515-1526.
+Lindsay, C. and Macaulay, C. (2004), ‘Growth in self-employment in the UK’, Labour
+Market Trends, Office for National Statistics, October, pp. 399-404.
+Lyssiotou, P., Pashardes, P. and Stengos, T. (2004), 'Estimates of the black economy
+based on consumer demand approaches', Economic Journal, 114, #497, July, pp.
+622-40
+
+99
+
+Millard, S. (2000), ‘The effects of increased labour market flexibility in the United
+Kingdom: theory and practice’ Bank of England Working Paper #109.
+Parker, S.C. (2002), 'Do banks ration credit to new enterprises and should governments
+intervene?', Scottish Journal of Political Economy, 49(2), May, pp. 162-195.
+Robson, M.T. (1998), ‘Self-employment in the UK regions’, Applied Economics, 30,
+pp.313-322.
+Taylor, M. (1996), ‘Earnings, independence or unemployment? Why become selfemployed?’, Oxford Bulletin of Economics and Statistics, 58(2), pp. 253-266.
+Taylor, M. (2001), 'Self-employment and windfall gains in Britain; evidence from panel
+data', Economica, 68, #272, November, pp. 539-565.
+Taylor, M. (2004), 'Self-employment in Britain: when, who and why?, Swedish
+Economic Policy Review, 11(2), Fall, pp. 141-173.
+U.S. Chamber of Commerce (2005), ‘Access to capital; what funding sources work for
+you?
+Tables
+of
+survey
+results’,
+August,
+downloadable
+from
+http://www.uschamber.com/publications/reports/access_to_capital.htm
+Wainwright, J. (2000), Racial discrimination and minority business enterprise: evidence
+from the 1990 Census, Studies in Entrepreneurship Series, New York and London:
+Garland Publishing.
+Weir, G. (2003), ‘Self-employment in the UK labour market’, Labour Market Trends,
+ONS, 111(9), pp. 441-452.
+Wolfers, J. (2003), ‘Is business cycle volatility costly? Evidence from surveys of
+subjective well-being’, International Finance, 6(1), pp. 1–26.
+Yannis, G. and H.J. Wall (2005), 'Gender differences in self-employment', International
+Review of Applied Economics, 19(3), July, pp. 321-342.
+
+100
+
+

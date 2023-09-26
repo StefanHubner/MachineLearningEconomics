@@ -1,0 +1,1035 @@
+Costly capital and the risk of rare disasters
+Speech given by
+Ben Broadbent, External Member of the Monetary Policy Committee
+
+At Bloomberg, London
+28 May 2012
+
+I would like to thank Alina Barnett and Adrian Chiu for research assistance and I am also grateful for
+helpful comments from other colleagues. The views expressed are my own and do not necessarily
+reflect those of the Bank of England or other members of the Monetary Policy Committee.
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+In my economics textbook is says the following: “Cuts in interest rates lower the cost of borrowing which
+results in higher investment and the purchase of consumer durables”.
+Chart 1: Rates of return for non-oil PNFCs
+
+If this is how it works someone forgot to tell many of
+%
+
+Net of depreciation
+
+18
+
+Net of depreciation and tax
+
+the companies I see. The risk-free interest rate, as
+measured by the yield on short-term indexed gilts,
+
+Real one‐year T‐Bill rate
+
+15
+
+has fallen steeply since the onset of the financial
+
+12
+
+crisis, and is now firmly in negative territory
+
+9
+
+(Chart 1). Yet on a recent Agency visit many
+companies told me that their hurdle rates of return
+
+6
+
+had risen. Prior to the crisis finance directors would
+
+3
+
+approve new investments that looked likely to pay for
+
+0
+
+themselves (not including depreciation) over a period
+of six years – equivalent to an expected net rate of
+
+‐3
+1990
+
+1993
+
+1996
+
+1999
+
+2002
+
+2005
+
+2008
+
+2011
+
+Note: Assumes equal tax rates for UKCS and non-oil PNFCs.
+Source: ONS and Bank of England calculation
+
+return of around 9%. Now, it seems, the payback
+period has shortened to around four years, a
+required net rate of return of 14%1.
+
+This is hardly a large sample. And it’s quite possible that managers’ opinions about hurdle rates aren’t worth
+much anyway. Perhaps finance directors know that managers tend to over-estimate profitability and adjust
+their targets accordingly.
+But, for what it’s worth, these numbers are in the range of average returns on existing capital for
+non-financial firms (Chart 1 again). More importantly – because this isn’t just anecdotal – you also get the
+impression of an unusually wide spread between risky and risk-free yields from securities markets. The
+green line in Chart 2 is the ratio of profits to assets, the latter valued at market prices, for UK-quoted
+companies2. Instead of declining, that measure of yield has actually gone up since the recession, and even
+in absolute terms (let alone relative to risk-free rates) is currently more than 100bp higher than it was during
+the three years leading up to the crisis. The overall cost of capital in securities markets is this rate plus the
+expected long-run growth rate of corporate earnings. We don’t have data for these expectations, but if,
+instead, we use Consensus forecasts for long-run UK GDP growth, we get the dotted red line3.
+
+.
+
+1
+
+I’ve assume a depreciation rate of 6.5%, in line with national accounts estimates for the non-financial sector.
+Profits are net of taxes and depreciation, the denominator is equity and debt valued at market prices. Under Modigliani and Miller
+(1958) this is the same as the return on unlevered equity.
+3
+This probably understates the true marginal cost. A part of UK-quoted companies’ earnings come from emerging economies, whose
+expected growth is faster than that of the UK economy. In addition, new issuance tends to occur at a discount to existing securities.
+Recently, according to data from Dealogic, this discount has ranged between 5%-10%.
+2
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+2
+
+Chart 3: New bank loans have apparently got
+cheaper
+
+Chart 2: Risk premium has widened sharply
+%
+
+%
+7
+6
+
+Real one‐year T‐Bill rate (LHS)
+Earnings before interest / Enterprise value (RHS)
+Overall cost of capital (RHS)
+
+8
+
+9
+
+5
+
+8
+
+4
+
+7
+
+3
+
+6
+
+2
+
+5
+
+1
+
+4
+
+0
+
+3
+
+‐1
+
+2
+
+‐2
+
+1
+
+‐3
+1993
+
+%
+
+Nominal interest rates
+
+10
+
+7
+6
+5
+4
+3
+New loans to NFCs
+2
+
+New household mortgages
+Three‐month T‐Bill rate
+
+1
+
+0
+1996
+
+1999
+
+2002
+
+2005
+
+2008
+
+2011
+
+Note: Ratio of earnings before interest to enterprise value calculated
+for all UK listed companies, as defined by Datastream code
+TOTMKUK; enterprise value sums the market values of firms’
+equities and outstanding debt.
+Source: Consensus Economics, Thomson Reuters Datastream and
+Bank of England calculations
+
+0
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+Source: Bank of England
+
+One thing that has probably helped to push up required returns is a contraction in the supply of credit. Like
+Bank rate, interest rates on new bank loans have declined (Chart 3). But this ignores the impact of non-price
+factors, including outright rationing of loans. As we shall see below, this implies that the true, effective cost
+of credit is materially higher than the quoted interest rate on new lending.
+That said, what’s striking about Chart 2 is that the companies to which it applies are not, by definition,
+restricted to raising money from banks. They can also sell securities. Yet their cost of finance has
+apparently risen as well.
+What I will suggest in this speech, therefore, is that, even if the origins of our present predicament lie in the
+banking crisis of 2008, and in the subsequent need to repair banks’ balance sheets, we are now suffering
+from a more general rise in the premium demanded for all risky investments, however they’re financed.
+In fact, I will argue, the pattern in Chart 2 is exactly what you’d expect if investors’ fears about downside risks
+in particular began to intensify – if their impression of “the worst that could happen” gets that much worse
+(what I have in mind here is the possibility of extreme outcomes in the euro area). And the investments most
+vulnerable to such a shift – where you’d expect to find the sharpest increase in required returns – are those
+that have some element of irreversibility. This will include many projects (spending on intangibles, for
+example) that are necessary to improve productivity. Thus high risk premia may be inhibiting not just
+demand but the economy’s supply capacity as well.
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+3
+
+Here’s the plan: I will start with some remarks about credit rationing, providing some evidence that bank debt
+is more expensive than interest rates alone would imply; we then turn to a simple model of asset pricing that
+allows for “rare disasters” – as we shall see, small increases in the perceived likelihood of extreme outcomes
+can have powerful effects on yields, even if they’re still very unlikely to occur; I will then explain why these
+effects are amplified in the case of sunk-cost projects and why, therefore, these downside risks may be
+important for productivity.
+Credit rationing
+If the quoted interest rate were the true marginal price of debt, then the credit supply curve facing an
+individual borrower would be a flat line (“S” in Chart 4). It would then make sense to carry out all investment
+projects – ranked according to prospective return along the “D” line – until the marginal project that yields the
+same as this interest rate.
+Last week, however, my morning newspaper carried an interesting report. It said that a promise by a newly
+launched supermarket bank to undercut rivals’ loan deals had been criticised by a watchdog “because it
+could damage borrowers’ credit ratings”. The reason given was that lenders consider the number of loan
+applications as an indicator of individual credit risk. So an additional application could increase the cost of
+other debts, now or in the future. And instead of the low, flat supply curve in Chart 4, the individual borrower
+apparently faces a higher, upward sloping line (Sc).
+I have heard similar things from some businesses4. Their banks may be happy to roll over existing loan
+deals at relatively low interest rates, but only – so these managers believe – if the company’s financial health
+is maintained. This might mean keeping debt within certain limits. It might mean holding some minimum
+amount of cash. But the effect is the same: credit supply for new investments is harder to come by and the
+true marginal cost of debt – the amount firms are actually willing to pay in order to reduce it – is higher than
+the interest rate.
+Note that, facing such a curve, borrowers would have an incentive to cut spending – possibly to levels below
+their current income – in order to repair balance sheets. Indeed they might effectively be forced to do so. So
+if the cost line shifts upwards (to Sc’) as depicted in the Chart 4 – a crude characterisation of what a credit
+tightening entails – you’d expect to see weaker investment, a higher rate of return on marginal projects and
+larger surpluses in the non-financial economy.
+
+4
+
+The newspaper story also brings to mind exactly the sort of asymmetric-information world, as described originally by Stiglitz and Weiss
+(1981), in which credit rationing can occur, i.e. in which the supply curve in Chart 4 becomes vertical at some point. The business-cycle
+implications of these asymmetric information problems in debt contracts are explored by Bernanke and Gertler (1989) and by Kiyotaki
+and Moore (1997).
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+4
+
+Chart 4: Quoted interest rate may understate true
+cost of debt
+Cost of loan
+
+SC'
+
+Chart 5: Housing market activity no longer
+demand driven
+Net balance
+60
+40
+
+000's
+195
+
+New Buyer Enquiries eight months earlier (LHS)
+Housing transactions (RHS)
+
+175
+155
+
+SC
+
+20
+135
+0
+
+S
+
+115
+95
+
+‐20
+
+75
+‐40
+
+55
+
+D
+35
+
+‐60
+
+Quantity
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+Source: Land Registry, Royal Institution of Chartered Surveyors
+and Bank of England calculations
+
+We are all aware of the complaints from small business about the availability of credit. There are also clear
+signs of rationing in mortgage markets. Chart 5 shows the balance on New Buyer Enquiries in the RICS
+housing-market survey, an indicator of the desire to move house (and the associated demand for mortgage
+debt) against the number of transactions three quarters later. Until the crisis, the RICS balance predicted
+pretty well movements in both mortgage approvals and the number of transactions: activity in the housing
+market looked to be demand driven. That relationship broke down decisively after 2008, however. Buyer
+interest rose sharply towards the end of that year, as quoted mortgage interest began to fall. But activity
+went in the opposite direction, to levels consistent with average tenure times well over 20 years. This
+suggests that the market was – and continues to be – constrained not by a lack of demand but a contraction
+in the supply of finance.
+This evidence tells us there is rationing, but not what it’s worth in interest-rate terms (i.e. the rate rationed
+borrowers would actually be prepared to pay for debt). But the behaviour of larger firms, most of which have
+the option of selling bonds and equities, and are not limited to bank debt, suggests the effect is material.
+Chart 6 plots the proportion of their external finance accounted for by securities issuance as opposed to new
+loans from banks. The red line plots the difference in their cost (the gap between the earnings yield and
+quoted interest rates). It’s drawn on an inverted scale, so a drop means bank debt is, on the face of it,
+getting relatively cheaper. All else equal, you would expect that to encourage a shift towards bank finance
+and, more generally, the two lines to move together over time.
+That looks roughly true prior to the financial crisis. But it’s clearly not the case since: despite the steep fall in
+interest rates, both in absolute terms and, to a greater extent, relative to yields on other forms of finance,
+firms have been shifting away from bank debt (you can see this too in the data for the aggregate
+non-financial corporate sector in Chart 7). If firms that have the option are choosing to pay down bank debt
+by issuing securities that are, apparently, much more expensive, this indicates that the interest rate
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+5
+
+significantly understates the true cost of the debt. Chart 6 suggests the effect may be worth several
+percentage points.
+Chart 6: Steep fall in quoted interest rates has
+not encouraged more borrowing from banks
+%
+
+0.9
+
+Chart 7: NFCs issued securities, paid down debt
+in 2009
+£bn
+
+‐6
+
+10
+
+0.8
+‐4
+
+0.7
+
+8
+6
+
+0.6
+
+‐2
+
+4
+
+0.5
+
+0
+
+0.3
+
+0.1
+0
+‐0.1
+1994
+
+2
+
+0
+
+0.4
+
+0.2
+
+12
+
+‐2
+
+2
+Bonds as proportion of LT borrowing
+(LHS)
+Spread of earnings yields over real bank
+lending rate to NFCs (RHS, inverted)
+1997
+
+2000
+
+2003
+
+2006
+
+2009
+
+Note: ‘Earnings yield’ calculated as in Chart 2.
+Source: Dealogic, Worldscope and Bank of England
+
+‐4
+
+Loans from UK‐resident banks
+4
+
+UK capital mkt issuance
+
+‐6
+
+Total
+
+‐8
+
+6
+2012
+
+‐10
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+Source: Bank of England
+
+Risk premia and “rare disasters”
+One should hardly be surprised, after a once-in-a-century banking crisis, to observe shortages of credit.
+Whether they’re sufficient to explain the continuing weakness of output and private-sector productivity growth
+is another question, however.
+One of the things that struck me about the companies reporting higher hurdle rates is that only a minority
+also said they had problems with meeting banking obligations.
+More significantly, we know that most business investment is done by large firms, companies that are
+generally able (if they so choose) to issue securities and bypass the banking system. Yet that category of
+spending also fell very sharply after the crisis. And, as we’ve already seen, even if those firms were indeed
+substituting securities finance for bank debt, they were doing so at a significantly higher cost than before the
+downturn – this despite a sharp fall in risk-free interest rates.
+All this suggests that, even if the crisis originated in the banking system there is now a higher hurdle for risky
+investment – including, or even especially (I will later argue) the sorts of projects needed to improve
+productivity – on a more general basis. Specifically, what seems to fit best the facts in Chart 2 is not some
+symmetric, two-sided increase in risk but a rise in the perceived probability of an extremely bad economic
+outcome.
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+6
+
+To illustrate the point I’ve used the simple model developed by the economist Robert Barro in his work on
+“rare disasters”5. That work – itself inspired by an older idea by Rietz (1988) – was designed to account for
+two stylised facts that more basic asset-pricing models have found hard to explain: why it is that risky assets
+have yielded so much more, over time, than risk-free debt, and why risk-free rates are themselves so low6.
+The Barro/Rietz insight is that you can resolve both puzzles if you allow for a big downside skew in the
+distribution of output, and that the world is indeed characterised by such “rare disasters”. The possibility of
+such outcomes significantly increases the insurance value of risk-free assets (instruments that pay out come
+what may) so lowering their average yield. At the same time, it raises the required return on risky assets.
+Not surprisingly these effects become more apparent as the perceived likelihood of a (still) rare disaster goes
+up. Chart 8(a) simulates such an increase. It assumes that the “disaster”, were it to occur, is big enough to
+reduce GDP by an average of 15%7 and that the probability of its occurring is initially thought to be 10%.
+These numbers are somewhat arbitrary and you get similar results if you were to assume a slightly higher
+initial probability but a smaller hit to GDP. The point of the simulation is that, from whatever starting level,
+the perceived likelihood of an extreme, discrete outcome need only rise a little to have significant effects on
+markets. As simulated here, a rise of 5% points or so in the perceived likelihood is sufficient to push risk-free
+interest rates below zero while at the same time increasing the expected return on equity (i.e. the hurdle rate
+for risky investments). To my mind, Chart 8(a) resembles quite closely the pattern of yields we’ve actually
+seen in financial markets in recent years.
+In principle, there are other ways you could account for this pattern, Lower expectations of long-run growth,
+partly via the response of easier monetary policy, will have reduced yields on all assets. Higher uncertainty
+(of the conventional, two-sided sort) would raise the risk premium.
+But it’s hard to see how these effects can be big enough to explain the data. Judging by the sensitivity in
+Chart 8(b), long-run growth expectations would have to have dropped several percentage points for that
+alone to account for the decline in risk-free interest rates. Yet, as measured by consensus forecasts for
+10-year-ahead GDP, those long-run expectations have declined only slightly (Chart 9). Similarly, the rises in
+pure (two-sided) uncertainty you need to account for the actual widening in the risk premium look implausibly
+large (Chart 8(c)) – 8% points or more, compared with a standard deviation of actual GDP growth that, in the
+long run of historical data (Chart 10), has never got close to that8.
+
+5
+
+Barro (2006, 2009 and 2011).
+Mehra and Prescott (1985).
+7
+The impact of the “disaster” is itself stochastic, assumed to be uniformly distributed on [5%,25%]
+8
+Pure unpredictability – the expected size of forecast errors – is likely to be smaller (and cannot be bigger than) the standard deviation
+of output itself as optimal forecasts will probably entail more than simply predicting that the economy will every year grow in line with its
+long-run average. That said, it should also be recognised that in this model, the only source of uncertainty, apart from the possibility of
+rare disasters, concerns purely temporary disturbances to the rate of growth. Bonsal and Yaron (2004) show that introducing very
+persistent shocks to output growth can help explain the equity risk premium, though to do that their model needs a great deal of
+persistence in shocks to growth and also the assistance of a very high degree of risk aversion.
+6
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+7
+
+Chart 8a: Sensitivity of yields to perceived
+“disaster” risks
+
+Chart 8b: Sensitivity of yields to expected
+long- run growth
+rate of
+return (%)
+10
+
+rate of return (%)
+8
+
+return on equity
+
+7
+
+earnings yield
+
+6
+
+8
+
+earnings yield
+
+5
+4
+
+6
+
+return on equity
+
+3
+2
+
+4
+
+risk free
+
+1
+
+2
+
+0
+‐1
+
+risk free rate
+
+probability
+of disaster
+
+‐2
+10.0
+
+11.0
+
+12.0
+
+13.0
+
+14.0
+
+15.0
+
+16.0
+
+0
+
+17.0
+
+expected long‐run output growth (%)
+
+‐2
+3.0
+
+Chart 8c: Sensitivity of yields to degree of
+uncertainty
+
+2.0
+
+1.0
+
+0.0
+
+‐1.0
+
+‐2.0
+
+‐3.0
+
+‐4.0
+
+Chart 9: Long-term growth expectations weaker,
+but not by much
+% pts
+
+rate of
+return (%)
+8
+
+5
+
+return on equity
+
+7
+
+4
+
+6
+
+earnings yield
+
+5
+4
+
+3
+
+3
+2
+
+risk free
+
+1
+
+2
+
+0
+
+World GDP
+
+‐1
+‐2
+
+UK
+2.1
+
+3.1
+
+4.0
+
+5.0
+
+6.0
+
+7.0
+
+8.0
+
+1
+
+9.0
+
+output growth volatility
+
+1999
+
+2001
+
+2003
+2005
+2007
+Date forecast was made
+
+2009
+
+2011
+
+Note: Rolling consensus forecasts for average growth over next
+10 years.
+Source: Consensus Economics
+
+So it looks to me as though a higher downward-skew in the distribution of outcomes – a higher risk of a rare
+but very bad economic shock – does the better job of explaining how financial markets have behaved. And
+we have, in the shape of the on-going financial crisis and the possibility of serious disruption in the euro
+area, a very plausible candidate for such a risk.
+
+That is not to say we know either what form the worst-case outcome would take, or what probability to attach
+to it. I’m not sure it’s even knowable. That’s why the MPC decided last autumn explicitly to exclude these
+risks from its fancharts. But there is less doubt that it could have serious implications for the UK or that it’s
+already come to have a very significant impact on financial markets. Chart 11 plots the rolling correlation
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+8
+
+between daily movements in the UK equity prices and the spread between euro-periphery and German
+government bond yields. Pretty much unrelated prior to the financial crisis, the two series have since been
+tightly correlated.
+Chart 10: Rolling 25-year standard deviation of
+annual UK GDP growth
+WWI
+
+% pts
+
+WWII
+
+Chart 11: UK equities more closely correlated with
+Euro Area sovereign spreads
+5
+
+0.2
+
+4
+
+0
+
+3
+
+‐0.2
+
+2
+
+‐0.4
+
+1
+
+‐0.6
+95% confidence interval
+
+0
+1870
+
+1890
+
+1910
+
+1930
+
+1950
+
+1970
+
+1990
+
+Note: Centred 25-year rolling windows are used. WWI and
+WWII stand for the start of the First and Second World Wars,
+respectively.
+Source: Bank of England
+
+Corrrelation
+‐0.8
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+Note: Correlation is between first differences of sovereign spreads
+and the FTSE all share index; Euro area sovereign spread
+calculated as the difference between 10-year German bond yield
+and a weighted-average 10-year yield for Greece, Ireland, Italy,
+Portugal and Spain.
+Source: Thomson Reuters Datastream and Bank of England
+calculations
+
+Disaster risk and irreversible investment
+I want to make two other points.
+The first is brief and involves the distinction between credit supply and credit demand. What I’ve argued so
+far is that, although UK bank deleveraging remains important – it’s still adding to financing costs for
+borrowers dependent on the banks – the evidence suggests that an independent hurdle has emerged in the
+form of higher risk premia, plausibly associated with events in the euro area. This is raising the bar for all
+investments, including those financed in securities markets.
+Were the worst outcomes to occur, however, they would clearly be transmitted via, and amplified by, the
+banking system. UK banks have significant exposure to the rest of Europe9. And, like those for the wider
+market, banks’ funding costs have become much more sensitive to movements in euro-area sovereign
+spreads. This suggests that pressures on UK banks emanate partly from precisely the same risks that are
+affecting non-financial companies. This makes it harder to distinguish the influences of “credit supply” and
+“credit demand”.
+
+9
+
+See, for example, the Bank’s latest Financial Stability Report (December 2011).
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+9
+
+The second point concerns the distinction between reversible and irreversible investments. The model
+simulations above applied to the first, investments that a firm could exit costlessly. If it involved physical
+plant, for example, then the assumption would be that firms could lease such equipment or re-sell it in
+second-hand markets. In reality, many investments are not like that: they involve sunk costs. Big FDI
+projects, in-firm training, R&D, the adoption of new technologies, even simple managerial reorganisations –
+these are all things that can improve productivity but have risky returns and cannot be easily reversed after
+the event.
+This matters because economists have long recognised that sunk-cost investments are particularly
+vulnerable to increases in uncertainty, fears of bad outcomes in particular. If things turn out well, you can
+always go ahead with the project when they do so; but if things turn out badly, a sunk-cost investment will
+have proved a big mistake. So if the risk of a rare but very bad event grows – if the worst-case scenario
+suddenly looks that much worse – you have a powerful incentive to delay such projects: the “option value” of
+waiting goes up and the required rate of return along with it10. Thus the equivalent to Chart 8(a), which
+plotted the sensitivity of expected returns to “disaster” risk, would look like Chart 12, and the effects of such
+risks on risky investment is thereby amplified.
+How important is this effect? Many intangible investments are, by their nature, hard to measure, and not
+included in conventional statistics on business investment. But Marrano and Haskel (2006) estimated that, in
+2004, and at least in gross terms11, they were the same size, both worth 11% of GDP. And while not all
+intangible investment is irreversible, one suspects that, with a scarcer supply of leasing finance (Chart 13),
+even some physical investments are harder to exit than before the crisis.
+
+10
+11
+
+The canonical reference is Dixit and Pindyck (1994)..
+Intangible capital is likely to depreciate faster and is therefore probably smaller than measured business investment in net terms.
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+10
+
+Chart 12: Sunk-cost projects more sensitive to risk
+of bad event
+
+Chart 13: Harder to find leasing finance for
+equipment
+
+rate of return (%)
+12
+
+earnings yield when investments are
+irreversable
+
+10
+
+£bn
+12
+
+Other finance
+Hire purchase
+
+10
+
+Leasing
+
+8
+
+8
+
+6
+
+6
+
+earnings yield
+
+4
+
+4
+
+2
+
+risk free
+
+2
+
+0
+‐2
+10.0
+
+11.0
+
+12.0
+
+13.0
+
+14.0
+
+probability
+of disaster
+15.0
+16.0
+17.0
+
+0
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Note: Includes financing for both plants and machinery and
+business equipment
+Source: Finance & Leasing Association
+
+Summary and conclusion: euro risk still a hurdle to recovery
+In a speech last year, I suggested that low capital mobility had contributed to weak growth of productivity and
+output. Following big shifts in relative prices, most obviously between traded and non-traded output, it was
+likely that some activities had become much more profitable (all else equal), others less so. Failure to move
+resources from one to the other would lower aggregate productivity. I also suggested that low capital mobility
+was connected with deleveraging: banks were “forbearing” on existing finance for activities that had become
+unprofitable while failing to fund the newly profitable projects.
+But the truth is that, although there are still signs of tight credit, finance looks expensive even for firms that
+can bypass the banks. Together with the big drop in risk-free interest rates this suggests that the distribution
+of economic outcomes driving financial markets has a marked downwards skew – that fears have increased
+of a rare but bad economic outcome. Such an event could remain very unlikely yet, if severe enough, still
+have a powerfully inhibiting effect on new investment projects, particularly those that are difficult to exit. As
+the May Inflation Report put it “the possibility of extreme outcomes crystallising [in the euro area] will
+continue to weigh on UK activity...even if those outcomes do not actually occur” (my emphasis). What
+I’m arguing in this piece is that these heightened fears may already have been affecting the growth of UK
+activity, investment and productivity for some time.
+It would be nice to think that these worries are unfounded – that “the only thing we should fear”, to quote
+Roosevelt, “is fear itself”. Unfortunately, I doubt that’s the case. Markets and businesses possess “animal
+spirits” and can over-react to events. They may have done so again. But there’s probably a premium on
+risky investments because there is genuine economic risk.
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+11
+
+I don’t mean, by any of this, to add to the prevailing gloom. We should remember that we have been through
+similar episodes before – as recently as the mid-1970s, risk premia rose to levels that were probably higher
+than they are now (I don’t think it’s a coincidence that productivity growth also slowed sharply at that time).
+Equity prices are still higher than last summer’s lows, investment is still happening and, thanks in part to the
+ECB’s LTRO operations, banks have managed to attract far more funding in the first few months of 2012
+than they did a year ago.
+In addition, one important implication of this thesis is that, if fears of downside risks were to recede, this
+could have pretty powerful effects on output – potential as well as actual – in a positive direction12.
+Nor is domestic policy powerless to affect things in the interim. Indeed, I strongly believe that the dramatic
+easing in monetary policy after 2008, here and in other parts of the world, was crucial in helping to prevent
+what might have been a much deeper downturn. And, were the (still unlikely) worst-case risks in the euro
+area actually to be realised, then our own monetary policy would again play its part in mitigating the impact.
+But, to some extent at least, that expectation is already there: markets should, and presumably do, know
+that, because such a downturn would threaten to push inflation to dangerously low levels, it would also be
+met with further monetary easing. To a degree, therefore, that response is already factored into market
+yields and the prevailing cost of capital.
+One should therefore recognise that, while they are both necessary and effective, these domestic
+interventions have their limits. It remains the case that, for the time being at least, the most important policy
+decisions affecting the UK are being taken in other parts of the continent.
+.
+
+12
+
+Bernanke (1983a) points out that the arrival of bad news can actually have a cathartically positive effect on irreversible investments
+(on the basis that people realise things can only better). Bloom (2009) simulates the effects of temporary uncertainty shocks on
+investment and labour productivity when firms face fixed (and sunk) adjustment costs. His shocks are symmetric – more uncertainty
+adds to upside and downside risks – but they nonetheless have powerful effects on investment and output. Equally, once uncertainty
+recedes, Bloom’s simulations predict rapid rebounds in both.
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+12
+
+References
+Barro, R. J., 2006, “Rare Disasters and Asset Markets in the Twentieth Century”, Quarterly Journal of
+Economics, Vol. 121, No.3, pg. 823-866
+Barro, R. J., 2009, “Rare Disasters, Asset Prices, and Welfare Costs”, American Economic Review, vol. 99,
+no.1, pg. 243-264
+Barro, R. J. and J. Tao, 2011, "On the Size and Distribution of Macroeconomic Disasters," Econometrica,
+Econometric Society, vol. 79, no. 5, pg. 1567-1589
+Bernanke, B. S., 1983a, "Irreversibility, Uncertainty, and Cyclical Investment," Quarterly Journal of
+Economics, MIT Press, vol. 98, no. 1, pg. 85-106
+Bernanke, B. S., 1983b, "Nonmonetary Effects of the Financial Crisis in Propagation of the Great
+Depression", American Economic Review, American Economic Association, vol. 73, no. 3, pg. 257-76
+Bernanke, B. S. and M. Gertler, 1989. "Agency Costs, Collateral, and Business Fluctuations", American
+Economic Review, vol. 79, no.1, pg. 14-31.
+Bloom, N., 2009, “The Impact of Uncertainty Shocks”, Econometrica, Vol. 77, No. 3, pg. 623-685
+Bonsal, R. And A. Yaron, 2004, “Risk for the Long Run: a Potential Resolution of Asset Pricing Puzzles”,
+Journal of Finance, Vol 59, No. 4, pg. 1481-1509
+Dixit A., and R. Pindyck, 1994, “Investment under Uncertainty”, Princeton University Press
+Friedman, M and A. J. Schwartz, 1963, “A Monetary History of the United States, 1867-1960”, Princeton
+University Press
+Kiyotaki, N. and J. Moore, 1997, “Credit Cycles”, Journal of Political Economy, vol. 105, no. 2
+Marrano, M. G. and J. Haskel, 2006, “How much Does the UK Invest in Intangible Assets”, Queen Mary
+University of London, Working Paper No. 578.
+Mehra, R. & E. Prescott, 1985, "The equity premium: A puzzle," Journal of Monetary Economics, Elsevier,
+vol. 15, no. 2, pg. 145-161
+Modigliani, F. and M. Miller, 1958, “The Cost of Capital, Corporation Finance and the Theory of
+Investment“. American Economic Review, vol. 48, no. 3, pg. 261–297
+Stiglitz, J. and A. Weiss, 1981, “Credit Rationing in Markets with Imperfect Information”, American
+Economic Review, American Economic Association, vol. 71, no. 3, pg. 393-410
+Reitz, T. A, 1988, “The Equity Risk Premium: a Solution”, Journal of Monetary Economics, No. 22, pg.
+117- 130
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+13
+
+

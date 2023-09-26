@@ -1,0 +1,907 @@
+Bank of England
+
+Page 1
+
+Quantitative Easing and
+Quantitative Tightening −
+speech by Silvana Tenreyro
+Given at the SES Annual Conference, Glasgow
+04 April 2023
+
+Bank of England
+
+Page 2
+
+Speech
+Good morning. It is a pleasure to speak at the Scottish Economic Society annual
+conference, and it is certainly appropriate to be in Glasgow this year, marking 300 years
+since the birth of Adam Smith.
+Over the past year, the MPC’s decisions on Bank Rate have rightly been the main focus of
+public discussion on monetary policy. After more than a decade below 1%, the MPC has
+taken Bank Rate from just above zero up to 4.25%, in little more than a year. And these
+changes have large direct impacts on borrowers and savers across the country. It is also
+the level of Bank Rate, and expectations of its future path, that will determine where
+inflation will fall back to over the next two to three years.
+I will return to my recent votes on Bank Rate at the end of the speech. But for the rest of
+the talk today, I will discuss another policy tool: quantitative easing (QE), and its reversal,
+quantitative tightening (QT). QT and QE have very much been in the background in terms
+of news reports, and also, by design, in my own policy decisions over the past few years.
+My speech will set out why QE and QT in the UK context need not, and indeed in my view
+should not, be part of our month-to-month thinking on monetary policy. Although it is
+currently in the background, it has attracted a lot of attention at different times. It was the
+topic of a recent inquiry by the House of Lords Economic Affairs Committee, and a
+current inquiry by the Treasury Committee. It has also been heavily discussed and
+analysed by Bank policymakers and researchers, with around 100 different publications
+materially related to QE since 2009 – averaging one every two months.1
+Despite this wealth of discussion and analysis, a key finding of a recent Independent
+Evaluation Office assessment of QE, was that the tool was ‘poorly understood’ by the
+public, and for some, ‘contentious’. In my view, these two assessments are closely related:
+any controversies stem in large part from misunderstandings about QE. In the words of the
+economist Ken Rogoff (2017), QE is surrounded by ‘hocus pocus and confusion about the
+channels through which it has impact’. Some of this was probably inevitable, for a tool
+about which policymakers and experts learned as they went, and there is no settled
+consensus. Today I will seek to take stock on the evidence we have gathered over time.2
+
+1
+
+See Chart 2.2 in Independent Evaluation Office (2021).
+These are very much my own views, and not those of the Bank or the MPC. That said, I have of course
+drawn extensively on the work of my colleagues in forming them, including Busetto, Chavaz, Froemel, Joyce,
+Kaminska and Worlidge (2022), ‘QE at the Bank of England: a perspective on its functioning and
+effectiveness’, Bailey (2020), Broadbent (2018), Hauser (2020), Pill (2022), Ramsden (2021), and
+Vlieghe (2018), as well as my own analysis and reading of the literature.
+2
+
+Bank of England
+
+Page 3
+
+At the same time, many longstanding misconceptions could perhaps have been avoided,
+if, as suggested in the Independent Evaluation Office report, QE was framed as ‘a
+change in an interest rate rather than the creation of a quantity of money’. As noted by
+Bailey et al (2020), increases or decreases in the quantity of reserves (a central bank
+liability, and also a type of money) are a by-product of QE and QT just as they are for a
+range of other central-bank operations. But in a system where the Bank pays interest on
+reserves and where reserves are one of many liquid assets held by commercial banks, the
+quantity of reserves is completely incidental to how the policy works, its aims, or its
+success. Despite this, the framing that money was being ‘created’ or ‘printed’ probably fed
+into some of the most pernicious myths about QE, including, as the Independent
+Evaluation Office report notes, that it was in some way a transfer of wealth to banks.
+Instead, we should think of QE as a tool, which, just like changes in Bank Rate, can
+potentially affect longer-term interest rates (under circumstances I will discuss). This could
+happen through different channels, possibly involving the reduction of liquidity premia
+through a liquidity or market-functioning channel, term premia through a portfolio balance
+channel, or expected future short rates through a signalling channel. Thinking about QE in
+this way leads me to four key points, which I will discuss in detail in the rest of my speech:
+•
+
+QE is an asset swap: it does not create new private-sector assets, which is how some
+may understand ‘money printing’ descriptions. Nor does it involve spending money in
+the sense that fiscal policy does. No private-sector banks, firms, households or
+governments end up with higher net worth from QE transactions themselves.
+
+•
+
+QE affects the economy only to the extent it affects interest rates. There is no separate
+‘money’ channel that can unleash inflation. In crisis times, QE can be powerful, as it
+can prevent increases in spreads via liquidity or market functioning channels, which
+would otherwise tighten financial conditions and lead to inflation below target.
+
+•
+
+But outside crisis episodes, I judge that the effects on yields (and therefore on the
+economy) are likely to be small and temporary. This means that attempting to come up
+with fixed Bank Rate equivalents, or ‘headroom’ in billions, can lead us astray. Effects
+and headroom depend on the yield impact, which is smaller outside crises.
+
+•
+
+Irrespective of its precise effects on interest rates, the MPC has not used QT as an
+active tightening tool. Since Bank Rate is being used to influence shorter and
+longer-term interest rates, which we can freely observe, then the pace and size of the
+QE and QT programmes need not have any effect on the overall amount of policy
+tightening. To the extent that QT affects yields, these impacts are reflected in the
+MPC’s forecast, which can then inform decisions on Bank Rate, the active tightening
+tool.
+
+Bank of England
+
+Page 4
+
+1. QE is an asset swap
+At a high level, QE aims to affect interest rates using central bank purchases of
+government bonds, or debt, held by the private sector, financed by issuing central-bank
+reserves.3 Reserves are part of a central bank’s ‘base money’, but for the public sector as
+a whole (the government and central bank together), they are just one type of
+(zero-maturity) liability. So QE effectively involves swapping one type of public-sector debt
+for another, changing its composition, but not the total amount.
+For the private sector, reserves are deposit accounts at the central bank, used by
+commercial banks to settle payments between each other. This position as the ultimate
+settlement asset makes them the most liquid asset in the economy. In the past, many
+central banks did not pay interest on these reserves. And in some jurisdictions, and in
+basic textbook models, commercial banks are subject to reserve requirements, which
+gives reserves a unique role in providing liquidity to the banking system, and a mechanical
+link with the quantity of lending in the economy.
+If this was ever an adequate simplification of banking, it certainly is not in the UK today.4
+The Bank of England pays interest on reserves and banks are subject to broader liquidity
+regulation, which also encompasses other interest-bearing liquid assets such as
+short-term government bonds. In periods of acute market disruption, such as the ‘dash for
+cash’ in March 2020, reserves and short-term government bonds can become less
+substitutable, as bonds become less liquid and there is increased demand for the ultimate
+settlement asset.5 But outside of such extreme episodes, reserves and short-term
+government bonds are close substitutes, since they have similar maturity, liquidity and risk
+characteristics, and with interest on reserves, pay a similar return. So for the private-sector
+as a whole, QE involves swapping one type of liquid asset – reserves – with another –
+government bonds.
+That is why descriptions of QE as ‘money printing’ fall wide of the mark. The net amount of
+assets and liabilities held by the private sector, and held by the consolidated public sector,
+remains unchanged. But a plain English reading of the term is suggestive of additional
+assets or wealth being created, or being spent. This framing of the policy probably fed into
+several common misconceptions about QE, some of which I will now try to dispel.
+
+3
+
+When I refer to QE in this speech, I am referring to central bank purchases of government bonds. In the
+UK, they represent more than 97 percent of the QE stock of purchases (the rest is corporate bonds).
+4
+See McLeay, Radia and Thomas (2014), ‘Money Creation in the Modern Economy’.
+5
+See Hauser (2020).
+
+Bank of England
+
+Page 5
+
+First, QE did not involve giving money to banks.6 Some banks were recapitalised by
+governments during the Global Financial Crisis. But other than the fact it was in response
+to the same crisis, QE was completely unrelated to that. From the perspective of a
+commercial bank, QE either changes the composition of the balance sheet or expands it.
+For example, a commercial bank can sell a government bond worth £1,000 to the central
+bank, and it will receive £1,000 of central bank reserves in return (Case A on Chart 1).
+There is an asset swap involving two claims on the public sector with different maturity.
+Alternatively, another counterparty of the central bank might sell a bond worth £1,000 to
+the central bank, and deposit the £1,000 received from the central bank with our
+commercial bank (Case B on Chart 1). In that case, the effect on the counterparty
+balance sheet is identical to Case A, with a simple asset swap. For the commercial bank, it
+now has a new asset (£1,000 reserves), but also a new liability (a £1,000 deposit). The
+bank’s balance sheet has expanded, but there is no transfer of wealth. The net worth of
+the bank (and the counterparty) is, to a first order, unaffected by the QE transactions.
+
+Chart 1: QE effects on a stylised bank balance sheet
+Starting Point
+Assets
+
+Liabilities
+
+Reserves
+
+Equity
+
+Bonds
+
+Wholesale
+Finance
+
+QE Case A
+Assets
+Reserves
+Bonds
+
+Liabilities
+
+QE Case B
+Assets
+
+Equity
+
+Liabilities
+
+Equity
+Reserves
+
+Wholesale
+Finance
+
+Wholesale
+Finance
+Bonds
+
+Loans
+
+Deposits
+
+Loans
+
+Deposits
+
+Deposits
+Loans
+
+Second, QE is not government financing. By design, QE shortens the maturity structure of
+consolidated public-sector debt. Following a QE programme, the public sector as a whole
+has less long-term debt than it otherwise would have had, but more short-term debt. In
+principle, the Treasury could achieve much the same outcome by issuing more short-term
+debt and less long-term debt. Other than this change in the maturity structure, QE does
+not directly change the consolidated public sector finances.
+
+6
+
+A related misconception, perhaps drawing on the old textbook models, is that this money was passed to
+banks to ‘lend out’ to firms and households. See McLeay, Radia and Thomas (2014), ‘Money Creation in
+the Modern Economy’ for a discussion.
+
+Bank of England
+
+Page 6
+
+The notion of QE as government financing may stem from the fact that asset purchases
+have typically taken place when the government deficit was expanding. However, the
+reason for that correlation is that both fiscal policy and monetary policy acted
+counter-cyclically, responding to a common shock; in particular, they were both loosened
+in response to the Global Financial Crisis and the Covid-19 pandemic. Monetary
+policymakers undertook QE in order to achieve their inflation targets, not to support fiscal
+expansions.7 Of course, countercyclical monetary policy (whether through Bank Rate or
+other tools) can push down on borrowing costs in times of crisis for both the public and the
+private sector. But as long as independent central banks are implementing QE based on
+their inflation-targeting remits, then this is not a form of government financing.
+To avoid these and other misconceptions about QE, I think that discussion of the policy
+should focus how it impacts interest rates, which is what determines how QE affects the
+economy. There are at least three advantages to this framing, in preference to discussing
+the impact of QE on asset quantities. First, there is evidence that public understanding of
+interest rates is higher than for other economic concepts, which might make the policy
+more accessible.8 Second, it would make clearer the similarities between QE and
+Bank Rate, and avoid the impression that there is an independent ‘money’ channel of QE.9
+In many of our models, and in some operating frameworks with scarce reserves, there is a
+duality between the quantity of reserves and the interest rate, such that changing the
+quantity of reserves can influence demand and inflation.10 But in these models and
+frameworks it typically does so because it changes the interest rate, not through an
+independent mechanism. And third, because that duality breaks down in frameworks such
+as our own, which pay interest on reserves. In such a system, the quantity of reserves is
+detached from the interest rate, and becomes entirely incidental to the stance of monetary
+policy, other than as a by-product of QE operations.
+Instead, the aim of QE is to help meet the inflation target by pushing down on longer-term
+interest rates through various channels. And lower longer-term interest rates should
+stimulate demand and economic activity in much the same way as conventional rate cuts.
+The key questions are: how much QE purchases can push down long-term rates? Under
+what circumstances? And how persistent are these effects?
+
+7
+
+My colleagues Ben Broadbent (2020) and Dave Ramsden (2021) explain this point in more detail.
+Runge and Hudson (2020), ‘Public Understanding of Economics and Economic Statistics’.
+9
+Of course, considering the effects of changes in monetary quantities has a proud history in theoretical and
+empirical economics. And the duality between quantities and interest rates means it is perfectly legitimate to
+do so in principle, even if experiences of monetary targeting call in to question how useful it is in practice.
+10
+Poole (1970), ‘Optimal Choice of Monetary Policy Instruments in a Simple Stochastic Macro Model’
+is the classic discussion of whether to use the interest rate or the money stock to implement monetary policy.
+8
+
+Bank of England
+
+Page 7
+
+2. QE works mainly through liquidity and market functioning
+The literature has focused on three channels through which QE could potentially reduce
+longer-term interest rates, as outlined in Chart 2: a market liquidity or market functioning
+channel, a portfolio-balance channel, and a signalling channel.11
+
+Chart 2: Stylised QE transmission mechanism
+
+Portfolio
+rebalancing
+
+Gilt yields
+
+Borrowing
+costs
+
+Exchange rate
+Asset
+Purchases
+
+Signalling
+
+Spending
+and Income
+
+Output and
+Inflation
+
+Bank funding
+costs
+
+Wealth
+Wider asset
+prices
+Liquidity
+
+Source: Adapted from Bailey et al (2020).
+
+Liquidity means different things to different people. The notion of liquidity I refer to here is
+broad or systemic. Market-wide liquidity can dry up in times of stress and QE can have
+material effects on yields in such times. There is ample evidence for a state-contingent
+market liquidity or market functioning channel from a large number of event studies.12 In
+the UK, the first QE programme in 2009 and the fifth programme in 2020 both started
+during periods of market turmoil and pushed down strongly on long-term yields, helping
+offset the initial shock. By limiting spikes in term premia during periods of market stress,
+
+11
+
+Some discussions also suggest a bank lending channel could operate, though I view such a channel as
+less likely in the current UK context where the reserves and the gilts purchased are seen as equivalent
+assets in regulatory liquidity ratios. The empirical evidence also does not support a bank lending channel of
+QE in the UK (Butt, Churm, McMahon, Morotz and Schanz (2014), ‘QE and the bank lending channel in
+the United Kingdom’; Miller and Wanengkirtyo (2020), ‘Liquidity and monetary transmission: a
+quasi-experimental approach’; Giansante, Fatouh and Ongena (2020), ‘Does quantitative easing boost
+bank lending to the real economy or cause other bank asset reallocation? The case of the UK’), and
+indeed the Monetary Policy Committee did not expect QE to work materially through bank lending channels
+(see e.g. the MPC Minutes from March 2009.)
+12
+See Busetto, Chavaz, Froemel, Joyce, Kaminska and Worlidge (2022), ‘QE at the Bank of England: a
+perspective on its functioning and effectiveness’. Note that there is less evidence for a narrower liquidity
+channel working through relative liquidity premia on specific bonds. I do not discuss this channel here.
+
+Bank of England
+
+Page 8
+
+QE can protect the monetary policy transmission mechanism and offset the demand
+impact of these shocks, helping the MPC to achieve its inflation target.13
+But can QE add monetary stimulus above and beyond offsetting a financial tightening
+caused by a dash for liquidity owing to an external shock? That is, can QE stimulate the
+economy relative to the pre-shock path? To do so, it would have to operate through either
+the portfolio rebalancing or the signalling channel.14 My reading of the evidence makes me
+sceptical about the quantitative strength of these channels, particularly outside of market
+stress periods.15 That said, even if in calmer periods QE does not add much stimulus, it
+can still play an insurance role in case of further crisis episodes.
+A first glance at the data reveals that the immediate UK yield response to
+QE-announcement surprises in calm market conditions was typically small (Chart 3).
+Some studies based on UK data do find statistically significant effects via portfolio
+rebalancing in calm conditions, but typically the quantitative effects are moderate.16 There
+is additional evidence from other countries, such as the US and the Euro area, but it is
+difficult to read across to the UK.17 The Federal Reserve bought significant amounts of
+mortgage-backed securities, which may have different effects to gilt purchases given
+different perceived risk characteristics. Similarly, ECB purchases of sovereign bonds may
+have a different effect depending on the risk and substitutability across bonds from
+different jurisdictions.
+
+13
+
+A term premium is the compensation that investors require for bearing the risk that interest rates may
+change over the life of a bond. Long-term rates can be decomposed into expected future short rates and
+term premia.
+14
+Instead of emphasising a market liquidity or market functioning channel, one could articulate this view in
+terms of highly state-contingent and temporary effects via portfolio balance channels, with little or no effect in
+calm market conditions.
+15
+Another important constraint on QE is that long-term yields are bounded at the perceived effective lower
+bound on the short rate. Once long-term yields are close to that level, QE cannot lower long-term yields
+much further, and hence it cannot add stimulus in benign market conditions when long term yields are
+already at the bound (Vlieghe 2021).
+16
+E.g. Froemel, Joyce and Kaminska (2022), ‘The local supply channel of QE: evidence from the Bank
+of England’s gilt purchases’ and Kaminska and Mumtaz (2022), ‘Monetary policy transmission during
+QE times: role of expectations and term premia channels’.
+17
+For example, D’Amico and King (2013), ‘Flow and stock effects of large-scale treasury purchases:
+Evidence on the importance of local supply’, Wu (2014), ‘Unconventional Monetary Policy and
+Long-Term Interest Rates’ and Ihrig, Klee, Li, Wei and Kachovec (2018), ‘Expectations about the Federal
+Reserve's Balance Sheet and the Term Structure of Interest Rates’ for the US; Altavilla, Carboni and
+Motto (2015), ‘Asset purchase programmes and financial markets: lessons from the euro area’ and
+Eser, Lemke, Nyholm, Radde and Vladu (2019), ‘Tracing the impact of the ECB’s asset purchase
+programme on the yield curve’ for the Euro Area.
+
+Bank of England
+
+Page 9
+
+Chart 3: 10-year gilt yield change after QE announcement and purchase surprise
+
+Source: Busetto et al (2022).
+
+How could a portfolio balance channel affect yields in calm market conditions? The
+channel is most prominently developed and discussed in the work of Greenwood and
+Vayanos (2014) and Vayanos and Vila (2021), and rests on the idea of limits to arbitrage.
+There are ‘preferred habitat’ investors such as pension funds that have an inelastic
+demand for safe assets of certain maturities.18 One would ordinarily expect arbitrageurs to
+undo any persistent effects on term premia and yields arising from the presence of those
+preferred-habitat investors.
+But these arbitrageurs may be myopic, or risk averse; or perhaps they are subject to
+capital or liquidity constraints.19 Limits to arbitrage would then imply that a reduction in net
+government bond supply at specific maturities could lead to a decrease in the real term
+premium at these, and potentially neighbouring, maturities. The theory suggests that this
+would reduce long-term yields, which would in turn stimulate economic activity.
+
+Giese, Joyce, Meaning and Worlidge (2021), ‘Preferred habitat investors in the UK government bond
+market’ provide evidence for preferred habitat behaviour in UK bond markets.
+19
+The relevance of the portfolio-balancing channel, in the end, depends on the liquidity capacity and risk
+tolerance of arbitrageurs, which is similar to the liquidity and market-functioning channels I have discussed
+already (they boil down to the same fundamentals). Therefore, outside crisis periods, when financial frictions
+are limited, arbitrageurs can absorb changes in quantities without much effect on yields. In crisis periods,
+when liquidity is limited or financial markets are not functioning smoothly, QE effects would be larger.
+Although even in seemingly tranquil times, QE can still play a role in case of future crisis episodes.
+18
+
+Bank of England
+
+Page 10
+
+Chart 4: Yield Changes by Maturity from QE for Gilts and Gilt-OIS Spreads (pp)
+February 2009
+
+March 2009
+
+Source: Joyce et al (2011).
+
+The key question is whether these assumptions hold in practice. And in particular, whether
+they hold in a quantitatively meaningful way, and outside crisis times. We have event
+studies that find statistically significant effects of QE announcement surprises on yields.
+For example, Joyce et al (2011) showed that UK government bond yields fell more than
+OIS rates after UK QE announcements in 2009 (Chart 4), which suggests effects via term
+premia rather than exclusively via expected future short rates.
+But a key limitation of event studies is that they can only identify effects in a narrow time
+window. That means event studies cannot tell us whether QE effects on yields really are
+
+Bank of England
+
+Page 11
+
+due to persistent falls in the term premium, or whether they merely reflect short-term
+liquidity effects that dissipate before they can have material effects on output and inflation.
+A number of observations in the data suggest that portfolio-balance effects on yields, if
+present, are only transitory and unlikely to account for the evolution of yields since the
+GFC. Let me summarise three of them to illustrate why I am sceptical about this channel
+as an independent driver of yield patterns.
+First, plotting the yield response to QE surprises not just on announcement days, but over
+a longer time window (Chart 5), reveals that much of the effect on yields dies out quickly.
+Changes in yields are only significant for a month or two.20 Even these short-term effects
+become insignificant when excluding May 2009 and March 2020, the two episodes when
+QE operated during acute market stress.
+This is not a well-identified exercise, so it does not prove anything. It merely illustrates that
+the patterns in the data may be more consistent with a temporary liquidity effect rather
+than a persistent portfolio-balance effect.
+
+Chart 5: Cumulative response of 10-year yield to UK QE announcements
+All positive QE surprises…
+
+… excluding May 2009 and March 2020
+
+20
+
+Extending the exercise to six months does not change this result.
+
+Bank of England
+
+Page 12
+
+Source: Bank calculations based on Mamaysky (2018) and Vlieghe (2018). The aqua line shows the sum of
+the cumulative responses of the 10-year spot yield to UK QE announcements that contained a positive
+surprise relative to market expectations (classification based on Busetto et al (2022)). The light and dark
+pink areas show bootstrapped confidence intervals for 10,000 randomly drawn start dates (instead of QE
+announcement dates).
+
+Second, in the UK, long-term interest rates did not persistently fall in the years after the
+2009 QE programme (Chart 6). Following the global financial crisis, long-term forward
+rates initially remained persistently high. The UK yield curve flattened slowly over the
+2010s, most likely reflecting the evolution of expectations on the policy rate. There is no
+obvious relationship between the flattening of the yield curve and the timing of QE
+announcements or QE surprises, challenging the view that QE, via the portfolio balance
+channel, was a key driver of lower long-term rates.
+Third, there is a naïve view that after 2008, central banks engaged in QE and term premia
+fell, so QE caused term premia to fall. That conclusion does not follow, however. What
+should matter for term premia – according to the portfolio balance view – is the total
+amount of long-term government bonds that the private sector has to absorb. All else
+constant, QE reduced that amount; but in absolute terms, and relative to GDP, it actually
+went up significantly after 2008. That is because government debt increased materially.
+
+Bank of England
+
+Page 13
+
+Chart 6: Evolution of UK forward rates
+1-year, 10-year forward
+
+Source: Bank of England and Bloomberg Finance L.P.
+
+The correct observation is that the market had to absorb a lot of additional long-term debt,
+and yet term premia fell, which is the opposite of what the portfolio balance view would
+predict (Chart 7). These are trends over a decade, so it is hard to identify causal effects.
+But to maintain the portfolio balance view as an explanation for persistently low long-term
+yields, one would have to argue that term premia would have fallen even more than they
+did over the past decade if the quantity of gilts the private sector had to absorb had
+remained constant. That is a hard argument to make; term premia fell to historic lows in
+the past decade, and long-term rates were often close to the perceived lower bound on the
+short rate, which should also act as a bound on long rates.
+
+Bank of England
+
+Page 14
+
+Chart 7: Net supply of UK debt and 10-year spot term premia
+
+Source: DMO, ONS, Vlieghe (2018), Bank calculations. Term premia estimates from Guimarães (2016),
+updated to February 2023. “All gilts” include both nominal and inflation-linked bonds. The free float is gilts
+less APF holdings. Solid lines show free float (% GDP), while dotted lines show free float (% GDP) minus
+Asset Purchase Facility purchases.
+
+None of these three patterns in the data is conclusive proof that QE had no persistent
+effect on yields. Nevertheless, to me the data appear more consistent with a liquidity story.
+Shocks can push up term premia when arbitrageurs’ capacity is temporarily constrained
+(and QE may have limited those spikes relative to the no-QE counterfactual). But
+eventually arbitrageurs do their job, so there is no clear persistent effect.
+I should note that this reading of the evidence is fully consistent with the state-of-the-art
+model of Vayanos and Vila (2021). QE effects on yields depend on the risk capacity of
+arbitrageurs. If that risk capacity is state-contingent, QE effects will be state-contingent
+and largest when market liquidity dries up. Theories of slow-moving capital provide
+another avenue to model this. With slow-moving capital, large changes in net bond supply
+can have large effects on yields until new capital flows into the affected markets to
+re-establish the no-arbitrage condition.21 QE can be an important tool to offset large
+shocks in times of stress, which may otherwise tighten financial conditions. But QE may
+only have small and transitory effects through portfolio-balance channels when markets
+
+21
+
+See Greenwood, Hanson and Liao (2018), ‘Asset Price Dynamics in Partially Segmented Markets’.
+
+Bank of England
+
+Page 15
+
+are functioning well, making it unlikely to explain the medium-to-long term patterns in
+yields.22
+If not portfolio balance effects, may signalling channels deliver large persistent effects of
+QE on yields? Signalling captures two separate proposed mechanisms. One is that QE
+purchases provide a commitment to keep rates low for longer, which helps strengthen
+forward guidance on rates. Another is that QE can help convey news about the state of the
+economy or communicate the central bank’s reaction function at the effective lower bound.
+The commitment-based signalling channel is expected to work like this: suppose inflation
+is too low but the central bank cannot cut the short-term interest rate because of a lower
+bound on interest rates.23 The central bank could promise to keep the policy rate low for
+longer, adding stimulus by pushing down expected future short rates and hence
+longer-term interest rates. That would be an example of forward guidance. There are
+however limits to this approach. In particular, the central bank cannot credibly commit to a
+time-inconsistent policy. Markets will anticipate that once inflation rises above target, the
+central bank would want to raise rates even if it had previously promised otherwise.
+In this view of QE as a commitment device, the premise is that QE could help central
+banks stretch the limits of forward guidance. But why should asset purchases provide any
+more commitment than forward guidance? For the commitment-based signalling channel
+to work, undertaking QE would need to make it more costly for the central bank to raise
+rates quickly once inflation rises above target. This could be the case if the central bank is
+committed not to raise rates before finishing an announced QE programme or before
+unwinding part of the programme. However, this has not been a constraint for many
+central banks. Indeed, the MPC made clear it would raise interest rates before unwinding
+the QE programmes.24 Even in the case that there was a commitment not to raise rates
+before QE completion, it is not clear that QE really adds an additional hurdle: the same
+reputational damage could result from breaking forward guidance promises; after all, the
+announced tightening sequencing itself is a form of forward guidance.
+Some have proposed balance-sheet concerns behind the commitment. If a central bank
+holds many long-term government bonds because of QE, raising rates would generate
+financial losses on these exposures. A central bank, they argue, may then want to delay
+rate rises to avoid losses, and begin raising rates only after reducing exposures via QT.
+
+22
+
+Many of my colleagues have emphasised the state-contingency of QE, including Andrew Bailey (2020),
+Dave Ramsden (2021), Gertjan Vlieghe (2021) and Andrew Hauser (2022).
+23
+See e.g. Jeanne and Svensson (2007), ‘Credible Commitment to Optimal Escape from a Liquidity
+Trap: The Role of the Balance Sheet of an Independent Central Bank’ and Bhattarai, Eggertsson and
+Gafarov (2015), ‘Time Consistency and the Duration of Government Debt: A Signalling Theory of
+Quantitative Easing’.
+24
+See e.g. ‘The MPC’s asset purchases as Bank Rate rises’ in the November 2015 Inflation Report.
+
+Bank of England
+
+Page 16
+
+But in the UK, as in other countries, there are arrangements in place specifically designed
+to ensure that monetary policy makers focus exclusively on the appropriate monetary
+policy, and do not worry about the narrow financial implications of QE for the public
+sector.25 And the economic benefits of QE go well beyond any financial profit or loss from
+changing the maturity structure of consolidated public-sector debt.26 Particularly in times of
+crisis, such as in 2009 and 2020, QE purchases were an essential part of the policy
+response necessary to hit the inflation target, preventing even larger recessions. These
+macroeconomic benefits of QE are likely to dwarf the direct fiscal implications of QE.
+Moreover, indirect fiscal implications of QE, such as higher tax revenues owing to
+shallower recessions, are likely to outweigh any direct fiscal implications of QE.
+In my view, QE is unlikely to commit central banks to any particular path for the short-term
+rate, at least not any more than forward guidance could. Indeed, recent central bank
+behaviour does not seem consistent with a commitment-based signalling channel. Many
+central banks, not just the Bank of England, have raised interest rates significantly over the
+past year, even though central-bank balance sheets are historically large relative to GDP
+and quantitative tightening has barely started. To the extent that markets did place some
+weight on a commitment-based signalling channel, this weight may decline over time, as
+understanding of QE develops.
+A different signalling channel could operate if QE signals news about the state of the
+economy or reveals the central bank’s reaction function at the effective lower bound.27 By
+engaging in QE, a tool that might actively stimulate demand when interest rates cannot, an
+announcement to keep rates low for longer could carry more weight than guidance alone.
+A precondition for this expectations channel is that QE does work through other,
+non-signalling channels, or at least that the central banker believes this to be the case.28 If
+QE had no material effects on yields, output or inflation, then QE would always be costless
+for the policymaker and hence could not send a more credible signal than words about the
+state of the economy or the central bank reaction function. But if, for example, QE effects
+through portfolio-balance channels are believed to be large, then the expectations channel
+could in principle amplify the effectiveness of QE.
+Overall, it is conceivable that QE could work to some extent via signalling channels, but
+those effects should also be modest in size. It seems unlikely that large balance sheets will
+in future be seen as an impediment to raising rates quickly, which would prevent any
+
+See e.g. Bell, Chui, Gomes, Moser-Boehm and Pierres Tejada (2023), ‘Why are central banks reporting
+losses? Does it matter?’.
+26
+See e.g. Carstens (2023).
+27
+My former colleague Gertjan Vlieghe (2018) referred to this as an expectations channel.
+28
+More precisely, market participants need to believe that the central banker believes this to be the case.
+25
+
+Bank of England
+
+Page 17
+
+commitment-based signalling channel. And if portfolio-balance channels are also seen as
+limited and temporary, the expectations channel would also lose power.29
+To summarise my stocktake on QE transmission, the key question is how much QE
+reduces long-term bond yields. The evidence is supportive of stronger effects on yields
+during times of stress via broad liquidity channels, while there may be some evidence for
+small and temporary effects on yields through portfolio-balancing and signalling channels.
+It follows naturally from this description of QE transmission that some supposed
+side-effects of QE policies seem far-fetched. A strong current in the public debate on QE
+argues that asset purchases are a key driver of high asset prices, creating financial
+stability risks and contributing to rising inequality. But if QE mainly mitigates large
+increases in spreads in times of stress or impaired market functioning, it does not inject
+material additional stimulus in absolute terms. So asset prices are unlikely to be higher
+than they would have been absent the shock in financial markets.
+When used in calm market conditions, QE effects on longer-term interest rates are likely to
+be more limited. Long-term interest rates have fallen significantly over the past two
+decades because the equilibrium real rate has fallen, not because of QE. It was not,
+therefore, an important driver of rising asset prices in the past decade. That said, even if
+its role in reducing yields is limited, QE can still play a role as an insurance device, helping
+to meet the inflation target in case of future episodes of financial stress.
+A clear implication of the state-contingent nature of QE is that it does not make sense to
+try to think of fixed equivalencies between some quantity of QE purchases, and a change
+in Bank Rate of a certain size. Small amounts of QE purchases, or even just a
+commitment to purchase, could prevent large rises in yields during times of stress or
+illiquidity. But large quantities could translate into limited yield movements at other times.
+Similarly, we should not think about QE ‘headroom’ in terms of the quantity of gilts
+available to purchase. The available headroom depends on the prevailing level of yields,
+and whether there are significant liquidity or market frictions that QE can help alleviate.
+
+3. QE did not contribute to above-target UK inflation
+Having set out my understanding of QE transmission, I will touch on how QE relates to the
+challenge facing monetary policymakers around the world over the past 18 months –
+inflation rates well above our targets.
+
+29
+
+One important exception to this may have been the 2009 QE programme, which could have pushed down
+term premia significantly and permanently. That may have occurred if markets came to think it more likely
+that central banks could step in to purchase some types of assets at times of financial stress or market
+dysfunction. But this would be a one-off effect, which cannot be repeated. In its absence, signalling channels
+could be less powerful (Broadbent, 2018).
+
+Bank of England
+
+Page 18
+
+Some have argued that the high inflation rates we are seeing at the moment are to some
+extent, or even to a large extent, a consequence of QE. The same kind of argument was
+made back in 2009, when some commentators predicted that asset purchases would
+quickly result in very high inflation. Yet central banks around the world used QE for many
+years, but inflation rates remained at – and in some cases stubbornly below – their targets.
+In this instance, three key points make clear why there is no link between QE and recent
+inflation outturns. First, inflation over the past 18 months was caused by large and
+unexpected external shocks, primarily the war in Ukraine, and the strong global demand
+for goods at a time of global supply chain disruption, which could not have been offset by
+any realistic monetary policy, be that Bank Rate or QE. Second, QE purchases announced
+in the second half of 2020 were, for my part, insurance in case of further market
+dysfunction, not to actively lower yields. Since dysfunction did not occur, the marginal
+impact of the purchases on yields and financial conditions is likely to have been limited.
+Third and most importantly, throughout, the MPC used Bank Rate as its active tightening
+tool, so the monetary stance was ultimately determined by decisions on Bank Rate,
+irrespective of the precise QE impact. I will briefly expand on each of these points.
+First, several of my colleagues and I have set out how extremely large external shocks,
+and not domestic demand conditions, have been the overwhelming cause of this period of
+very high inflation. I discussed in November (Tenreyro 2022) how the majority of
+above-target inflation can be accounted for by the extraordinary increase in global energy
+prices caused by the war in Ukraine, and by the increase in globally-traded goods prices
+stemming from the effects and after-effects of the pandemic (Chart 8). My colleague Swati
+Dhingra (2023) recently showed evidence suggesting that much of the rest of the inflation
+increase stemmed from the indirect effects of these shocks via the supply chain.
+
+Bank of England
+
+Page 19
+
+Chart 8: Energy prices have been the main driver of above-target inflation
+Contributions to difference in CPI inflation versus 2012-19 average (a)
+
+Sources: ONS and Bank calculations.
+
+While monetary policy can always control inflation in the medium-term, much of its effect
+on the economy comes with a lag, which means the short-run inflation volatility from such
+large shocks is unavoidable, as is recognised in our Remit. Even if shocks such as the war
+in Ukraine were perfectly foreseeable years in advance, there is no realistic monetary
+policy that could have prevented their inflationary impact in a way consistent with our
+Remit. Mechanical policy extrapolations in Tenreyro (2023) show that even extremely high
+interest rates in the middle of the pandemic would not have prevented inflation rising far
+above target; would have required extremely high unemployment rates and even larger
+falls in real wages; and would have led to an enormous inflation undershoot when the
+energy shock faded. Such a policy would not have been desirable or even possible
+mid-pandemic, when the furlough scheme was preventing a large rise in unemployment.
+Second, my motivation in the second half of 2020 for extending QE purchase programmes
+was for QE to act as insurance in case of further episodes of market dysfunction owing to
+the pandemic. The impact on yields, given markets remained calm and well-functioning, is
+likely to have been limited. This is consistent with the evidence on the transmission
+mechanism I have described, which suggests that QE’s main effects come at times of
+
+Bank of England
+
+Page 20
+
+heightened market stress. Given limited impact on yields, which were already very low,
+there was little additional demand stimulus from these QE announcements or purchases.
+Third and most importantly, Bank Rate was the MPC’s active tightening tool. I have set out
+why I judge that the overall monetary policy stance was appropriate, and why QE is
+unlikely to have had much impact on yields in this period. But even if one were to come to
+a different assessment of that impact, Bank Rate was the tool we were using to steer the
+overall monetary stance. If QE had had a larger impact on yields than I estimate, it would
+not have resulted in a looser policy stance than I judged to be appropriate. Whatever the
+marginal effect of QE on yields may have been, the MPC was able to observe these yields
+and adjust Bank Rate and guidance on Bank Rate to achieve the desired overall stance.
+I think similar logic also applies when asset purchases are used for purposes other than in
+pursuit of the inflation target. As long as the MPC has an effective tool with which to adjust
+policy, then that tool can be used to meet its Remit.30 The Bank’s short-term gilt market
+operations in October 2022, for example, were designed to deliver the FPC’s financial
+stability objective.31 If I were ever to judge that asset purchases to maintain financial
+stability would alter the monetary policy stance, I would be free to vote on Bank Rate in a
+way that took that into account. This would be no different to how I would take into account
+the effect of any FPC policy decision that affected the inflation outlook. I will next turn to
+the similar set of arguments that apply to QT, and explain why I think it can operate in the
+background, with no impact on month-to-month policy decisions.
+
+4. QT does not affect the overall amount of policy tightening
+In February 2022, the MPC began stopping the reinvestment maturing gilts, and since
+November 2022 it has voted to actively sell bonds. So far, this has reduced the stock of
+government bonds held for monetary policy purposes from a peak of £875bn to £818bn.32
+But just as with the QE purchases made over 2021, the pace and size of the QT
+programme need have no effect on the overall degree of monetary tightening, and
+therefore on the outlook for inflation.
+Although the MPC is unwinding QE, it is not using the stock of asset holdings as an active
+monetary policy tool. It has made clear over a number of years that once Bank Rate was
+away from the lower bound, and could move in both directions, it intended to unwind the
+30
+
+In many models, related to the logic of the Tinbergen rule that the number of instruments needed is equal
+to the number of objectives, the instrument assigned to each goal can depend on their relative effectiveness.
+For example, in Aikman, Giese, Kapadia and McLeay (2023), ‘Targeting Financial Stability:
+Macroprudential or Monetary Policy?’, it is optimal for the tool that is relatively more effective at achieving
+monetary goals compared to financial stability objectives to be used for that purpose, and vice versa. If the
+tools are state-contingent, it is therefore natural that the same tool can be used for different purposes at
+different times.
+31
+See Breeden (2022) and Hauser (2022) for discussions of this intervention.
+32
+As of 22 March 2023, the date that the March 2023 MPC meeting ended.
+
+Bank of England
+
+Page 21
+
+stock of QE gradually and predictably, and in a way that was not bound to underlying
+economic conditions. Instead, Bank Rate is the active instrument. And it is observed
+interest rates and asset prices that feed into our forecasts, which will automatically
+incorporate any effects of QT. Hence, whenever asset prices move persistently in a way
+that makes financial conditions too loose or too tight to meet the inflation target, whether
+caused by QT or anything else, then our forecast will reflect this. Decisions and plans on
+Bank Rate, which are informed by the forecast, can adjust in order to offset those moves.
+Moreover, the programme of asset sales is designed in a way that it should have a
+minimal impact on asset prices. QT has been undertaken so as not to disrupt stable
+market functioning. This approach means that asset sales should have no material effects
+on yields through liquidity channels. At the same time, undertaking QT gradually and
+predictably in the background should detach it from the active monetary policy debate.
+That implies that QT should not have any material effect through signalling channels. That
+leaves the portfolio balance channel, which I argued had only small and temporary effects
+on yields in well-functioning markets. I expect the same to apply in the case of QT.
+Identifying the size and persistence of QT effects on yields will be subject to all the same
+problems that have plagued research trying to uncover the effects of QE. But the critical
+point for setting monetary policy in real time, is that whether effects are large or small, they
+need not impact the overall policy stance.
+
+5. Conclusion and current policy outlook
+To conclude, QE has been a useful addition to the policy toolkit. It can help the MPC meet
+the inflation target, particularly during crises, when it can offset significant tightening that
+could otherwise be imparted by financial market dysfunction or market liquidity shortages.
+QE affects the economy only to the extent it affects interest rates. I think it is crucial for
+public understanding that discussion of the policy focuses on this framing. Some
+longstanding misconceptions around QE and its effect on banks, government finances and
+inflation seem to relate to perceptions of ‘money printing’.
+In the UK context, and outside periods of stress and market dysfunction, my reading of the
+evidence is that QE is likely to have small and temporary effects on yields. This means
+that its impact is highly state-contingent, and one should not consider some fixed amount
+of QE as equivalent to Bank Rate, nor as a measure of policy headroom. It also implies
+that while QE can help prevent or offset some types of financial-market shocks, which
+might otherwise tighten financial conditions and make it difficult to achieve the inflation
+target, it may not be able to add much additional stimulus relative to pre-shock. Hence we
+
+Bank of England
+
+Page 22
+
+cannot be complacent about the ability of QE to substitute for interest-rate policy if, when
+inflation falls, we find ourselves still in a world of low equilibrium interest rates.33
+Since the MPC has used Bank Rate as its active tightening tool to influence short-term and
+longer-term interest rates, QE and QT need not have any bearing on the overall degree of
+tightening, and therefore on above-target inflation in the recent past, or below-target
+inflation in our forecast. Any effects of QT are immediately observable in interest rates and
+asset prices, so factored into our forecasts and Bank Rate decisions just as with
+asset-price movements caused by anything else. By design, the impacts should be small,
+but policy can ensure the overall stance is the same regardless.
+Larger impacts on asset prices were evident in recent weeks in bank funding markets,
+following the failure of Silicon Valley Bank in the US, and the purchase of Credit Suisse by
+UBS in Europe. The Bank of England FPC’s assessment is that the UK banking system
+remains resilient, and with macroprudential tools the first line of defence against
+financial-stability risks, my recent decisions have focused on the outlook for inflation. We
+will observe in the coming weeks whether those increases in bank funding costs persist in
+a way that affects the inflation outlook. If so, the MPC will need to take into account the
+resulting extra tightening in credit conditions when choosing a Bank Rate path, just as it
+does for any other event, including QE or QT, affecting asset prices.
+Even before recent financial-sector events abroad, there had been sizeable news to the
+outlook. In November, I set out three scenarios for my own policy strategy under different
+data outturns. Since then, the data have evolved most like my downside scenario, with
+high-frequency private-sector regular pay growth falling back sharply in recent months.
+Moreover, all three scenarios were under the assumption that the terms-of-trade shock
+that has pushed UK inflation far above target would unwind in line with the market prices
+our forecast was conditioned on. In the event, this has reversed even faster. Oil and gas
+prices and futures have fallen sharply, while indices of global supply chain disruptions and
+shipping costs are back to pre-pandemic levels. Food-price inflation increased in February,
+though in part this reflects the lagged effects of the energy-price shock (through its impact
+on fertiliser prices, for example), as well as adverse weather conditions in agriculture.
+This partial reversal of the terms-of-trade shock should have symmetric effects to the initial
+increase. Headline inflation will fall more sharply, as direct impacts and indirect effects via
+the supply chain reverse. There will also be lower price inertia from second-round effects
+via wage growth, given a lower rate of headline inflation. At the same time, we will see less
+of a drag on demand and the output gap from further falls in real income, which probably
+explains part of the recent tick up in near-term output indicators.
+
+33
+
+Bailey et al (2022).
+
+Bank of England
+
+Page 23
+
+So far, however, the policy response has not been symmetric: in recent months Bank Rate
+has increased further into restrictive territory, to 4.25 per cent. As the effects of the large
+and rapid tightening in policy gradually come through over the course of 2023 and 2024,
+this is likely to drag demand well below its potential, loosening the labour market and
+pulling down on inflation. In the absence of further counterbalancing cost-push shocks, I
+judge inflation is likely to fall well below target.
+Given that outlook, I have voted for no change in Bank Rate in recent months, rather than
+further tightening. With Bank Rate moving further into restrictive territory, I think a looser
+stance is needed to meet the inflation target in the medium term. In general, a looser
+stance can be achieved either through lower Bank Rate today, or through lower Bank Rate
+in future, which leads to a lower market curve. A lower market curve would then lower
+lending rates and loosen financial conditions today. At the same time, with Bank Rate
+moving further into restrictive territory, there are limits to the amount of loosening that can
+be provided through this mechanism. So I expect that the high current level of Bank Rate
+will require an earlier and faster reversal, to avoid a significant inflation undershoot.
+As always, my future decisions on Bank Rate, as with those of my colleagues, will depend
+on how the data evolve. In any event, the MPC will set policy to ensure inflation returns to
+target in the medium term.
+I would like to thank Lukas von dem Berge and Michael McLeay for their help producing
+this speech, as well as Rodrigo Guimarães and Mike Joyce for assistance with data and
+analysis. I am also grateful to Andrew Bailey, Jonathan Bridges, Ben Broadbent,
+Filippo Busetto, Nick Butt, David Elliot, Abigail Haddow, Jonathan Haskel, Andrew Hauser,
+Rafael Kinston, Nick McLaren, Jack Meaning, Edwin Millar, Huw Pill, Dave Ramsden,
+Martin Seneca, Danny Walker and Mo Wazzi for helpful comments.
+
+

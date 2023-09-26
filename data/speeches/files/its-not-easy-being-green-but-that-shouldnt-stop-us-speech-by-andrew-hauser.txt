@@ -1,0 +1,597 @@
+It’s not easy being green – but that shouldn’t stop us: how
+central banks can use their monetary policy portfolio to
+support orderly transition to net zero
+Speech given by
+Andrew Hauser, Executive Director, Markets
+
+At Bloomberg
+21 May 2021
+
+This speech launches, and draws heavily on, the Discussion Paper ‘Options for greening the Bank of
+England’s corporate bond purchase scheme’. That paper was produced by an internal team led by
+Matt Trott, and I am hugely grateful to him, Sadia Arif, Andrew Bailey, Ryan Barrett, Beth Blowers,
+Sarah Breeden, Jon Bridges, Rohan Churm, Eleanor Eden, Chris Faint, Bianca Ginelli Nardi,
+Maggie Illingworth, Zane Jamal, Josh Jones, Rebecca Maher, Nick McLaren, Tom McLaren,
+Rhys Philips, Dave Ramsden, Francine Robb, Philip Temme, Thomas Viegas and Sebastian Walsh
+for their input both to the Discussion Paper and this speech
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+Introduction
+I am delighted to be with you here today to launch our Discussion Paper on greening central bank asset
+portfolios. The Paper sets out our analysis and proposals in detail. I want to use these remarks to explain
+why we are doing this, covering four main topics:
+-
+
+First, why achieving net zero requires action from everyone, including central banks;
+
+-
+
+Second, how a clarified remit, coupled with market mispricing of climate risk, gives the Bank the
+green light to adjust the composition of our Corporate Bond Purchase Scheme to support net zero in
+ways that don’t compromise its monetary policy goals;
+
+-
+
+Third, why those adjustments should aim to improve firms’ incentives for delivering net zero, not
+simply minimise the current carbon footprint of the Scheme; and
+
+-
+
+Fourth, how we will turn our words into action, starting with the next scheduled reinvestment
+operations this autumn.
+
+The framework we are setting out today is a first for central bank monetary policy operations. But, as a
+famous frog once sang, it’s not easy being green.1 Some worry central banks will go too far, straying into
+territory best left to government. Others worry they will be too timid, under-using their influence for change.
+So we need your help. Do our proposals get that balance right? Have we missed anything? And how do
+we work with others to amplify our impact, recognising that central banks’ voices and influence are at least
+as powerful as our buying power? Our draft framework already draws heavily on emerging best practice.
+But today marks the start of an intensive period of listening and learning, framed by the questions set out in
+the Discussion Paper. We look forward to hearing your views.
+Why achieving net zero requires action from everyone, including central banks
+2020 was a global catastrophe. 3 million lives tragically lost to Covid.2 The worst decline in output since
+World War 2 globally, and the Great Frost of 1709 in the UK.3 Working hours slashed by the equivalent of
+255 million jobs.4 And children’s education cut by at least a quarter.5
+
+Even hardened optimists would struggle to find a silver lining in all of that. But, unintentionally, 2020 did
+achieve at least one extraordinary thing: it showed us just how big the challenge of tackling climate change
+
+1
+
+Sesame Street: It's Not Easy Being Green (Kermit's Song) - YouTube
+WHO Coronavirus (COVID-19) Dashboard | WHO Coronavirus (COVID-19) Dashboard With Vaccination Data
+https://www.imf.org/-/media/Files/Publications/WEO/2021/April/English/Ch1.ashx and https://www.bankofengland.co.uk//media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-theuk.xlsx?la=en&hash=73ABBFB603A709FEEB1FD349B1C61F11527F1DE4
+4
+wcms_767028.pdf (ilo.org)
+5
+https://www.imf.org/-/media/Files/Publications/WEO/2021/April/English/Ch1.ashx
+2
+3
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+really is. Last year, as a result of all of that turmoil – air travel down by two thirds;6 road miles halved7 –
+global fossil CO2 emissions fell by 7%.8 That may not sound like much. But it’s the biggest fall for over a
+century (Chart 1). And it’s a sign of what needs to come – because, according to the UN, emissions need to
+fall by a similar amount every single year for the next decade if we are to avoid the disastrous consequences
+of global warming.9
+
+Chart 1: Global CO2 emissions
+
+Chart 2: Orderly vs disorderly transition
+
+Source: Global Carbon Project
+https://www.globalcarbonproject.org/index.htm
+Source: IIASA NGFS Climate Scenarios Database, using
+marker models. ‘GHGs’ = greenhouse gases.
+
+That won’t happen easily – or on its own. It turns out that the only previous material reductions in global
+emissions have been by-products of disasters like Covid, the financial crisis of 2008-9, World War 2, or the
+Great Depression (Chart 1). But relying on future disasters to force adjustment is not a plan. Orderly
+transition requires concerted efforts across every sector and country in the global economy. Start late, and
+the best case is severe economic disruption, at least as bad as in 2008-9 (Chart 2 – yellow line). Leave it
+completely and temperatures will soar, causing untold physical, human and economic damage (Chart 2 –
+grey line).
+
+Responsibility for making the hard political choices to bring about orderly transition lies with governments. In
+the UK, greenhouse emissions have already halved in the past thirty years (Chart 3), one of the best
+performances in the G7. To get to net zero, we need the same again – and that’s why the Government has
+committed to reduce emissions to 78% of 1990 levels by 2035, and net zero by 2050.
+
+6
+
+IATA - 2020 Worst Year in History for Air Travel Demand
+Changes in transport behaviour during the Covid-19 crisis – Analysis - IEA
+ESSD - Global Carbon Budget 2020 (copernicus.org)
+9
+Cut global emissions by 7.6 percent every year for next decade to meet 1.5°C Paris target - UN report (unep.org)
+7
+8
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+Governments may be responsible for the policies to achieve net zero. But much of the emissions reduction
+itself has to come from the corporate sector. And that requires investment – and lots of it. In the UK alone,
+spending on low-carbon technologies and infrastructure will need to rise five-fold, from £10bn to £50bn a
+year (Chart 4), or 2½% of GDP. Globally that number is more like 8% of GDP.
+
+Chart 3: UK balanced path to net zero
+
+Source: Sixth Carbon Budget - Climate Change Committee
+(theccc.org.uk)
+
+Chart 4: UK sectoral investment needs
+
+Source: Sixth Carbon Budget - Climate Change Committee
+(theccc.org.uk)
+
+Much of the job of financing this investment programme falls to the financial sector: to banks, and to
+investors in companies’ equity and debt. The scale of that task would be challenging even if the path to net
+zero were certain. But it is not – so investors must also manage the potential for significant losses on their
+assets, as and when more aggressive policies to reduce emissions come on stream, or physical climate
+events grow in intensity. These are known as ‘transition risk’ and ‘physical risk’ respectively. In response,
+investors are increasingly keen to see those responsible for managing their savings take more forceful
+actions to support transition to net zero – channelling their holdings away from firms whose activities are
+seen as incompatible with that transition, and towards those whose are.10
+
+For much of its history, the Bank of England has not itself been a direct investor in corporate assets. And,
+more recently, our primary engagement with the financial sector on climate issues has been to ensure that
+banks and insurers can manage their large transition and physical risks effectively, and in ways that do not
+threaten system-wide stability. In 2019 we became the first supervisory body globally to set formal
+expectations in this area. And this year we are conducting a system-wide exercise to assess its resilience to
+the sorts of climate scenarios shown in Chart 2.11
+
+10
+
+I discussed these trends in more detail in https://www.bankofengland.co.uk/-/media/boe/files/speech/2020/from-hot-air-to-cold-hardfacts-speech-by-andrew-hauser.pdf?la=en&hash=5D73B8F9748EC41ECFFAD676A6D1D71A93703E15
+11
+For more extensive information on the Bank’s work on climate change, see Climate change | Bank of England.
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+In 2016, however, the Bank’s Monetary Policy Committee (MPC) voted to purchase £10bn of sterling
+corporate bonds in the secondary market as part of a package of measures designed to ease monetary
+conditions following the referendum on leaving the European Union. This so-called ‘Corporate Bond
+Purchase Scheme’ (CBPS) was increased to £20bn in 2020, in response to the economic impact of Covid.
+It’s therefore fair to ask: as an investor in corporate assets in our own right, should we be taking steps to
+support the achievement of net zero?
+
+The Bank as investor: reconciling monetary policy goals and market mispricing
+
+The first point to underscore is that the CBPS began as, and will remain, a monetary policy tool. That means
+that the overall target stock will continue to be set by the MPC to achieve its inflation objective. So, in due
+course, when the economic outlook allows, the fund will unwind. We do not expect to be a permanent
+investor. To achieve the policy goals of the Scheme, eligible bonds must be issued by non-financial
+companies making a material contribution to UK economic activity. And to protect public money, the Bank
+imposes controls on credit quality, portfolio concentration and other financial risks.12 These elements of the
+scheme will not change.
+
+A more interesting question relates to the composition of the CBPS. Up to now, we have aimed to replicate
+the structure of the sterling corporate bond market itself. We do that by dividing up our purchases across
+sectors according to the amount of debt outstanding; and within sectors using competitive reverse auctions.
+The rationale for allocating purchases in this way has been to minimise the impact of the CBPS on relative
+borrowing costs across sectors and firms.
+This approach, sometimes called ‘market neutrality’, has obvious attractions for central banks charged with
+setting monetary policy for the economy as a whole. But it has quite a striking implication for the carbon
+footprint of the CBPS portfolio. Chart 5 compares the proportion of the CBPS held in each sector with the
+contribution of that sectoral holding to the total carbon footprint of the portfolio. And you can immediately
+see that some sectors – notably the utilities: electricity, water and gas – contribute more to the CBPS’
+carbon footprint than their portfolio share might suggest. Others by contrast contribute substantially less –
+eg the consumer, communications, property and finance sectors.
+
+12
+
+A full set of eligibility criteria can be found here: https://www.bankofengland.co.uk/markets/market-notices/2016/asset-purchasefacility-corporate-bond-purchase-scheme-market-notice-september-2016. Financial risks on the CBPS, like the Asset Purchase Facility
+as a whole, are indemnified by HM Treasury.
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+Chart 5: CBPS sectoral composition and carbon footprint13
+
+There are at least two reasons for this apparent bias.
+The first is that – for reasons unrelated to emissions – investment grade corporate bond issuance tends to be
+better suited to companies with big fixed long-term capital investment needs (and on average larger carbon
+footprints). By contrast, smaller companies (with on average lower carbon footprints) are more likely to rely
+on funding from banks or other sources. Debt issuance therefore tends to be skewed towards sectors with
+higher carbon footprints, relative to their shares of GDP.
+
+The second is that there are increasingly persuasive reasons to believe that financial markets are materially
+underpricing the cost of emissions, and hence climate risks.14 There are several possible reasons for this.
+At the most basic level, the information on which such prices are based – companies’ disclosures on
+emissions reduction plans and carbon footprints – is somewhat incomplete and inconsistent. But that is
+improving steadily. More importantly, carbon producers do not for the most part yet bear the full costs that
+their emissions impose on the wider economy. A key part of the transition to net zero is to internalise those
+costs, driving a significant increase in the so-called ‘shadow carbon price’ (Chart 6). As that happens, it will
+put downward pressure on the prices of assets issued by companies who have been least successful in
+transitioning away from high-emissions activities, increasing their cost of finance.
+
+‘Electricity’ and ‘gas’ sectors include companies that generate, supply and distribute power; ‘industrial & transport’ includes chemical,
+construction and transportation companies; ‘energy’ includes companies involved in oil exploration and production; ‘consumer, noncyclical’ includes pharmaceutical and food and beverage companies; ‘property and finance’ includes housing associations and property
+development companies; ‘communications’ includes telecommunications and media; and ‘consumer cyclical’ includes automotive
+companies, retail and tourism. Carbon footprint measured using weighted-average carbon intensity (WACI) measures of tCO2e/£m
+revenue, capturing Scope 1 and 2 emissions. Scope 3 estimates are set out in Section 2 of the Discussion Paper.
+14
+The evidence for this is discussed in more detail in Section 2 of the Discussion Paper.
+13
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+Chart 6: Shadow carbon price in scenarios shown in Chart 2
+
+Source: IIASA [NGFS Climate Scenarios Database, using marker models]
+
+The question is not whether the shadow carbon price has to rise – the question is when. To the extent that
+markets are assuming an unrealistically low or distant pickup – and it seems increasingly clear that they are
+– financial assets today may be mispriced. An ‘adjusted market neutrality’ principle that took this mispricing
+into account could suggest a very different asset allocation in investment portfolios, including the CBPS.
+
+Until recently, the Bank of England lacked the mandate to make such adjustments. In March, however, the
+Chancellor updated the MPC’s ‘remit letter’ to confirm that the economic strategy of the Government – which
+the MPC is required to support as a ‘secondary objective’ – includes supporting the transition to a net zero
+emissions economy.15
+
+Portfolio decarbonisation is not enough: look forward, work together to drive change
+
+Now comes the tricky bit: translating these conceptual insights into practice.
+
+At first sight it might seem the answer is simple: just sell all our high-emission bonds, and use the proceeds
+to buy low-emission ones. The carbon footprint of the CBPS would fall sharply. And, to the extent the
+Bank’s actions were influential, the financing costs of high-emissions firms should rise, sending a powerful
+wakeup call.
+But indiscriminate ‘portfolio decarbonisation’ of this kind cannot be the best strategy for investors like the
+Bank seeking to incentivise economy-wide transition to net zero, for two key reasons:
+
+15
+
+MPC Remit statement and letter and FPC Remit letter | Bank of England
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+
+
+First, the high-emissions firms whose bonds we would be selling are the ones we most need to be at
+the vanguard of emissions reduction. But selling their bonds doesn’t destroy them as assets, it
+simply transfers them to other investors. And if investors seeking to incentivise transition are all
+decarbonising, those left holding the bonds are by definition going to be those with a weaker
+commitment to net zero;
+
+
+
+Second, simply selling anything with a high carbon footprint penalises those with strong and credible
+emissions reductions plans just as much as it does those with no such plans.
+
+The net effect therefore is likely to be to reduce, not increase, economy-wide incentives to reach net zero.16
+And our end state portfolio, consisting exclusively of firms with low and stable emissions, would by definition
+play little material role in driving future emissions reduction.
+
+I draw two conclusions from this. First, engagement beats disengagement. And, second, when ranking
+firms’ contributions to the achievement of net zero, look forward as well as back – giving weight to the calibre
+of their emissions-reduction plans, and their performance over time against those plans.
+
+Divestment is a powerful tool, and should remain squarely in the toolkit. But it should be used as a credible
+threat to reinforce incentives, not an indiscriminate ‘quick fix’.
+
+A strategy of engagement works best when the message is big, unavoidable and credible. Here we face a
+slightly different challenge. The Bank of England’s voice has influence. But the CBPS is not a huge facility.
+£20bn may sound like a lot. But it’s small in the world of global capital markets – accounting for just 6.5% of
+the sterling corporate bond market, 0.5% of total sterling traded assets and a vanishingly small share of
+global holdings (Table 1).
+
+Table 1: The CBPS in context
+
+16
+
+A worked example is given in Section 3 of the Discussion Paper.
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+What’s more, we are not currently making active purchases, because the MPC’s target stock for the CBPS
+was reached last year. That means the only scheduled purchases are reinvestments, averaging around a
+billion pounds a year in the near term.
+So it’s clear we can’t rely on buying power alone.
+Table 2: Selected investor frameworks17
+
+But we can still use our position to take a lead, working closely with other like-minded central banks and
+investors. That movement is strong and growing. Earlier this year, the Network for Greening the Financial
+System (NGFS), a group of 90 central banks and supervisors which the Bank helped to found, published a
+
+17
+
+https://www.parisalignedinvestment.org/media/2021/03/PAII-Net-Zero-Investment-Framework_Implementation-Guide.pdf;
+https://www.unepfi.org/net-zero-alliance/resources/alliance-2025-target-setting-protocol/;
+https://sciencebasedtargets.org/sectors/financial-institutions
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+menu of practical options for central banks looking to green their monetary policy operations.18 The recent
+podcast by ECB Executive Board members Isabel Schnabel and Frank Elderson makes very similar points to
+my speech today.19 And in the private and non-profit sectors, comprehensive frameworks for investment
+strategies to support net zero have been developed by owners and managers of assets worth tens of trillions
+of dollars (Table 2).
+
+Now that is real money.
+We’ve drawn heavily on this thinking in designing our own framework. We hope our approach can, in turn,
+influence, encourage and promote the efforts of others.
+
+Turning our words into action: greening the CBPS
+
+So what are we going to do?
+Our proposed framework is made up of four key tools: targets; tilts; eligibility; and escalation (Table 3). Let
+me describe each briefly
+Table 3: Proposed tools for greening the CBPS
+
+18
+
+ngfs_monetary_policy_operations_final.pdf
+Tackling climate change as a central bank: Between motivation, obligation and limitation (europa.eu). See also François Villeroy de
+Galhau: The role of central banks in the greening of the economy (bis.org) and Speech Klaas Knot - “Getting the Green Deal done: how
+to mobilize sustainable finance” (dnb.nl) for other recent examples.
+19
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+Setting a target for the overall climate properties of the portfolio will help shape and steer our investment
+decisions, and provide transparency and accountability. At first sight, the framing of this target seems
+obvious: to achieve net zero by 2050. But 2050 is well beyond the likely lifespan of the CBPS. And
+‘achieve net zero’ does not tell our staff which bonds to trade. So we need a nearer-term, intermediate, goal
+– in measurable units.
+The Discussion Paper considers a number of options (Chart 6). The first, a declining path for the carbon
+footprint of the portfolio, is simple to state and measure, and can be aligned with the Government’s target
+path to net zero. Implementing it at a more granular level is however complicated by the limited availability of
+appropriate sectoral pathways to net zero.
+Chart 6: Options for intermediate portfolio targets
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+A second, more forward-looking, approach would be to use an ‘implied temperature rise’ metric to target a
+declining temperature path. These convert data and projections of the current and future emissions of
+companies held in the portfolio into estimated future temperature levels, using assumptions about how those
+emissions compare to target paths.
+We published one such measure in our 2020 TCFD20-aligned climate disclosure report21, which suggested
+that the CBPS – like the sterling corporate bond market it echoes – is aligned with an unsustainable 3.5°C.
+These metrics are promising, but very sensitive to their underlying assumptions: alternative measures for
+the same portfolio ranged from <1.75°C to 4°C (Chart 7). This degree of variation complicates their
+practical use for target setting.
+Chart 7: Uncertainties over implied temperature rise metrics
+
+Source: The Bank of England's climate-related financial disclosure 2020
+
+Some frameworks also advocate reserving a share of the portfolio to ‘green bonds’, or other assets linked
+directly to emissions-reducing activity. The market for sterling green bonds is currently small (Chart 8). But
+the planned launch of a new green gilt issuance programme should catalyse new corporate issuance,
+broadening the range of instruments available to sterling investors, including the CBPS.
+
+20
+21
+
+Task force on Climate-Related Financial Disclosures: https://www.fsb-tcfd.org/
+https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2020/climate-related-financial-disclosure-report-2019-20.pdf.
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+12
+
+Chart 8: Outstanding global green bonds by currency
+
+Source: Bloomberg.
+
+Having set an overall target, our second and third tools – tilting and eligibility – will play the key role in
+influencing incentives for transition.
+We propose to tilt future CBPS purchases towards issuers which are performing relatively strongly in
+support of net zero, and away from those that are not. Tilting is a well-developed investment practice,
+applied to climate-based central bank purchases by Dirk Schoenmaker,22 and has a number of key
+attractions:
+-
+
+It will allow us to maintain a dynamic engagement with issuers – dialling up those whose strong
+record improves, and dialling down the laggards (a process illustrated schematically in Chart 9);
+
+-
+
+Similarly, it will allow us to improve the mix of climate metrics we use over time, as data coverage
+and quality improves;
+
+-
+
+Predictable, progressive action of this kind will send a clear message to issuers, and the wider
+market, about the Bank’s current and future intent, giving time and incentive to adjust transition
+planning; and
+
+-
+
+It will help avoid concentrations in the portfolio, and maintain space to use the CBPS for future
+monetary policy purposes, in either direction.
+
+22
+
+Greening-monetary-policy.pdf (bruegel.org)
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+13
+
+Chart 9: stylised illustration of a climate-based tilt
+
+To calculate the appropriate tilts, we will explore the use of a ‘scorecard’ approach, capturing a range of
+metrics related to company climate performance. Judging which metrics to include is a key task for the next
+stage of the work, and we look forward to receiving input and guidance on this question. Potential
+candidates include: the level and rate of change of companies’ carbon footprints, the existence of regular
+climate reporting, commitment to specific reduction targets, and authoritative third-party validation of those
+targets. Collating comprehensive metrics of this kind will not be straightforward, given the very uneven state
+of current company level reporting (Table 4). And any model-based substitutes would need to meet high
+standards of robustness and transparency. It is therefore possible that the initial approach may be relatively
+parsimonious, or vary by sector.
+Table 4: Climate data coverage for CBPS-eligible firms
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+14
+
+Tilting CBPS purchases leaves the relevant bonds still eligible for purchase.23 In some cases, we may wish
+to go further and remove that eligibility. As I said earlier, eligibility criteria relating to the primary monetary
+policy objectives of the scheme and financial risk management will be retained. As we calibrate our new
+framework, we will consider whether these should be extended to include climate-related requirements.
+Chart 10: UK roadmap to mandatory TCFD-aligned disclosure24
+
+Two immediate possibilities are covered in the Discussion Paper.
+
+The first relates to the potential to use CBPS eligibility criteria to help improve the coverage and quality of UK
+companies’ climate disclosures. Comprehensive disclosures are not only a critical building block for orderly
+transition – they would also help investors, including the Bank through the CBPS, to calibrate more effective
+tilts and other investment strategies. The Government has published a roadmap to mandatory TCFD-aligned
+23
+
+The current list of bonds eligible for the CBPS is available at: Documentation | Bank of England.
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/933783/FINAL_TCFD_ROADMAP.
+pdf
+24
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+15
+
+climate disclosures for all UK companies (Chart 10). We will explore whether we can adjust CBPS eligibility
+requirements to incentivise timely compliance with these requirements.
+
+The second potential change relates to activities judged to be fundamentally incompatible with reaching net
+zero by 2050.
+
+Thermal coal is the most commonly-cited example of such an activity in the UK. Coal produces more than
+twice the amount of CO2 per unit of electricity as natural gas, and over a third more than oil. As such, the UN
+estimates that global coal production needs to fall very substantially, by some 11% every year between 2020
+and 2030 to hit Paris temperature targets (Chart 11). In the UK, coal usage in power stations has already
+declined sharply – accounting for nearly half of the reduction in UK-wide emissions since 1990 shown in
+Chart 3 – and the Government has announced that it intends to eliminate its effective use altogether from
+October 2024.25
+
+The new CBPS eligibility requirements announced this autumn will support and reinforce that timeline,
+excluding any assets that fail to meet tough restrictions.
+
+Judging whether any other fossil fuel related activities are also fundamentally incompatible with reaching net
+zero by 2050, and hence should receive similar treatment, is a complex and technical matter, in which the
+Bank has no direct expertise. We welcome input on this question in response to the Discussion Paper, but
+will need to base our judgments on a combination of robust, broad-based scientific evidence and specific UK
+government policy.
+
+25
+
+https://www.gov.uk/government/consultations/early-phase-out-of-unabated-coal-generation-in-great-britain
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+16
+
+Chart 11: Transition consistent production pathways for fossil fuels
+
+Source: SEI, IISD, ODI, E3G, and UNEP. (2020). The Production Gap Report: 2020 Special Report.
+
+This discussion leads naturally to our final tool: escalation.
+In calibrating our framework, we face a trade-off. On the one hand, we want to set challenging incentives to
+support transition. But jumping straight to the end state today, when data remain partial and firms are still
+developing credible emissions-reduction plans, is neither feasible nor productive.
+This is not at all an argument for despair or timidity. Issuers should not be given excessive time to adjust.
+And emissions data are improving steadily (Chart 12).
+
+Chart 12: Evolution of emissions data for CBPS eligible firms
+
+Source: Certain information ©2020 MSCI ESG Research LLC. Reproduced by permission
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+17
+
+But it does suggest adopting a progressive approach, in which the debt of firms that fail to develop and
+execute credible plans moves down the rungs of a ‘ladder’, flipping first to a negative tilt, then – if poor
+performance continues – to removal from eligibility, and ultimately active divestment (Chart 13).
+
+Chart 13: Possible escalation ladder
+
+The precise calibration of this approach will be developed in the coming months. But the aim would be to
+impose progressively tougher requirements over time, as data and emissions-reduction technology improve,
+and key policy deadlines draw nearer. Making this escalation process predictable should increase the
+credibility of our actions, and bring forward companies’ responses.
+
+Conclusions and call for feedback
+Let me conclude.
+
+Achieving net zero is a pressing global priority. It requires action from everyone, including central banks.
+
+We believe it is possible to adjust the composition of our Corporate Bond Purchase Scheme to support net
+zero without compromising the Scheme’s primary monetary policy purposes. Doing so lies clearly within the
+MPC’s revised remit, and can be justified by noting that current market prices do not yet fully reflect the
+inevitable increase in the shadow carbon price.
+In designing a framework to guide that adjustment, our primary goal is to improve firms’ incentives for
+delivering the adjustments necessary to hit net zero, not simply minimise the current carbon footprint of the
+CBPS.
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+18
+
+To achieve that, we expect to combine: an ambitious portfolio-wide climate target; a scorecard-based tilting
+mechanism; selective climate-related eligibility restrictions; and an escalation ladder ending in potential
+divestment. Specific calibrations of these tools will be chosen in ways that are clear, transparent and
+evidence-based, and ensure the continued effectiveness of the CBPS as a monetary policy tool and the safe
+and appropriate use of public money.
+This framework draws heavily on thinking by non-profit, central bank and investor groups – and will in turn
+have its greatest impact if it operates in concert with them. The CBPS itself is limited in size, scope and
+longevity. But we hope that, by working collectively, both with those already involved and those persuaded
+to do so by our lead, our influence can reach beyond those limitations and help play a part in supporting
+transition to net zero. We look forward to your comments today, and in the weeks ahead.
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+19
+
+

@@ -1,0 +1,258 @@
+Fintech: Opportunities for all?
+Remarks given by
+Victoria Cleland, Chief Cashier
+At the 2nd International Workshop P2P Financial Systems 2016
+8 September 2016
+
+I am grateful to my colleagues, in particular the Digital Currencies team, for their assistance in preparing the speech.
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+It is a pleasure to be here, at the second international workshop for P2P Financial Systems: an event
+focused on the exciting changes that technology is making to the world of finance, and in particular digital
+currencies and distributed ledger technology, crowdfunding and peer-to-peer lending.
+The Bank is proud to co-sponsor this valuable opportunity to bring together a diverse range of experts –
+academics, technology innovators, financial institutions, policy makers, and regulators – to share knowledge,
+make new connections, and sow the seeds for future collaboration.
+
+The Bank of England has long been committed to, and benefitted from, collaboration. Last year alone we
+1
+
+2
+
+launched the One Bank Research Agenda and held a stimulating Open Forum . We are currently engaging
+with a wide range of stakeholders on a number of key policy areas of importance to the Bank’s future work,
+from digital currencies to climate change.
+
+The benefits of working together across sectors and employing genuine diversity of thought are not new and
+were acknowledged by John Stuart Mill almost 170 years ago:
+‘It is hardly possible to overrate the value…of placing human beings in contact with
+persons dissimilar to themselves, and with modes of thought and action unlike those
+with which they are familiar…such communication has always been…one of the primary
+sources of progress.’
+
+3
+
+For this reason central banks across the world, many of which are present here today, have historically
+worked together with universities. We continue to develop and benefit from these relationships and we seek
+to learn from the private sector and from innovators.
+
+Technology has never been more important to our day-to-day lives. We rely on it to keep us informed about
+the news, for shopping, for finding our way around, and even, I understand, for finding romance. Technology
+has also had a huge impact on commerce.
+
+The past decade or so has witnessed the emergence of new business models that utilise technology to offer
+goods and services in different ways. We now have many new household names – Uber, Netflix, Airbnb, I
+could go on. Firms like these have recalibrated the demands of consumers, who increasingly expect goods
+and services to be provided more quickly, cheaply, and effortlessly - often by using of smartphones. Some
+businesses have emerged, some have prospered, but others have failed to adapt, resulting in the
+disappearance of some once famous names from the high street.
+
+And technology is also changing the financial system: a sector that is perhaps more susceptible than most to
+transformation, given its products are already almost entirely digital. Finance is also a sector where there is
+scope to do more to meet the growing demands of consumers.
+2
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+2
+
+There is a lot of interest in Financial Technology – FinTech. The very nature of technological developments
+means that we can’t know how technology will be used in the future – could anyone in the 1980s have been
+able to predict what the internet is used for in 2016? There is a high expectation that the latest wave of
+FinTech activity will be transformative, with considerable activity expected not least around distributed ledger
+technology (DLT). Some of the most recent changes have been more tactical, and focused on enhancing the
+customer experience, while leaving the core structures unchanged. We have yet to see the paradigm shift.
+4
+
+But there are projects underway that could reshape the trading and settlements landscape , and some have
+suggested that new crowdfunding and peer-to-peer deposit and lending schemes could disintermediate
+incumbent banks.
+
+Since 2010, more than $50bn has been invested in almost 2,500 FinTech companies. In 2015 alone, the UK
+5
+
+alternative finance sector grew by 84%. Over 24 countries are currently investing in DLT with $1.4bn in
+investments over the past three years. Over 90 central banks are engaged in DLT discussions worldwide
+and more than 90 corporations have joined blockchain consortia. 80% of banks are predicted to initiate DLT
+projects by 2017.
+
+6
+
+So, why is a 322 years old institution interested in FinTech? What are the opportunities for us? We are
+responsible for monetary and financial stability, for the macroprudential regulation of the many participants
+within the financial system, and for operating and promoting safe and efficient payment systems, including
+through the provision of the ultimate risk-free asset: central bank reserves and banknotes. We need to
+understand what FinTech means for the entities we regulate, how it might impact the overall safety and
+soundness of the financial system, and how it could alter the transmission mechanism for monetary policy.
+And of course for our own operations, through which we implement those policies.
+In his recent speech “Enabling the FinTech transformation: Revolution, Restoration, or Reformation?”
+
+7
+
+the
+
+Bank of England Governor Mark Carney, set out the ways the Bank is enabling the FinTech transformation:
+
+
+widening access to central bank money to non-bank Payment Services Providers;
+
+
+
+being open to providing access to central bank money to new forms of wholesale securities
+settlement;
+
+
+
+exploring the use of DLT in our core activities;
+
+
+
+partnering with FinTech companies on projects of relevance to our mission;
+
+
+
+calibrating our regulatory approach to FinTech developments.
+
+I would like to focus on 2 of these – widening access, and DLT. And before becoming too distracted with
+crystal ball gazing, I would briefly like to step back into the past - to 1694, when the Bank of England issued
+its first banknotes. Since then, the function of banknotes has remained broadly the same. A banknote is
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+3
+
+essentially an IOU from the central bank with a clear unit of account which enables the bearer to hold it as a
+store of value and use it as a medium of exchange.
+
+One could argue that, Bank of England notes were ahead of their time. They have always offered a very
+widely accepted, fully distributed, peer-to-peer payment mechanism. And banknotes provide full and final
+instantaneous settlement in central bank money. These banknotes are still a key payment method today and
+accounted for around half of consumer payments in 2015, with around 2.2mn UK citizens relying almost
+8
+
+exclusively on cash for everyday transactions. And with demand expected to remain strong, it is important
+that banknotes too benefit from the state of the art technology. Indeed we look forward to launching our first
+9
+
+polymer banknote – the £5 featuring Sir Winston Churchill, next week, on 13 September.
+
+Banknotes are not the only way that we enable settlement in central bank money. The Bank also provides
+commercial banks and a range of non-banks with access to central bank deposit accounts (usually referred
+to as ‘reserves’) and the ability to settle interbank obligations across these accounts, amounting to around
+£500 billion every day. Since we launched Real Time Gross Settlement (RTGS) infrastructure in 1996,
+settlement banks have benefitted from full and final instantaneous settlement. Now RTGS is twenty years
+10
+
+old, the Bank is drawing up a blueprint for a new generation of RTGS . We will be consulting on a package
+of proposals very shortly, and have already committed to broadening access further to non-bank payment
+service providers.
+
+What do banknotes and RTGS have to do with developments in FinTech? We need to consider how we can
+harness FinTech to enable us to continue to deliver a safe and efficient payments system in a changing
+environment.
+
+Separate to the current RTGS review, we are undertaking more fundamental long-term research on the wide
+range of questions posed by the potential of a central bank-issued digital currency (CBDC). Whether a
+CBDC would be feasible and whether it would benefit the economy and the financial sector, over the medium
+term are big issues, and the answers remain far from clear. We have embarked on a multi-year research
+programme so that any future decision is informed with a full understanding of the implications. To support
+this we have invited contributions to a set of research questions that we have recently published
+
+11
+
+on the
+
+opportunities and challenges that could arise from the introduction of CBDC.
+
+We need to understand the potential economic impact of extending access to central bank money.
+
+12
+
+A key
+
+part of the question relates to the potential breadth of access to CBDC and the functionality provided. At one
+end of the spectrum, CBDC could be quite limited and reserved for financial institutions: indeed RTGS today
+would be viewed as a limited-access CBDC, and the Bank’s proposals to widen access will extend its reach
+over the next few years.
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+4
+
+But the really big questions arise at the other end of the spectrum, where CBDC is available to everybody,
+allowing businesses and households to hold balances in central bank money and to pay each other in real
+time with full and final settlement, in an electronic format. While households are able to achieve this today
+directly with banknotes, they must use commercial banks or other financial institutions to make electronic
+payments. In the UK, those intra-bank payments are themselves fully backed by central bank money – either
+directly in the case of RTGS, or through so-called ‘prefunding’ in the retail payment schemes, eliminating
+settlement risk. The question is what could the benefits and costs be of removing this layer and of allowing
+businesses and consumers to transact directly and instantaneously in central bank money.
+
+There are numerous implications to be thought through. As Deputy Governor Ben Broadbent highlighted,
+
+13
+
+providing wide access to CBDC could fundamentally change the structure of the financial system. For
+example, if a CBDC provided competition for commercial bank deposits, one outcome could be a reduction
+in deposit funding available to commercial banks, undermining their ability to provide credit to consumers.
+The risks that this could pose need to be fully explored and understood.
+
+We also need to understand the technology options. Could, and should CBDC be delivered using DLT and is
+this technology the best way to achieve the necessary scalability and resilience? What are the implications
+on the privacy, and how could the rules for the operation of the distributed ledger be managed? DLT is still in
+its infancy, and there are numerous questions that need exploring. The Bank has already undertaken a proof
+14
+
+of concept using this technology and we are looking for new opportunities through our FinTech accelerator .
+
+These are significant questions and we are keen to receive external input and innovative ideas as we work
+through the possibilities. There is already a well-established relationship between the Bank and academia
+and we published our research questions in July in order to help stimulate further research in this area.
+I hope you all have a successful and inspiring conference. In the words of Sir Tim Berners-Lee - ‘we need
+diversity of thought in the world to face new challenges’.
+
+1
+
+One Bank Research Agenda, February 2015.
+Bank of England Open Forum , The role of central banks in financial markets, 2015.
+Mill, John Stewart. Principles of Political Economy with some of their Applications to Social Philosophy. 1848.
+4
+Speech by ASX Deputy CEO Peter Hiom, Adopting Blockchain in our financial markets: ASX plans and the benefits for the market,
+June 2016.
+5
+University of Cambridge, Pushing Boundaries, February 2016.
+6
+World Economic Forum, The future of financial infrastructure, August 2016.
+7
+Speech by Mark Carney, Enabling the FinTech transformation: Revolution, Restoration or Reformation?, June 2016.
+8
+Source: Annual Statistical Publications, Payments UK.
+9
+The New Fiver.
+10
+Speech by Minouche Shafik, A New Heart for a Changing Payments System, January 2016.
+11
+Bank of England Digital Currencies research questions, July 2016.
+12
+Barrdear, John and Kumhof, Michael, The macroeconomics of central bank digital currency, July 2016.
+13
+Speech by Ben Broadbent, Central banks and digital currencies, March 2016.
+14
+The Bank of England FinTech Accelerator.
+2
+3
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+5
+
+

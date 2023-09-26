@@ -1,0 +1,735 @@
+Spare capacity and inflation
+Speech given by
+Martin Weale, External Member of the Monetary Policy Committee
+
+Confederation of British Industry, Belfast
+18 June 2014
+
+I am grateful to Nicholas Fawcett and Tomas Key for enthusiastically carrying out the research
+needed to prepare this text. I would also like to thank Stuart Berry, David Copple, Matt Corder,
+Phil King, Joanna Konings, Alivia Kratke, Ben Nelson, Lucy Stokes, Tim Taylor and Sebastian Walsh.
+I am grateful to Jonathan Wood of the CBI for permission to use data from the Quarterly Industrial
+Trends survey. Any opinions based on these data are my own, and not necessarily shared by the
+CBI. Lucy Stokes kindly provided results from work funded by the Economic and Social Research
+Council, Grant Reference ES/1035846/1, which are based on data from the Annual Survey of Hours
+and Earnings, produced by the Office for National Statistics (ONS) and supplied by the Secure Data
+Service at the UK Data Archive. The data are Crown Copyright and reproduced with the permission of
+the controller of HMSO and Queen's Printer for Scotland. The use of the data in this work does not
+imply the endorsement of ONS or the Secure Data Service at the UK Data Archive in relation to the
+interpretation or analysis of the data. The work uses research datasets which may not exactly
+reproduce National Statistics aggregates.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Thank you very much for inviting me here to talk to you today. It is a great pleasure to visit Northern Ireland
+and to get to know its people and countryside as well as its businesses.
+
+I would like to address today the question fundamental to the work of the Monetary Policy Committee: what
+factors influence the outlook for inflation and what can we learn from studying them?
+
+Finding a coherent answer to this question is more challenging than it has been for some time. I am
+confronted by contradictory evidence on the health of the economy. On one hand, unemployment has fallen
+much more quickly than expected since last August, and GDP growth has been much stronger than the
+anaemic progress we have had to bear since the financial crisis. Both of these are, of course, welcome
+developments. On the other hand, growth in nominal wages has been unusually weak over the past few
+quarters, and is not yet consistently on a par with price inflation. How far can the labour market tighten
+before inflationary pressures start building up?
+
+My colleagues and I need to make a judgement each month about the evidence and vote accordingly. I
+would therefore like to use my time here to set out to you what I think is the most helpful evidence on the
+factors which influence inflation over the medium term. That way, I hope that you will have a clearer idea of
+how I weigh the current evidence on the economy, and where, over the next few months, I think we should
+look for inflationary pressure.
+
+Some inflationary pressures come from forces beyond the influence of the MPC. An increase in the price of
+oil, for example, affects the rate of inflation in the short term, but changes to Bank Rate can do nothing to
+stop this. I am not going to discuss that sort of influence here, except to note that the normal reaction of the
+MPC would be not to respond to them. A recent example is our decision to look through the direct influence
+of the recent rise in the exchange rate in holding down inflation.
+
+I will focus on two sources of inflationary pressure that the MPC can try to affect. The first lies within firms,
+where I will consider what motivates them to adjust their prices. I can do this thanks to the wealth of data
+that you provide via business surveys each quarter. The second is the labour market, where I will examine
+the influences on pay growth.
+
+Spare Capacity in Firms and Inflation
+
+My starting point in understanding firms’ behaviour is a standard textbook model. This assumes that firms
+may be unable to change prices as often as they wish, maybe because they have fixed contracts to supply
+goods at an agreed price. Or perhaps they can change prices but face a cost in doing so – for example,
+upsetting their customers. In such circumstances, firms respond by setting prices today with an eye on what
+they might plan for the future. Underpinning these plans is the outlook for firms’ costs of production, which
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+are driven by both the nature of production – such as how much labour and capital input is needed – and the
+cost of employing workers or running machinery.
+
+Although the outlook for costs plays a crucial role in understanding future price setting, there tend to be few
+reliable data measuring how much it would cost a firm to produce one extra unit of output. So as a proxy for
+costs we often use data on capacity utilisation, which measures how intensively firms are using their physical
+capacity and labour resources. The reasoning is that firms tend to produce with diminishing returns to scale,
+so costs are high when producing above normal capacity and low when below capacity.
+
+Fortunately I can explore this by drawing on a rich source of firm-by-firm survey data on prices and capacity
+utilisation, to which many of you have probably contributed. This is the Confederation of British Industry’s
+Industrial Trends Survey which it has kindly provided to the Bank of England on a completely anonymous
+basis. No one at the Bank knows who participates in the survey. Three questions are of interest: how much
+firms have changed their prices in the past twelve months; how much they expect to change them over the
+next twelve months; and their current rate of capacity utilisation. I have data for all three questions since
+2008.
+
+I should stress how valuable both these data, and the official returns that you make to the
+Office for National Statistics, are for us at the Bank. I am aware that providing data can be something of a
+burden, but good policy-making without good data is not possible.
+
+The data enable me to explore how well the textbook model’s story corresponds to what businesses actually
+do. The first two columns of Table 1 relate firms’ current price changes to capacity utilisation. I show not only
+my estimates of the impact of each variable but also a plausible range1 for it, taking account of the
+uncertainties which always arise in the analysis of data of this type. What jumps out is that expected future
+price changes strongly influence current behaviour; in contrast, the current level of capacity utilisation has an
+impact which seems more likely to be negative than positive, contradicting my expectation that heavy use of
+capacity will push up prices. This doesn’t necessarily disprove the textbooks – but it does suggest that firms’
+reported levels of capacity utilisation are poor markers of their costs of production.
+
+Wage costs, however, do seem to be important in determining current price changes. I combine the CBI
+firm-level survey data with data from the Office for National Statistics on unit wage costs in manufacturing as
+a whole, in the final two columns of Table 1. These point to a coherent relationship between current price
+changes and wage costs. The effects of prices and costs are approximately equal but pull in opposite
+directions, with the implication that in the long run cost increases are more or less fully passed on; and
+expected future price changes remain significant.
+
+1
+
+A 95% confidence interval.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+As the ranges for the different effects show, nothing is very precise. That, unfortunately, is the nature of
+almost all attempts at economic modelling. Nevertheless, the effects are more precise and more plausible
+for firms with 150 employees or fewer rather than large firms. It is not clear whether this is the case because
+there are fewer observations of large firms or whether it reflects some inherent difference between small
+firms and large firms.
+
+Table 1: Influences on Price setting computed from CBI Industrial Trends Survey data, 2008 Q3- to
+2013 Q3
+Impact of Capacity Utilisation on
+
+Impact of Unit Wage Costs on
+
+firm-level price inflation
+
+firm-level price inflation
+
+Employees
+
+<150
+
+150+
+
+<150
+
+150+
+
+Expected Price
+
+0.782
+
+0.93
+
+0.983
+
+1.346
+
+Change
+
+(0.34 to 1.23)
+
+(0.55 to 1.31)
+
+(0.68 to 1.28)
+
+(0.96 to 1.73)
+
+Capacity
+
+-0.002
+
+0
+
+Utilisation
+
+(-0.004 to 0)
+
+(-0.002 to 0.002)
+-0.09
+
+-0.067
+
+(-0.12 to -0.06)
+
+( -0.13 to -0.01)
+
+Unit Wage Costs
+
+0.074
+
+0.079
+
+(log)
+
+(0.001 to 0.15)
+
+(-0.04 to 0.20)
+
+664
+
+163
+
+Price level (log)
+
+Observations
+
+664
+
+163
+
+Sources: author’s calculations based on firm-level survey data from the CBI, and ONS data for the manufacturing sector (for
+unit wage costs). Plausible ranges (95% confidence intervals) for the effects are shown in brackets. Further details on the
+empirical method are available on request.
+
+These findings are not particularly novel. Mavroeidis, Plagborg-Møller and Stock (2014) point out that
+estimates of the impact of capacity are often weak and poorly defined. Nevertheless, as far as I am aware,
+this is the first time this framework has been used to explore price-setting by individual firms. Further work to
+understand why this survey measure of capacity utilisation appears to be a poor proxy for costs would be
+welcome. So far, however, the results suggest that I should not put too much faith in the standard story that
+inflationary pressures arise mainly from capacity utilisation in firms.
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+Chart 1: Margins and capacity utilisation
+
+1.5
+
+Margins (RHS)
+Capacity Utilisation (LHS)
+
+Macro-economic Evidence on Spare Capacity
+
+Since manufacturing now comprises only just over an
+6
+
+eighth of the business sector (and a tenth of the
+
+1
+
+4
+
+economy as a whole), it would be a mistake,
+
+0.5
+
+2
+
+nevertheless to draw too many conclusions.2 So I now
+
+0
+
+0
+
+examine capacity in firms from a different perspective,
+namely its influence on profit margins, or the wedge
+
+-0.5
+
+-2
+
+-1
+
+-4
+
+-1.5
+
+-6
+
+services across the economy, echoing the MPC’s target
+
+-8
+
+for consumer price inflation.
+
+between firms’ costs and the prices they charge. My
+
+-2
+
+1993Q1
+
+1999Q1
+
+2005Q1
+
+2011Q1
+
+Note: both lines show per cent deviations from long-term
+averages.
+
+focus here is on margins for consumer goods and
+
+Chart 1 shows one measure of margins together with
+capacity utilisation, the aggregate of the variable used in
+
+my earlier analysis. A quick glance at this graph does not suggest a strong relationship between margins
+and capacity utilisation except perhaps in the last few years.
+
+Statistical techniques, however, offer a more scientific way of understanding the relationship between the two
+than I can achieve by simply looking at a graph. If I explore the relationship between margins, capacity, and
+two other variables, the Bank Rate and the exchange rate I find that there is, despite my earlier analysis, an
+underlying relationship between capacity and margins. Broadly-speaking, as one increases, so too does the
+other.
+
+More importantly, given the path for capacity, Bank Rate and the exchange rate that underpin the
+May Inflation Report’s forecast, it is possible to see what that implies for margins in my statistical model. It
+just so happens that this path does take margins back to their long-term average over the three years of the
+forecast – a pattern broadly consistent with our projection for inflation. The recovery of margins certainly
+should put upward pressure on inflation in the near term. Nevertheless, if they have recovered to their
+long-run position in two to three years’ time, margin growth is not a material source of inflation at the time
+horizon of concern to the Committee; at that point, the different pictures obtained from micro-economic and
+macro-economic analysis are not of great importance.
+
+Wage Growth and Spare Capacity in the Labour Market
+
+Taking a step back and looking at the bigger picture I have painted so far, I would l like to emphasise the
+central link between costs and inflationary pressure. Of these, for the economy as a whole, labour costs are
+
+2
+
+The CBI have also made available surveys which extend to some parts of the service sector. These do not as yet, however, provide a
+data set complete enough to be able to explore the issues in the same way.
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+by far the most important component, something reflected in any account of inflation in Britain over the past
+forty years. An analysis of inflation without the labour market would be akin to a performance of Hamlet
+without the Prince; the MPC has, of course, always paid a great deal of attention to what is happening in the
+labour market.
+
+Against this background, I would now like to explore influences on wage setting. Given that I have just
+discussed the influence of spare capacity on price setting, an obvious place to start is to examine the effect
+of unused resources in the labour market – so-called labour market slack – on wage growth. The first and
+most famous study of this type was carried out by Phillips (1958). More recent examples include those by
+Layard, Nickell and Jackman (1991) and Castle and Hendry (2013), while Gali (2011) provides a theoretical
+model which suggests that wage growth should be explained in terms of expected wage growth and
+unemployment.
+
+As the MPC set out in its recent Inflation Report (May 2014, p. 29), it believes the pool of unused resources
+in the labour market has three parts.
+
+First, it is not overall unemployment but rather the deviation of unemployment from its medium-term
+equilibrium (the unemployment gap) which is the relevant influence on the wage rate. This medium-term
+equilibrium is an estimate of the rate that would prevail if money wages were fully flexible in the short run and
+is calculated making the assumption that the longer people have been out of work, the less substitutable
+they are for existing employees, and thus the less downward pressure they put on wages.
+
+Secondly, some people who would like a job are nevertheless not actively seeking one, perhaps because
+they have been temporarily discouraged by a lack of available work. If these people can enter the labour
+market quite quickly as the economy recovers, they might well restrain wage growth. Cyclical movements in
+the labour force participation rate allow us to identify a “participation gap”
+
+Thirdly, the Committee has identified an “average hours gap”, the difference between the actual hours
+people work and an estimate of the hours that they would like to work. I discussed recently (Weale, 2014)
+3
+
+why I thought the average hours gap might be less than seemed, on the surface. In reality some people
+who said they would like to work more hours were subsequently satisfied with smaller increases than they
+said they wanted. It is also likely that as the economy improves, desired hours of work will decline.
+
+High unemployment indicates spare capacity in the labour market. The hours gap and participation gap are
+also defined so that numbers greater than zero indicate spare capacity in the labour market.
+
+3
+
+The hours gap used in the MPC’s analysis is different from what I described in March. The calculations described here use the MPC’s
+estimate rather than my own. These figures do not take account of the effect I identified in March, that people may settle for fewer extra
+hours than they say that they want, but they do take account of a cyclical effect. Allowing for a cyclical influence in my March
+calculations would almost certainly lead to a measure of the hours gap smaller than the MPC’s estimate.
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+With these three elements of labour market spare capacity in mind, I want to focus on whether they have
+similar effects on wage growth. I mentioned in my last speech that I had not yet found evidence that they do.
+Today I would like to shed further light on this, and on other possible influences on wages. For example,
+wage inflation may be affected by past inflation and/or inflation expectations or expectations of wage growth;
+historically, the wage growth may also have reflected productivity growth. These issues have been widely
+discussed elsewhere, and are uncontroversial.
+
+Besides the influence of these factors on growth in total pay, I also want to explore how they affect its
+constituent parts. The average wage, as computed in the Office for National Statistics’ measure of
+Average Weekly Earnings, is made up of two components, regular pay and bonuses. Bonuses amount to
+about six per cent of the wage bill and one might expect that they would be particularly subject to a squeeze
+on total pay, of the sort we have seen since 2008. Bonuses in the financial sector attract a great deal of
+attention; they amount to about thirty per cent of total pay in that sector, and make up about four per cent of
+the pay bill in manufacturing, and about six per cent in the distribution sector and in construction.
+
+Bryson, Forth and Stokes (2014) suggest that, over the period since 2000, bonuses rose relative to regular
+pay towards the end of the boom, fell in the early phase of the crisis and have since recovered towards the
+level of the mid- 2000s. This echoes a suggestion by Gordon (1982) that bonuses, because of their
+discretionary nature, might add an element of flexibility to wages; thus employers can cut overall pay first,
+before having to cut employment during a recession. His analysis implied that flexibility with bonuses was
+likely to increase the sensitivity of pay to unemployment, and thus help stabilise the economy. Meade (1986)
+pointed out an important disadvantage of this. To the extent that bonuses amounted to a form of revenue or
+profit-sharing by firms they would have the effect of raising the cost of capital and would be likely to lead both
+to an increase in debt finance and capital starvation;4 effects which have indeed been observed in the
+financial sector and which may have contributed to the financial crisis of 2008.
+
+There has, however, so far been very little work on the role of bonuses as a part of wage adjustment. By
+splitting up quarter on quarter change in wages into two components, that attributed to regular pay and that
+attributed to bonuses it is possible to see whether bonuses do, in fact, increase wage flexibility and thus
+serve to stabilise the economy.
+
+Looking at the role of each component of labour market slack separately, I find the following influences on
+quarterly growth in total pay, measured as a proportion of total pay in the previous period. I do not find a
+clear role for expected wage growth or expected future inflation; this may be because, over the period
+studied and particularly after June 1997, the creation of the Monetary Policy Committee served to stabilise
+inflation expectations. There is also weak evidence that a “catch-up” term links wages to productivity and the
+ability of the economy to pay in the long run.
+
+4
+
+If half of a firm’s revenue is paid out in bonuses, then any increment in capital is remunerated only half as much as it would be if labour
+and capital each received their own contributions to net revenue.
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+Table 2: Influences on Wage Growth
+Variable
+
+Growth in Total Pay
+
+Unemployment Gap
+
+-0.3 (-0.7 to 0.04)
+
+Participation Gap
+
+0.04 (-0.6 to 0.7)
+
+Average Hours Gap
+
+-0.2 (-0.5 to 0.02)
+
+Past Change in productivity
+
+0.19 (-0.06 to 0.44)
+
+Past Change in wages
+
+-0.3 (-0.5 to -0.1)
+
+Data Source: ONS and Bank calculations. Estimation period 1996Q1 to 2014Q1. Plausible ranges (95% confidence intervals) for the
+effects are shown in brackets. The equation is estimated on seasonally adjusted data. A constant term and dummy variables for
+2009Q1 and 2009Q2 are also included.
+
+As I said earlier, the unemployment gap measures the difference between the current rate of unemployment,
+and its medium-term equilibrium. So I interpret the coefficient of -0.3 as meaning that for every one
+percentage point of spare capacity in unemployment, quarterly pay growth is 0.3 per cent lower than it would
+otherwise be. Similarly, the coefficient of -0.2 on average hours means that for every percentage point of
+spare capacity in hours, wage growth is 0.2 per cent lower. Fluctuations in labour participation seem to have
+little effect on inflation. The impact of past change in wages, shown at the bottom of the table, means that
+the effect of any labour market slack is attenuated in subsequent quarters.5
+
+There is, of course, uncertainty around these numbers. A conventional approach would remove the
+participation term on the grounds that it is not statistically significant. Calculating the coefficients again leaves
+the hours gap term also insignificant, but once this is removed the unemployment term becomes statistically
+significant. But a statistically safe assumption is that changes in unemployment and average hours have the
+same influence on wages, whilst changes in participation have no impact. This leads me to combine the
+unemployment and average hours gaps in my next results, which break down the behaviour of overall pay
+into regular pay and bonuses.
+
+5
+
+Gregg, Machin and Fernadez-Saldago (2013) present a range of estimates of the effect of unemployment on wages. They use the
+Annual Survey of Hours and Employment rather than the Monthly Wages and Salaries Survey, from which the Average Weekly
+Earnings statistic is derived, and look at the issue from a number of different directions. These estimates are a bit higher than the
+general impression given by their results, but lie within the range of values that they present.
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+Table 3: A Simplified Model of Influences on Wage Growth
+Variable
+
+Growth in Total Pay
+
+Growth in Regular Pay
+
+Growth in Bonuses
+
+Unemployment\hours Gap
+
+-0.3 (-0.4 to -0.2)
+
+-0.17 (-0.2 to -0.1)
+
+-0.06 (-0.1 to 0.03)
+
+Past Change in productivity
+
+0.19 (-0.05 to 0.43)
+
+0.06 (-0.05 to 0.18)
+
+0.16 (-0.03 to 0.34)
+
+Past Change in wages
+
+-0.3 (-0.5 to -0.1)
+
+0.02 (-0.07 to 0.12)
+
+-0.2 (-0.4 to -0.1)
+
+Data Source: ONS and Bank calculations. Estimation period 1996(1)-2014(1). The nature of seasonal adjustment means that the
+coefficients for regular pay and bonuses do not add to those for total pay. An analysis of “seasonally adjusted” bonuses is open to the
+objection that, because they are so concentrated in the first quarter, the concept of seasonally adjusted bonuses is purely an artefact.
+
+Table 3 shows that there is about three times as much movement in regular pay as there is in bonuses as a
+result of the unemployment\hours gap. Since, however, bonuses are only a small component of total pay, it
+certainly seems to be the case that bonuses have been a factor behind wage flexibility during the recent
+period of recession and stagnation. The productivity effect appears to be concentrated disproportionately in
+bonuses although neither finding is very precise. As Table 4 shows, high earners are more likely than low
+earners to receive bonuses, so this might point to some widening of the wage distribution if productivity
+growth recovers towards its historical rate.
+
+Table 4: The Probability of Receiving a Bonus in 2012 by Income Group
+All Employees
+
+Top Fifth of Earners
+
+Middle Fifth of Earners
+
+Lowest Fifth of Earners
+
+38%
+
+56%
+
+37%
+
+17%
+
+Data Source: ONS Annual Survey of Household Earnings.
+
+Uncertainties around the Outlook for Wages
+
+The analysis above makes it possible to explore how wages should be expected to grow over the next three
+years, when we take the path of the rest of the economy as given. In some sense this question is easily
+answered. If, as our forecast assumes, productivity growth returns to historically normal rates, and spare
+capacity in the labour market is used up, then wage inflation will also return to a historical norm which, in the
+past, we know has been consistent with the inflation target.
+
+In line with the views expressed in the Inflation Report, the combination of falling unemployment and a
+recovery in productivity growth mean that wage growth should pick up. Indeed, over three years this
+analysis implies that wage growth could pick up to around 4 per cent per annum, subject of course to
+considerable uncertainty. If, as I have argued, there is less spare capacity than was assumed in the
+Inflation Report, then the growth rate projected in the Inflation Report could lead to undesirable inflationary
+pressures developing in the labour market.
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+We should be wary, however, of taking a
+Chart 2: Forecasts and Outturns of recent wage growth
+Per cent growth on previous quarter
+
+shows the most recent sequence of forecasts
+
+2.5%
+
+for quarterly wage growth from a similar
+
+2.0%
+
+model, in purple, compared to the data
+
+1.5%
+
+themselves, in blue. Though the forecasts
+
+Actual wage growth
+Forecasts
+
+forecast like this at face value. Chart 2
+
+1.0%
+
+and outturns were broadly in line over the
+first eighteen months of the chart, the more
+
+0.5%
+
+2011Q1
+
+2012Q1
+
+2013Q1
+
+recent performance has been different.
+
+0.0%
+
+Some erratic movement in wages due to the
+
+-0.5%
+
+Government’s changes to the top rate of
+
+-1.0%
+2014Q1
+
+income tax clouds the picture, but the broad
+message is that in five of the last six quarters
+the actual outturn for wage growth has been
+
+weaker than forecast.
+
+There are many possible explanations of this weakness. I would like to focus on one of these. It is perfectly
+possible that the medium-term equilibrium level of unemployment is now lower than the Bank’s calculations
+have implied. If that is the case the actual level of unemployment will bear down more strongly on wage
+inflation, even if the impact of one percentage point of unemployment is the same as I discussed earlier.
+
+I do not have other indicators of medium-term unemployment, but I can ask how low the medium-term
+equilibrium would have to be, to explain all of the recent weakness in wage growth. As you can see in
+Chart 2 the forecast errors move around, and it would be wrong to put too much weight on any one
+observation. So I have used the average of recent errors to see what they imply for extra spare capacity
+measured in terms of GDP.6
+
+If I put all of the weakness in wages over the past year (shown by the errors in the last four quarters) down
+to the unemployment\hours gap being larger than we currently believe, this points to extra spare capacity of
+more than half a per cent of GDP. This is consistent with a medium-term unemployment rate closer to 5%
+than our current range of 6%-6½%. Only, however, if I stretch the averaging much further back can I come
+up with an estimate of extra capacity appreciably below half a per cent. I should stress that these answers
+are themselves highly uncertain. Table 3 indicated the plausible range for the influence of the
+unemployment and hours gap on wages growth. If I apply these error ranges to my estimate of
+half a per cent, I can be reasonably confident that it lies between a third and one and a half per cent!
+
+6
+
+The average of the residuals is divided by 0.27, the coefficient on the unemployment\hours gap. This gives the difference between the
+measure of medium-term equilibrium unemployment used by the Bank and that implied by this framework. Analysis at the Bank
+suggests that this would be multiplied by 0.87 to convert it to extra output, if the productivity of newly employed people were the same
+as the average of the population. My earlier work (Weale, 2014) suggested that newly-employed people earn only about 60 per cent of
+the average wage, so I need additionally to multiply by 0.6 to allow for this.
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+I certainly do not want you to think that there is any definitive answer about what to draw from this; it is, as
+always, a matter a judgement. Even if all of my colleagues were looking at the labour market and inflationary
+pressure through the same lens as me, I would expect, and indeed hope, that they would come to different
+judgements from which I could learn. I am sure we will all take note of the way that the data for April,
+released last week, reinforced this sense of unusually weak wage growth.
+
+I should mention a second possible explanation of the weakness. This is that expectations of low wage
+growth may have become entrenched, so limiting actual wage growth, in much the same way that actual
+price growth was found to be influenced by expected price growth. I could not find a role for expectations
+when I looked at the issue, but that cannot rule out the explanation. It has rather fewer implications for
+available capacity.
+
+Looking ahead, I would like to draw on another source of information on wage prospects in the near term.
+The Recruitment and Employment Confederation collects data on wage trends identified by recruitment
+agencies. Since these relate to new employees rather than existing employees, their measure picks up early
+trends in the labour market. The change in the survey balance is probably a better guide than the level as a
+tool for anticipating movements in Average Weekly Earnings over the next six months. When I combine both
+in a simple statistical model, I forecast annual wage growth to be in the range 2½%-3% towards the end of
+this year. But, as with most indicators of this type, there is a great deal of uncertainty: wage growth in the
+last quarter of this year is as likely to be in the range 1.4%-4% as it is to be somewhere outside this.
+
+Policy as a Matter of Judgement
+
+I have tried to set out why the policy decision is more balanced than it was some months ago. The balance
+that I have described is a balance between two opposing forces of uncertain magnitude.
+
+On the one hand there is my view that measures of underemployment, which contribute to the
+Inflation Report view of labour market slack, overstate the underlying amount of spare capacity in the labour
+market. One factor is that people who have been recently unemployed are less productive than average
+(Weale, 2014). If this is the case, then, as the economy continues to grow, unemployment could fall more
+quickly than the MPC expects. That on its own certainly points to a need for a policy profile tighter than in
+our May forecast. That case is augmented if, as I think likely, the hours gap is less than we assumed in May.
+
+On the other hand, there is the continuing unusual weakness in wages and a question of what signal should
+be drawn from that. It may well imply that there is rather more spare capacity in the economy than the
+Committee has assumed. Should wage growth fail to revive, that will, on its own, tip the scales further in
+favour of maintaining a strong monetary stimulus.
+In the background, of course, is the point that, even after interest rates have started a gradual rise, monetary
+policy will still be providing a great deal of support for the economy. Even if there is more spare capacity than
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+the employment and labour force data suggest, a slightly less stimulatory monetary policy will still be making
+a very substantial contribution to ensuring that that spare capacity is absorbed. Moreover, other things being
+equal, the policy of raising Bank Rate gradually does imply that the first rise needs to come sooner than
+would otherwise be the case.
+
+I think all the members of the Monetary Policy Committee are keen to stress that our votes depend on both
+the data as they become available and the interpretation we put on them; that is certainly the way I come to a
+decision each month.
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+References
+Bryson, A., J. Forth and L. Stokes (2014), ‘Are firms paying more for performance’, National Institute for
+Economic and Social Research Discussion Paper 423.
+Castle, J. L. and D. F. Hendry (2013), “Semi-automatic non-linear model selection”, in N. Haldrup, M. Meitz
+and P. Saikkonen (eds), Essays in Nonlinear Time Series Econometrics, Oxford: Oxford University Press.
+Gali, J. (2011). Unemployment Fluctuations and Stabilization Policies: A New Keynesian Perspective. The
+MIT Press. Cambridge and London.
+Gregg, P., S. Machin and M. Fernandez-Saldago. (2014), “Real Wages and Unemployment in the Big
+Squeeze”, Economic Journal, 124 (May), pp. 408-432.
+Gordon, R. J, (1982). "Why U.S. Wage and Employment Behaviour Differs from That in Britain and Japan,"
+Economic Journal, vol. 92(365), pages 13-44.
+Weale, M.R. (2014), ‘Slack and the Labour Market’, speech delivered on 22 March.
+Mavroeidis, S., M. Plagborg-Møller, and J. H. Stock. (2014), "Empirical Evidence on Inflation
+Expectations in the New Keynesian Phillips Curve." Journal of Economic Literature, 52(1): 124-88.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+

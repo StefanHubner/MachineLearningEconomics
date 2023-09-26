@@ -1,0 +1,996 @@
+International trade, global supply chains and monetary
+policy
+Speech given by
+Silvana Tenreyro, External Member of the Monetary Policy Committee
+
+Centre for Economic Policy Research webinar
+25 October 2021
+
+I would like to thank Lucio D’Aguanno, Rebecca Freeman, Michael McLeay and Lukas von dem
+Berge for their help producing this speech. I am also grateful to Andrew Bailey, Stuart Berry,
+Aydan Dogan, Jonathan Haskel, Ida Hjortsoe, Simon Lloyd, Catherine Mann, Orla May,
+Nick McLaren, Dave Ramsden, Rana Sajedi, Michael Saunders, Fergal Shortall, Sophie Stone and
+Tom Wise for helpful comments. The views are my own and do not necessarily represent those of the
+Bank of England or its committees.
+
+Good afternoon and thank you for having me to speak today. It is great to be presenting this speech
+at CEPR, which has been a fundamental pillar of economic research over the years. Indeed, as it did
+during past crises, CEPR has played a key role during the Covid pandemic in facilitating the two-way
+exchange between researchers and policymakers. The speed with which CEPR has been able to
+bring high-quality research to the attention of policymakers, including via VoxEU blogs, and through
+the new Covid Economics publication, has been especially useful.
+
+My speech today is on a topic we have been hearing a lot about recently. I will talk about international
+trade, global supply chains and their implications for monetary policy in the UK. I will first discuss
+some of the reasons for international trade, and how the development of global supply chains has
+increased the scope for trade. In the context of recent disruptions to global supply chains, I will then
+examine some past crises affecting trade volumes, and compare these to the trade disruptions during
+the pandemic. I will finish by explaining what I think this means for monetary policy, and setting out
+how I see the current economic outlook. I will make three key points:
+
+
+International trade brings benefits in the form of higher productivity and increased average
+incomes. The development of global supply chains has allowed further gains to be realised. While
+in the past there have been questions over whether trade and global supply chains also have
+costs by increasing income volatility, recent evidence suggests that trade can also reduce income
+volatility by allowing countries to diversify their risks. Trade and supply chains have also proved
+resilient in the face of crises.
+
+
+
+Recent disruption to global supply chains has arisen because of an unprecedented combination
+of a strong rotation in global demand towards some sectors – mostly goods, and away from
+others, mostly services – and a variety of reductions in supply, particularly affecting a few critical
+inputs. The rotation in demand reflects changes in consumption patterns brought on by the
+pandemic, which made some types of consumption less desirable, given the associated health
+risks. It has also been influenced by the large fiscal programs in place in a number of economies.
+Many of the reductions in supply have also been Covid-related, with lockdowns taking place
+across the world, while several other disruptions have been idiosyncratic.
+
+
+
+In the UK, the economy has not yet recovered to the employment and output trends we would
+have seen without the pandemic. At the same time, a range of temporary factors have been
+pushing CPI inflation above target, and will continue to do so over the coming months. Some of
+these, such as base effects and the direct impact of energy price rises, are short-lived, and
+monetary policy can do little to offset them: much of the effect of policy would not come until after
+their impact had faded; more important will be any indirect effects of energy prices on real
+incomes or production costs. The effects of supply chain disruption should also be temporary, and
+unwind as supply of some goods increases, and as demand rotates back towards pre-Covid
+consumption patterns. The speed of this rotation is a key uncertainty, and will be related to the
+
+2
+
+evolution of the pandemic around the world. In the UK, domestic cost pressures will depend on
+the evolution of the labour market now that the furlough scheme has ended. My policy votes will
+aim to strike a balance between these different effects and risks while bringing inflation back to
+target sustainably.
+
+1
+
+Trade and global supply chains
+
+Global supply chains have been dominating the news agenda. Just as the global financial crisis
+brought the financial system to the attention of the general public (as well as many economists), so
+too has the pandemic moved the workings of modern supply chains from the background to the front
+page. But while the focus on these complex production networks is new, many of the debates hark
+back to some of the oldest questions in economics: the benefits and potential costs of international
+trade.
+
+International trade affects the daily lives of almost everyone in the world. In the UK, with around
+one-third of the consumer price index basket consisting of imported goods and services, our typical
+supermarket basket would look very different without it. Trade brings many benefits. By allowing
+different countries to specialise in products they can produce more efficiently, it increases average
+productivity and incomes. We can also purchase more varieties of the same products: French and
+Italian cheeses to supplement British ones, for example. And international trade integration can boost
+the productivity of UK firms – irrespective of whether they trade directly1 – in several different ways:
+firms learn from best practices abroad and adopt new technologies developed elsewhere,2 and
+greater international competition favours more productive firms.
+The development of global supply chains – production processes that use intermediate goods and
+services sourced from other countries – are a natural extension of this logic. A large share of trade
+has always consisted of inputs used in production, as opposed to imported final goods and services.
+But in recent decades, global supply chains have continued to grow in importance. This reflected
+large reductions over time in the cost of transporting goods, initially through industrialisation. More
+recently, progress in information and communications technology has made it easier to transport
+ideas, thus enabling the coordination of work at a distance.3 As a result, supply chains have also
+become longer and more complex, with stages of production offshored or unbundled across various
+firms located in different countries. As a concrete example, all you have to do is look down at your
+smartphone; from design to delivery, our mobiles have been designed and constructed using the flow
+and exchange of know-how and parts and components produced and assembled across multiple
+borders.
+
+1
+
+Specifically, firms which source from upstream industries that export, as well as supply to downstream industries that import,
+boosts the productivity of purely domestic firms through learning channels (Merlevede and Theodorakopoulos, 2021; Blalok and
+Veloso, 2007).
+2
+Caselli and Wilson (2004) show that imports of high-tech capital are a main source of TFP growth and technological
+development across countries.
+3
+Baldwin (2016).
+
+3
+
+Chart 1: Trade in intermediate and final goods and services
+Per cent of world GDP
+20
+Intermediate goods & services
+
+18
+
+Final goods & services
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+
+1989
+
+1993
+
+1997
+
+2001
+
+2005
+
+2009
+
+2013
+
+Source: Carney (2017), using data from Johnson and Noguera (2017), Powell (2016), World Input-Output Database (2016
+release) and BIS.
+
+To measure the increased importance of supply chains in international trade, there is a range of
+different metrics we might consider. Chart 1 shows that as a share of world GDP, intermediate input
+trade had increased far faster over the 20 years to 1990 than trade in final goods and services. We
+might also want to know about how exposed different countries are to each other, either to measure
+risks and vulnerabilities, or to trace out how shocks in one region may transmit to others. These
+bilateral exposures are more complex to quantify. For example, we might think of a British car, say a
+Mini, as being produced in Plant Oxford in the UK, because that is where final assembly happens. But
+by 2016, over half of the parts used in cars assembled in the UK are produced abroad.4 Even taking
+these inputs into account would miss links in the network, however, since each input may be
+produced using sequences of inputs from elsewhere: the engine could contain cylinders from
+Germany, containing pistons from China, and so on.
+
+To try to capture the indirect links in the network, in Caselli et al. (2020), we build a quantitative model
+of trade with global supply chain networks for all countries using data from the 1970s to the 2000s.
+The model allows researchers to trace how economic shocks in one or more countries (or sectors)
+transmit across other countries and sectors in the network, and to study quantitatively how that
+transmission has evolved over time, as countries and supply chains became more integrated.5 A more
+recent paper by Baldwin and Freeman (2021) proposes a measure of foreign input reliance based on
+gross, or cumulative trade.6 This index gauges the total potential exposure to shocks emanating from
+abroad. Disruption to production or shipping from one country, due to a Covid lockdown, for example,
+
+4
+
+SMMT (2016), quoted in Bailey, D. and De Propris, L. (2017).
+The quantitative model can be used to carry out different scenario analyses, shocking different parts of the system; it is
+available on request from the authors.
+6
+This measure differs from more standard GVC measures, which focus on value added trade, and hence where work is carried
+out.
+5
+
+4
+
+is likely to affect the total value of goods produced or shipped, irrespective of the source of the
+inputs.7 Both papers stress that the substitutability between different intermediate inputs as well as the
+possibility to diversify suppliers will influence how a shock in one country affects its trading partners, a
+point I will come to discuss below.
+
+As global supply chains have expanded the scope for international trade, many of their benefits
+correspond closely to those from trade in general. Supply chains allow even more specialisation,
+again increasing productivity and average incomes. Lower cost or higher quality inputs, and a greater
+variety of inputs can do the same. Supply chains also offer more possibilities for productivity gains
+from learning and technology spillovers: between importers or exporters and their suppliers or buyers,
+including via activities like the sharing of blueprints or managerial practices.8
+
+So trade and integrated global supply chains bring benefits in the form of higher national income. An
+important caveat is that these benefits may not be evenly distributed across societies, unless
+governments use the gains from trade to compensate any workers or consumers who lose out. That
+said, if giving up globally integrated trade makes the overall level of aggregate income smaller, these
+losses often tend to fall on the lower part of the income distribution. From an aggregate perspective,
+given the disruption we have seen to supply chains in recent months, it is also important to assess
+whether there are other potential costs or risks.
+
+One possibility is that while trade and supply chains raise the level of income in an economy, they
+could also make it more volatile. This was once a widely held view by economists, based on the idea
+that increased specialisation in one sector, which goes hand in hand with international trade,
+increases the exposure to shocks to that sector.9 For example, the UK has long specialised in the
+export of financial services, which means that trade is likely to be disproportionately affected by
+shocks to the financial sector, as occurred during the 2007-08 global financial crisis.
+
+My own research has highlighted that there is an offsetting effect, however, which means that trade
+can actually reduce income volatility, and typically has done so in the past. In Caselli et al. (2020) we
+explain how higher trade integration allows countries to rely on a more diverse set of suppliers and
+buyers. This reduces the domestic economy’s exposure to shocks to any single producer or country
+that they trade with. If the supply of labour falls in the UK, for example, this has a smaller effect on our
+UK car manufacturer than it would for a firm with a less diverse supply chain, since the shock has no
+direct effect on the cost of its imported inputs. Other recent studies echo these conclusions. For
+
+7
+
+One finding from this metric is that all major manufacturing producers are highly dependent on China, with between 6% and
+23% of their manufacturing output relying on Chinese inputs. See also Caselli et al. (2020), which explores how much of the
+rise of China in the international trade scene has affected patterns of transmission and volatility across countries. While the
+Baldwin and Freeman (2021) metric is particularly relevant when thinking about shocks from the Covid pandemic, the authors
+also stress that the specific metric used to assess vulnerabilities should depend on the risk being evaluated.
+8
+See Halpern et al. (2015), Topalova and Khandelwal (2011) and Taglioni and Winkler (2016) for more discussion of these
+channels.
+9
+See Newberry and Stiglitz (1989).
+
+5
+
+example, recent work by Bank of England economists10 concludes that a blanket reduction in supply
+chain integration can be economically costly while not significantly reducing economic volatility; and
+that reshoring production would increase aggregate volatility by reducing source diversification.11 This
+diversification channel also allows countries to pool technologies, as we saw in the recent example of
+vaccine development. Only a small number of countries’ witnessed the successful development of
+Covid vaccines, but a much larger number have been able to benefit from their discovery.
+
+How do the recent supply chain disruptions, which have dominated news cycles, fit into this
+framework? We have seen widespread supply shortages, bottlenecks and transport disruptions over
+the past year. Some of the causes have been idiosyncratic – such as the grounding of the Ever Given
+ship in the Suez Canal in March. Have these highlighted additional risks or fragilities in global supply
+chains that negate some of their benefits?12 While this is possible, as I will come on to discuss, many
+of the disruptions have been directly or indirectly related to Covid. As a shock that has been global in
+nature, it seems likely that there are limits to how easily its effects can be diversified away. To get
+some indication of how, and how quickly, such global shocks to supply chains might unwind, we may
+be able to learn from similar examples in the past.
+
+2
+
+Past supply chain crises
+
+I will now turn to how supply chains have behaved during previous crises. Doing so suggests that
+supply chain trade can be resilient in the face of large, synchronised shocks. It can also help mitigate
+crises emanating from large supply disruptions in one region. However, there are no perfect parallels
+to the effects of Covid on the global economy, so there are limits to how far we can read across from
+previous examples.
+
+The world experienced a similar global trade disruption following the 2007-08 global financial crisis.
+This has been termed the Great Trade Collapse, and as with the financial crisis itself, it
+simultaneously affected countries worldwide. Chart 2 shows that the size of the collapse was on a
+massive scale – comparable to that seen over the past 18 months – and that it affected large GSC
+hubs (US, China, and Germany) similarly to the rest of the world. It was driven in large part by the fall
+in global demand following the financial crisis, which impaired demand for tradeable goods. In turn,
+this led to a reduction in supply chain volumes as intermediates demand also collapsed.13
+
+D’Aguanno et al. (2021).
+Similarly, academic work, which gained traction at the onset of the pandemic, examines the international transmission of
+supply chain shocks due to Covid-19. Using a large-scale general equilibrium model with many countries and sectors, the
+paper’s authors ultimately conclude that reshoring production will not make countries more resilient to shocks – it would simply
+concentrate risk to the domestic economy. In addition, similar points are made by Koren and Tenreyro (2013) who examine
+diverse sources of energy as a volatility dampener, as well as Javorcik (2021) who underscores that the recent pandemic has
+highlighted firms’ need to diversify their supplier base to protect against disruptions which may be concentrated to one
+supplier/geographic location.
+12
+For governments, there are a separate set of considerations about reshoring production on national security or critical
+infrastructure grounds, which I do not discuss here.
+13
+See Baldwin (2009) or Domit and Shakir (2010) for detailed analyses.
+10
+11
+
+6
+
+Chart 2: World goods trade, sum of exports and imports
+Index (Oct 2008=100)
+
+105
+100
+
+United States
+
+China
+
+Germany
+
+Rest of World
+
+95
+90
+85
+80
+75
+70
+65
+
+Source:.CBP World Trade Monitor.
+
+Perhaps encouragingly for the current situation, trade rebounded to its pre-crisis level quickly after the
+financial crisis (Chart 2).14 To the extent that there are similarities, this swift recovery might give us
+comfort that even when there is a global shock affecting supply chains, it can reverse relatively
+quickly. At a macroeconomic level, large-scale policy stimulus after the financial crisis helped reverse
+the fall in demand for tradeable goods, with a consequent increase in supply chain trade. Many
+studies even suggest that supply chains helped mitigate the scale and persistence of the overall trade
+collapse, as supply chain relationships tend to be highly resilient due to the fact that buyer-seller
+networks are hard to break. During the financial crisis, firms tended to maintain trading relationships
+(albeit at a much lower scale), allowing them to quickly rebuild volumes as demand recovered.15,16
+Looking to other, more geographically-concentrated disruptions, such as the 2011 Tōhoku
+earthquake, reveals similar responses. Recent work by Freund et al. (2021) zooms in on automotive
+and electronics sector trade after the earthquake, and provides evidence that intermediate imports
+were significantly less affected compared to final goods imports. As such, their analysis provides
+further evidence that global supply chain links are more difficult to untangle after a crisis than the
+import of final goods.
+
+These past examples suggest there are some grounds for optimism about the resilience of supply
+chain relationships in the wake of the Covid pandemic, and about how quickly large global shocks can
+
+15
+
+See Antras (2020).
+This is true in aggregate, but also at the firm level. For example, various academic studies that use detailed firm-level data on
+European customs transactions show that GSCs and production network structures indeed played a minor role in the collapse;
+rather it was trade volumes – rather than trade relationships surrounding individual product lines – which mostly adjusted
+(Bricogne et al., 2012; Behrens et al., 2013).
+16
+
+7
+
+be reversed.17 But although also global, the Covid shock has differed from the global financial crisis a
+decade ago.
+
+The main difference is that although it had some supply elements, the financial crisis was primarily a
+large fall in demand below supply, including a reduction in the demand for tradeable goods. In
+contrast, a connecting theme of recent supply disruption has been demand running ahead of supply
+for some products or sectors. This has had some demand-side causes: Covid has caused a material
+rotation of demand towards goods, and away from services where health risks are higher, which has
+increased demand for tradeable goods above their pre-Covid levels, as illustrated by trends in global
+shipping volumes (Chart 3).
+Chart 3 – Global shipping container volumes
+Million TEUs shipped per month
+(12-month rolling average)
+15
+
+14
+
+13
+
+12
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Source: Container Trades Statistics.
+
+Goods demand has been further boosted by large fiscal policy stimuli in advanced economies,
+particularly in the US. It has also had some supply-side causes: lockdowns and other health
+restrictions have impeded production or transportation in some regions, while the spread of Covid has
+led to isolation or health-related reductions in labour supply in others. And adding to these factors, a
+number of idiosyncratic and unrelated shocks to goods supply (e.g., multiple extreme weather events
+occurring during the pandemic, or the grounding of the Ever Given) have contributed further to global
+imbalances in the goods sector.
+
+A second difference is that the effects of the financial crisis were felt simultaneously around the world,
+while the Covid shock has been less synchronous. The spread of the virus has waxed and waned at
+different rates in different regions (Chart 4). Partly as a result, lockdowns and other public health
+interventions have also differed across locations across time. The relatively lower synchronicity during
+the pandemic has in all likelihood helped cushioning the impact of the Covid shock, as some countries
+17
+
+Indeed, while it is still too early to see these effects in disaggregated data, world goods trade mostly rebounded to pre-crisis
+levels in the 11 months following the lowest troughs in April 2020. This suggests that, by and large, global supply chains were
+agile and adaptable. However, there remain some specific bottlenecks in the more recent part of the pandemic.
+
+8
+
+were able to resort to imports from less affected regions abroad, and thus mitigate the impact of some
+products’ shortages in their domestic economies. However, the nature of the shock and the disparities
+in timing may have posed challenges to some supply chains. It is typically easier to recover demand
+than it is to increase capacity, as has been required for some goods and inputs; furthermore, in long
+multinational supply chains, the way Covid has led to a series of regional supply and transportation
+disruptions may have had a somewhat more persistent impact than a single, large shock.
+Chart 4 – Covid deaths per million people
+
+Europe
+South America
+Africa
+
+Daily Covid-related
+deaths per million
+people
+
+North America
+Asia
+Australia
+
+12
+10
+8
+6
+4
+2
+0
+
+Mar 20
+
+Apr 20
+
+Jun 20
+
+Aug 20
+
+Oct 20
+
+Dec 20
+
+Feb 21
+
+Apr 21
+
+Jun 21
+
+Aug 21
+
+Source: Our World in Data.
+
+3
+
+Supply chains during the pandemic
+
+In light of the unique nature of the challenges during Covid and the recovery, with a battery of different
+shocks affecting supply chains at different times, it is tempting to ask whether it has been an
+exception to the usual benefits of trade. The disruption has intensified calls for ‘reshoring’ production
+networks – aiming to reverse some of the supply chain integration we have seen in recent decades by
+increasing firms’ reliance on domestic suppliers. The question these calls raise is whether countries
+would have been able to tackle the Covid shock better without trade and global supply chains.
+
+If we were to imagine such a scenario, it seems unlikely that the absence of global supply chains
+would have been beneficial. Given the link between trade and the level of income, a more closed
+economy would have initially faced a far more difficult task, with fewer resources available to help
+maintain incomes of workers and businesses most affected. Lockdowns abroad would not have
+affected production or supply chains domestically, but domestic lockdowns would have had a far
+larger effect.18 So although the timing would have been different, it is not obvious that the overall
+shock would have been smaller. In fact, the volatility induced would likely have been larger, since the
+smaller scale of domestic production in a closed economy would have made it impossible to shift to
+substitute suppliers. Losing just a few workers due to an event like an outbreak in a given plant could
+mean losing the entire production line of certain inputs or foods.
+
+18
+
+This sentiment has been echoed in various academic studies, for example Bondio et al (2020) and Eppinger et al. (2021).
+
+9
+
+Indeed, a number of the specific shocks and bottlenecks that are currently impacting output in the UK
+are at least partly domestic in nature, albeit we are seeing similar effects in many other economies.
+Shortages of truck drivers, for example, have been impacting logistics in the UK, most notably the
+supply of petrol. While this shortage has several discrete causes, it is difficult to see how any of them
+would be addressed with less international trade.19
+
+If anything, it seems plausible that by enabling more diversification, supply chain trade could have
+mitigated the overall impact of the shock. Where producers had substitute suppliers in different
+regions, the asynchronous nature of lockdowns and other impacts of the pandemic may have enabled
+them to continue production when a supplier in one region was unable to satisfy demand. Clearly
+there are areas where diversification has been more difficult: we have seen a range of transport
+bottlenecks, reflected, for example, in increases in shipping costs. And, echoing the financial crisis,
+the opacity of many production networks means that beyond their direct suppliers, it is not always
+clear to firms how diversified supply chains for different products are.
+
+Fundamentally, many of the current disruptions seem to simply reflect unusually large imbalances
+between supply and demand for some products and from some locations. Covid and its spread are
+the proximate cause of most of these imbalances. While there may be limits to the benefits of supply
+chain-driven trade in the face of such shocks, reshoring production in response would be a risky
+strategy, which would almost certainly lower incomes on average, without necessarily providing any
+benefits in terms of lower volatility, or more resilience in response to supply shocks. The debate is an
+important one to continue, however, and is linked to that on how policy can enhance the resilience of
+supply chains, for example by better understanding their associated risks.20 With a higher risk of
+climate-related extreme weather events in future, it may be that shocks to supply chains become
+more frequent in the coming years.21
+
+4) Supply chains and monetary policy
+
+So far I have described what global supply chains are and why they have come to be so important to
+international trade, as well as some of their benefits and potential costs. But in the capacity in which I
+am speaking today as an MPC member, the most pressing concern is the implications of global
+supply chains for monetary policy. There are two different categories of effects. The first consists of
+the various long-run impacts supply chain integration may have had on the structure of the UK
+economy and the consequences for monetary policy. These impacts, including on the slope of the
+Phillips curve, and the degree of output volatility, have been covered extensively by former Bank of
+
+19
+
+See Bailey (2021) for a summary of these causes.
+For further discussion, see D’Aguanno et al. 2021.
+21
+A point made recently by Javorcik (2021).
+20
+
+10
+
+England colleagues, so I will not focus on them today.22 Instead, I would like to discuss the
+implications of global supply chain impacts on the near-term UK and global inflation outlooks.
+
+In the near term, the persistence of current supply-chain disruptions is a key source of uncertainty for
+the inflation outlook. If the effects of supply-chain disruption on CPI inflation are short-lived, then
+attempting to use monetary policy to offset them would only serve to add additional volatility, since the
+effects would be fading by the time policy was having a major impact on inflation.23 Where the
+temporary effect is on the level of prices, rather than its rate of change, inflation, then the disruption
+we are currently seeing would have a disinflationary impact as we progress later into our three-year
+forecast. If, in contrast, supply-chain disruption were to have a more persistent impact, it would play a
+larger role in my assessment of appropriate monetary policy. By simultaneously pushing down on
+output while persistently increasing inflation, it would create a trade-off between the MPC’s objectives,
+which policy would have to manage.
+
+The MPC will be giving its collective assessment of the effects of supply chain disruption, alongside
+the other factors influencing its inflation forecast, in the November Monetary Policy Report. But for my
+own part, I would like to explore some of the factors that may determine how quickly disruptions will
+unwind for specific products. I will do so by using, as case studies, two of the most prominent
+examples of goods subject to disruption over the past 18 months: semiconductors and personal
+protective equipment (PPE).24
+
+Case-study A: semiconductors
+
+Semiconductors are a crucial input to a large number of industries, including cars and consumer
+electronics.25 Although the semiconductor industry accounts for a small share of GDP, many
+upstream buyers rely on semiconductors with no substitutable alternatives. As a result, a global
+shortage of semiconductors during the pandemic has had disproportionately large economy-wide
+effects.26
+
+The shortage has been due to both demand and supply factors. On the demand side, a range of
+goods have benefitted from a rotation away from some services, owing to higher Covid risks in the
+latter. But within that, demand for electronic devices has been particularly strong among individuals
+working or learning remotely. When lockdowns ended, there was also a sharp recovery in the demand
+
+22
+
+See Carney (2017). Aquilante et al. (forthcoming) looks at the impact of global supply chain integration on the UK Phillips
+Curve and finds that a higher imported-intermediate goods share from emerging market economies results in a flatter Phillips
+Curve for the period of 2000 to 2014.
+23
+Given empirical evidence that policy lags to inflation are faster than they were in the past, discussed in Tenreyro (2019), this
+may not be the case for slightly more persistent shocks.
+24
+See Bown (2021) for a discussion of the PPE supply chain during the pandemic.
+25
+Semiconductor-based components are used intensively in communications, computing, healthcare, military systems,
+transportation, clean energy, and countless other applications.
+26
+Semiconductors are materials that find widespread use in the electronics industry thanks to their useful electrical properties –
+such as showing variable resistance, passing current more easily in one direction than the other, and reacting to light and heat.
+They could be described as critical inputs, as in the O-ring theory of Kremer (1993): they are key components in memory chips,
+microprocessors and integrated circuits.
+
+11
+
+for motor vehicles, given both pent-up demand and a Covid-induced preference shift from public
+towards private transport, as well as a secular shift towards electric vehicles, which use more chips.
+Both factors have boosted demand for semiconductor inputs, leading to sharp rises in sales (Chart 5).
+
+On the supply side, global semiconductor production was hit by a number of idiosyncratic shocks.
+These included winter storms and power outages in manufacturing plants in Texas, a fire at one of the
+largest semiconductor factories in Japan and a drought in Taiwan. 27 Although semiconductors
+production increased over 2020, delivery times are higher than pre-Covid, while import prices have
+picked up (Chart 6).
+Chart 5 – World semiconductor
+manufacturers’ sales, 3 month rolling
+average
+Index (2019 = 100)
+
+Chart 6 – US semiconductor import prices
+
+140
+
+Index (Jan 2020 = 100)
+
+115
+
+120
+110
+
+100
+
+105
+
+80
+60
+
+100
+
+40
+
+US semi conductor import price
+
+20
+
+US semi conductor import price
+from NIA
+
+0
+Jan
+2020
+Source: Semiconductor Industry Association via Refinitiv
+Eikon.
+
+Apr
+2020
+
+Jul
+2020
+
+Oct
+2020
+
+Jan
+2021
+
+Apr
+2021
+
+95
+90
+Jul
+2021
+
+Source: Refinitiv Eikon.
+
+The supply of semiconductors is typically slow to adjust to large shifts in demand. The manufacturing
+process is complex28, and lead times – the wait between order and delivery – are long.29 The industry
+operates at large scale, is capital intensive, and requires significant R&D expenditure. As a result,
+significant investment is required to increase capacity. Given the increase in demand, new
+manufacturing facilities are under construction, but will take some time to come online and to be
+scalable. Moreover, even with increased production capacity, it will likely take time to fulfil current
+backlogs which have accumulated during the shortages.
+
+Case-study B: personal protective equipment (PPE)
+
+PPE is a collective term used for wearable equipment and gear that protects users from hazards. As a
+key form of protection from Covid, the pandemic has led to an extraordinary increase in global
+
+27
+
+Semiconductor producers use large volumes of ultra-pure water to remove impurities.
+Manufacturing takes place in highly specialised fabrication plants called foundries. The process is highly automated, very
+energy-intensive and involves many steps.
+29
+Fabrication takes on average 11-13 weeks to complete.
+28
+
+12
+
+demand for PPE, of which face masks have of course been the most visible type.30 This steep
+increase is clear in Charts 7 and 8, which show the example of US imports of masks, respirators and
+medical gowns. This spike in demand was also present in the key supplier of PPE – China, reducing
+net exports to the rest of the world, while some countries also applied restrictions on PPE exports. At
+the same time, supply was disrupted by lockdowns and factory closures worldwide.
+Chart 7 – US imports of medical gowns
+1000
+
+Chart 8 – US imports of respirators and
+masks
+1400
+
+800
+600
+
+50
+
+Gowns, million units
+(LHS)
+
+1200
+
+Value, USD millions
+(RHS)
+
+800
+
+30
+
+600
+
+20
+
+Respirators and masks,
+million metric tons
+
+1000
+
+400
+
+40
+
+400
+200
+
+10
+
+200
+
+0
+
+Source: US International Trade Commission.
+
+Sep 2020
+
+Jul 2020
+
+May 2020
+
+Mar 2020
+
+Jan 2020
+
+Nov 2019
+
+Sep 2019
+
+Jul 2019
+
+May 2019
+
+Mar 2019
+
+Jan 2019
+
+Sep 2020
+
+Jul 2020
+
+May 2020
+
+Mar 2020
+
+Jan 2020
+
+Nov 2019
+
+Sep 2019
+
+Jul 2019
+
+May 2019
+
+Mar 2019
+
+0
+
+Jan 2019
+
+0
+
+Source: US International Trade Commission.
+
+The combined effects of a rapid increase in demand alongside supply restrictions were amplified by
+the fact that the industry holds low inventories. So available stocks were drawn down quickly when
+demand outstripped supply. Production of PPE is typically high volume, low value and low profit
+margin, in part because the main buyers are cost-sensitive healthcare facilities. To keep costs low,
+PPE suppliers tend to use ‘just-in-time’ inventory management, leaving supply vulnerable to shocks.
+
+Although the acute phase of the pandemic saw shortages for many types of PPE, some of these
+supply-chain issues were solved fairly quickly as firms were able to increase production. As products
+with a relatively simple production process, it was also easier for firms to convert production or switch
+to substitute suppliers of some types of PPE than would be the case for semiconductors.
+Nonetheless, issues with some types of PPE persisted longer due to difficulties in sourcing inputs and
+the time and cost of bringing new capacity to market.31 An important consideration was that with much
+of the increase in PPE demand expected to be temporary, the return on any investment in capacity is
+uncertain.
+
+30
+
+Outside of the pandemic context, PPE includes a broad set of garments intended for industrial as well as healthcare
+applications. These range from head, eye and face protection to protective clothing and footwear, hand and arm protection,
+respiratory protection, hearing protection, fall protection, and others. PPE finds extensive application in industries where injuries
+can result from contact with physical, chemical, biological, mechanical and radioactive substances, such as the chemical
+industry, oil and gas, construction, pharmaceutical, healthcare and manufacturing.
+31
+Based on data from the Get US PPE initiative, N95 respirators, disinfecting wipes, surgical masks and face shields were the
+most requested types of PPE in the US between March 2020 and June 2021.
+
+13
+
+Lessons
+
+Extrapolating from the case studies back to the macroeconomy, one can infer that as supply
+disruptions feed through into price increases, supply can and will adjust in response. But the speed of
+that adjustment, and so the persistence of the price increases, is likely to vary across products. For
+simpler, more homogenous goods such as PPE, where there are many suppliers and limited market
+power, supply may be able to adjust relatively quickly. For more complex goods such as
+semiconductors, some disruption may persist into 2022.
+
+In determining the macroeconomic effect, the adjustment of relative demand for different products
+seems likely to be more crucial still. Even for goods such as PPE where supply can adjust more
+quickly, firms will be less inclined to do so if the increase in demand is expected to be temporary. For
+items such as semiconductors, a fast rotation in demand back towards pre-Covid patterns has the
+potential to ease disruption more quickly than an expansion in supply. If so, there may even be the
+possibility of the price of semiconductors falling back, if a reduction in demand meets greater supply.
+One source of the rotation will be as a response to price changes – as the global prices of goods
+subject to disruption rise relative to other goods and services, relative demand is likely to respond.
+
+These demand patterns have also been closely tied to the evolution of Covid, both in the UK and
+around the world. When virus spread has increased, mandated or voluntary social distancing has led
+consumers to substitute away from riskier, high-contact services towards goods. As a result, the
+prospects for a rapid rotation back towards services, and so the persistence of supply chain
+disruption, will also greatly depend on how the pandemic evolves over winter and beyond.
+
+5. Current outlook
+
+Covid initially had a disinflationary impact on the UK and the global economy, as weaker domestic
+and global demand led to declines in wage and price pressures.32 In contrast to the initial year of the
+pandemic, the uneven recovery is likely to create a temporary trade-off, which monetary policy will
+need to navigate. Disinflationary pressures have given way to inflationary ones, while output remains
+a normal-sized recession below its pre-Covid level, and further still below its medium-run trend. As I
+have discussed today, this tension stems partly from the various disruptions and bottlenecks currently
+affecting global supply chains, which are leading to temporary negative supply shocks in the UK.
+These disruptions have been driven in large part by the effects of Covid and the subsequent recovery
+on both supply, and on the balance of demand between goods and services.
+
+In the near-term, the inflation side of the trade-off will also be exaggerated by a number of temporary
+factors, which may not be informative about how prices are likely to change in future. In particular,
+
+32
+
+This was also in line with historical experience from past pandemics, as discussed in Tenreyro (2020).
+
+14
+
+base effects from weak prices a year ago have been pushing up on recent inflation outturns.33 And
+while inflation is likely to increase further over the next few months, a large part of this increase will
+come from the direct impact of higher energy prices. Increases in the level of energy prices are not
+typically a sign of future energy price inflation, so these tend to only have one-off impacts on the level
+of CPI. Monetary policy cannot offset these effects on inflation, which are driven mostly by global
+factors, because the level effects tend to drop out of the inflation calculation before policy can have
+much impact. It will of course be important to remain vigilant in case of any second-round impacts of
+higher energy prices: these include the reduction in households’ real income, which could weigh on
+demand and future inflation; and any impact of higher energy prices on firms’ production costs, which
+they may ultimately pass through to consumer prices.
+
+The current supply chain disruption will also ultimately be temporary. For some products, disruption
+and its effect on inflation are likely to dissipate quickly as firms find new suppliers or current ones are
+able to expand. For others, where supply is slower to adjust, the rotation of demand from goods back
+towards services should help ease pressure on supply chains. In either case, responding to
+short-lived effects on inflation would only be likely to impart additional volatility.
+
+While my expectation is that the effects of supply chain disruption will be short-lived, a non-negligible
+risk is that the switch from goods back towards services is more protracted, leading to a longer period
+of supply disruption and inflationary pressure. Given the close relationship between the composition
+of output and Covid risks and restrictions, it is likely that the epidemiology of the pandemic across the
+globe will be crucial in determining whether this risk crystallises.
+
+The other major uncertainty for the UK inflation outlook at present is the evolution of the labour
+market, where there are two-sided risks. Given the near-term outlook for headline inflation, there is a
+possibility that higher inflation or higher inflation expectations begin to feed through into higher wage
+demands. The effects of inflation expectations on wage bargaining can be difficult to gauge, so I will
+be paying particular attention to direct indicators of wage pressures, including our best assessment of
+underlying wage growth, settlements data, and information from the Bank’s Agency network.
+
+The opposing risk is that the end of the furlough scheme in September leads to a loosening in the
+labour market and a moderation in wage pressures. A large number of workers need to be
+reabsorbed into the labour market over the coming months, some of whom will flow into
+unemployment. The literature on unemployment benefits, which are comparable in effect to the
+furlough scheme, would suggest that furlough has been boosting underlying wage growth. Its
+withdrawal could put this process into reverse.
+
+33
+
+Although the 12-month CPI inflation rate was 3.1% in September, part of this increase has reflected a recovery from low
+levels of prices a year ago. As a rough metric of the size of these effects, over a longer period, the 24-month CPI inflation rate
+is only 1.8% at an annualised rate, although this figure is likely to increase further over the next few months.
+
+15
+
+Along with my colleagues on the MPC, I will be weighing up these different risks ahead of our
+November Monetary Policy Report. At the time of our August forecast, I expected that if the economy
+were to evolve as in our forecast, some modest tightening, broadly in line with our conditioning path,
+would be required to achieve the inflation target sustainably. Since then, we have had large upside
+news for near-term inflation from energy prices, an effect which should fade quickly. We have also
+seen a moderation in recent GDP growth, which looks set to continue as we enter the winter months,
+affecting supply as well as demand. Higher energy prices may reduce households’ real incomes and
+depress spending, with additional risks stemming from the prevalence of Covid in the UK, and falls in
+income for any furloughed workers who move out of employment.
+
+Overall, I judge that the balance of this set of news is unlikely to have a large effect on the amount of
+tightening required over the next few years. The August forecast was conditioned on market
+expectations of a gently rising path for Bank Rate, gradually unwinding the relatively small amount of
+monetary policy stimulus added since the onset of Covid.34 They were also consistent with evidence
+that the medium-run equilibrium interest rate remains low, and is likely to be so for some time. The
+precise path policy takes towards that equilibrium rate will partly depend on how the risks I have
+highlighted evolve.
+
+As always, my votes on any future policy changes will depend on incoming data and my assessment
+of the economy at the relevant MPC meetings. Uncertainty over the effects of the furlough scheme
+should be resolved over the coming months, which should help paint a clearer picture of the position
+of the labour market. We will also continue to learn more about the persistence of disruptions to global
+and domestic supply chains and their impact on the UK inflation outlook.
+
+34
+
+Fiscal policy played the major role in offsetting the economic effects of the pandemic, while monetary policy played a
+relatively smaller part. Bank Rate was cut by 65 basis points, which was smaller than the typical cut in past (smaller)
+recessions. The MPC also increased the stock of QE, but in my view, its primary effect was to prevent yields from rising in the
+face of market dysfunction, rather than providing additional net stimulus relative to pre-Covid. (The additional net stimulus
+vis-a-vis January 2020 imparted by QE, measured as the change in long yields relative to January 2020, was more limited and
+hence so was the net boost to activity or inflation relative to January 2020.) Despite the much larger size of the fall in activity,
+the overall monetary stimulus was therefore relatively small when compared to shallower recessions in the past.
+
+16
+
+References
+Altomonte, C., di Mauro, F., Ottaviano, G., Rungi, A. and Vicard, V. (2012), “Global value chains
+during the great trade collapse”, ECB Working Paper No. 1412.
+Antras, P. (2020), “De-Globalisation? Global Value Chains in the Post-COVID-19 Age”, NBER
+Working Paper 28115.
+Aquilante, T., Dogan, A., Firat, M. and Soenarjo, A. (forthcoming) “Global Value Chains and the
+dynamics of UK inflation”, mimeo.
+Bailey, A. (2021), Treasury Committee oral evidence on Bank of England July Financial
+Stability Report and August Monetary Policy Report, HC 672.
+Bailey, D. and De Propris, L. (2017), “Brexit and the UK automotive industry”, National Institute
+Economic Review, 242(1).
+Baldwin, R. (2016), The great convergence, Harvard University Press.
+Baldwin, R. and Freeman, R. (2022), “Risks and Global Supply Chains: What We Know and
+What We Need to Know”. Annu. Rev. Econ. 14: Submitted. DOI: 10.1146/annurev-economics051420-113737.
+Behrens, K., Corcos, G. and Mion, G. (2013), “Trade crisis? What trade crisis?”, Review of
+Economics and Statistics 95(2), 702–709.
+Blalock, G. and Veloso, F. M. (2007), “Imports, productivity growth, and supply chain learning”,
+World Development 35(7), 1134–1151.
+Bonadio, B., Huo, Z., Levchenko, A. and Pandalai-Nayar, N. (2020), “Global supply chains in the
+Pandemic”, NBER Working Paper No 27224.
+Bown, C. (2021), “How COVID-19 medical supply shortages led to extraordinary trade and industrial
+policy”, CEPR Discussion Paper No 16359.
+Bricongne, J.-C., Fontagne, L., Gaulier, G., Taglioni, D. and Vicard, V. (2012), “Firms and the
+global crisis: French exports in the turmoil”, Journal of international Economics 87(1), 134–146.
+Caselli, F., Koren, M., Lisicky, M. and Tenreyro, S. (2020), “Diversification through trade”, The
+Quarterly Journal of Economics 135(1), 449–502.
+Caselli, F. and Wilson, D. (2004), “Importing technology”, Journal of Monetary Economics, 51(1), pp
+1-32.
+Carney, M. (2017), “[De]Globalisation and inflation”, speech given at 2017 IMF Michel Camdessus
+Central Banking Lecture.
+D’Aguanno, L., Davies, O., Dogan, A., Freeman, R., Lloyd, S., Reinhardt, D., Sajedi, R. and
+Zymek, R. (2021), “Global value chains, volatility and safe openness: Is trade a double-edged
+sword?”, Bank of England Financial Stability Paper No. 46.
+Domit, S. and Shakir, T. (2010), “Interpreting the world trade collapse”, Bank of England Quarterly
+Bulletin, 2010 Q3.
+Eppinger, P., Felbermayr, G. J., Krebs, O. and Kukharskyy, B. (2021), “Decoupling global value
+Chains”, CESifo Working Paper No 9079.
+Koren, M. and Tenreyro, S. (2013), "Technological Diversification." American Economic Review, 103
+(1): 378-414.
+17
+
+Kremer, M. (1993), “The O-Ring Theory of Economic Development”, Quarterly Journal of Economics,
+108(3), pp. 551-575.
+Halpern, L., Koren, M. and Szeidl, A. (2015), “Imported inputs and productivity”, American Economic
+Review 105(12), 3660–3703.
+Javorcik, B., (2020), “Global Supply Chains Will Not Be the Same in the Post-COVID-19 World”, In
+COVID-19 and Trade Policy: Why Turning Inward Won’t Work, 111–16. VoxEU eBook, CEPR Press.
+Johnson, R and Noguera, G. (2017), "A Portrait of Trade in Value-Added over Four Decades," The
+Review of Economics and Statistics, 99(5), pp 896-911.
+Merlevede, B. and Theodorakopoulos, A. (2021), “Productivity effects of internationalisation
+through the domestic supply chain”, Journal of Applied Econometrics pp. 1–25.
+Powell, J. (2016), “The Global Trade Slowdown and Its Implications for Emerging Asia”, speech given
+at "CPBS 2016 Pacific Basin Research Conference", sponsored by the Center for Pacific Basin
+Studies at the Federal Reserve Bank of San Francisco.
+SMMT (Society of Motor Traders and Manufacturers) (2016), 2016 Sustainability Report, London:
+SMMT.
+Taglioni, D. and Winkler, D. (2016), Making global value chains work for development, World Bank
+Publications.
+Timmer, M., Dietzenbacher, E., Los, B., Stehrer, R. and de Vries, G. (2015), "An Illustrated User
+Guide to the World Input–Output Database: the Case of Global Automotive Production", Review of
+International Economics., 23: 575–605
+Tenreyro, S. (2019), “The elusive supply potential: monetary policy in times of uncertainty”, speech
+given in Glasgow.
+Tenreyro, S. (2020), “Covid-19 and the economy: what are the lessons so far?”, speech given at
+London School of Economics webinar.
+Topalova, P. and Khandelwal, A. (2011), “Trade liberalization and firm productivity: The case of
+India”, Review of Economics and Statistics 93(3), 995–1009.
+
+18
+
+

@@ -1,0 +1,468 @@
+Stress tests: a policymaker’s perspective
+Speech given by
+Donald Kohn, external member of the Financial Policy Committee
+
+European Central Bank, Macroprudential Stress Testing Conference, Frankfurt
+5 February 2020
+
+I would like to thank Stephen Burgess, Caspar Siegert and Andy Walters for their contributions. The views
+expressed are my own and do not necessarily reflect those of the Bank of England or other members of the
+Financial Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+Simultaneous, transparent bank stress tests are one of the most important innovations and reforms to come
+out of the global financial crisis. They are designed to deal with a serious issue that plagued the economies
+of the late 20th and early 21st centuries—the tendency for banking systems to make recessions worse by
+tightening credit availability when adverse shocks hit the economy. Stress tests inform supervisory
+judgments about whether banks have enough capital to continue to intermediate and lend even as GDP falls
+and losses mount.
+
+The tests are done concurrently on banking institutions using the same scenario, facilitating systemic
+judgments and cross-bank comparisons; they are forward looking, testing bank portfolios against risks that
+might occur in the future; and they are transparent, affecting the judgments of market participants as well as
+bank management and regulators.
+In addition, post-crisis stress testing integrated economics and supervision in a way that hadn’t been done
+before, marrying the modelling expertise and macroeconomic perspective of economists with the deep
+knowledge of individual banks and banking of supervisors. When the Federal Reserve undertook the first
+such test in the depths of the financial crisis in early 2009—the Supervisory Capital Assessment
+Program-- we put an economist and a supervisor jointly in charge. Seeing these two people and their teams
+working so well together—and the two of them joined at the hip in their nightly visits to my office to report
+roadblocks and progress—gave me hope that we could make this experiment work. This conference further
+develops that critical working partnership.
+In the UK the stress tests are jointly run by the Financial Policy Committee (FPC) which has a
+macroprudential mandate and is tilted toward economists, and the Prudential Regulation Committee (PRC),
+which has microprudential responsibilities and is dominated by supervisors and people with experience in
+individual firms. I am an external member of the FPC. Stress tests play a major role in the deliberations of
+the FPC in meeting our legislative mandates to identify risks to financial stability and take steps to build
+resilience to those risks.1 Building the scenario each year requires us and our PRC colleagues to identify
+risks and assess how they have evolved. Stress test results show whether the banking system has enough
+capital to withstand the crystallization of the risks embodied in the scenario and other risks as well.
+
+Goals for stress tests
+
+I thought it might be useful for you, a roomful of researchers, to hear what I, a macroprudential policy maker,
+want from the banking system stress tests. First is guidance for the setting of the countercyclical capital
+buffer (CCyB) rate. The CCyB was conceived and designed to counter the pro-cyclical tendencies of
+risk-based capital models to call for less capital when times are good and loans are performing, and more
+capital after adverse shocks hit. Indeed, since the better the good times the greater the potential set back in
+1
+
+The Bank of England runs two types of stress tests: the Annual Cyclical Scenario and a Biennial Exploratory Scenario. The stress test
+referred to in this talk is the Annual Cyclical Scenario (ACS).
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+2
+
+bad times, the CCyB should increase capital on the upswing in business and financial cycles. A
+well-designed stress test, built on scenarios geared to those economic and financial cycles, will help us make
+sure enough capital is accumulated on the upside that it can safely be released to absorb losses and support
+lending after a shock hits. The stress tests should also support that release of the CCyB—they should show
+that as risks crystallize and losses are absorbed, less capital will be needed for potential future losses.
+I’m going to spend most of my talk addressing the issue of aligning the stress test results with the
+appropriate CCyB as cycles evolve. But I will also address another goal I have for stress tests, which is to
+improve market discipline on bank risk taking and banks’ abilities to understand and manage their risks. Key
+to that is the transparency of the stress tests. Finally, I’ll take advantage of this opportunity to highlight
+some areas for you to focus on that I believe policymakers would find useful. Several of these are being
+addressed at this conference.
+
+Stress tests and raising the CCyB
+
+The FPC recently raised the resting place for its standard times CCyB to the region of 2 percent. An
+important motivation for this decision was a review of the 2004-07 period that raised questions about whether
+stress test results and Committee judgment would have prompted us to raise the CCyB high enough and fast
+enough to avoid the severe credit tightening and tax payer support that occurred when bank viability was
+threatened in the Global financial Crisis (GFC) of 2008.
+
+Bank staff estimated that a CCyB in the range of 3 -1/2 to 5 percent would have been required before the
+GFC. 2 Their analysis suggests that would have given the banking system enough capital to absorb the
+losses that followed and leave viable banks that would be able to continue accessing markets and making
+loans on reasonable terms to creditworthy UK households and businesses. This estimate of required capital
+is based on several metrics, including what an adjusted BIS buffer guide would have indicated in 2007, and
+on the losses actually incurred in the crisis.3 Interestingly, using very different methodology focused on the
+capital that was raised from public and private sources, Aikman et al (2018) come up with a similar estimate
+for the CCyB that would have been required to keep the US banking system adequately capitalized in the
+GFC.4
+
+Would the stress test have guided the FPC to such a result starting at a one percent standard times resting
+place? The answer is probably not.
+The severity of the stress test scenarios is based on the FPC’s risk tolerance. We have judged that the UK
+banking system should be resilient to shocks that pushed key economic and financial variables into the
+2
+
+Bank of England (2019b). This is in addition to the baseline standard-times capital stack, including a Capital Conservation Buffer of
+2.5% of risk-weighted assets.
+3
+The Basel buffer guide assumes that countries cap the CCyB rate at 2.5%. The adjusted version removes this cap.
+4
+Aikman, D., Bridges, J., Kashyap, A. & Siegert, C. (2019)
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+3
+
+neighbourhood of the first percentile of their historic distributions, a 1 in 100 adverse event, and so they are
+very severe. When risks are around a standard level—that is near the middle of their distributions—that
+implies a scenario that in a number of dimensions—for example the rise in UK unemployment, fall in UK
+residential real estate prices, drop in global GDP—is more severe that the GFC.
+
+The scenarios get more severe as risks rise and less severe as they fall. This is accomplished in two ways.
+First, key economic variables are shocked to the same 1 percent level as the business cycle evolves. For
+example, the scenario-based rise in the unemployment rate increases as the rate itself declines in an
+expansion. A similar pattern is applied to other cyclical variables like house prices relative to income and
+GDP relative to trend.
+
+But the FPC also assesses the state of the financial cycle to judge whether the shock to these business
+cycle variables is likely to be larger or smaller than a straight reading might imply. For example, unusually
+high levels of household or corporate leverage, or bank reliance on short-term funding, would tend to
+exacerbate a shock. In 2019, we judged that high credit growth and rising leverage in the Chinese economy
+along with elevated borrowing by US businesses implied that downside risks were unusually large, so we
+increased the size and duration of the global recession in our 2019 scenario. Critically, this type of risk
+assessment is not mechanical, but requires policy maker judgment based on a variety of indicators.
+
+Bank staff estimated a hypothetical, severely adverse scenario that could have been employed in 2007 using
+the process I just outlined. They started with the level of the key variables at the end of 2006 and shocked
+them to around the one percent risk tolerance of the Committee. They then adjusted the stressed levels to
+approximate how the FPC might have responded in a world where the risk environment had become
+elevated. The scenario they generated included a drop in UK GDP about one percentage point larger than
+in the GFC. Applying this scenario to 2017 balance sheets yielded an implied CCyB of 3-3/4 percent—in the
+range of capital buffers estimated to be sufficient to withstand the GFC. It is worth recognizing that
+post-crisis reforms, like central clearing and better margining for derivatives and limits on household
+indebtedness likely have substantially dampened some of the loss amplifiers at work in the GFC, and those
+reforms along with the more proactive provisioning under IFRS9 imply that the same elevated risk
+environment might not map to the same severity of stress, capital losses and implied CCyB today.
+
+As this example suggests, the translation of the more severe scenario into sufficiently greater capital is by no
+means automatic; in the simulation, a scenario with a more severe shock than the GFC produced a stress
+capital near the lower end of the range of estimates of the capital required for banks to keep lending through
+the GFC. Indeed, a larger shock need not translate into greater stress capital losses at all because that also
+depends on what’s happening to banks’ portfolios. Indeed, Nellie Liang and I looked at US stress test capital
+losses and saw little change in the stress test capital buffer for G-SIBs through 2018 and a material falling off
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+4
+
+in 2019, despite more stressful scenarios. 5 Apparently, underlying improvements in the quality of their
+portfolios, in part as troubled legacy loans were worked off, overwhelmed the effect of more severe
+scenarios. But in my examination of UK stress test results, I did find that stress test capital loses had risen
+each year, largely reflecting the increasingly severe global shock we applied.6 Still, going forward, the FPC
+will need to pay close attention to the relationship of stress test severity and the implied hit to capital.
+
+As the FPC considered the 3-1/2 to 5 pc CCyB that would have been required prior to the crisis, we could
+see that it would be difficult to get there again, if necessary, from a 1 percent starting point in standard times.
+The development of financial risks in the 2000s was highly nonlinear, with risks rising very sharply in the few
+years just before the crisis. Even as late as 2004, only about 40 percent of a set of core indicators we
+reference were in a zone that suggested elevated risks. Moreover, because changes in the CCyB have a
+one-year implementation period, we would have needed to set a CCyB north of 3% by end 2006.
+That would have been especially difficult in the face of the FPC’s stated intention to raise the CCyB
+gradually. That’s because large changes—requirements to raise a good deal of capital in a short time-- can
+have an outsized effect on the cost of capital; meeting capital needs by slowing distributions is probably less
+expensive and disruptive. In addition, the stress test process itself takes considerable time; we settle the
+scenario and publish it by the end of Q1; the results come in by the end of Q3 and are published in Q4, with
+any increase in the CCyB effective in Q4 one year later.
+
+We concluded that by starting from a one percent CCyB in standard times, we risked falling behind the curve
+should risks rise to elevated levels. A resting place in the region of 2 percent greatly increases the odds on
+getting to the right level at the right time, but it by no means guarantees it. If the Committee had begun to
+recognize the emerging high-risk environment in 2004, it would have needed to require a series of material
+increases in the CCyB to get it within the range I discussed earlier by end 2007. One can envision
+considerable resistance to sizable increases in capital requirements when loan losses are low and the
+financial environment looks benign. Stress tests could be very helpful in that regard if there were ways of
+helping scenarios and implied capital evolve more quickly as the risk environment moved from standard to
+material to elevated. My challenge to you is to find ways that the stress tests can better take account of the
+nonlinearities in the cycle and lags in the process to help policymakers raise their CCyBs soon enough and
+high enough when the risk environment is rising.
+
+Stress tests and releasing the CCyB
+
+Those nonlinearities and lags could pose an even greater challenge to stress testing after risks crystallize
+and the FPC decides to release the buffer. The reason to raise the buffer is to increase the amount of capital
+
+5
+6
+
+Kohn, D. & Liang, N. (2019)
+Kohn, D. (2019)
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+5
+
+that can be safely released in a downturn to support continued lending.7 The FPC has emphasized that
+buffers are there to be used after a shock. The CCyB is a particularly attractive buffer in that regard since
+banks will be able to utilize capital released by a cut in the CCyB without incurring distribution restrictions.
+Concerns about those restrictions, say as banks run into the capital conservation buffer, might make them
+reluctant to lend so that they can hold down the denominator of their capital requirements.
+
+Stress tests will support the release of the CCyB as risks crystallize because the scenario will become less
+severe: the unemployment rate will rise less following an increase; house prices will fall less after they
+already decrease; risk environments will be less threatening going forward when some of those risks have
+already materialized. But there are reasons to question whether the scenarios will keep up with
+developments; and even if they do if they will fully support the release of the capital buffer.
+
+An examination of this issue for the US that Nellie Liang and I undertook raised some questions about how
+this might work out in the U.S. for the most important banks—the GSIBs. 8 The issue we surfaced for the US
+was that in the second year of a recession, concerns about breeching regulatory minimums in the stress test
+might induce these banks to cut lending to avoid substantially curtailing dividends—exactly the outcome the
+tests were designed to avoid.
+
+The scenario might lag downside shocks because downward adjustments in financial markets tend to be
+especially sharp when sentiment turns; think about dot.com equities from the 1990s to the 2000s, or house
+prices a decade ago. And as I already detailed, scenario design and stress testing take time. The situation
+could have changed dramatically by the time the results were public.
+
+Moreover, our actual experience with the capital consequences of changing scenarios in stress tests is
+limited on the upside and non-existent after shocks hit. We don’t know how much the stress test implied
+capital buffer would be reduced as scenarios adapted after risks crystallized. Recall that Nellie and I found
+that scenario severity and implied capital losses have not been closely related in the US stress tests.
+Some CCyB releases may be pre-emptive, as was the FPC’s after the Brexit referendum. In that
+circumstance the risks did not materialize and the FPC began to raise the CCyB in line with its original,
+pre-referendum, intention a year after it had reduced it, backed by stress test results.
+
+But one can also imagine situations in which the FPC cuts the CCyB in anticipation of, or in the early stages
+of, an actual recession and “risk-off” financial cycle. In those early stages the macroprudential authorities
+may appropriately take an aggressive “risk management” approach to buffer setting when threats to financial
+Alongside the FPC’s action to raise the CCyB in standard risk environments, the PRC is considering whether it can reduce its pillar 2A
+requirements in light of the higher buffers and other developments, such as forward-looking reserving under IFRS 9. Together these
+would raise required capital slightly in standard risk environments and tilt the capital stack more decisively toward buffers. See the Bank
+of England’s December 2019 Financial Stability Report for more information.
+8
+Kohn, D. & Liang, N. (2019)
+7
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+6
+
+stability begin to materialize—seeing risks and costs of future credit tightening as greater than the costs of an
+unnecessary release of the CCyB that could be reversed. These are circumstances in which the scenario
+and implied capital might not fully validate the lower CCyB.
+
+The consequences of these circumstances might be the FPC publishing a stress test that, for example,
+implied say a one percent CCyB when the committee had determined that zero was more appropriate.
+Explaining an inconsistency between the stress tests and the CCyB in these circumstances is a
+communications issue. For example, the FPC could say that the scenario hadn’t caught up to the reality of
+the situation as seen by the FPC; and the FPC was being pre-emptive to avoid really bad outcomes that
+would result if a cutback in lending amplified recessionary tendencies.
+
+But the challenge is not just about explaining an inconsistency to the public or the parliament. Two other
+critical target audiences for a well-reasoned explanation of why cutting capital requirements just as the
+economy weakens and loan losses begin to mount are the microprudential regulators and market
+participants.
+
+Both may be concerned with the difficulty implied by not knowing just how serious the situation may become
+and concerned about how banks will fare if the slide deepens materially. Market participants need to have
+confidence that the viability of their bank counterparties will be protected by adequate capital even as the
+situation worsens so that they will continue to supply the funds the banks need to continue to lend.
+Communications will need to address the fact that the shock is not likely to be exactly congruent with
+previous stress test scenario designs.
+
+The FPC has prepared for these circumstances in several ways. As already noted, we have stressed the
+system to a very severe shock—one approximated by key financial and economic variables reaching the
+neighbourhood of the first percentile of their historic values—a more depressed level in several dimensions
+than was associated with the GFC. In this way we try to build confidence in our view that banks will have
+enough capital in standard or elevated risk environments to remain active and viable lenders with access to
+market sources of financing after a wide variety of very severe shocks.
+
+Building on that, the FPC has published analyses showing that indeed, serious situations that differ in key
+ways from the stress test scenarios are “encompassed” by those scenarios. That is, because banks had
+enough capital in the stress test, they would also have more than adequate capital even in these other
+adverse circumstances. For example, we have done this for disorderly Brexit and for a global trade
+war—and even for the two together.9
+
+9
+
+Bank of England (2019a)
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+7
+
+When we released the CCyB as markets adjusted after the Brexit referendum, we were able to demonstrate
+with the results of the previous year’s stress test that banks would be resilient even to a very adverse
+outcome, a tail risk, which might conceivably flow from this event but hadn’t been anticipated in financial
+markets. Judgments like this require not only a very stressful base scenario, but credible modelling of the
+effects of alternative adverse shocks to show they are encompassed by the base case.
+I’ve dwelt a bit on the interaction of the stress tests and release of the CCyB because I sense that our focus,
+as policymakers and as researchers, has been more on detecting and building capital against rising risks
+than it has been managing capital requirements after the shock hits. Indeed, the Bank of England’s
+Independent Evaluation Office has also made this point.10 Many of the issues are similar—what role can
+stress tests play in helping how policymakers both raise and lower capital requirements in a countercyclical
+manner consistent with financial stability and preserving an adequate supply of credit. But the down slope of
+the economic and financial cycles can be especially precipitous and bumpy—the double black diamonds of
+financial cycles—and financial stability will depend on sustaining the confidence of market participants.
+
+There are a variety of ways the stress tests might be made more supportive of CCyB release. For example
+the whole process might be fast tracked, or run more frequently or scenario design incorporate to some
+extent a prediction of the rapidly shifting risk environment. Here again we would benefit greatly from
+modelling and insights researchers might have on this.
+
+Stress test transparency, market discipline and bank risk management
+Earlier I noted that informing the FPC’s CCyB decisions wasn’t the only goal I have for stress tests. In
+addition, they can help shape the behaviour of private parties as they assess and manage risk —the banks
+and market participants supplying them funds-- in ways that are more supportive of financial stability. A key
+to that is the transparency of the tests. The behaviour we were trying to change in the first stress test was
+fear and flight from banks. Our goal was to build public confidence in the banking system by determining how
+much capital banks would need to be viable even if a very bad economic and financial situation got much
+worse, and then to force the banks to get that capital from either private or public sources.
+
+One key to rebuilding confidence and restarting bank intermediation obviously was having a public source of
+capital available through TARP for those banks that had been effectively cut out of the private markets by
+doubts about their viability. Another was to apply very severe stresses, but also to be very open about those
+stresses, and how they affected the capital of individual institutions. Only in that way could the public reach
+the judgment that all banks were being held to very high standards for building resilience even in the midst of
+a severe crisis. Transparency was required for credibility.
+
+10
+
+Independent Evaluation Office, Bank of England (2019)
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+8
+
+A continuing high level of transparency has been important to the effectiveness of the stress tests after that.
+Transparency helps markets assess the strength of individual institutions and differentiate among them more
+accurately. Anticipation of market reactions to stress test results should discipline bank behaviour.
+
+In addition, stress test submissions give the microprudential authority insight into the quality of the risk
+management and capital planning of individual banks, which can then be used by supervisors to require
+upgrades or as inputs into decisions about pillar 2 capital requirements. In the US, transparency about these
+management evaluations helped to pressure the banks into substantial improvements in their risk modelling,
+capital planning, and governance. Shortfalls relative to expectations were publicly called out and if serious
+enough could impinge on authorization to distribute capital. The Federal Reserve has determined to stop the
+public evaluations in favour of folding the results into largely non-transparent supervisory processes; expert
+observers of US banks have been concerned that this shift will reduce the involvement of boards of directors
+and slow further improvements in risk modelling and management.
+
+In the UK, risk management standards have been subject to supervisory interaction alone, but in 2019 the
+PRA published a high level (albeit anonymized) overview of findings about the quality of bank risk
+management based on an assessment of stress test submissions.11 In addition, the PRC has considered
+publishing its judgments about individual institutions. If the US is any guide, such a step could accelerate
+banks’ improvements in this important underpinning for financial stability.
+
+Finally on transparency, in the UK the FPC has gone to pains to be transparent about the impact of
+management actions in the results of its stress test. As we said in our December 2019 Financial Stability
+Report, banks’ resilience relies in part on their ability in stress to cut dividend payments, employee variable
+remuneration, and coupon payments on additional Tier 1 instruments. Indeed if banks had not cut their
+distributions sharply in the 2019 stress test, in aggregate they would not have met the capital hurdle rate we
+set. By reinforcing clear expectations about dividend and coupon conversion behaviour in a stress, stress
+tests can promote efficient pricing by the market.
+
+A policymaker’s stress test research wish list
+Facing a room full of stress test researchers, I can’t resist finishing by putting out my agenda for where your
+work might take you. I’m encouraged that quite a bit of this has been included in this conference.
+Obviously from what I’ve discussed, a high priority would be to explore how stress tests can best inform the
+setting of capital buffers. A lot of information will go into our decisions on raising or lowering the CCyB. But
+stress test results, as utilized in the UK, are a valuable input and cross check on our actions. We have a
+
+11
+
+Bank of England (2019c)
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+9
+
+process that is sound in theory, but largely untested by substantial shifts in business or financial cycles. I’m
+looking forward to the session right after lunch on this topic.
+As I’ve said, the transparency of stress test results is essential to their effectiveness in building confidence,
+improving market discipline, and giving banks incentives to hold adequate capital and model and mange
+risks well. We are often faced with decisions on how much more to publish about our own modelling and
+judgements as well as the results from the banks. As an economist I am usually tempted to argue that the
+more information markets have the better pricing should be. But market participants need the right context to
+interpret that information and, as we see in the context of stigma at the discount window, information can
+adversely affect bank incentives to behave in a stabilizing manner. I know there is some literature on the
+effects of stress test transparency on market discipline and bank incentives, but I wonder whether as data
+points are added every year across a variety of jurisdictions, this also isn’t an area in which economic
+researchers might have more to say on the optimal degree of transparency.
+
+Stress tests are sometimes characterized as microprudential tools with a macroprudential overlay, in that
+they are on a bank by bank basis with no explicit accounting for the effects of correlated positions or
+interconnections. In my view this characterization undervalues the macroprudential aspects of these tests.
+The scenarios are adjusted by the stage of the economic and financial cycle; they are drawn from a history in
+which correlated positions and interdependencies influenced these economic and financial cycles; the
+scenarios are adjusted to take account of current perceived risks, such as business leverage; and
+systemically important institutions are held to higher standards. Moreover, staff at the Bank of England
+model the effects of correlations and interconnections using the data submitted by the banks and report the
+results to the FPC.12 No doubt, modelling of these feedback loops is still a work in progress and can be
+further improved, enhancing the macroprudential aspect of the tests. One method to explore would be
+running a two-stage stress test with the results of the initial submissions being used to modify the scenario to
+be used in the second stage. In fact we are doing this in our biennial exploratory scenario this year, which is
+focused on responses to a liquidity shock.
+
+Perhaps the most profound challenge for stress testing is to extend it beyond the banking sector—the focus
+of session three tomorrow morning. The FPC regularly examines whether risks beyond banking need our
+attention or even our suggestions for extending the regulatory perimeter. And these efforts are backed up
+by extensive staff research and modelling. For example, in our 2018 review of non-bank leverage, we
+looked at risks from hedge funds, using bank staff research to identify the potential for rapid shifts in
+demands for liquidity.13 The FPC is currently awaiting a joint review by the Bank and the FCA on the financial
+stability risks posed by liquidity mismatch in open-ended funds. And Bank staff have been at the frontier in
+system-wide stress simulation, some of which is now used by the FSB.14 Still, my answer to the question of
+
+12
+
+For more information see Churm, R. & Nahai-Williamson, P. (2019)
+Bank of England (2018)
+14
+See for example Aikman et al (2019)
+13
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+10
+
+what keeps me up at night is drawn from my experience of not seeing the build-up of risks prior to the GFC,
+so much of which involved risky and opaque intermediation away from banks. There will be many rewards
+from improving our modelling of nonbank risks—including identifying tools required for financial stability and
+a better night’s sleep for me. What greater incentives could you need?
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+11
+
+References
+Aikman, D., Bridges, J., Kashyap, A. & Siegert, C. (2019) “Would macroprudential regulation have
+prevented the last crisis?” Journal of Economic Perspectives, American Economic Association, vol.33, no.1,
+pp.107-130, winter.
+Aikman, D., Chichkanov, P., Douglas, G., Georgiev, Y., Howat, J. & King, B. (2019) "System-wide stress
+simulation," Bank of England working papers 809, Bank of England.
+Bank of England (2018) Financial Stability Report, November 2018
+Bank of England (2019a) Financial Stability Report, July 2019
+Bank of England (2019b) “The UK bank capital framework”, Financial Stability Report, December 2019.
+Bank of England (2019c) Effectiveness of stress-testing frameworks, 16 December 2019.
+Churm, R. & Nahai-Williamson, P. (2019) “Four Years of Concurrent Stress Testing at the Bank of
+England: Developing the Macroprudential Perspective” first published in Stress Testing (2nd Edition).
+Independent Evaluation Office, Bank of England (2019) Evaluation of the Bank of England’s approach to
+concurrent stress testing, April 2019.
+Kohn, D. (2019) “Stress tests and the countercyclical capital buffer: the UK experience”, speech given at the
+Money, Macro and Finance 50th Anniversary Conference at the London School of Economics, 4 September.
+Kohn, D. & Liang, N. (2019) “Understanding the effects of the US stress tests”, prepared for the Federal
+Reserve System Conference Stress Testing: A Discussion and Review, 9 July 2019. Updated slides
+prepared for the 2020 ASSA Annual Meeting, available at
+https://www.brookings.edu/research/understanding-the-effects-of-the-u-s-stress-tests/
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+12
+
+

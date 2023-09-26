@@ -1,0 +1,494 @@
+Dealing with change:
+Liquidity in evolving market structures
+Speech given by
+Minouche Shafik, Deputy Governor, Markets & Banking
+
+AQR Asset Management Institute, London Business School
+27 October 2015
+
+I would like to thank Grellan McGrath and Aakash Mankodi for their assistance in preparing these
+remarks. I would like to thank Niki Anderson, Alex Brazier, Paul Fisher, Jon Rand, Chris Salmon and
+Lewis Webber for substantive comments on earlier drafts. The views in this speech are my own, and
+not those of the Financial Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+The global system is awash with liquidity. Central banks have increased their balance sheets to record levels
+by injecting vast amounts of liquid reserves into the system. The global issuance of debt has continued
+apace, most notably in emerging markets where the stock of non-financial corporate debt outstanding has
+1
+
+more than quadrupled to $18trn since 2004. And in developed economies such as the UK, quantitative and
+qualitative measures of credit conditions are continuously improving.
+Somewhat paradoxically, our inboxes are awash with circulars telling us that market liquidity is draining
+away. While it would be easy to dismiss these as doom mongering by those with a vested interest, in fact
+they have a point: there is evidence that financial markets have become more prone to bouts of volatility
+since the financial crisis (Chart 1), and that market liquidity – by which I mean the ability to trade in
+reasonable size without having a large impact on price – has become more fragile.
+This matters. Financial markets should be a source of stability through the provision of funding for the real
+economy, the allocation of capital to where it is most needed, and the efficient transfer of risks. Prolonged
+periods of volatility and illiquidity discourage reliance upon markets to fund investment and trade, and
+incentivise businesses and households to self-insure rather than transfer risks to those who are better placed
+to manage them.
+Thus far, the recent bouts of volatility we have witnessed have not jeopardised the continued growth of the
+real economy. Financial markets have recovered their poise reasonably quickly on each occasion, usually by
+the end of the day. After only short interruptions, governments, banks and businesses have regained access
+to markets and continued to raise the capital they need to continue to drive the recovery.
+But the biggest tests may lie ahead. Over the coming years, three of the major factors that have dominated
+markets since the financial crisis seem set to change, and those tectonic shifts may pose a challenge for
+intermediation. In particular:
+
+
+Monetary policy normalisation: having reduced policy rates to record levels and used large scale
+asset purchases to push down on long term yields in response to the crisis, monetary policy makers
+in the US and UK will likely consider it appropriate to gradually tighten monetary policy should the
+recovery in their respective economies continue.
+
+
+
+Reversal of private capital flows away from emerging markets: Having provided around $6trn of
+investment in debt and equity over the past 15 years, private sector capital flows to emerging
+markets have begun to go into reverse amid concerns about the transition to slower potential output
+growth and the adjustment to lower commodity prices (Chart 2).
+
+1
+
+IMF (2015)
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+
+
+Reversal of official flows back toward emerging markets: Having been a significant source of funds
+for business and governments in advanced economies as foreign exchange reserves were
+accumulated and commodity surpluses reinvested, official sector flows have begun moving in the
+opposite direction as emerging market governments seek to manage the depreciation of their
+currencies and use fiscal headroom (Chart 3).
+
+These are not unreasonable actions for policymakers, private sector participants and the official sector to
+take. But what might be the consequences of these three tectonic shifts? There is a risk that if they trigger a
+broader “rush for the exit” in widely held positions, order-flow imbalances could preface a prolonged period of
+volatility, a severe reduction in market liquidity, and ultimately a loss of confidence in the ability of markets to
+contribute to sustainable growth. In short, there is a risk to financial stability.
+
+To reassure ourselves that these flows can take place without the system being threatened, it is vital to
+ensure that we understand how the structure of markets has changed, what underlies those changes, and
+what they imply for market functioning. We must also consider how we (policymakers, infrastructure
+providers and market participants) should respond in order to minimise the risk of disorderly outcomes in the
+coming years. I will address these issues in the rest of this speech, drawing heavily on a paper that will be
+2
+
+published by Bank staff later this week.
+Changing market structure
+
+th
+
+Financial markets change. Over the 300 years from the beginning of the 18 century, the organised
+3
+
+exchange of marketable securities evolved from gatherings in coffee houses , through bowler-hat and
+umbrella clad days prior to the Big Bang, to the structure that existed immediately prior to the financial crisis.
+By that time, the trading of highly standardised securities such as shares of publicly listed companies and
+commodity futures was largely on exchange, while the trading of fixed income and currencies was mostly
+done Over The Counter (OTC) with market makers who bought and sold securities using their own balance
+sheets.
+Change has continued over the period since the financial crisis – including in the how, who, where and why
+of trading. Most visible has been changes in how transactions are agreed and executed – with electronic
+trading taking over from voice trading in many markets. For example more than half of all
+4
+
+dealer-client gilt trades are now executed electronically . In turn, the availability of visible and reliable up to
+date electronic prices has facilitated an increase in automated quoting and trading based on pre-defined
+algorithms.
+
+2
+
+Anderson et al (2015)
+What was to become the London Stock Exchange first met at Jonathan’s Coffee House, located – fittingly – in Change Alley.
+4
+50-70% by value of trades between dealers and clients in the gilt market are undertaken via electronic platforms.
+3
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+Who is on the end of these trades has also changed. Although the fund management industry has grown
+considerably since the financial crisis, market making-banks actually tend to carry less inventory (Chart 4).
+They have also lost market share to new kinds of market makers – for example Principal Trading Firms
+(PTFs) who specialise in high frequency trading and hold positions for only very short periods of time. By
+way of example around half of trading in on-the-run US Treasuries in the interdealer market is now done by
+5
+
+PTFs.
+
+Participants also have much more choice about where to transact, ranging from single-dealer to all-to-all
+platforms. Many of the markets that were steadfastly over-the-counter have begun to move toward more
+transparent centralised exchange-like trading, with on-the-run government bonds and vanilla interest rate
+swaps being the most notable. By contrast some of the markets previously held up as beacons of
+on-exchange trading, such as the equity market, have begun to move toward less well lit venues, partly
+motivated by the desire to conduct large trades discretely.
+Finally, there has been a subtle change in why transactions are undertaken. Pro-cyclical trading strategies
+have become increasingly popular. For example, Commodity Trading Advisors (CTAs) tend to use
+quantitative trend-following strategies largely executed in futures markets; and funds that target a specified
+level of risk tend to enter an asset class when volatility decreases over time and exit when volatility
+increases. Of course different trading strategies will always come and go, but what’s notable about those
+currently enjoying popularity is their potential to amplify market moves.
+The result of all of these changes is that the macrostructure (that which is visible to the naked eye) and
+microstructure (that which is only visible under a degree of magnification) of financial markets have been
+transformed, presenting ongoing challenges and opportunities.
+Changing market function
+
+It will be important to understand the implications of these changes for market function. Bid offer spreads in
+many markets have reduced since the financial crisis (Charts 5 & 6). And over the past 3 years implied
+volatility has averaged at levels similar to the 2004-2007 period (Charts 7 and 8). So on a good day, for
+some markets at least, the reduction in liquidity offered by market-making banks appears to have been more
+than offset by the increase in liquidity provided by other participants and venues.
+
+5
+
+US Department of the Treasury, Board of Governors of the Federal Reserve System, Federal Reserve Bank of New York, US
+Securities and Exchange Commission and US Commodity Futures Trading Commission (2015)
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+But financial markets also seem to be more prone to bouts of volatility now than they were prior to the
+crisis – the frequency of spikes in implied volatility is more like the period 2000-2003 than 2004-2007. From a
+financial stability point of view, how markets function on these “bad days” is of greater interest, and four
+episodes over the past year or so offer us a rich seam of information:
+
+
+6
+
+In an episode now known as the “flash rally” , 10 year US Treasury yields fell by 29bps in just over
+th
+
+an hour on October 15 2014 – a move equivalent to almost seven standard deviations of historical
+daily changes. During the moves market makers widened bid-offer spreads or reduced order sizes,
+but volumes traded actually increased – in particular driven by PTFs employing high frequency
+trading strategies. The move went into reverse once prices had risen sufficiently that large resting
+sell orders away from mid-market prices came into view on screens.
+
+
+In January of this year, the Swiss franc appreciated by 28% against the euro over a period of 20
+minutes following the removal of the peg to the euro by the Swiss National Bank. During the episode,
+many major automated trading systems ceased to provide live pricing as they were switched off or
+overridden; and the market for Swiss francs was characterised by wide bid-offer spreads, unreliable
+prices and a lack of liquidity.
+
+
+
+During the “Bund tantrum” of last spring, yields on 30 year German debt rose by 1.1pp over just 50
+days in response to little data of note. The move is thought to have reflected the unwinding of
+crowded trades that had built up in anticipation of asset purchases by the ECB. The futures
+market – in which trend following CTAs are particularly active – led much of the move.
+
+
+
+In August, sharp falls in Chinese equity markets were the backdrop for a wave of risk reduction
+across a range of developed markets. There were sharp and abrupt price moves in usually liquid
+foreign exchange pairs – such as dollar-yen – and dislocations emerged in the pricing of exchange
+traded funds in the US.
+
+Two things are striking about these episodes. The first is their heterogeneity: for some there was an obvious
+proximate trigger, for others not. Some involved a reduction in automated trading, others an increase. Some
+originated in derivative markets, others in cash markets. And some involved notable market dysfunction,
+while in others pricing was continuous and volumes traded actually rose.
+
+The second is that although they have all involved periods of volatility, none has so far jeopardised systemic
+stability. Nor have they so far had an enduring effect on household, corporate and government’s ability to
+finance the recovery since any disruption to primary issuance has proved short-lived.
+
+6
+
+Dudley (2015)
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+It might be tempting, therefore, to conclude that there is nothing that we could or should learn from these
+episodes. But – as you can probably guess – I think that would be overly sanguine. While the evolving
+market structure has resulted in reduced bid offer spreads and quicker execution in many markets in times of
+low volatility, these episodes show us that banks and non-banks’ ability and willingness to put capital at risk
+in the face of large scale order flow imbalances has changed. Put another way, although liquidity may on
+average be higher, the risk that liquidity may not be available when it is needed most has also risen.
+
+What underlies these changes?
+Many of the circulars we receive point to regulation as the key driver behind these changes. It is undeniable
+that there is more regulation now than prior to the financial crisis, and that some of this has played a role in
+changing the incentives for banks to increase their balance sheets. That was indeed part of the objective of
+regulation: prior to the crisis the system was undercapitalised and liquidity mismatches were too great.
+But given the heterogeneous characteristics of the liquidity episodes we have witnessed over the past year,
+it’s unlikely that one development can explain all of the changes in market liquidity. Regulation is only part of
+the story. It seems to me that three other explanations – risk awareness, evolution and innovation – have
+played just as important a role.
+The experience of the financial crisis gave banks greater ex-post awareness of the risks that were implicitly
+(and in some cases unwittingly) being run in years gone by. The larger a business is the greater market,
+liquidity and conduct risk it runs. As a result of (re-)learning this, banks have become more wary of extending
+their balance sheets, and some now tell us that their internal risk limits are more of a binding constraint than
+regulation – consistent with the fact that their inventory levels declined before most of the post-crisis
+regulatory framework had been put in place. As importantly, individual traders are less willing to take on large
+positions because the experience of the crisis still bears upon their mind-sets and upon their reward
+structure.
+Taken collectively, the response of regulators, banks and individuals to the financial crisis is recognition of
+the fact that – with the benefit of hindsight - the over-extension of banks’ balance sheets in the provision of
+liquidity before the crisis was ultimately unsustainable.
+The reduction in the relative size of dealer balance sheets may also be a natural process of evolution as the
+market-making industry matures and emphasis is placed on using its warehousing capacity efficiently rather
+holding lots of inventory. Market making wouldn’t be the first industry to go through such a change: Just In
+Time management swept through manufacturing in the 70s and 80s with its focus on minimising waste,
+eliminating inventories, and quickly responding to changing market demand. More recently, supermarkets
+have reversed their once relentless expansion of retail space, and started moving away from
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+inventory-intensive hypermarkets toward smaller retail units.
+Indeed, moving toward smaller in-store inventories is not the only parallel between retailing and market
+making: both have also been dramatically changed by innovation. Just as the rise of internet shopping has
+given consumers access to a broader choice of shops and much easier means of price comparison, so has
+electronic trading facilitated new ways of matching buyers and sellers in financial markets, and added to the
+data generally available for price discovery.
+Although it is impossible to separate or quantify the effect of each of the influences on market structure over
+the years since the crisis, it is difficult to argue that increased risk awareness, evolution and innovation would
+not have existed without regulation. It is therefore difficult to argue that were it not for regulation, many of the
+changes we have seen in market structure would not have taken place.
+Dealing with change
+Change is ongoing – indeed one would expect well-functioning financial markets to change continuously. But
+we are in a position now to ask how we should adapt to ensure that the resilience and effectiveness of
+financial markets is maximised. I say “we” because the response will likely fall jointly to policymakers,
+infrastructure providers, and market participants.
+Because we are at an important juncture, it is vital that those affected discuss ways to maximise the benefits
+of evolving market structures, while minimising the risks. It is with this in mind that the Bank of England is
+hosting an Open Forum in November, which will tackle issues such as the impact of regulation; how financial
+7
+
+innovation can support the economy; and the role of liquidity in the broader economy . We hope that the
+Forum will be an important step towards helping financial markets, regulators and the public to constructively
+deal with change in a way that serves the common good.
+Let me start with some thoughts on what policymakers can do. First, given the breadth of changes made to
+the regulatory framework we do have a responsibility to assess the cumulative impact of various reforms and
+how they interact. As Jon Cunliffe said last week, it would be surprising if we didn’t find areas where the
+8
+
+reforms do not work as intended, and there will be elements that need to be adjusted. However, you should
+not expect the underlying tolerance of micro and macro prudential regulators to risk will be changed. The
+cost of financial crisis has proven to be very large – the level of output in the UK is around 15% below a
+continuation of its pre-crisis trend. More to the point, liquidity provision under the previous structure was
+ultimately proven unreliable when it was needed most, and a having a better capitalised, more resilient core
+of the financial system will improve the resilience of liquidity over the long run.
+7
+
+The debate is already underway on social media (#BoEOpenForum). More details available at
+http://www.bankofengland.co.uk/markets/Pages/openforum.aspx.
+8
+Cunliffe (2015)
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+Second, reflecting the fact that markets have become more responsive to news, we monetary policymakers
+can ensure that we provide clarity around our reaction function when the time comes to exit from very
+accommodative monetary policy. The Monetary Policy Committee has continued to increase transparency
+around its decision making process in recent years by providing greater access to forecasts, publishing
+minutes of meetings alongside the decision itself, and providing various forms of forward guidance - including
+that when increases in Bank Rate do come, the existence of persistent headwinds means we expect the
+pace of tightening to be gradual and limited compared to previous cycles. These don’t commit us to any
+particular path for policy – to do so would imply more certainty than we actually have about what the future
+holds – but they do reduce the scope for an overreaction in financial markets as the data evolves.
+Third, given the changing nature of the financial system, we also have a duty to ensure our provision of
+liquidity insurance remains fit for purpose. The Bank of England has already taken significant steps in the
+right direction, by adding several tools that should prove useful in the event of a sustained liquidity shock:
+
+
+The Bank’s published framework for providing liquidity insurance to the banking system has been
+overhauled. The range of counterparties to whom we will provide liquidity has expanded – including
+to broker-dealers – and the collateral we will accept is much broader. And our regular operations
+have built in counter-cyclicality by which the quantity of funds we will lend increases when the
+pattern of bids suggests it is necessary. The result is that market-making banks can be confident of
+their ability to fund a wide range of assets for terms of 6 months or longer, even in times of general
+stress.
+
+
+
+At the height of the financial crisis, the Bank took the step of acting as a Market Maker of Last Resort
+(MMLR) in certain funding markets whose illiquidity posed a threat to financial stability – including
+sterling commercial paper and corporate bond markets. Were liquidity to deteriorate again to such an
+extent that it was judged to pose a systemic threat to financial stability or the transmission of
+monetary policy, the Bank would stand ready to act as a market maker of last resort again.
+
+9
+
+But these are not a panacea. Although widening the breadth of our facilities would increase the ability of
+market-making banks to provide liquidity in times of stress, it may not increase their willingness to do
+so – that would be a function of their risk appetite at the time. And although Market Maker of Last Resort had
+some success in the financial crisis, it has natural limitations. It would be difficult, for example, for the Bank to
+act as a market maker of last resort in assets denominated in currencies other than sterling.
+Some of the responsibility for responding to changes in market structure will fall to infrastructure providers.
+Just as the success of the movement to Just In Time supply chain management was facilitated by
+
+9
+
+More details on the Bank’s operations can be found in the Sterling Monetary Framework Red Book:
+http://www.bankofengland.co.uk/markets/Pages/sterlingoperations/redbook.aspx
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+improvements in communication and transport links, the success of changes in financial markets will be
+dependent upon the existence of robust infrastructure that acts as a stabilising force. The introduction of
+MiFID II will do much to enhance the stability of markets as more trading moves onto centralised venues. It
+will require such venues to have stabilising mechanisms – such as circuit breakers - in place, and will extend
+pre- and post-trade transparency. As the structure of financial markets continues to evolve in future, it will be
+important to ensure that the use of stabilising mechanisms and calibration of transparency are regularly
+reviewed.
+Ultimately, however, much of the responsibility for adapting to changes in market structure lies with those
+who determine prices – i.e. market participants. Issuers should consider whether changing market structures
+warrant a re-examination of the merits of standardisation in order to promote secondary market liquidity.
+Investors must price liquidity appropriately, and manage it prudently, as the Financial Policy Committee
+urged in its most recent statement. When making the decision to purchase an asset they should ensure that
+their investment horizon is aligned with the inherent liquidity of that asset. And they also need to understand
+that abundant market liquidity in normal times may not be indicative of the ease with which they can exit a
+position or effectively hedge it in times of stress. When it comes to matters of market liquidity, the old adage
+“caveat emptor” or “let the buyer beware” still applies.
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+Charts
+(a)(b)(c)
+
+Chart 1: Impact of asset price news on volatility
+(a)(b)
+in UK equity and credit markets
+
+Chart 2: Net private capital flows to EMEs
+
+Sources: BofA Merrill Lynch Global Research, Thomson Reuters
+Datastream, IMF GFSR October 2014 and Bank calculations.
+(a) Based on exponential GARCH (EGARCH) model, which allows for
+conditional volatility to react differently to negative and positive shocks to
+returns. UK equity refers to FTSE All-Share, UK credit to sterling
+investment-grade corporate bonds
+(b) Pre-crisis: Jan. 2001-June 2007. Post-crisis: April 2009-Jan. 2015
+
+a) Net private capital flows is the financial account net of offficial reserves
+accumulation. (b) Emerging Asia excluding China comprises India, Indonesia,
+Malaysia, the Philippines and Thailand; emerging Europe comprises Poland,
+Romania, Russia and Turkey; Latin America comprises Brazil, Chile,
+Colombia, Mexico and Peru. (c) 2015 data are linear extrapolations of H1
+2015 data.
+Source: IMF and Bank calculations.
+
+Chart 3: EME reserves accumulation
+
+(a)(b)(c)
+
+(b) Emerging Asia excluding China comprises India, Indonesia, Malaysia,
+the Philippines and Thailand; emerging Europe comprises Poland,
+Romania, Russia and Turkey; Latin America comprises Brazil, Chile,
+Colombia, Mexico and Peru. (c) 2015 data are linear extrapolations of H1
+2015 data.
+Source: IMF and Bank calculations.
+
+Chart 4: US Primary Dealers’ inventory in
+corporate fixed income securities relative to market
+(b)(c)
+size
+
+Sources: Federal Reserve Bank of New York, SIFMA and Bank calculations.
+(b) US primary dealer net positions in US corporate securities, which include
+corporate bonds and non-Agency RMBS and CMBS, with a remaining maturity
+of at least 12 months.
+(c) Outstanding US corporate securities, which include corporate bonds and
+non-Agency RMBS and CMBS, globally in all currencies.
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+Chart 5: Corporate bond bid-offer spreads
+
+(a)
+
+(a) TRAX bid-ask spread index (BASI) for US, and UK corporate bonds. For UK
+index, bid ask spreads are as a percent of price, for the US index they are absolute
+differences in yields. Source: MarketAxess.
+
+Chart 7: Equity Implied volatility (VIX)
+
+(a)
+
+Source: Bloomberg and Bank calculations
+(a) VIX index is a measure of market expectations of 30-day volatility as
+inferred from S&P500 stock index options.
+
+Chart 6: Equity market bid offer spreads
+
+(a)(b)(c)
+
+Sources: Bloomberg and Bank calculations.
+(a) Bid ask spread calculated as proportion of mid price.
+(b) Using constituents of the FTSE 100 and NASDAQ 100 indices as at 03/08/2015.
+(c) Series shows aggregate of constituent bid ask spreads, weighted by daily trading
+volume.
+
+Chart 8: Interest rate implied volatility (MOVE)
+
+(a)
+
+Source: Bloomberg and Bank calculations
+(a) MOVE index is a yield curve weighted index of the normalised implied
+volatility on one-month Treasury options
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+References
+Anderson, N, Webber, L, Noss, J, Beale, D and Crowley-Reidy, L (2015), The resilience of financial market
+liquidity, Bank of England Financial Stability Paper, forthcoming 30 October.
+
+Cunliffe, J (2015) Market Liquidity and Market-Based Financing, Speech to the British Bankers Association
+International Banking Conference.
+
+Dudley, W (2015) Regulation and Liquidity Provision, Remarks at the SIFMA Liquidity Forum, New York City.
+
+IMF (2015) Global Financial Stability Report: Vulnerabilities, Legacies and Policy Challenges, October 2015.
+
+US Department of the Treasury, Board of Governors of the Federal Reserve System, Federal Reserve Bank
+of New York, US Securities and Exchange Commission and US Commodity Futures Trading Commission
+(2015), ‘Joint Staff Report: The US Treasury Market on October 15, 2014.’
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+

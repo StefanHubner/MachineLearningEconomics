@@ -1,0 +1,173 @@
+How can the objective of macroprudential policy be
+operationalised, given the high uncertainty about the state of
+the financial system?
+Speech given by
+Donald Kohn, Member of the Financial Policy Committee
+
+Joint Bundesbank-ECB Spring Conference 2019, Frankfurt
+15 May 2019
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+The conference organizers have raised a critical question for macroprudential policy. Operationalising
+policy—identifying the risks that merit mitigating actions, identifying the appropriate action, and then
+assessing its effect after action is taken - is a major challenge for macroprudential authorities.
+
+In many jurisdictions, including the UK and the US, the impetus to take action to contain systemic risks in
+financial markets only followed the global financial crisis when it became painfully clear that an
+institution-by-institution approach to oversight was not enough to assure that the financial system could
+continue to deliver essential services under severe strain.
+Consequently, we don’t have much experience with these policies in open globally integrated financial
+markets that would generate reliable empirical relationships between actions and results. We don’t even
+have a widely accepted macroeconomic model rich enough to generate financial instability, in which we
+could embed emerging empirical relationships to test alternative strategies. The risks themselves are not
+easily observable since we are looking for tail risks whose crystallization would have important externalities.
+And judgments about the size of the tail—the degree of risk—often depend on a comparison of current
+conditions to some notion of “normal and sustainable.” Finally, we don’t have a ready feedback
+metric—like the inflation rate for monetary policy—that can tell us how well we are accomplishing our
+objective.
+That’s why conferences like this one are so important. Especially in these nascent years of macroprudential
+policy in advanced economies, the kind of research and questioning we are experiencing here can play an
+important role in improving policies for financial stability.
+
+Scepticism about our ability to spot emerging risks and design appropriate policies seems to have held back
+the use of macroprudential policies—especially countercyclical policies—in some places1. In the UK,
+Parliament has given the Financial Policy Committee at the Bank of England responsibility for
+“the identification of, monitoring of, and taking of action to remove or reduce systemic risks with a view to
+protecting and enhancing the resilience of the UK financial system.” And in pursuit of that mandate we have
+made many judgments and taken quite a few actions based on a variety of indicators and techniques.
+Although identifying risks and gauging resilience poses significant challenges, we have found sufficient
+empirical regularities tied to financial instability in historical experience to justify taking action.
+
+We make heavy use of concurrent bank stress tests to judge whether we need to take steps to better assure
+that banks will be able to continue providing UK households and businesses with credit and other financial
+services in a severe stress. The scenarios we use to test bank resilience are explicitly
+countercyclical—larger deltas in better times - and keyed to a very severe levels of stress; historical
+experience with economic and financial cycles explicitly informs scenario design. The scenarios also
+
+1
+
+See for example Governor Tarullo’s views.
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+incorporate specific risks that appear important at the time, such as a global recession or a combination of
+recession and higher interest rates as might result from capital flight post Brexit.
+
+The tests are well-adapted for one of their major uses—setting the countercyclical capital buffer for the UK
+banking system. We have judged that the appropriate level of bank resilience requires that the CCyB be set
+in the region of one percent in standard risk environments, and the stress tests support this result. They tell
+us directly about the capacity of the banking system to absorb losses in the stress and remain well enough
+capitalized to meet the hurdles we have set, which are designed, also in light of experience, to be high
+enough to assure continued access to funding and the ability to lend.
+
+We have also used the stress test results to evaluate how banks are gauging the capital they hold against
+particular risks, such as those from consumer credit. When we saw deficiencies in some banks’ modelling in
+that regard the microprudential authorities took steps to mitigate the risk. And we have used the information
+from the tests to gauge the resilience of the system to risks that were not explicitly embodied in the
+scenarios, in particular that the banks would be able to weather a cliff-edge Brexit.
+
+In between stress tests, we use an array of indicators to judge risk environment for banks and the
+appropriate CCyB. We pay particular attention to credit growth relative to income, in light of historical
+experience that rapid credit growth is often a precursor to financial instability2. But we also look at other
+indicators, like spreads of bank loan rates over base rates and of rates on risky bank loans relative to those
+on safer loans, to help us gauge shifts in credit supply that might come back to haunt the banking system.
+
+We have taken several actions in mortgage markets, but there our steps were targeted more toward
+preserving borrower rather than lender resilience. Experience in the UK is that borrowers honour their
+mortgage obligations, even under adverse economic conditions, limiting the risks to lenders. But heavily
+indebted borrowers do reduce consumption disproportionately in response to a negative income or positive
+interest rate shocks, amplifying economic downturns. We used historic and cross-country data to identify
+debt burdens where shocks produce an outsized cut in consumption, and we set loan-to-income and interest
+rate affordability tests to limit the growth of at-risk households.
+
+We have identified risk in other ways as well. For example, we have asked Bank staff and the
+microprudential and conduct authorities to do deep dives on a variety of possible risks and we have used
+their reports to gauge the salience of these risks for financial stability. This year we are gathering
+information about the financial stability implications of ETFs, fintech, fast markets and provision of cloud
+services to the financial sector.
+
+2
+
+See recent speeches by Ben Broadbent and Jon Cunliffe.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+As that list illustrates, a number of those deep dives have been focused on risks outside the banking sector,
+where our regular information is less complete. This is part of a disciplined and structured examination every
+year, with the potential for recommendations to the Treasury about the regulatory perimeter.
+
+Some tail risks are very clear without the need for extra information or indicators—cyber-attacks, cliff-edged
+Brexit, the eventual disappearance of LIBOR. For these we identify steps to mitigate the risks and build
+resilience. For cyber we are developing expectations for firms to be able to restore various services after an
+incident, with the speed dependent on the systemic importance of the service. For Brexit, in addition to the
+stability risks posed by the macroeconomic effects of a departure without transition, we pinpointed a number
+of ways cross-border flows of financial services could be disrupted. We listed the ones that could affect
+financial stability in our public Brexit checklist, identified specific ways they could be mitigated, and kept track
+of progress toward mitigation with a traffic light red-yellow-green system.
+
+In sum we have used a variety of sources of information to identify risks and gauge resilience. To be sure,
+we are handicapped by the small number of financial cycles amid rapid structural and technological change.
+And our actions haven’t been tested yet by a major adverse economic or financial shock. But we think we
+have identified enough historical regularities to meet our legislated mandate. To some extent a diversity of
+approaches can provide a cross check—the indicators conform with the results of the stress tests or
+information deep dives? And disciplined economic analysis, policymakers with market experience, and
+common sense are essential ingredients in macroprudential policy.
+
+But those challenges listed at the beginning of my presentation are valid and there is considerable room for
+improving our ability to identify risks and build the necessary degree of resilience. I’ll list four areas
+deserving of priority for researchers and practitioners.
+
+1. Make the stress tests more macroprudential. We should stick to the discipline of
+countercyclical scenarios, with as many variables as possible stressed to the same severe level
+each round so that the deltas rise and fall with the cycle. Within that basic framework, we should
+be paying particular attention to asset categories or lines of business that are growing especially
+rapidly or are seen as unusually profitable3. We should also be looking for correlated positions
+and important interconnections among stress-tested banks that could amplify shocks.
+
+2. Refine the list of indicators. The indicators we follow should reflect recent research and
+experience and incorporate information on risk distributions—the size and shape of the tails.
+These indicators can play important roles in making our actions more systematic and in helping
+the public and the legislature hold us accountable.
+
+3
+
+As suggested by Greenwood, Hansen, Stein, and Sunderam.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+3. Continue to develop metrics and techniques for identifying and analysing risks in
+non-bank financial channels. Visibility on these increasingly important channels is sometimes
+limited and oversight responsibility non-existent or not well focused. We need continued
+research into these markets—who borrows, who lends, what are the risks? And we need more
+modelling of risks outside banking to give structure and focus to our efforts to understand.
+
+4. Work on indicators of overall risk that aggregate across an array of risk metrics to inform
+policymaker assessments. Work at the Bank and the IMF on GDP-at-risk is promising and, in
+its most recent incarnation, uses both financial conditions and credit growth to assess risk of
+GDP falling into a very low tail. The FPC also uses a measure of the number of indicators that
+are at a substantial distance from mean values to try to asses overall credit conditions.
+Aggregate indicators can’t replace the kind of detailed analysis that is required to identify specific
+risks and take appropriate action to build resilience. But they can be a useful check on the
+overall state of the financial sector and the judgment and decisions of the policymakers.
+Reasonably reliable aggregate measures would be an important focus for communication with
+the legislature and the public, aiding accountability and understanding.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+

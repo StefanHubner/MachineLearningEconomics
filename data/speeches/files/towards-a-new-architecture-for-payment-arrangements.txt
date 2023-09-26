@@ -1,0 +1,307 @@
+Towards a new architecture for payment arrangements
+Speech given by
+Chris Salmon, Executive Director of Banking Services and Chief Cashier
+
+At the BAFT-IFSA 2012 Global Annual Meeting – Europe, London
+24 January 2012
+
+I would like to thank Emma Carter, Sam Leighton, Lisa Newman and Hannah Reynolds for their
+contributions and am grateful for helpful comments from other colleagues.
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+It is a pleasure to participate in this annual gathering of global transaction bankers, not least because this is
+the first time that this prestigious event has been held outside the United States. Although transaction
+banking covers a broad range of functions, I will focus my remarks on just one aspect: payment operations.
+
+In the payments arena, the current speed of technological change has opened up great scope for innovation.
+It offers an ever widening range of payment methods to consumers, including contactless cards and mobile
+payments and provides for increasingly global cash management services for large corporates. I am sure
+the opportunities this creates will feature in your deliberations, at this meeting and more generally.
+
+A central bank’s interest is somewhat different, however, from that of a market participant, focusing on the
+integrity of payment operations. I want to discuss how the financial crisis has influenced the perspective of
+financial stability policy makers, at least those at the Bank of England, towards those operations.
+
+The context is not that the crisis revealed weaknesses either in transaction banking generally, or specifically
+in payment operations. Indeed viewed from that perspective, they had a relatively good crisis. The value of
+low risk, resilient, business lines is thrown into relief for both firms and public authorities when an
+over-leveraged system falls over.
+
+But the crisis has clearly had a profound impact on the public authorities’ attitudes towards the financial
+system. Much of the resulting reform agenda has been focussed on de-risking banks’ balance sheets by
+building capital buffers, increasing liquidity and lowering leverage, with the aim of reducing the likelihood of
+firms getting into financial difficulty. These changes are unlikely to have much impact payment operations
+themselves. But they may have more significant implications for other aspects of transactions banking. The
+potential and, I understand, much debated impact on trade credit from the new liquidity regulations and
+leverage rules is a good example of this.
+
+A second strand of work has focussed on increasing the resilience of the financial system in bad states of the
+world, when in spite of the planned stronger buffers, either one or more firms gets into difficulty and is
+seeking to recover business-as-usual stability or a firm fails and needs to be resolved. This work programme
+has much greater potential to influence directly the attitude of public authorities to payment operations.
+
+The starting point is in many ways a good one. For the formal schemes which facilitate the final settlement
+of payments there are established and clearly understood prudential principles, codified in international
+standards1 which most major payment systems comply with. To draw out a few of these principles, key
+payment systems typically settle in central bank money, with settlement risk eliminated in high value systems
+through real-time gross settlement.
+1
+
+Most notably those set out by CPSS-IOSCO, BIS Committee on Payment and Settlement Systems http://www.bis.org/cpss/index.htm,
+and the International Organization of Securities Commissions, http://www.iosco.org/
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+2
+
+These rules generally work well, limiting the scope for shocks to be transmitted within the formal schemes.
+So, although day-to-day glitches sometimes occur in payment systems they rarely cause sustained problems
+for individual banks, nor do they generally have a systemic impact on the wider financial system. To take the
+example of CHAPS, which acts as the UK’s core high-value real time gross settlement system, in 2011 there
+were over 50 member outages, during which individual member banks were either unable to send or to
+receive payments for an average of just over an hour. But none of these incidents had more than a
+transitory effect on the firms involved. And crucially during the financial crisis, the core payment systems
+worked well – here and elsewhere - and did not act to amplify shocks. Don’t misunderstand me, significant
+risks are managed everyday within the formal payment systems, my point is simply that these risks are now
+relatively well understood and mitigated which I think is why payment systems themselves do not appear
+prominently as part of the great financial reform agenda.
+
+Indeed, putting to one side concerns about consumer-facing issues, the key financial stability priority in
+relation to payment systems is the perhaps more mundane, but still difficult challenge of maintaining a largely
+good situation and guarding against complacency. That includes fixing the specific shortfalls which exist in
+current systems; ensuring sufficient investment and senior engagement in the payment operations at banks
+and infrastructure operators to maintain operational robustness and, finally, ensuring that members plan
+properly for change in their own operations and that they collectively have a decent strategy for handling the
+network implications of this period of significant technological innovation.
+
+Nevertheless, the crisis is likely to encourage authorities to broaden their perspective when considering the
+safety of payment operations. This is likely to happen in two directions. First, authorities are likely to place
+more attention on the overall network of payment operations within a financial system, both those contained
+within the formal payment systems, and the bilateral network of relations which exist outside them. This is
+because it is the overall network of relations which will determine the scope of payment operations to amplify
+or dampen the system-wide effects of a shock around a financial system. Second, in the context of
+resolution specifically, authorities are likely to ask more questions about the internal organisation of firms’
+operations, particularly systemically important, large, complex firms and will look more closely at resilience in
+infrastructure companies.
+
+The Payments Network
+
+Turning first to the overall network, one key aspect is the pattern of direct and indirect participation in critical
+payment systems. Although as I just noted the key payment systems themselves typically abide by
+internationally agreed standards, those standards are largely drawn up with reference to risks to which
+payment systems and their direct members are directly exposed. But often, and this is true of the key UK
+payment systems, a significant number of banks connect to these payment schemes through one of a small
+number of correspondents. Hence the payments map comprises a central hub, the system and its direct
+members, with many spokes reflecting agency relationships between the direct and indirect participants.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+3
+
+The relative importance of the ‘hub’ and ‘spokes’ for a payments network is typically summarised through a
+‘tiering’ statistic: the ratio of direct participants to all banks that make payments via the system. In highly
+tiered systems the ‘spokes’ are relatively important (and the statistic low in value), with the opposite true
+when most participants are direct members of the core scheme. In the agency relationships which make up
+the spokes, unlike the central hub, there are no agreed standards to manage payments flows. They are
+therefore assessed only in the context of firm-specific prudential regulation.2
+
+Focussing again on CHAPS as an example, it is a real-time gross settlement system, so intra-day credit risk
+is eliminated between direct participants. But typically that is not true for relations between the direct
+members of CHAPS and their customers: unsecured credit is provided during the working day from one
+party to other, depending on whether the customer has received or made net payments, with positions
+cleared at the end of the day. This can increase the scope for a problem in one bank to affect others.
+
+In the context of firm failure, where one party is large relative to another, these credit risks can become
+material enough to threaten the party on the other side of the relationship. There are many historic examples
+of correspondent bank failures bringing down their customers and some of the opposite occurring too.
+
+Problems can also arise short of actual firm failure. In a period of stress, one party’s attitude towards the
+credit risk inherent in the clearing relationship may change. For example, if a customer bank typically relies
+on an intra-day loan from its clearer to fund its payments and now suffers an adverse shock, the clearer may
+become more concerned about its credit risk. In extremis, it might choose to remove those clearing services
+altogether, but even in less extreme scenarios it may demand more protections in order to carry on clearing
+for the customer bank. Most obviously, the clearer could ask it to start collateralising its intra-day exposures.
+From the customer bank’s perspective, the consequence would be to make an already bad situation worse,
+complicating its recovery situation. Precisely this type of dynamic played out for Lehman Brothers: in the
+weeks leading up to its bankruptcy, its correspondents from around the world called for a total of $16 billion
+of collateral and prefunding. This was a significant drain on Lehman’s liquid asset pool, which had not been
+calibrated to take into account this possibility, providing false comfort and contributing materially to the speed
+of its demise.
+
+Going forward, authorities are likely to pay more attention to the degree and riskiness of tiering when forming
+views on the robustness of the key payment systems they oversee. One of the draft new CPSS-IOSCO
+principles3 for financial market infrastructures mandates that they should ‘identify, understand and manage
+the risks arising from tiered payment relationships’, internationalising a concept already incorporated in the
+Bank’s own oversight principles.4 This is a powerful principle, which I hope is adopted, as it shifts the risk
+2
+
+For example, in January 2011, FSA set out guidance on “Good Practices for Settlement Bank management of potential risk exposures
+to customer banks, available at http://www.fsa.gov.uk/pubs/guidance/fg11_02.pdf
+3
+http://www.bis.org/publ/cpss94.pdf
+4
+XIII in the Bank’s list of PSO Principles for Oversight
+http://www.bankofengland.co.uk/financialstability/role/risk_reduction/payment_systems_oversight/principles_oversight.htm
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+4
+
+assessment of payment systems from the ‘hub’ only to include the ‘spokes’ as well.
+
+In some instances, such as the Hong Kong dollar, it is the norm for all financial institutions to participate
+directly in the key payment systems. This avoids the credit exposures, liquidity and operational
+dependencies associated with tiered structures. In other systems, where indirect participation is common,
+however, this principle can help frame a review of how the risks that may arise from indirect relationships are
+managed and mitigated. In some cases, where the risks warrant, the best solution might be for some
+indirect participants to become direct members.
+
+In the UK, CHAPS clearly falls into this camp. Its membership is highly tiered and the Bank has long
+believed that a less-tiered system would be good for UK financial stability. To that end, in recent years the
+Bank has supported the decisions made by three banks to become new members. Nevertheless, there are
+still just 18 direct members, and around half of all payments made through CHAPS are on behalf of indirect
+participants. Over the last year or so, the Bank has intensified its efforts to change this situation.5 My
+Oversight colleagues are working with the CHAPS board to introduce a rule into its own rule-book, consistent
+with the draft new international tiering principle, and we have been actively discussing the merits of direct
+membership with the largest indirect participants and their clearers over the past year. In principle, so long
+as our key risk concerns are addressed, and additional legal or operational risks are not introduced, we are
+open about the method through which new direct members join CHAPS.
+
+Since we initiated this most recent round of discussions one large indirect participant has formally committed
+to join CHAPS, a second is moving towards a similar formal decision, and the remaining banks that we have
+spoken to are considering their position. If all the banks we have talked to in this round of discussions were
+to join CHAPS in due course, payment flows made by indirect participants would account for less than 40%
+of the total, making substantial inroads into our tiering problem.
+
+Even if the degree of tiering in a given payments network does not change there are likely to be a number of
+ways through which the overall network could, in principle, be made more robust. Let me give four
+examples, all of which point in the direction of supporting better contingency planning than is generally now
+the case.
+
+First, supervisors could encourage banks to factor in potential intra-day liquidity shocks when determining
+the size of their liquid asset buffers. In the UK, the FSA’s recent reforms have substantively moved in this
+direction, requiring banks to manage their intra-day liquidity positions and any related risks so that they are
+able to meet their payment obligations on a timely basis under both normal and stressed conditions. And the
+
+5
+
+http://www.bankofengland.co.uk/publications/speeches/2011/speech508.pdf
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+5
+
+international regulatory community has indicated that it is currently reviewing if and how intraday liquidity risk
+should be addressed in the context of the Basel III reforms.6
+
+Second, and here the thinking is at a much earlier stage, there may be a case for requiring contracts
+between direct and indirect payment scheme participants to make explicit provisions for periods of stress,
+specifying for example the conditions in which additional collateral might be demanded or notice periods for
+the withdrawal of service so that firms can better understand and manage the risks inherent in their payment
+relationships. There could be a case for standardising any such clauses.
+
+Third, the clients of correspondent banks could ensure that they have back-up arrangements to switch to in
+the event of their correspondent failing. That clearly applies to bank customers, and would involve being
+able to route payments quickly through an alternative payment systems provider. But in principle, the idea
+could apply to large corporate clients: there could be a case for them holding an account with a back-up
+bank, already set up with the necessary payments functionality, to enable them, for example, to continue
+paying staff in the event of the failure of their lead bank. My impression, based on some analysis undertaken
+by the Bank last summer is that contingency planning of this type does not figure highly, if at all, on the
+agenda of either the customer banks or corporate clients of the large payment banks in the UK. In contrast,
+some of the larger US banks responding to the operational challenges they faced in the aftermath of 9/11,
+appear to have developed their thinking in this area a little further. Over time, and in the context of other
+competing priorities, this may need to move higher up the agenda of other banks.
+
+Finally, there may be scope to improve the rules by which the schemes themselves determine who can be a
+member. Clearly members of payment schemes have a mutual interest in each others’ standing: they have
+a commitment to send payments to each other. And there must be circumstances in which following an
+adverse shock, a bank which is a member of scheme either falls below the required membership standard
+or, in a deferred net settlement system, needs to provide assurances to other scheme members through
+posting additional collateral.
+
+The key is that the process for responding to such shocks is well-articulated in the scheme rules and sets out
+an orderly process for additional collateral posting and potential exit, so that the path for recovering from the
+shock is not unnecessarily complicated by payments considerations. The affected bank should be given
+time to recover whilst the payment scheme and its other members are protected from the increased risk that
+it brings to the system. In this context, it is important that scheme rules do not hard-wire in a mechanical
+relationship between credit rating downgrades and membership eligibility. Cliff-edges for payment system
+membership are no more supportive of stability than anywhere elsewhere in the financial system.
+Extrapolating again from UK experience, this may be area where some schemes can make improvements.
+
+6
+
+See paragraph 31 of BCBS Basel III: International framework for liquidity risk measurements, standards and monitoring, December
+2010 at http://www.bis.org/publ/bcbs188.pdf
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+6
+
+Whatever the specific responses are in different countries, I think the direction of travel is clear: as
+enshrined in the draft new tiering principle, financial stability authorities are likely to take a broader view
+when considering the safety of their key payment networks, and that is likely to require some response by
+the participants in those networks – both the banks and the schemes themselves. Possible actions include
+broadening the direct membership of key schemes, better contingency planning and well-balanced rules of
+the game for dealing with adverse shocks. The aim should be reduce the scope for payment arrangements
+to amplify the problems caused by shocks elsewhere, reducing the likelihood of the type of problem that
+Lehmans experienced.
+
+Organisation of a firm’s internal payment infrastructure
+
+The second area I mentioned in my introduction was the interaction between the way firms organise
+themselves and resolution. Internationally, the Financial Stability Board has been leading the work to
+establish a road-map to get to the point when large, complex and systemically important financial institutions
+(SIFIs) can be resolved in an orderly way. As part of this they have recently published a set of Key Attributes
+for effective resolution.7 These include the preservation of vital economic functions and, unsurprisingly,
+continuity of payments provision is identified as one of those functions. The Board has also identified a wide
+range of organisational issues which could complicate resolution and where change, both within SIFIs and
+banks more broadly, may therefore be required to make resolution feasible. These include complexity in
+legal structure, intra-group transactions and booking practices, potential fragmentation of information
+systems or reliance on service providers.
+
+I think a number of things flow from these findings for the payments world. First, it is unlikely that the internal
+organisation of payments will be unaffected as and when large firms address the organisational issues which
+the FSB has identified. Second, firm’s ‘Recovery and Resolution’ plans will need to explain how a firm’s
+payment services can be resolved, whether by preserving continuity or by winding down in an orderly fashion
+reinforcing the case for addressing some of the issues I identified earlier. And finally, resolution authorities
+will want to understand how customers will be able to continue making and receiving payments following a
+resolution. That could hinge on the Authorities’ ability to transfer to a healthy third party, the firm’s payment
+services, either whole or divided up, in the event of resolution and, as necessary, ensuring that the
+infrastructure of the failed bank could be used by a new owner to provide transactional services to the
+customers. The feasibility of achieving this outcome would depend on the how bank accounts are organised
+and referenced within a bank’s systems and the way in which they connect into the payments infrastructure.
+In the case of the UK at least, there are some difficult issues to be worked through here.
+
+7
+
+www.financialstabilityboard.org/publications/r_111104cc.pdf
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+7
+
+Conclusions
+
+My aim today was to give a perspective on some of the ways in which the financial crisis has influenced
+policy-makers’ thinking which might be relevant for the transactions banking world. It is, I suspect, natural for
+a gathering like this to focus on the commercial opportunities offered by innovation in the payments space.
+But I think it would be advisable also to consider how the perspectives I have outlined above might shape the
+attitudes of financial stability authorities and so the regulatory context in which you operate when developing
+your medium-term planning.
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+8
+
+

@@ -1,0 +1,295 @@
+From design to delivery: stability in the new retail payments
+infrastructure
+Speech given by
+David Bailey, Director, Financial Market Infrastructure, Bank of England
+
+At the Westminster Business Forum Keynote Seminar: The future for UK payments policy
+– infrastructure, regulation and consumer priorities
+21 February 2017
+
+I would like to thank Dan Rawling and Tom Ludlow for their assistance and input.
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+Good morning. I would like to thank the Westminster Business Forum for inviting me to speak at today’s
+seminar on the future outlook for UK payments policy.
+Two years ago I spoke at the Forum’s seminar on the future of payments regulation. The theme of my
+speech that day was innovation and change, specifically how we could collectively manage change to
+maximise the positive impact that it can bring, both for the users of payment systems and the stability of the
+wider financial system. The timing of my remarks recognised that we were expecting to see an
+unprecedented scale of innovation and change in the payments landscape. And we have certainly seen
+significant initiatives launched over the last two years, driven from a variety of sources.
+
+For example, the Payment Systems Regulator (PSR) is now firmly in place, nearly two years on from its
+operational launch, and in that time it has driven a series of changes focused on enhancing competition and
+innovation. It has established the Payments Strategy Forum (PSF) which has shown itself to be a positive
+force for bringing industry together behind a single retail payments strategy. And the Bank is making its own
+contribution through its review of the Real-Time Gross Settlement (RTGS) system that sits at the heart of the
+UK financial system; and also by continuing to evolve our supervisory expectations in relation to the
+operation of payment systems.
+
+What I would like to do today is take stock in light of developments over the last two years, setting out the
+Bank’s view on where we stand and some of the challenges ahead.
+
+Financial innovation
+To set the context for my remarks, I’d like to briefly touch on the Bank’s approach to innovation and change.
+Our Governor, at a recent G20 conference, noted that technological innovation has long been twinned with
+1
+
+finance. This clearly applies to the infrastructure underpinning finance, where the foundations of ledger
+keeping have been built upon through a range of innovations in communication and information technology,
+leading to the structure of modern payments, clearing and settlement systems that we recognise today. And
+innovation in the infrastructure behind these systems will continue. It is the infrastructure underpinning retail
+payment systems, and the work of the Payments Strategy Forum specifically, that I will focus on today.
+
+But before I get into that detail I do want to note that, through that G20 speech and in other contexts, the
+Bank has been very clear that it supports innovation both in terms of the opportunities for growth it can bring,
+but also the important financial stability benefits it can deliver. For example, in the payments sector, it has the
+potential to make settlement faster and increase settlement in central bank money thus yielding important
+benefits to financial stability. It can encourage new entrants, reducing market concentration. So inevitably we
+1
+
+See the speech ‘The Promise of FinTech – Something New Under the Sun?’ by the Governor of the Bank of England at the Deutsche
+Bundesbank G20 conference on ‘Digitising finance, financial inclusion and financial literacy’, Wiesbaden (25 January 2017), available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2017/speech956.pdf
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+2
+
+welcome the opportunity to attend events such as today, where we can reiterate our support for well-crafted
+2
+
+change. But I will make no apologies for the stress that we put on the words ‘well-crafted change’ and for
+the importance we attach to change taking place in a way that promotes financial stability and resilience.
+
+The work of the Payments Strategy Forum
+The successful implementation of the Payments Strategy Forum’s plan for UK retail payments is something
+3
+
+we are engaging closely with. The PSF’s strategy, announced in November last year, covers a number of
+areas.
+
+4
+
+Of particular interest to the Bank is the proposal for the consolidation of the UK retail interbank
+
+payment system operators: Bacs and Faster Payments, who we supervise as systemically important
+schemes, and the Cheque & Credit Clearing Company. Done well, this should reduce complexity, simplify
+access and enhance efficiency. We support the consolidation of these operators as a way of realising
+important financial stability benefits that should flow from the process. We expect the consolidated entity to
+be greater than the sum of its constituent parts and therefore even better placed to lead and tackle the
+challenges inherent in meeting the very high standards the Bank has of a systemic risk manager. We, and
+our colleagues at the PSR, are working closely with the industry-led delivery group tasked with developing
+the new consolidated entity to ensure that it is delivered effectively.
+Another significant proposal in the PSF’s strategy is a ‘new payments architecture’ or ‘NPA’. The vision set
+out by the PSF is a payments infrastructure which delivers greater competition and innovation at lower costs,
+and which is agile and responsive to the needs of consumers, businesses and government. The
+consolidated payment system operator will be responsible for implementing this vision.
+
+The NPA proposals are based around what is being termed the Simplified Payments Platform. Currently with
+the retail payment systems, such as Bacs and Faster Payments, separate payment mechanisms support
+different payment products. A business will likely use Bacs when it pays its staff their salaries on a regular,
+for example monthly, basis. A consumer will typically use Faster Payments when he or she makes an online
+payment directly from their bank account. With the Simplified Payments Platform concept, the PSF proposes
+a single retail payment mechanism, simply put the pushing of a payment message from A to B. The PSF
+calls this the “lowest common denominator in any payment”.
+Additionally, the person making such a payment would be able to select additional ‘overlay services’, most
+likely via Application Programming Interfaces (APIs), which determine features such as when the payment
+message is to be sent and whether any additional data is to be exchanged. In this way, the PSF vision is that
+2
+
+The importance of well-crafted change was also emphasised by Andrew Hauser, Executive Director, Banking, Payments and Financial
+Resilience in his speech ‘A payments strategy for the 21st century’ at the launch of the PSF’s final strategy on 29 November 2016,
+available at: http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech948.pdf
+3
+See, for example, the speech by Andrew Hauser cited at footnote 2.
+4
+See the PSF’s document ‘A Payments Strategy for the 21st Century: Putting the needs of users first’ (November 2016), available at:
+http://consultation.paymentsforum.uk/final-strategy
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+3
+
+retail payment products, including the ones we have today, can be developed as overlay services layered on
+top of the single retail payment mechanism.
+
+The PSF has proposed two potential models for the Simplified Payments Platform. In a centralised model,
+the infrastructure and connectivity between payment service providers (PSPs) such as banks is provided by
+a single central infrastructure. In the decentralised model, connectivity is established between PSPs and
+allows for PSPs to procure their own infrastructure.
+
+The PSF proposals are being developed into much more detail, however this summary suffices for the
+purposes of what I want to say next.
+
+5
+
+You will no doubt have gathered where I am going. With a move to a new architecture for payments there
+comes potential risk which needs to be appropriately managed.
+The Bank’s approach to the supervision of financial market infrastructures (FMIs), including payment
+systems, is based on forward-looking judgements on whether an FMI’s operations will pose unacceptable
+6
+
+risks to financial stability. Where we judge the risks are unacceptably high, we require the FMI to take action
+to reduce them. Inherent in this approach is the need for us to deal effectively with new or changing risks,
+evolving our supervision accordingly.
+It’s therefore important that we think about the potential risks, as well as the benefits, from the new payment
+architecture now so the appropriate controls and mitigations can be built into the NPA design process.
+The Bank’s criteria for assessing change
+
+When I last spoke to this Forum I set out the criteria against which the Bank would assess change in the
+7
+
+payments landscape. These focus on settlement risk, standards of robustness and resilience, continuity of
+payments if a bank is in resolution, and our own supervision of payment systems. These criteria have given
+us an overarching framework for assessing change and have underpinned our analysis of industry
+developments since then.
+
+Now that more detail is emerging in terms of what that change might look like with respect to payments
+infrastructure, it is an opportune moment for us to set out some key themes from a financial stability
+
+5
+
+More information is available in the PSF’s strategy document (see footnote 4) and more detailed design proposals will emerge from the
+NPA Design Hub established by the PSF.
+6
+See ‘The Bank of England’s approach to the supervision of financial market infrastructures’ (April 2013), available at:
+http://www.bankofengland.co.uk/financialstability/Documents/fmi/fmisupervision.pdf
+7
+See the speech ‘The future of payments systems: stability through change’ by David Bailey at the Westminster Business Forum
+Keynote Seminar ‘The future of payments regulation’ (25 February 2015), available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2015/speech799.pdf
+4
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+4
+
+perspective that we would expect to be taken into account as the NPA is developed. There are four key
+themes I would like to highlight:
+
+1. Settlement must be grounded in central bank money
+
+Many choices will need to be made as the Simplified Payments Platform is developed, for example whether
+to have a centralised or a decentralised structure. Whatever model is chosen, it is of crucial importance to
+the Bank that it is underpinned by, and promotes, settlement in central bank money which is the safest form
+of settlement asset; and that high value payments continue to settle in real time. To that end, and given the
+Bank is in the process of reviewing our RTGS system, which will continue to support the settlement of the
+highest value payments on a gross, real time basis, it is essential that we and industry remain closely
+engaged on this work.
+
+We would also expect the consolidated payment system operator to ensure that settlement retains the
+existing level of legal certainty as provided for under the Settlement Finality Directive designations of the
+three payment systems. This legal certainty is important as it determines when a payment can be considered
+irrevocable.
+
+2. Concentrating retail payments through a single mechanism increases the importance of resilience
+
+At the heart of the Simplified Payments Platform is the principle that there is to be one retail payment
+mechanism. This implies less substitutability than today where, if one retail payment mechanism is
+unavailable, an alternative might be used. It therefore becomes more important that the payment mechanism
+is robust and resilient, and the Bank’s supervisory tolerance for infrastructure failures or participant incidents
+affecting the infrastructure or connections to it would be reduced.
+
+As a result, the Bank will expect a clear demonstration of how the move from bespoke, but potentially
+substitutable, retail payment mechanisms to one multi-functional retail payment mechanism will deliver the
+high levels of robustness and resilience we expect.
+
+3. The payment system operator will remain accountable to us for managing risks across the system
+
+Managing the systemic risks posed by infrastructure services and third party overlay services will be a key
+responsibility for the new, consolidated payment system operator. In respect of infrastructure, this applies in
+a centralised model, where the operator is responsible for running infrastructure tenders and contracting with
+the infrastructure provider, but equally in a decentralised world where PSPs directly contract with their own
+infrastructure providers.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+5
+
+A potential benefit of bilateral procurement of infrastructure by individual PSPs is that it could offer increased
+competition amongst infrastructure providers. If that happens then competition must not drive down the
+standards of payment security, robustness or resilience. We will expect the operator to authorise or accredit
+infrastructure providers against robust standards and be able to ensure ongoing compliance with them,
+including through the use of appropriate sanctioning tools. We would also expect the operator to ensure the
+same high standards of any third party providers of overlay services connecting to the infrastructure.
+4. The Bank’s supervision will continue to evolve
+It remains important for the Bank’s supervisory regime to keep pace with the changes in industry structure
+and practice so that we can continue to deliver our mandate to maintain financial stability.
+
+We will therefore keep our supervisory regime and its statutory underpinnings under review. Where
+necessary, and working with our colleagues in the PSR, the Financial Conduct Authority (FCA) and
+HM Treasury, we will make changes to our supervisory approach, to ensure that we have the appropriate
+suite of powers, over the right entities.
+
+In line with this, I would also like to highlight a couple of notable changes to the scope of our regulatory
+regime.
+
+In the coming months, HM Treasury will lay a statutory instrument which will extend our Banking Act 2009
+powers to encompass designated infrastructure providers to recognised payment system operators. This
+legislative amendment will put our supervisory regime on the right footing to supervise infrastructure
+providers directly, where this is necessary and appropriate to promote financial stability, including in light of
+the infrastructure developments I have discussed today.
+
+Looking further into the future, the Digital Economy Bill will, when it gains Royal Assent, give HM Treasury
+the ability to recognise payment systems whose membership is broader than banks. The Bank will, through
+its ongoing horizon-scanning, monitor wider payments landscape developments, including the potential for
+disintermediation of traditional interbank payment systems and the potential emergence of new payment
+systems which could in due course become systemically important and be recognised by HM Treasury.
+
+We are also taking steps to make sure that our regulatory requirements and expectations are as clear as
+possible. In this vein, we have developed a Code of Practice and Supervisory Statement relating to
+governance in recognised payment system operators such as the operators of the Bacs and Faster
+8
+
+Payments systems. We consulted on these documents at the end of last year. We will publish the finalised
+Code and Supervisory Statement shortly, well before the new consolidated payment system operator comes
+
+8
+
+See: http://www.bankofengland.co.uk/financialstability/Documents/fmi/governance_rps.pdf
+6
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+6
+
+into being, so that our requirements and expectations can be incorporated in the development of that new
+entity. The Code will set out our requirements in respect of an operator’s governance arrangements,
+including that it must act as a systemic risk manager, and the Supervisory Statement will provide supporting
+guidance on how an operator is expected to comply with the Code. There will be a transitional period for
+compliance and the Code will come into force one year from its publication.
+
+Conclusion
+
+To conclude, I want to return to my opening remarks that well-crafted innovation, properly delivered, can
+yield significant benefits to service users and to financial stability. As such, we are engaging closely with the
+change and innovation proposed by the PSF. But we are also alert to the potential risks that this change
+presents.
+
+To recap, we consider that, whatever form the payments infrastructure takes in the coming years: settlement
+must be grounded in central bank money; concentrating retail payments through a single mechanisms will
+increase our expectations of resilience; the Bank will continue to hold the payment system operator
+accountable for managing risks across the system; and the Bank’s supervision of payment systems will
+continue to evolve. These four key themes that I have outlined today will inform our approach to the new
+payments architecture as it takes shape and we would expect them to be taken into account throughout that
+process. We look forward to working closely with industry and the PSF as the work develops.
+
+Thank you for your time this morning and I am happy to take comments and questions from the floor.
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+7
+
+

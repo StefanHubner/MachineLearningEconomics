@@ -1,0 +1,1126 @@
+What to do when we don’t know: policy-making when spare
+capacity is uncertain
+Speech given by
+Martin Weale, External Member of the Monetary Policy Committee
+
+JSG Wilson Lecture, Hull
+15 October 2014
+
+I would like to thank Lotte Adams, Nicholas Fawcett and Tomas Key for assistance in preparing the text, and to Kristin Forbes,
+David Miles, Ben Nelson, Gareth Ramsay and Emma Sinclair for helpful comments. My extensive thanks for their help in
+producing and discussing the simulations on optimal policy go to Andy Blake, James Cloyne, Rich Harrison, Clare Macallan,
+Kate Reinold and Matt Waldron. They provided considerable assistance with the analytical work, though they should not be
+held responsible for the views expressed here, which are my own.
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Could I say what a great privilege and pleasure it is to give the 2014 JSG Wilson Lecture. Professor Wilson,
+of course, wrote a number of key texts on money and banking. Alas it is only in the aftermath of the banking
+crisis that we have all learned of the importance of studying money, money markets and banks with the sort
+of care that Professor Wilson devoted to the issue. Ahead of the crisis many economists and policy-makers
+thought that they need pay no attention to what financial institutions were up to because things were going
+well; indeed some perhaps thought that the “Great Moderation” was a consequence of their policy
+prescriptions being followed. Hindsight may judge it to have been no more than an extended run of good
+luck.1
+Today I would like to talk about a more general issue which the crisis and its aftermath have certainly
+underlined – the perils of thinking that we know too much. One of the things which continues to surprise me
+is the way in which some economic commentators, from time to time, talk as though they know things which
+are inherently unknowable – such as what is going to happen to inflation in two years’ time, or how much the
+economy is going to grow next year. I can never make out whether they think their intended audience is
+incapable of realising that such matters are unknowable or whether they actually believe what they say.
+Neither interpretation is, however, reassuring.
+Of course the Monetary Policy Committee does its best to explain the uncertainties that we face. Today I
+would like not simply to explain that things are uncertain but to make some suggestions about how
+policy-making can adapt to the key uncertainties that we face. If we cannot be sure what is going on, we can
+at least do our level best to think about ways of alleviating the risks associated with getting things wrong.
+I would like to focus on two key sources of uncertainty. The first, not surprisingly, is uncertainty about the
+degree of spare capacity in the economy. As the Committee has explained, there is a wide range of views
+on the matter. Additionally, members of the Committee might admit that they are uncertain about the degree
+of spare capacity (see e.g. Miles (2014)). Figure 1 displays the way in which the MPC has changed its view
+of the full-capacity level of one component used in the calculation of labour market slack: the level of
+unemployment that is consistent with steady wage growth given the effects of persistent spells in
+unemployment on the ability of workers to find jobs. A variable which changes in this way could hardly be
+regarded as certain.
+The second area of uncertainty concerns the normal or equilibrium rate of interest; the rate at which supply
+and demand are in balance, with inflation close to target. Figure 2 provides an indication of the uncertainty
+that financial markets have about future interest rates. This fluctuation again suggests that the normal
+interest rate must be uncertain or at least should be regarded as such.
+
+1
+
+Whether the apparent stability in this period was due to good luck, or good policy, is the subject of debate – see, for example, Benati
+and Surico (2009).
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+To explore these issues further I would like to consider the problem of policy-setting using first a very simple
+framework and secondly the Bank of England’s model of the economy. I will then discuss a range of
+important practical considerations which are not present in this more formal analysis.
+Figure 1: Revisions to the medium-term equilibrium
+unemployment rate since August 2013
+
+6.8%
+6.6%
+6.4%
+6.2%
+6.0%
+5.8%
+5.6%
+5.4%
+5.2%
+5.0%
+2013Q2 2013Q3 2013Q4 2014Q1 2014Q2
+Aug '13
+
+Nov '13
+
+May '14
+
+Aug '14
+
+Feb '14
+
+Figure 2: Five year on Five-year Forward Interest
+Rates (% p.a.)
+
+6.5
+6
+5.5
+5
+4.5
+4
+3.5
+3
+2.5
+2
+Oct‐09
+
+Oct‐10
+
+Oct‐11
+
+Oct‐12
+
+Oct‐13
+
+Oct‐14
+
+Source: Bloomberg and Bank calculations
+Source: Bank of England
+
+A Simple Analysis of Inflation and the Interest Rate
+Let me begin by providing a purely illustrative account of policy-making, but one which serves to demonstrate
+the importance of knowing the normal rate of interest
+the rate of inflation,
+previous interest rate,
+
+, and its target,
+
+,
+
+. Suppose that, in the short term, the gap between
+
+depends on its past value relative to target,
+2
+
+, measured relative to its normal value,
+0.8
+
+, and on a random term,
+
+, on the
+:
+
+0.2
+
+I leave the long run relationship between inflation and the interest rate as something to worry about when it
+comes.
+
+2
+3
+
+3
+
+This normal value is equal to the sum of the steady state value of Wicksell’s natural real rate of interest and the inflation target.
+Which inevitably must mean that high inflation is associated with a high interest rate.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+The Monetary Policy Committee can set the interest
+Figure 3: Policy-Making in a Simple Framework
+
+rate to keep inflation close to target. But it does not
+know the random term,
+
+, when it does this. So the
+
+most that it can do is set the interest rate to offset the
+effect of any deviation of the past inflation rate from
+target. If it sets:
+4
+A
+
+then it is using the interest rate to offset fully the
+effects of past inflation, and the only source of
+
+B
+
+disturbance to the actual inflation rate is the random
+shock. It is, in effect, setting the interest rate to keep
+the expected inflation rate
+
+on target.
+
+Figure 3 illustrates how this works. Line A shows the
+trade-off between the interest rate and the expected inflation rate when the previous period’s inflation rate
+was on target. Line B shows how this changes if the inflation rate was off target in the previous period, and
+also how adjusting the interest rate can be expected to bring inflation back to target. The price of reasonably
+stable inflation is, however, a volatile interest rate.
+More generally, we might consider a policy rule of the form:
+
+If , then policy is inactive; nothing is being done to keep inflation close to its target. If, however, then
+inflation is being kept as close as possible to target, but at the cost of a very volatile interest rate. Thus,
+through choice of the policy-maker is able to trade off volatility in inflation, measured by the expected value
+of squared deviations in inflation from target,
+
+against volatility in the interest rate, measured by
+
+the expected value of squared deviations from the normal interest rate,
+
+. Figure 4 shows, as the
+
+blue line, the range of combinations available to a policy-making body. This body might also have some
+view about the relative importance of inflation stability as compared to interest rate stability. Suppose, for
+example, that the policy-maker was concerned about both, but was only 1/10 as concerned about interest
+rate volatility as they were about inflation volatility. Then they would want to choose a combination of the two
+which gave the lowest possible value of:
+/10
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+The resulting line indicating the policy-maker’s preferences is shown in red and this is just tangent to the set
+of possible combinations of interest rate and inflation volatility. As in so many cases in economics, this point
+of tangency delivers the best possible outcome. The solution is delivered by setting =1.6, well short of the
+value of 4 which keeps inflation volatility to a minimum.
+Figure 4: Policy Choices in a Simple Framework
+
+Policy-makers may value interest rate stability for its
+own sake, but they are also likely to be attentive to its
+
+3
+
+implications for output. I am sure it was considerations
+Inflation Volatility
+
+2.5
+
+of this kind which led to the remit to the MPC
+(HM Treasury, 2014) stating
+
+2
+1.5
+
+“The framework is based on the recognition that
+the actual inflation rate will on occasion depart
+
+1
+
+from its target as a result of shocks and
+0.5
+
+disturbances. Such factors will typically move
+inflation away from target temporarily. Attempts
+
+0
+0
+
+2
+
+4
+
+6
+
+8 10 12 14 16 18
+
+Interest Rate Volatility
+
+to keep inflation at the inflation target in these
+circumstances may cause undesirable volatility in
+output due to the short-term trade-offs involved,
+
+and the Committee may therefore wish to allow inflation to deviate from the target
+temporarily.”
+This model is no more than a very simple introduction to the issue of policy-setting and some of the choices
+policy-makers can face. As I have noted, even in this very simple story I have to know what is the normal
+rate of interest; if I am wrong about that, then inflation will be away from target more than the analysis here
+suggests. It is not easy to represent sensibly how policy might evolve in such a situation. If the true normal
+interest rate in Figure 3 were
+
+while policy-makers persisted in believing it were
+
+then inflation would be
+
+permanently off-target. In reality, of course, even policy-makers learn from their past mistakes and it would
+be likely they would follow some sort of learning process of the type illustrated by Bray and Savin (1986).
+This would not be enough to prevent possible errors about the normal rate of interest from being an
+important influence on the outcome, and it would still raise the question whether the risk of this sort of error
+affects the nature of the appropriate policy framework.
+Policy-making when output and inflation matter
+You might also think, quite correctly, that more complicated dynamics would entail more complicated policy
+choices, as would indeed be the case if policy-makers were also concerned directly about deviations of
+output from some steady state value.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+Taylor (1993) suggested that a policy rule of the form:4
+0.5
+where
+
+measures the log of output and
+
+∗
+
+∗
+
+0.5
+
+the log of trend output, so that
+
+∗
+
+is a measure of spare
+
+capacity in the economy, broadly described the behaviour of the US Federal Open Markets Committee.
+Since then, other authors have used a rule of this kind to describe policy in many central banks around the
+world.
+This rule suffers from a practical problem, however. To apply rules of this type it is necessary to know the
+trend path of output, in order to calculate spare capacity, and also the normal rate of interest,
+
+. Orphanides
+
+and van Norden (2002) showed that, in the United States, errors in estimates of spare capacity tended to be
+as large as the estimates of spare capacity themselves. These errors arose not so much because statistics
+were revised as because views on the trend path of output changed with the benefit of hindsight. Even if
+spare capacity is measured by the deviation of unemployment from an equilibrium rate, it is necessary to
+know what that equilibrium rate is. Figure 1 showed how the Committee’s estimates of this have changed
+recently.
+The August Inflation Report (Monetary Policy Committee, 2014) noted:
+“Not surprisingly, there is a wide range of views on the Committee about the likely extent of
+spare capacity in the economy. In the Committee’s best collective judgement, however, the
+degree of slack has narrowed somewhat, and the central estimate is now broadly in the region
+of 1% of GDP”.
+Underlying this statement are two points. To the extent that we can, individually, form judgements about the
+range of possible spare capacity, those ranges are probably fairly wide. Separately, however, the central
+points of these ranges are probably different for different members. It is certainly not true, as some
+journalists have stated, that the Committee believes there is spare capacity in the economy equal to, say, 1%
+of GDP. Uncertainty is not confined to the degree of spare capacity, particularly in the labour market. There
+is also uncertainty about what components of spare capacity have a material influence on inflation (Weale,
+2014a and b) and thus which components the Committee should take into account.
+Even small differences in the estimate of spare capacity can be important in this framework. If the coefficient
+on capacity utilisation were only 0.5, someone who believed the degree of slack was ½%, say, would choose
+an interest rate 0.25pp higher than if they believed that slack was equal to 1%. On top of this, any
+divergence of view about the normal interest rate would be transmitted one for one into a divergence of view
+about the actual interest rate. In a central bank like the Bank of England, where policy is set by voting and
+where we have historically discussed quarter-point increments to the Bank Rate, it is easy to see that a
+4
+
+With an inflation target of 2 per cent per annum and a natural money rate of interest of 4 per cent per annum.
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+relatively narrow range of views about the degree of spare capacity could translate into material differences
+about the appropriate interest rate. Of course, in practice a whole range of other considerations come into
+play, so differences are not as stark as a simple rule suggests.
+Estimates of the natural rate of interest may be thought to be less error-prone than estimates of spare
+capacity, because financial markets provide fairly precise estimates of expected future rates into the almost
+indefinite future. Even here, however, there is bound to be some uncertainty. Just because market traders
+have a view it does not mean that they are right; views of the distant future are, at least from time to time,
+surprisingly sensitive to short-term developments. While the Committee has tried to provide guidance about
+the future path of interest rates, this is not intended to indicate that it knows. The Minutes of our September
+meeting also make clear that
+“The Committee’s guidance on the likely pace and extent of interest rate rises was an expectation,
+not a promise”
+The issue of setting policy when we don’t know either the output gap or the normal rate of interest is, to say
+the least, a pertinent one.
+A policy framework robust to uncertainty about capacity and the natural interest rate
+Consider a structure slightly different from that of the Taylor rule:
+∗
+
+∗
+
+This specification always considers the interest rate relative to where it was in the previous period, rather
+than relative to the normal rate of interest. It says, in effect, that the interest rate should be changed in
+proportion to changes in capacity utilisation and also with reference to the current and lagged inflation rate. If
+I represent changes by the letter D, then I can write the same rule as:
+∗
+
+This rule is, in the language of Philips (1954) proportional in spare capacity, because the change in the
+interest rate is proportional to the change in spare capacity. It is both proportional and integral with respect
+to inflation; the interest rate is changed in proportion to the change in the inflation rate. But the interest rate
+is also adjusted whenever inflation is off-target; the level of the interest rate cumulates up, or integrates,
+deviations of inflation from its target. In turn this ensures that the interest rate will be stable only when
+inflation is on target and thus, if the rule steers the economy to a unique steady state, it will be one in which
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+inflation is on target.5 The rule still involves measurement of the rate of growth of spare capacity and, as I
+have noted, this is uncertain and thus remains a possible source of policy error.
+Orphanides and Williams (2002) and in a succession of subsequent papers study this issue further. They
+suggest a policy rule like that above, but with
+
+6
+
+=0:
+
+∗
+
+They suggest that such a rule performs little worse than the Taylor rule when spare capacity and the normal
+rate of interest are known, but substantially better when they are not known. Their studies suggest that this
+is a fairly general finding, and not just one specific to simple two-equation models. In particular the rule
+seems to be helpful even when there is forward-looking behaviour, i.e. when people’s decisions are
+influenced by expectations of the future. So now I would like to see whether that is the case if I use the
+Bank’s model of the UK economy.
+An exploration using COMPASS – the Bank’s model as a guide to policy-making
+Like all economic models, the Bank’s model, COMPASS, is a simplification rather than a complete
+representation of everything that matters in the economy.7 It leaves out many issues which we know are
+important in practice for the very good reason that we have no satisfactory way of modelling them, and it
+offers nothing more than a guide to the MPC. Nevertheless it represents a coherent organising framework
+that allows the MPC to prepare and analyse its quarterly forecast.
+A key feature of COMPASS, in common with most macro-economic models in use nowadays, is that it
+assumes people respond to expectations about the future as well as to past experiences. Of course people
+can expect anything they like; the model makes the simplifying assumption that people have “rational”
+expectations, in other words that their expectations are consistent with the forecasts generated by the model.
+I would like to use COMPASS to explore the role of uncertainty and policy rules, in a model of the economy
+more realistic than those I studied above. In this model I introduce uncertainty about the amount of spare
+capacity by assuming that firms, households, and indeed the policymakers themselves, have difficulty
+distinguishing between temporary and longer-lasting shocks that hit the economy. In practice, they can all
+observe that a shock has happened; but are initially unsure about its persistence, learning about this only
+gradually. This generates persistent misperceptions of the future evolution of spare capacity.
+
+5
+
+Professor Ron Smith has pointed out that changing the interest rate with reference to the rate of inflation is equivalent to setting the
+interest rate with reference to the price level. That does not mean that such a policy rule is equivalent to price-level targeting.
+6
+Orphanides and Williams use the change in the unemployment rate, which is related to the change in spare capacity; I use the latter,
+to be consistent with my earlier discussion, and the discussion below.
+7
+The Bank introduced a new forecasting platform, including a new model called COMPASS in 2011. COMPASS stands for ‘Central
+Organising Model for Projection Analysis and Scenario Simulation; see Burgess et al (2013).
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+I consider the two rules I outlined above: the Taylor rule, and the Orphanides and Williams rule. With each, I
+look for the parameters that deliver the smallest expected loss, given the shocks that are likely to hit the
+economy. I put equal weight on expected squared deviations of inflation from target, and spare capacity
+from its steady state (zero), together with one-tenth of this weight on expected squared changes in the
+interest rate. This allows me to compare the loss in each case.
+Table 1: Optimised coefficients with alternative policy rules
+Parameter values
+Inflation
+Rule
+
+Spare capacity
+
+Lagged
+
+Current
+
+Current
+
+Change
+
+Policy rate
+
+Loss
+
+2.22
+
+0.38
+
+n.a.
+
+1.00
+
+0.498
+
+0.89
+
+n.a.
+
+0.414
+
+Taylor rule: r(t)
+Orphanides and Williams, without lagged inflation: Dr(t)
+1.96
+
+n.a.
+
+8
+
+Note: The term for inflation measures the deviation of quarterly inflation from the MPC’s target; and the
+measure of spare capacity most suited to the model captures the difference between the actual level of value
+added, and the level that would prevail if all prices and wages were free to adjust completely.
+
+Table 1 shows the results of this exercise with the loss calculated on the assumption that the shocks hitting
+the economy are similar to those which have affected it historically and also that neither the people whose
+behaviour is being modelled nor the policy-maker can distinguish between temporary and persistent
+disturbances except gradually through the sort of learning process I mentioned briefly earlier.
+In exploring these rules my colleagues kindly examined whether the Orphanides and Williams rule could be
+improved by the inclusion of an additional term in the change in inflation. Rather to my surprise, and in
+contrast to what Phillips (1954) suggests, no material improvement was possible.
+Interestingly the Taylor rule finds that the optimised coefficient on the lagged interest rate is 1. This means
+that the choice of interest rate in the current quarter is a combination of what it was in the previous quarter,
+plus the influence of current inflation and spare capacity. This feature is often found in models in which
+forward-looking behaviour is important, in particular expectations of future interest rates. If it is understood
+that the interest rate is set with reference to its previous value, the impact of expectations about Bank Rate in
+the future can be exploited to influence the economy today (Woodford, 2003). In COMPASS, therefore, the
+distinction between the two rules becomes a question of whether Bank Rate should be changed with
+reference to the change in the margin of spare capacity or with reference to its absolute level; in both cases
+the interest rate is being changed with reference to the level of inflation and the level of the normal rate of
+interest is not an issue.
+
+8
+
+Since the inflation target is specified in terms of an annual CPI inflation rate of 2%, the equivalent rate expressed in terms of quarterly
+growth is 0.496% per quarter.
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+While the results are illustrative and not a policy prescription, the rule suggested by Orphanides and Williams
+performs better than the simple Taylor rule. This suggests that it offers a greater degree of robustness, in
+this particular model setup. It is also worth noting that in both cases the coefficient on inflation is large.
+Brainard (1967) suggests that uncertainty about the impact of a change in Bank Rate is a reason for being
+less responsive than this analysis suggests.
+I can now illustrate the performance of the rules in two specific cases. In the first case there is a very
+persistent, but not permanent, fall in the risk premium. This acts as a wedge between Bank Rate and the
+rates of interest typically faced by businesses and households. Thus, because the economy is influenced by
+the rates of interest that people actually face, rather than by Bank Rate, a reduction in the risk premium
+requires a higher value for Bank Rate. The second example is provided by a permanent increase in the
+supply capacity of the economy. I can compare the outcomes in the economy depending on whether the
+policymaker follows the rule suggested by Taylor, or by Orphanides and Williams.
+The results can be shown graphically, by tracing the response of important variables – such as inflation,
+capacity utilisation and GDP growth – following each shock, as determined by the model. We can compare
+the paths of these variables, and see the differences between policies suggested by each rule. Although I
+allow for uncertainty around the persistence of the shocks that hit the economy, I must still assume that
+everyone in the economy understands its structure, including the rule that is used by the policymaker. The
+shock that I simulate is persistent in reality, but I assume that people believe a temporary shock is much
+more likely than a persistent one. This way, as their expectations are not met, they learn with each passing
+period that the shock is more persistent than they had previously believed.
+This is again illustrative; in practice the economy is constantly being hit by many different shocks at once. I
+cannot use the model to tell me which shock is hitting at any one point in time. But it provides another
+perspective on the comparisons of expected loss I discussed above.
+Figure 5 shows the effects of the risk premium shock and the economy’s response to it. This narrows the
+gap between the policy interest rate and the cost of borrowing faced by households and firms by 50bps,
+which stimulates demand, which in turn is likely to push inflation above its target rate. In response, both the
+Taylor, and Orphanides and Williams rules imply that the policy interest rate should rise, although the latter
+suggests a much sharper tightening. In both cases, this succeeds in curbing the inflationary pressure,
+although under the Orphanides and Williams rule, inflation remains much closer to target. This offsets the
+penalty from having a slightly wider output gap than under the Taylor rule.
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+Figure 5: The Response to a fall in the Risk Premium
+
+Quarterly Inflation (per cent)
+
+Spare Capacity (per cent)
+
+0.05
+
+0.35
+0.3
+
+0
+0.25
+-0.05
+
+0.2
+
+-0.1
+
+0.15
+0.1
+
+-0.15
+-0.2
+
+0.05
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+0
+
+0
+
+5
+
+Quarterly GDP growth (per cent)
+
+10
+
+15
+
+20
+
+25
+
+30
+
+25
+
+30
+
+Policy rate (annualised)
+
+0.04
+
+0.8
+
+0.02
+
+0.6
+
+0
+0.4
+-0.02
+0.2
+
+-0.04
+-0.06
+
+Taylor rule
+Orphanides & Williams
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+Secondly, I examine a positive shock to supply in Figure 6. There is a jump in the growth of labour
+productivity, and although this growth effect eventually dissipates, it leaves the level of labour productivity
+permanently higher. There is uncertainty over the persistence of the boost to growth, with people at first
+believing it to be temporary, and learning only gradually that it is more persistent. Once again, the
+Orphanides and Williams rule leads to a more stable path of inflation, albeit at a cost of a slightly wider
+output gap. The response of the interest rate differs between models – the Taylor rule suggests policy
+should loosen, while the Orphanides and Williams rule points to a slight tightening, but in both cases the size
+of changes is small.
+In looking at these simulations one important thing has to be borne in mind. If the economy is not influenced
+by expectations, then it makes sense to talk, for example, of interest rates responding to inflation. In a
+forward looking model, however, inflation is also responding to future interest rates and expected future
+inflation; for practical purposes they are therefore jointly determined.
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+Figure 6: The Response to an Increase in Supply
+
+Quarterly Inflation (per cent)
+
+Spare Capacity (per cent)
+
+0.02
+
+0.14
+
+0
+
+0.12
+0.1
+
+-0.02
+
+0.08
+-0.04
+0.06
+-0.06
+
+0.04
+
+-0.08
+-0.1
+
+0.02
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+0
+
+0
+
+5
+
+Quarterly GDP growth (per cent)
+0.1
+
+0.08
+
+0.05
+
+0.06
+
+0
+
+0.04
+
+-0.05
+
+0
+
+5
+
+10
+
+15
+
+20
+
+20
+
+25
+
+30
+
+25
+
+30
+
+-0.1
+
+Taylor rule
+Orphanides & Williams
+0
+
+15
+
+Policy rate (annualised)
+
+0.1
+
+0.02
+
+10
+
+25
+
+30
+
+-0.15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+In both these examples the Orphanides and Williams rule delivers better control of inflation with a similar
+path for GDP and spare capacity. One should not assume that such clear out-performance of the Taylor rule
+is typical, although the loss shown in Table 1 is materially lower for this rule. Nevertheless these examples
+do illustrate how there can be benefits to setting policy with reference to the change in, rather than the level
+of, the margin of spare capacity.
+Policy and an interest rate floor
+The previous analysis has been carried out on the assumption that the interest rate is fully flexible. Of
+course, over the last five years Bank Rate has been at what for all practical purposes, is a floor of ½ per cent
+per annum and you might ask whether or how far this makes a difference.
+Suppose that there were a large margin of spare capacity. This might be the outcome of a situation in which
+policy-makers had reduced the interest rate to its floor, and had been unable to reduce it further. A policy rule
+which related the change in Bank Rate to the change in the margin of spare capacity would suggest that a
+start should be made with policy tightening immediately the margin of spare capacity started to decline.
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+Such an approach is, to say the least, not very appealing. If policy-makers would have liked to reduce the
+interest rate further as the margin of spare capacity widened, but were unable to do so because of the
+interest rate floor, it would not be sensible to start raising Bank Rate immediately the margin of spare
+capacity started to diminish. Rather policy-makers would judge, as best they could, when the situation had
+improved to such an extent that they no longer wanted the interest rate to be below its practical floor, before
+thinking of setting policy with reference to the change in the margin of spare capacity.
+At this point it is important to make a careful distinction between different types of policy rule. Brendon,
+Paustian and Yates (2013) analyse the hazards of setting out a policy in terms of the rate of change of spare
+capacity in a situation where the zero lower bound is material. They find that, in some circumstances, a
+policy of setting the level of the interest rate with reference to the change in the margin of spare capacity can
+lead to self-sustaining stagnation. Essentially people anticipate the effects of a tightening of policy as the
+economy recovers from its stagnation and anticipation of this tightening strangles the recovery. They
+address, however, a situation different from that I have considered above. As I mentioned, they relate the
+level of the interest rate to an indicator of the change in the margin of spare capacity; this is very different
+from the approach I have described here of relating the change in the interest rate to the change in the
+margin of spare capacity. Thus it is not clear how
+far that is relevant to the situation that I have
+Figure 7: The Unemployment Rate and its Change over
+12 Months
+
+discussed here; one of the points which emerges
+from their work is, however, that the situation is
+
+Unemployment rate (per cent)
+
+12
+10
+
+much more likely to arise when the response to
+the change in the margin of capacity is strong
+rather than when it is weak.
+
+8
+6
+4
+
+My simulations with the COMPASS model, like
+the earlier analysis, are illustrative. But I hope
+that the discussion has explained why I think it
+
+1982
+
+1987
+
+1993
+
+may be sensible for policy-makers to give some
+
+0
+
+attention to the rate at which spare capacity is
+
+‐2
+
+Unemployment
+Change in unemployment
+1976
+
+2
+
+1998
+
+2004
+
+2009
+
+being used up, and not to focus solely on
+estimates of the amount of spare capacity.
+
+‐4
+
+Source: ONS and Bank calculations.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+Policy influences in practice
+
+Figure 8: Average Weekly Earnings and Survey
+Indicators of Pay Pressures
+Percentage changes on a year earlier
+
+My own sense is that the margin of spare capacity
+6
+
+Private sector regular AWE growth
+
+is now small and it is currently being used up
+
+5
+
+rapidly. In addition the uncertainties surrounding
+
+4
+
+the likely margin are now large, relative to the
+
+3
+
+best estimate of the level. Against this backdrop,
+
+2
+
+I would like to turn to some factors that have
+affected my policy decision in practice.
+
+1
+0
+
+Swathe of mean and variance
+adjusted survey balances
+
+‐2
+2007
+
+2009
+
+2011
+
+Spare Capacity and Earnings Growth
+
+‐1
+
+2013
+
+Source: ONS and Bank calculations
+
+In Monetary Policy Trade-offs and Forward
+Guidance (2013) the Monetary Policy Committee
+set out reasons why it thought it was sensible to
+use unemployment as an indicator of spare
+capacity, at least in the labour market.9 Since
+
+then there have been questions raised about the role of under-employment (Weale, 2014a) and also about
+the movement in labour force participation as discussed in the August Inflation Report (Monetary Policy
+Committee, 2014). Here I will focus on unemployment.
+As Figure 7 shows, the rate at which unemployment has fallen over the last year is unusually rapid. It is true
+that it was falling faster in the late 1980s, but this was from a higher starting point. In any case most people,
+looking back, would think that in that period monetary policy should have been tighter than was actually the
+case. While we cannot be certain about the margin of excess capacity in the labour market, it is clear that it
+is being used up rapidly.
+The main argument adopted to suggest that there is more spare capacity than might have been thought say
+six months ago is that wage growth, measured by Average Weekly Earnings has been very weak (Weale,
+2014b, Broadbent, 2014). Figure 8 shows the divergence which has developed between Average Weekly
+Earnings and a range of other indicators of pay growth over the last year or so. Most of the businesses I talk
+to discuss settlements in the range of two to three per cent, and the Bank’s Agents report that businesses
+say that the labour market is tightening and recruiting is becoming harder. That is not to say that AWE is
+wrong. One factor behind the weak growth in earnings may be that, after a fairly long period in which
+newly-employed people had spent a disproportionate length of time in education, recently those going back
+to work, have spent fewer years in education and in consequence are paid less than the average. With a
+
+9
+
+An important part of the argument for using this was that it was robust to uncertainty about future productivity.
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+very rapid growth in employment such as we have seen over the last fifteen months or so, this depresses the
+rate of average pay growth. 10
+That is not to say that I think underlying pay is already growing faster than is compatible with the inflation
+target. Rather it is that, the tightening of the labour market means that, instead of waiting to see wage
+growth pick up, I think it is appropriate to anticipate that wage growth. The margin of spare capacity is
+shrinking rapidly and all logic suggests that that ought to lead to an increase in inflationary pressures over
+the two to three year horizon which concerns the Committee. An increase in Bank Rate of ¼ point would be
+unlikely to slow that process to a halt immediately but there is a risk that, if the increase were delayed,
+inflation would be pushed above target or a rather sharper increase in Bank Rate would be needed
+subsequently.
+The Current Rate of Inflation
+The policy rules that I have presented also have some role for the current rate of inflation. As you know, that
+is currently at 1.2%, well below target; these rules imply that a low rate of inflation might offset the impact of
+a rapidly diminishing margin of spare capacity as an influence on appropriate policy.
+My sense is that the current inflation rate has been significantly depressed by the recent rise of the exchange
+rate and falling commodity prices. During the period after the exchange rate fell in 2008 the Monetary Policy
+Committee said, rightly in my view, that it was looking through the direct effects of the exchange rate and the
+prices of imported commodities on the domestic price level; it did not respond to the fact that higher import
+prices had a direct influence on the inflation rate. Both at the time and with hindsight I have thought that that
+was the right policy.
+A rise in the rate of VAT, say, in January, raises prices in January. This affects the rate of growth of the
+Consumer Price Index over a twelve-month window until the following December. Nevertheless by February
+the Monetary Policy Committee cannot influence, in any way, the movement of prices in January and it
+makes obvious sense to look through this rather than to impose a squeeze on the economy in subsequent
+months. The longer that exogenous price movements, such as commodity price changes or those arising
+from exchange rate changes, take to pass through the supply chain, the more practical it is for monetary
+policy to try to influence them. Even so, unless they start to affect purely domestic costs it can still be argued
+that their effects will eventually die away; on those grounds the Committee looked through the first-round
+effects of the exchange rate fall in 2007/8 and the effects of the subsequent rises in oil and other raw
+material prices.
+How far should this argument apply on the downside, as the exchange rate rises or commodity prices fall?
+There is a risk that, if inflation falls to very low levels, it might then be difficult to respond by means of cutting
+10
+
+The number of employees has grown by 1.7 per cent over the last year
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+interest rates, because there is an effective floor of ½ per cent to the Bank Rate. As price falls feed through
+the supply chain after a downward shock to commodity prices the real interest rate is increased. If the Bank
+Rate is already at its floor it cannot be reduced to offset any impact of this on demand. Thus, to ensure that
+the impact on expected inflation is the same in both cases, it might be necessary to look through price
+changes less than fully on the downside; the extent to which there is any asymmetry of behaviour must
+depend on a judgement of the risks involved. The key is to ensure, as best we can, that there is no
+asymmetry in terms of the expected impact of such shocks on inflation. Of course if one takes the view that,
+when Bank Rate is at its floor, there are other tools by which the inflation rate can be supported, then the
+Committee should look through first round effects on the upside and downside equally.
+The August Inflation Report (p. 32) suggested that, although the impact of the exchange rate change is not
+yet as large, it was expected to build up to about ½ per cent or so at the end of next year. On top of this, as I
+have noted there are other influences on the current inflation rate from cheaper petrol and falls in prices of
+other raw materials. While we will explore in the November forecast round the impact of these on
+prospective inflation, my current sense is that they account for an important part of the gap between current
+inflation and its target.
+The Relationship to Setting Policy with Reference to Forecast Inflation
+Finally I should add that none of the issues I have raised here are meant to suggest that the Monetary Policy
+Committee should depart from its framework of setting Bank Rate with reference to inflation as forecast in
+two to three years’ time. Rather, I have been exploring the very practical problem that the Committee faces,
+setting policy while being uncertain about the margin of spare capacity and thus about the implications of
+future economic growth for future spare capacity and future inflationary pressure. For reasons of simplicity I
+have looked at policy rules specified in terms of actual inflation and the change in spare capacity, but it is
+also possible to specify them in terms of forecast inflation. Indeed, in a forward-looking framework that may
+well work better than does current inflation. As the discussion above implies, depending on how this is done,
+it might also go some way to addressing the issue of distortions to the current rate of inflation arising from
+price level effects.
+Conclusions
+Professor Wilson (1986, p.394) argued that a central bank “should cushion the economy against the effects
+of fluctuations in the national income”. I think that the MPC’s current mandate requires us to do that within
+the overall envelope of the inflation target and I hope that Professor Wilson would regard the framework I
+have set out here as consistent with that.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+16
+
+No one would want to follow the signal from a policy rule of the sort that I have presented here to the
+exclusion of all other considerations and I am not proposing that.11 In voting at our monthly meetings I will
+continue to consider a wide range of issues including, of course, what is happening on the continent and
+more broadly to the international economy as well as what is going on at home. Policy-setting needs to react
+to these and meeting frequently means that we can react in a timely fashion. The point I do want to make,
+however, is that, when forming my view on the appropriate setting of Bank Rate, I am looking at, among
+other indicators, the speed with which the margin of spare capacity is declining as a guide to prospects for
+wage pressures in the second half of next year. The best indicator of this is probably the rate at which
+unemployment is falling. Underlying the analysis is the implication that the rate of change of spare capacity
+can be informative about expected future inflation and therefore that policy-setting should pay some attention
+to this.
+
+11
+
+Miles (2014) draws attention to the risk that, if the rule is precisely defined, people may assume that it will be followed come what may
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+17
+
+References
+Bean, C. (2013). ‘Note on Negative Interest Rates for Treasury Committee’, 16th May
+http://www.bankofengland.co.uk/publications/Documents/other/treasurycommittee/ir/tsc160513.
+Benati, L. and P. Surico (2009). ‘VAR Analysis and the Great Moderation’, American Economic Review, 99
+(4), 1636-52.
+Brainard, W.H. (1967) ‘Uncertainty and the Effectiveness of Policy’, American Economic Review Papers and
+Proceedings, 57, 411-425.
+Bray, M. and N. E. Savin. (1986). ‘Rational Expectations Equilibria, Learning and Model Specification’,
+Econometrica, 54, 1129-1160.
+Brendon, C., M. Paustian and T. Yates. (2013). ‘The Pitfalls of Speed-limit Interest Rate Rules at the Zero
+Lower Bound’, Bank of England Working Paper 473.
+Broadbent, B. (2014). ‘Unemployment and the Conduct of Monetary Policy’, speech given at the
+Federal Reserve Bank of Kansas City 38th Economic Symposium, Jackson Hole, Wyoming.
+Burgess, S., E. Fernandez-Corugedo, C. Groth, R. Harrison, F. Monti, K. Theodoridis and M. Waldron.
+(2013), ‘The Bank of England’s forecasting platform’, Bank of England Working Paper 471.
+Cochrane, J.H. (2011). ‘Determinacy and Identification with Taylor Rules’, Journal of Political Economy,
+119, 565-615.
+HM Treasury (2014). Remit for the Monetary Policy Committee.
+http://www.bankofengland.co.uk/monetarypolicy/Documents/pdf/chancellorletter140319.pdf
+Miles, D.K. (2014). Mensch tracht und Gott lacht: Giving Guidance on Future Monetary Policy. Speech given
+at the London School of Economics. 30th September 2014.
+Monetary Policy Committee. (2013). Monetary Policy Trade-offs and Forward Guidance.
+Monetary Policy Committee. (2014). Inflation Report. August 2014.
+Orphanides, A. and J.C. Williams. (2002). ‘Robust Monetary Policy Rules with Unknown Natural Rates’,
+Brookings Papers on Economic Activity, 2, 63–118.
+Orphanides, A. and S. van Norden. (2002). ‘The Unreliability of Output Gap Estimates in Real Time’,
+Review of Economics and Statistics, 84, 569-583.
+Phillips, A. W. A. (1954). ‘Stabilisation in a Closed Economy’, Economic Journal, 65, 290-323.
+Taylor, J. (1993). ‘Discretion versus Policy Rules in Practice’, Carnegie-Rochester Conference Series on
+Public Policy, 39, 195-214.
+Taylor, J. and J.C. Williams. (2010). ‘Simple and Robust Rules for Monetary Policy’, in Handbook of
+Monetary Economics Vol 3B, 829-859. Elsevier- North Holland.
+Weale, M. (2014a). Slack and the Labour Market. Speech to Thames Valley Chamber of Commerce.
+Windsor. 20th March 2014.
+Weale, M. (2014b). Spare Capacity and Inflation. Speech to CBI. Belfast. 18th June.
+Wilson, J.S.G. (1986). Banking Structure and Policy: a Comparative Analysis. Coom Helm. London and
+Sydney.
+Woodford, M. (2003). ‘Optimal Interest Rate Smoothing’, Review of Economic Studies, 70, 861-886.
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+18
+
+

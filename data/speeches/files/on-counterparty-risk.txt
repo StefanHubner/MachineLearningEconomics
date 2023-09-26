@@ -1,0 +1,235 @@
+Lead Comment
+On counterparty risk
+Received (in revised form): 18th April, 2012
+
+Andrew G. Haldane
+is Executive Director, Financial Stability at the Bank of England. In this role, Andrew has responsibility for
+developing Bank policy on financial stability issues and the management of the Financial Stability Area, and is
+a member of the Bank’s new Financial Policy Committee. He is also a member of various international public
+policy committees, economics associations, editorial boards and academic advisory committees. Andrew has
+written extensively on domestic and international monetary and financial stability issues, authoring around
+100 articles and three books.
+Bank of England, Threadneedle Street, London EC2R 8AH, UK
+E-mail: andy.haldane@bankofengland.co.uk
+
+Abstract The financial crisis demonstrated the inadequacy of the management
+of counterparty credit risk and the vulnerability of financial structures to
+counterparty concerns. Three possible solutions are proposed to mitigate such
+risks in the future: improved network visibility to understand credit chains; the
+clearing of transactions centrally to improve transparency and reduce intrafinancial system debt; and building protection against counterparty default
+through higher capital and margining requirements.
+Keywords: counterparty risk, contagion, financial crises, systemic risk,
+interbank markets
+
+Consider the following thoughtexperiment. Imagine a set of banks,
+indexed 1 to 100. Bank 1 lends US$100
+to Bank 2. This is a private transaction in
+the unsecured money market. Bank 2
+then lends that US$100 on to Bank 3,
+who in turn lends on to Bank 4, all the
+way up to Bank 100.
+This is a classic credit chain. In
+principle, this credit chain seems to be
+relatively robust. After all, net debt in the
+financial system is only US$100, evenly
+distributed across 100 institutions. Or,
+put differently, each bank has on average
+only US$1.00 of net debt. Risk is
+well-spread, is it not?
+It is not. This financial structure is an
+inherently fragile one. Specifically, it
+224
+
+contains three distinct, but related,
+structural fault-lines:1
+
+† Counterparty risk is unmonitorable: In the
+example, Bank 1’s ultimate counterparty
+is Bank 100, but there are 99 intervening
+links in the chain, 99 degrees of
+separation and Bank 1 has no way of
+knowing the identity of all those
+counterparties to which it is exposed —
+Banks 2– 100 in the credit chain. The
+credit chain is largely invisible.
+† Gross debt is unbounded: Although net
+debt in this system is small, gross debt is
+much larger and potentially unbounded.
+Specifically, gross debt rises with the
+number of links in the credit chain (n).
+
+Journal of Risk Management in Financial Institutions Vol. 5, 3 224–226 Henry Stewart Publications 1752-8887 (2012)
+
+On counterparty risk
+In the example, gross debt is (n – 1)
+US$100 ¼ US$9,900.
+† Counterparty risk is unhedged: In the
+example, because no collateral or capital is
+held against exposures, a severing of any
+link cascades along the credit chain. For
+example, if Bank 100 falls, so too does
+every other link in the chain. Aggregate
+default would then be US$9,900, with
+commensurately high deadweight costs.
+The financial system is a domino line.
+
+This financial structure is not a
+hypothetical one. It broadly characterises
+the unsecured money market during the
+crisis and the identified structural
+fault-lines were the very ones which
+caused this market to suffer seizure
+during the crisis. At root, these
+fault-lines reflect failures in counterparty
+risk management.
+These pressures were not confined to
+the money market. The same fault-lines
+in counterparty risk management were
+exposed in any number of core financial
+markets during the crisis, from
+plain-vanilla asset-backed securities to
+exotic instruments. In each case,
+counterparty concerns caused seizure. Of
+the many crisis lessons learned, the
+crippling impact of counterparty risk,
+and the inadequacy of its pre-crisis
+management, were among the most
+important.
+Against that background, this edition
+of the Journal of Risk Management in
+Financial Institutions explores counterparty
+risk and the ways in which in the future
+it might be better understood, priced
+and managed. The thought-experiment
+in the introduction provides a convenient
+taxonomy of possible solutions to the
+counterparty risk problem. It also
+provides an organising framework for the
+papers in this volume.
+
+† Improving network visibility: Knowing your
+counterparty is one thing. Knowing
+your counterparties’ counterparties’
+counterparty quite another. It was the
+latter, higher-order, uncertainty that
+killed financial markets during the crisis.
+Such financial network opacity can only
+be tackled by a fairly fundamental rethink
+of the way in which financial transactions
+are identified and recorded. Without
+common identifiers — of counterparties,
+transaction types, product attributes — it
+is difficult to see how the network could
+ever be navigated. Elsewhere, I have
+called this the creation of a ‘common
+language for finance’, the like of which
+already exists for other well-performing
+networks — for example, global supply
+chains and the internet.2 The papers by
+Grody, Hughes and Reininger and by
+Krishna explore dimensions of, and
+solutions to, this network opacity
+problem.
+† Central counterparty clearing: Another route
+to improving network transparency, while
+simultaneously reducing gross exposures
+through netting, is to reconfigure the
+financial network — for example, from
+today’s spaghetti-junction configuration
+to an ordered hub-and-spoke
+configuration. A central counterparty is
+the obvious mechanism for achieving
+such a re-wiring. The G20 Heads of
+State in 2009 committed the financial
+world to central-clearing of a much
+wider range of over-the-counter financial
+products than in the past, but this will be
+effective if, and only if, central
+counterparties themselves have robust
+counterparty risk management: who is
+allowed to clear, what is to be cleared,
+how is margin set and how are any
+remaining risks managed and allocated?
+The papers by Arnsdorf and by Murphy
+analyse those questions. They are the
+
+Henry Stewart Publications 1752-8887 (2012) Vol. 5, 3 224– 226 Journal of Risk Management in Financial Institutions
+
+225
+
+Haldane
+same questions being addressed by the
+official community.3 The stakes could
+not be higher. Without adequate
+answers, as the paper by Singh argues,
+central counterparties risk themselves
+becoming a new, more virulent, strain of
+the systemic virus.
+† Protecting against counterparty default: Not
+all transactions, both derivative and cash
+instruments, will be centrally cleared, but
+for those instruments, counterparty risk
+is no less a concern. That is why
+on-going work by the official sector on
+minimum margining requirements for
+non-cleared trades is of such importance.
+It is also why adequate capitalisation of
+counterparty risk in non-collateralised
+derivative transactions is important.
+These so-called credit valuation
+adjustments (CVA) were beefed-up under
+Basel III.4 The paper by Rosen explores
+the adequacy and calibration of CVA.
+
+Taken together, these papers make
+clear there is an enormous amount still
+to be said and done before counterparty
+risk is properly recognised and managed.
+That is the bad news. The good news is
+that the technological frontier of
+counterparty risk management is being
+pushed out by financial firms, central
+counterparties and systemic risk
+regulators. This is one silver lining from
+
+226
+
+the darkest of crisis clouds — even if
+those clouds are yet to lift and even
+though the technological frontier has
+much further to travel.
+# The Governor and Company of the
+
+Bank of England, 2012
+
+References and notes
+1 For a discussion of the risk of maturity
+mismatch in credit chains, see Hellwig,
+M. (1995) ‘Systemic aspects of risk
+management in banking and finance’,
+Swiss Journal of Economics and Statistics,
+Vol. 131, No. 4/2, pp. 723– 737.
+2 Ali, R. D., Haldane, A. G. and
+Nahai-Williamson, P. (2012) ‘Towards a
+common financial language’, available at:
+http://www.bankofengland.co.uk/
+publications/Documents/speeches/2012/
+speech552.pdf (accessed 20th April, 2012).
+3 See Committee on Payment and
+Settlement Systems (CPSS) and the
+Technical Committee of the International
+Organization of Securities Commissions
+(IOSCO) (2012) ‘Principles for financial
+market infrastructures’, available at: http://
+www.bis.org/publ/cpss101a.pdf (accessed
+20th April, 2012).
+4 Basel Committee on Banking Supervision
+(BCBS) (2011) ‘Basel III: A global
+regulatory framework for more resilient
+banks and banking systems’, available at:
+http://www.bis.org/publ/bcbs189_
+dec2010.htm (accessed 20th April, 2012).
+
+Journal of Risk Management in Financial Institutions Vol. 5, 3 224–226 Henry Stewart Publications 1752-8887 (2012)
+
+

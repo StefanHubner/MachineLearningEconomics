@@ -1,0 +1,855 @@
+Will UK investment bounce back?
+Speech given by
+Jonathan Haskel, External Member of the Monetary Policy Committee
+
+University of Birmingham
+11 March 2019
+
+I am immensely grateful to Srdan Tatomir and Jamie Lenney for their invaluable comments and
+assistance with the speech. My thanks also go to Sandra Batten, James Bell, Ben Broadbent,
+Alan Castle, Clare Cowan, Jon Cunliffe, Mike Goldby, Clare Macallan, Marko Melolinna,
+Darren Morgan, Michael Saunders, Michal Stelmach, Matt Swannell, Jan Vlieghe, and Stian Westlake
+for very helpful suggestions. Errors and opinions are my own.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Good afternoon.
+
+Thank you all for coming today. It is an honour for me to be here at the University of Birmingham. I am
+pleased to be renewing the connection that I made with the University over the years that I was an external
+examiner here in the Economics Department working with Ralf Bailey who ran the exams process with such
+care and attention. Thousands of students don’t know it but they owe a huge debt of gratitude to him.
+
+I come here not as an external examiner but as an external member of the UK Monetary Policy Committee,
+having joined the Committee in September last year. For those of you who don’t know, external members
+are accountable in a formal sense through direct reporting to Parliament, but in an informal sense through
+public appearances and making speeches to explain their thinking and votes on interest rates. Actually, this
+is my first speech as a member, so it’s a double honour to be back here and to be invited by Professor Peter
+Sinclair whose work for the Bank is so valuable.
+
+Today I will focus on the role of UK business investment. There are three broad points I would like to make.
+First, as has been widely noted, UK investment has been very weak in the last couple of years, especially
+during the last year, see for example speeches by (Carney, 2019) and (Vlieghe, 2019) suggesting that Brexit
+uncertainty is weighing on business investment. Second, looking at the assets that make up investment
+reveals some interesting patterns: transport equipment has been particularly weak, but intellectual property
+products (R&D, software, artistic originals) were somewhat stronger. Third, regarding Brexit, as Sir Ivan
+Rogers, the UK’s former representative to the EU, has said (Rogers, 2018), “Brexit is a process not an
+event”. That process has the possibility of creating more cliff-edges; the length of the
+transitional/implementation period, for example. Since the very nature of investment is that it needs payback
+over a period of time there is a risk that prolonged uncertainty around the Brexit process might continue to
+weigh down on investment.
+
+1. Background
+1.1 What is investment?1
+“Investment”, “assets” and “capital” can be confusing terms. Financial journalists typically refer to people who
+buy and sell stocks and shares as “investors” and try to describe and justify the “mood of investors”. Other
+commentators call long-termist share-buyers like Warren Buffett an “investor” and his short-termist rivals a
+“speculator”. Your parents might have advised you that “going to university is the best investment you can
+make”.
+
+1
+
+This discussion follows (Haskel & Westlake, 2018)
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+Matters get even more confusing when we come to “capital”. Accountants talk about “working capital” when
+they describe what others call cash. Piketty’s book (Piketty, 2014) defined capital as any form of wealth (“all
+forms of wealth that individuals… can own”). Scholars are still arguing about what Marx meant by “capital”
+(he talked about fixed and circulating capital, sometimes referring to machines and sometimes to labour,
+sometimes stocks and sometimes flows).
+So let’s try to be clearer by going to internationally recognised definitions. The OECD defines investment
+(actually gross fixed capital formation) as “net acquisition of produced fixed assets” (OECD, 2014). How
+does that help us?
+The definition covers a “produced asset”. An asset is an economic resource that is expected to provide a
+benefit over a period of time e.g. a computer or building or software programme, rather than paying the
+electricity bill. A produced asset results from using up resources in the process of production: producing a
+plane or doing R&D. This immediately excludes a “financial” asset, since that’s just a piece of paper. So,
+spending on a stock or share or savings bond is not investment in these terms. It does buy you an asset (e.g.
+a share that pays dividends over time) but it is not spending on a produced asset. Furthermore, the use of
+produced assets restricts attention to where production is recognised in the national accounts. A nonproduced asset is land, forest and minerals, for example. In addition, national accounts measure production
+by firms or government or the third sector2. If a restaurant buys a dishwasher machine it is investing. If you
+or I buy a dishwasher to use at home, we are not investing since households are not assumed to be
+producing (investment in new domestic housing is an exception here - see below3). Finally, fixed assets
+exclude inventories.
+
+In this speech then, we are not going to look at investment as buying financial assets, or domestic spending
+such as cars, dishwashers and university fees. Rather, we will focus on spending by business, government
+or the third sector that creates a long-lived stream of productive services4.
+
+1.2 A first look at investment
+To fix ideas, Table 1 contains nominal investment5 in the UK for 2018. As the top line sets out, it was close
+to £360bn. Remembering that nominal GDP is £2.1 trillion, this is around 17% of GDP. That is to say, that
+of £100 of GDP, every year the economy puts aside around £17 to invest for the future.
+
+2
+
+The third sector refers to non-governmental and non-profit-making organisations including charities, voluntary and community groups,
+cooperatives, etc.
+3
+The exclusion from GDP of household activities such as housework, child care etc. is of course highly controversial, not least since it
+excludes from GDP a very large part of the economy where tasks have historically been performed primarily by women, see (Coyle,
+2015).
+4
+The fixed asset that provided these long-lived productive services, an aircraft, computer or building we shall call “capital”. Capital as
+wealth is their asset value i.e. the value of such assets if they were sold as a whole. Capital as providing capital services are
+proportional to their rental values.
+5
+In national accounts the term gross fixed capital formation is used.
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+The rows then parse out the components of investment, beginning with housing investment. At first sight,
+this would seem not to belong: isn’t this a household spend, like a dishwasher, that we just excluded? This
+then is an illustration of the point that the boundaries of GDP are actually rather porous: housing is such a
+big-ticket item that national accountants include it as investment. We shall, in this speech, focus on business
+investment and so exclude it from now on6.
+
+Business investment is decomposed into buildings, plant and machinery (including ICT goods), transport
+equipment and intellectual property products. Over time, investment in intellectual property products (IPP)
+has been steadily growing and this is where the “knowledge economy” sits, for IPP consists of investment in
+software, artistic originals and R&D. Thus, it is the category that is perhaps the hardest to measure (how
+much is investment in a Harry Potter movie or new software for Game of Thrones?), but over the long term is
+growing in share: on all this, see (Haskel & Westlake, 2018).
+Table 1 – Gross fixed capital formation in the United Kingdom in 2018 by institutional sector and
+asset type
+
+6
+
+Household investment in dwellings excludes the value of land, since land is viewed, in the UK national accounts, as a non-produced
+asset, see above.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+1.3 Why investment matters
+
+For a monetary policy maker investment is doubly important because of its role on both the supply and
+demand side. The supply side role follows directly from the discussion above. Investment builds capital
+assets that provide productive services (“capital deepening” is the growth in those capital services per hour
+worked over time). Such capital deepening, over long periods, typically accounts for over 50% of productivity
+growth in the UK (the rest being, in a sense to be defined later, the efficacy of use of those services).
+
+At the same time, gross domestic product is defined as the sum of the value of consumption, investment,
+government expenditure and demand for net exports. Despite business investment being a small share of
+GDP of around 9% it is a highly variable component7 which is illustrated in Figure 1.
+Figure 1 – The volatility of business investment relative to household consumption and GDP
+
+Now, since a monetary policymaker is concerned primarily with inflation, how does investment matter
+specifically?
+The point is that investment affects both aggregate demand and aggregate supply. When investment in the
+economy grows this increases demand for goods and services used to invest. For example, when a
+company buys computers and software it directly spends money to acquire them. All else equal, that exerts
+
+7
+
+For example, business investment is around 3.5 times more variable than household consumption. This compares the standard
+deviation of annual growth of business investment to household consumption over the period 1998-2018.
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+upward inflationary pressure. But, what happens once those computers and software are installed and up
+and running? Once that occurs then the company's productive capacity increases and it can supply more of
+its products to consumers. All else equal, this increases aggregate supply and exerts downward inflationary
+pressure. With this in mind, let me turn to the data and recent trends in business investment.
+2. Recent trends in business investment
+2.1 UK top line business investment
+With this as background, Figure 2a shows real UK business investment since 1998 (the black line, ignore
+the other lines for the moment). The figure shows the stark fall in business investment during the great
+recession, a slow recovery that appeared to have gathered momentum in 2014 and 2015 but has tailed off in
+the most recent years, starting in 2016, with a noticeable dip in 20188.
+Figure 2a – The level of business investment in the United Kingdom since 1998
+£ billions (CVM, 2016)
+Business investment
+55
+
+Avg. growth rate (1998-2007)
+Avg. ratio to GDP (1998-2007)
+50
+
+45
+
+40
+
+35
+
+30
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+
+Source: ONS and Bank calculations.
+Note: The red dotted line grows out real business investment in 2008 Q1 in line with it s average quarterly growth rate of 0.5 percent realised over
+the period 1998-2007. The blue dashed line is 9.7 percent of realised GDP, where 9.7 percent is the average ratio of real business investment to
+real GDP between 1998 and 2007.
+The last datapoint is for 2018 Q4. Ticks marks along the horizontel axis correspond to Q1.
+
+This figure suggests visually that investment has been weak in recent years. To be more precise we really
+need to measure investment relative to some counterfactual. Figure 2a shows two. The first is the
+continuation of the 1998-2007 trend and the second is the average I/Y ratio 1998-07 (for students of
+8
+
+In two speeches in 2014 my colleagues (Broadbent, The balance of growth, 2014) and (McCafferty, 2014) asked why the recovery in
+investment had been so weak. That question was asked relative to consumption growth which had been relatively strong. It is also the
+case that the path of investment was weaker relative to the path following previous downturns. This is shown in Chart 2.3 on page 10 of
+the February 2019 Inflation Report.
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+economics, that second line is an assumption made by Solow, namely that I=sY). Both show investment
+weakness. Figure 2b shows another possible counterfactual, namely UK business investment growth
+against a swathe showing the maximum and minimum of non-UK G7 business investment for each year.
+This illustrates that the UK has fallen away from its peers with whom they normally co-move.
+Figure 2b – UK business investment relative to other G7 countries
+
+Annual % change
+
+G7 ex. UK
+UK
+
+20
+15
+10
+5
+0
+-5
+-10
+-15
+-20
+-25
+-30
+
+Source: Datastream from Refinitiv.
+Note: The last value displayed is for 2018 Q3. Tick marks along the horizontal axis
+correspond to Q1.
+
+One feature of investment data is that it gets revised. The standard deviation around the difference between
+when a calendar year’s investment growth is first reported and the revised figure reported one year later is
+about four percentage points9. Recent methodological improvements, however, should have brought this
+figure down. For example, there are some well-known biases in data collection whereby firms that respond to
+the ONS survey later report higher capital expenditure, which are being corrected for. In addition, the ONS
+survey sample size has risen by 10% and response rates have improved now that the entire survey is online.
+So, we can place more weight on the weak business investment numbers than we might have at this stage in
+the past. Indeed, this has been the case for the quarter to quarter revisions since 2016 Q110.
+2.2 Exploring the investment decline
+We’ve looked at the picture for total UK business investment. As we have seen however, investment
+consists of many asset types which might potentially behave very differently. Do we learn anything new from
+looking at these?
+
+9
+
+Based on ONS revisions triangles over the period 1998-2018.
+The average absolute revision has fallen from 1.1 percentage points over the period 1998-2015 to 0.4 percentage points over the
+period 2016-2018.
+10
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+Table 2 shows average growth rates over different periods of business investment11, and its subcomponents,
+with the final columns showing data post-EU referendum and for 2018. There are three key points. First,
+transport equipment is very volatile with a strong fall after the referendum. Second, the final row excludes
+transport equipment and shows a fall post-referendum but not as much as before. Third, IPP investment has
+held up relative to plant and transport. We look at these in turn.
+
+Table 2 - Decomposition of business investment in the United Kingdom by asset type
+
+2.3 Transport equipment
+
+Beginning with transport, Figure 3 shows the contributions of the asset types that we saw in Table 1 to
+overall quarterly investment growth since 2016Q3. As it shows, the weakness in business investment in 2018
+was concentrated in transport equipment in Q2 and Q3, but in machinery in Q1 and Q4.
+
+We can then look at just the transport industry, and decompose business investment by various transport
+industries. This is shown by Figure 4 which suggests most of the fall in transport industry investment can be
+accounted for by the air transport industry although this is the most volatile component.
+
+11
+
+Business investment estimates exclude expenditure on dwellings and the costs associated with the transfer of ownership of nonproduced assets, and capital expenditure by local and central government.
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+Figure 5 looks at transport investment by documenting the ratio of investment to the capital stock. Since
+capital depreciates we would expect that at least some investment would have to cover such depreciation.
+Depreciation rates in transport equipment are typically between 10% (buses, trains, ships) and 30% (trailers)
+so just replacement would give an average I/K ratio of around 20%. As the figure shows, there was big
+growth in 2014, and decline in 2016.
+
+What then do we conclude from all this? First, investment in transport equipment has been, over the past
+four years quite erratic, and contributed strongly to the 2018 fall. Second, the current I/K ratio does not look
+out of line with historic averages suggesting that a sustained bounce back from this asset class is not likely.
+Figure 3 – Contributions to changes in real
+business investment growth by type of asset
+
+Figure 4 – Business investment by transport industry
+Other
+Land transport
+Total
+
+Warehousing
+Air transport
+
+£ million
+
+18000
+16000
+14000
+
+12000
+10000
+8000
+
+6000
+4000
+2000
+
+0
+
+Source: ONS
+Note: This graph decomposes nominal investment by the transport industry
+(industry code 29 and 30) into its sub-industries. The other category consists of
+investment by water transport and postal/courier industries.
+
+Figure 5 – Investment in transport equipment relative to its productive capital stock
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+2.4 IPP
+
+There is some indication from the bottom row of the top panel of Table 2 that investment in IPP has held up
+somewhat, at least relative to other categories. We have data up to 2018 on the software and R&D
+subcomponents of IPP and that indicates that both have continued to grow (that said, wider measures of
+knowledge investment, such a training, have dipped, see (ONS, 2019) for example). What can we conclude
+from this? One point about much IPP investment is that it crosses borders easily: that is, R&D investment in
+country X can likely be rolled out to country Y more easily than can a plant. Thus, one might regard IPP
+investment as a counterfactual against which to judge Brexit: if IPP investment is not subject to border
+problems, it should be unaffected by goods tariffs and hence by (at least that dimension of) Brexit. Under
+that view, the relative decline in tangible investment suggests Brexit is weighing on investment. A related
+view is that much intellectual property investment is instantiated in people and hence IPP investment moves
+more slowly than plant again suggesting downward weight from Brexit.
+
+2.5 Overall
+
+To summarise this, Figure 6 shows UK real investment growth against G7 countries, for all investment,
+excluding transport, (Figure 7) and IPP, (Figure 8). As can be seen, the poor relative investment picture is
+there, but in less stark terms if we exclude transport equipment, and the UK is holding its own in the case of
+IPP.
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+3. Causes of low investment
+
+We turn now to exploring some the possible causes of low investment. The first thing an economist would
+look at is the price of investment, for if the price of something is high then the demand for it is low, all else
+equal. This route turns out to be rather complicated for the following reasons.
+
+First, the price of investment is not a straightforward notion. The website www.avibroker.com is currently
+offering a 1998 Boeing 737-300 airliner for sale outright at $18m or yearly (dry) lease for just over $1m. By
+the definitions above, a plane is an investment so which of these is the “price” of that investment? The
+answer is that they are both prices, but of different things. The $18m is an “asset price”, that is, the price to
+buy the entire asset and so use it over a number of years. The $1m is a rental price or user cost, that is, the
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+price of using the asset but just for one year. The relation between these prices is set out in (Jorgenson &
+Griliches, 1966).
+
+Second, since an investment by definition lasts for a number of years, the returns have to be forecasted over
+a number of years. In some cases, that uncertainty is captured in the price or uncertainty is something that
+can be protected against: buildings owners can buy insurance against fire, for example. In other cases
+uncertainty can at least be estimated with some reasonable degree of precision: the probability of a winning
+lottery ticket, for example.
+
+But the current uncertainty facing firms seems different; perhaps not amenable to applying probabilities.
+Regarding Brexit, we have never left the EU before. This class of uncertainty is called in economics
+“Knightian” uncertainty (after a 1921 book by Professor Frank Knight, called Risk, Uncertainty and Profit) and
+was emphasised by (King, 2016). Like many phenomena it was explained in a remarkably prescient 1939
+essay by Keynes who described the term “uncertain knowledge” as follows:
+“… The sense in which I am using the term is that in which the prospect of a European war is uncertain, or
+the price of copper and the rate of interest twenty years hence, or the obsolescence of a new invention, or
+the position of private wealth-owners in the social system in 1970. About these matters there is no scientific
+basis on which to form any calculable probability whatever. We simply do not know.”
+
+This seems to describe the Brexit process rather well. Third, at least some investment is irreversible in that it
+cannot be recovered once committed, giving rise to what economists call a sunk cost. Much IPP typeinvestment is of this type: Microsoft had to write off $5bn when their Windows Mobile program, that powered
+Nokia mobile phones, was retired. Thus, uncertainty matters here too, since the very decision to postpone a
+reversible investment represents something of value, namely the possibility of committing the investment at a
+later date12.
+
+So what evidence do we have on these matters?
+
+3.1 Cost of capital and capital returns.
+
+Starting with prices, Figure 9 sets out various measures of the costs and returns to capital. The net rate of
+return is calculated as UK non-financial corporations' net operating surplus/net capital stock (per annum)13.
+The average cost of loans is based on the weighted average interest rate of sterling loans made to private
+non-financial corporations by UK resident monetary financial institutions (excl. the central bank). Finally, the
+weighted average cost of capital (WACC) reflects the cost of those bank loans, the cost of bond financing
+12
+
+As (Broadbent, Uncertain times, 2016) has pointed out, the option value of waiting can rise very fast as uncertainty increases. See pp
+3-5 in (Broadbent, Uncertain times, 2016) for a discussion.
+13
+Matters are somewhat complicated here depending on whether activities on the UK Continental Shelf are included or not since their
+rate of return is rather volatile: they are excluded here.
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+and equity financing. There is considerable uncertainty around the WACC as the part of the cost of equity
+finance, the equity risk premium, has to be estimated.
+
+As Figure 9 shows, the cost of finance has remained low relative to historical averages. That said, there
+appears to have been a slight rise in the most recent years and a fall in the net rate of return. It seems
+unlikely that investment has fallen so much due to these recent rising capital costs.
+Figure 9 – ONS net rate of return and the cost of finance for UK private non-financial corporations
+Net rate of return for all UK PNFCs (ONS) (a)
+Average cost of loans for private non-financial corporations (b)
+Weighted average cost of capital (c)
+Bank Rate
+
+Per cent
+16
+14
+12
+10
+8
+
+6
+4
+2
+0
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Source: Bank of England, ONS Profitability of UK companies, Refinitiv.
+(a) UK non-financial corporations' net operating surplus/net capital stock (per
+annum).
+(b) Weighted average interest rate of sterling loans made to private nonfinancial corporations by UK resident monetary financial institutions (excl. the
+central bank).
+(c) This is partly based on estimates of the equity risk premium as described in
+Dison and Rattan (2017). There is considerable uncertainty surrounding these
+estimates.
+
+One element of investment costs for firms is the tax system. In recent years the UK has been quite
+aggressive in offering tax breaks to firms on various investment types particularly for R&D. The overall effect
+on the (rental) cost of capital interacts with the corporate tax system in various ways and so the full
+calculation of the stance is complicated but the OECD has developed various measures of tax and other
+support for R&D which are summarised for 2016, the most recent year available, in Figure 10. As the figure
+shows, subsidies for R&D come in various ways via tax support and direct funding on e.g. challenge projects.
+The UK is towards the more generous countries but note that generosity has increased in many countries
+since 2006 (compare the black dots which are generally below the top of the stacked bars) and so the UK is
+in competition with these countries.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+Figure 10 – OECD R&D subsidies by type
+
+3.2 Uncertainty
+
+Bank of England staff monitor uncertainty using a range of measures as outlined in a Quarterly Bulletin
+article in 2013 (Haddow, Hare, Hooley, & Shakir, 2013). The different indicators shown in Figure 11 capture
+different aspects of uncertainty. The measures included are the three month option implied FTSE volatility,
+three month option implied sterling ERI volatility, the dispersion of consensus GDP forecasts, GFK
+unemployment expectations, GFK expectations of the financial situation over the next 12 months, CBI
+demand uncertainty, media citations of uncertainty, and the standard deviation of analysts’ forecasts of 12
+month-ahead company earnings growth for the FTSE All Share. But no single measure captures uncertainty
+perfectly. Some, like the GfK unemployment expectations balance, are more likely to capture changes in
+expected average output growth rather than the variation in those growth rates. Others measure perceived
+uncertainty either by directly asking firms or monitoring media references. Figure 11 doesn’t immediately
+suggest that UK uncertainty has been elevated over the past year. One possibility is that it doesn’t capture
+the kind of Knightian uncertainty mentioned above. That is, companies might feel so uncertain that they
+might just carry on as normal (for reversible decisions like hiring, for example) since they don’t know how
+else to react. In this regard, one other method is to ask firms directly what they are worrying about. That is
+exactly what the joint Bank of England and University of Nottingham Decision Makers’ Panel survey has
+done and the answer is set out in Figure 12. That shows that towards the end of 2018 that around half of
+firms that have responded cite Brexit as one of their top 3 current sources of uncertainty.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+Figure 11 – Measures of uncertainty in the United Kingdom
+Standard deviations from mean
+5
+4
+3
+2
+1
+
+0
+-1
+-2
+-3
+-4
+-5
+2005
+
+2007
+2009
+FTSE volatility
+GfK unemployment expectations
+Media citations
+
+2011
+2013
+Weighted ER vols
+GfK financial situation next 12 months
+Company earnings
+
+2015
+2017
+Consensus GDP forecasts
+CBI demand uncertainty
+
+Figure 12 – Decision Makers’ Panel survey: firms and Brexit-related uncertainty
+
+Source: DMP Survey and Bank calculations.
+(a) Question: ‘How much has the result of the EU referendum affected the level of uncertainty affecting your
+business?’. Results show the percentage of respondents that place the EU referendum in their top three
+sources during the survey period.
+
+3.3 Summary: Why has investment been so low?
+
+To judge just how much Brexit uncertainty has weighed on investment is difficult. In the absence of a perfect
+counterfactual or model I return to Figure 2b where UK investment is compared to our G7 peers14. Assuming
+UK business investment grew at the same rate (2.9 percent, excluding the UK) as the median G7 country
+To gauge the impact of Brexit, Vlieghe (2019) has used the synthetic ‘doppelganger’ approach to create synthetic and counterfactual
+UK GDP growth. He finds that relative to June 2016, UK GDP is 2% is lower relative to a scenario where there were no significant
+domestic political events.
+14
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+since 2016Q2, investment growth would be only 1.5 percent weaker than the average of the post-recession
+period up until the referendum. Recall (Table 2) that in that period UK investment grew by annual average of
+4.3 percent but post referendum the growth rate has averaged -0.4 percent. This suggests that of the 5pp fall
+in the growth rate, 3.5pp could be accounted for by Brexit, almost 70 percent of the slowdown. This is
+broadly true even if we exclude all investment in transport equipment15.
+
+4. Investment and productivity
+
+As we said above, investment has an effect on the supply side of the economy by deepening the capital
+services available to the economy. We have already suggested that production comes from capital services
+and so this section looks at the link between investment, capital services and productivity.
+
+4.1 Investment and capital services
+
+Consider first tangible investment. Think of a supermarket: the building, shelves and checkout tills and
+trucks. All these together provide capital services that, combined with labour and the items in the shop,
+become sales. (Jorgenson & Griliches, 1966) proposed to calculate capital services in two main steps. First,
+they constructed capital stocks from the investment data by treating real investment as an addition to the
+capital stock and subtracting depreciation. Second, they added together the capital stocks i.e. building,
+equipment and vehicle stocks by weighting them by their rental values, reasoning that such values were the
+market’s way of valuing the contribution (at the margin) of each asset type to total capital services. One
+effect of doing this is to “smooth out“ the volatilities in investment. After all, if a supermarket doesn’t build
+any new stores in a year, it still has many existing ones. So its investment is zero but its capital services are
+assuredly not zero: they are reduced, since existing stores are depreciating, but they have not fallen to zero.
+
+Table 3, top panel, shows the results of this calculation for the UK. As the top panel suggests, since the
+recession capital services have grown very slowly relative to before. If anything, since 2016, they have
+grown a little faster, but did slow down in 2018. This shows two things: first, if investment continues to be
+low then eventually capital services will fall as depreciation eats away at the capital stock, and second,
+investment changes faster than productive services of the economy.
+
+The middle section, top row, shows productivity growth and below it, the contributions of capital services to
+productivity growth. Thus, it completes the connection between investment that builds capital services and
+the productivity of those capital services. How does it do that?
+
+15
+
+Note that this counterfactual exercise could reflect differences in both expected returns and higher uncertainty between the G7
+countries and the UK. In addition, the exercise assumes there are no changes in structural factors between countries that determine
+investment (e.g. institutional framework).
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+16
+
+For capital services, it does so by taking the second line (growth in capital services per hour) and weighting
+that growth by the share of capital rental payments in output. That turns out to be equivalent to figuring out
+the contribution to raw changes in output by multiplying raw changes in capital by capital’s rate of return
+(measured by the real rental price). Remember that the rate of return to capital tells you how much extra
+revenue an individual firm will get for spending on an extra unit of its capital. So if we multiply the extra
+capital in the firm by its rate of return we should get the extra output that capital has contributed and this is
+what the top line of the productivity sub-panel does.
+
+It shows that before the recession capital per hour contributed 0.7pp out of 2.5pp growth which is about 30%
+of productivity growth. After the recession, the contribution was near zero. Although capital services were
+growing, hours were growing faster (see bottom line).
+Table 3 – Decomposition of productivity growth
+
+The last two lines in the middle section in Table 3 show the contributions of labour services and multi-factor
+productivity to productivity growth. The contribution of labour services is, like capital, the growth in labour,
+adjusted for skills, multiplied by the labour share in output. As it shows, labour services have contributed to
+productivity reasonably steadily over the period, with the recession an exception (a period of upskilling in
+labour).
+The line entitled “multi-factor productivity” growth is the residual. That comes from a number of sources. One
+is mismeasurement (since it is a residual) and the other is gains by firms over and above those from the
+capital and labour they pay for. Such gains are what economists call “spillovers”, and by definition come for
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+17
+
+free. How does that occur? If Sainsbury’s build another shop, the gains do not spillover to Tesco since
+Tesco cannot use the shop. But if Sainsbury’s figure out that it can load goods more efficiently by
+tessellating boxes in its trucks, that is pretty easy to copy by Tesco. Such “knowledge” or “intangible”
+investment likely confers more spillovers then tangible investment. This means that multiplying the
+Intellectual Property Products (IPP, which includes R&D, software and databases, mineral exploration and
+evaluation, and entertainment, literary or artistic originals) part of capital services by a rate of return likely
+understates its contribution to productivity growth since it only gives the contribution of the business doing
+the investment and not the other businesses gaining the spillover benefit. There is, thus, potentially a
+connection between the IPP of capital services and TFP growth, see (Grilliches, 1992). It is interesting to
+note that this part of investment seems to have held up which portents well for future TFP growth if it can be
+maintained.
+5. “Brexit is a process not an event”: the future implications for business investment
+The February 2019 Inflation Report (BoE, February Inflation Report, 2019) assumed “a smooth adjustment to
+new trading relations with the EU16. Consistent with that, uncertainties about Brexit are assumed to wane
+over the forecast period (p.9). As part of that transition, business investment is assumed to fall again in 2019,
+but then recover to be growing at rates of around 3% and 4% in 2020 and 2021 (Table 5E, February 2019
+Inflation Report). That rebound is assumed to come about as uncertainty remains elevated but then wanes
+and so investment bounces back (in terms of contributions to GDP, business investment is projected to
+contribute negatively by a ¼pp to GDP in 2019 but then is expected to push up on GDP by ¼pp in 2020 and
+½pp in 2021).
+Box 5 in the Inflation Report illustrates the sensitivity of the MPC’s projections to where uncertainty (and tight
+financial conditions) remains elevated throughout the forecast period. In that case GDP growth was 0.8% in
+2020 and 1.5% in 2021, which is materially lower then in the central forecast of 1.5% and 1.9%. Thus, the IR
+indicated this elevation of uncertainty as a material downside17 risk to the forecast. In this final section I want
+to explore these risks further.
+
+As I speak to you today, Parliament is scheduled to vote on the EU Withdrawal Agreeement tomorrow. At the
+outset, I must stress that as an MPC member I have no, repeat no, view on whether the agreement is good
+or bad for the totality of political, economic and other factors in the UK. That is beyond the MPC’s remit.
+
+What the MPC has to consider is how the agreement might affect its remit, the main part of which is price
+stability. As my colleagues have rightly stressed, this depends on the balance of supply, demand and the
+
+16
+
+The final trade arrangement is assumed to be an average of three different trading relationships: WTO, FTA and EEA.
+This is not to say, however, that to simply remove uncertainty by any means would be a positive for economic output. An example
+would be if you exchanged an uncertain output outcome for a certain lower output outcome. For example in the Bank’s report to the
+Treasury Select Committee the ‘no deal, no transition’ scenario had GDP 4.75% to 7.75% percent lower by the end of 2024 compared
+to the forecast in the November Inflation Report (BoE, EU withdrawal scenarios and monetary and financial stability, 2018).
+17
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+18
+
+exchange rate and, as we have seen today, investment is an important part of that supply and demand
+picture. Currently, it looks like uncertainty is holding investment back. If that continues, then there is a
+downside risk to the forecast. So why might it continue? The reason comes from two points. First,
+investment decisions take time to pay back and hence investment might be held back by the prospect of
+uncertainty at some point in the payback period (for example as the (SMMT, 2018) has documented, in cars
+a payback period of 5-7 years is typical).
+Second, to repeat, Sir Ivan Rogers’ observation that Brexit is a proces. To understand this point, it is worth
+setting out some idea of the process, the excellent recent book by (O'Rourke, 2019) surveys this, for
+example. The EU Withdrawal Agreement (as well as agreeing a divorce bill and citizen rights) agrees a
+“transitional” (or what is sometimes also called an “implementation”) period of 21 months to 4 years over
+which current trade arrangements will continue, after which the UK will trade under whatever new trade
+relationship is agreed18.
+
+There are two aspects of this process that might give rise to heightened uncertainty.
+
+First, the transition period is itself uncertain. Why? The Withdrawal Agreement specifies that the transition
+period is a minimum 21 months, during which trade is business-as-usual, but that there might an extension to
+4 years. The EU summary document19 accompanying the Agreement sets out the process here:
+“The Withdrawal Agreement includes the possibility …to extend the transition period. This possibility can only
+be used once… by mutual agreement of the Union and the UK. All other terms agreed …will remain
+applicable [including] full powers of the Union institutions, including the Court of Justice. Extending the
+transition period will require a fair financial contribution from the UK to the EU budget”.
+
+It is conceivable that, like Article 50, the UK will require more time than the 21 months.20 Thus, it is possible
+there might be another round of negotiating and attendant uncertainty.
+
+Second, to make long-term investments, an investor also needs also to know the future trade relationship
+that we strike. That is far from certain since, as O’Rourke points out, it is not covered in the Withdrawal
+Agreement. Rather one must look to the Political Declaration: however, that only contains the broadest
+words about wanting a close relationship. For business, the question of whether that is a customs union or
+free-trade area is vital since that gives more of a steer as to whether there will be relatively frictionless trade
+with the EU or not21. This has to be decided so that negotiators can get started and firms can, in turn, make
+18
+
+The EU website contains a handy FAQ and summary: http://europa.eu/rapid/press-release_MEMO-18-6422_en.htm.
+http://europa.eu/rapid/press-release_MEMO-18-6422_en.htm.
+For example, Japan’s recent free trade agreement with the EU came into force in February 2019 on the back of negotiations
+commenced in 2013 and finalised in December 2017 (EC, 2019).
+21
+O’Rourke describes the fundamental tensions here. A customs union, with a common external tariff is more amenable to a trade with
+less frictions, since fewer border checks are needed, but this then precludes bilateral deals with other countries which many feel to be
+an advantage.
+19
+20
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+19
+
+investment plans. Furthermore, during the implementation period Parliament would likely need to pass a
+significant volume of domestic legislation, in addition to possibly having to ratify numerous trade agreements
+which include new trade deals, data sharing and security issues amongst many others22.
+
+The longer term question is whether investment will eventually bounce back after uncertainty is resolved.
+The answer to this depends on what trade deal is struck. In the MPC’s forecast, the economy ends up (in 15
+years) at the average of three trade deal outcomes all of which mean less trade and, therefore, a lower level
+of output (but the same growth rate). In standard growth models, a lower level of output means less capital
+(since the capital/output ratio is a constant) and hence investment does not bounce back fully since less
+capital is required. If there was a lower level of output and also lower long term growth, there would be even
+less bounce back. But all of this is a long way off. At least for the next few years the prospect of low
+investment seems possible.
+
+22
+
+The role of Parliament in trade agreements is a complicated one, since governments usually invoke the Royal Prerogative and regard
+the making, agreeing and withdrawing from trade agreements as a function of the executive. A recent Department for International
+Trade policy document.
+20
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+20
+
+References
+
+BoE. (2018). EU withdrawal scenarios and monetary and financial stability. available at
+https://www.bankofengland.co.uk/report/2018/eu-withdrawal-scenarios-and-monetary-and-financial-stability,
+Bank of England.
+
+BoE. (2019). February Inflation Report. Bank of England: available at
+https://www.bankofengland.co.uk/inflation-report/2019/february-2019.
+
+Broadbent, B. (2014). The balance of growth. Speech given at London School of Economics on 17 January
+2014.: available at https://www.bankofengland.co.uk/speech/2014/the-balance-of-growth.
+
+Broadbent, B. (2016). Uncertain times. Speech given at Wall Street Journal on 5th October 2017: available
+at https://www.bankofengland.co.uk/-/media/boe/files/speech/2016/uncertain-times.
+
+Carney, M. (2019). The Global Outlook. Speech given at Frobisher hall on 12th February 2019: available at
+https://www.bankofengland.co.uk/speech/2019/mark-carney-speech.
+
+Coyle, D. (2015). GDP: A Brief but Affectionate History-Revised and expanded Edition. Princeton University
+Press.
+
+EC. (2019). European Commission. Retrieved from http://ec.europa.eu/trade/policy/in-focus/eu-japaneconomic-partnership-agreement/
+
+Grilliches, Z. (1992). The Search for R&D Spillovers. Scandinavian Journal of Economics, S29-47.
+
+Haddow, A., Hare, C., Hooley, J., & Shakir, T. (2013, Q2). Retrieved from Bank of England:
+https://www.bankofengland.co.uk/quarterly-bulletin/2013/q2/macroeconomic-uncertainty-what-is-it-how-canwe-measure-it-and-why-does-it-matter .
+
+Haskel, J., & Westlake, S. (2018). Capitalism Withouth Capital. Oxford: Princeton University Press.
+
+Jorgenson, D., & Griliches, Z. (1966). Sources of Measured Productivity Change: Capital Input. American
+Economic Review, 50-61.
+
+King, M. (2016). The End of Alchemy: Money, Banking and the Future of the Global Economy. London:
+Little, Brown.
+
+Knight, F. H. (1921). Risk, Uncertainty and Profit. Cornell University Library Digital Collections.
+21
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+21
+
+McCafferty, I. (2014). Achieving a sustainable recovery: where next for business investment? Speech given
+at Nottingham Business School on 22nd January 2014: available at https://www.bankofengland.co.uk//media/boe/files/speech/2014/achieving-a-sustainable-recovery-where-next-for-businessinvestment.pdf?la=en&hash=60B86C35D15C1CA5EBD0DB275299369A1F03FF97.
+
+OECD. (2014). Understanding National Accounts. OECD Paris: available at http://www.oecd.org/sdd/UNA2014.pdf.
+
+ONS. (2019). Developing experimental estimates of investment in intangible assets in the UK: 2016. Office of
+National Statistics.
+
+O'Rourke, K. (2019). A Short History of Brexit: From Brentry to Backstop. London: Penguin Random House
+UK.
+
+Piketty, T. (2014). Capital in the Twenty-First Century. Cambridge: Harvard University Press.
+
+Rogers, I. (2018). Speech by Sir Ivan Rogers on Brexit. Heseltine Institute for Public Policy, Practice and
+Place: available at https://news.liverpool.ac.uk/2018/12/13/full-speech-sir-ivan-rogers-on-brexit/.
+
+SMMT. (2018). Automotive Priorities for the Brexit Transition. SMMT: available at:
+https://www.smmt.co.uk/wp-content/uploads/sites/2/SMMT-Brexit-Position-Paper-UK-Automotive-Prioritiesfor-the-Brexit-Transition.pdf.
+
+Vlieghe, G. (2019). The Economic Outlook: Fading global tailwinds, intensifying Brexit headwinds. Speech
+given at Resolution Foundation on 14th February 2019: available at
+https://www.bankofengland.co.uk/speech/2019/gertjan-vlieghe-speech-at-the-resolution-foundation.
+
+22
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+22
+
+

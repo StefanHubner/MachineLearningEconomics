@@ -1,0 +1,137 @@
+Bank of England
+
+Technical appendix
+Reliable partners – speech by Ben Broadbent
+30 March 2022
+
+Page 1
+
+Bank of England
+
+Page 2
+
+This Appendix provides further details of the simulations reported in Charts 4, 5 and 6.
+We use a simple New Keynesian model, in which each time period, 𝑡, is one quarter of a
+year:
+𝑥𝑡 =
+𝜋𝑡 − 𝜋 ∗ =
+
+𝛿𝔼𝑡 𝑥𝑡+1 − 𝜎𝛿(𝑖𝑡 − 𝔼𝑡 𝜋𝑡+1 − 𝑟𝑡∗ )
+𝛽𝔼𝑡 (𝜋𝑡+1 − 𝜋 ∗ ) + 𝜅𝑥𝑡 + 𝑢𝑡
+
+where 𝑥 is the output gap, 𝜋 denotes inflation and 𝜋 ∗ denotes the inflation target. Following
+Haberis, Harrison, and Waldron (2019)1, we set 𝜎 = 1 and 𝜅 = 0.025. We set 𝛽 = 0.995.
+Textbook New Keynesian models (for example Woodford 20032; Galı́ 20083) typically
+assume that 𝛿 = 1. This in turn implies that the effect on the output gap of a change in the
+real interest rate in the very distant future is identical to the effect of a change in the
+short-term real interest rate. That property of the model gives rise to the so-called ‘forward
+guidance puzzle’ (Del Negro, Giannoni, and Patterson 20154; Gabaix 20205). A variety of
+small changes to the underlying textbook model give rise to an equation for aggregate
+demand with 𝛿 < 1 so that changes in the real interest rate in the distant future have
+strictly less effect on spending today than changes in real interest rates in the near term.
+Our implementation follows Rannenberg (2021)6 and we set 𝛿 = 0.9, midway between the
+values of 0.85 and 0.96 used by Gabaix (2020) and Rannenberg (2021) respectively.
+The model is driven by two exogenous shocks, which follow simple stochastic processes:
+𝑟𝑡∗ − 𝑅∗ =
+𝑢𝑡 =
+
+∗
+𝜌𝑟 ∗ (𝑟𝑡−1
+− 𝑅∗ ) + 𝑠𝑟 ∗ 𝜀𝑡𝑟
+𝑢
+𝑠𝑢 𝜀𝑡
+
+∗
+
+∗
+
+where 𝜀𝑡𝑟 , 𝜀𝑡𝑢 ∼ ℕ(0,1). We set 𝜌𝑟 ∗ = 0.85 following Haberis, Harrison, and Waldron (2019)
+and choose 𝑠𝑟 ∗ and 𝑠𝑢 so that the model implied variances of inflation, output gap and the
+short-term interest rate are similar to those in the data.7 The values chosen are 𝑠𝑟 ∗ =
+0.4, 𝑠𝑢 = 0.15.
+The loss function used to guide monetary policy and evaluate outcomes is
+∞
+𝜏
+∗ 2
+2
+𝜏
+𝒱𝑡 = 𝔼𝑡 ∑∞
+𝜏=𝑡 𝛽 ((𝜋𝜏 − 𝜋 ) + 𝜆𝑥𝜏 ) = 𝔼𝑡 ∑𝜏=𝑡 𝛽 ℒ 𝑡
+
+(1)
+
+and ℒ denotes the ‘period loss’ and we set 𝜆 = 0.25. This is somewhat higher than the
+values often implied by approximations to the utility of representative households in a
+textbook model (for example Woodford 2003; Galı́ 2008) but closer to the values often
+used by policymakers in indicative simulations (for example, Yellen 20128; Carney 20179).
+
+Haberis, Harrison and Waldron (2019), ‘Uncertain Policy Promises.’ European Economic Review.
+Woodford (2003), ‘Interest and Prices: Foundations of a Theory of Monetary Policy’.
+3
+Gali (2008), ‘Monetary Policy, Inflation, and the Business Cycle’.
+4
+Del Negro, Giannoni, and Patterson (2015), ‘The Forward Guidance Puzzle’. Federal Reserve Bank of New
+York Staff Report No. 574.
+5
+Gabaix (2020), ‘A Behavioral New Keynesian Model’. American Economic Review.
+6
+Rannenberg (2021), ‘State-Dependent Fiscal Multipliers with Preferences over Safe Assets.’ Journal of
+Monetary Economics.
+7
+Under a simple Taylor rule for monetary policy and ignoring the zero lower bound. The resulting standard
+deviations for the output gap, annual inflation and the annualised policy rate are (approximately) 1.5, 1 and 2
+respectively.
+8
+Yellen (2012), ‘Perspectives on Monetary Policy’.
+9
+Carney (2017), ‘Lambda’.
+1
+2
+
+Bank of England
+
+Page 3
+
+Our baseline assumptions for monetary policy assume that the policymaker sets the
+nominal interest rate to minimize (1), subject to a lower bound on the nominal interest rate:
+𝑖𝑡 ≥ 𝑏
+and the lower bound is imposed in the simulations using the algorithms described in
+Harrison and Waldron (2021).10
+The average distance of the interest rate from the lower bound is given by 𝑅 ∗ + 𝜋 ∗ − 𝑏. We
+simulate the model for alternative assumptions about the average amount of policy space
+and the conduct of monetary policy. In each case, the model is simulated for 256,000
+periods and the average period loss, ℒ, is computed. The charts in the main text plot the
+square root of this loss, normalised to 1 for the case of commitment policy with 5%
+average policy space.
+The model is simulated under four alternative assumptions about the conduct of monetary
+policy:
+Discretionary policy: the policymaker sets the interest rate in a time-consistent manner to
+minimize (1). Time consistent policy means that the policymaker sets policy optimally
+today recognising that future policymakers will act in the same way. So today’s
+policymaker cannot influence future policy actions and therefore cannot make credible
+commitments about the future path of the interest rate.
+Commitment policy: the policymaker sets the interest rate according to a policy rule that
+minimises (1) under commitment. The commitment policy allows the policymaker to
+influence output and inflation in the near term by making credible promises about the
+behaviour of interest rates in the future.
+Imperfectly credible commitment policy: the policymaker sets the interest rate
+according to a policy rule that minimises (1) under commitment but recognising that private
+agents believe that the policymaker will switch to the discretionary policy with a constant
+(5%) probability each period. Even though the policymaker never switches from the
+commitment policy, the fact that agents doubt the credibility of the policymaker’s
+commitments implies that credible promises about the behaviour of interest rates in the
+future have less traction over output and inflation in the near term.
+Unresponsive policy: every 𝑁 periods the policymaker announces a path for the interest
+rate over the next 𝐾 periods. The policymaker then follows the plan (for the 𝑁 − 1
+subsequent periods) and then announces a new path and the process repeats. Each
+announced path is consistent with the path for the interest rate under optimal commitment,
+conditional on no future shocks arriving. Because shocks subsequently do arrive, the
+policymaker is therefore unresponsive to the economic news (interest rates are set
+according to the pre-announced plan). For simplicity we consider the case in which 𝑁 = 2
+and 𝐾 = 4.
+
+Harrison and Waldron (2021), ‘Optimal Policy with Occasionally Binding Constraints: Piecewise Linear
+Solution Methods’. Bank of England Staff Working Paper No. 911.
+10
+
+

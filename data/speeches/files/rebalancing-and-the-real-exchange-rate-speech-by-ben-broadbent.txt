@@ -1,0 +1,777 @@
+Rebalancing and the real exchange rate
+Speech given by
+Ben Broadbent, External Member of the Monetary Policy Committee, Bank of England
+At Thomson Reuters, London
+26 September 2011
+
+I would like to thank Alina Barnett and Adrian Chiu for research assistance and I am also grateful for
+helpful comments from other colleagues. The views expressed are my own and do not necessarily
+reflect those of the Bank of England or other members of the Monetary Policy Committee.
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+Some years ago, when in my last job, I conducted a small survey of investors. It was about central bank
+communication. Most of the questions involved how this should be done, but I also asked about the amount
+of it – is it possible for central bankers to talk too much? Given markets’ apparently insatiable appetite for
+information, I’d expected the answer to be a firm “no”. I was therefore surprised when almost 90% of
+respondents said “yes”. “Sometimes”, one of them wrote, “these people should just shut up”. Undeterred,
+here I am for my first speech.
+I comfort myself that there is more to talk about these days. That survey was conducted in early 2006, after
+a long period of steady and undisturbed growth in the developed economies. We thought we’d answered
+most of the big questions about macroeconomic policy. After four years of extraordinary economic volatility,
+the Great Moderation (as it’s now known) seems a distant dream. And if we thought then that there was little
+for macroeconomists any longer to talk about, now it’s hard to know where to begin.
+I have chosen today to talk about the exchange rate – specifically, the causes and consequences of
+sterling’s depreciation in 2007 and 2008. Any exchange rate is a relative price – it depends on differences
+between countries. This means I will put to one side much of what has affected the UK in recent years: the
+boom and bust in banks’ balance sheets and the huge swings in commodity prices (generally upwards) have
+all been global events, at least among the developed economies. You can see in Chart 1, which plots rolling
+correlations between output and domestic demand growth in the UK and their equivalents in the rest of the
+OECD, that the past few years have seen a very high degree of co-movement.
+
+Chart 1: A synchronised cycle
+1
+Correlation in GDP
+0.9
+
+Correlation in domestic demand
+
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+1980
+
+1983
+
+1986
+
+1989
+
+1992
+
+1995
+
+1998
+
+2001
+
+2004
+
+2007
+
+2010
+
+Note: Correlation is between growth rates in the UK and the OECD total.
+Source: ONS and OECD
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+2
+
+Chart 2: Recent depreciation large by historical standards
+120
+Sterling trade-weighted index
+Jan-07 value
+
+110
+100
+90
+80
+70
+60
+
+1975 1978 1981 1984 1987 1990 1993 1996 1999 2002 2005 2008 2011
+Note: January 2007 = 100
+Source: Bank of England
+
+Whatever these common trends, however, differences between economies have also been big enough to
+warrant some significant moves in exchange rates, including the UK’s. Between 2007 and 2009, sterling’s
+effective exchange rate fell by 22%, the largest two-year decline since the devaluation of 1947 (Chart 2 plots
+daily data, which go back to 1975).
+I’ll be making three points, and it’s worth summarising those up front:
+First, the main cause of sterling’s decline isn’t monetary but real. Specifically, it reflects the need to
+rebalance UK supply – away from non-traded goods and services, and towards the production of tradables –
+in order to match an equivalent shift in the composition of demand. Over a number of years, and via a strong
+exchange rate, strong growth in that demand had “crowded out” the traded sector. As prospects weakened
+– and I will make the point that the vulnerability of the public finances is particularly important in this respect
+– the exchange rate had to fall in order to crowd it back in.
+Second, the scale of the exchange-rate adjustment required for rebalancing depends centrally on how easy
+it is to move resources from one area of the economy to another. The point of it is to make the production of
+non-tradables less profitable, that of tradables more so: it is the economy’s way of pushing supply in the right
+direction. That incentive doesn’t need to be very strong if capital is mobile. But if – say – a dysfunctional
+financial system makes it harder to shift resources from low-return to high-return businesses, the required
+decline in the real exchange rate will be correspondingly larger. And during the transition, labour
+productivity, national income and the share of it paid out as wages will all be lower than they otherwise would
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+3
+
+have been. Slow rebalancing, slow productivity growth and the scale of the depreciation may therefore be
+interrelated.
+Third, though real (relative price) shocks needn’t have any impact on aggregate inflation, rigidly sticking to
+the inflation target through this period would have involved significant economic costs, costs that the MPC’s
+remit explicitly tells it to avoid. Given the scale of the adjustment going on underneath, stabilising the
+aggregate CPI would have required outright declines in prices of many non-tradables and, because their
+production is labour-intensive, declines in nominal wages as well. This in turn would probably have meant
+much higher unemployment. What the MPC has effectively done, therefore, is to employ the flexibility in its
+remit to accommodate part of this shock as a higher aggregate price level. And although these first-round
+effects have been significant and uncomfortable, contributing to a prolonged period of above-target inflation,
+it’s hard to detect any real sign of second-round effects on either wage growth or medium-term expectations
+of inflation. With the relative price adjustment now largely complete, that is very reassuring.
+Let me go through these arguments in more detail. I will then draw some more general conclusions and say
+something about where we are today.
+
+The depreciation was not caused by monetary policy
+In an open economy, monetary policy works partly via its impact on the exchange rate. All else equal,
+reductions in interest rates weaken the currency, increases strengthen it. It is tempting, therefore, to attribute
+every move in sterling to changes in monetary policy, particularly when you see something like Chart 3. This
+plots the Euro/Sterling exchange rate against the difference between their respective two-year interest rates.
+There looks to be a reasonable correlation, especially in 2008. Isn’t it obvious, therefore, that the MPC
+“caused” the depreciation1?
+Not really. The problem with this interpretation is that sneaky phrase “all else equal”. This is a useful device
+– to imagine what would happen in response to an arbitrary change in interest rates. But, in practice, policy
+generally changes for a reason: it reacts to things in order to offset their impact on medium-term inflation.
+And the events that drive policy may themselves, quite independently, influence the exchange rate. Almost
+invariably, all else is not equal.
+But if you can’t use interest rates themselves, how do you identify independent monetary policy events? I
+think one way to do it, at least in an inflation targeting framework, is to look at breakeven inflation rates in the
+1
+
+There is – or, at least, should be – a relationship between interest rates and the exchange rate independent of policy. The “uncovered
+interest parity” (UIP) condition says that, risk-adjusted, expected returns on two assets should be the same in any given currency (i.e.
+the expected risk-adjusted return on a “carry trade” is zero). But that doesn’t affect the argument here. First, the UIP condition pins
+down only the expected change in the exchange rate, not its level – it does nothing to rule out unexpected jumps unrelated to interest
+rates. Second, the remaining relationship says nothing about causality: it’s simply a consistency requirement. Third, as it happens, the
+relationship doesn’t perform that well in the data. In particular, carry trades seem to make money for long periods of time (albeit with a
+large negative skew in the distribution of returns, i.e. occasional blow-ups).
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+4
+
+bond market. It is the job of policy to keep inflation on target over the medium term. So if short rates change
+but forward inflation rates do not, it’s reasonable to infer likely that policy is probably reacting “endogenously”
+to something else. Conversely, shifts in forward inflation rates can be interpreted as “exogenous” changes in
+the stance of policy, at least in the eyes of the gilts market.
+
+Chart 3: Euro/Sterling exchange rate and interest rate differential
+%
+1.7
+
+3
+
+1.6
+2
+
+1.5
+1.4
+
+1
+1.3
+1.2
+
+0
+
+1.1
+
+Difference in two-year swap rates (LHS)
+-1
+2000
+
+Euro/Sterling (RHS)
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+1
+2012
+
+Source: Thompson Reuters
+
+Chart 4 demonstrates what happens when you pass the exchange rate through this filter. It plots the rolling
+correlation, over four-year periods, between daily changes in the sterling trade-weighted index and in 3-year
+forward inflation rates (on the assumption that monetary policy takes that long to have its full effect on
+inflation).
+Prior to 1992, when inflation targeting was introduced, the correlation is clearly negative. There seemed to
+be plenty of shocks (I’m interpreting them as “monetary policy”, broadly defined) that moved the currency
+and forward inflation in opposite directions. But it has generally been insignificantly different from zero since
+then – whatever events have affected the exchange rate, they have not been things that also affected
+forward inflation. This includes the four years since the onset of the financial crisis, in mid-2007.
+Identifying pure changes in monetary policy is a longstanding and thorny problem in economics and I
+certainly don’t want to pretend that using forward inflation either solves the problem, or gets any closer to
+doing so that the many other solutions that have emerged over the years2. Its most obvious flaw is that bond
+2
+
+These include event studies (e.g. Romer and Romer, 1990) and structural time-series approaches that restrict either the time it takes
+for policy to work (Sims, 1980), its long-run effect on output (Blanchard and Quah, 1989) or, more loosely, the sign of those effects (e.g.
+Uhlig, 2005). Technically, using forward inflation is justified if there are rational expectations in financial markets, in which case bond
+prices embody any relevant public information at the time, including what can be captured by statistical techniques. But some may
+object to that assumption and you could in any case do better if, ex post, you can find information that signalled a change in policy but
+that was private at the time. This is what the event studies rely on.
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+5
+
+markets can be wrong. RPI inflation in the first half of this year was 5.2%, 300bp higher than the market had
+projected three years earlier. Most forecasts of CPI inflation, including the MPC’s, turned out just as wrong.
+So isn’t it possible that monetary policy in 2008 and 2009 was, in fact, too loose, and that the fx market was
+simply the first to register the fact?
+
+Chart 4: Changes in exchange rate and forward inflation rates no longer
+correlated
+0.2
+
+0.1
+
+-0.1
+
+-0.2
+90% confidence band
+Estimated correlation
+
+-0.3
+
+-0.4
+1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011
+Note: Correlation (daily data over 4-year rolling window) between nominal sterling EER and 3-year
+forward breakeven inflation.
+Source: Bank of England and Datastream
+
+I will discuss the recent behaviour of inflation later on. But let me just make a couple of points here. First,
+much of that surprise reflects subsequent, and unforeseen, factors such as the jump in commodity prices
+and the increase in the headline rate of VAT. They directly contributed around 2% points to inflation
+(whether CPI or RPI) during the first half of this year3.
+Second, it requires a pretty perverse view of financial markets to imagine that fx traders should take one view
+of inflation, their colleagues on bond desks, sitting only a few feet away, another one entirely. In fact, it
+seems wholly implausible. What seems much more likely is that, if monetary policy were loosened
+significantly, independently of anything else, you would see sell-offs not just in the currency but in
+(non-indexed) bonds as well. That’s not what happened in 2008.
+
+3
+
+It’s hard to be precise about this, not least because other things might have changed. But the impact must certainly have been
+considerable. Mechanically, the rise in the food and energy components and the increase in VAT each added around 1% to the CPI.
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+6
+
+The rebalancing of demand
+Another way of looking at this is Chart 5. It plots the expected real exchange rate against the US dollar and
+the Euro (i.e. the nominal rate adjusted for cross-country differences in forward inflation4) five years forward.
+What it says – assuming that currency and inflation markets are, in fact, consistent with each other – is that
+sterling fell not because markets expected higher inflation in the UK, but because they judged that the
+relative value of UK output itself (the real exchange rate) would have to decline. Furthermore, it would have
+to do so at horizons well beyond those at which monetary policy is generally thought to have any impact on
+the real economy. Why was that?
+
+Chart 5: Decline not just in nominal spot exchange rate, but forward
+real exchange rate too
+110
+105
+100
+95
+90
+85
+80
+75
+
+USD/GBP forward real exchange rate
+EUR/GBP forward real exchange rate
+Jan-2007 value
+
+70
+65
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Note: Forward spot rates adjusted for differences in breakeven inflation. UK series
+has been adjusted for estimated wedge between RPI and CPI inflation.
+Source: Bank of England and Datastream
+
+The real exchange rate tells you how much foreign output you get in return for one unit of UK output. It’s
+useful (and conventional) to split this relative price into two others: the price of the UK’s tradable output
+compared with that of our trading partners (the “terms of trade”) and the relative price of non-traded to traded
+output. Any sustainable move in the real exchange rate has to arise from a change in one or both these
+sources.
+
+4
+
+Not every country has an inflation market. Chart 4 plots the forward real sterling exchange rates against the US Dollar and the Euro.
+These represent around two-thirds of the aggregate index. Given that the US dollar and the Euro have weakened against
+emerging-market currencies, and that inflation has been higher in those countries, Chart 4 probably understates the decline in the real
+sterling EER, spot or forward.
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+7
+
+In the UK, at least, the first is not an important source of variation. The terms of trade move around, but not
+by enough to have had much bearing on the real exchange rate (Chart 6).
+
+Chart 6: UK terms of trade do not explain movements in real sterling
+EER
+110
+105
+100
+95
+90
+85
+Terms of trade
+80
+Real effective exchange rate
+75
+70
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+Source: ONS and Bank for International Settlements
+
+It’s the second that matters more and, I believe, lies at the heart of what happened to sterling in 2008.
+Markets judged that the credit crunch would hit domestic demand – specifically the demand for stuff
+produced only domestically (non-tradables) – harder in the UK than in other countries. As a result the
+relative price of that output has had to fall. Strong demand for non-tradables had, over a period of years,
+and via a strong exchange rate, “crowded out” the economy’s traded sector; as the prospects for that
+demand suddenly weakened, the exchange rate fell in order to crowd it back in. Chart 7a gives you a
+stylised representation of such a shift. Why might it have occurred?
+One reason for markets’ pessimism about domestic demand was the perception that the UK private sector is
+over-indebted. My own belief is that some of this was (and still is) overdone. But there are clearly areas of
+private-sector spending – most obviously residential investment – that had been growing strongly, relied
+predominantly on domestic suppliers and were financed largely by debt. When the supply of mortgage credit
+started to contract in late 2007, residential investment did so too, and by more than in the Eurozone. This
+must have contributed to sterling’s decline.
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+8
+
+Chart 7a: Weaker demand for non-traded output
+depresses the exchange rate
+
+PNT/PT
+S
+
+D Normal
+
+D Impaired
+
+QNT/QT
+
+What I think was more significant, however, was the vulnerability of the public finances to the financial crisis.
+First, almost all government consumption (current spending on public services) goes on non-tradables.
+Public services are themselves non-tradable (you can’t consume them except in the UK). And although the
+public sector buys some things that are bought and sold on international markets, the vast bulk of their
+expenditure, over 95% of it5, goes on things that are produced only domestically. This is why, in international
+data, there is a strong and well-established correlation between the real exchange rate and the share of
+government consumption in GDP. A recent IMF study, for example, found that a 1%-of-GDP increase in
+government consumption led (all else equal) to a 3% increase in a country’s real exchange rate6.
+Second, the UK’s public finances were particularly exposed to the financial crisis. This is partly because
+Britain has very large banks. These generated a rising share of tax revenue in the years leading up to the
+crisis. When the crisis came, banks’ balance sheets – particularly their substantial overseas assets – also
+represented a significant potential liability for the UK taxpayer7.
+
+5
+
+Around half of government consumption is payments to (immobile) employees and, according to the UK Supply and Use Tables, the
+tradables weight of the rest – intermediate purchases by public services – is only 10%. That would put the overall share at around 5%.
+This overstates the true share, however, because the national accounts don’t include the opportunity cost of (or imputed rent from) land
+and buildings owned by the government. These are obviously non-tradable.
+6
+Ricci et al. (2008). See also Benetrix and Lane (2009) and Froot and Rogoff (1991).
+7
+The distinction doesn’t really matter in the current context, but it’s worth pointing out that the size of British banks’ balance sheets –
+which were, indeed, significantly bigger than those in other countries (relative to GDP) – should not be confused with the size of the
+domestic financial sector. In 2007, financial services output accounted for 8% of UK GDP. This is higher than the 5% in France and
+Germany, but a lot lower than commentators often suppose. What really distinguished the British banks is the size of their overseas
+operations. These overseas assets were also responsible for most of banks’ losses.
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+9
+
+These effects, especially the sensitivity of tax revenue8, are sizeable. In 2009-10 government receipts were
+over £100bn lower than the Treasury had forecast only two years earlier, in the March 2007 Budget. Not all
+of that, of course, is directly attributable to lower income from the financial sector9. But it’s nonetheless a
+very big number, only slightly less than the equivalent shortfall in national income (nominal GDP was £120bn
+lower than predicted), bigger than the decline in government receipts in the Eurozone (relative to GDP) and
+worth almost a third of current spending on public services. Even without markets’ concerns about the
+exposure of taxpayers to banks’ bad assets, and even relative to the UK’s trading partners, this was surely
+enough materially to contract the “envelope” of government consumption over the future and with it the
+demand for non-traded UK output.
+
+Rebalancing of supply
+Demand is only half the story. As you can see from Chart 7b, the decline in the equilibrium real exchange
+rate depends not just on the shift in the demand curve but also on the slope of the supply curve. This, in
+turn, is a reflection of how easy it is to move resources from one sector to another – how easy it is to “crowd
+in” the tradables sector.
+What does this mean in the real world? You can think of the depreciation, in this context, as an incentive
+device. It increases the return on capital in the traded sector and reduces it in the non-traded sector: it’s the
+economy’s way of ensuring that supply adapts to the shift in relative demand. If that process is
+straightforward – if factors are relatively mobile – the supply curve is flatter. You don’t need much of a nudge
+from the exchange rate. As the rebalancing takes place, the rates of return in the two sectors re-converge.
+But if there are significant obstacles to factor mobility (if it’s hard to shut down businesses in one sector and
+grow them in another) the incentive has to be that much bigger. The slope of the supply curve, and (for any
+given shift in demand) the decline in the exchange rate, are both larger. And as long as the rebalancing is
+impeded in this way, in which case capital remains misallocated10, productivity, national income and the
+share of it paid out as wages11 (as opposed to capital income) will all be lower than they otherwise would be.
+I think this captures some of what we’re going through now. We know that productivity growth tends to be
+slow in the aftermath of financial crises, and the UK economy today certainly fits that pattern: output per hour
+has risen at an annualised rate of only 0.7% since the end of the recession, far lower than the 3.6% average
+during other post-war recoveries. We also have compelling theoretical models that explain why a
+8
+
+The scale of the equity injections in 2008 and 2009 was very significant. But they are stocks, not flows. So the drop in tax revenue –
+over £100bn every year – is a much bigger contributor to the increase in public-sector debt. This is typical of the aftermath of financial
+crises (Reinhart and Rogoff, 2009).
+9
+There were also sharp declines in property-related taxes, though much of this is also directly attributable to the financial crisis and the
+ensuing contraction in credit supply.
+10
+It’s the mobility of capital, more than labour, that’s the important consideration here. On plausible parameters, and if there is CES
+production in both sectors, the predicted slope of the supply curve in Chart 7 is predicted to be around 5 even when there is full labour
+mobility (but capital is fixed).
+11
+This last prediction requires that the elasticity of substitution between capital and labour is less than 1. Empirical estimates for the UK
+are between 0.5 and 0.7.
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+10
+
+dysfunctional banking system, or other frictions in factor markets, can slow down the usual Schumpeterian
+process of “creative destruction”, i.e. the replacement of unprofitable activities by those that are newly
+profitable12. All I’m suggesting here is that, if this is true, then the most obvious example in the UK would be
+the failure to re-allocate resources from the non-traded to the tradable sector. There is a connection
+between slow productivity growth and slow rebalancing.
+
+Chart 7b: Impact is bigger when supply is less flexible
+
+PNT/PT
+S Inflex
+S Flex
+
+D
+Decreasing
+factor
+mobility
+
+QNT/QT
+
+This is mostly conjecture. Nor am I pretending that there aren’t other things – most obviously slow growth in
+the UK’s trading partners – that have held up rebalancing. But I will offer a couple of bits of supporting
+evidence for this supply-side story. Chart 8 plots estimates of gross margins in the consumer-facing sector
+(largely non-tradables) and the rest of the private economy (which has a much greater share of tradables). It
+shows a significant divergence between the two, suggesting a similar divergence in their rates of return.
+Chart 9 shows that, despite this dispersion, and despite the depth of the recession, rates of start-ups13 and
+corporate bankruptcies have both been relatively low14.
+
+12
+
+Caballero and Hammour (1996 and 2001). See also Caballero et al. (2007).
+In practice, growth comes more from the expansion of existing enterprises than the formation of new ones. So this start-up rate
+should be seen, in this context, merely as a (very rough) proxy for the wider failure to fund newly profitable economic activity.
+14
+The MPC argued last year, in the August 2010 Inflation Report, that a low corporate failure meant supply-side damage was small.
+The suggestion here is that, at least if you take that series in conjunction with a low start-up rate, it may actually imply the opposite.
+13
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+11
+
+Chart 8: Profit margins of the consumer-facing sector diverges from
+the rest of the private economy
+115
+110
+105
+100
+95
+90
+PNFCs excluding oil
+Non-consumer facing sector
+Consumer facing sector
+
+85
+80
+
+1990
+
+1994
+
+1998
+
+2002
+
+2006
+
+2010
+
+2014
+
+Note: Gross profit margins proxied by value-added price relative to private-sector unit labour
+cost. Indexed to 100 at 1997-2007 average.
+Source: ONS and Bank of England calculations
+
+Anyway, if this is true, it suggests that rebalancing and overall productivity growth will remain sluggish for as
+long as the banking system itself is in poor health. It also implies that, at least for given trends on the
+demand side, sterling’s real exchange rate will have to remain weak for some time to come.
+
+Chart 9: Rates of company formation, and of subsequent liquidation
+much higher in last cycle
+%
+18
+16
+14
+12
+10
+Birth rate
+8
+
+Death rate
+
+6
+1980
+
+1984
+
+1988
+
+1992
+
+1996
+
+2000
+
+2004
+
+2008
+
+Source: ONS and Department for Business Innovation & Skills
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+12
+
+The implications for inflation
+I’ve argued so far that, despite the coincidence with falling interest rates, sterling’s dramatic depreciation in
+2008 was driven not by monetary but by real forces. At a stroke, the financial crisis exposed the UK to the
+troubled assets of its large banks. More significantly, it reduced national income – above all government
+revenue – by more than in other countries. This meant that demand for UK (non-traded) output, and
+therefore its relative price, were bound to decline, that much more so in the presence of a sclerotic banking
+system that is finding it hard to reallocate capital.
+But why should this have anything to do with inflation? All this would occur even in a world with full market
+clearing and no spare resources (Charts 7). In any event, this is a shock to relative prices. There’s no
+necessary reason why there should be any implications for aggregate inflation. The UK has a floating
+exchange rate and monetary independence. It can, over any reasonable period of time, choose its own
+inflation rate. Relative prices change all the time, even when overall CPI inflation is stable – so why was this
+one inflationary?
+The difference in this case, I believe, is one of scale. To have stuck rigidly to the inflation target, while a
+relative price adjustment this large was taking place, would have required a sizeable drop in the price of
+non-traded output not just in relative terms but in absolute terms as well15. Because the non-traded sector is
+labour-intensive that, in turn, would probably have meant a decline in nominal wages and, in order to
+produce it, a significant increase in unemployment. This is especially true if (as the evidence suggests16) the
+Phillips curve flattens out at low levels of wage inflation.
+In other words, the MPC could have kept inflation closer to target through this period (the impact on inflation
+was not unavoidable). It’s just that doing so would have meant an unacceptably high cost in foregone output
+and employment17. Instead, and in order to prevent nominal wages from falling, a part of the relative price
+adjustment was allowed to feed through to aggregate prices.
+This hasn’t been without risk. High spot inflation increases the chances of “second-round” effects on inflation
+expectations. Price-setters in the private economy might begin to assume that this new, higher rate of
+inflation is the new norm. That’s why, at various points over the past year or so, some MPC members have
+voted for a small rise in interest rates.
+
+15
+
+Suppose that the share of traded output in the CPI is t and that rebalancing means its price, relative to that of non-traded output, has
+to rise by an amount Δ. In that case, the change in the aggregate CPI is dp = dpn + tΔ where pn is the price of non-tradables. So if you
+want to make sure that aggregate prices don’t change (dp =0) then non-traded prices have to fall by tΔ. If (as the fx market initially
+implied) the required relative price shift is 15%, and if a third of the CPI is tradables, that would mean a 5% drop in the rest of the index.
+16
+See Akerlof et al. (1996) and Meier (2010)
+17
+David Miles (2011) made exactly this point in a speech in February this year: “Monetary policy could be set so that...inflation moves
+back to target significantly more rapidly than in the Inflation Report. For that to happen, it would probably need a significantly greater
+degree of slack...and higher unemployment. But I am very sceptical about whether it is desirable”.
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+13
+
+But there are three important things to bear in mind. First, it is not the job of the MPC – or, for that matter,
+any inflation-targeting monetary authority18 – to keep inflation on target at all times, come what may. There
+is clearly room for interpretation as to what it means in practice, but the MPC’s remit states explicitly that it
+would be “neither possible nor desirable” to keep CPI inflation at 2% at all times and that the aim is instead to
+“bring inflation back to target within a reasonable period of time without creating undue instability in the
+economy”.
+Second, inflation expectations have actually remained pretty well anchored over the past three years.
+Longer-term survey measures are close to their historic averages. Though there are plenty of other reasons
+why this is true, private-sector pay settlements are below average. The MPC will have to remain vigilant for
+such effects. But I see little evidence that, so far at least, high spot inflation has materially dented confidence
+in the inflation target over the medium term. With the relative price change now largely complete, that is
+very reassuring.
+Third, and most importantly for policy today, the international environment is clearly disinflationary. The
+‘common factors’ I referred to earlier – slow growth in the United States, the sovereign debt crisis in the
+Eurozone and its knock-on effects on the cost of finance for UK and European banks – all threaten a further
+tightening in retail credit and a further slowing in domestic activity. Indeed, these effects are already visible
+and, over the medium term, look set to dominate any remaining “pass-through” from sterling’s depreciation to
+domestic inflation.
+There are clearly other policies – above all in the Eurozone – that would forestall some of these things, and
+do so more effectively than UK monetary policy alone could ever hope to. But that doesn’t mean either that
+UK monetary policy is powerless or that it doesn’t have its own role to play.
+
+Summary and some conclusions
+Many economic commentators, particularly in recent years, have tended to see exchange rates as a
+battleground – countries are frequently said to be involved in “currency wars”. In 2008 and 2009, the MPC
+was often labelled as a combatant, accused of deliberately deflating the value of the UK currency. Never
+mind that there might have other reasons for sterling’s depreciation. Inflation subsequently rose, by more
+than in other countries, and if something walks and quacks like a duck, then surely it’s a duck.
+It’s clear that such international tensions exist. But at least as far as sterling’s depreciation is concerned, the
+military analogies are overdone. For one thing, the currency weakened but the bond market did not. So if
+one leg was duck-like, the other certainly wasn’t. Second (forgive the over-extension of the duck metaphor)
+18
+
+In his overview of inflation targeting in the latest Handbook of Monetary Economics, Lars Svensson (2010) says that “In practice,
+inflation targeting is never ‘strict’ but always ‘flexible’, in the sense that all inflation-targeting central banks aim not only at stabilising
+inflation around the target but also put some weight on stabilising the real economy.”
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+14
+
+much of the subsequent quacking came from other sources, notably commodities and indirect taxes. Third,
+we have good reason – the need to rebalance supply, following an inescapable, crisis-induced rebalancing
+of demand – to believe what the financial markets told us at the time, namely that sterling’s depreciation was
+primarily the result of a decline in the equilibrium real exchange rate. A dysfunctional banking system, or
+any other impediment to the reallocation of supply, can only have amplified that decline.
+That doesn’t tell the whole story. Some of the inflation – and also the depreciation – probably have been the
+result of a de facto accommodation on the part of monetary policy. That’s because sticking rigidly to the
+inflation target would have meant a much larger rise in unemployment, and the remit of the UK MPC, like that
+of other inflation targeters, rightly avoids that prescription. In the meantime, medium-term inflation
+expectations have remained broadly stable.
+I think there are some longer-term lessons to be drawn from this. One is that the credibility of the UK’s
+inflation-targeting regime looks reasonably robust. That’s clearly not something that can, or should, be taken
+for granted. Credibility is earned, over time, by keeping inflation close to its target. But it is striking how
+stable both pay growth and medium-term inflation expectations have been in the face of these relatively large
+swings in spot inflation.
+Second, however, even credible monetary policy has its limits. The long rise in commodity prices, the
+financial crisis and the sluggish rebalancing of supply have all acted to reduce real household incomes. It
+matters to some degree whether this occurs via higher inflation or lower nominal wages, because the latter
+route would probably have involved higher unemployment, if only for a time. Credibility means monetary
+policy can, within limits, choose the former course. But the hit to real incomes would have occurred either
+way.
+Third, controlling inflation is harder when the real economy is more volatile. In that sense, the last few years
+have borne out the pessimistic promise of the Governor’s speech eight years ago (King (2003)), in which he
+warned us not to count forever on the benign environment of the previous, “NICE” decade (NICE standing for
+“Non-Inflationary Consistently Expansionary”). The early years of globalisation brought steady rises in the
+terms of trade, steady declines in long-term real interest rates and, thanks in part to the accompanying
+growth in banks’ balance sheets, buoyant government revenue. All that made it easier to keep inflation low,
+and most of it has since been reversed. One can hope, at least, that the next few years will be not be as
+difficult as the last few have been. Equally, I rather doubt my time on the MPC will be as “NICE” as the Great
+Moderation.
+Finally, having acknowledged at the start that monetary policy makers are often thought to talk too much, I
+fear I have done precisely that.
+So thank you for your patience.
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+15
+
+References
+Akerlof, G.A., Dickens, W.T and Perry, G.L. , (1996) “The Macroeconomics of Low Inflation”, Brookings
+Papers on Economic Activity, pp. 1–59.
+Benetrix, A. and Lane, P. (2009), “Fiscal Shocks and the Real Exchange Rate”, The Institute for
+International Integration Studies Discussion Paper Series, No. 286.
+Blanchard, O. and Quah, D. (1989), “The Dynamic Effect of Aggregate Demand and Supply
+Disturbances”, American Economics Review, Vol. 79, No. 4.
+Caballero, R. J. and Hammour, M. L. (1996) "On the Timing and Efficiency of Creative Destruction”,
+Quarterly Journal of Economics 111.
+Caballero, R. J. and Hammour, M. L. (2001) “Institutions, Restructuring, and Macroeconomic
+Performance", in Advances in Macroeconomic Theory, ed. J.Dreze.
+Caballero, R. J., Hoshi T and Kashyap A. (2007) “Zombie Lending and Depressed Restructuring in
+Japan”, American Economic Review 98.
+Froot, K. and Rogoff, K. (1991) “The EMS, the EMU, and the Transition to a Common Currency”. NBER
+Macroeconomics Annual 1991 Volume 6
+King (2003), Speech given to East Midlands Development Agency, available at:
+http://www.bankofengland.co.uk/publications/speeches/2003/speech204.pdf
+Meier, A. (2010), “Still Minding the Gap- Inflation Dynamics during Episodes of Persistent Large Output
+Gaps”, IMF Working Paper 10/189
+Miles, D. (2011), “Monetary Policy in Extraordinary Times”. Speech to the Centre for Economic Policy
+Research and London Business School, London, available at:
+http://www.bankofengland.co.uk/publications/speeches/2011/speech475.pdf
+Romer, C. and Romer, D. (1990), “Does Monetary Policy Matter? A New Test in the Spirit of Friedman and
+Schwartz”, NBER Working paper, No. 2966, National Bureau of Economic Research.
+Ricci, L., Milesi-Ferretti, G. M. and Lee, L. (2008) “Real Exchange Rates and Fundamentals: A
+Cross-Country Perspective.” IMF Working Paper No. 08/13.
+Reinhart, C and Rogoff, K. (2009) “The Aftermath of the Financial Crisis”, NBER Working Papers 14656,
+National Bureau of Economic Research.
+Sims, C. (1980), "Macroeconomics and Reality", Econometrica, 48.
+Svensson, L. (2010) “Inflation Targeting”, in Friedman, Benjamin M., and Michael Woodford, eds.,
+Handbook of Monetary Economics, Volume b, chapter 22, Elsevier
+Uhlig, H. (2005), ‘What are the effects of monetary policy on output? Results from an agnostic identification
+procedure’, Journal of Monetary Economics, Vol. 52, pages 381.419.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+16
+
+

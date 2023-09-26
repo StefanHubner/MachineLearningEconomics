@@ -1,0 +1,470 @@
+Bank of England
+
+Page 1
+
+Appendix to “What’s driving inflation: wages,
+profits, or energy prices?” – speech by
+Jonathan Haskel, May 2023
+This appendix provides additional details of concepts, methods and data, and additional
+results, in relation to the speech titled “What’s driving inflation: wages, profits, or energy
+prices?” given by Jonathan Haskel at the Peterson Institute for International Economics on
+25 May 2023.
+
+Concepts
+Gross domestic product (GDP) at market prices in the National Accounts can be
+calculated in three ways:
+•
+•
+•
+
+Output approach – the sum of all value added produced by the domestic economy
+Expenditure approach – the sum of all expenditure on final products produced by
+the domestic economic
+Income approach – the sum of all income earned from production activities in the
+domestic economy
+
+We will use the expenditure and income approaches, and the components therein, as part
+of the decomposition of the GDP deflator.
+The GDP deflator is the implied deflator from the combination of the estimate of GDP in
+nominal terms (current prices) and volume terms (chained volume measures). It is, in
+effect, a composite deflator of all the items in GDP with appropriate weights.
+GDP at market prices is equal to gross value added (GVA) at basic prices plus taxes on
+products, less subsidies on products. This adjustment is called the basic price adjustment.
+Taxes and subsidies on products relate only to the selling price of products, not to their
+production, and are (usually) paid by all sectors of the economy, so these are not allocated
+to sectors.
+
+Income
+By the income approach, GVA at basic prices is equal to compensation of employees
+(CoE), mixed income (MI), gross operating surplus (GOS), and taxes less subsidies on
+production.
+
+Bank of England
+
+Page 2
+
+CoE represents all payments to labour, including wages and salaries, bonuses, payments
+in kind (e.g. perks such as company cars), and employer’s social contributions (notably
+pension contributions and, in the UK, National Insurance contributions). It is calculated
+before income taxes (and before employee’s National Insurance contributions in the UK).
+Mixed income covers the income of the self-employed, which is conceptually a mix of both
+labour and capital income. Ideally, we would separate this into labour and capital income,
+but by its nature that cannot be done reliably. In international data it is usually reported in
+combination with gross operating surplus (i.e. GOS+MI), even though it is not all
+conceptually capital income.
+GOS is the balancing item of the production account, calculated as GVA at basic prices
+minus CoE, MI, and taxes less subsidies on production. Conceptually, GOS is the return
+on capital, although in practice, since it is calculated by residual, it also captures a range of
+other factors, such as monopoly rents and measurement error. GOS is gross of
+consumption of fixed capital (CFC), which is the estimated economic cost of depreciation
+of capital assets recorded in the National Accounts. After deducting CFC, the remainder is
+net operating surplus (NOS). For the corporate sector, NOS is the closest concept to
+‘profit’, although as above it is calculated by residual and so in practice can include many
+factors other than profit.
+GOS can be decomposed into the GOS of different institutional sectors: corporations
+(public and private), government, non-profit institutions serving households (NPISH), and
+households. The GOS of each of these sectors is described below:
+•
+
+Corporations – GOS reflects CFC and NOS.
+o CFC – depreciation on the tangible and intangible capital recorded in the
+National Accounts, including buildings, machinery, ICT equipment, transport
+equipment, software, R&D, and artistic originals.
+o NOS – conceptually the economic return on the above measured assets and
+any other assets. In practice, also measurement error.
+
+•
+
+Government and NPISH – NOS is assumed to be zero by convention, so GOS is
+equal only to CFC. CFC is depreciation on the same types of assets as for the
+corporations sector, but those assets which are owned by the government and
+NPISH sectors.
+
+•
+
+Households – GOS reflects CFC and NOS, mostly in relation to housing assets
+(dwellings).
+o CFC – depreciation on assets owned by the household sector, which is
+mostly dwellings. Households who own their houses outright, or through a
+mortgage, are owner-occupier households – depreciation on these dwellings
+is CFC in the household sector.
+
+Bank of England
+
+Page 3
+
+o NOS – mostly the value of owner-occupier dwellings income, also known as
+imputed rentals. This is conceptually the rental income a household would
+earn if renting their house to a third-party, instead of occupying it themselves.
+In the UK National Accounts, a quarterly ‘alignment adjustment’ is also included in GOS,
+allocated to the corporations NOS component. The alignment adjustment reflects
+differences in the timing of recording of different components of GDP, and is used to
+reconcile the different measures of GDP on a quarterly basis. The alignment adjustment
+sums to zero across a calendar year, so does not affect year-on-year comparisons, but
+can materially affect individual quarters. It reflects (positive or negative) income in the
+economy, but it is unclear which type of income. Since GOS, and particularly the NOS of
+corporations component, is the least well-measured income component in GDP (especially
+in the short run), the alignment adjustment is allocated there by convention. This does not
+necessarily mean that the income reflected by the alignment adjustment is, in fact, NOS of
+corporations.
+There are also other types of measurement error in the UK National Accounts in the short
+term. Differences between the levels of GVA estimated via the three approaches to GDP
+are known as ‘statistical discrepancies’. In the long run, all three approach to measuring
+GDP are balanced as part of a Supply and Use balancing process, and the statistical
+discrepancies are eliminated. In the short run, differences can persist. The statistical
+discrepancy on income reflects the fact that the sum of the income components adds up to
+either more or less than the headline estimate of GDP. As for the alignment adjustment
+(although for a slightly different reason), this reflects (positive or negative) income,
+although the source of that is unclear.
+How these measurement errors are accounted for in other countries, and how big they are,
+is unknown. But we suspect they are usually allocated to the GOS component of the
+income approach to GDP.
+Taxes and subsidies are discussed in the speech.
+
+Expenditure
+GDP by the expenditure approach is the sum of expenditures on final goods and services.
+It comprises the following components:
+•
+
+Household final consumption expenditure – all expenditure on goods and services
+by households, including owner-occupier housing costs, and financial
+intermediation services indirectly measured (FISIM). The scope of this is not exactly
+the same as the scope of the CPI basket, with the aforementioned components
+being notable differences. Even where the scope is the same, the weights and price
+indices used may be different between the CPI and National Accounts.
+
+Bank of England
+
+Page 4
+
+•
+
+NPISH final consumption expenditure – by convention, the NPISH sector is
+assumed to consume its own non-market output.
+
+•
+
+Government financial consumption expenditure – by convention, the government
+sector is assumed to consume its own non-market output.
+Gross capital formation – comprising gross fixed capital formation (GFCF), changes
+in inventories, and acquisitions less disposals of valuables.
+
+•
+•
+
+Exports – covering goods and services, including re-exports (goods imported then
+exported with no additional processing).
+
+•
+
+(less) Imports – since the other components may include imported goods and
+services, and these do not reflect domestic value added or income, imports are
+deducted in the expenditure approach to GDP.
+
+Methods
+By the income approach to GDP, we can express nominal (current price) GDP as the sum
+of labour income, capital income, and taxes less subsidies. Imagine that mixed income has
+been split appropriately into capital and labour income. We can write this as in equation 1:
+
+PV V = WL + RK + TxS
+
+(1)
+
+=
+
+Where 𝑃𝑉Lis the price of GDP, 𝑉 isKreal GDP, 𝑊 is the average
+TxS unit price of labour
+dp
+=
+s
+(
+dw
+−
+(
+dv
+−
+dl
+))
++
+s
+(
+dr
+−
+(
+dv
+−
+dk
+))
++
+s
+dTxS
+− dv )
+V
+V𝐿 is the volume of labour,
+V 𝑅 is the average unit price
+V (of
+(wages),
+capital (rental price), 𝐾 is
+Unit labour𝑇costs
+Unit capital
+the volume of capital,
+is taxes on products
+andcosts
+production, and 𝑆 is subsidies on
+products and production, so 𝑇𝑥𝑆 is net taxes (taxes less subsidies) on products and
+production.
+
+or
+PV V = WL + RK + TxS
+L
+K by real GDP, and
+TxS taking annual percentage changes, gives equation 2:
+Dividing
+both
+sides
+dp
+=
+s
+dw
++
+s
+dr
+−
+dtfp
++
+s
+(dTxS − dv )
+V
+V
+V
+V
+=
+dpV = sVL (dw − (dv − dl )) + sVK (dr − (dv − dk )) + sVT (dT − dv) − sVS (dS − dv )
+Unit labour costs
+
+Unit capital costs
+
+Unit taxes
+
+Unit subsidies
+
+(2)
+
+Where terms preceded by 𝑑 and in lower case represent annual percentage changes. 𝑠𝑉𝐿 is
+the share of labour income in (current price) GDP in the base period, and equivalently for
+the share of capital income (𝑠𝑉𝐾 ), taxes (𝑠𝑉𝑇 ) and subsidies (𝑠𝑉𝑆 ). The unit labour costs and
+unit capital costs terms have been re-arranged such that labour productivity and capital
+productivity, respectively, have been made explicit.
+Time subscripts are omitted for brevity, but unit cost growth of each component is
+weighted by their shares in GDP in the base period, updating each quarter. For instance,
+annual growth to 2022 Q3 is weighted by the shares of GDP in 2021 Q3, and annual
+growth in 2022 Q4 is weighted by the shares of GDP in 2021 Q4. This decomposition is
+
+Bank of England
+
+Page 5
+
+exactly additive, i.e. the terms on the right-hand side exactly add up to the annual
+percentage change in the implied GDP deflator, assuming that the shares add up to
+exactly 100%. This requires that any statistical discrepancies are allocated to some
+component of income.
+
+PV V = WL
++ RK
++ TxS used in Charts 3-5 and Table A of the speech. Chart 2
+Equation
+2 is the
+decomposition
+does similarly, but that separates the unit capital costs term further. Figure 6 is a
+=
+scatterplot of the unit capital costs term and unit subsidies term of this equation, across
+European
+dp = s Lcountries.
+(dw − (dv − dl )) + s K (dr − (dv − dk )) + s TxS (dTxS − dv )
+V
+
+V
+
+V
+
+V
+
+Unit labour costs
+Unit capital costs
+Define total factor
+productivity (TFP) growth
+of the economy as real GDP growth less
+share-weighted growth in the volume of labour and capital inputs. Then, equation 2 can be
+re-expressed as in equation 3 (which is equivalent to equation 3 in the speech):
+
+or
+
+dpV = sVL dw + sVK dr − dtfp + sVTxS (dTxS − dv )
+
+(3)
+
+Where we have combined the taxes and subsidies terms into a net taxes term for
+convenience. Note that TFP growth reduces GDP inflation, since it enables growth in real
+GDP for a given volume of inputs, and is thus not inflationary.
+Now, from the expenditure approach to GDP, note that we can express nominal GDP as
+the sum of the components, as described earlier. Each has a price and volume
+component. Rearranging, we can express household final consumption expenditure
+(henceforth, consumption) as GDP less the other components (which is to add imports,
+since it was previously subtracted). This is shown in equation 4:
+
+PC C = PVV + PM M − PX X − PI I − PGG
+
+(4)
+
+Where 𝑃𝐶 , 𝑃𝑉 , 𝑃𝑀 , 𝑃𝑋 , 𝑃𝐼 , and 𝑃𝐺 are the prices of consumption, GDP, imports, exports,
+investment (gross capital formation), and government final consumption expenditure (and
+NPISH final consumption expenditure, which is small so omitted for brevity), respectively.
+Similarly, 𝐶, 𝑉, 𝑀, 𝑋, 𝐼, and 𝐺 are the volumes of consumption, GDP, imports, exports,
+investment, and government final consumption expenditure, respectively.
+Dividing by real GDP, and taking annual percentage changes, the share-weighted price of
+consumption can be written as the price of GDP, plus the share-weighted price of imports,
+minus the share-weighted price of the other components, where the shares are in terms of
+current price GDP. Dividing then by the consumption share of GDP, and re-arranging, the
+price of consumption can be written as the price of GDP, plus the consumption-shareweighted price of imports relative to the GDP price, minus the consumption-share-
+
+Bank of England
+
+Page 6
+
+weighted price of the other components relative to the GDP price. This is shown in
+equation 5:
+
+dpC = dpV + sCM (dpm − dpV ) − sCX (dp X − dpV ) − sCI (dpI − dpV ) − sCG (dpG − dpV )
++ sCV
+
+(5)
+
+Where 𝑠𝐶𝑀 , 𝑠𝐶𝑋 , 𝑠𝐶𝐼 , 𝑠𝐶𝐺 , and 𝑠𝐶𝑉 are the shares of imports, exports, investment, government
+final consumption expenditure, and GDP in consumption. For instance, the export share of
+consumption is current price exports divided by current price consumption. ψ is an error
+term to capture any index number problems, which arise from the use of chained indices
+and various statistical discrepancies.
+The investment and government consumption terms are usually small and not important
+for our analysis, so we can combine them into an ‘other’ term. Assuming that the shares of
+imports and exports in GDP (and thus in consumption) are similar, i.e. there is close to a
+trade balance, then we can simplify these terms into a ‘terms of trade’ term – this is
+approximately true in the UK data, so done here for brevity in notation, but in practice we
+will estimate each term with the appropriate shares for all countries. Then this can be
+written as in equation 6 (which is equivalent to equation 2 in the speech):
+
+dpC = dpV + sCM (dpM − dp X ) + '
+
+(6)
+
+Where ψ' now includes the investment and government terms from equation 5.
+Finally we can substitute the decomposition of the GDP deflator from equation 2, in for 𝑑𝑝𝑉
+in equation 6, which gives equation 7 (which is equivalent to equation 4 in the speech):
+
+dpC = sVL dw + sVK dr − dtfp + sVT (dT − dv) − sVS (dS − dv ) + sCM (dpM − dp X ) +  ''
+
+(7)
+
+Where all terms are as previously defined, except 𝑑𝑝𝐶 which we will now define as CPI
+inflation instead of the National Accounts consumption deflator. As previously discussed,
+these are subtly different in scope and measurement, most notably by the exclusion in CPI
+of the cost of owner-occupied housing costs. Thus ψ'' now also captures the difference
+between CPI inflation and inflation in the National Accounts consumption deflator. For the
+US, we continue to use the National Accounts consumption deflator, which is what the Fed
+focuses on.
+The decomposition of consumer price inflation in equation 7 is used for Charts 7-10 and
+Tables B and C in the speech. It is described in words in the speech.
+
+Bank of England
+
+Page 7
+
+Data
+Chart 2
+Data for Chart 2 in the speech are sourced from the UK Office for National Statistics
+(ONS) GDP tables consistent with the First Quarterly Estimate published on 12 May 2023.
+While that contains quarterly data up to 2023 Q1, we only use data up to 2022 Q4 in the
+speech since that is the latest period for the international data used elsewhere in the
+speech, and early estimates of the income components of GDP are highly uncertain.
+This is supplemented with some additional detail on the breakdown of gross operating
+surplus only available in the Quarterly National Accounts, the latest of which was
+published on 31 March 2023.
+
+Charts 3-5 and Table A
+Data for Charts 3-5 and Table A were downloaded from the OECD website on 17 May
+2023. The OECD in turn source these data from the ONS for the UK, the Bureau of
+Economic Analysis (BEA) for the US, and Eurostat for the euro area.
+
+Chart 6
+Data for Chart 6 for all 27 EU countries and Switzerland were downloaded from the
+Eurostat website on 28 April 2023. Eurostat no longer maintains data for the UK, so this
+was taken from the data used for Chart 3. The chart shows a scatterplot of the unit
+subsidies contribution against the unit capital costs contribution, each as in the
+decomposition of inflation in the GDP deflator, as defined in equation 2 of this appendix.
+The contributions are calculated quarterly and the average of the contributions in 2022 Q3
+and 2022 Q4 are taken and plotted. The result is similar is using the 2022 Q4 data alone.
+
+Charts 7-10 and Tables B and C
+Charts 7-10 and Tables B and C use much the same data as described above for Charts
+3-5 and Table A, with some additions.
+Data on hours worked come from the ONS, Bureau of Labour Statistics (BLS), and
+Eurostat for the UK, US and euro area respectively. The UK measure is total actual weekly
+hours worked for all in employment in the UK, sourced from the Labour Force Survey.
+The US measure is total economy hours worked, covering the non-farm business sector,
+farm sector, non-profits, private households, armed forces, and general government. This
+is published as part of the BLS Productivity programme. The euro-area measure is a
+total hours worked measure collected from member countries by Eurostat as part of the
+quarterly national accounts collection. It is domestic concept, covering all industries.
+
+Bank of England
+
+Page 8
+
+Quarterly estimates of the capital stock are constructed by the author. Annual estimates of
+the capital stock are taken from the EU KLEMS database up to the end of 2019. We
+extend this forward using the perpetual inventory method, using whole economy gross
+fixed capital formation from national accounts via OECD, and an assumed depreciation
+rate based on historic depreciation rates. We convert annual estimates to a quarterly
+estimate by interpolating linearly between quarters.
+Data on the expenditure components of GDP are sourced via the OECD from the ONS for
+the UK, the Bureau of Economic Analysis (BEA) for the US, and Eurostat for the euro
+area. Data were downloaded on 17 May 2023.
+
+Additional results
+Chart 2 of the speech provides a more detailed breakdown of growth in the UK GDP
+deflator using data from the ONS. This is based on the decomposition in equation 2, but
+with additional data in the unit capital costs component, and with statistical discrepancies
+separated.
+Chart A1 provides the decomposition of the GDP deflator in the first stack of bars in Chart
+2 from the speech, as a time series for 2019-2021 and 2022 Q1 to 2022 Q4. The stack of
+bars for 2022 Q4 in Chart A1 is equivalent to the first stack of bars in Chart 2 from the
+speech.
+Chart A2 provides the decomposition of unit capital costs in the second stack of bars in
+Chart 2 of the speech, as a time series for 2019-2021 and 2022 Q1 to 2022 Q4. The stack
+of bars for 2022 Q4 in Chart A2 is equivalent to the second stack of bars in Chart 2 from
+the speech. The orange line for unit capital costs in Chart A2 is equivalent to the orange
+bars for unit capital costs in Chart A1.
+
+Bank of England
+
+Page 9
+
+Chart A1: Detailed decomposition of UK GDP deflator growth, 2019 to 2022
+Q4 (a)
+
+Source: ONS, author’s calculations.
+(a) This breakdown is the same as in the first stack of bars in Chart 2 of the speech, and the 2022 Q4 stack
+of bars in this chart is equivalent to the first stack of bars in Chart 2 of the speech. Unit capital costs are
+separated in Chart A2. Statistical discrepancies includes both the quarterly income alignment adjustment
+and the statistical discrepancy on income.
+
+Chart A2: Detailed decomposition of UK unit capital costs, 2019 to 2022
+Q4 (a)
+
+Source: ONS, author’s calculations.
+(a) This breakdown is the same as in the second stack of bars in Chart 2 of the speech, and the 2022 Q4
+stack of bars in this chart is equivalent to the second stack of bars in Chart 2 of the speech. Unit capital costs
+are separated in Chart A2. CFC stands for consumption of fixed capital, which is the term for depreciation in
+the National Accounts. Unit other income includes owner-occupied housing income, and the consumption of
+fixed capital of government and the non-profit institutions serving households (NPISH) sector.
+
+

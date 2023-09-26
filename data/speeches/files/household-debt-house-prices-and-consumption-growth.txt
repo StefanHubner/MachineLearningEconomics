@@ -1,0 +1,632 @@
+Household Debt, House Prices and Consumption Growth
+Speech given by
+Stephen Nickell, Bank of England Monetary Policy Committee and Professor at the
+London School of Economics
+
+At Bloomberg, London
+14 September 2004
+
+I am grateful to Ryan Banerjee for help in the preparation of this speech and to Peter Andrews, Kate Barker,
+Charlie Bean, Marian Bell, Ian Bond, Rachel Lomax, Jumana Saleheen and Andrew Wardlow for valuable
+comments on an earlier draft.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+Summary
+1. Two questions are considered. First, what, if any, are the connections between
+household debt accumulation and consumption growth in the UK? Second, given that the
+ratio of house prices to earnings is at a record level in the UK, what can we say about the
+equilibrium level of this ratio today and what are the implications for prospects in the
+housing market?
+2. With regard to the first question, two facts are worth noting. Since 1998, the
+proportion of their post-tax income consumed by households has remained stable. This
+despite the fact that mortgage equity withdrawal plus unsecured credit growth has risen
+over the same period from 2% of post-tax income to nearly 10% of post-tax income.
+These apparently inconsistent facts may be reconciled by the fact that since 1998, the
+increasing rate of debt accumulation by households has been closely matched by their
+increasing rate of financial asset accumulation. As a consequence, there is no significant
+relationship between aggregate consumption growth and aggregate debt accumulation.
+3. For a variety of reasons, in particular the sharp fall in long-term real interest rates since
+the mid to late 1990s, the equilibrium ratio of house prices to earnings is well above the
+average level of this ratio over the last 20 years.
+4. However, the precise level of this equilibrium ratio is highly uncertain, as is the speed
+with which house prices will return to this equilibrium level. This uncertainty explains
+why commentators and analysts produce such a wide variety of forecasts for house price
+inflation.
+5. The analysis indicates that there is a significant probability that house prices will fall at
+some stage, though we cannot of course know by how much. Equally, it is also quite
+possible that house prices will not fall at all. This is simply a reflection of the uncertainty
+noted above.
+6. The evidence suggests that house price inflation is significantly related to household
+consumption growth and hence to aggregate demand growth and future consumer price
+inflation in the economy. As a consequence, prospects for house price inflation will play a
+significant direct role in monetary policy aimed at general inflation in the economy despite
+the fact that house prices are not included in the Consumer Price Index. By contrast, the
+fact that household debt accumulation appears not to be closely related to household
+consumption growth indicates that it will not have a direct impact on monetary policy.
+However, it may have some small indirect impact if, for example, high levels of debt make
+the response of the economy to interest rate changes more uncertain.
+
+3
+Introduction
+For some years now, UK house prices and household debt have been making not just the
+front pages of business sections but the front pages of the main papers. Since these topics
+remain of some potential significance in the conduct of monetary policy, they are worth
+returning to despite my having already discussed them at some length (for example, in
+Nickell, 2003 a, b). Here, I look at two particular questions, first, what, if any, are the
+connections between household debt accumulation and consumption growth? Second,
+given that the ratio of house prices to earnings is at a record level in the UK, what can we
+say about the equilibrium level of this ratio and thus about future prospects for house
+prices? Basically, with regard to the first question, I argue that there is not much of a
+connection between the rate of accumulation of household debt and household
+consumption growth. Concerning the second question, I find there are very good reasons
+why the equilibrium level of house prices to earnings has risen significantly since the early
+and middle 1990s. However, the precise equilibrium level is highly uncertain as is the
+prospective speed at which house prices will return to this equilibrium.
+Since the evidence suggests that house price inflation has an impact on consumption
+growth, aggregate demand growth and future general inflation, levels of house price
+inflation have a direct impact on monetary policy. By contrast, the fact that there appears
+to be little or no connection between household debt accumulation and consumption
+growth indicates that the rate of household debt accumulation may be expected to have
+little direct impact on monetary policy (see ft.8 below, however).
+Household Debt Accumulation and Consumption Growth
+It is often suggested that we are in the middle of a long-lived consumption boom in the
+UK funded by a tidal wave of debt. As a matter of fact, this statement is more or less
+completely incorrect1. Starting with the notion of a consumption boom, as we can see
+from Figure 1, real quarterly consumption growth since 2000 was significantly below the
+rate in the late 1990s. Interestingly enough, the average quarterly growth rate of real
+household consumption since 2000 has been around 0.7%, almost exactly the same as the
+average quarterly growth rate of consumption in the UK since 1975. And there has been
+
+4
+no acceleration of consumption over the last couple of years. Thus we are not in the midst
+of a consumption boom. So what about the tidal wave of debt?
+UK households are indeed increasing their debt at a very rapid rate, in the form of both
+mortgage equity withdrawal (MEW) and unsecured debt. Yet as we can see from Figure
+2, the proportion of post-tax income which is consumed has been flat since 1998. And this
+while mortgage equity withdrawal plus unsecured credit growth was rising from around
+2% of post-tax household income in 1998 to nearly 10% in the latest data.2 So what is
+going on?
+First, let us look at the mechanical relationship between the consumption, post-tax income
+and debt of households. The basic identity is 3
+Consumption ≡
+
+Post Tax Income – Net Acquisition of Financial Assets
+- Net Acquisition of Housing Assets
++ Net Acquisition of Financial Liabilities
+
+This simply says that in aggregate, post-tax income plus new debt can be spent either on
+consumption or on houses or on financial assets. So where does MEW come into the
+story? First, financial liabilities can be divided into secured and unsecured. Then MEW is
+defined by
+MEW =
+
+Net Acquisition of Secured Financial Liabilities
+- Net Acquisition of Housing Assets
+
+So if we add the net increase in unsecured debt to MEW, we get the net acquisition of
+financial liabilities less the net acquisition of housing assets. This is sometimes known as
+lending “available” for consumption. But as Figure 2 has shown, while it may be
+available for consumption, it is not necessarily used for this purpose because some of it
+goes towards an increase in the rate of acquisition of financial assets.
+Let us look at the facts. First, rewrite the basic identity as
+Consumption = 1 – NA Financial Assets – NA Housing Assets + NA Financial Liabilities
+PT Income
+PT Income
+PT Income
+PT Income
+(NA = Net Acquisition, PT = Post-Tax)
+
+5
+So to understand how consumption changes relative to post-tax income, we need to look at
+the net acquisition of financial assets, housing assets and financial liabilities, all relative to
+post-tax income. In Table 1, we see that the net acquisition of housing assets has risen
+gradually relative to post-tax income since the early 1990s. This term consists basically of
+the purchase of newly built houses and the money spent on home improvements. Houses
+purchased by one household from another household cancel out and so make no
+contribution. The net acquisition of financial liabilities, which simply refers to the
+accumulation of household debt, increased gradually during the mid-1990s but more than
+doubled from 1998 to 2003. Interestingly enough, the rate at which households
+accumulated financial assets increased rapidly from exactly the same date, nearly doubling
+from 1998 to 2003. In a mechanical sense, this is why consumption has not risen as a
+share of household post-tax income over the last six years. During this period when the
+rate of household debt accumulation has been rising rapidly, the rate of household
+financial asset accumulation has also been rising rapidly. So is this just a happy accident,
+or are there reasons why the accumulation of debt and assets might be related? The first
+point to note is that it seems unlikely that the households which are accumulating this
+extra debt are the same households which are accumulating the extra financial assets.
+Indeed, we know that most of the new debt is secured on houses (see the last two columns
+in Table 1) so a good part of it will be associated with the accumulation of housing assets
+by individual households. In aggregate, on the other hand, this is not the case because
+most house purchases simply involve one household buying a house from another
+household, with little net accumulation of housing assets in aggregate.
+So any possible systematic connection between debt accumulation and financial asset
+accumulation will typically involve more than one household. An obvious example is
+when a household takes out a substantial mortgage to purchase a house from a last-time
+seller who has no mortgage and is either moving into rented accommodation (e.g. an old
+peoples’ home) or has received the property as an inheritance. In either case it is entirely
+plausible that the seller will invest the money from the sale of the property in financial
+assets and we see a direct correspondence between the increase in household debt
+generated by the buyer and the accumulation of financial assets by the seller.
+Furthermore, as house prices rise, we can expect both debt accumulation and financial
+asset accumulation to be bigger in each transaction of this type.
+
+6
+So it is clear from this example that some housing transactions will generate both net
+increases in debt and net increases in asset accumulation. Interestingly enough this
+example involves mortgage equity withdrawal because there has been an increase in
+aggregate secured debt and no aggregate housing investment. So here we have an
+example of mortgage equity withdrawal which does not involve additional consumption.
+Of course, there are other housing transactions which lead directly to both mortgage equity
+withdrawal and increased consumption. The obvious example is where households simply
+borrow more by raising the mortgage on their existing property. But it is important to
+recognise that a substantial proportion of mortgage equity withdrawal is not of this type
+and leads not to increased consumption but to increased financial asset accumulation.
+That is why both the rate of accumulation of financial liabilities and of financial assets
+have risen together, leaving the proportion of post-tax household income which is
+consumed remarkably stable over the last six years.
+So to summarise, what we have seen is first, the average quarterly growth rate of real
+consumption since 2000 has been almost exactly equal to the average growth rate over the
+last thirty years, so there is no consumption boom. Second, since 1998 the proportion of
+their post-tax income which has been consumed by households has been stable, despite the
+fact that mortgage equity withdrawal plus unsecured credit has grown from 2 per cent of
+post-tax income to nearly 10 per cent of post-tax income over the same period. Third,
+these two apparently inconsistent facts are reconciled by the fact that since 1998, the
+increasing rate of accumulation of debt by households has been closely matched by the
+increasing rate of accumulation of financial assets. Furthermore, this is not an accident.
+There are good reasons why aggregate secured debt accumulation and aggregate financial
+asset accumulation might be related, particularly in a period of rapidly rising house prices.
+Finally, therefore, there is no strong relationship between aggregate consumption growth
+and aggregate debt accumulation.4
+Prospects for House Prices
+Historically, there is an empirical relationship between household consumption and house
+prices. This relationship is the result of various mechanisms. First, houses are a
+significant part of household wealth and this higher wealth is typically associated with
+higher consumption, at least among those who own houses. However, an increase in
+
+7
+house prices arguably makes non-home owners worse off via higher rents or the higher
+savings required for future house purchase. So the consumption of this group may fall and
+the overall wealth effect may be negligible. Second, households may borrow vastly more
+cheaply if they own housing equity which may be used as collateral. Then an increase in
+house prices raises housing equity and cheaper borrowing typically results in increased
+consumption. Third, both house prices and household consumption tend to be positively
+related to household expectations of future earnings.
+This empirical relationship between household consumption and house prices is by no
+means a stable one, but it is nevertheless important for monetary policy because house
+price inflation, being positively related to household consumption, is therefore positively
+related to aggregate demand and hence future inflation. So even though house prices are
+not included in the Consumer Price Index, monetary policy must pay them close attention
+(see Aoki et al. 2001, for more detail).
+The level of house prices today is apparently very high in the sense that it is well above its
+average level relative to earnings (see Figure 3). Currently, house prices are close to six
+times average earnings and this ratio would have to fall by around 32% to reach its
+average level since 1982. As we shall see, however, there are good reasons for believing
+that today the ratio of house prices to earnings in equilibrium may be higher than the
+average ratio since 1982. Precisely how much higher is very uncertain. Furthermore, the
+length of time it will take for house prices to get back to the equilibrium ratio relative to
+earnings is also very uncertain. This double uncertainty explains why commentators and
+analysts produce such a wide variety of prognoses for the housing market, from the very
+softest of soft landings to crashes of dramatic proportions.
+Turning to the reasons why the equilibrium house prices to earnings ratio may have risen
+in recent years, the first obvious point is that the level of individual earnings is not the
+natural denominator. Rather, average household disposable income seems more
+reasonable. This is relevant because the proportion of two-earner households has been
+rising steadily over the last twenty five years. So if we restrict ourselves to the top 70% of
+income earners, because the majority of the rest are on state benefits and are unlikely to be
+in the market for houses, we see from Figure 3 that the ratio of house prices to the average
+household income of the top 70% of households is around 3.5 and would have to fall by
+
+8
+about 28 % to reach its average level since 1982, a fall which is some 4 percentage points
+lower than if we use earnings in the denominator. This fall is still substantial, however, so
+why might the equilibrium ratio have risen in recent years?
+There are three factors which may be of some significance. First, the rate at which new
+dwellings are being built is at an historically low level whereas, for a variety of reasons,
+the growth in the population of working age and the net rate of formation of new
+households is relatively high (high divorce rates, high immigration rates etc)5. Second, the
+disappearance of the front end loading problem when inflation rates and nominal interest
+rates are low. For example, it might be quite sensible for young professionals to borrow,
+and for banks to lend them, four or even five times annual earnings to purchase a house
+given both their very high level of job security and their very rapid rate of prospective
+earnings growth. But in times of high inflation and high nominal interest rates, this is not
+possible. For example, suppose real interest rates are 3%. Then if inflation is 12% and
+nominal interest rates are 15%, a person borrowing four times their annual pre-tax salary
+will be paying over 60% of this pre-tax salary in mortgage payments in the first year – this
+simply cannot be done. Of course, in later years this proportion will fall rapidly.
+Nevertheless, the early years will provide a binding constraint on the multiple of earnings
+households can borrow.6 In a low inflation environment, this binding constraint
+disappears. If inflation is 2% and nominal interest rates are 5%, an individual borrowing
+four times their annual salary will only be paying 20% of it in mortgage payments in the
+first year. Perfectly possible. So the elimination of this constraint as we have gradually
+moved from a high inflation, high interest rate era to a low inflation, low interest rate
+period will have raised the demand for housing in equilibrium, even when real interest
+rates remain unchanged.
+The third factor underlying the potential rise in the equilibrium house price to earnings
+ratio is the apparently substantial and sustained fall in long-run risk free real interest rates.
+In Figure 4, we see the time paths of both the 10 year real rate and the 10 year forward, 10
+year real rate, both derived from prices in the index-linked gilt market. Both these rates
+have fallen from close to four per cent in the mid-1990s to around two per cent since 1999.
+And the fact that the 10 year forward, 10 year real rate has fallen in exactly the same way
+as the spot rate suggests that markets expect the fall to have some degree of permanence.
+It is, however, possible that the measured fall in the risk free real rate derived from the
+
+9
+index-linked gilt market may be overstated because of the Minimum Funding Requirement
+announced in the 1997 Pensions Act. This introduced an element of demand for indexlinked gilts which was almost independent of the real yield. However, a long-term risk
+free real rate close to 2% is not particularly unusual in the UK given that the average longterm real rate in the period 1951-97 was 2.21% according to Chadha and Dimsdale (1999,
+Table 3). Furthermore, Larsen et al. (2003) indicates that 10 year risk free real rates
+computed from a consumption based CAPM model with habit persistence also fell
+significantly from 1997 on. Long-term real rates are, of course, crucial in the housing
+market since they reflect the average rate which should be used to discount the returns on
+a long-lived asset and the real cost of long-term borrowing. One way of measuring the
+consequences of a fall in real interest rates on equilibrium house prices is to make use of
+the equilibrium relationship between rents in the housing market and house prices. (See
+Weeken, 2004 and Goldman Sachs, 2004 for examples.) If real net rentals (i.e. after
+subtracting maintenance and management costs) today are D and they are expected to
+grow at a rate of g, then in equilibrium, the real price of houses,
+
+will equal the
+
+discounted present value of real rents, that is
+
+Ph = D / (r f + ρ − g ) where r f is the risk free real interest rate and ρ is the risk
+
+premium7. This means that for plausible values of ρ and g , real house prices are
+sensitive to changes in the risk free real rate. For example, suppose rents grow at the same
+rate as real wages which implies that g ≅ 2% and the long-run risk premium averages
+
+around 3% (see Weeken, 2004). Then if the risk free real rate falls from 4% to 2% the
+equilibrium ratio of real house prices to real rents will rise by nearly 67 per cent. Given
+our assumption that real rents tend to grow at the same rate as real wages, an assumption
+broadly consistent with the facts, the equilibrium ratio of house prices to earnings may be
+expected to rise by a similar amount solely because of the observed fall in the long-term
+real interest rate. And since the actual ratio of house prices to earnings has risen by
+around 70% since the mid-1990s to the present day, it may be argued that it is close to
+equilibrium. Of course this is a very rough and ready calculation. The remains of MIRAS
+were still in operation in the mid-1990s, although its impact was small by that stage.
+Transactions costs in the housing market are substantial and the rental market is subject to
+many tax and regulatory distortions. Furthermore, as we have seen, estimates of
+equilibrium house prices are sensitive to the value of the long-run real interest rate. For
+
+10
+example, in Goldman Sachs (2004), it is assumed that the real long rate will rise to 2.75%.
+This is a key factor underlying their prediction of a 20% fall in house prices by 2008.
+Overall, this discussion leads us to the following conclusions. First, there are good
+reasons for believing that the equilibrium ratio of house prices to earnings is currently well
+above the average ratio of house prices to earnings over the last two decades. Second, the
+precise level of the equilibrium ratio of house prices to earnings is very uncertain and is
+very sensitive to the “equilibrium” level of the long-term real interest rate.
+On top of this latter uncertainty there are two further key uncertainties relating to the
+operation of the housing market. First, as we have already noted, if the house price to
+earnings ratio is currently above the equilibrium rate, how rapidly will it return? Second,
+how big is the impact of a slowdown in house price inflation on household consumption?
+Given the above discussion, it is obvious that there is a significant probability that house
+prices will fall at some stage. Despite this, it is quite possible that house prices will not
+fall at all, although they are very likely to go down relative to earnings (that is, house price
+inflation will fall below around 4.5% p.a.).
+Debt, Consumption, House Prices and Monetary Policy
+
+In the previous sections, we have noted that there is very little relation between debt
+accumulation and consumption growth and hence between debt accumulation and future
+aggregate demand and inflation. We have also noted that there does appear to be some
+relationship between house price inflation and consumption growth, although it seems not
+to be a very stable one. However, because of this relationship, it is worth speculating on
+the prospects for house price inflation since future house price inflation will impact on
+household consumption growth and hence on the future path of general inflation.
+Since monetary policy is governed by the inflation target, it is clear from the above that
+the scale of household debt accumulation is unlikely to have much of a direct impact on
+monetary policy8. By contrast, the current and future expected level of house price
+inflation will have a direct impact on monetary policy because of the effect on general
+inflation via household consumption growth.
+
+11
+Footnotes
+
+1. This is nothing new and the point has been made many times. For example,
+Broadbent (2003) sets out the facts very clearly.
+2. The period 1996-7 was the era of Building Society demutualisations when
+households received substantial windfall gains. These may have had an impact on
+consumption growth in the late 1990s.
+3. These are money flows. This equation takes no account of the changes in value of
+the existing stock of assets which are very important in determining changes in the
+balance sheet position of households.
+4. For those readers who are more persuaded by the paraphernalia of Granger
+Causality Tests, no debt measure or combination of debt measures comes close to
+Granger causing real consumption once real post-tax labour income is included in
+the model.
+5. The Barker Interim Report (2003), has a lot of information on these issues.
+6. Of course, the front end loading problem can be entirely eliminated if the lender, at
+the end of each year, raises the nominal mortgage loan to offset at least some part
+of the real reduction in the loan which has come about via inflation. Presumably
+because of the high transactions costs involved, such behaviour was not common
+during the high inflation period.
+7. The present value of real rents is
+∞
+
+∫ De
+
+gt
+
+e
+
+(
+
+)
+
+− rf + ρ t
+
+dt = D / (r f + ρ − g ) , so long as r f + ρ − g > 0 .
+
+°
+
+8. It may, of course, be argued that high levels of household debt may impact on the
+behaviour of the economy in response to shocks which may have implications for
+the conduct of monetary policy. Generally, I do not find such arguments very
+persuasive (see Nickell, 2003a, 2003b).
+
+12
+References
+
+Aoki, K., Proudman, J. and Vlieghe, G. (2002), “Why House Prices Matter”, Bank of
+England Quarterly Bulletin, Winter.
+Barker, K. (2003), Review of Housing Supply, Interim Report – Analysis (Norwich,
+HMSO).
+Broadbent, B. (2003), “Why Household Borrowing is a Poor Guide to Household
+Spending”, Goldman Sachs European Weekly Analyst (23rd May).
+Chadha, J. S. and Dimsdale, N. H. (1999), “A Long View of Real Rates”, Oxford
+Review of Economic Policy 15(2), 17-45.
+Goldman Sachs (2004), “Adjusting to Lower House Prices”, UK Economics Analyst,
+June.
+Larsen, J., May, B. and Talbot, J. (2003)”, Estimating Real Interest Rates for the
+United Kingdom”, Bank of England Working Paper No. 200.
+Nickell, S. (2003a), “House Prices, Household Debt and Monetary Policy”, Bank of
+England Quarterly Bulletin, Spring.
+Nickell, S. (2003b), “Two Current Monetary Policy Issues”, Bank of England
+Quarterly Bulletin, Winter.
+Weeken, O. (2004), “Asset Pricing and the Housing Market”, Bank of England
+Quarterly Bulletin, Spring.
+
+13
+Table 1
+Accumulation of Household Debt and Assets
+NA of Financial
+Assets PT
+Income (%)
+
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+
+NA of Housing
+Assets ÷ PT
+Income (%)
+
+8.9
+10.2
+11.9
+11.3
+12.3
+7.9
+10.5
+9.0
+11.9
+14.8
+15.3
+
+NA of Financial Liabilities ÷ PT
+Income (%)
+
+4.9
+5.3
+5.4
+5.6
+5.7
+5.8
+6.1
+5.9
+6.1
+6.7
+7.1
+
+Total
+
+Secured
+
+Unsecured
+
+3.8
+5.3
+5.7
+6.0
+7.2
+7.8
+10.4
+10.1
+11.9
+16.1
+17.3
+
+3.2
+4.1
+4.1
+3.9
+5.1
+5.4
+8.1
+8.0
+9.4
+13.2
+14.9
+
+0.6
+1.2
+1.6
+2.1
+2.1
+2.4
+2.4
+2.1
+2.5
+2.9
+2.5
+
+Source: ONS
+Note: NA = Net Acquisition, PT = Post Tax.
+
+Figure 1
+Quarterly consumption growth since 1996
+Per cent
+2.5
+2
+1.5
+1
+0.5
+0
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+Average 1996-2000
+
+Source: ONS
+
+2001
+
+2002
+
+2003
+
+Average 2000-present
+
+-0.5
+2004
+
+14
+Figure 2
+Consumption and debt since 1998
+0.12
+
+0.97
+
+0.10
+
+0.96
+0.95
+
+0.08
+
+0.94
+0.06
+0.93
+0.04
+
+0.92
+
+0.02
+
+0.91
+
+0.00
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+0.90
+2004
+
+Consumption as a proportion of post-tax income (RHS)
+MEW + unsecured credit as a proportion of post-tax income (LHS)
+
+Source: ONS, Bank of England
+Figure 3
+House price to income ratios
+7
+6
+5
+4
+3
+2
+1
+0
+1982
+
+1985
+
+1988
+
+1991
+
+1994
+
+1997
+
+2000
+
+2003
+
+Ratio of house prices to average earnings
+Ratio of house prices to average household disposable income (top 70%
+of households)
+
+Source: ONS, Halifax, Nationwide, General Household Survey
+
+15
+Figure 4
+10 year real interest rates
+Per cent
+
+6
+5
+4
+3
+2
+1
+0
+1985
+
+1988
+
+1991
+
+1994
+10-y spot
+
+1997
+
+10-y fwd 10-y out
+
+Source: Bank of England
+Note: Real interest rates implied by index linked gilts
+ENDS
+
+2000
+
+2003
+
+

@@ -1,0 +1,217 @@
+Keynote address at S.W.I.F.T.U.K Regional Conference
+Speech given by
+David Clementi
+
+25 May 1999
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Ladies and gentlemen, it is a great pleasure to be here today.
+
+Since its formation in the early 1970s S.W.I.F.T. has become a key part of the financial services
+infrastructure. It has moved well beyond its original business – carrying electronic messages relating to
+interbank payments – and its services now underpin a whole range of systems, including CGO, CREST,
+CHAPS Euro, and TARGET, which are at the core of the UK, and indeed global, financial system. So I
+thought it would be appropriate to talk today about why the Bank maintains a keen interest in issues relating
+to payment and settlement systems; and what looking forward we see as some of the key challenges in this
+area. So I will say a bit about work the G10 is doing to update and extend the Lamfalussy principles;
+something about foreign exchange settlement and Delivery-versus-Payment in securities settlement; and
+finally, and inevitably, a bit about Year 2000 issues.
+
+First, the rationale for the Bank’s involvement in payment and settlement system issues. Ever since it
+acquired monetary policy independence in May 1997 the Bank, and especially the Monetary Policy
+Committee, has scarcely been out of the news. But the pursuit of monetary stability is actually just one of our
+three overall objectives, or "core purposes" as we term them. We are also responsible for promoting financial
+stability – our second core purpose – and aim also to promote the efficiency and effectiveness of UK based
+financial services. Indeed it is in large part because of these latter two functions, and particularly our financial
+stability role, that we take a very close interest in payment and settlement system issues. So I would like to
+begin by outlining the Bank’s financial stability role and how it relates to payment and settlement system
+issues.
+
+The Bank’s financial stability role is not a new one. But it has been brought into sharper focus by the
+changes to the Bank’s responsibilities announced in May 1997. The 1997 Memorandum of Understanding
+between the Bank, the Treasury, and the FSA, states that the Bank is responsible for the overall stability of
+the financial system as a whole. That is distinct from the role of the new FSA – to which the Bank’s former
+responsibility for banking supervision has passed – which is responsible for the supervision of individual
+financial institutions.
+
+What does this financial stability role mean in practice? Broadly speaking, promoting systemic stability
+means working to ensure that the financial system functions smoothly in carrying out its three key functions.
+Those are, first, to provide a secure means of transferring value and settling financial transactions; second,
+to provide liquid markets for the exchange of financial instruments; and third to intermediate between savers
+and borrowers. In its financial stability work the Bank looks both at the underlying robustness of the financial
+system, and at potential triggers which – at times of stress – could precipitate a crisis.
+
+Given this, a key part of our work has to be to look very closely at the position of the core infrastructure of the
+financial system. This includes the clearing and settlement systems for transactions in all types of securities,
+commodities and derivatives. But it is payment systems issues which are probably the most central to our
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+interests in this area. And indeed the Bank’s role in relation to payment systems is explicitly singled out in the
+MOU.
+
+Payment systems have traditionally stood at the heart of Central Banking concerns. Almost all Central Banks
+either run their country’s key payment systems, or exercise some form of oversight over them. There are a
+number of strong reasons for that. First, Central Banks actually evolved from being bankers to the banking
+system, and the liabilities of the Central Bank, whether bank notes or transfers across the commercial banks’
+accounts at the Central Bank, remain the means of final settlement in almost all currencies. Second, and
+related to that, it is through being the marginal provider of liquidity to the banking system that monetary policy
+operations work. Finally, and more broadly, in a market economy almost all economic transactions involve,
+ultimately, the use of a payment system to transfer value. So, the failure of a major high value payment
+system such as CHAPS in the UK – where daily values exceed £160 billion – would disrupt monetary policy,
+as well as the financial system, and involve real economic costs. That is why the Bank is so closely involved
+in these issues.
+
+What are our policy objectives specifically in relation to payment systems? First and foremost we are
+concerned to prevent the payment system being a channel through which problems in one part of the
+market, or in one particular institution, spill over into a more general systemic problem. For example, if banks
+give credit to their customers for incoming payments before they have received final funds from the sending
+bank, then if the sending bank fails, the receiving bank is in turn left high and dry. So we are keen to promote
+the recognition, measurement, and the means of controlling and reducing all forms of settlement risk –
+whether credit, liquidity or operational – which might give rise to wider systemic risk.
+
+But as well as addressing risk in payment systems, we need also to bear in mind the effectiveness of the UK
+financial system. There is little point in providing an absolutely safe payment system if banks find it inefficient
+or prohibitively expensive to use and therefore opt for other, less safe alternatives. For this reason, the Bank,
+in common with other EU central banks, provides settlement banks with intra-day liquidity against high
+quality collateral to ensure that payments flow smoothly through the RTGS system, avoiding gridlock. And
+we work closely with the system operators, and with the main users of payment systems in the UK, to ensure
+that the systems continue to meet the market’s needs.
+
+Overall, I think we are making progress in achieving these objectives. In the UK – and indeed globally –
+standards are steadily rising. Most major countries now have Real Time Gross Settlement (RTGS) for their
+key high value interbank payment systems. In CHAPS, the UK has a high value payment system which is
+both highly secure and which we believe offers its users an effective and competitive service. Looking wider,
+the EU, of course, has the TARGET system, linking together the 15 national RTGS systems and the
+European Central Bank. The risk reducing benefits of RTGS make it our preferred payment system model.
+But even in other systems which are not RTGS – chiefly the major "net" end of day settlement systems (such
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+as the Euro Banking Association’s new Euro1 system) – the residual risks are well recognised and highly
+circumscribed.
+
+But, despite the great progress made in the last decade since the Lamfalussy Report, we cannot rest on our
+laurels. There remain weaknesses in some parts of the international infrastructure and we need to continue
+to refine and encourage best practice. Indeed a Task Force on Payment Systems Principles and Practices –
+chaired by John Trundle from the Bank- has recently been set up by the G10 central banks to identify core
+principles relevant to all countries. These principles are intended to reduce risk, particularly systemic risk,
+and to support and strengthen efficiency in payment systems. As well as reaffirming the Lamfalussy
+principles in this wider context, this work will also address other issues, such as: the need for prompt final
+settlement, preferably across the books of the Central Bank; the governance of systems; and the role of
+Central Bank oversight in promoting systemic stability. But although this work goes wider than the original
+Lamfalussy principles, I do not expect much change to the philosophy underlying them, for instance that:
+
+
+the legal basis of payment systems should be well founded in all relevant jurisdictions;
+
+
+
+the rules and procedures of such systems should make it absolutely clear where risks lie;
+
+
+
+systems should be secure and reliable operationally, with adequate contingency arrangements;
+
+
+
+access should be fair and open; and
+
+
+
+there should be clearly defined procedures for the management of the particular risks arising.
+
+I will now move on from payment systems to settlement systems. In fact, though they raise distinct issues of
+their own, settlement systems often effectively incorporate a payment system within them. So the reasons
+why the Bank and other Central Banks are interested in securities settlement systems are broadly the same
+as for payment systems. The values passing through these systems, and their central place in the financial
+markets infrastructure, mean that they are of systemic significance.
+
+I would like briefly to focus on the issue in this area which at the moment is perhaps of greatest interest to us
+and other Central Banks – the introduction of ‘full’ Delivery versus Payment ("DVP") . Here there is a need to
+make further progress, both domestically and internationally.
+
+Currently in the UK, users of CGO and CREST have, in the assured payment mechanism, effective DVP.
+Sellers can fulfil their side of bargains safe in the knowledge they are protected from their counterparty’s
+failure by the ‘assurance’ of their settlement bank. But is that enough? We believe not. While I would hesitate
+to call it a weak link, given the strength of the banks involved, this mechanism does nevertheless rest on the
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+soundness of the settlement banks. Failure of one – however unlikely – could cause severe disruption to
+users of the system as well as, given the huge values involved, to other parts of the financial system.
+
+The solution to this concern has long been recognised. It was set out as long ago as 1992, when the
+Parkinson report of the G10 Central Banks highlighted the benefits of securities and cash legs settling
+simultaneously, and with immediate finality, across the books of the settlement system and Central Bank
+respectively. With RTGS in high value payments already in place, and the integration of gilts settlement into
+CREST likely to be completed early next year, in the UK we are now in a position where we can realistically
+contemplate linking the two and moving to ‘full’ DVP for settlement of UK securities, including gilts and
+equities. This is one of the Bank’s key objectives in the financial stability area, and it is shared by CREST,
+the settlement banks and the major players in the securities markets.
+
+I would now just like to touch on recent developments in foreign exchange settlement. It is now three years
+since the Allsopp Report revealed that the scale and duration of interbank exposures relating to the
+settlement of foreign exchange transactions – so-called "Herstatt risk" – was much greater than had
+previously been supposed. Indeed, the report found that the amount at risk to a single counterparty could
+exceed a bank’s capital. Now Central Bankers are not generally keen on "one strike and you’re out"
+arrangements, so in the intervening period we have worked hard to improve the understanding, monitoring
+and control of Herstatt risk. Furthermore, new infrastructure developments, such as the CLS Bank (which
+plans to go live in the second half of next year) will further reduce the scope for systemic threats to arise
+through foreign exchange settlement. But we are not there yet, and the Bank remains keen to see further
+progress in this area.
+
+Finally, it is impossible to cover financial stability issues relating to the infrastructure of the financial system
+without talking about Year 2000 risks. A great deal has already been done – by banks, and other financial
+services firms, and by infrastructure providers – to make sure that the critical computer systems are ready for
+the millennium date change. The preparedness of individual firms is being monitored by the FSA. But as far
+as the UK payment systems are concerned the responsibility for reporting on preparations lies with the Bank.
+And we are working closely with the FSA, APACS, the BBA, the card schemes and individual banks to make
+sure these sectors are ready and the Millennium weekend goes smoothly.
+
+I am confident that the key systems will work. In my judgement the main risks in financial markets actually
+arise from individual firms being excessively cautious in anticipating problems in their counterparties. It is not
+quite right to say that the only thing we have to fear is fear itself. But we at the Bank have now turned our
+attention to how to deal with these so called "shadow effects" of Year 2000 – the risk that the understandable
+caution of individual firms leads in aggregate to market problems that rebound on all firms.
+
+This is at least partly an issue of confidence. And to that extent it can be addressed by financial sector
+players being as open as possible with each other about their preparations. Tomorrow, the Bank and the
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+FSA are jointly hosting a symposium on Year 2000 issues in the financial sector, at which all these issues
+will be discussed. The main message I would like to underline here is that the key market players – including
+the Bank itself – have done as much as is possible to ensure that all the key systems will function smoothly
+on 1 January.
+
+Ladies and Gentlemen, let me end by wishing you a successful conference. SWIFT is a key part of the
+financial market infrastructure, and the systems it supports remain a central area of interest for the Bank. The
+Bank’s monetary policy decisions are – quite rightly – the subject of great publicity and intensive scrutiny.
+Ensuring financial stability may be a less glamorous aspect of our public policy work. But it is no less a
+fundamental part of Central Banking, and it will remain a core area of the Bank of England’s work.
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+

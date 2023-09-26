@@ -1,0 +1,1982 @@
+Structural change, global R* and
+the missing-investment puzzle
+Supporting paper for a speech by Andrew Bailey at the Official
+Monetary and Financial Institutions Forum
+July 2022
+
+Andrew Bailey, Ambrogio Cesa-Bianchi, Marco Garofalo, Richard Harrison,
+Nick McLaren, Sophie Piton and Rana Sajedi
+
+Structural change, global R* and the missing-investment
+puzzle
+Supporting paper for a speech by Andrew Bailey at the Official Monetary
+and Financial Institutions Forum
+Andrew Bailey, Ambrogio Cesa-Bianchi, Marco Garofalo, Richard Harrison,
+Nick McLaren, Sophie Piton and Rana Sajedi(1)
+Abstract
+The world has undergone substantial structural change over recent decades, with profound
+implications for the long-run policy landscape. We focus on two key trends. First, the secular
+decline in risk-free interest rates, suggesting a fall in the long-run global equilibrium interest
+rate, Global R*. Using a structural model, we find that declining productivity growth and
+increasing longevity played the largest roles in explaining this fall. The second trend is the
+recorded weakness in investment, despite an increasing wedge between the return on capital
+and the risk-free rate. We use industry-level data for the United Kingdom to investigate the
+potential structural factors behind this ‘missing-investment puzzle’, and find a strong role for
+intangible capital.
+Key words: Structural change, equilibrium interest rates, investment.
+JEL classification: E22, E43, J11.
+
+(1) The authors are grateful to Saba Farooq and Alison Schomberg for outstanding research assistance, and to
+Jonathan Haskel, Sara Holttinen, Peter Goodridge, Josh Martin and Marko Melolinna for their help with the data
+on intangibles as well as insightful discussions. We would also like to thank Saleem Bahaj, Stuart Berry,
+Alan Castle, Maren Froemel, Andy Haldane, Clare Macallan, Catherine L. Mann, Huw Pill, Lukasz Rachel,
+Michael Saunders, Martin Seneca, Fergal Shortall, Sophie Stone, James Talbot, Silvana Tenreyro and
+Gavin Wallis for comments and suggestions.
+Please cite as: Bailey, A, Cesa-Bianchi, A, Garofalo, M, Harrison, R, McLaren, N, Piton, S and Sajedi, R (2022),
+‘Structural change, global R* and the missing-investment puzzle’. Supporting paper for a speech by
+Andrew Bailey, Bank of England, July 2022.
+Bank of England, Threadneedle Street, London, EC2R 8AH
+Email: enquiries@bankofengland.co.uk
+© Bank of England 2022
+
+1
+
+Introduction
+
+Monetary policy must respond to a multitude of exogenous forces. Many of those
+forces have a very visible and direct effect on the outlook for output and inflation over
+the short and medium term. Others, however, are manifestations of much longerterm structural changes that unfold over many decades. This paper focuses on these
+longer-term trends and their effects on the broader landscape in which monetary
+policy operates.
+The world has undergone substantial structural change over recent decades. One
+such example is population ageing: in the United Kingdom, the life expectancy of
+a 65 year old woman in 1950 was around 80 years old. By 2015 the equivalent life
+expectancy was close to 86. Moreover, this 6-year increase in life expectancy was
+not unusual in the global context: the equivalent figures for Germany, Italy and Japan
+are 7, 8 and 10 years, respectively. Another example is technological change: firms
+are increasingly moving away from using physical capital, like machinery, equipment
+and computer hardware, towards intangible capital, like R&D, software and branding.
+Intangible capital made up 65% of UK firms’ investment in the mid-1990s, and this
+is now 75%, an increase of 10 percentage points. We see similar increases in the
+United States, Japan and Germany, of 8, 7 and 10 percentage points, respectively.1
+This widespread structural change has profound effects on the economy, and the
+broader landscape that policymakers navigate. Of particular relevance to monetary
+policy, are the effects of structural forces in shaping the long-run trends in key variables
+such as output, investment and real interest rates.
+For example, one of the most striking global trends is the well-documented secular
+decline in risk-free real interest rates, which suggests that there has been a decline in
+the long-run global trend equilibrium interest rate. This is the long-run trend around
+which the domestic equilibrium interest rate of an open economy, like the United
+Kingdom, will fluctuate. We refer to this long-run global trend real rate as Global R∗ .
+In this paper, we first explore the effect of structural changes, such as demographic
+trends and technological change, on Global R∗ . To do so, we employ a structural
+model of the world economy, in which we purposefully abstract from shorter-term
+cyclical influences on the equilibrium real interest rate. Among the five potential forces
+that we consider, we find that the decline in Global R∗ has primarily been driven by
+1
+
+Data on life expectancy is from UN World Population Prospects 2019. Data on intangibles is from
+the 2022 vintage of EU KLEMS. See Appendix A.1 for more details.
+
+3
+
+the slowdown in productivity growth and population ageing. The effects of these
+mechanisms are expected to persist going forward.
+The long-run decline in the risk-free interest rate is only part of the story, however.
+A recent literature has emerged showing that the rate of return on capital has not
+been declining alongside the risk-free rate. In standard economic theory, the wedge
+between these two rates of return is a key determinant of firms’ investment, itself an
+important factor for the policy landscape, which, over the long run, has implications
+for productivity and output. In particular, we would expect the observed rise in this
+wedge to be coupled with a rise in investment. However, no such investment boom
+has been recorded across high-income countries over recent decades.
+We refer to this observed weakness in investment, despite a growing wedge between
+the return on capital and the risk-free rate, as the “missing-investment puzzle”. To
+understand the structural forces at play, we investigate several candidate explanations
+for this puzzle, using industry-level data for the United Kingdom. Our results suggest
+a strong role for intangible investment. Indeed, when accounting for missing intangibles,
+in both investment and the measure of the return on capital, the missing-investment
+puzzle in the United Kingdom is substantially reduced in recent years.
+Finally, given their important role in explaining the trends in investment, we extend our
+analysis to understand the potential impact of intangibles on long-run productivity.
+While intangibles can explain the UK missing-investment puzzle, they may have
+driven the concurrent productivity puzzle: industries with highest intangibles intensity
+have contributed the most to declining labour productivity in the United Kingdom since
+the global financial crisis.
+Our results have important implications for the long-run policy landscape. First, our
+structural model suggests that both productivity growth and demographic trends have
+led to permanently lower Global R∗ . This means that, without significant reversals in
+these structural trends, or the emergence of new long-run structural forces pushing in
+a different direction, Global R∗ is expected to remain low. Second, intangible capital
+appears to account for a significant part of “missing” investment in recent years,
+suggesting that there has not been a structural missing-investment puzzle in the
+United Kingdom. However, we should be cautious about the impact of the intangible
+economy on the broader policy landscape, since intangible-intensive industries appear
+to have contributed to the recent productivity puzzle. It is important to understand
+why this may be, and the underlying challenges raised by an intangible-intensive
+economy.
+4
+
+The rest of this paper is organised as follows. Section 2 shows our analysis of the
+equilibrium real interest rate, and the path of Global R∗ over recent decades. Section
+3 discusses the missing-investment puzzle, and the role of intangibles. Section 4
+concludes.
+
+Global R∗
+
+2
+
+This section explores the dynamics of Global R∗ – the long-run global trend equilibrium
+real interest rate – over recent decades.
+We first describe a simple approach to characterise the forces that act on equilibrium
+real interest rates at different horizons. We then set out the underlying framework
+for long-run interest-rate determination, laying out the key factors that can drive the
+dynamics of the trend real rate. We summarise the results of Cesa-Bianchi et al.
+(2022), hereafter referred to as CHS, who use a general equilibrium life-cycle model
+to quantify the impact of each of the drivers. Finally, we discuss how these results
+relate to the recent literature on demographics and inequality.
+
+2.1
+
+Equilibrium Real Interest Rates
+
+The ‘equilibrium’ or ‘neutral’ real interest rate is usually defined as the real interest
+rate required to close the output gap and sustain the inflation rate at its target. In
+principle, therefore, the equilibrium real interest rate can be a useful guide for monetary
+policymakers.2
+The equilibrium interest rate cannot be directly observed, and must be estimated.
+Such estimates are typically highly uncertain and so are not used as a mechanical
+guide to monetary policy.3 Nevertheless, in the longer run, estimates of the equilibrium
+real interest rate, and the factors driving it, can help to explain the evolution of interest
+rates over the past and provide an indication of the outlook over coming years.
+A simple framework for analysing the equilibrium real interest rate, r∗ , is to decompose
+2
+
+When shocks create a trade-off between stabilising inflation at target and closing the output gap,
+the equilibrium real interest rate is less useful as a guide for policy.
+3
+See Fiorentini et al. (2018) for a detailed discussion of the uncertainty around estimates of
+equilibrium interest rates.
+
+5
+
+it into a long-run, or trend, component, R∗ , and a shorter-term component, s∗ :4
+r∗
+|{z}
+
+=
+
+R∗
+|{z}
+
++
+
+s∗
+|{z}
+
+Equilibrium
+
+Trend
+
+Shorter-term
+
+real interest rate
+
+real rate
+
+component
+
+In this framework, r∗ fluctuates as a result of shorter-term influences on the economy,
+s∗ . These influences include cyclical shocks to both aggregate demand and supply as
+well as the effects of financial shocks.5
+However, over the longer term, these fluctuations occur around the trend real rate, R∗ ,
+which can change in response to long-run structural forces. Importantly, for an open
+economy like the United Kingdom, the trend real rate will ultimately be determined by
+global forces, because frictions that impede the free international movement of capital
+are weaker over the long run. This implies that it is the global trend real interest rate,
+Global R∗ , that acts as a long-term anchor for the UK’s domestic equilibrium real
+interest rate. As such, the focus of this paper will be on Global R∗ .
+The above framework suggests that Global R∗ can be measured as a common trend
+component, within a trend-cycle decomposition of data from a cross-section of countries.
+Figure 1 shows such an estimate from CHS, obtained by applying the methodology
+of Del Negro et al. (2019) to a panel of 31 high-income countries from 1900-2015.6
+Between 1900 and 1930, Global R∗ is estimated to have been relatively stable at
+around 2%. After falling during the WW2 period, Global R∗ rose again between 1950
+and 1980, reaching a peak of close to 2.5% in the late 1970s. Thereafter, Global R∗
+declined steadily and is estimated to have been close to 0% in recent years. Though
+there are relatively wide error bands around this central estimate, and the alternative
+estimates, also reported in Figure 1, exhibit different patterns, there is robust evidence
+of a steady decline in Global R∗ , especially in recent decades.
+However, these reduced-form empirical estimates do not tell us why Global R∗ has
+declined. Understanding the relative importance of the different secular factors that
+drive Global R∗ requires a general-equilibrium structural model. With this in mind, we
+now lay out the key factors that determine the real interest rates in a neo-classical
+framework.
+4
+
+This framework was laid out in Bank of England (2018).
+For example, the analysis in Bank of England (2018) assesses that during the global financial
+crisis, headwinds to demand (including heightened uncertainty and tighter financial conditions)
+prompted a large drop in s∗ , which took many years to dissipate.
+6
+See Appendix A.1 for details.
+5
+
+6
+
+Figure 1: Empirical Estimates of Global R∗
+Per cent
+6
+
+6
+
+Hamilton et al. (2016)
+
+Holston et al. (2017)
+
+4
+2
+0
+-2
+
+4
+2
+
+Del Negro et al. (2019)
+
+0
+
+Cesa-Bianchi et al. (2022)
+1900
+
+20
+
+40
+
+60
+
+80
+
+2000
+
+-2
+
+Source: Consumer prices indices, short-term interest rates and government bond yields for the
+calculation of the Cesa-Bianchi et al. (2022) measure from the Jordà et al. (2017) Macrohistory
+Database and Eikon Refinitiv. Del Negro et al. (2019), Hamilton et al. (2016) and Holston et al. (2017).
+
+2.2
+
+Interest-Rate Determination
+
+As laid out above, the trend real rate, R∗ , is the long-run equilibrium real interest rate.
+As such, it corresponds to the real interest within a long-run model: a model that
+abstracts from both shocks and frictions that pertain to cyclical fluctuations.
+In the neo-classical framework, the real interest rate, R∗ , is the price that ensures
+equilibrium in the capital market. Figure 2 provides a graphical representation of this,
+by depicting the two sides of this market: firms and households.
+Figure 2: Interest-Rate Determination
+R*
+
+Aggregate wealth from
+household optimisation,
+net of government debt
+
+Firm choice of capital
+for use in production
+Capital-output ratio
+
+7
+
+Firms Firms require capital to produce, and R∗ corresponds to the rate at which
+firms can borrow to finance investment. The marginal cost of each unit of capital,
+then, will be determined by this borrowing cost, R∗ , adjusted for the effects of depreciation.
+Profit maximisation implies that a firm will choose the capital-output ratio that sets the
+marginal product of capital equal to this marginal cost. If the cost of borrowing falls
+below the return on capital, firms will be incentivised to borrow in order to invest in
+capital. The rise in borrowing will raise borrowing rates, and the rise in investment
+will reduce the marginal return on additional capital, because of diminishing marginal
+returns, until equilibrium is restored when the two are equalised.
+This optimisation, along with the diminishing marginal returns to capital, implies that
+a higher value of R∗ will induce the firm to choose a lower capital-output ratio. This
+leads to the downward-sloping orange line in Figure 2.
+Households Capital also provides a way for households to accumulate and store
+wealth.
+Given their stream of income over their life-cycle, each household will optimally accumulate
+wealth to smooth consumption and maximise their utility. R∗ is the return that the
+households earn on each unit of wealth. Aggregate wealth in the economy is the sum
+of per-capita wealth across households.
+Within this simple framework, we can consider two ways to store wealth: government
+bonds and productive capital. As long as the return that the household receives
+on each of these is the same, households will be indifferent about which they hold,
+and their optimal behaviour will determine their total wealth, rather than how it is
+allocated.7 Assuming that the quantity of government debt is determined by the
+government’s budget constraint, and does not depend on the interest rate, households’
+holdings of capital is determined by the fact that aggregate wealth must be equal to
+total government bonds plus capital.
+This behaviour typically implies that households will hold more wealth when the return,
+R∗ , is higher.8 This is shown in the upward-sloping blue line in Figure 2.
+7
+
+More precisely, this is true so long as the risk-adjusted returns on different assets are the same,
+however this simple framework abstracts from risk.
+8
+In general, this will depend on a number of specific assumptions about household preferences and
+life-cycle income, and, in some cases, households may hold less wealth as the rate of return falls. The
+exposition here only requires that, if this is the case, then the effect is not too strong. Specifically, we
+require that the blue line in Figure 2, if negatively sloped, is steeper than the orange line. Alternative
+modelling approaches can also lead to an upward-sloping line as the one presented here – see for
+example Aiyagari-Bewley-Huggett models, or the model in Moll et al. (2021).
+
+8
+
+The precise positions of these two lines will depend on several factors, which we can
+separate into two groups. The first group consists of the parameters of the model,
+which do not change over time. The second group is the structural factors that may
+vary over time, and therefore drive the dynamics of R∗ .
+In particular, CHS consider five key drivers: productivity growth, population growth
+and longevity (which together capture population ageing), government debt, and the
+price of capital goods relative to consumption goods. The mechanisms through which
+each driver affects R∗ can be seen through their effects on the position of the two
+lines in Figure 2.
+Productivity Growth: A decline in productivity growth causes the marginal product
+of a given capital-output ratio to fall, shifting the orange line to the left. All else equal,
+this lowers both R∗ and the capital-output ratio in equilibrium.
+Population Ageing: A change in the population age distribution towards older
+generations, due to either a decline in population growth rates or an increase in
+longevity, raises aggregate household wealth. This is driven by two effects. First,
+households expecting to live longer will optimally want to accumulate more wealth
+to finance consumption during a longer retirement. Second, since, in the data, older
+households are, on average, wealthier than younger households, a rise in the share
+of older households in the population also increases aggregate wealth.9 This shifts
+the blue line to the right: for a given R∗ , the aggregate wealth of households rises. All
+else equal, this lowers R∗ and increases the capital-output ratio in equilibrium.
+Government Debt: For a given level of aggregate wealth, a rise in the quantity of
+government debt lowers household capital holdings. As described above, in equilibrium,
+household wealth must equal government bonds plus capital, so that the quantity
+of capital held by households is found by subtracting the quantity of government
+debt from aggregate wealth. Therefore, if a larger portion of wealth is allocated to
+government debt, households’ holdings of capital declines for all values of R∗ . This
+shifts the blue line to the left. All else equal, this raises R∗ and pushes down on the
+capital-output ratio in equilibrium.
+Relative Price of Capital: The effect of a change in the relative price of capital on
+the firm’s optimal capital-output choice will depend on the elasticity of substitution
+9
+
+In the quantitative exercise, CHS calibrate the life-cycle profile of wealth to match this empirical
+fact. These mechanisms are explored at greater length in Lisack et al. (2021).
+
+9
+
+between capital and labour. Empirical estimates point to complementarities between
+the factors of production, so that a decline in the relative price of capital will lead to a
+decline in the optimal capital-output ratio.10 This shifts the orange line to the left. All
+else equal, this lowers both R∗ and the capital-output ratio in equilibrium.
+
+2.3
+
+Decomposing the Drivers of Global R∗
+
+While the qualitative effects of the key drivers of equilibrium interest rates can be
+understood from the simplified framework considered above, a richer structure is
+required to uncover their quantitative importance.
+For that, we draw on the work of CHS, who use a general-equilibrium life-cycle model
+to provide a structural interpretation of the evolution of Global R∗ in response to this
+set of drivers.
+Quantitative Model CHS consider a model of the world as a single large (closed)
+economy, populated by overlapping generations of finitely-lived households. The
+model is calibrated so that each time period corresponds to five years, and therefore
+captures the effects of slow-moving trends, abstracting from business-cycle fluctuations.
+Consistent with the five-year timing assumption, the model includes fourteen cohorts
+of households, from age 20-24 to 85-89.
+Using data for a panel of 31 high-income countries from 1950 to 2015, they derive
+the common global trend in each of the five key drivers.11 These paths for the drivers
+are then fed through the model as exogenous processes driving the dynamics of the
+equilibrium. The model is simulated using a novel recursive approach that captures
+slow-moving beliefs about long-term trends, which is particularly relevant as the
+simulations span sixty years of substantial structural change. This results in an estimate
+of the decline in Global R∗ , and a decomposition of the contribution of each driver.
+The results of these simulations depend on the estimated path of these drivers, as
+well as the parameters that determine the shape, slopes and positions of the lines in
+Figure 2. To capture this uncertainty, CHS carry out sensitivity analysis, considering
+alternative estimates of the path of the drivers, and alternative values of the key
+10
+
+This effect applies to the value of the capital-output ratio (that is, accounting for the change in
+the price), which is what is shown in the figure. It is driven by the fact that the substitution towards
+the now-cheaper factor of production is not sufficiently large to offset the decline in its price, due to
+complementarities. These mechanisms are explored at greater length in Sajedi and Thwaites (2016).
+11
+In the five-year model period, the next time period would be 2020. However, they exclude any data
+from 2020 to avoid the large movements induced by the Covid-19 shock. See Appendix A.1 for more
+details.
+
+10
+
+Table 1: Change in Global R∗ from 1985
+Empirical Model
+1985–2015
+
+Median
+-1.9
+
+5%–95%
+(-2.4, -1.3)
+
+Structural Model
+1985–2015
+
+Baseline
+-1.9
+
+Range
+(-3.3, -1.1)
+
+Of which:
+Productivity growth
+Population growth
+Longevity
+
+-0.9
+-0.1
+-1.0
+
+(-1.2, -0.3)
+(-0.5, -0.0)
+(-1.8, -0.8)
+
+Long run
+
+-2.9
+
+(-4.3, -1.8)
+
+Note: For the empirical model, the table reports the median estimates of Global R∗
+together with the 95 percent posterior intervals (five-year averages of annual data). For
+the structural model, the table reports the estimate of R∗ in the baseline simulation,
+together with the minimum and maximum across the sensitivity tests.
+Source: Cesa-Bianchi et al. (2022).
+
+parameters. The simulations are repeated under random combinations of these
+alternatives, to create a range of potential paths for R∗ .
+Declining Global R∗ Table 1 shows the resulting changes in Global R∗ , between
+1985 and 2015, comparing across the empirical estimates shown in Figure 1 and the
+structural model.12
+We see that Global R∗ declines by 1.9 percentage points in both the baseline structural
+model simulation, and the median empirical estimate. In the model, this ranges from
+1.1 to 3.3 percentage points across the alternative simulations in the sensitivity tests,
+which encompasses the 95% confidence interval around the empirical estimate.
+Hence there is a robust finding of a decline in Global R∗ over this period, despite the
+uncertainty about the size of the decline.
+Decomposing the Drivers The structural model also allows us to decompose
+this decline in Global R∗ into the contribution of each of the five drivers described
+above. The full decomposition is provided in CHS. As they show, this fall has primarily
+been driven by changes in productivity growth and population ageing. For brevity, we
+therefore focus on these key drivers.
+12
+
+Since the model periods correspond to five years, ‘1985’ means an average of 1981-1985. For
+comparison, we use the same definition in the empirical model.
+
+11
+
+The individual contributions of these drivers is shown in the lower panel of Table
+1. We see that productivity growth contributed around half of the decline in Global
+R∗ in the baseline, and robustly leads to a significant decline across the alternative
+simulations.
+Amongst the two demographics factors, population growth has a small contribution
+of 0.1 percentage points in the baseline simulations over this time period, though
+the sensitivity results suggest that the effect could be as large as 0.5 percentage
+points. Conversely, the key demographic factor is the rise in longevity. This has a
+large contribution to the decline in Global R∗ both in the baseline and across the
+alternative simulations.
+Long-Run Impact While the estimates of the path of the underlying drivers end
+in 2015, the simulations continue past this date until the model has settled at a new
+steady state. This is particularly important for the impact of the demographic variables,
+as the age distribution continues to adjust after population growth rates and mortality
+rates stop changing. The final row of Table 1 shows that the long-run decline in Global
+R∗ is 2.9 percentage points, implying a further 1 percentage point decline from 2015.
+
+2.4
+
+Comparing Our Results to the Recent Literature
+
+Ageing and the Baby Boom We have shown that population ageing played an
+important role in the decline in Global R∗ over recent decades, and this impact is
+expected to persist going forward. Importantly, the model does not predict that the
+retirement of the ‘baby-boom generation’, which roughly begins in 2015, will lead to
+significant upward pressure on Global R∗ .
+This is in contrast to the points raised in Goodhart and Pradhan (2020). Lisack et al.
+(2021) use a modelling strategy similar to CHS, focusing on the impact of population
+ageing, and explore in more detail why the conclusions are different. Here we review
+the key reasons.13
+First, we include not only changes in population growth, which account for the baby
+boom, but also increasing longevity. As we showed, longevity is a much larger driver
+of population ageing, and therefore Global R∗ . Unlike the baby boom, which is a
+transitory shock to population growth rates that fades out as those cohorts exit the
+population, rising longevity is not expected to reverse.
+13
+
+These points are also explored in Blanchard (2022) and Vlieghe (2021).
+
+12
+
+Second, one of the key factors behind this result is the empirical finding that retirees
+continue to hold high levels of wealth.14 While retirees do dissave, this behaviour is
+not strong enough to materially lower their stock of wealth, which we have seen is
+what matters for determining the interest rate. Put differently, while the mechanism
+explored by Goodhart and Pradhan (2020), with respect to the retirement of the babyboom generation, is captured in our framework, it is quantitatively small in comparison
+to the large and permanent impact of population ageing.
+Inequality and Other Missing Drivers The modelling framework in CHS brings
+together five important structural drivers of Global R∗ , and decomposes their relative
+contributions. However, there are several potential additional factors that drive Global
+R∗ that are not captured by these simulations. CHS discuss these at greater length,
+noting that the net effect of the missing drivers is ambiguous.
+Nonetheless, one important missing driver bears more discussion: inequality. A rise
+in inequality could potentially affect R∗ through two main channels: higher precautionary
+savings caused by higher individual income risk (Auclert and Rognlie, 2018); or
+changes in the composition of the population towards high-income households, who
+have the highest savings rates. Mian et al. (2021) show that this latter channel has
+significantly increased aggregate wealth in the United States in recent decades,
+consistent with the decline in R∗ . Taking these channels into account is likely to
+contribute to further downward pressure on R∗ .
+In contrast to our finding on the importance of demographics, Mian et al. (2021)
+further argue that demographic trends play a smaller role in the increase in aggregate
+wealth in the United States, relative to rising inequality. They reach this conclusion
+by comparing the variation in the savings rates and the evolution of income shares,
+across different income quantiles and across different age groups, showing that the
+variation across age groups is too small to account for the large observed trend in
+aggregate wealth. They focus their analysis of demographics on 45-64 year olds,
+which they identify as the age group with the highest savings rates. One implication of
+this is that they abstract from longevity and the high wealth levels of retirees, thereby
+effectively considering only the impact of population growth rates, and the baby boom
+in particular. In this sense, their finding of a small contribution from this demographic
+trend is consistent with our results. However, our results further illustrate that increasing
+longevity has a larger impact on aggregate wealth and therefore R∗ .
+14
+
+Lisack et al. (2021) show this in US household survey data, while Auclert et al. (2021) show that
+this pattern holds across a larger set of countries.
+
+13
+
+3
+
+The Missing-Investment Puzzle
+
+The analysis so far has focused on the decline in R∗ , motivated by the secular decline
+in risk-free interest rates. However, this is only part of the story. In this section, we
+show that risk-free rates do not appear to have comoved with the return on capital.
+We then explore what this means for investment, through the lens of a “missinginvestment puzzle”. We end the section with a discussion of the implications of these
+findings on the policy landscape, in particular on productivity.
+
+3.1 R∗ vs. the Return on Capital
+As laid out in Section 2, in a neo-classical framework, firms’ optimisation equalises
+the marginal cost of capital to its marginal return. In our stylised framework in Section
+2.2, we assumed R∗ was equal to the marginal cost of capital, adjusted for depreciation,
+and therefore equal to the return on capital in equilibrium. The quantitative model of
+CHS, used in Section 2.3, does allow for a wedge between the two, capturing the
+costs of financial intermediation, but assumes that it is fixed over time. Therefore, in
+that framework, R∗ comoves with the return on capital.
+However, in recent decades, risk-free rates and the return on capital do not appear
+to comove in the data.15 Figure 3 plots the return on capital and risk-free rates for a
+group of high-income countries since the 1970s. Following the literature, we define
+the return on capital as the gross operating surplus (the output of the firm minus their
+labour costs and capital depreciation), per unit of capital, adjusted for capital gains.16
+Figure 3(a) shows that this measured rate of return on capital for the market sector
+has remained stable over recent decades, with a drop around the time of the global
+financial crisis, much of which has now recovered. Over the same period, across the
+same group of countries, the risk-free rate, measured as the ex-post real rate of return
+on 10-year government bonds, shown in Figure 3(b), rose until the 1980s, and has
+since declined.
+The change in the wedge between these two rates of return is plotted in Figure 4,
+relative to 1971. We can see that it has a U-shaped pattern: the wedge declines
+from the 1970s until the 1980s, and then rises materially from the 1990s. Even for
+the United Kingdom, which has shown a smaller rise in the wedge compared to the
+average, shown in the orange line, the wedge has risen by roughly 7 percentage
+points since the trough in 1992. As discussed above, unlike in the data, the equivalent
+15
+16
+
+Caballero et al. (2017) and Reis (2021) also show this for US data.
+See Appendix A.2 for full details of the data definitions used.
+
+14
+
+Figure 3: Return on Capital vs. Risk-Free Rates
+(a) Return on capital has been relatively stable
+Per cent
+18
+
+18
+
+25–75 percentile
+
+12
+
+12
+
+UK
+
+6
+0
+
+6
+
+High-income countries median
+1970
+
+78
+
+86
+
+94
+
+2002
+
+0
+
+10
+
+(b) Risk-free returns have fallen since the late 1980s
+Per cent
+10
+
+High-income countries median
+
+10
+
+5
+
+5
+
+0
+-5
+-10
+
+0
+
+UK
+
+-5
+
+25–75 percentile
+1970
+
+78
+
+94
+
+86
+
+2002
+
+10
+
+-10
+
+Note: High-income countries include Finland, Italy, Netherlands, Spain and the United Kingdom.
+Figure A.3 in Appendix shows that this result is true for a larger sample of countries from 1987. See
+Appendix A.2 for data definitions.
+Source: Authors’ calculations using EU KLEMS, the Penn World Table 10.0 and the Jordà et al. (2017)
+Macrohistory Database. See Appendix A.1 for more details.
+
+measure of the wedge in the structural model is stable over time, as shown in the
+yellow lines in Figure 4.17
+To understand the importance of this wedge, we relate it to one of the key variables
+that shapes the policy landscape: investment.
+Note that, although the difference between R∗ and the rental rate of capital is assumed to be fixed
+in the model, changes in the relative price of capital lead to small fluctuations in the line in the figure,
+since the return on capital is measured consistently with the data.
+17
+
+15
+
+Figure 4: Wedge Between Return on Capital and Risk-free Rates (1971=0)
+Percentage points
+10
+
+25–75 percentile
+
+High-income countries median
+
+0
+
+10
+
+Model
+
+-10
+
+-10
+-20
+
+0
+
+UK
+1970
+
+78
+
+86
+
+94
+
+2002
+
+10
+
+-20
+
+Note: High-income countries include Finland, Italy, Netherlands, Spain and the United Kingdom. All
+lines show the wedge between the return on capital and the risk-free rate, as shown in Figure 3, as
+an index with 1971=0. See Appendix A.2 for data definitions. The yellow lines replicates the same
+definition in the baseline model simulations of Cesa-Bianchi et al. (2022).
+Source: Authors’ calculations using EU KLEMS, the Penn World Table 10.0 and the Jordà et al. (2017)
+Macrohistory Database. See Appendix A.1 for more details.
+
+3.2
+
+Missing Investment
+
+In standard economic theory, the wedge shown in Figure 4 is a measure of firm
+profitability.18 As such, this wedge is a key determinant of firms’ investment: when
+profitability is high, firms are incentivised to borrow and invest in capital.19
+More precisely, this interpretation assumes that firms can borrow at the risk-free rate,
+so that the wedge is the difference between funding costs and the return on capital. It
+could, however, be that funding costs have not been declining in line with risk-free
+rates. This would be the case if, for example, lenders are risk averse and risk or
+uncertainty has increased over time.20 Funding costs would then include an increased
+risk premium over the risk-free rate, to compensate investors for holding risky claims
+on firms, so that the funding cost that firms face diverges from the risk-free rate over
+time.
+If that was the case, the wedge in Figure 4 may be capturing increased funding costs,
+18
+
+Note that we use ‘profitability’ to mean excess profitability, ie net of funding costs. Firms’ output
+can be separated into labour compensation, capital payments - covering funding costs - and ‘profit’ in
+excess of funding costs. In other contexts, the ‘profit rate’ refers to the gross operating surplus, which
+here would be the sum of both the capital and profit shares, per unit of capital.
+19
+See Appendix A.2 for more discussion of the economic theory.
+20
+See Broadbent (2016) and Vlieghe (2017) for more discussion of risk and uncertainty, and
+Melolinna et al. (2018) for a study of how these factors have impacted investment in recent years.
+Note that Haskel and Westlake (2022) also argue that intangible assets are more risky, so that as
+investment in intangible assets rises, the risk premium may also rise.
+
+16
+
+Figure 5: Nominal Investment-to-GDP
+Per cent
+30
+
+30
+
+25–75 percentile
+
+High-income countries median
+
+25
+20
+
+20
+
+UK
+
+15
+0
+
+25
+
+1970
+
+78
+
+86
+
+94
+
+2002
+
+15
+10
+
+0
+
+Note: High-income countries include Finland, Italy, Netherlands, Spain and the United Kingdom.
+Source: Jordà et al. (2017) Macrohistory Database, see Appendix A.1 for details.
+
+rather than increased profitability, and we would not expect it to lead to a rise in investment.
+In Appendix A.2, we compare the risk-free rate to an alternative measure of funding
+costs, available for the United Kingdom for part of our sample period, and find that
+they exhibit very similar dynamics.21 This suggests that the dynamics of the wedge,
+therefore, do indeed reflect increased profitability.22
+In light of these results, we interpret Figure 4 as evidence that firm profitability declined
+between 1970 to the 1980s, and has since climbed up. However, as shown in Figure
+5, investment across the same sample of high-income countries has consistently
+declined or, at best, remained stagnant since the 1970s.
+Bringing this together, therefore, we see that in the early part of the sample, both
+investment and the wedge were declining, as we would expect from standard theory.
+Since the 1990s, however, while the wedge has risen, investment has not. In other
+words this highlights a “missing-investment puzzle”: not simply that investment has
+21
+
+We focus on the pre-2016 period. We can see, however, that funding costs have started to diverge
+from the risk-free rate in the more recent period, possibly reflecting an increase in uncertainty following
+the change in trading arrangements between the United Kingdom and the EU as emphasised in
+Melolinna et al. (2018). Uncertainty around the future trading relationship and Brexit preparations may
+have been weighing on business investment and productivity since 2016. This effect may disappear in
+the long-run as the economy adjusts to the new trading arrangements (Bank of England, 2021).
+22
+In Appendix A.2 we also look at whether our measure of profitability evolves in line with Tobin’s Q.
+If risk aversion was to increase, markets would price this risk and Tobin’s Q would fall. In this case, we
+might see a divergence between our measure of profitability (the wedge) and Tobin’s Q. We find that
+both the wedge and Tobin’s Q move together, as shown in Figure A.2, suggesting that risk premia may
+struggle to explain the increasing wedge.
+
+17
+
+been declining, but that there are factors driving lower investment despite high profitability.23
+To show this formally, we estimate the relationship between the aggregate investment
+rate and the wedge in the United Kingdom.24 We measure the investment rate as the
+ratio of net investment to the lagged capital stock at replacement costs for the market
+sector. This is shown in the orange line in Figure 6. As with the investment-to-GDP
+ratio, there is a gradual decline in this investment rate throughout the sample.
+Regressing this variable on the measure of profitability shown in Figure 4, we detect
+a structural break in the relationship in 2001. The dashed blue line in Figure 6 shows
+the fitted value from the regression estimated from 1970 to 2001. This shows what
+we would expect investment rates to be had the relationship with profitability been
+unchanged after 2001.
+Figure 6: Missing-Investment Puzzle in the United Kingdom
+Net investment per unit of capital (per cent)
+6
+
+6
+
+Fitted values using wedge
+
+4
+
+4
+
+2
+
+2
+
+0
+-2
+
+0
+
+Data
+1970
+
+78
+
+86
+
+94
+
+2002
+
+10
+
+18
+
+-2
+
+Note: The orange line shows net investment per unit of capital in the data. The dashed blue line shows
+the fitted value from the regression of this investment rate on the wedge between the return on capital
+and the risk-free rate. See Appendix B for full details.
+Source: ONS, Jordà et al. (2017) Macrohistory Database and authors’ calculations.
+
+We can see that before the structural break, the decline in investment was in line with
+the fundamentals, captured by the measure of profitability. Since the early 2000s,
+however, a sizable gap opened up between observed investment and the fitted value
+from the regression, thereby illustrating the missing-investment puzzle for the United
+Kingdom.
+23
+
+This puzzle is therefore distinct from the long-discussed underperformance of UK investment with
+respect to its international counterparts (see, eg, Gieve, 2006).
+24
+For more details on our regression analysis, see Appendix B.
+
+18
+
+3.3
+
+Explaining the Missing-Investment Puzzle
+
+To investigate the candidate explanations of the missing-investment puzzle, we build
+on the analysis of Gutiérrez and Philippon (2017). They suggest that we can understand
+the observed decline in US investment in two ways: factors that lower investment
+by driving down firm profitability, such as expected growth, and factors that lower
+investment despite high measured profitability. They find a significant role for factors
+that fall into the latter category, precisely in line with our missing-investment puzzle.
+The rest of this section focuses on these factors.
+We can split the candidate explanations for the missing-investment puzzle into four
+categories:
+Mismeasurement of Capital: If we mismeasure the capital stock, then the empirical
+measures of both investment and profitability would be mismeasured. For instance,
+investment by firms has moved increasingly away from physical capital (such as
+buildings and machinery) towards intangible capital (such as R&D, software, data
+or branding). Measuring investment in intangible assets is far more challenging than
+physical assets, and National Accounts have only recently begun to capitalise a few of
+these intangible assets.25 Moreover, increasing globalisation can blur the localisation
+of investment or profits for multi-national firms. Hence, these factors would mean that
+we are increasingly under-measuring capital over time, which could account for the
+puzzle.
+Competition: The measure of the return on capital that we use, which is based on
+the gross operating surplus, includes any super-normal profits earned from mark-ups
+over marginal costs, arising from imperfect competition. An increase in this measure
+due to an increase in mark-ups, rather than the return on productive capital, would not
+be expected to lead to a boom in investment, and so could explain this puzzle.26
+Corporate Governance: If firms are not willing to take up long-term investment
+opportunities, they would not necessarily take up the arbitrage opportunity offered by
+high profitability, or would instead borrow cheaply and pay out dividends and buy back
+shares. Hence, increasing short-termism in corporate governance could also explain
+the puzzle.
+25
+
+For example, R&D was capitalised only from the 2008 revision of the System of National Accounts,
+which is the internationally-agreed standard for measuring economic activity.
+26
+Note that CHS include a mark-up in their calibration, which is included in the model-implied wedge
+plotted in Figure 4, but this is held fixed over time.
+
+19
+
+Financial Frictions: As mentioned above, firms may not borrow at the risk-free rate.
+Imperfect information or moral hazard between lenders and borrowers (eg, between
+firms and banks or banks and depositors) leads to the emergence of an externalfinance premium, ie a wedge between the risk-free rate and the cost of borrowing
+of firms. While we showed that the increase in profitability was robust to using other
+direct measures of funding costs, we can also investigate the impact of factors that
+determine the external-finance premium, such as the degree of reliance on external
+financing, or the liquidity or leverage of firms.
+Which of these factors is most important is an empirical question, and Gutiérrez and
+Philippon (2017) investigate this question using industry-level data for the United
+States. Many candidate explanations, such as the intangible share of capital and
+financial frictions, vary greatly across industries, so a solely macro perspective may
+be somewhat incomplete.
+While some of these factors can be global in nature, there are also important differences
+across countries. For example, Gutiérrez and Philippon (2017) find an important
+role for decreased competition in explaining the puzzle in the United States. While
+there is a consensus on the increase in market power in the United States (Autor
+et al., 2017; De Loecker et al., 2020), the United Kingdom does not seem to have
+experienced such marked trends (Aguda et al., 2022). This suggests that the drivers
+of the missing-investment puzzle could be different.27 We therefore employ UK industrylevel data to investigate which of the candidate explanations for the missing-investment
+puzzle is more relevant in the United Kingdom.
+We first check to confirm whether the puzzle is present in the industry-level data.
+Figure 7 shows the results from a regression of the investment rate on the measure of
+profitability. In particular, it illustrates the unexplained variation in investment, for both
+the aggregate data (blue line), and the industry-level data (orange line).
+The industry-level data also shows that investment has been low relative to measures
+of profitability since the early 2000s, indicating a missing-investment puzzle very
+similar to the one in the aggregate data.
+We then investigate which of the list of candidate explanations can account for this
+unexplained weakness in investment. To do this, we augment our industry-level
+regression by including proxies for those candidate factors, and assess whether the
+27
+
+Indeed, there is a renewed debate focusing on the secular dynamics behind the United Kingdom’s
+economic underperformance in terms of investment and productivity against its international peers
+(see, among others, The Economist, 2022).
+
+20
+
+Figure 7: The Puzzle at the Industry Level
+Percentage points
+4
+
+4
+
+Aggregate data
+
+0
+-4
+-8
+
+0
+-4
+
+Industry-level data
+1970
+
+78
+
+86
+
+94
+
+2002
+
+10
+
+18
+
+-8
+
+Note: The blue line shows the residuals from the regression described in Figure 6. The orange line
+shows the year fixed effects from an industry-level regression of investment rates on the wedge,
+including industry fixed effects, and standard errors clustered at the industry level. See Appendix B for
+full details.
+Source: ONS, KLEMS, Jordà et al. (2017) Macrohistory Database and authors’ calculations.
+
+unexplained variation in investment is affected.28
+Here, we will focus on the key result from this analysis: intangible capital goes a long
+way to explain the missing-investment puzzle in the United Kingdom.
+To show this, we use the 2022 vintage of the EU KLEMS data. This vintage not
+only includes the latest improvements in measuring intangible assets from National
+Accounts, but also capitalises a broader set of intangible assets building on the work
+by INTAN-Invest.29 It is the first vintage of EU KLEMS that includes 7 intangible
+assets in addition to the 4 that were already included in National Accounts, and as
+such constitutes the first harmonised and fully integrated industry accounts with such
+a broad measure of intangibles to date.30
+We repeat the industry-level regressions, replacing both the measure of investment
+rates on the left-hand side, and the measure of the return on capital used for the
+wedge on right-hand side, with these data that are adjusted for intangibles. Figure 8
+shows the unexplained variation from the baseline industry-level regressions, as in
+Figure 7, as well as the new regression adjusted for intangibles. While the missinginvestment puzzle can still be seen, it is significantly smaller before 2008, becomes
+smaller again from around 2013, and is even insignificant towards the end of the
+28
+
+Appendix B provides a detailed discussion of how we investigate each of the different explanations.
+INTAN-Invest is a research collaboration dedicated to improving the measurement of intangible
+assets building on the work by Corrado et al. (2016), and now feeds into the latest EU KLEMS vintage.
+30
+See Appendix A.2 for more details on the assets included.
+29
+
+21
+
+sample. In other words, the puzzle is smaller and almost disappears in recent years,
+suggesting that the measurement of intangibles can account for an important part of
+the puzzle.
+Figure 8: Explaining the Puzzle with Intangibles
+Percentage points
+6
+
+6
+
+Adjusted for intangibles
+
+0
+
+0
+
+-6
+-12
+
+-6
+
+Unadjusted for intangibles
+1998
+
+2002
+
+06
+
+10
+
+14
+
+18
+
+-12
+
+Note: The orange line shows the industry-level puzzle as in Figure 7, and the shaded area around it
+is the 95% confidence intervals. The blue line shows the same statistic from the regressions in which
+both investment rates and the wedge are adjusted to include intangibles. See Appendix A.2 for a
+discussion of the adjustment.
+Source: ONS, KLEMS, Jordà et al. (2017) Macrohistory Database and authors’ calculations.
+
+The remaining puzzle is mostly concentrated immediately after the global financial
+crisis. As such, it is unlikely that it reflects structural changes, but rather the effects
+of the crisis (eg, on financial frictions, see Gopinath et al., 2017). It is worth noting
+that this result continues to hold even when we include measures of the financialfrictions explanations of the missing-investment puzzle (in particular, external-finance
+dependence and liquidity). It could be that we need to further explore firm-level data
+to capture the impact of financial frictions more accurately, or that there are large
+non-linearities related to the nature of the crisis that the regression framework does
+not capture. However, this suggests that the remaining puzzle is likely to be more
+conjunctural than structural.31
+
+3.4
+
+Intangibles and Productivity
+
+We have shown that, once we account for intangibles, the UK missing-investment
+puzzle occurs mostly following the global financial crisis, and seems to have disappeared
+in recent years. What does this mean for productivity and output?
+Parallel to this remaining missing-investment puzzle, there was a substantial (missing)
+31
+
+Döttling et al. (2017) similarly found that, contrary to the United States, the missing-investment
+puzzle in Europe is more conjunctural than structural.
+
+22
+
+productivity puzzle throughout advanced economies.32 In the United Kingdom, labour
+productivity growth declined by as much as 1.3 percentage points in the latest ONS
+data, when comparing pre- and post-crisis averages (2008-2018 vs. 2000-2007).
+Does the rise in intangible capital play any role in explaining the productivity puzzle?
+Surprisingly, rather than reducing this puzzle, as it did for investment, intangibles
+appear to be driving the productivity puzzle. Figure 9 shows that intangible-intensive
+industries experience the strongest slowdowns in labour productivity growth since the
+crisis.33
+Figure 9: Intangibles May be Driving the Productivity Puzzle
+Slowdown in labour productivity growth, over 2008–18
+versus 2000–07 (percentage points)
+4
+
+US
+
+0
+-4
+
+4
+
+UK
+
+0
+-4
+
+EU4 (DE, ES, FR, IT)
+
+-8
+-12
+
+-8
+
+0
+
+10
+20
+30
+40
+50
+60
+70
+Intangible share of total capital stock, 2000–07 average (per cent)
+
+80
+
+-12
+
+Note: The y-axis shows the change in average labour productivity growth over 2008-2017 relative to
+the average over the 2000-2007 period. The x-axis displays the average share of intangible assets
+in total capital. Each ‘bubble’ represents an industry, with the size of the bubbles reflecting its share
+in total employment within each country, thereby measuring the industry’s contribution to aggregate
+labour productivity growth. EU4 consists of Germany, Spain, France and Italy.
+Source: ONS, KLEMS and authors’ calculations, see Appendix A.1 for more details.
+
+One potential reason for this finding is that investment in intangibles is harder to
+finance. A growing literature shows that there are unique barriers to intangible investment,
+such as the fact that these assets are harder to use as collateral.34 For this reason,
+it could be that intangible-intensive industries were most affected by the tightening
+financial conditions after the global financial crisis, which then had long-term scarring
+32
+
+While past data have shown that this slowdown was strongest in the United Kingdom –at around
+1.7 percentage points, recent revisions from the ONS in the 2021 Bluebook now suggests that the
+UK puzzle is of similar extent to the one in other advanced economies. The slowdown is now around
+1.3 percentage points in the latest ONS data, smaller than the US data in KLEMS exhibiting a 1.5
+percentage point slowdown.
+33
+This point is also raised in Goodridge and Haskel (2022).
+34
+See Haskel and Westlake (2022) for a literature review.
+
+23
+
+effects on productivity growth (De Ridder, 2016; Haskel and Westlake, 2022). However,
+while intangible investment has recovered in recent years, productivity is still low.
+Could it be that the additional barriers to financing intangibles benefit investment by
+less productive firms?
+Another explanation could be related to the impact of the intangible economy on
+competition. Intangible technologies tend to require large upfront investments, or
+so-called fixed costs. This gives firms with high-intangible adoption a competitive
+advantage, and stops new innovative firms from entering the market. Existing firms
+become entrenched and have less incentive to innovate, slowing innovation adoption
+in the long-run (De Ridder, 2019; Aghion et al., 2019). It is difficult, however, to find
+supporting evidence in UK data. While this mechanism is consistent with the decline
+in business dynamism and the increase in market power documented in the United
+States, business dynamism has not been declining as much in the United Kingdom in
+recent decades.35 Could it be that these risks have not yet materialised in the United
+Kingdom?
+
+4
+
+Conclusions
+
+In this paper, we have shown that the substantial global structural changes experienced
+in recent decades have a profound impact on the long-run policy landscape.
+Within our modelling framework, both the secular decline in productivity growth and
+increased longevity imply permanently lower Global R∗ . This means that, without
+significant reversal in these structural trends, or the emergence of new long-run
+structural forces pushing in a different direction, Global R∗ is expected to remain low.
+We have also shown that, in the UK data, the missing-investment puzzle (the apparent
+weakness in investment despite an increasing wedge between the return on capital
+and the risk-free interest rate) over the same period, can be largely accounted for
+by the mismeasurement of intangible capital. Once we control for intangibles, the
+headwinds that have weakened investment seem to have originated from the persistent
+effects of the global financial crisis, and appear to have dissipated by 2016.
+However, in these same years the United Kingdom has seen a substantial productivity
+35
+
+See, for example, Figure A.5 in Appendix A.2, showing that firm entry and exit rates were stable
+in the United Kingdom since the early 2000s, as opposed to declining in the United States (Akcigit
+and Ates, 2021). Gutiérrez and Piton (2020) also show that labour shares have not been falling in the
+United Kingdom as opposed to the United States. See Appendix A.2 for a more detailed discussion of
+business dynamism in the United Kingdom.
+
+24
+
+puzzle. Rather than reducing this puzzle as it did for investment, intangibles may be
+driving the labour productivity puzzle, making the overall long-run impact on output
+ambiguous. Future research should shed light on the unique challenges from the
+increase in intangible capital, and how these can be addressed.
+
+References
+Aghion, P., Bergeaud, A., Boppart, T., Klenow, P. J., and Li, H. (2019). A Theory of
+Falling Growth and Rising Rents. Working Paper Series 2019-11, Federal Reserve
+Bank of San Francisco.
+Aguda, O., Galanakis, Y., Hwang, K. I., and Savagar, A. (2022). Product Market
+Concentration and Productivity in the UK. Working paper.
+Akcigit, U. and Ates, S. T. (2021). Ten facts on declining business dynamism
+and lessons from endogenous growth theory. American Economic Journal:
+Macroeconomics, 13(1):257–98.
+Alfaro, L., Beck, T., and Calomiris, C. W. (2015).
+Entrepreneurship. Working paper.
+
+Foreign Bank Entry and
+
+Aquilante, T., Chowla, S., Dacic, N., Haldane, A., Masolo, R., Schneider, P., Seneca,
+M., and Tatomir, S. (2019). Market power and monetary policy. Bank of England
+Staff Working Papers 798, Bank of England.
+Auclert, A., Malmberg, H., Martenet, F., and Rognlie, M. (2021). Demographics, Wealth,
+and Global Imbalances in the Twenty-First Century. NBER Working Papers 29161,
+National Bureau of Economic Research, Inc.
+Auclert, A. and Rognlie, M. (2018). Inequality and aggregate demand. Working Paper
+24280, National Bureau of Economic Research.
+Autor, D., Dorn, D., Katz, L. F., Patterson, C., and Van Reenen, J. (2017).
+Concentrating on the fall of the labor share. American Economic Review, 107(5):180–
+85.
+Bahaj, S., Foulis, A., and Pinter, G. (2020). Home values and firm behavior. American
+Economic Review, 110(7):2225–70.
+Bank of England (2018). The equilibrium interest rate. Inflation Report, August 2018.
+Bank of England (2021). Monetary Policy Report. November 2021.
+25
+
+Blanchard, O. (2022). Fiscal Policy Under Low Interest Rates. MIT Press, 0 edition.
+https://fiscal-policy-under-low-interest-rates.pubpub.org.
+Broadbent, B. (2016). Uncertain times. Speech by Ben Broadbent at the Wall Street
+Journal, The News Building, London.
+Caballero, R. J., Farhi, E., and Gourinchas, P.-O. (2017). Rents, technical change,
+and risk premia accounting for secular trends in interest rates, returns on capital,
+earning yields, and factor shares. American Economic Review, 107(5):614–20.
+Cesa-Bianchi, A., Harrison, R., and Sajedi, R. (2022). Decomposing the Drivers of
+Global R∗ . Bank of England Staff Working Papers 990, Bank of England.
+Corrado, C., Haskel, J., Jona-Lasinio, C., and Iommi, M. (2016). Intangible investment
+in the EU and US before and since the Great Recession and its contribution to
+productivity growth. EIB Working Papers 2016/08, European Investment Bank (EIB).
+De Loecker, J., Eeckhout, J., and Unger, G. (2020). The Rise of Market Power and the
+Macroeconomic Implications*. The Quarterly Journal of Economics, 135(2):561–644.
+De Ridder, M. (2016). Investment in Productivity and the Long-Run Effect of Financial
+Crises on Output. Cambridge Working Papers in Economics 1659, Faculty of
+Economics, University of Cambridge.
+De Ridder, M. (2019). Market Power and Innovation in the Intangible Economy.
+Cambridge Working Papers in Economics 1931, Faculty of Economics, University
+of Cambridge.
+Del Negro, M., Giannone, D., Giannoni, M. P., and Tambalotti, A. (2019). Global trends
+in interest rates. Journal of International Economics, 118(C):248–262.
+Döttling, R., Gutiérrez, G., and Philippon, T. (2017). Is there an investment gap
+in advanced economies? if so, why? in Investment and Growth in Advanced
+Economies, ECB: Frankfurt am Main.
+Feenstra, R. C., Inklaar, R., and Timmer, M. P. (2015). The next generation of the penn
+world table. American Economic Review, 105(10):3150–82.
+Fiorentini, G., Galesi, A., Perez-Quiros, G., and Sentana, E. (2018). The Rise and Fall
+of the Natural Interest Rate. CEPR Discussion Papers 13042, C.E.P.R. Discussion
+Papers.
+
+26
+
+Gieve, J. (2006). The Puzzle of UK Business Investment. Speech by John Gieve at the
+University of the West of England, Bristol.
+Goodhart, C. and Pradhan, M. (2020). The Great Demographic Reversal. Economic
+Affairs, 40(3):436–445.
+Goodridge, P. and Haskel, J. (2022). Accounting for the slowdown in UK innovation and
+productivity. Forthcoming working paper.
+Gopinath, G., Kalemli-Ozcan, S., Karabarbounis, L., and Villegas-Sanchez, C. (2017).
+Capital allocation and productivity in south europe. Quarterly Journal of Economics,
+132(4):1915–1967.
+Gutiérrez, G., Martinez, J., Philippon, T., and Piton, S. (2022). The Evolution of Firm
+Heterogeneity in Europe: Facts and Explanations. Forthcoming working paper.
+Gutiérrez, G. and Philippon, T. (2017). Investmentless Growth: An Empirical
+Investigation. Brookings Papers on Economic Activity, 48(2 (Fall)):89–190.
+Gutiérrez, G. and Piton, S. (2020). Revisiting the Global Decline of the (Non-housing)
+Labor Share. American Economic Review: Insights, 2(3):321–338.
+Hall, R. and Jorgenson, D. (1967). Tax policy and investment behavior. American
+Economic Review, 57(3):391–414.
+Hamilton, J. D., Harris, E. S., Hatzius, J., and West, K. D. (2016). The Equilibrium Real
+Funds Rate: Past, Present, and Future. IMF Economic Review, 64(4):660–707.
+Haskel, J. and Westlake, S. (2022). Restarting the Future. How to Fix the Intangible
+Economy.
+Holston, K., Laubach, T., and Williams, J. C. (2017). Measuring the natural rate of
+interest: International trends and determinants. Journal of International Economics,
+108(S1):59–75.
+Jordà, O., Schularick, M., and Taylor, A. M. (2017). Macrofinancial History and the New
+Business Cycle Facts. NBER Macroeconomics Annual, 31(1):213–263.
+Jorgenson, D. (1963). Capital theory and investment behavior. American Economic
+Review, 53(2):247–259.
+Koltay, G., Lorncz, S., and Valletti, T. M. (2022). Concentration and Competition:
+Evidence from Europe and Implications for Policy. CESifo Working Paper Series
+9640, CESifo.
+27
+
+Lisack, N., Sajedi, R., and Thwaites, G. (2021). Population aging and the
+macroeconomy. International Journal of Central Banking, 17(2):43–80.
+Loecker, J. D., Obermeier, T., and Reenen, J. V. (2022). Firms and Inequality. CEP
+Discussion Papers dp1838, Centre for Economic Performance, LSE.
+Melolinna, M., Miller, H., and Tatomir, S. (2018). Business investment, cost of capital
+and uncertainty in the United Kingdom - evidence from firm-level analysis. Bank of
+England Staff Working Papers 717, Bank of England.
+Mian, A., Straub, L., and Sufi, A. (2021). What explains the decline in r*? rising
+income inequality versus demographic shifts. Proceedings of the 2021 Jackson
+Hole Symposium.
+Moll, B., Rachel, L., and Restrepo, P. (2021). Uneven growth: automation’s impact
+on income and wealth inequality. Bank of England working papers 913, Bank of
+England.
+Moreno Badia, M. M., Mbaye, S., and Chae, K. (2018). Global Debt Database:
+Methodology and Sources. IMF Working Papers 2018/111, International Monetary
+Fund.
+Piton, S. and Vatan, A. (2018). Firm Ownership and the Labour Share. Working paper.
+Rajan, R. G. and Zingales, L. (1998). Financial dependence and growth. The American
+Economic Review, 88(3):559–586.
+Reis, R. (2021). The constraint on public debt when r<g but g<m. CEPR Discussion
+Papers 15950, C.E.P.R. Discussion Papers.
+Sajedi, R. and Thwaites, G. (2016). Why Are Real Interest Rates So Low? The Role
+of the Relative Price of Investment Goods. IMF Economic Review, 64(4):635–659.
+The Economist (2022). Britain’s productivity problem is long-standing and getting
+worse. June 11th 2022 Edition.
+Tobin, J. (1969). A General Equilibrium Approach to Monetary Theory. Journal of
+Money, Credit and Banking, 1(1):15–29.
+Vlieghe, G. (2017). Real interest rates and risk. Speech by Gertjan Vlieghe at the
+Society of Business Economists’ Annual conference, London.
+Vlieghe, G. (2021). Running out of room: revisiting the 3d perspective on low interest
+rates. Speech by Gertjan Vlieghe at the London School of Economics, London.
+28
+
+Ziesemer, T. (2021). Labour-augmenting technical change data for alternative
+elasticities of substitution: growth, slowdown, and distribution dynamics. Economics
+of Innovation and New Technology, 0(0):1–27.
+
+Appendix
+A
+
+Data Definitions
+
+A.1
+
+Data sources
+
+For the structural and empirical models of Global R∗ , Cesa-Bianchi et al. (2022)
+consider the following list of high income countries used in the analysis: Australia,
+Austria, Belgium, Canada, Czechia, Denmark, Estonia, Finland, France, Germany,
+Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea, Lithuania,
+Netherlands, New Zealand, Norway, Poland, Portugal, Singapore, Spain, Sweden,
+Switzerland, United Kingdom, United States.
+The data for the five drivers of Global R∗ is from a combination of Penn World Table
+10.0 (relative price of capital), United Nations Department of Economic and Social
+Affairs (population growth and longevity), Ziesemer (2021) (labour-augmenting productivity)
+Moreno Badia et al. (2018) (debt to GDP). The data for the calibration of the model
+is from Caballero et al. (2017) (Real return on capital), US Census (Cohort-specific
+labour supply), and Penn World Table 10.0 (Capital to output ratio). The data for the
+empirical model is a combination of Jordà-Schularick-Taylor Macrohistory Database
+(Jordà et al., 2017) and Eikon Refinitiv for short- and long-term interest rates and CPI
+inflation.
+For the missing-investment puzzle analysis, we use the following main data sources:
+• EU KLEMS: our primary dataset is the 2021 vintage of EU KLEMS, which
+includes industry accounts for all European countries as well as the United
+States. We apply Gutiérrez and Piton (2020) methodology and use previous
+vintages to extend our data as far back as possible (1970 for most countries).
+This 2021 vintage of EU KLEMS includes detailed information on intangibles
+from 1995, including assets that are not capitalised in National Accounts building
+on the work by INTAN-Invest.
+• ONS: the UK data in 2021 EU KLEMS vintage does not include ONS latest
+revisions and, specifically, double deflation introduced in the 2021 Bluebook.
+29
+
+For this reason, and like Goodridge and Haskel (2022), we use instead ONS
+GVA and GVA deflator data by industry division for the United Kingdom.
+• Historical data: we complement historical information at the country-level using
+the Penn World Table 10.0 (Feenstra et al., 2015) for investment-to-GDP ratios,
+the Jordà-Schularick-Taylor Macrohistory Database (Jordà et al., 2017) for the
+risk-free rate and CPI inflation. The UK weighted average cost of capital uses
+data from the Bank of England Millenium of Macroeconomic Data, Bloomberg
+Finance LP, Tradeweb, Refinitiv Eikon and I/B/E/S both from LSEG and the IMF
+WEO.
+• Firm-level data: we complement data from National Accounts with industry-level
+indicators built using firm-level data for the United Kingdom. We take most of
+this data from a large micro dataset of firms’ financial accounts, including annual
+balance sheet, income and cash flow statements, provided by Bureau van Dijk
+(BvD). This commercial database builds on the publicly available filings of each
+firm at Companies House, the registrar of companies in the United Kingdom.
+The database covers much of the corporate universe of the United Kingdom.
+We use concentration ratios at the industry-level from Aguda et al. (2022), built
+using the UK Census of firms (ONS BSD dataset). Finally, we use Worldscope
+covering all listed firms in the United Kingdom for measures of Tobin’s Q.
+
+A.2
+
+Variable definitions
+
+Investment and capital stock We first focus on investment-to-GDP ratios for
+the total economy (Figure 5). We then focus on the investment rates from Figure 6
+onwards, defined as investment net of depreciation to the lagged capital stock at
+current replacement costs. The main series include only assets capitalised in National
+Accounts, while the intangible adjusted series include additional assets available in
+KLEMS.36
+Profitability As already described in the main text, our preferred measure of profitability
+is the wedge between the return on capital and the risk-free rate. Note that profitability
+here is thus net of capital cost.
+The return on capital is the real internal rate of return (IRR) from the standard Hall
+36
+
+See KLEMS documentation available here.
+
+30
+
+and Jorgenson (1967) formula measured at the industry level. More specifically, it is:
+
+IRRt =
+
+GOSt − qK,t−1 Kt [δK (1 + q̂K,t ) − q̂K,t ]
+1+
+qK,t−1 Kt
+
+
+
+1
+−1
+1 + πt
+
+with GOS the gross operating surplus, δK the depreciation rate for asset k, K the
+capital stock, q its price and q̂ the 3-year moving average of its price growth (expected
+price inflation of capital), π the CPI inflation.
+Note that the standard Hall and Jorgenson (1967) formula also includes tax adjustment
+factor. We abstract from this due to data limitations for a large sample of countries.
+Using UK data, we find that this tax adjustment only changes marginally the measure
+of the wedge.
+We use the risk-free rate in the baseline analysis assuming it is representative of
+firms’ funding costs. For robustness, we use an alternative measure of funding costs
+using a weighted average cost of debt and equity from the Bank of England (see
+Figure A.1). We find that this funding cost comoves strongly with the safe rate, though
+we can see a recent increase in the WACC in the most recent period, suggesting that
+the safe rate is a good proxy for funding costs over the period of analysis.
+In the workhorse model for firm investment, Q-theory (Jorgenson, 1963; Tobin, 1969),
+the sufficient statistic for profitability is Tobin’s Q, defined as the ratio of market value
+to replacement cost of capital stock. We confront our measure of profitability, based
+on the wedge between the internal rate of return and the funding costs of the firms,
+to Tobin’s Q from Worldscope listed firms data. As seen in Figure A.2, Tobin’s Q also
+increases from the early 2000s.
+Figure 3 focuses on the sample of countries with data available since the early 1970s.
+Figure A.3 shows that using a larger sample of countries from 1987 does not change
+the main result: the return on capital has been flat when the risk-free rate declined
+steadily.
+Intangibles Central to this paper is the role played by intangible investment. National
+accounts include some intangible assets (Software and databases, R&D, other intellectual
+property products).37 However, these measures miss firms’ increased spending
+on some intangible assets such as organisation capital, design, market research,
+advertising or staff training. While financial markets might value these types of expenses
+37
+
+See ESA2010 Annex 7.1 for a definition of those assets.
+
+31
+
+Figure A.1: Weighted Average Cost of Capital (WACC) vs. Risk-Free Rate
+Per cent
+20
+
+20
+
+16
+
+16
+
+WACC
+12
+
+12
+
+8
+
+8
+
+4
+0
+
+4
+
+Long-term nominal interest rates
+1987
+
+92
+
+97
+
+2002
+
+07
+
+12
+
+0
+
+17
+
+Note: The blue line shows the weighted average cost of debt, bond and equity for private non-financial
+corporations. The orange line shows ten-year government bond yields. Both series are for the United
+Kingdom.
+Source: Jordà et al. (2017) for the risk-free rate; the Bank of England Millenium of Macroeconomic
+Data, Bloomberg Finance LP, Tradeweb, Refinitiv Eikon and I/B/E/S both from LSEG, the IMF WEO
+and Bank calculations for the WACC.
+
+Figure A.2: Tobin’s Q in the UK
+Tobin’s Q
+3
+
+Per cent
+9
+
+ONS (left axis)
+
+Worldscope (left axis)
+2
+
+6
+
+1
+
+3
+
+Wedge (right axis)
+0
+
+1987
+
+91
+
+95
+
+99
+
+2003
+
+07
+
+11
+
+15
+
+0
+
+Note: The blue line shows the UK wedge as in Figure 4. The purple line shows Tobin’s Q using ONS
+data, defined as the market value of total equity liabilities over the capital stock (of fixed assets) at
+replacement costs, for non-financial corporations. The orange line shows Tobin’s Q from Worldscope,
+defined as the ratio of market value of equity, total liabilities, and preferred stock, over total assets.
+Source: ONS, Eikon from Refinitiv and authors’ calculations.
+
+as investment, they are not capitalised and thus not included in measures of investment.
+We use the latest EU KLEMS vintage which capitalises 7 of these additional assets
+32
+
+Figure A.3: Return on Capital vs. Risk-Free Rates: Larger Sample of Countries
+(a) Return on capital has been relatively stable
+Per cent
+24
+
+24
+
+25–75 percentile
+
+18
+
+18
+12
+
+12
+6
+0
+
+6
+
+High-income countries median
+1987
+
+95
+
+2003
+
+0
+
+11
+
+(b) Risk-free returns have fallen since the 1980s
+Per cent
+9
+
+9
+
+25–75 percentile
+
+6
+
+6
+
+High-income countries median
+
+3
+
+3
+
+0
+
+0
+
+-3
+
+1985
+
+90
+
+95
+
+2000
+
+05
+
+10
+
+15
+
+-3
+
+Note: High-income countries still include Finland, Italy, Netherlands, Spain and the United Kingdom;
+but also France, Japan and the United States. See Appendix A.2 for data definitions.
+Source: Authors’ calculations using EU KLEMS, the Penn World Table 10.0 and the Jordà et al. (2017)
+Macrohistory Database.
+
+accounting for about 60% of total intangible investment and almost 40% of total
+capital.38 We compute adjusted measures of investment and profitability using this
+broader investment data. Interestingly, as we can see in Figure A.4, and differently
+from the corresponding unadjusted Figure 5 in the main text, once we use these
+adjusted measures, UK investment-to-GDP ratio seems to be in line with its international
+38
+
+The 7 new assets are Industrial Design, New product development costs in the financial industry,
+Innovative Property, Brand, Organisational Capital, Training and Economic Competencies.
+
+33
+
+counterparts. As intangible investments has become an ever larger share of total
+investment, this compositional effect is able to account for some of the missing investment
+puzzle in the UK. In other words, investment is higher and more in line with profitability
+once we take into account intangibles, as described in the main text.
+Figure A.4: Investment-to-GDP Including Additional Intangibles
+Per cent
+60
+50
+
+25–75 percentile
+
+50
+40
+
+40
+30
+0
+
+60
+
+High-income countries median
+
+UK
+30
+1995
+
+2000
+
+05
+
+10
+
+15
+
+0
+
+Note: High-income countries include Finland, Italy, Netherlands, Spain and the United Kingdom. The
+chart shows nominal investment-to-GDP including the additional intangible assets in the latest EU
+KLEMS vintage for the measure of investment. Note that those assets are not included in the measure
+of GDP.
+Source: Authors’ calculations using EU KLEMS and the Penn World Tables.
+
+Beyond affecting the (mis)measurement of investment, Moll et al. (2021) show how
+the capital demand shock associated with the increasing demand for intangible assets
+in a model with an upward slopping capital supply schedule can affect capital returns
+more than investment quantities, and lead to a muted increase in investment relative
+to profitability. Note that the authors focus on automation rather than intangible investment.
+However, evidence on automation adoption (imports of robots) points to low investment
+in automation in the UK relative other European countries, suggesting that intangible
+capital might play a more important role for the UK.39
+Globalisation Next, we look into measures of globalisation, or the foreign activity of
+UK firms. In a similar way that firms’ spending on intangibles constitutes a challenge
+for the measure of investment, UK firms could be increasingly investing abroad rather
+than in the UK and this pattern could translate into a low investment rate in UK data.
+39
+
+A look at Comext data suggests that UK imports of robots as a share of GDP is below its large EU
+counterparts. For example, they are flat at 0.2% of GDP since the early 2000, while increasing 0.8 to
+1.2% in Germany from 2000 to 2015. This could partly reflect the fact that robots are mostly used in
+manufacturing, which is a small share of GDP in the UK.
+
+34
+
+Unfortunately, we do not have data on UK firms’ investment abroad. However, for
+our regression analysis, we are able to observe the share of foreign sales out of total
+turnover for UK businesses in the FAME-BvD dataset.40
+Competition Decreased competition, due to technology or regulation, has been
+put forward as one of the most important drivers of the US investment puzzle (see,
+among others, Gutiérrez and Philippon, 2017). This decline in competition is reflected
+in a decline in business dynamism more generally in the United States (Akcigit and
+Ates, 2021), with increased concentration, declines in firm entry and exit rates, and a
+large reallocation of market shares towards low labour share/high capital-intensive or
+profitable firms leading to a secular decline in the labour share of income.
+In contrast, evidence on business dynamism is mixed in the UK. While there is strong
+evidence for an increase in mark-ups (Aquilante et al., 2019; Loecker et al., 2022), the
+literature is yet to achieve consensus when it comes to concentration in firms’ sales:
+for example, Aguda et al. (2022) show flat concentration, while Koltay et al. (2022)
+find rising concentration. Furthermore, the UK labour share is flat since the early
+2000s (Gutiérrez and Piton, 2020) and does not seem to reflect the same reallocation
+of market shares to low labour share firms as in the United States (Gutiérrez et al.,
+2022). Finally, firm entry and exit have not been falling, as shown in Figure A.5. At
+face value, all this evidence may suggest a more muted contribution of competition to
+the investment puzzle for the UK than for the United States.
+Financial frictions Forms of financial frictions, such as the lack of sufficient internal
+funds and difficulties in getting external funding, could prevent firms from pursuing
+investment projects even when these may be profitable. In this paper we use our
+firm-level dataset to construct measures of external finance dependence following
+Rajan and Zingales (1998), looking at how much of a firm’s investment in BvD is
+accounted for by external funding. As in Gutiérrez and Philippon (2017), we also
+split this indicator into its part accounted by debt and the one by equity. In addition
+to that, in our analysis we look also at other measures of financial constraintness
+such as ratios of cash and net current assets to total assets, as well as leverage. We
+aggregate these indicators to industry-level by considering the median across firms
+40
+
+In other unreported results, we do find some increase in the share of UK listed firms’ sales being
+outside the UK and similarly UK listed firms own an increasing amount of assets abroad in Worldscope
+data. This could suggest a role for globalisation in the investment puzzle. However, we prefer to use
+the larger sample from FAME-BvD, as it includes also the vast group of non-listed firms.
+
+35
+
+Figure A.5: Entry and Exit Rates
+Per cent
+20
+
+20
+
+Incorporation rate
+
+15
+
+15
+
+10
+
+10
+
+Dissolution rate
+
+5
+0
+
+1980
+
+88
+
+96
+
+2004
+
+5
+
+12
+
+20
+
+0
+
+Note: Blue line shows UK firm entry as measured by the number of incorporations to the total number
+of live firms on Companies House register. Orange line shows UK firm exit as measured by the
+dissolution rate also from Companies House register.
+Source: Authors’ calculations using Companies House.
+
+within each industry.41
+Corporate governance Another explanation for the investment puzzle highlighted
+in the literature covering the United States is the evolution of corporate governance.
+The hypothesis is that an increasing share of passive actors in the running of businesses
+may have led to less shareholders’ activism and increasing short-termism. Both these
+forces may then explain the subdued investment despite the observed stable degree
+of profitability. In contrast with the United States, we do not see a clear increase in
+payouts or institutional ownership in National Accounts in the UK (Piton and Vatan,
+2018).
+
+B
+
+Regression Analysis
+
+Aggregate regression In the main text we report results from an aggregate regression
+of UK net investment per unit of capital (NIpk) on the aggregate wedge (all the variables
+41
+
+Gutiérrez and Philippon (2017) look also into the possible role played by firm-level bank
+dependence and safe asset scarcity. The former is particularly relevant for businesses without access
+to capital markets, where financial frictions through banks may mean that bank-dependent firms are
+responsible for the observed underinvestment (Alfaro et al., 2015). The latter would affect firms’ capital
+costs, but would lead to a disconnect between investment and the wedge only if safe businesses,
+which should have lower capital costs, cannot or do not wish to exploit those, eg because of product
+market rents. Unfortunately, we were not able to investigate these avenues in our analysis due to data
+limitations.
+
+36
+
+used in the regression analysis are described in Table B.1).
+
+N Ipkt = β ∗ wedget + ut
+We detect a structural break in 2001 and thus estimate the model up to that date. As
+expected the coefficient β on the wedge is positive and significant; given that, we
+show residuals from this econometric model for the whole sample to document and
+quantify the UK investment puzzle given profitability, as described in the main text.
+Notice these results are supported by our industry-level regressions below, where we
+do not split the sample for structural breaks.
+Industry-level regressions We complement our aggregate results looking at
+industry-level information. We run regressions of net investment per unit of capital on
+a constructed industry-level wedge, and include both industry and year fixed effects,
+as well as clustering by industry and year. Notice that, at industry-level, we document
+and quantify the puzzle following Gutiérrez and Philippon (2017) by reporting the
+(negative) year fixed effects from this regression.
+
+N Ipkit = γ ∗ wedgeit + δi + δt + uit
+where δi and δt represent the industry and year fixed effects, respectively.
+To show the importance of intangibles in explaining the puzzle, we run a regression
+of the investment rate on the wedge, both adjusted for the additional intangibles
+not included in National Accounts (N Ipk adj and wedgeadj , respectively) –again the
+regression includes also industry fixed effects and clustering at the industry-year level.
+We interpret the reduction in the estimated drag from the year fixed effects shown in
+Figure 8 in the main text as evidence of intangibles helping explaining the investment
+puzzle.
+
+Finally, we use the regression of N Ipk adj on wedgeadj as our baseline, and include
+each selected additional explanation one by one to test whether it may help explaining
+the remaining puzzle.
+
+N Ipkitadj = γ adj ∗ wedgeadj
+it + θ ∗ explanationit + δi + δt + uit
+37
+
+When we include all the selected measures from Table B.1, our sample shrinks considerably:
+it ends up including only observations from 2000 onwards. For robustness we thus
+proceed in two fashions.
+First, we constrain each regression to match the estimated coefficients for the wedge
+and industry-level fixed effects from the baseline model using data from the longer
+sample. Crucially, we allow the year fixed effects to change to understand how the
+puzzle is affected. This procedure does not seem to suggest that any of our preferred
+measures contributes substantially to explain the puzzle once intangibles are taken
+into account.42
+Second, we restrict the sample to the years common to all variables considered
+for our explanations, and let the model re-estimate everything each time. Again,
+this does not change our main result on the important role played by intangibles as
+opposed to other explanations.
+
+42
+
+We were able to find, if anything, some evidence of our measure of leverage helping with
+explaining some of the puzzle. While we follow the literature here focusing on the measures of external
+finance dependence described in Table B.1, we believe this result is in line with the main conclusion
+that the investment puzzle in the UK may have been more conjonctural than structural, unlike in the
+United States. Thus, we find this promising in terms of further future investigations in the link between
+the puzzle and financial frictions, perhaps pursuing more sophisticated approaches than our simple
+method here –eg including non-linearities, more indicators or other moments of the within industry
+distributions.
+
+38
+
+Table B.1: Summary of Variables for Regression Analysis
+Variables
+
+Definitions
+
+Core covariates
+N Ipk
+
+Investment net of depreciation divided by the lagged
+capital stock
+
+W edge
+
+Spread between return on capital and the safe rate
+
+N ipk adj
+
+Same as NIpk, but adjusted for the additional
+intangibles missing from National Accounts
+
+W edgeadj
+
+Same as wedge, but adjusted for the additional
+intangibles missing from National Accounts
+
+Additional explanations
+Globalisation
+
+Share of sales abroad out of total sales - median
+across firms within an industry.
+
+Financial frictions
+
+i) External finance constraints: median across firms
+within an industry of external finance dependence, ie
+how much investment is founded by external sources
+including equity and debt (Rajan and Zingales, 1998).
+ii) Liquidity: median across firms within an industry of
+the ratios over total assets of net current assets and
+cash (the latter as bank deposit minus bank overdraft,
+see Bahaj et al., 2020).
+iii) Leverage: median across firms within an industry
+of the ratio of debt over total assets.
+
+Competition
+
+i) Concentration ratios, as the percentage of industrylevel sales accounted for by the top 5, 10, 20 and 50
+firms.
+ii)
+index defined as HHIk =
+PHerfindahl-Hirschman
+2
+s
+where
+s
+denotes
+the
+share of sales for firm j in
+j
+j j
+a given industry k.
+
+39
+
+

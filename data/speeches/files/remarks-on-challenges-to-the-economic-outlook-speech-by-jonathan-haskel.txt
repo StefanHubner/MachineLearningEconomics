@@ -1,0 +1,417 @@
+Remarks on challenges to the economic outlook
+Remarks given by
+Jonathan Haskel, External Member of the Monetary Policy Committee, Bank of England, and
+Imperial College Business School, Imperial College, London
+
+CEPR / Chicago Booth Webinar: Panel remarks on the economic challenges facing the new
+U.S. Treasury Secretary Janet Yellen
+
+5 March 2021
+
+My thanks to Jamie Lenney and Marilyne Tolle for their assistance in preparation for this event. I would also like
+to thank Becky Maule, Nick McLaren, Tom Smith and Silvana Tenreyro for their comments. Errors and opinions
+are my own.
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+It is a pleasure to sit with this panel today to discuss some of the upcoming economic challenges for the new
+US Treasury Secretary. In my brief remarks, I will offer a UK perspective and reflect upon some of the issues the
+Monetary Policy Committee (MPC) at the Bank of England has been considering for the UK outlook.
+To begin with, let me consider the below Figure 1 which plots real GDP for the financial crisis and during the
+current pandemic, including our forecasts.
+
+Figure 1: The UK Recovery
+
+Pre-Crisis
+
+Financial Crisis
+
+Post-Crisis
+
+COVID-19+
+
+2021-2022+
+
+2023+
+
+GDP
+
+2.6
+
+-4.8
+
+1.8
+
+-9.7
+
+8.5
+
+1.2
+
+Productivity++
+
+1.8
+
+-1.9
+
+0.6
+
+-2.3
+
+2.1
+
+0.5
+
+Growth Rates (pp)
+
+Source: ONS, Bank of England and author calculations.
+Note: Profiles of recoveries are indexed to the level of output in the quarter before the recession. The dashed blue line is the forecast in
+the January 2020 MPR, the dark solid blue line the forecast in the February 2021 MPR. Scarring assumptions explain the majority of
+the difference between the two forecasts by quarter 16. The table shows average annualised growth rates for 2001Q1-2008Q1,
+2008Q2-2009Q2, 2009Q3-2019Q4, 2019Q4-2021Q1, 2021Q2-2022Q4 and 2023. + Denotes the forecast from February 2021 MPR. ++
+Productivity is GDP divided by aggregate hours worked.
+
+This figure illustrates that:
+1) In 2020 the UK experienced an extraordinary economic contraction. In fact it was the largest annual
+contraction in economic output recorded since 1709. The economic historians among you will know this
+as the Great Frost (the coldest European Winter for 500 years).
+2) Today, in the midst of a third national lockdown, we are still a long way from our pre-recession trend line
+and a ways off where we were at the equivalent point of the financial crisis.
+3) We expect a strong recovery (from a low base), and to ultimately fare better in this recovery than we did
+after the financial crisis: returning more quickly and closer to the pre-crisis trend.
+
+2
+
+4) We expect to return to pre-pandemic growth rates but will not make up for lost time and thus, at least in
+the medium term, the level of economic output is permanently lower or ‘scarred’1.
+The proximate challenge is to prevent (1) and (2) from jeopardising (3), and to minimise (4).
+The challenges
+Scarring
+Let me first consider the potential for economic ‘scarring’. In its best collective view the MPC has forecast that
+some persistent effects of the pandemic will weigh on the supply capacity of the UK economy, to the extent that
+the level of potential GDP (𝑌 ∗ ) is around 1¾ percent lower by the end of 2023 than it otherwise would have
+been. Why is this? To help us think about this let us consider a formula2 for the level of potential GDP 𝑌 ∗ :
+𝑌∗ = (
+
+𝑌∗
+𝐾∗ ∗
+∗
+∗
+)
+𝐻
+=
+𝑓
+(𝐴
+,
+)𝐻
+𝐻∗
+𝐻∗
+𝑌∗
+
+This formula tells us that potential GDP is composed of potential per-hour productivity ( ∗) and potential labour
+𝐻
+
+supply 𝐻 ∗ . Potential productivity is a function of general technical progress 𝐴∗ and capital services 𝐾 ∗ relative to
+𝐻 ∗ . In other words, labour productivity growth is underpinned by investment in capital that makes workers more
+efficient as well as general improvements in workers’ efficiency (𝐴∗ ) that arise from a variety of sources,
+including individual experience on the job and process innovations.3 The pandemic has and will continue to
+disrupt both of these channels.
+Figure 2: The recovery of consumption and investment
+
+Sources: ONS and Bank of England.
+Note: Volume measures of consumption and investment indexed to 2019Q4. Profiles shown by the dotted lines to 2023Q4 should be viewed
+as broadly consistent with the MPC’s projections for GDP, CPI inflation and unemployment (as presented in the fan charts) in the February
+2021 MPR.
+
+Note that we are talking here about scarring in terms of levels, as we expect to return to productivity growth rates of around ½% per
+annum, similar to the rates of growth observed before the pandemic. This is much lower than the productivity growth we sustained before
+the financial crisis, which was close to 2 percent.
+2
+This formula is typical of the formulae that sit within macroeconomic models of the business cycle.
+3
+We are here relegating improvements in human capital to A.
+3
+1
+
+Lower 𝑲∗ : Starting with tangible capital, overall investment in capital goods collapsed in 2020 and failed to
+recover to the same extent as we saw for consumption (Figure 2). Looking forward, residual uncertainty and
+risk aversion over the recovery are likely to continue to weigh on investment, as they have in past recoveries
+(Cominetti et al, 2021). Therefore, we expect workers will be operating with less capital than they otherwise
+would.
+Lower 𝑨∗ : In terms of intangible capital, reduced levels of investment in research and development and process
+improvements will drag on overall levels of efficiency in the medium term. In terms of human capital, we also
+anticipate that time out of the labour force through the government’s furlough scheme (Coronavirus Job
+Retention Scheme) in 2020 and 2021, and higher unemployment in 2021 and 2022, will reduce the
+accumulation of human capital through less ‘learning by doing’.
+Lower 𝑯∗ : Elevated levels of unemployment can also lower the supply capacity of the economy.
+Unemployment in our forecast peaks at 7¾ percent in the middle of 2021 and then comes down. However, if
+that unemployment translates into higher structural unemployment, then one can have a high-unemployment
+economy but with lower potential supply. This will especially be the case when there is a substantial mismatch
+between the characteristics of unemployed workers and posted vacancies, for example a regional or industry
+mismatch or differences in required skills and experience. This was significant after the financial crisis
+(Sahin et al, 2014).4 We have made no specific assumptions about the underlying causes of any labour market
+mismatch over the forecast but lasting changes to the way we work and consume are possible candidates,
+alongside broader forces of creative destruction that might accelerate in a recovery. While this labour mismatch
+effect is likely to be temporary, we currently expect it to persist into the medium term.
+There are other channels, not incorporated in our forecast, that might also affect potential output.The first is the
+prospect of more significant structural change from increased working from home and shifts in the compositon
+of consumption. I’ll make two brief points on this. The first is that while it is remarkable that in recent months
+(according to the ONS BICS survey) almost 50 percent of the UK’s active labour force was working from home,
+a net balance of firms across the vast majority of industries does not intend to use increased homeworking as a
+permanent feature going forward, nor do they think homeworking has improved productivity. This is illustrated in
+Figure 3, which captures these two points. First, as the y axis shows, there is only one industry where firms
+intend to increase homeworking permanently, Information and Communication, with all the other industries
+stating they do not intend to do so (Financial services are not surveyed). Second, there is a positive correlation,
+captured by the trend line, between the intent of permanent homeworking on the y axis and experiences of
+homeworking productivity on the x axis. All industries are in the bottom-left quadrant, with only Information &
+Communication in the top-right. This suggests, to me at least, it is likely that the majority of industries will return
+to the workplace when the pandemic restrictions are lifted, lessening the impact of structural change from this
+quarter.
+
+4
+
+See the August 2020 MPR for more discussion on this.
+4
+
+Figure 3: Working from home prospects
+
+Net percentage expecting increased homeworking as permanent (y axis) vs net percentage reporting increased
+productivity from homeworking (x axis)
+
+Source: Business Impacts of Coronavirus (COVID-19) Survey data. Average of waves 14 (21 September -4 October 2020), 16 (5-18
+October 2020), 18 (16-29 November 2020), 20 (14-23 December 2020), 22 (11-24 January 2021) and 24 (25 January -7 February 2021).
+Note that “Other Services” has been removed from the sample.
+Questions: “How has the increase in homeworking affected the productivity of your workforce?” and “Does your business intend to use
+increased homeworking as a permanent business model going forward?”
+
+The second point is the importance of putting any potential structural change in a longer-run context. People
+often discuss structural change in the context of the massive changes in manufacturing employment. To get
+some measure of this, Figure 4 illustrates the significant shift away from employment in manufacturing in the
+UK since 1980, captured by the fall in the manufacturing industry’s share of employment. I also plot the share of
+employment in Accommodation and Food services, the sector that has been most affected by COVID-19
+restrictions. In the 15 years from 1980-1995 the maunfacturing share fell from around 25% to 15%, and in the
+following 15 years from 15% to 8%. Over that entire period Accommodation and Food hovered around 5%.
+Note that even under these extreme circumstances, the change in the share of aggregate hours in this industry
+in 2020 is actually small relative to the longer-run shift in manufacturing. Putting this together the prospects for
+large COVID-specific structural employment changes are probably small, at least in an economic sense.
+
+5
+
+Figure 4: Industry employment shares
+
+Source: ONS
+Note: Dashed lines are shares of total employment (jobs). Solid lines are hours shares of total hours
+worked from the Labour Force Survey. Last datapoint in 2020Q3.
+
+Another unincorporated channel is the prospect of lower future levels of intangible investment, an important
+driver of economic growth. I (Haskel, 2019) and others (Garcia-Macia, 2017) have discussed the
+post-financial-crisis slowdown in intangible investment. The hurdle for intangible investment is that it can be
+difficult to fund as the assets it generates are less easy to pledge as collateral and possibly riskier. For example
+significant spillovers may mean the benefits of the intangible investment accrue to third parties. A strong
+intangible economy therefore requires a financial system capable of lending against intangibles assets. Here is
+an area where we should expect to fare better this time round, as the financial system is in a much stronger
+position today than it was after the financial crisis5. An additional factor is that house prices have not decreased
+as they did during the financial crisis. In fact they grew by 8.5% in the UK over 2020, on the back of the stamp
+duty holiday and supportive fiscal and monetary policy. This might matter for investment that relies on private
+real estate as collateral, as shown in studies such as Bahaj et al (2020) and noted in a speech (Haskel, 2020) I
+made last year that highlighted the particular importance of this channel for intangible investment.
+Reduced entry of innovative firms may also drag on growth over the medium term if a subdued economic
+environment deters them or new firms struggle to obtain finance. Again, a relatively stronger financial system
+should help mitigate some of this risk. So far I’ve yet to see material evidence of any decline – to the contrary,
+
+5
+
+See December 2020 Financial Stability Report.
+6
+
+Figure 5 shows we have actually seen a surprisingly large uptick in new registrations, which requires more
+analysis.
+
+Figure 5: New business registrations in the UK
+
+Source: Companies House register. Note: Last data point is December 2020.
+
+A final point on scarring is to note that we have not talked about scarring in terms of growth rates, nor do we
+forecast a lower rate of productivity growth beyond the medium term. This is in stark contrast to the slowdown
+witnessed after the financial crisis, where the average annual productivity growth rate in the UK fell from close to
+2 percent to about ½ percent (Figure 1) – the unresolved ‘productivity puzzle’. Had we reverted to the pre-crisis
+trajectory of productivity growth after the financial crisis, the level of GDP in 2019 would have been about 13
+percent higher than it was. Our forecasts are that productivity is set to grow still very slowly, at about ½% pa.
+In that sense, the growth scarring from the financial crisis is still with us.
+Fiscal drawdown
+Rightly, governments around the world have stepped in to provide insurance against the economic impact of the
+pandemic. The cost of announced coronavirus-related policy measures alone is expected to be around
+16 percent of GDP, of which about ½ has been spending on employment and business support, such as the
+furlough scheme, tax relief and government-guaranteed loans6. While the expiration of these measures is a
+moving target, we can expect them to be withdrawn once restrictions loosen sufficiently. In the Spring Budget
+delivered on 3 March, the government announced an extension to the support measures for jobs and
+businesses until the autumn. The transition away from government support represents a considerable test for
+the recovery. Figure 6 below highlights how these support schemes have insulated employees and businesses.
+On the left hand side we see, remarkably, that unlike during the financial crisis, insolvencies actually fell over
+2020. This is in large part due to capacity constraints on administrators and courts caused by the pandemic,
+such that we can expect a level of pent-up insolvencies to emerge. However, the business support schemes will
+
+See the Office of Budget Responsibility March 2021 outlook for more detail. Quoted numbers are from chapter 3 (Chart A) and are
+expressed relative to 2020 GDP.
+7
+6
+
+also have played a part in this as well, by reducing cash-flow pressures on firms and banning commercial tenant
+evictions.
+
+On the right hand side of Figure 6, we see that, remarkably, despite the significant difference in magnitude of
+the economic contractions, the change in the official unemployment rate over 2020 follows a similar trajectory to
+what we saw during the financial crisis. The government’s furlough scheme explains7 this of course and the
+latest data from the ONS would suggest that 25% of the private-sector labour force is currently on furlough.
+Cominetti et al (2021) estimate that of these furloughed workers, half a million have been on furlough for at least
+six months. The extent to which these schemes have averted rather than simply delayed rising insolvencies and
+unemployment remains, for me, an open question.
+Figure 6: Insolvencies and unemployment
+Panel A: Insolvencies
+
+Panel B: Unemployment rate
+
+Source: UK Government Insolvency Service, ONS and author calculations.
+Note: Insolvencies and unemployment are plotted relative to the quarter containing the pre-recession peak in GDP.
+
+Vaccine efficacy vs vaccine effectiveness and escape mutants
+A final challenge or concern is the distinction between vaccine efficacy and vaccine effectiveness (sometimes
+called implementation). Vaccine efficacy, that is, how well the vaccine works in a laboratory setting on screened
+participants, is very high – a tribute to the scientific community. Less is known about vaccine effectiveness, that
+is, how well the vaccine works in the field, which depends also on production, logistics and public health
+policies. The vaccine manufacturing and distribution processes would seem to be vulnerable to small
+disturbances at any point along the production and distribution chains (a sort of “O Ring” effect). Another issue
+is the emergence of highly transmissible variants of the virus, so-called “escape mutants”, of the kind that
+necessitated a re-imposition of lockdowns here and abroad earlier this year. The time needed to redesign and
+
+There are also some measurement issues related to the ONS’s labour force survey that mean the official unemployment rate has likely
+struggled to capture the true increase in unemployment. More detail here.
+8
+7
+
+redistribute vaccines that can deal with novel resistant strains could mean renewed restrictions and voluntary
+social distancing as health risks worsened.
+On the upside
+I’ve largely focused so far on scarring and downside risks to the outlook but there are reasons to look to the
+upside as well.
+First, the early evidence suggests vaccine efficacy is translating into vaccine effectiveness. Across the
+United Kingdom, more than 20 million8 people have received a first dose of a vaccine, including nearly all of the
+most vulnerable groups in society. We are also beginning to see evidence of vaccine effectiveness. For example
+data from Public Health England shows one dose of the Pfizer-BioNTech vaccine reduces the risk of infection by
+more than 70 percent, rising to 85 percent after the second dose. They also report that those over 80 who
+develop a COVID-19 infection after vaccination are around 40% less likely to be hospitalised than someone with
+infection who has not been vaccinated. This is very promising but the true test will come when the majority of
+the country begins the process of easing restrictions next week (8 March).
+Another potential upside is a stronger recovery in consumer spending, if households (on the back of an effective
+vaccine programme) choose to spend the savings involuntarily accumulated during the lockdowns (Figure 7).
+Approximately £125bn of extra savings accumulated between March and November 2020 as consumption fell
+due to COVID-related restrictions, while incomes were supported by government employment schemes. Due to
+continued support and restrictions, this stock is set to rise even further and could approach £300bn by the time
+restrictions are fully lifted. To put this into perspective, given there are approximately 30 million households in
+the UK, that £300bn translates into an additional £10,000 of savings per household on average (were the
+savings to be distributed equally – we comment on this below). That is a sizeable amount, equivalent to about
+what the median UK household holds in liquid saving accounts/cash ISAs9.
+The MPC’s central projection is for households to spend about 5% of these additional accumulated savings over
+the forecast but it is conceivable households might choose to spend even more, particularly since a large
+proportion of the accumulated savings is in liquid bank deposits, which can be spent easily. Pushing against that
+is the fact that household consumption changes out of additional wealth are not generally measured to be all
+that large, and the bulk of these savings will have accrued to wealthier households who are less likely to
+respond to this extra private wealth through higher consumption10. We also asked households11 who had
+accumulated extra savings – which constituted 30% of households – what they intend to do with these extra
+savings in the 2020H2 NMG survey. Only a minority of those who had accumulated extra savings indicated they
+would use those savings to finance high spending, whereas around 70 percent responded they would save it in
+the bank (Figure 8).
+
+At the time of writing, the figure was 21.3 million.
+Based on calculations from the ONS’s wealth and asset survey (2016 year).
+10
+See February MPR section 3 and Vlieghe (2021) for more discussion.
+11
+Much more detailed information, in particular about the distribution of these additional savings, is set out here: How has Covid affected
+household savings? | Bank of England
+9
+8
+9
+
+Figure 7: Household savings
+
+Source: ONS. Note: Last data point is 2020Q3.
+
+Figure 8: Household plans from extra savings
+
+Sources: 2020H2 NMG Household Survey and Bank calculations.
+Note: Distribution of answers to the question “You said your savings have increased during the pandemic. What do you plan to do with
+these savings?”. “Other” includes giving to family/gift, not sure and prefer not to say.
+
+Where does this leave me on monetary policy?
+The economy has some significant challenges to overcome on our road to recovery.
+
+At the February 2021 MPC meeting, I judged alongside my colleagues that the existing stance of monetary
+policy remained appropriate, with the positive news related to the vaccine rollout offset by the near-term
+deterioration of the public-health outlook and stringent lockdown measures. The decision to leave policy
+unchanged was consistent with our guidance not to tighten monetary policy at least until there was clear
+evidence that significant progress was being made in eliminating spare capacity and achieving the 2% inflation
+target sustainably.
+10
+
+My views on the supply outlook are balanced. While I see potential for greater scarring should the economy fail
+to overcome its near-term challenges, I don’t draw significant parallels, at this time, between the risk to supply
+over the medium term and our experience after the 1980s recession and the financial crisis. The key issue after
+the financial crisis was a severe and unexplained permanent slowdown in productivity growth that we were
+grappling with before the pandemic.
+The current MPR forecast shows the UK economy moving into a temporary period of excess demand in 2022.
+Nevertheless, given the endogenous nature of supply and the temporary factors underpinning that movement
+into excess demand, namely fiscal spending on health and some pent-up demand, I see relatively little risk of
+sustained above-target inflation over this period.
+Finally, it is my view that risks to activity remain skewed to the downside. As I have consistently argued,12
+risk-management considerations dictate that policy should lean strongly against downside risks to the outlook13
+and I remain open to the possibility that the economy might need further support to return inflation to the target
+sustainably. This means guarding against any weakness in the economy being amplified by a tightening in
+monetary conditions that could slow the return of inflation to the target. It also means being ready to deploy, as
+and when needed, all the tools available to the MPC. That is why, following the completion of the PRA’s initial
+consultation with regulated firms regarding the setting of zero or negative Bank Rate, I supported the decision
+alongside my colleagues to request that the PRA further engage with firms to ensure they start preparations to
+be ready to implement a negative Bank Rate at any point after six months. It is prudent for banks to start
+preparations regardless of the currently desired policy stance, for that is what it means for a negative Bank Rate
+to be in the MPC’s monetary policy toolkit.
+
+Haskel (2019).
+A risk-management approach proposes that the possibility of running out of monetary headroom warrants looser monetary policy in
+advance of it occurring. See Evans et al (2015) and Adam and Billi (2007).
+12
+13
+
+11
+
+References
+Adam, K. and Billi, R. M. (2007). Discretionary monetary policy and the zero lower bound on nominal interest
+rates. Journal of Monetary Economics, Elsevier, vol. 54(3), pages 728-752, April.
+Bahaj, S., Foulis, A., & Pinter, G. (2020). Home values and firm behavior. American Economic Review, 110(7),
+2225-70.
+Bank of England (2020). Monetary Policy Report, January 2020.
+Bank of England (2020). Monetary Policy Report, August 2020.
+Bank of England (2020). Financial Stability Report, December 2020.
+Bank of England (2021). Monetary Policy Report, February 2021.
+Cominetti, N., Leslie, J. & Smith, J. (2021). On firm ground? The impact of Covid-19 on firms and what policy
+makers should do in response. Resolution Foundation, February 2021.
+Cominetti, N., Henehan, K., Slaughter, H & Thwaites, G. (2021). Long Covid in the labour market: The
+impact on the labour market of Covid-19 a year into the crisis, and how to secure a strong recovery. Resolution
+Foundation, February 2021.
+Evans, C., Fisher, J., Gourio, F. and Krane, S. (2015). Risk Management for Monetary Policy Near the Zero
+Lower Bound. Brookings Papers on Economic Activity, Economic Studies Program. The Brookings Institution,
+vol. 46(1) (Spring), pages 141-219.
+Garcia-Macia, D. (2017). The financing of ideas and the great deviation. International Monetary Fund.
+Haskel, J. (2019). Capitalism without capital: understanding our new "knowledge" economy. Speech given at
+York University on 16 May 2019.
+Haskel, J. (2019). An end-of-year retrospective on the UK outlook and monetary policy. Speech given at the
+Resolution Foundation, London, on 20 December 2019.
+Haskel, J. (2020). Monetary policy in the intangible economy - speech by Jonathan Haskel. Speech given at
+University of Nottingham on 11 February 2020.
+Office of Budget Responsibility. (2020). Economic and fiscal outlook. November.
+Şahin, A., Song, J., Topa, G., & Violante, G. L. (2014). Mismatch unemployment. American Economic
+Review, 104(11), 3529-64.
+Vlieghe G. (2021). An update on the economic outlook. Speech given at Durham University on 22 February
+2021.
+
+12
+
+

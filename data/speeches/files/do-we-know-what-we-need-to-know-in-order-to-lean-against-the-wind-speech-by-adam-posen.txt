@@ -1,0 +1,350 @@
+Speech by
+
+ADAM S. POSEN1
+EXTERNAL MEMBER, MONETARY POLICY COMMITTEE, BANK OF ENGLAND AND
+SENIOR FELLOW, PETERSON INSTITUTE FOR INTERNATIONAL ECONOMICS
+
+DO WE KNOW WHAT WE NEED TO KNOW
+IN ORDER TO LEAN AGAINST THE WIND?
+
+at the Cato Institute 28th Annual Monetary Conference, Washington
+Panel on “Is Monetary Policy Responsible for Bubbles?”
+18 November 2010
+
+1
+
+This presentation is based on joint work in progress with Tomas Hellebrandt and Neil Meads. I am grateful to the
+Bank of England for its support of their research efforts, and to the Alfred P. Sloan Foundation for its support of my
+work in this area. The views expressed and any errors herein, however, are solely my own, and not those of PIIE, the
+Bank of England, the MPC, or any of its staff.
+
+I am very pleased to have been invited to speak at this year’s Cato Institute Monetary Conference,
+prior editions having been an annual source of thought provoking discussion on central banking
+issues. With my other hat on, as a think tank neighbour from just a few blocks northwest on
+Massachusetts Avenue, I am hoping to contribute to the kind of empirically grounded policy
+debate that we all aspire to feed in this community. And in keeping with those qualities, this
+panel’s assigned topic is the role of monetary policy in creating, not merely responding to, asset
+price bubbles – a provocative topic of relevance to central banking requiring empirical analysis.
+
+The tenor of the times following the global crisis is to take that extreme premise as a given, and to
+advocate a policy response of tightening monetary policy pre-emptively to prevent or pop
+bubbles, that is to lean against the wind.2 As I argued in Posen (2009), the success of such a
+policy depends upon three empirically testable assumptions: first, that we can discern bubbles in
+real-time from among the ongoing fluctuations in asset prices before it is too late; second, that the
+monetary instruments available to central banks do affect asset prices in a dependable fashion;
+and third, that it is worth it on net to pre-empt bubbles, despite the potential costs from lost output
+and increased volatility of doing so.
+
+Amidst the understandable public outrage in the US and elsewhere regarding the aftermath of the
+2008-09 crash, it is easy to rush to judgment on monetary policy and to forget that all three of
+these assumptions remain far from established – but they do remain unproven. Previously, I have
+taken on the second assumption, and offered cross-national evidence that monetary policy
+instruments do not predictably or dependably influence asset prices.3 More recently, I have
+reminded people that the bubble of the 1980s in Japan, often held up as the paradigmatic example
+of a missed opportunity to pre-empt an asset price boom with monetary tightening (or even of a
+bubble caused by monetary laxity), does not fit the paradigm – not least because real estate prices
+there rose by 50% in two years prior to monetary loosening, and continued rising after monetary
+tightening began.4 One implication, as I note in Posen (2010), is that if small open economies
+facing apparent bubbles at present driven by capital inflows raise interest rates by anything short
+of hundreds of basis points, they will only attract more inflows and exacerbate their problems.
+2
+
+Leading expressions of this view, set out before the current consensus emerged, include Bordo and Jeanne (2002),
+Borio and Lowe (2002), Borio and White (2003), Cecchetti, et al (2002), Roubini (2006), and White (2006, 2009).
+3
+Posen (2009). See the related arguments based on more ambitious econometric approaches in AssenmacherWesche and Gerlach (2008) and in Goodhart and Hoffmann (2009), as well as earlier discussions in Bean (2003,
+2009) and Posen (2003, 2006).
+4
+Posen (2010). See the analyses of Japanese monetary policy and other factors in the 1980s bubble in Bernanke and
+Gertler (2001), Cargill, et al (2000), Hoshi and Kashyap (1999), and Jinushi, et al (2000).
+
+2
+
+What I would like to challenge today is the validity of the first listed assumption necessary for
+leaning against the wind to succeed: the assumption that monetary policymakers can correctly
+identify asset price bubbles in time to respond pre-emptively (or at least usefully).5 This is
+something where many policymakers even previously sceptical now feel they can be like Potter
+Stewart and recognize obscenity in asset prices when they see it.6 I will briefly highlight some
+patterns that emerge if we look more carefully at the historical record of asset price booms and
+busts.7 In light of those patterns, the prospect of getting the call right becomes very daunting. I
+hasten to add this is not because I have huge faith that financial markets are always correct in
+their pricing of risk and reward, or because I have no stomach in general for judgment calls from
+central bank decision makers. The difficulty is because of the complex nature of asset price
+booms and busts, a nature that seems to me to be overlooked in the advocacy of leaning against
+the wind.
+
+Some Booms Are Different –
+
+Nowadays, we are all riffing on my colleague and co-panelist Carmen Reinhart’s already classic
+book and book title, This Time is Different. Let me take my turn doing so, and say a few words
+about the diversity of types of bubbles, or at least of asset price booms and busts. It turns out that
+some things taken for granted about booms and busts are not true, and their impact and attributes
+are quite varied.
+
+Even if one is to use judgment on asset prices from a forward-looking perspective, it certainly
+helps to have an objective baseline definition for what constitutes a boom or bust looking
+retrospectively for research. So my co-authors and I set out to create lists of asset price booms
+and busts, both for residential real estate prices and for equity prices, for 17 developed economies
+since the 1970s.8 We used two distinct methods for identifying booms and busts: one which looks
+at sustained periods of price growth more than 1.3 standard deviations above/below the fourquarter moving average of the growth rate for the series (by country and asset type), following
+Bordo and Jeanne (2002); the other which uses Hodrik-Prescott filter methods to identify a time5
+
+In work underway, we are trying to tackle empirically the determinants of the costs of asset price booms and busts,
+particularly as a function of financial structure, aka assumption # 3.
+6
+See the shift on this particular point between Kohn (2006) and Kohn (2008), for one notable example.
+7
+A working paper setting out more fully the data and methods behind the results I touch on today is soon
+forthcoming, and should be publicly available by the time the conference volume goes to press.
+8
+We are extending a dataset that Charles Goodhart and Boris Hoffman graciously shared. Our forthcoming working
+paper will provide the full details on construction of these measures. Obviously, data limitations played a role in
+which countries and years were included in the sample.
+
+3
+
+varying trend growth rate for the given series, and then looks for sustained large deviations or
+gaps from trend, following Goodhart and Hoffmann (2008) and Hume and Sentence (2009). To a
+surprising degree, the results of our analyses are robust across the two differently generated (and
+genuinely differing) lists.
+
+Examining simple descriptive statistics on the duration and timing of booms and busts yields
+already ample evidence that not all booms and busts are alike. With the growth rate method, we
+identify 42 real estate booms and 50 equity booms. Of these, only 16 real estate booms were
+followed by a bust within two years, and only 12 equity booms were followed by a bust within
+two years. For the price gap method, real estate busts followed booms within two years in 11 out
+of 30 cases, and equity busts followed booms in only 13 out of 51 cases. Looking at recessions in
+GDP terms rather than at incidence of asset price busts has a similar pattern: recessions begin
+within a year of the end of an asset price boom in only a small fraction of the total number of
+boom cases. In other words, what goes up need not come down where asset price booms are
+concerned.9
+
+For policymaking, this means that reacting to asset price movements pre-emptively on the basis of
+the price movements alone is likely to cut off several fold the number of booms that would do no
+harm than the number of dangerous bubbles doomed to burst that would be desirably pre-empted.
+In addition, as DeLong (2002) argues, historically equity booms have been associated with
+technological advances, and cutting them off can do lasting damage to productivity growth.10
+Thus, the decision to pre-empt an asset price boom requires either a lot of additional information
+beyond the price movements themselves – of nature as yet unknown on my reading of the
+research to date – to tell policymakers which booms to cut off, or the willingness to cut off many
+harmless or helpful booms for every bubble pre-empted.
+
+Complicating matters further is the timing revealed in our sample averages. Our admittedly
+mechanical methods for identifying booms (and busts) essentially rule out anything from being an
+asset price boom unless the deviation from average or trend price growth is sustained for more
+than four quarters. Even with greater judgment placed in the hands of monetary policymakers it
+seems unrealistic (and certainly would require a degree of fine-tuning that is unadvisable) that any
+9
+
+More detailed analysis reveals that real estate booms are more likely to be followed by busts than equity booms are,
+and that on average equity booms are associated with good multi-year performance for GDP and some other variables
+of concern, but real estate booms are not, even absent subsequent busts.
+10
+Mishkin and White (2002), Mishkin (2009), and Posen (2009) all discuss further the importance of distinguishing
+between different types of asset booms or bubbles.
+
+4
+
+central bank would intervene on the basis of a shorter duration boom rather than waiting to see if
+it would reverse itself. The majority of equity booms end in two years or fewer, however, and of
+real estate booms end in three years or fewer – though some real estate busts go on for many
+years.
+
+Unless one believes that the first rise in interest rates, or the initial announcement of a
+commitment to raise rates as much as necessary to stop the boom in question, would be sufficient
+to cut off the boom quickly, even pre-emptively oriented central banks would be intervening on
+average after the expected lifetime of the average boom had passed. The experience of rising
+equities in the US after Greenspan’s “irrational exuberance” announcement in 2006, or of
+climbing real estate prices in Japan after the Bank of Japan started raising rates at the end of the
+1980s, suggests it would take some time for even bubble popping central banks to put the needle
+through the bubble wall. Of course, advocates of leaning against the wind could claim that a
+credible commitment to pre-empt asset price bubbles would avoid this whole chasing cycle. The
+history of macroeconomic policy over the last 40 years, however, is littered with falsified claims
+that ‘credible commitments’ by central banks will induce changes in private sector behaviour.
+One can instead put in place an institutionalized rule, like an inflation target or exchange rate peg,
+but with regard to asset price booms. But that still does not avoid the previous issue of how to
+define that rule, and we know that even announced policy commitments can come under
+suspicion and change.11
+
+11
+
+A more interesting question is whether policymakers might be guided usefully by some sort of joint target on
+duration and boom, i.e. whether only popping those booms that last an unusually long time is welfare enhancing and
+avoids false positives. This merits further research, but clearly would be less pre-emptive in spirit than the lean
+against the wind argument usually given, even if it turns out to be a good idea.
+
+5
+
+Predicting Booms Is Easier Said Than Done –
+
+If monetary policymakers could predict the emergence of asset price booms, then some of these
+issues would be resolved. The oft heard premise is that is all too easy to do, because it is easy
+monetary policy itself that leads to asset price booms. No matter how many times this claim gets
+asserted, however, it is not true – at least not in such robust terms that would be a guideline to
+policy. As I argued in Posen (2003), monetary ease – measured either by high rates of narrow or
+broad monetary aggregate growth, or by low real or nominal instrument interest rates – is neither
+necessary nor sufficient to cause a boom. Subsequent studies have borne this pattern out using
+different methods and different samples. Monetary ease has some positive correlation with asset
+prices, a relationship most clearly seen between broad money and real estate prices (but also bidirectional in that case), but is not the primary driver of sustained asset price booms.
+
+Since the claim is so important as well as persistent, and reliable predictors of future asset price
+booms (or bubbles) in general are critical to leaning against the wind (and other policies), we took
+a fresh look at the issue. Taking inspiration from Goldstein, Kaminsky, and Reinhart’s (2000)
+system of early warning indicators for emerging market financial crises, we set out to find
+variables that in our sample could be shown to be dependable advance signals of asset price
+booms. The approach is first to define a ‘signalling window’ ahead of booms (and busts), and
+then to look for variables that exceed some threshold level in most instances during that window,
+but rarely exceed that threshold in instances outside that window. In the jargon, one tries to find
+variables that have a high signal-to-noise ratio for predicting booms, indicating their likely onset
+with few false positives.12 Ideally, the variables should make some theoretical sense in
+connection and sign (e.g., low interest rates being associated with booms). For candidate
+indicator variables, we examined the utility of various measures of monetary policy, interest rates,
+and credit growth, as well as real variables like GDP growth, the current account balance (as a
+share of GDP), and construction.
+
+The bottom line of this investigation is clear and broadly consistent, whether looking at predictors
+of real estate or equity booms (or busts).13 Few candidate indicators manage to predict more than
+50% of the booms (or busts). This is in marked contrast to the results in Goldstein, Kaminsky,
+12
+
+There is a good deal of judgment and experimentation involved in practice, and we adapted the Kaminsky-Reinhart
+methodology in some ways. Details are available upon request, and a paper specifying our method and results in
+greater detail is forthcoming.
+13
+In most cases, the same signaling variables that perform relatively well on the list of booms/busts generated by one
+method are the ones that perform well on the other list, which is reassuring regarding robustness.
+
+6
+
+and Reinhart (2000) get for emerging market financial crises, where a number of indicators are
+found to predict a high proportion of banking and balance-of-payments crises. In addition, when
+trying to predict the emergence of asset price booms, most of the monetary variables considered
+prove to perform poorly as signals. The relatively most promising monetary signal is the change
+in policy interest rates – not the level, which is what is usually invoked to say monetary ease
+causes bubbles in the leaning against the wind spirit, but which is poor as an early warning
+indicator in our sample. Even then, the change in policy interest rate is not a highly reliable
+indicator in absolute terms. In general, real side variables do a better and more consistent job of
+predicting asset price booms (and busts) on average than the monetary variables. Perhaps
+unsurprisingly, non-residential investment growth and current account to GDP ratio stand out as
+the most promising advance indicators among the real variables, though they too are not terribly
+good signals in comparison to what the studies of emerging market crisis warning find for that
+outcome.
+
+There are two implications of these results for the viability of a lean against the wind monetary
+strategy. One is that trying to get ahead of asset price movements by tracking signals of coming
+asset price booms is likely to prove frustrating for policymakers - no likely candidate variables (at
+least that we considered) seem to be robust and accurate early warning indicators of booms or
+busts in practice. The other is that a primary motivation for such a strategy, that excessive
+monetary ease itself is a major precondition for, if not cause of, asset price booms, is once again
+rejected by analysis of the available data.
+
+What We Might Question Since We Do Not Know –
+
+To my mind, these results – including the relative rarity of most asset price booms ending in busts
+or being followed by recessions, i.e., becoming burst bubbles – should cause a reconsideration of
+leaning against the asset price wind by monetary policy makers. We should not leap to believing
+that we can readily recognize bubbles, at least not in time to do anything pre-emptive about them.
+In fact, the bestiary of booms and busts is a far more diverse collection than is usually
+acknowledged. It is currently beyond the ability of policymakers to discern in real time which
+booms are harmful and merit pre-emption, and which are not, even taking recent horrible events
+into account. Given how long it would realistically take central banks to act on booms compared
+to the duration of most booms, even absent policy action, and how much tightening (and thus
+
+7
+
+more time) would be necessary to end such booms, this seems like the kind of macroeconomic
+policy fine-tuning chasing after a shock has passed that Milton Friedman warned against.14
+
+The results of our empirical research that I have briefly and perhaps too pointedly summarized
+here today will have to be subjected to scrutiny. More importantly, other researchers working on
+similar issues may yet turn up ways for central bankers to distinguish dangerous from safe asset
+price booms and reliable advance indicators which warn them sufficiently far ahead of booms
+(and busts) emerging. Until such knowledge is provided to monetary policymakers, however,
+even the seemingly least controversial assumption required for leaning against the wind to
+succeed – that central banks can discern destabilizing booms with sufficient notice to pre-empt
+them – will be invalid. Since this argument is solely about the ability of monetary policymakers
+to recognize and react to asset price booms, and not about the viability of their means to affect
+asset prices, this should concern advocates of discretionary macroprudential policymaking as
+well, even when using non-monetary tools.
+
+14
+
+This is one reason why Jeanne (2008) and Posen (2009) advocate adoption of automatic stabilizers through
+cyclically variable taxation of real estate transactions instead of discretionary monetary policy responses.
+
+8
+
+References
+Assenmacher-Wesche, K, & Gerlach, S., (2008) “Monetary policy, asset prices and
+macroeconomic conditions: a panel-VAR study”, Research series 2008 10-24, National Bank of
+Belgium.
+Bank of England (2009) “The role of macroprudential policy: A discussion paper”, November
+2009.
+Bean, C. (2003) "Asset Prices, Financial Imbalances and Monetary Policy: Are Inflation Targets
+Enough?," in Anthony Richards & Tim Robinson (ed.), Asset Prices and Monetary Policy,
+Reserve Bank of Australia
+Bean, C., (2009) “The Great Moderation, the Great Panic and the Great Contraction”,
+Schumpeter Lecture at the Annual Congress of the European Economic Association, Barcelona,
+August 2009.
+Bernanke, B., and Gertler, M., (2001) “Should central banks respond to movements in asset
+prices?”, American Economic Review, May 2001, 91(2), pp.253-257.
+Bordo, M, and Jeanne, O., (2002) “Monetary Policy and Asset Prices: Does “Benign Neglect”
+Make Sense?”, International Finance, 5(2): 139–64.
+Borio, C, and Lowe, P., (2002) “Asset Prices, Financial, and Monetary Stability: Exploring the
+Nexus”. BIS Working Papers 114. Basel: Bank for International Settlements.
+Borio, C, and White, W., (2003) “Whither monetary and financial stability? The implications of
+evolving policy regimes”, in Monetary Policy and Uncertainty: Adapting to a Changing
+Economy, pp131-212. Federal Reserve Bank of Kansas City: Kansas City.
+Cargill, T., Hutchison, M., and Ito, T., (2000), Financial Policy and Central Banking in Japan,
+Cambridge, MA: MIT Press.
+Cecchetti, C, Genberg, H, and Wadhwani, S., (2002) “Asset prices in a flexible inflation
+targeting framework”, in W.Hunter, G Kaufman and M.Pomerleano, eds., Asset Price Bubbles:
+The Implications for Monetary, Regulatory and International Policies, Cambridge, MA, MIT
+Press, pp.427-444.
+DeLong, J. Bradford., (2002) “Macroeconomic Vulnerabilities in the Twenty-First Century
+Economy: A Preliminary Taxonomy”. Conference on Stabilizing the Economy: Why and How?,
+New York: Council on Foreign Relations, July.
+Goldstein, M., Kaminsky, G., and Reinhart, C. (2000), Assessing Financial Vulnerability: An
+Early Warning System for Emerging Markets, Institute for International Economics
+Goodhart, C, and Hofmann, B., (2008) “House prices, money, credit, and the macroeconomy”,
+Oxford Review of Economic Policy, 24: 180-205.
+Hume, M, and Sentence, A., (2009) “The Global Credit Boom: Challenges for Macroeconomics
+and Policy”, Bank of England External MPC Unit Discussion Paper No.27.
+9
+
+Jeanne, O., (2008) “Dealing with Credit Booms and Busts: the Case for Prudential Taxation”,
+Remarks at “Building an International Monetary and Financial System for the 21st Century:
+Agenda for Reform”, New York, November.
+Kohn, D., (2006) “Monetary Policy and Asset Prices”, Speech at “Monetary Policy: A Journey
+from Theory to Practice,” a European Central Bank Colloquium held in honour of Otmar Issing,
+Frankfurt, Germany, March.
+Kohn, D., (2008) “Monetary Policy and Asset Prices Revisited”, Speech at the Cato Institute’s
+26th Annual Monetary Policy Conference, Washington D.C., November
+Mishkin, F, and White, E., (2002) “U.S. Stock Market Crashes and Their Aftermath:
+Implications for Monetary Policy”. NBER Working Paper 8922 (June). Cambridge, MA: National
+Bureau of Economic Research.
+Mishkin, F., (2009) “Not all bubbles present a risk to the economy,” Financial Times,
+9 November.
+Posen, A., (2003) “It Takes More Than a Bubble to Become Japan”, in Anthony Richards & Tim
+Robinson (ed.), Asset Prices and Monetary Policy, Reserve Bank of Australia
+Posen, A., (2006) "Why Central Banks should not burst bubbles", International Finance, 9(1)
+Posen, A., (2009) “Finding the Right Tool for Dealing with Asset Price Booms”, Speech to the
+MPR Monetary Policy and the Economy Conference, London, December 1.
+Posen, A., (2010) “Monetary Ease and Global Rebalancing: Debunking the Japanese Scare
+Story,” Speech to the Economic & Financial Institutions Research Group, Queen’s University,
+Belfast, October 26.
+Roubini, N., (2006) “Why Central Banks Should Burst Bubbles”, International Finance 9:1.
+Takeo, H, and Kashyap, A., (1999) “The Japanese Banking Crisis: Where Did It Come From
+and How Will It End”. In Ben Bernanke and Julio Rotemberg (ed.), NBER Macroeconomics
+Annual, Cambridge, MA: MIT Press.
+Toshiki, J, Kuroki, Y, and Miyao, R., (2000) “Monetary Policy in Japan Since the Late
+1980s—Delayed Policy Actions and Some Explanations”. In Ryoichi Mikitani and Adam Posen
+(ed.), Japan’s Financial Crisis and Its Parallels to U.S. Experience, Washington: Institute for
+International Economics.
+White, W., (2006) “Is Price Stability Enough?, BIS, Working Paper No. 205, May.
+White, W., (2009) “Should Monetary Policy “Lean or Clean”?, Federal Reserve Bank of Dallas,
+Working Paper No. 34.
+
+10
+
+

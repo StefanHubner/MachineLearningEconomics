@@ -1,0 +1,1039 @@
+What can monetary policy do?
+Speech given by
+David Miles, Monetary Policy Committee, Bank of England
+
+University of Edinburgh Business School, Edinburgh
+22 January 2015
+
+The views expressed are my own and do not necessarily reflect those of the Bank of England or other
+members of the Monetary Policy Committee. I should like to thank Rodrigo Guimarães and Chuan Du
+for excellent assistance.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Introduction
+
+What can monetary policy be expected to do? My short answer comes in three parts: First, rather a lot less
+than many people who view inflation targets as too narrow seem to think; those who want to broaden the
+aims of monetary policy well beyond inflation to include targets for growth, financial stability and even income
+inequality may seriously over-estimate what policy can realistically achieve. Second, rather a lot more than
+is implied by many economic models which take a narrow view of the channels through which monetary
+policy affects behaviour and as a result make the ability of monetary policy to stabilise the economy
+precarious. Third, the success of monetary policy in achieving stable inflation (or prices) depends crucially
+on that being consistent with fiscal policy. Monetary policy cannot be expected to achieve price stability in
+isolation from things fiscal; monetary policy does not hold all the cards – it cannot trump everything.
+
+One theme which runs through my comments is the gap between how policy makers in central banks view
+the way in which monetary policy works and the baseline model used by many economists working on
+theoretical analysis of monetary policy – most of which is done in universities and research institutes. You
+might say that this is of limited significance. But at the very least it is peculiar. If there was a similar gap
+between how physicists, biochemists, engineers and medical researchers working in universities and those
+engaged in policy work in government viewed how the world worked we should be both surprised and I think
+rather worried. So I think this gap is worth exploring. Along the way I also want to say something more
+specifically about monetary policy right now in the UK.
+Pretty clearly one thing monetary policy cannot do – and nearly everyone can agree on this – is keep
+inflation very close to some target level at all times. The inflation target that the Bank of England is trying to
+hit is 2%, based on the consumer price index (CPI). In the UK now inflation has dropped to 0.5% and it is
+likely to go lower; in September 2011 it reached 5.2% (Figure 1). In both cases the major factor behind this
+move in inflation far from target was big shifts in prices set outside this economy, and large changes in oil
+prices was very significant (Figure 2). In the 12 months to Sep 2011 oil prices rose by around 50%; in the
+twelve months to January 2015 oil prices fell 50%. One should not expect a central bank to be able to fully
+offset the impacts of such huge swings in commodity prices on current inflation – and I believe it would be
+highly undesirable if they tried. This is why having a flexible inflation target which takes account of the
+inevitability of actual inflation being blown away from target, and allows policy to be set so as to return it to
+target over several quarters rather than immediately, makes sense.
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+Figure 1: CPI, % change year on year
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+0
+2015
+
+Source: ONS
+
+Figure 2: Oil prices since 2007 ($46.8 as of 12 Jan 2015)
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+20
+2015
+
+Source: Thomson Reuters
+
+Monetary policy cannot be expected to keep prices very close to some desirable path. Despite this there are
+some senses in which monetary policy is much more powerful – can work through more channels – than the
+now standard textbook models of how monetary policy works. There are other senses in which it is much
+less powerful. I want to explore this and in doing so discuss the role of monetary policy alongside fiscal
+policy. I also want to consider whether the aims of monetary policy should be widened so that the weight
+placed upon inflation outcomes is reduced and that on other goals raised.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+Monetary Policy: gaps between models and policy makers’ perceptions
+
+I want to start by arguing that monetary policy, at least in the UK, works through rather different channels
+than many economic models assume. I am talking about the sorts of models of the economy now used
+routinely by academic researchers and taught to students. I think this matters because in the long run how
+economists in universities think about monetary policy and how they teach students has a big impact on how
+policy frameworks are developed. Inflation targeting – and long before that money supply targeting which
+has largely been abandoned – owed a great deal to academic research. It is also striking how many
+monetary policy makers today have been academic economists at some point in their lives. So I think it
+matters if there is a bit of a gulf between how policy makers are thinking about monetary policy and how
+economists at the research frontier see things. It is worth thinking about who has the more accurate view of
+how the economy works.
+Maybe “gulf” is too strong a word; but I do think there are important differences between how policy works in
+the sorts of models of monetary policy that get published in top academic journals (and taught to graduate
+students in the top schools) and how policy makers think it works.
+
+One reason for this may be that policymakers need to (at least try) to consider all relevant factors at the
+same time, whereas models used by academics tend to be laboratories designed for studying a particular
+phenomenon. But for whatever reason the transmission mechanism of monetary policy seems to run
+through several quite powerful channels in the UK many of which play little part in standard textbook
+monetary models; many of these channels do not depend on purely forward looking behaviour. Furthermore
+I don’t think monetary policy loses most of its traction at the lower bound of zero for interest rates, even
+though many of the more commonly used models suggest that all that is left for a central bank at that point is
+to say something about future interest rates and hope that this is believed and has some impact on current
+behaviour. I think that underestimates what a central bank that is able to use its balance sheet to transact in
+financial markets in large volumes can do. This is not to suggest that the zero lower bound does not matter
+and that we should not worry about being there. Policy does become much more uncertain at the zero lower
+bound and for that reason we should be keen to avoid it, a point made clearly by Orphanides and Wieland
+(2000)).
+
+Later I want to consider a way in many textbook models simultaneously overstate the power of monetary
+policy by not emphasising the links between monetary and fiscal policy. Monetary policy cannot be used to
+maintain price stability unless fiscal policy is set in a way which is consistent with that. I think that some of
+the way in which monetary policy is discussed and analysed hides this fundamental point. This is something
+that John Cochrane and Chrisptopher Sims have recently emphasised and to which I will return (See
+Cochrane (2011), (2014a) and Sims (2013)).
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+The transmission mechanism:
+
+In most models which are in some sense New Keynesian, and whose properties were studied in depth in the
+key text on monetary policy by Woodford (2003a), monetary policy largely works through a substitution effect
+1
+
+on spending summarised in what is often called an IS equation . These models have come to dominate the
+theoretical analysis of monetary policy. In many versions of the New Keynesian model the impact on
+consumption of monetary policy is central; it works by making forward-looking consumers switch
+consumption between periods as the real interest rate changes. I suspect that in practice this substitution
+2
+
+effect might be pretty weak . The proportion of a typical household’s spending that is shifted from one period
+to the next as expected real interest rates change may be small. In practice in a mid-sized open economy
+with a huge stock of mortgages that are largely variable rate the mechanisms by which changes in interest
+rates affect spending go far beyond such substitution effects.
+
+One of the reasons that changes in interest rates affect households powerfully and quickly in the UK is that
+there is a great deal of mortgage debt whose monthly servicing costs respond fast to changes in Bank of
+England Bank Rate. Figure 3 shows that the stock of mortgages in the UK is around 70% of annual GDP.
+There are about 11 million mortgages, so that just over a third of households has a mortgage. Many of those
+with mortgages have significant debt relative to their incomes and find it hard to borrow more. Most of these
+mortgages are at variable rates of interest (or on short term fixed rates). So when interest rates change cash
+flows change quickly, by large amounts and in ways which force many households to change spending.
+None of this reflects changes in expected real interest rates prompting households to decide to vary the
+timing of spending. These are cash flow effects, not substitution effects.
+
+Of course there are also millions of people with bank deposits who have a positive cash flow effect when the
+interest they earn goes up. But there is an asymmetry here: people with substantial debt (mortgages) are far
+more likely to face credit constraints than people with significant deposits, so the cash flow effect for them
+will be much larger.
+
+1
+
+Cochrane notes that it would be more appropriate to call this an inter-temporal substitution equation.
+Hall (1988) focuses specifically on the issue of inter-temporal substitution. He found that it is close to zero. Several subsequent studies
+argued that Hall’s finding is not robust. But studies have consistently shown credit restrictions bind on a significant proportion of
+households for whom inter-temporal substitutability is likely to be very weak. Attanasio and Borella (2011) find considerable
+heterogeneity across UK households in inter-temporal substitutability and that for many households it is close to zero. There is a large
+literature in asset pricing that tries (and mainly fails) to use consumption growth to explain observed asset prices.
+2
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+Figure 3: Stock of mortgage debt to GDP
+Mortgage debt to GDP ratio
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+1990
+
+1993
+
+1996
+
+1999
+
+2002
+
+2005
+
+2008
+
+2011
+
+2014
+
+Source: ONS
+
+Figure 4: Number of mortgages outstanding
+
+Number of mortgages outstanding
+
+13,000,000
+
+12,000,000
+
+11,000,000
+
+10,000,000
+
+9,000,000
+
+8,000,000
+1990
+
+1993
+
+1996
+
+1999
+
+2002
+
+2005
+
+2008
+
+2011
+
+2014
+
+Source: Council of Mortgage Lenders
+
+In textbook models nearly all the power of monetary policy runs through substitution effects: shifts in real
+interest rates (the interest rate minus expected future inflation) affect expenditure by changing the terms of
+trade between spending now and in the future; all of this is intrinsically forward looking. But it seems to me
+that a lot of the force of monetary policy (conventional and unconventional) runs through mechanism that are
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+3
+
+not purely forward looking – e.g. cash flow effects of change in mortgage rates (a conventional monetary
+policy mechanism) and operations like the Funding for Lending Scheme making funding available at lower
+cost in potentially stressed times (an unconventional policy mechanism).
+
+One of the reasons such effects are absent in many theoretical models is that they require modelling
+different sorts of agents, instead of using the convenient single agent assumption. They also require
+analysis of credit restrictions and of other problems in financial markets. All of this is difficult to do, so it is
+not surprising that many of these features are only recently being considered. Models of the New Keynesian
+type are increasingly coming to reflect these factors which may well significantly affect the policy messages
+that come from these models. This is one strength of the New Keynesian framework – it is not a
+straightjacket.
+
+The (almost) exclusively forward looking nature of New Keynesian models is also a potential source of
+intrinsic instability and of multiple equilibria. Furthermore, the way monetary policy operates in forward
+looking New Keynesian models is dramatically different from older-generation, backward-looking models – a
+point made by Cochrane (2011) and by King (2000). Although it is convenient and common to describe the
+way policy works in these models in familiar terms – interest rates go up, real rates are higher, spending gets
+squeezed and that drives inflation lower – in fact the mechanism in the theoretical models are in many ways
+quite different. And in these forward looking models there are in general multiple equilibria, or indeterminacy.
+Cochrane argues that the means by which a specific equilibrium is singled out as the solution in these
+models are hard to take seriously. They can rely upon people figuring out that unless prices move to a
+specific and unique level today the policy that the central bank will follow will cause inflation to become
+completely unstable.
+Cochrane, I think rightly, says that this is an implausible description of people’s behaviour and of central
+bank policy. But he argues that the purely forward looking nature of these models – which is what makes
+them susceptible to multiple possible paths or indeterminacy – is something to be preserved. But whether
+that is a feature of the real world is the more important issue here. I rather doubt that some of the most
+significant ways in which monetary policy affects behaviour – spending, wage settlements, labour supply –
+4
+
+depend very much on expectations . This is an empirical question, and one that has a rather important
+bearing on how stable economies are. Cochrane notes that old-style, backward-looking Keynesian models
+are typically don’t suffer from the multiple equilibria that generally exist in forward looking models. He takes
+no comfort from this because he seems sceptical that agents do anything other than solve forward looking
+dynamic optimising problems. But I think there is a lot of evidence that a good deal of behaviour is not very
+forward looking. Credit restrictions can mean that this is in no sense irrational. Learning behaviour is also
+3
+
+Auclert (2015) shows that the effects of monetary policy due to households’ balance sheet exposures to interest rate changes are a
+significant channel in the US, where mortgages are predominantly long term fixed-rate. His model predicts that the effect of interest rate
+changes on spending would more than double if mortgages were predominantly variable rates, as is the case in the UK.
+4
+However, the fact that not all behaviour depends on expectations is quite consistent with forward-looking behaviour being very
+important.
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+surely not irrational – but it also imparts a degree of backward-lookingness to the economy (the past matters
+because it is where people learn from) and this can make the indeterminacy property of purely forward
+5
+
+looking models go away .
+
+The Zero Lower Bound and Unconventional Monetary Policy in the UK
+
+Once you take seriously the idea that significant parts of the transmission mechanism of monetary policy
+don’t work through substitution effects, and may not solely reflect the expectations of forward looking agents,
+that can affect how you see unconventional monetary policy. I think it is natural that people who view
+monetary policy as primarily working through its impact on expectations are sceptical about the effectiveness
+of central bank asset purchases (QE). In an influential paper Eggertsson and Woodford (2003) argue that
+asset purchases by the central bank are in themselves neutral and that such unconventional policy can only
+have an impact if it changes perceptions about future (conventional) policy. This means that unconventional
+policy is rather ineffective and as a result getting stuck at the zero lower bound (ZLB), where the policy rates
+set by the central bank cannot be lowered further, is potentially very damaging. Some New Keynesian
+models predict dramatically bad outcomes at the ZLB where fiscal multipliers can become enormous and
+6
+
+where promises to follow time-inconsistent monetary policy are the best strategy for a central bank to follow .
+
+5
+
+McCallum (2009) argues that problems of indeterminacy and explosiveness in New Keynesian models of the economy can be resolved
+if one requires that any expectations equilibrium should be learnable.
+6
+Cochrane argues that these properties of some models at the ZLB depend on expectation dynamics that are somewhat ad-hoc and
+not very plausible. Cochrane’s critique is that the paradoxes of the NK models around the ZLB (discontinuities with respect to the
+degree of price stickiness; very large and unstable multipliers for fiscal policy or forward guidance), that have been shown by others
+before him, are a consequence of ad-hoc equilibrium selection mechanism that is used. He shows that there is a continuum of equilibria
+which can be indexed by any assumption on either the inflation rate at the end of the ZLB (typical choice, including Eggertsson &
+Woodford (2003)) or at the beginning of the ZLB. He shows that the typical choice (assume the inflation rate will be at steady state when
+ZLB period ends) is what leads to having drastic deflation and recession, which will be more drastic the more flexible prices are
+(whereas the limit of flexible price equilibria shows no deflation – this is the discontinuity). These equilibria also display very high and
+unstable effects of forward guidance (sometimes extending the commitment to zero rate just a little can lead to high inflation instead of
+deflation) and large fiscal multipliers even for purely wasteful fiscal spending (“breaking windows and replacing them”, the paradox of
+toil). Equilibria which instead are built around an assumption about initial inflation, or requiring bounded initial inflation jump (what he
+refers to as backward stable solution) lead to none of these paradoxes, and are in some ways more sensible than the standard solution.
+He shows how just assuming a specific Taylor-type rule will not eliminate this multiplicity. This is essentially another manifestation of his
+more general critique of Taylor rules (Cochrane 2011).
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+Figure 5: Sterling corporate bond spreads 2003-2014
+Sterling Corporate Bond Spreads
+
+Sterling High Yield
+
+Basis
+points
+3500
+3000
+2500
+2000
+1500
+1000
+500
+0
+
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+Source: Bank of America
+
+I think there is a good deal of evidence that in the UK unconventional policy – asset purchases but also other
+ways in which the central bank used its balance sheet (e.g. the FLS) – did have effects that went beyond
+their indirect impact of expectations about future interest rates. So called portfolio balance channels seem to
+have been significant (See Joyce et al (2011), Chodorow-Reich (2014) and the special edition of the
+Economic Journal, November 2012 for a survey of evidence.) In a recent paper Joyce et al (2014) show that
+large scale purchases of UK government bonds by the Bank of England led to a significant switch in
+7
+
+portfolios towards sterling corporate bonds . The UK corporate bond market was almost completely
+dysfunctional in early 2009 when the Bank of England began asset purchases. Over the course of 2009
+yields in that market fell substantially and companies issued significant quantities of new bonds as investors
+switched from gilts to sterling corporate bonds (Figure 5 and 6).
+
+7
+
+See also the summary at http://www.voxeu.org/article/new-evidence-portfolio-balance-effect-qe
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+Figure 6: Cumulative gross issuance of bonds by UK PNFCs
+
+(a)
+
+£bn
+
+70
+2012
+
+60
+
+2013
+
+50
+
+40
+2009
+2014
+
+30
+
+2010
+
+2011
+
+20
+2003 - 08
+
+10
+
+0
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+Source: Dealogic and Bank calculations.
+(a) Issuance by private non-financial corporations (PNFCs) where the issuer’s country of incorporation and that of any parent or
+guarantor are the United Kingdom. Includes investment-grade and non-investment grade bonds. Data are subject to periodic
+revisions. 2003-08 is an average over the period.
+
+There is another sense in which the way things played out in the UK with unconventional monetary policy at
+the ZLB was different from theoretical models. In many models the ZLB is a big problem because it is likely
+to be a constraint when there is an undershoot of inflation which can drive up real interest rates in a way that
+can be unstable. But in the UK the need to make monetary policy more expansionary than a (virtually) zero
+policy rate was greatest during a period when current inflation was more often than not significantly above
+target, particularly in 2011 and 2012 when QE operations were being actively undertaken and Bank rate was
+close to the ZLB (Figures 7 and 8).
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+Figure 7: Official Bank Rate
+Bank rate
+
+8
+7
+
+6
+5
+4
+
+3
+2
+1
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+0
+2015
+
+Source: Bank of England
+
+Figure 8: Stock of Asset Purchases
+
+QE stock
+
+400000
+
+350000
+300000
+250000
+
+200000
+150000
+100000
+
+50000
+0
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Source: Bank of England
+
+And now – with inflation significantly under target – I believe both the need for, and quite possibly the
+effectiveness of, unconventional policy is lower than it was when inflation was much higher. Unconventional
+policies, which involve balance sheet changes at the central bank, have potentially less impact now than a
+few years ago because they are likely to have had a larger effect when financial markets were dysfunctional
+(see Miles and Schanz (2014)). This was certainly the case in 2009 when large scale asset purchases
+began in the UK. Financial market conditions look more normal now and bank balance sheets have been
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+strengthened. Growth is steady, unemployment has fallen and employment growth seems to have some
+momentum (figure 9 and 10). While UK inflation is far lower than it was when many assets were being
+purchased through QE, and is now well under the target level, that is much less a reflection of deflationary
+forces at work on domestic economy and much more a reflection of big changes in commodity prices along
+with a response to a period early last year when sterling rose.
+
+Figure 9: Real GDP Growth
+
+Real GDP growth
+
+6
+4
+2
+0
+
+-2
+-4
+-6
+-8
+1997 1999 2001 2003 2005 2007 2009 2011 2013
+Source: ONS
+
+Figure 10: Unemployment
+
+Unemployment rate 9
+8
+7
+6
+5
+
+4
+3
+2
+
+1
+0
+
+1997 1999 2001 2003 2005 2007 2009 2011 2013
+Source: Labour Force Survey
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+So although actual inflation rate is now very low, and might temporarily dip down to zero and turn slightly
+negative, this is a long way from the sort of deflation trap that is really worrying. This fall in inflation, rather
+than increasing the burden of debt in a way that can become self-reinforcing in a downwards spiral, is
+boosting the disposable income of households and making the burden of debt easier.
+
+I do not want to suggest that either inflation below target or the ZLB are not problems. The current level of
+inflation is not ideal. The MPC’s target is an annual CPI inflation rate of 2%; below target inflation is, on the
+whole, no better than above target inflation. We should not want interest rates to be stuck near the ZLB in
+part because having to rely on very uncertain impacts of unconventional policy is to be avoided. Nor does
+the current inflation level solely reflect falling energy prices. Domestic costs are rising unusually weakly.
+Unit labour costs – wages per unit of output – are fairly flat as recent rises in productivity roughly match wage
+increases that are themselves still well below pre-crisis average rates.
+But I don’t think this really adds up to a strong case for looking to monetary policy to boost demand and
+prices right now.
+
+First debt deflation risks are not well measured by what is happening now to CPI inflation. Debt deflation is a
+position where people’s ability to manage debt is eroded by their nominal incomes falling relative to the value
+of their debt. But the main reason CPI inflation has fallen quite sharply in recent months – and is likely to fall
+further – is that we have seen big falls in the world price of many commodities and some delayed effects of
+earlier strength in sterling. The falls in some prices – energy and food – are far more likely to have increased
+the ability of households and firms to manage their existing debt than to have made it more difficult.
+I also don’t take too seriously the risk that people will postpone spending because they think prices might be
+slightly lower a year from now. In fact many people would not postpone spending if they thought prices
+might be 1% lower next week.
+So I don’t think that lower inflation than seemed likely 6 months ago means that more expansionary policy is
+now needed; but it does mean that there is no great urgency in starting the process of moving monetary
+policy back towards a more normal setting.
+
+I have taken a bit of a detour here by focusing on the current position of the UK economy. I have strayed
+away from my main theme which is the way in which theoretical analysis of monetary policy is in important
+respects different from how things seem to policy makers. Let me just review where that argument got to.
+
+Summary so far: Exclusively forward looking models ignore some of the most significant ways in which policy
+affects the economy. Those forward looking models can also suffer from indeterminacy. They also tend to
+make the ZLB a big problem. But there are many ways in which policy works that is not just through
+expectations. This makes economies more stable than the pure forward looking models imply and may also
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+mean that ZLB problems are less severe and that unconventional monetary policies (balance sheet policies)
+can have traction.
+Fiscal and monetary policy – symbiosis and consistency
+
+I have argued that the way in which the economy responds to monetary policy may be more powerful than
+implied by many models and not exclusively dependent on forward looking behaviour. As a by-product,
+problems of indeterminacy and instability may be less significant. But there is an important sense in which
+monetary policy can do less than many models imply. The key point I want to make here is a very simple
+one: that monetary policy (the central bank setting interest rates) will not succeed in maintaining price
+stability over the medium term unless fiscal policy is set in a way that is consistent with that. One can make
+the same point in another way: monetary policy has fiscal consequences and unless fiscal policy is set in a
+way which is consistent with the aim of monetary policy those aims will not be met. This is not the same
+thing as saying that monetary policy has to be subordinate to fiscal policy.
+
+When a central bank changes the short term interest rate there is a change in the cost of servicing some of
+the liabilities of the public sector – and if banks hold a great deal of interest bearing debt at the central bank
+which pays a rate linked to the monetary policy rate this rise in the cost of servicing some public sector
+liabilities is both obvious and may be significant. Somewhere down the road there may need to be a change
+8
+
+in fiscal balances to adjust for this shift in the cost of servicing public sector liabilities . The fact that the shift
+in future policies is likely to be limited (because the shift in interest rates by the central bank may itself be
+limited and only last for a relatively short period) and may come very many years down the road should not
+make us forget this.
+
+The ability to use monetary policy to help hit a price objective in a world where there are nominal public
+sector debt that the government will not default on requires that at some point down the road fiscal surpluses
+will be earned so as to match in present value the real value of debt generated by the level of prices today.
+If that is not true then ultimately something has to give: either the price level needs to move, possibly far,
+away from the path consistent with the price objectives the central bank is trying to meet, or else there will be
+default.
+
+The necessity of there being consistency between monetary policy, aimed at controlling inflation, and fiscal
+policy becomes very obvious in extreme cases. Hyperinflations nearly all have a fiscal problem lying
+underneath what on the surface can look like a monetary policy failure. (See Sargent (1983); Sargent,
+Williams and Zha (2009) and Capie (1986)).
+
+8
+
+I use the word ‘may’ because the change in interest rates by the Central Bank could be a response to a shift in the economic outlook
+that has an offsetting impact on future fiscal balances.
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+Cochrane makes the point in a pithy way:
+“….we can read the inflation target equally as a commitment by the Treasury to fund debt at the targeted
+level of inflation , as it is a commitment by the central bank to target that level of inflation via interest rate
+policy.” (Cochrane, 2014a).
+
+As Cochrane notes, in a fundamental sense, one can view inflation targets as fiscal commitments: money
+and fiscal policy must always be consistent. The government needs to be willing to set fiscal policy in a way
+that is consistent with whatever inflation targets that the central bank has been given.
+
+I agree with Cochrane that this point is somewhat obscured in much of the way that monetary policy is
+modelled in the New Keynesian framework and in which it appears that the central bank is able to set policy
+9
+
+to hit an inflation target by unilaterally setting an interest rate . The key point that fiscal policy has to be
+adjusted so as to be consistent with the resulting path of prices and interest rates is often relegated to a
+10
+
+footnote .
+
+In the extreme, if the government ultimately has to have central bank monetise debt and set policy with the
+aim of avoiding default rather than hit an inflation target then monetary policy will be ineffective in controlling
+inflation.
+This is not where we are in the UK. The primacy of the inflation target – which has wide support – is crucial.
+I believe it is what has allowed monetary policy in recent years to be hyper-expansionary while inflation
+expectations have remained anchored, even when actual inflation rose to above 5% in 2011. QE was not
+done to fund a deficit that the government could not otherwise manage. It was because of the inflation
+target, not in spite of it, that large scale asset purchases by the Bank of England were made. But asset
+purchases, indeed monetary policy more generally, do have fiscal consequences; the net proceeds of the
+
+9
+
+Woodford himself is careful to pay attention to the importance of the fiscal-monetary links. Woodford (2003b), for example, has a
+detailed discussion of the significance of inconsistencies between fiscal and monetary policy.
+10
+The Fiscal Theory of the Price Level (FTP) explores the consequences of the inter-temporal Euler equation that determines the price
+of real and nominal government debt to analyse the consequences of non-Ricardian behaviour. By this is understood the possibility that
+the government will not adjust future tax and expenditures to balance its budget (including the cost of paying its debt). If the government
+is seen as non-Ricardian then the price level will have to adjust to satisfy the equilibrium condition for the price of real bonds. In this
+sense, it shows how a government that is not fiscally solvent, but issues in domestic currency can default through inflation. In this
+setting, monetary policy cannot avoid high inflation (or hyperinflation), it can at most influence the timing. This is one aspect of fiscal
+dominance.
+The non-Ricardian assumption is the main reason it is somewhat non-mainstream: even though we often observe imbalanced fiscal
+positions across countries and time, typically market forces and political pressure will force the hand of governments to adjust fiscal
+policy towards Ricardian behaviour. Nevertheless, there are historical examples that are thought to be good examples of the FTP at
+work: the hyperinflation in Latin American countries in the 80s (Sargent, Williams & Zha 2009), or in Europe in the 1920s (Sargent 1983)
+as a result of unsustainable fiscal dynamics following WWI.
+Brazil for example, attempted a number of drastic policies to end hyperinflation from mid 1980s to 1994, including price controls and
+confiscation of saving accounts to limit demand. But it was only when the Real was introduced along with fiscal adjustment and reforms,
+including hard wired laws with strict penalties, that inflation was finally brought under control
+The large fiscal costs associated with the Global Recession have raised the prospect that fiscal concerns could limit monetary policy
+(Sims 2013), not least because the dramatic increase in central bank balance sheets introduces a direct link between monetary and
+fiscal policy.
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+QE are flowing through to the government accounts and have effects on the fiscal balance. Government will
+ultimately adjust other elements of taxes and spending to account for this.
+
+The link from monetary to fiscal policy prompts a question about the unwinding of QE. Sometimes this is put
+– rather indelicately – as: Does the Bank of England have to hold on to the stock of gilts it has acquired
+because the government cannot afford to have it do otherwise? If the answer to that were “yes” it would
+mean that the Bank could not simultaneously be expected to hit an inflation target. A government which
+gives the central bank an inflation target is saying it will not rely on the central bank committing to hold its
+debt. That is quite different from saying that the Bank of England will sell all its gilts and that its balance
+sheet will go back to where it was before the financial crisis. I think it is very likely that the Bank of England
+balance sheet may stay very much larger than it was.
+
+Figure 11: Cash and reserves held by monetary financial institutions (as % of total £ assets)
+
+Bank liquidity ratio (cash and reserves)
+
+10%
+9%
+8%
+7%
+6%
+5%
+4%
+
+3%
+2%
+1%
+
+0%
+1997
+
+2000
+
+2003
+
+Banks ratio
+
+2006
+
+2009
+
+2012
+
+Monetary financial institutions ratio
+
+Source: Bank of England
+
+Figure 11 shows how small was the stock of cash and reserves held by UK banks before the financial crisis;
+holdings of Treasury Bills and gilts was also small (figure 12). I strongly suspect that banks in the UK will
+wish to hold a far greater stock of very liquid assets in the future – which is the main reason why the
+Bank of England’s balance sheet will not shrink back to its 2007 level.
+
+There are two ways in which banks could end up holding lots more of the most liquid assets: in reserves at
+the Bank of England or as direct holdings of Treasury bills and (probably short maturity) gilts. Both are
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+16
+
+currently interest paying and at a rate either identical to (or very close to) Bank Rate. Fiscal decisions are
+relevant here – if funding is skewed to the short end (the government issues lots of Treasury Bills) then
+reserves may end up smaller and the maturity of debt comes down; debt issuance then has to be quite active
+in the sense of rolling over a lot of Treasury bills. If the government sticks to a strategy of issuing
+predominantly longer term debt, not using Treasury Bills as a main source of funding, and banks hold a high
+proportion of their most liquid assets as reserves at the central bank then the central bank balance sheet will
+be bigger and it will likely wish to hold more government bonds. Either way the government has effectively
+funded itself at short term interest rates.
+
+Figure 12: Treasury bills and gilts held by monetary financial institutions (as % of total £ assets)
+
+Bank liquidity ratio (T-bills and gilts)
+
+5%
+
+4%
+3%
+2%
+1%
+0%
+
+-1%
+1997
+
+2000
+Banks ratio
+
+2003
+
+2006
+
+2009
+
+2012
+
+Monetary financial institutions ratio
+
+Source: Bank of England
+
+But, crucially, this is not because there is no other way to fund the government – it is because of a need for
+the banking system to hold more short maturity, very safe assets with near certain value against a huge
+stock of liabilities which are also predominantly very short maturity.
+
+That still leaves free a decision on the appropriate level of Bank Rate that is not driven by considerations of
+the funding cost of government but instead by the remit which government has set the central bank. In the
+UK the government has accepted that any fiscal consequences of the setting of monetary policy to hit the
+inflation target are something it will need to adjust to. There is neither a subordination of monetary to fiscal
+policy nor a subordination of fiscal policy to monetary policy: ultimately the government has to set fiscal
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+17
+
+policy in a way which is consistent with the aim it has given the central bank which, in the UK, is described in
+the remit of the Bank which has at its centre an inflation target.
+
+Broadening the aims of Monetary Policy
+
+I said that the remit the Bank of England has makes the inflation target central. The Bank has an inflation
+target. It is a flexible one which means that the path back to the target if inflation is pushed away from it
+should not be so steep as to cause output and employment to move sharply away from sustainable values.
+Some people seem more keen than I think is wise to move away from the centrality of the inflation target.
+But I think flexible inflation targeting is a good way to run policy. There is no sense in which pursuing such a
+target pays no attention to real things – growth and employment. Those real things are key drivers of
+inflation pressures – it was precisely because growth was anaemic, output had fallen and slack in labour
+market was significant that it was right to run very expansionary policy in UK even when (as in 2011 and
+2012) current inflation was high, because likely future inflation rates were significantly lower.
+
+There is no inconsistency in setting monetary policy with regard to real things and having a remit in which an
+inflation target is central – provided that the target does not require you to act like an inflation “nutter”, a
+technical term which I would define as wanting to bring inflation bank to target in the shortest possible time
+11
+
+frame . Clearly the remit of the Bank of England allows flexibility – inflation (actual and expected) is
+permitted to deviate from target if it avoids undesirable volatility in output and employment. This is
+symmetric flexibility; it was used by the Monetary Policy Committee in 2011 and 2012 when current inflation
+was high but expected to fall; it is being used now that current inflation is well under target but expected to
+gradually rise.
+
+Flexible inflation targeting is not inconsistent with attaching significant weight to short run fluctuations in
+output and employment. But having some target for growth or employment over the medium to longer term
+as part of the remit for the central bank is a different matter. I think there is little to be said in favour of that.
+Either those other targets are consistent with an inflation target – in which case achieving the inflation target
+is likely to require that output and employment over the medium term do not drift away from them – or they
+are not. If they are consistent then there is nothing much to be gained by adding them to the inflation
+12
+
+target . If they are not then we have set the central bank objectives which cannot be reconciled; that is
+quite different from short term trade-offs between bringing inflation back to target quickly at the potential
+expense of weaker activity, trade-offs which a flexible inflation target allows the central bank to address.
+
+11
+
+Walsh (2014) shows in a recent paper that even though “multiple distortions argue for multiple objectives in principle, standard open
+economy models imply that the central bank should focus overwhelmingly on stabilizing domestic price inflation”. He concludes that “the
+class of models commonly used for monetary policy analysis implies inflation volatility is very costly, so relatively little weight should be
+put on other objectives”. These are good reasons why the aims of the central bank should be centred around an inflation target.
+12
+If there were multiple paths for output and employment consistent with stable prices (or an inflation target) there might be a case for
+specifying which of such paths monetary policy should aim to achieve. That would suggest a form of lexicographic targeting: aim for a
+price objective and if there are multiple paths for output and employment consistent with that choose the one with highest activity.
+18
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+18
+
+Conclusions:
+
+Monetary policy has both more and less influence than is often thought and is implied by much economic
+research.
+
+More in the sense that many formal economic models (particularly those thought to have the most consistent
+and logical underpinnings) have a rather narrow range of channels through which policy works; in the UK
+many of the most powerful impacts of change in interest rates have no counterpart at all in these economic
+models. Nearly all roads lead through impacts on expectations in these largely forward-looking models. In
+practice there are some more brute force effects of policy which don’t require bringing agents expectations
+along with them: you have to pay the mortgage even if some change in Bank of England policy has not had
+much impact on your expectations.
+Less in the sense that monetary policy has to be chosen by government – and implemented by the central
+bank – in a way that is consistent with the fiscal aims it has.
+
+The case for broadening out the aims of monetary policy to go much wider than an inflation target is not very
+compelling.
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+19
+
+References
+Auclert, A. (2015). “Monetary Policy and the Redistribution Channel”, working paper MIT,
+http://economics.mit.edu/files/10191
+Attanasio, O. and Borella, (2011) “Modelling Movements in Individual Consumption: A Time Series
+Analysis of Grouped Data”, working paper University College London,
+http://www.homepages.ucl.ac.uk/~uctpjrt/Files/Attanasio%20Borella_092011.pdf
+Capie, F. (1986). “Conditions in which very rapid inflation has appeared”, Carnegie-Rochester Conference
+Series on Public Policy, vol. 24 (1)
+Chodorow-Reich,G. (2014) “Effects of Unconventional monetary Policy on Financial Institutions”, Brookings
+Papers on Economic Activity, Spring 2014, pp 155-227.
+Cochrane, J. (2011). “Determinacy and Identification with Taylor Rules”, Journal of Political Economy, vol.
+119 (3).
+Cochrane, J. (2014a). “Monetary Policy with interest on reserves”, Journal of Economic Dynamics & Control,
+vol 49.
+Cochrane, J. (2014b). “The New-Keynesian Liquidity Trap”, working paper U. Chicago,
+http://faculty.chicagobooth.edu/john.cochrane/research/papers/zero_bound_2.pdf
+Eggertsson, G. and Woodford, M. (2003). “The Zero Bound on Interest Rates and Optimal Monetary
+Policy”, Brooking Papers on Economic Activity, 1.
+Hall, R. (1988). “Intertemporal Substitution in Consumption”, Journal of Political Economy, Vol. 96 (2).
+Joyce, M.A.S., Z. Liu, and I Tonks (2014), “Institutional investor portfolio allocation, quantitative easing and
+the global financial crisis”, Bank of England Working Paper No. 510, September.
+Joyce, M; Lasaosa, A; Steven, I and Tong, M. (2011) “The Financial Market Impact of Quantitative Easing
+in the United Kingdom”, International Journal of Central Banking, September, pp 113-161.
+King, R. (2000). “The New IS-LM Model: Language, Logic and Limits”, Federal Reserve Bank of Richmond
+Economic Quarterly, vol 86/3, pp 45-103.
+Miles, D. and Schanz, J (2014) “The relevance or otherwise of the central bank's balance sheet, Journal of
+International Economics, Vol:92, ISSN:0022-1996, Pages:S103-S116
+McCallum, B (2009) “Inflation Determination with Taylor Rules: Is the New-Keynesian Analysis Critically
+Flawed?”, Journal of Monetary Economics, Volume 56, Issue 8, November 2009, Pages 1101–1108
+Orphanides, A. and Wieland, V (2000) “Efficient Monetary Policy Design near Price Stability”, Journal of
+Japanese and International Economy, 14, pp 327-365.
+Sargent, T. (1983). “The Ends of Four Big Inflations,” in: Inflation: Causes and Effects, ed. by Robert E. Hall,
+University of Chicago Press, for the NBER, p. 41–97
+Sargent, T., N. Williams and T. Zha (2009). “The Conquest of South American Inflation”, Journal of Political
+Economy, vol. 117 (2).
+Sims, C. (2013). “Paper Money”, American Economic Review, 103, pp 563-584.
+Walsh, C. (2014). “Multiple Objectives and Central Bank Tradeoffs under Flexible Inflation Targeting”,
+CESIFO Working Paper No.5097, November 2014.
+
+20
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+20
+
+Woodford, M (2003a) “Interest and Prices: Foundations for a Theory of Monetary Policy”, Princeton
+University Press, Princeton.
+Woodford, M (2003b) “Comment on: Multiple Solution Indeterminacies in Monetary Policy Analysis”, Journal
+of
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+21
+
+

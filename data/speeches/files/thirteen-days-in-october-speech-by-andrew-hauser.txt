@@ -1,0 +1,638 @@
+Bank of England
+
+Page 1
+
+Thirteen days in October:
+how central bank balance
+sheets can support monetary
+and financial stability −
+speech by Andrew Hauser
+Given at the ECB’s 2022 Conference on Money Markets
+04 November 2022
+
+Bank of England
+
+Page 2
+
+Speech
+Introduction
+What a difference a month makes!
+My original plan for this speech, back in early September, had been to talk through the
+Bank of England’s plans for accelerating its unwind of Quantitative Easing (QE) by selling
+government bonds.
+That story can still be told – because QE sales began, successfully, on 1 November.
+But the tale also has a surprise new chapter – a programme of temporary and targeted
+asset purchases that ran for 13 days between 28 September and 14 October, aimed at
+heading off a clear and present threat to financial stability.
+Switching so rapidly from planned sales, to purchases, and back to sales again might
+appear to some to imply a confusing or contradictory policy stance. But I want to show
+today how, through a combination of operational choices – clear communications, robust
+tool design, and following through on pre-commitments – it is possible to use the central
+bank balance sheet to support both monetary and financial stability, in ways that reinforce
+and complement, rather than undermine, either goal.1
+In my remaining remarks I will first describe the events that triggered our extraordinary
+intervention, and the ways in which we designed that intervention to maintain clear
+separation from the monetary stance – drawing on national and international thinking that
+has been underway since the 2020 ‘dash for cash’.
+I will then explain why we have returned to asset sales in support of monetary stability, and
+how those operations in turn have been designed to minimise the risks of triggering
+renewed dysfunction.
+Finally, I will conclude by identifying some possible lessons and next steps.
+
+1
+
+For a discussion of the policy choices that guided this approach, see: Monetary policy and financial
+stability interventions in difficult times − speech by Andrew Bailey | Bank of England
+
+Bank of England
+
+Page 3
+
+1) Using the central bank balance sheet to support financial stability: LDIs & gilts
+The story of recent weeks has already been widely reported – and a detailed account can
+be found in the two letters sent by Sir Jon Cunliffe, Deputy Governor for Financial Stability,
+to the House of Commons Treasury Committee.2
+For the purposes of my remarks today, the key facts are these.
+On 22 September, the Bank’s Monetary Policy Committee (MPC) voted to fire the starting
+gun for gilt sales, as it had signalled it was minded to do at its August meeting. Those
+sales were designed to increase the pace of QE unwind that had begun in February (when
+the MPC decided to cease reinvestment of the proceeds from maturing assets).3 Sales
+were scheduled to start in the week of 3 October.4
+But within 24 hours, following the announcement of the Government’s ‘Growth Plan’, gilt
+market conditions began to deteriorate sharply. By the following Wednesday morning,
+thirty year nominal gilt yields had risen by 130 basis points (Chart 1, upper panel) – twice
+the increase ahead of the Covid lockdown in Spring 2020, and three times larger than any
+other historical move over a similar period. As yields rose, we began to hear from the
+managers of so-called ‘Liability Driven Investment (LDI)’ funds through our market
+intelligence channels: first quietly, and then with increasing volume.
+From the extraordinary days that followed, I want to explain four things: why the LDI funds
+were so vulnerable to a large spike in yields; why we concluded asset purchases were
+needed; how we designed those interventions initially; and how they evolved.
+Why were the LDI funds so vulnerable?5
+LDI funds provide defined benefit (DB) pension funds with leveraged exposure to longerterm gilt yields. In a low rate environment, this strategy gives DB funds cover against
+upside risks to the value of their liabilities, whilst also making room for them to hold riskier,
+higher-yielding assets such as equities to boost returns. When yields rose sharply,
+however, three key aspects of this strategy put LDI funds at the centre of the storm:
+•
+
+2
+
+First, LDI funds’ leverage left them particularly exposed to higher long-term
+yields (lower long-dated gilt prices) – requiring extra resources to meet higher
+margin calls and maintain positive net asset value (NAV);
+
+Bank of England confirms details of emergency bond buying in correspondence with Treasury
+Committee - Committees - UK Parliament and
+https://committees.parliament.uk/publications/30347/documents/175455/default/
+3 Bank Rate increased to 0.5% - February 2022 | Bank of England
+4 See Bank Rate increased to 2.25% - September 2022 | Bank of England and Asset Purchase Facility:
+Gilt Sales – Market Notice 22 September 2022 | Bank of England. Note that, for space reasons, this
+speech does not discuss the separate sales programme for the MPC’s £20bn corporate bond portfolio, which
+began on 27 September. That process is targeted to conclude on or around the end of 2023
+5 Sarah Breeden, Executive Director for Financial Stability Strategy and Risk, will discuss these issues in
+more depth in a speech on Monday 7 November.
+
+Bank of England
+
+Sources: Bank of England, Bloomberg Finance L.P.
+
+Page 4
+
+Bank of England
+
+Page 5
+
+•
+
+Second, LDIs did not have sufficient financial resources of their own to meet
+these extra needs. They therefore required urgent recapitalisation from their DB
+scheme clients; but
+
+•
+
+Third, the mechanisms for securing that recapitalisation were designed for
+calmer times, and hence were simply too slow to deal with the pace of
+developments. DB schemes typically had both the means and the incentive to
+recapitalise (since persistently higher yields reduce the cost of future liabilities and
+hence boost the funding position of such funds)6 – but those resources took too
+long to mobilise.
+
+As a result, by the evening of Tuesday 27 September, in the context of further steep rises
+in yields, LDI fund managers concluded that they had no choice but to begin selling their
+gilt holdings in large size to secure the necessary resources. Those sales, into already
+thin markets, began to push yields up further. And that in turn risked triggering more
+sales, feeding a self-reinforcing downward price spiral that could undermine financial
+stability and lead to an unwarranted tightening of financing conditions and credit supply to
+UK households and firms.
+Why did we intervene using asset purchases?
+In the midst of growing market-wide panic, we urgently considered potential solutions.
+A private sector led response was much the preferred outcome. But none of the options
+identified proved workable. The LDI funds did not have, or could not identify, sufficient
+amounts of readily-marketable collateral to raise cash in the market (such collateral had
+either already been sold or encumbered in the LDI strategy itself). Recapitalisation by DB
+funds would take too long. And forbearance or stays by trustees, regulators or banks was
+either infeasible, too modest in size, or too threatening to the interests of innocent parties.
+If temporary central bank liquidity assistance might be required, much our preferred
+approach from a financial risk perspective was to lend against collateral, either via the
+banking system, or directly. It rapidly became clear, however, that this too could not be
+the main solution. LDI funds needed less leverage, not more, to avoid going into negative
+NAV. Just as they lacked sufficient collateral to borrow from the market, they lacked
+sufficient collateral to give to us too. And the DB schemes were too numerous and slowmoving to do so in their stead.
+So, reluctantly, we began to contemplate targeted gilt purchases.
+
+As an illustration, the Pension Protection Fund’s PPF 7800 index suggests that, between end-2021 and
+end-September 2022 – a period in which interest rates rose substantially – the liabilities of UK DB schemes
+fell by 36% (from £1,689bn to £1,076bn), whereas their assets fell by only 20% (from £1,818bn to £1,451bn),
+leaving their net assets nearly three times higher.
+6
+
+Bank of England
+
+Page 6
+
+How was our initial intervention designed?
+Any intervention had to meet three key criteria: it had to provide a credible window for the
+LDI funds to return themselves to greater resilience; it had to avoid creating a ‘cliff edge’ at
+the end of that window that might re-trigger financial instability, making credible exit
+impossible; and it had to avoid interfering with the MPC’s monetary policy strategy.
+These were challenging design goals. Fortunately, we were not starting from scratch. In
+2020, following the Covid ‘dash for cash’, the Bank’s Financial Policy Committee (FPC)
+underscored the need for a comprehensive strategy for strengthening vulnerabilities in the
+liquidity management of Non-Bank Financial Institutions (NBFIs).7 Front and centre in this
+strategy was the need for stronger private self-insurance, market infrastructure and
+liquidity regulation. But the FPC also identified the need to develop more targeted central
+bank tools that could step in when genuine tail risks arose, but did so in a way that
+adhered strictly to the longstanding principle of the central bank acting only as a backstop.
+I set out some possible criteria for such tools in a speech in January 2021;8 and the Bank
+for International Settlements established a working group, which I co-led with the Federal
+Reserve’s Lorie Logan, to identify a broad menu of potential operational design features.
+The conclusions of that group were published this Spring.9
+To deliver our goals in responding to the LDI crisis, we made four key design choices –
+summarised in Table 1. First, the purpose of the intervention announced on the morning
+of Wednesday 28 September was clearly linked to the Bank’s financial stability objective,
+and followed a recommendation from the FPC. Second, the intervention was explicitly
+temporary: the thirteen day period was chosen in light of market intelligence to provide a
+challenging, but achievable, window for the lion’s share of the necessary LDI adjustment,
+before the MPC’s QE unwind sales programme re-started. Third, the intervention was
+targeted solely at the assets most affected by the LDI issue – initially long-dated
+conventional gilts, later extended to index-linked gilts (ILGs). And fourth, our operations
+were positioned as a genuine backstop, aimed not at purchasing a set quantum of assets,
+or at achieving a particular level of yields, but instead at purchasing only as many assets
+as required to resolve the financial stability issue and recatalyse the market. That
+approach was implemented, amongst other things, using a system of reserve pricing.
+Finally, HM Treasury confirmed that it would stand behind the financial risks of the
+operation, covering the Bank against any financial losses but also benefiting from any
+upside.10
+
+7
+
+See for instance Financial Stability Report August 2020 (bankofengland.co.uk), Assessing the
+resilience of market-based finance | Bank of England. For a summary of the international work agenda,
+see Non-Bank Financial Intermediation - Financial Stability Board (fsb.org).
+8 From Lender of Last Resort to Market Maker of Last Resort via the dash for cash: why central banks
+need new tools for dealing with market dysfunction (bankofengland.co.uk)
+9 See Market dysfunction and central bank tools (bis.org), 11 May 2022.
+10 https://committees.parliament.uk/publications/30129/documents/174330/default/
+
+Bank of England
+
+Page 7
+
+Table 1: Comparing gilt purchases for financial stability & monetary stability purposes
+Financial Stability
+purchases (October 2022)
+
+Monetary Stability
+purchases (QE)
+
+Purpose and
+governance11
+
+Aimed at reducing the risk of a selfreinforcing downward price spiral triggered
+by LDI vulnerabilities. FPC recommended
+action to tackle financial stability risk; MPC
+informed, in line with the Concordat
+regarding balance sheet operations;12 Bank
+executive implemented.
+
+QE aimed at easing monetary conditions in
+pursuit of the inflation target. MPC voted
+on quantity targets; Bank executive
+implemented.
+
+Duration of
+purchases and exit
+plan
+
+Temporary: purchases took place for only
+as long as required by financial stability
+issue. Unwind of those purchases to occur
+in a timely and orderly way.
+
+High level targets for purchase, unwind and
+sales programmes voted on by MPC as
+part of its monetary policy process.
+
+Asset selection
+
+Targeted: at assets most affected by
+financial stability issue.
+
+Appropriately broad based to achieve
+monetary policy goals.
+
+Pricing
+
+Backstop pricing: to ensure the facility
+did not unduly interfere with price discovery
+or substitute for the need for market
+participants to manage their own risks over
+the medium term.
+
+Priced to deliver
+MPC-determined quantity targets.
+
+How did the programme evolve?
+Inevitably, the operation of a new tool of this kind involved some learning-by-doing.
+Some of that learning was for market participants, as they adjusted to the differences
+between temporary, targeted purchases in support of financial stability (which were new)
+and QE (which was well understood). One reading of the very sharp fall in long-maturity
+conventional and ILG yields when purchases were first announced (Chart 1, upper panel)
+is that at least some market participants initially thought that the Bank had really restarted
+QE. Lower yields were helpful in calming the immediate panic. But, had they persisted,
+disproportionate falls far below market-clearing levels would have overly dampened the
+incentive for LDI funds to improve their resilience (by relaxing the need to meet margin
+calls or avoid NAV triggers) – in turn creating an excessively large ‘cliff edge’ as the end
+date approached.
+
+Further information on the roles of the Bank’s statutory policy committees can be found here for the FPC
+and here for the MPC
+12 The MPC and the Bank's Sterling Monetary Framework (bankofengland.co.uk)
+11
+
+Bank of England
+
+Page 8
+
+As it became apparent to the market that the Bank’s operations really were positioned as a
+backstop (with pricing designed to exclude opportunistic offers), and that relatively few
+LDIs were incentivised to sell (Chart 1, lower panel), yields gradually picked up. That
+pickup sharpened LDI incentives, increased the chances of private sector gilt buyers
+emerging alongside the Bank’s operations, and reduced the potential for an end-period cliff
+edge. Those market incentives were further reinforced by clear and unambiguous
+messaging to LDI funds – both publicly and privately – that the facility would indeed close
+as intended on Friday 14 October.
+Just as the market’s approach evolved, so did ours. In particular, as we entered the final
+week of the programme, our close liaison with LDI funds, their DB fund clients and broader
+market participants, threw up a number of new pieces of information. First, LDI funds
+clarified their own estimates of the scale and shape of their need to sell gilts as the
+recapitalisation process progressed. And, second, some LDI funds were able to identify a
+range of less marketable non-gilt collateral that, if lent out for cash, might help bridge
+delays in recapitalisation. In response, we increased the maximum size of our daily
+operations from £5bn to £10bn on Monday 10 October, and launched a new Temporary
+Expanded Collateral Repo Facility (TECRF), accepting corporate bonds down to a credit
+rating equivalent to Baa3/BBB-.13
+LDI funds were also increasingly highlighting challenges they faced in selling the
+necessary quantity of ILGs. We did not include ILGs in our initial purchase operations, for
+three reasons. First, the policy-related exclusion of ILGs from past QE operations meant
+we had no pre-existing operational capacity to purchase them. Second, the highly illiquid
+(and typically one-way) market for ILGs complicated pricing, and risked leaving the Bank
+acting as a frontstop rather than a backstop. And, third, in the early stages of the
+programme when LDI funds’ own estimates of their necessary gilt sales were still poorly
+defined, it had seemed that market makers’ ability to purchase ILGs from LDIs and sell
+equivalent conventional gilts into our operations, warehousing the inflation basis risk, might
+prove sufficient.
+As it became increasingly clear that these assumptions might be challenged, a team of
+Bank staff began working around the clock to build the necessary capacity to add ILGs to
+our purchase operations. When real yields began to move up sharply during on Monday
+10 October, as LDIs attempted to sell into the open market, we took the decision to extend
+our operations to cover ILGs from the start of Tuesday, subject to the proviso that we
+would not buy at yields lower than the closing level the previous day – a design feature
+aimed at reinforcing the backstop nature of our operations and preventing the sudden
+collapse of real yields in a potentially one-way market.14
+
+13
+14
+
+Temporary Expanded Collateral Repo Facility - Market Notice 10 October 2022 | Bank of England
+Bank of England widens gilt purchase operations to include index-linked gilts | Bank of England
+
+Bank of England
+
+Page 9
+
+Taken together, these decisions provided the space, the means and the incentives for
+LDIs to increase their resilience significantly by Friday 14 October. Some of that increase
+took place through sales of gilts to us – we eventually bought £19.3bn of gilts,
+three-quarters of which took place in the final week of operations. But that figure was
+much lower than some early estimates – and that’s because the scheme also provided
+time for LDIs to raise cash from their DB scheme clients, and enabled some private market
+gilt activity to restart too, allowing some funds to liquidate in the secondary market. Our
+ongoing market intelligence discussions gave assurance that the facility could close as
+scheduled, and that fears about the potential for an immediate cliff edge would prove
+unfounded.
+To deliver the goals we set out for the facility, the key remaining challenge is to unwind the
+assets accumulated in a way that is both timely – underscoring the strictly temporary
+nature of the intervention – and orderly – ensuring that the unwind does not itself
+materially impair market functioning. We have been working at pace to design an exit
+strategy that meets these goals, and will be announcing our initial approach shortly. Just
+as our financial stability purchases differed in important ways from QE so our initial
+financial stability sales will too: there will be no binding volume target for sales, but rather
+a demand-led approach guided by market appetite.
+2) Using the central bank balance sheet to support monetary stability: QE unwind
+While the Bank has used the balance sheet to support financial stability, we also continue
+to face equally pressing concerns on the monetary stability side, where the challenge is
+how to ensure policy is set appropriately to deal with elevated inflation.
+It is sometimes suggested that monetary and financial stability goals can conflict. We
+certainly took care to ensure clear separation between our extraordinary purchases and
+QE, as I’ve just described. But in truth, monetary and financial stability are much more
+commonly complements rather than substitutes – and this case was no exception.
+Eliminating the risk of a self-reinforcing downward price spiral taking hold at the long end
+of the yield curve allowed the MPC to stay rigorously focused on its own goals. And that
+includes beginning the programme of gilt sales it voted for in September.
+QE unwind is not the MPC’s active tool for monetary policy tightening. That role is played
+by Bank Rate. But it does support that tightening process. And it has other important
+benefits too. It helps alleviate collateral shortages distorting market functioning. It reduces
+the size of the central bank balance sheet. It helps return public sector interest rate risk
+exposure to levels closer to those initially envisaged. And it increases the headroom
+available for future QE, should that ever be needed.
+It is worth reminding ourselves just how big the numbers are. The gilts accumulated under
+QE account for around a third of the bonds in issue, and of annual UK GDP (Chart 2).
+
+Bank of England
+
+Page 10
+
+Sources: Bank of England, UK Debt management Office, Reserve Bank New Zealand, The New Zealand
+Debt Management Office, Federal Reserve Bank New York, FRED by Federal Reserve Bank of St Louis, Bank of
+Canada, ECB, Reserve Bank Australia, Australian Office of Financial Management, BIS Debt Statistics
+
+Numbers like that are not unique to the UK, as the chart shows – and you can make a
+decent start on working off those stocks just by allowing assets to mature naturally without
+reinvestment. Indeed, since the MPC’s decision to do just that in February, the stock of
+QE assets has fallen by nearly £40bn on a purchase proceeds basis. Such ‘passive
+unwind’ will subtract a further £40-50bn per annum, on average, in coming years (Table 2).
+But the size and composition of the UK’s QE asset portfolio means that relying on this
+mechanism alone would yield an exceptionally drawn out unwind. Left to its own devices,
+the last gilt bought as part of QE would take 49 years to mature (Chart 3); the last
+corporate bond would take 96 years.
+
+Bank of England
+
+Page 11
+
+Table 2: APF QE maturities over 12 month periods*
+£ billions
+
+Gilts
+
+Corporate Bonds
+
+2022/23
+
+35
+
+1
+
+2023/24
+
+49
+
+1
+
+2024/25
+
+87
+
+1
+
+2025/26
+
+52
+
+1
+
+2026/27
+
+38
+
+1
+
+2027/28
+
+36
+
+1
+
+2028/29
+
+41
+
+2
+
+2029/30
+
+54
+
+1
+
+*Data reflect current APF QE holdings; 12 month periods run
+from 22nd September.
+Sources: Bank of England; Bank calculations
+
+Source: Bank of England; Bank Calculations.
+
+Bank of England
+
+Page 12
+
+Of course, even if QE sales are necessary, that does not mean they should be executed
+blindly, or regardless of any broader impact. The Bank has consistently stated that it
+would conduct any asset sales programme in a gradual, predictable and orderly way, so
+as not to cause additional disruption to the functioning of financial markets.15
+That objective is being delivered in four ways.
+First, the MPC has adopted a progressive and heavily telegraphed approach to
+developing and communicating its unwind programme. High level principles were set
+out in August 2021; reinvestment was ceased in February 2022; staff were asked to work
+on a strategy for gilt sales in May 2022; and a provisional plan for those sales was
+announced in August 2022, with a final vote in September 2022. Taking maturities and
+sales together the overall pace of unwind is not materially faster than that adopted by a
+range of other central banks (Chart 4) And the MPC’s consistent messaging is echoed in
+a very stable path for market expectations of unwind over the past six months (Chart 5).
+
+Source: Bank of England, UK Debt Management Office, Reserve Bank New Zealand, the New Zealand
+Debt Management Office, Federal Reserve Bank New York and Bank of Canada.
+
+15
+
+Letter from the Governor to the Chancellor, 17 February 2009 (bankofengland.co.uk)
+
+Bank of England
+
+Page 13
+
+Source: Bank of England Market Participants Survey; Bank calculations
+
+Second, the operational delivery of QE sales can be, and has been, adjusted in light
+of market conditions. The MPC itself has set a high bar for changing its high level
+unwind vote, in order to maintain predictability, and focus on Bank Rate as the active
+monetary policy tool. But it has given delegated authority to Bank staff to adjust the
+operational delivery of that plan in light of market developments (Table 3).16
+
+Table 3 draws on the statutory roles of the policy committees, and the MPC’s stated strategy for QE sales
+set out in its August 2022 meeting minutes
+16
+
+Bank of England
+
+Page 14
+
+In light of recent events, we have exercised that discretion in two ways:
+-
+
+By delaying the start of QE sales by a month we avoided the worst of the gilt market
+turbulence, and reduced Q4 QE sales by a third. Realised volatility and bid/ask
+spreads, though still elevated, have been on an improving path since mid-October
+(Chart 6).
+
+-
+
+By skewing QE sales in Q4 to the short and medium-maturity buckets,17 we have
+avoided the part of the market most affected by the LDI crisis. Doing so also
+focuses our initial sales on sectors that have been particularly affected by
+QE-related collateral shortages, as shown by the elevated gaps between yields on
+gilts and swaps at the shorter end of the curve (Chart 7).
+
+These adjustments have been welcomed by market participants. But gilt market
+functioning remains highly sensitive to developments. So we will continue to monitor
+market functioning closely, drawing on a wide range of qualitative and quantitative market
+intelligence.
+
+17
+
+Asset Purchase Facility: Gilt Sales – Market Notice 20 October 2022 | Bank of England
+
+Bank of England
+
+Source: Bloomberg Finance L.P., Bank calculations
+
+Source: Bloomberg Finance L.P., Bank calculations
+
+Page 15
+
+Bank of England
+
+Page 16
+
+Third, we have designed QE gilt sales operations to work with the grain of the
+market, wherever possible. Potential purchasers are able to bid for the full range of our
+holdings right across the short and medium buckets. The core auction mechanics are very
+similar to those used during QE, including an allocation methodology that ensures bonds
+are sold in a transparent and predictable way, where demand is highest, and without
+unduly impacting market prices. Operations will be frequent, and modestly sized, to avoid
+overloading the market. To minimise interference with the issuance programme of the
+UK’s Debt Management Office’s (DMO), we will not schedule sales operations on the
+same day as the DMO is also selling, nor will we sell a specific gilt that the DMO is also
+selling a fortnight either side of any DMO sales event in that gilt. And we will endeavour to
+ensure a sufficient gap between supply events of the same maturity. Bank and DMO staff
+are in close touch at an operational level to ensure both organisations can fulfil their
+respective remits.18
+
+Fourth, we have introduced a new Short Term Repo (STR) facility to ensure that QE
+exit does not put undue upwards pressure on short term money market rates.19 As
+QE assets fall, so does the aggregate stock of central bank reserves used to fund them.
+When that level falls below that required by commercial banks to meet their payments
+obligations and broader liquidity needs, absent any action from us, banks would start trying
+18
+
+The full set of operational arrangements are set out in the Market Notices referenced earlier in this speech.
+The issues in this part of the speech are set out in more detail in the Explanatory Note: Managing the
+operational implications of APF unwind for asset sales, control of short-term market interest rates
+and balance sheet | Bank of England, published alongside the August 2022 Monetary Policy Report.
+19
+
+Bank of England
+
+Page 17
+
+to borrow reserves in money markets, causing short-term interest rates to rise significantly
+relative to Bank Rate, impairing the transmission mechanism for monetary policy (Chart 8).
+Our best guess is that point lies some years away. Chart 9 compares a simple projection
+of future reserves (extrapolating the MPC’s chosen QE unwind pace, and adding in
+scheduled maturities of the Term Funding Scheme with incentives for Small and Medium
+Sized Enterprises (‘TFSME’)) with our latest survey-based estimate of the aggregate
+preferred minimum range of reserves demand (or ‘PMRR’).20 And you can see that the
+two don’t intersect till 2026 or later.
+
+Source: Bank of England, Bank calculations
+
+But such estimates are highly uncertain.21 In the United States, during a previous QE exit
+phase in 2019, short term rates rose sharply (Chart 10) and much earlier in the exit cycle
+than similarly-derived Federal Reserve estimates suggested was likely.22
+
+This estimate is £325-480bn – about half today’s actual reserves level.
+There are a number of possible reasons for this. Banks vary substantially in how they define their
+‘minimum’ demand levels. Demand is sensitive to variables that can change rapidly, such as relative rates of
+return. And limits to the capacity of some market participants to recycle reserves efficiently mean that the
+aggregate minimum may not be the sum of individual minima.
+22 See for instance: Senior Financial Officer surveys for September 2018 and February 2019, available at:
+The Fed - Release Dates (federalreserve.gov) and Observations on Implementing Monetary Policy in
+an Ample-Reserves Regime - FEDERAL RESERVE BANK of NEW YORK (newyorkfed.org).
+20
+21
+
+Bank of England
+
+Page 18
+
+Source: Federal Reserve Bank of New York, Federal Reserve Board
+
+There are various ways to deal with this uncertainty. One, now adopted by the US, is to
+build in a much bigger buffer, planning to halt QE unwind much earlier than the central
+case estimate suggests. Another, that we have chosen to adopt, is to offer banks an
+alternative source of reserves, so that they can continue to meet their liquidity needs as
+and when they arise – allowing QE unwind to continue. The STR, which went live on 6
+October, offers reserves holders the ability to borrow unlimited amounts of reserves for 7
+days, at Bank Rate, secured against the highest quality collateral.23 The STR is designed
+to be freely usable from the start: the vast majority of reserves holders who are also active
+in money markets already have access to the facility; and the PRA has confirmed that it
+judges use of the STR to be routine participation in sterling money markets, and intends
+that it should be seen as such by bank boards and overseas regulators. 24
+Conclusions and next steps
+Let me conclude.
+Over the past six weeks, we have clearly demonstrated that it is possible to use the central
+bank balance sheet to support both monetary and financial stability whilst maintaining
+
+23
+24
+
+Short Term Repo - Market Notice 1 September 2022 | Bank of England
+PRA statement on Short Term Repo (STR) facility | Bank of England
+
+Bank of England
+
+Page 19
+
+clear separation between those goals. This case study will be of lasting interest to us and
+other central banks.
+At the same time, key challenges remain.
+In the short term, to solidify that separation we must execute a timely and orderly unwind
+of the assets accumulated as part of the financial stability purchase operations, whilst also
+delivering the MPC’s QE unwind programme. In doing that we will need to remain
+sensitive and, if necessary, appropriately responsive to still-febrile market conditions.
+In the medium term, there are clearly other profound lessons to be learned: about how to
+continue improving the resilience of non-banks to liquidity shocks; about how to build the
+lessons from this experience into further refinements to the central bank balance sheet
+toolkit, including through the development of effective tools for lending to non-banks; and
+about the appropriate long-term shape of central bank balance sheets as QE unwind
+progresses.
+I look forward to discussing these and other issues with you here today.
+
+I am grateful to Joshua Jones for his help in preparing this speech, and to Paul Alexander,
+Callum Ashworth, Andrew Bailey, Sarah Breeden, Jon Bridges, Rohan Churm,
+Rand Fakhoury, Lydia Henning, Tom Horn, James Howat, Joshua Lillis, Clare Macallan,
+Finn Meinecke, Arif Merali, Ali Moussavi, Rupal Patel, Rhys Phillips, Huw Pill,
+Dave Ramsden, Matt Roberts-Sklar, Andrea Rosen, Martin Seneca, Daniel Walker and
+Jack Worlidge for their helpful comments and suggestions.
+
+

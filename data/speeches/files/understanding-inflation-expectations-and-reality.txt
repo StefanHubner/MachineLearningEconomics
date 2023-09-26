@@ -1,0 +1,1329 @@
+Understanding Inflation: Expectations and Reality
+Speech given by
+Silvana Tenreyro,
+External Member of the Monetary Policy Committee, Bank of England
+Ronald Tress Memorial Lecture, Birkbeck University of London
+10 July 2019
+
+The views are not necessarily those of the Bank of England or the Monetary Policy Committee. I would
+like to thank Oliver Ashtari Tafti and Michael McLeay for their help producing this speech. I would also like
+to thank Thomas Belsham, Ben Broadbent, Hamza Bilal Chaudhry, David Copple, Richard Harrison,
+Jonathan Haskel, Simon Kirby, Francesca Monti, Michael Saunders, Michal Stelmach and Jan Vlieghe for
+helpful comments and discussions.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+It is an honour to be here to give the Ronald Tress lecture. Ronald Tress pushed the frontier in economics by
+recognising the importance of data for the conduct of public policy. His vision was surely nurtured by his
+remarkably broad scholarship, as well as his years of experience in the War Cabinet, where he served from
+1941 until 1947. He painstakingly worked on the construction of disaggregated labour and industry statistics.
+More than anyone, he would have recognised the critical role that technology could play in the process.
+Indeed, as Master of Birkbeck, one of his many legacies was to bring in the first electronic computer to the
+University of London.
+In the spirit of linking data and policy, today I will talk about inflation, the key element in our policy remit. And
+more specifically, I will focus on the disconnect in the data between the facts (what inflation has actually
+been) and what households perceived it – or expected it – to be. What is behind this disconnect and what
+should be done about it?
+I would like to emphasise four points.
+
+
+Since the Bank of England’s independence in 1997, CPI inflation has averaged 2%. (It was 2.0% in
+May 2019, the latest reading.)
+
+
+
+Households’ perceptions and expectations of inflation have averaged well above our target, with
+huge dispersion across different demographic groups. Moreover, a significant fraction of people
+simply do not know what inflation is or might be – a pattern that appears to be particularly prevalent
+among households with lower income and education.
+
+
+
+Higher inflation expectations in principle reduce the incentive to save for the future, increasing
+current spending. It is less evident how not knowing what inflation is or might be affects individual
+behaviour. While bridging the gap between reality and expectations may not have a material
+macroeconomic impact, it could certainly improve the decision-making of uninformed households.
+The challenge is not just one for central bank communications as some of the differences in
+perceptions and expectations may relate to varying degrees of financial literacy.
+
+
+
+The Bank of England has made significant efforts to improve its communications and educational
+outreach. The MPC, for example, now publishes a visual summary of the Inflation Report, which
+aims to be accessible to a broad audience. The Bank has revamped its website and aims to speak in
+plain English as much as possible. And colleagues at the Bank have produced a set of lessons on
+the economy and how it relates to the individual, called econoME, which is part of a broader effort to
+raise economic and financial literacy. But there is certainly scope to do more, and for other
+organisations, like colleges and universities to join the effort.
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+2
+
+Reality: inflation in the recent past
+Since the Bank of England’s independence in 1997, the Monetary Policy Committee (MPC) has been tasked
+with achieving price stability, as defined by the government’s inflation target. The formation of the MPC was
+a further evolution of the UK monetary policy framework, following the adoption of an explicit inflation target
+in 1992. Since 2004, the target has been set as an inflation rate of 2%, measured by the 12-month increase
+in the Consumer Prices Index (CPI).1
+Before the mid-1990s, inflation was anything but low and stable (Chart 1). The average RPIX inflation rate
+from 1976 to 1992 was 8.5%, ranging between 3% and 24% (Table 1). Following independence and the
+adoption of inflation targeting, the behaviour of inflation changed markedly. Since 1997, CPI inflation has
+averaged 2% and inflation has stayed within a relatively narrow range around its target. Moreover, the
+largest misses can be partly attributed to volatile components such as food and energy prices. ‘Core’ CPI
+inflation, which excludes these components, has been even closer to 2% (Chart 2).
+Table 1
+
+Inflation rate (per cent/pp)
+Average Range Volatility
+8.5
+20.5
+4.8
+2.4
+1.6
+0.4
+2.0
+5.3
+1.1
+
+Jan 1976 - Sep 1992 (RPIX)
+Oct 1992 - May 1997 (CPI)
+June 1997 - present (CPI)
+Memo: One-year-ahead inflation expectations*
+
+2.8
+
+3.4
+
+0.6
+
+* Barclays Basix (June 1997 to present).
+
+Chart 1: CPI and RPIX inflation
+
+Chart 2: CPI and core CPI inflation
+
+Jan '76 - Sep '92
+RPIX: 8.5%
+CPI: 7.9%
+
+Per cent 30
+
+Per cent 6
+
+25
+
+5
+
+20
+
+4
+
+15
+
+3
+
+Oct '92 - May '97
+RPIX: 2.8%
+CPI: 2.4%
+
+June '97 - present
+RPIX: 2.8%
+CPI: 2%
+
+10
+
+1
+
+5
+0
+
+CPI (headline)
+
+-5
+1976
+
+1984
+
+1992
+
+2000
+
+2008
+
+2
+
+2% target
+
+2016
+
+2004
+
+2007
+
+2010
+
+0
+
+CPI (core)
+2013
+
+2016
+
+-1
+2019
+
+Source: ONS.
+Notes: CPI data prior to 1996 are estimated. Core CPI is CPI excluding energy, alcohol, tobacco, food and non-alcoholic beverages.
+
+The timing of the reduction in inflation was not coincidental. The framework changes helped address two
+related causes of the high and volatile inflation in the 1970s and 1980s. A clear remit to target inflation
+addressed the so-called time inconsistency problem: at any point in time, the temptation to unexpectedly
+1
+From June 1997 until December 2003, the target was 2.5% annual inflation as measured by the Retail Prices Index excluding
+mortgage interest payments (RPIX).
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+3
+
+overstimulate the economy, which once anticipated, leads to an inflationary bias.2 And delegating decisions
+on interest rates to a committee (the MPC) in an independent central bank has helped insulate monetary
+policy from political influences. Specifically, the risk that the electoral cycle leads politicians to push for extra
+stimulus ahead of re-election, also creating a tendency towards volatile and above-target inflation.3
+Both of these causes stem directly from the interaction between monetary policy and inflation expectations.
+When people expect that monetary policy will always tend towards providing extra stimulus, they will also
+expect inflation to increase in future. Higher expectations are likely to then feed into economic conditions
+today. If those higher expectations are slow to change, they can make it more costly to reduce inflation.
+Monetary policy may have to be tight for a long period of time, imposing significant costs in the form of lower
+activity and higher unemployment, before people lower their expectations.
+The role of inflation expectations
+People’s expectations of future inflation are key influences on current inflation. As such, the MPC closely
+monitors a range of measures of inflation expectations. Understanding the causes and consequences of
+movements in those measures is of the utmost importance for policy decisions.
+Indeed, a range of evidence supports the idea that the reduction in the level and volatility of inflation over the
+past forty years has come about in large part due to central banks’ success in reducing inflation
+expectations. Inflation expectations affect people’s decisions in several ways.4 In turn, these decisions
+influence everything from the amount of spending in the economy to the wages and prices set by companies.
+All of which directly or indirectly affect the current rate of inflation.
+First, if households and companies expect prices to rise more quickly, they are likely to negotiate higher
+wage increases, and companies are more likely to set higher prices for their goods and services. Second,
+changes in inflation expectations in financial markets are likely to affect the nominal value of the exchange
+rate, affecting import prices and CPI inflation.
+For both of these influences, it is likely to be the inflation expectations of firms and financial markets that
+matter more than those of households. Individual workers tend to have limited bargaining power in wage
+negotiations, so household expectations often play little direct role in wage-setting decisions. Perhaps as a
+result, many studies and discussions have tended to focus on the inflation expectations of companies,
+
+2
+Kydland and Prescott (1977) and Barro and Gordon (1983). Monetary policy is also subject to another time inconsistency problem
+– that of stabilisation bias (see Woodford, 2003, for a discussion). This bias arises if policymakers may stabilise real activity by too much
+relative to inflation. If they could commit to stabilising real activity more slowly, then they would achieve better outcomes because
+expectations of future inflation would change in a beneficial way. But such a promise would no longer be the best thing to do once the
+future arrived – it would be time inconsistent.
+3
+Alesina (1987), Rogoff and Sibert (1988).
+4
+See Maule and Pugh (2013), for example, for a more detailed discussion of these channels.
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+4
+
+professional forecasters and financial markets.5 This evidence, as well as a casual reading of the data,
+generally suggests a good understanding of the inflation process and of how monetary policy behaves.6
+But third, for household spending decisions, household inflation expectations are likely to matter more. For a
+given level of interest rates, if households expect prices to rise more, that increases their incentive to spend
+today rather than saving. In other words, higher inflation expectations will reduce the real interest rate,
+boosting household consumption. The resulting rise in demand relative to supply will tend to push up on
+inflation.
+In many of our economic models, this ‘real interest rate channel’ is extremely powerful. In reality, its effects
+may be mitigated somewhat by the many households who are unable to smooth their consumption across
+time.7 It may also be harder to identify at the relatively low rates of inflation that we now enjoy in the UK.
+Nonetheless, it is likely to be important for major purchases of durable goods such as houses or cars,
+especially at times when inflation expectations pick up markedly.
+As a result, in addition to any potential effects on the economy, a good understanding of inflation is likely to
+be useful to households making major financial decisions. A key benefit of low and stable inflation is that it is
+more predictable. With effective communication, that should have made it easier for households to track,
+predict and act upon.
+Public understanding of inflation and trust in monetary policy is also crucial for accountability. MPC members
+are unelected officials, chosen for their technical expertise, but ultimately accountable to the public. It is
+therefore crucial that we communicate our inflation target and our policy decisions accessibly to as wide an
+audience as possible.
+Expectations: surveys of households
+Since 1999, the Bank of England has conducted an inflation attitudes survey to track households’
+understanding of monetary policy issues.8 As part of that understanding, it includes various questions about
+households’ inflation expectations. Specifically, it asks respondents how much they expect ‘prices in the
+shops generally’ to change in the future, with the median response often taken as a summary measure.
+Households are asked their expectations for the next 12 months and for the longer term (five years ahead).
+The MPC also monitors a range of other measures of inflation expectations. In recent outturns, professional
+forecasters’ and companies’ inflation expectations have remained close to or below their historical averages.
+
+5
+
+See Haldane (2017) and Reis (2018) for discussions.
+Haldane (2017).
+7
+For example, some households may be unable to borrow enough to be able to consume much more than their current income, even if
+they know prices will rise in future.
+8
+See Bank of England (2001).
+6
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+5
+
+Financial market inflation expectations, in contrast, have increased slightly over the past few quarters,
+especially at longer horizons.
+Households’ short-term inflation expectations have been relatively stable recently, although they have
+increased since their recent lows in 2016, a period when CPI inflation itself had been close to zero (Chart 3).
+Households’ long-term inflation expectations have also picked up since 2016, with the Bank survey measure
+increasing to a series high of 3.8% in Q2 (Chart 4). The increase in the Bank survey in the latest datapoint
+has not been replicated in the other indicators, and there is some evidence that it partly reflects sampling
+volatility. But the general upward trend is evident across all three surveys since 2016, albeit from historically
+low levels. Part of the explanation may be that Brexit (more specifically its effect on sterling feeding through
+to realised CPI inflation) has increased some households’ inflation expectations. I will come back to discuss
+a more nuanced effect of Brexit uncertainty on median expectations later in the speech.
+Chart 3: One-year-ahead inflation expectations
+
+Chart 4: Long-term inflation expectations
+Per cent
+
+Per cent 5
+
+2009
+
+2011
+
+2013
+
+2015
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+Bank of England/TNS
+Barclays Basix
+Citigroup/YouGov
+
+1
+
+Bank of England/TNS
+Barclays Basix
+Citigroup/YouGov
+
+0
+2017
+
+2019
+
+5
+
+2009
+
+2011
+
+2013
+
+2015
+
+1
+0
+2017
+
+2019
+
+Sources: Bank of England/TNS, Barclays Basix, Citigroup/YouGov.
+Notes: Long-term inflation expectations are five years ahead for Bank of England/TNS and Barclays Basix and five to ten years ahead
+for Citigroup/YouGov.
+
+Households’ inflation expectations are likely influenced by their inflation perceptions: what they think inflation
+currently is. So the Bank survey also asks households how they think prices have changed over the past 12
+months. Chart 5 shows that there is a fairly close relationship between perceptions of price rises over the
+past 12 months and expectations over the next 12 months, although less so with longer-term expectations.
+How do household perceptions of price rises compare to the measured CPI data? Chart 6 shows that most
+households have perceived faster price rises than the actual change in CPI inflation, with the median
+perception around one percentage point higher on average over the period since 2004 (after the target had
+changed from RPIX).
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+6
+
+Chart 5: Inflation perceptions and expectations
+
+Chart 6: Inflation and inflation perceptions
+
+Per cent 6
+
+Per cent 6
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+Expectations (next 12 months)
+Expectations (5 years from now)
+Perceptions (last 12 months)
+
+1
+0
+
+2004 2006 2008 2010 2012 2014 2016 2018
+
+RPIX inflation
+CPI inflation
+Perceptions
+
+1
+0
+
+2004 2006 2008 2010 2012 2014 2016 2018
+
+Sources: Bank of England/TNS and ONS.
+
+Household expectations of future price rises are also generally higher than ex-post realised CPI inflation
+(Chart 7). This is true across surveys, and is perhaps unsurprising, given the close relationship between
+households’ perceptions of inflation and their short-term expectations. It is also clearly evident in longer-term
+expectations.
+That difference aside, median household inflation expectations have had mixed success in forecasting future
+inflation. Chart 8 adjusts expectations in the Bank survey to take account of the average difference between
+household perceptions and actual rises in CPI. It then compares the adjusted, ex-ante forecast with ex-post
+realised inflation. The forecast errors show little remaining bias once expectations are adjusted. But the
+errors are somewhat large and persistent, suggesting that households do not always adjust their
+expectations even when prices start rising more quickly or slowly than they had expected.
+Chart 7: Inflation and one-year ahead household
+
+Chart 8: Adjusted one-year-ahead forecast errors
+
+inflation expectations
+
+on CPI inflation, Bank/TNS survey
+
+CPI inflation
+
+Per cent
+
+10
+
+RPIX inflation
+
+9
+
+Barclays Basix
+
+8
+
+Bank of England/TNS
+
+7
+
+Citigroup/YouGov
+
+6
+
+Percentage points 4
+
+3
+2
+1
+
+5
+4
+
+0
+
+3
+
+-1
+
+2
+
+-2
+
+1
+0
+1987
+
+1995
+
+2003
+
+2011
+
+2019
+
+-3
+2004 2006 2008 2010 2012 2014 2016 2018
+
+Sources: Barclays Basix, Bank of England/TNS, Citigroup/YouGov and ONS and Bank calculations.
+Notes: Forecast errors are calculated as actual CPI inflation minus one year ahead inflation expectations, minus the sample
+average difference between household perceptions of past inflation and actual CPI inflation.
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+7
+
+Why might households perceive (and expect) higher inflation than measured CPI? Since the survey question
+does not specify any particular price index, one possibility is that households are not referring to the same
+basket of goods and services. While the median household perception has been higher than CPI inflation
+since 2004, it has averaged around the same rate as RPI and RPIX inflation.9 RPI is no longer classed by
+the ONS as a national statistic, but it is still widely quoted in the media, and importantly, is used to uprate a
+range of highly visible items such as pensions, rail fares and student loans. It seems possible that despite
+the MPC’s inflation target changing to CPI after 2003, households may have continued referring to RPI/RPIX
+when answering the survey question. If so, it would suggest an additional benefit to having a single,
+preferred measure of consumer prices.10
+This is not the whole story, however. Compared to either price index, household perceptions and
+expectations fail to accurately track the observed volatility in the inflation data. The wider economics
+literature suggests at least three other sets of reasons why households may perceive inflation differently to
+the aggregate statistics: some psychological; some environmental; or some due to financial literacy.
+The psychological reasons relate again to which prices respondents are referring to when they answer the
+question. The ONS’s price indices are weighted according to average household spending patterns, but
+different households will consume different baskets of goods and services. There is no guarantee that even
+the median respondent faces the same basket as the CPI.
+Even if they face the same consumption basket, households may show other cognitive biases when
+answering the question. Households may focus on more visible price changes such as energy and food.
+Chart 9 shows that UK short-term inflation expectations closely follow petrol prices, a relationship also
+observed in other countries.11 There is a similar correlation with food prices (Chart 10). Households may also
+recall personal experiences and place more weight on more salient events. There is evidence that large price
+changes are more memorable than small ones, and price increases more so than decreases. Similarly,
+people tend to remember recent and more frequent purchases more easily.12
+
+9
+RPI is the Retail Prices Index and RPIX is the Retail Prices Index excluding mortgage interest payments. RPI and RPIX inflation have
+differed at points since 2004, but have tracked each other closely since 2011.
+10
+The choice of the measure used as the monetary policy target is a decision of HM Government, and set out for the MPC in our Remit.
+The recent House of Lords Economic Affairs Committee (2019) report on ‘Measuring Inflation’ argued that ‘it is confusing for the public
+to have multiple official measures of consumer price inflation in use.’ The ONS have identified several issues with the RPI, including a
+‘formula effect’ that creates an upward bias in measured RPI inflation and an inferior approach to measuring owner-occupied housing.
+11
+See Coibion and Gorodnichenko (2015a) for the US.
+12
+D’Acunto et al (2018).
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+8
+
+Chart 9: Inflation expectations and real oil price
+2015 = 100 140
+
+5 Per cent
+
+Chart 10: Inflation expectations and real food price
+2015 = 100 110
+
+Per cent
+
+5
+
+130
+4
+
+120
+
+105
+
+4
+
+110
+
+2
+
+2019
+
+2017
+
+2015
+
+2013
+
+2011
+
+80
+2009
+
+0
+2007
+
+1
+
+90
+Inflation expectations (next 12 months)
+(LHS)
+85
+Real food price (RHS)
+2005
+
+2019
+
+2017
+
+2015
+
+2013
+
+2011
+
+2009
+
+2007
+
+2005
+
+1999
+
+0
+
+2003
+
+1
+
+2001
+
+80
+Inflation expectations (next 12 months)
+70
+(LHS)
+60
+Real oil price (RHS)
+50
+
+95
+
+2003
+
+90
+
+2
+
+100
+
+3
+
+2001
+
+100
+
+1999
+
+3
+
+Sources: Bank of England/TNS, ONS.
+Notes: Real oil price is “fuels and lubricant” deflated by the CPI all items index; real food price is food and non-alcoholic beverages
+deflated by the CPI all items index.
+
+The environmental factor relates to the aggregate level and volatility of inflation. In low-inflation countries, it
+is less important to know the rate of price inflation.13 When making financial decisions, it is more costly to
+ignore the effects of inflation when prices are increasing at 20% or 100% per year, relative to when they are
+increasing at only 2% per year. In the economics jargon, this is an example of rational inattention: the idea
+that attention is a scarce resource and is allocated to its best possible use. If inflation is not one those uses,
+it may just reflect the success of the current framework in producing a low inflation environment. According to
+one opinion survey, less than 10% of people in the UK see inflation or prices as an important issue facing
+Britain today, compared to over 50% in the 1970s, when inflation was far higher.14
+The final factor, which was previously discussed by my colleagues Andy Haldane (2017) and Ben Broadbent
+(2019), is financial literacy. This term is broadly understood as the skill to process economic information to
+make informed financial choices. It tends to be positively correlated with education and income.15 People
+who are more financially literate tend to have a better idea of what inflation is and, consequently, are able to
+make more informed consumption and saving decisions. Over the past three years, at least 15% of
+households have responded that they have ‘no idea’ how prices have changed, up from around 10% at the
+start of the decade, suggesting that this factor may be becoming more important.
+To sum up, there are a number of reasons why household perceptions and expectations of price changes
+may differ from measured CPI data. It could be that households are referring to a different basket of goods
+and services, be it a different price index, or a subset of more visible goods. People may rationally opt not to
+process all the information required to form accurate perceptions and expectations because the benefits do
+
+13
+
+See Coibion and Gorodnichenko (2015b) for evidence of this. Cavallo, Cruces and Perez-Truglia (2017) find evidence for Argentina,
+Frache and Lluberas (2017) for Uruguay and Afrouzi et al (2018) for Iran.
+14
+Figures from the Ipsos MORI Issues Index, available at https://www.ipsos.com/ipsos-mori/en-uk/issues-index-trends-1974-1987 and
+https://www.ipsos.com/ipsos-mori/en-uk/brexit-continues-britains-biggest-concern-and-worry-over-pollution-and-environment-remainshigh.
+15
+Atkinson and Messy (2012); Lusardi and Mitchell (2014).
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+9
+
+not justify the costs. Or it could be that different levels of financial literacy affect households’ understanding
+of inflation. I next explore these possibilities by looking at disaggregated survey data.
+Beyond the median: the distribution of households’ inflation expectations
+Do all households form expectations like the median? The short answer is no. Households’ perceptions and
+expectations of inflation are highly dispersed.16 And some recent research has shown that this distribution
+may contain additional relevant information about the inflation process.17 Moreover, there are also large
+differences across demographic groups including gender, age and income.
+Chart 11 shows the distribution of households’ 12-month ahead inflation expectations in the Bank survey. It
+shows that there has consistently been a sizeable fraction of respondents who have expected prices to rise
+far faster than the Bank’s 2% CPI inflation target. Since 2006, an average of one-third of the households who
+formed an expectation predicted inflation above 4%. In that period, measured CPI inflation has only risen
+above 4% around 10% of the time and measured RPIX inflation 23% of time. Again, this may just reflect a
+different inflation basket. This fraction of respondents could devote a greater share of their overall spending
+to goods and services with higher price rises.
+Chart 11: Distribution of one-year-ahead inflation expectations,
+Bank/TNS survey
+100%
+75%
+50%
+25%
+0%
+2006
+
+2008
+
+Below or about 0
+
+2010
+
+2012
+
+2014
+
+Up by 1 but less than 4
+
+2016
+
+More than 4
+
+2018
+No idea
+
+Sources: Bank of England/TNS.
+
+However, the distribution also reveals a growing fraction of households who are unable to form inflation
+expectations at all. This proportion of households answering ‘no idea’ is 19% in the latest Bank survey, up
+from nearer 10% a decade ago. The volatility of the series makes it difficult to be certain of the cause. But
+there does seem to have been an increase in ‘no idea’ responses since the EU referendum in 2016, so
+16
+
+I focus on the two surveys for which we have a detailed distributional breakdown, the Bank of England Inflation Attitudes Survey and
+the Barclays Basix Inflation Survey. Both are conducted quarterly on a sample of UK households and weighted by demographic factors
+to match the UK. From February 2016 the Inflation Attitudes Survey has been conducted on the Bank of England's behalf by TNS.
+Previously it was conducted by GfK NOP.
+17
+Meeks and Monti (2019).
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+10
+
+Brexit uncertainty may be playing a role. This increase has been clearer still in questions on long-term
+inflation expectations, where 44% of households now have no idea what inflation will be in five years’ time.
+Irrespective of why it has increased, the proportion of households giving this response is quite large,
+suggesting that the gap between households’ perceptions and reality may partly be due to differences in
+financial literacy. Disaggregating the surveys according to demographics provides further evidence for this.
+Chart 12: Inflation expectations by gender and CPI inflation
+Per cent
+
+6
+5
+4
+3
+2
+
+Men, Basix
+Women, Basix
+Men, Bank/TNS
+Women, Bank/TNS
+CPI inflation
+2008
+
+2010
+
+2012
+
+2014
+
+1
+0
+2016
+
+2018
+
+Sources: Bank of England/TNS, Barclays Basix, ONS.
+
+Chart 13: Inflation expectations distribution by gender, Barclays Basix survey
+(a) Men
+
+(b) Women
+
+100%
+
+100%
+
+75%
+
+75%
+
+50%
+
+50%
+
+25%
+
+25%
+
+0%
+
+0%
+'09 '10 '11 '12 '13 '14 '15 '16 '17 '18
+Between 1 and 3
+
+Below or about 0
+
+'09 '10 '11 '12 '13 '14 '15 '16 '17 '18
+4 to 7 included
+
+Above 7
+
+No idea
+
+Source: Barclays Basix.
+
+Starting with gender, a common finding in US studies has been that women have significantly higher inflation
+expectations than men.18 Interestingly, this does not seem to be the case in the UK (Chart 12), where
+women’s inflation expectations are broadly similar to those of men. There appears to be an important gender
+divide in responses depending on how the question is framed.19 When asked about ‘prices in general’ in the
+Bank survey, the distribution of responses between men and women is broadly similar. However, when
+18
+
+Bryan and Venkatu (2001a, 2001b), Armantier et al (2016).
+There is a large literature that shows that the framing of survey questions can lead to large differences in responses. See Tversky and
+Kahneman (1981), for an early example.
+
+19
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+11
+
+asked about the ‘inflation rate’ in the Barclays Basix survey, women are much more likely to report that they
+don’t know (Chart 13). This is consistent with findings in other countries and could relate to differences in
+financial literacy.20 Alternatively, it may relate to evidence from psychological research suggesting that in
+areas such as finance, men tend to be more overconfident than women.21
+Chart 14: One-year-ahead inflation expectations by age group and CPI inflation
+(a) Bank of England/TNS survey
+15 - 24
+55 - 64
+CPI inflation
+
+25 - 34
+65+
+
+(b) Barclays Basix survey
+
+Per cent
+
+16-19
+55-64
+CPI inflation
+
+6
+
+2010
+
+2012
+
+2014
+
+2016
+
+6
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+0
+2008
+
+2018
+
+Sources: Bank of England/TNS, ONS.
+
+Per cent
+
+5
+
+0
+2008
+
+20-24
+65+
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Sources: Barclays Basix, ONS.
+
+Chart 15: One-year-ahead inflation expectations distribution by age, Barclays Basix survey
+(a) 16-24
+
+(b) 55+
+
+100%
+
+100%
+
+75%
+
+75%
+
+50%
+
+50%
+
+25%
+
+25%
+
+0%
+2009
+
+2011
+
+2013
+
+Between 1 and 3
+
+2015
+
+0%
+
+2017
+
+Below or about 0
+
+2009
+No idea
+
+2011
+
+4 to 7 included
+
+2013
+
+2015
+
+2017
+
+Above 7
+
+Source: Barclays Basix.
+
+Moving on to different age groups, many US studies have found that older generations have higher inflation
+expectations than younger ones. One theory is that people living through different times have built up
+different life experiences, which affects their view of the future.22 For example, older generations that can
+vividly remember the high inflation of the 1970s will report higher expected inflation than younger
+generations who have only experienced low inflation. In the UK surveys, the picture is mixed. Younger
+20
+
+Lusardi and Mitchell (2014).
+See Barber and Odean (1999) and also the discussion in Croson and Gneezy (2009).
+22
+Malmendier and Nagel (2015).
+21
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+12
+
+people do report lower expected price rises in the Bank survey, but the opposite is true in the Barclays Basix
+survey. Asking about the ‘inflation rate’ again exacerbates the gaps among different groups. Older
+generations’ are better able to form expectations and also appear to predict movements in CPI inflation more
+successfully (Charts 14 and 15).
+Chart 16: One-year-ahead inflation expectations by socioeconomic status (NRS) and CPI inflation
+(a) Bank of England/TNS survey
+Per cent
+
+(b) Barclays Basix survey
+Upper
+Lower-mid
+CPI inflation
+
+6
+5
+
+Upper
+Upper-mid
+Lower-mid
+Lower
+CPI inflation
+2008
+
+2010
+
+2012
+
+2014
+
+Upper-mid
+Lower
+
+Per cent
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+2016
+
+2018
+
+6
+
+0
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Sources: Bank of England/TNS, ONS.
+Sources: Barclays Basix, ONS.
+Notes: upper = AB, upper-mid = C1, lower-mid = C2, lower = DE.
+
+Finally, there are differences according to socioeconomic status, as measured by National Readership
+Survey (NRS) classification, which ranks households according to the chief income earner’s occupation. It
+therefore captures a mix of income and education. Chart 16 shows that households in lower classifications
+tend to have higher inflation expectations, which could be due to different consumption baskets (if they
+consume more of the goods and services that have higher inflation rates). But households in the lowest
+classification are also far less likely to be able to provide an expectation for future price changes, with around
+35% answering ‘no idea’ in the Barclays Basix survey, compared to 15% of the top group (Chart 17). The
+gap is again larger when asking about the ‘inflation rate’ than ‘prices’, suggesting differences in financial
+literacy as a factor.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+13
+
+Chart 17: Respondents reporting ‘no idea’ for one-year-ahead
+inflation expectations, by socioeconomic status (NRS)
+Upper, Basix
+Lower, Basix
+Upper, Bank/TNS
+Lower, Bank/TNS
+
+Per cent 60
+
+50
+40
+30
+20
+10
+0
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Source: Bank of England/TNS, Barclays Basix.
+Notes: upper = AB, lower = DE. Bank of England/TNS asks respondents about
+‘prices in the shops’ and Barclays Basix asks respondents about the ‘inflation
+rate’.
+
+A quick detour on long-term inflation expectations
+So far I have focused on one-year ahead expectations but I would like to briefly touch upon long-term
+expectations. In our models, it is long-term inflation expectations that matter more for financial decisions. And
+since short-term expectations tend to be influenced more by volatility in current inflation, households’
+long-term expectations can often give a cleaner signal of their confidence in the MPC’s commitment to bring
+inflation back to target at an appropriate horizon.
+In that context, the increase in median long-term inflation expectations in the latest Bank survey – to a series
+high of 3.8% – may appear concerning. While something we should watch closely, there is some evidence
+from the individual survey responses that at least part of the increase represents sampling volatility.
+Consistent with that hypothesis, it has not been replicated in the other surveys we monitor.
+Over a longer time horizon, median long-term inflation expectations have increased since the EU
+referendum. This could be partly related to the referendum-driven fall in sterling and subsequent increase in
+CPI inflation. But the distribution of responses suggests a nuanced interpretation. While the median
+expectation has increased since 2016 Q2, the proportion of overall respondents expecting inflation above
+3% has not (Chart 18). The reason for the increase seems to be a rise in the proportion answering ‘no idea’
+(which has increased from 34% to 44%) and a fall in the proportion answering between 1% and 3%. One
+possibility is that given the climate of uncertainty since 2016, some households who had previously assumed
+that inflation would always return to target now feel unable to form any expectation at all.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+14
+
+Chart 18: Long-term inflation expectations
+
+Chart 19: Inflation expectations distribution by
+
+distribution, Bank/TNS survey
+
+horizon, Bank/TNS survey
+
+Source: Bank of England/TNS.
+
+We should also bear in mind that people generally find it difficult to answer questions about things far into the
+future: in the latest survey, the number of ‘no ideas’ increases from 19% to 44% as we extend the horizon
+from one to five years ahead (Chart 19), with a similar pattern evident in the Barclays Basix survey.
+Let me take stock here. When we look beneath the average, we see that there are specific groups of the
+population that tend to report price change expectations further from the inflation target and from the official
+data on CPI inflation. There are also differences in the characteristics of respondents unable to form an
+expectation of future inflation. These respondents are more likely to be women than men; to be young than
+old; and to be in low income occupations.
+Implications and some remarks on the policy outlook
+When it comes to setting monetary policy, these results call for caution in interpreting movements in median
+measures of household inflation expectations. Interpreting the median is tricky when there are changes in the
+number of households who respond that they do not know. This is especially true for long-term inflation
+expectations, which are typically most relevant for policy.
+For communicating monetary policy and improving public understanding of the inflation targeting framework,
+the large fraction of households who are unable to form an expectation of future inflation is a concern,
+particularly if it is due to a lack of financial literacy. It makes the steps we have been making on the MPC to
+improve our communications all the more important. For example, since 2017, we have published a visual
+summary of our Inflation Report, which aims to be accessible to a wide audience.23
+More broadly, the Bank of England has been taking steps to improve its educational outreach, as discussed
+by Haldane (2017), Carney (2018) and recently by Broadbent (2019). Last year my colleagues at the Bank
+23
+
+See Bholat et al (2018) for a discussion of the visual summaries of the Inflation Report.
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+15
+
+launched econoME, an educational programme designed for young people aged from 11 to 16, which aims
+to improve economic and financial literacy.
+The results I have presented today suggest that young people may particularly benefit from improved
+financial literacy, so improving education for school-age children is crucial. I think that there also remains
+space to design programmes for slightly older age groups. Here, there is scope for other institutions, like
+universities, colleges and even employers to help people develop the skills to make more informed choices.
+I’ve talked about a concrete challenge for communications when a significant and growing fraction of
+households do not have a strong understanding of the inflation process. Today the challenge is made more
+difficult by the current economic outlook. Uncertainty is the word dominating the mood.
+Globally, uncertainty has shown up most clearly in interest rate expectations. Forward rate expectations have
+fallen in recent months, with market participants now expecting an imminent rate cut in the United States and
+a continued looser policy stance in the euro area. Risky asset prices had also weakened, although those
+falls have likely been cushioned by lower risk-free rates.
+Increases in trade tensions have been one source of heightened uncertainty, adding further downside risks
+to a global economy where growth had already slowed over the past 18 months. And a further weakening in
+sentiment has been evident in output surveys, particularly in manufacturing. The change in sentiment is hard
+to reconcile with standard trade models, which would predict small direct effects of the tariffs announced so
+far on large economies such as the US. It is possible that sentiment is responding to broader risks or indirect
+spillovers not captured in our models.
+Some of the moves in risk-free curves are also no doubt related to a weaker global inflation outlook. Despite
+increases in wage growth, core inflation has remained subdued in the US and in euro area, increasing
+market expectations of looser monetary policy. Unlike in the UK, there have been large falls in financial
+market measures of inflation expectations in both regions.
+Domestically, Brexit uncertainty continues to play a key role in financial market pricing, as set out recently by
+Carney (2019). As the perceived likelihood of a no-deal Brexit has risen, pricing has more clearly diverged
+with the MPC’s forecast assumption of a smooth transition to a new trading arrangement. Sterling has
+depreciated and market-implied Bank Rate expectations now suggest that the next move will be a cut. But
+those expectations average across a range of very different Brexit scenarios – with markets expecting looser
+policy (and a weaker pound) in a no deal scenario.
+The MPC has explained how in the event of a disorderly exit, the monetary policy response will depend on
+the balance of the effects on supply, demand and the exchange rate. As I set out in March, in my view it is
+more likely than not that the appropriate response would be a loosening, but this is by no means certain.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+16
+
+The fall in UK yields is not solely due to perceived changes in the probabilities of different Brexit outcomes.
+Increased trade tensions and weaker global sentiment are also likely to have spilled over to the UK. Brexit
+uncertainty has also injected volatility into the outlook for UK activity, with stockpiling responsible for part of
+the strong growth figure in Q1, which looks likely to give way to a far weaker outturn in Q2.
+But the labour market remains tight: employment and hours worked growth have been strong (although
+average hours seem also to have been boosted by stockpiling in the manufacturing sector). So too has unit
+labour cost growth, even if wage growth is showing signs of slowing slightly from its 2018 pace. And
+conditional on a smooth Brexit scenario, a healthy labour market should continue to support household
+consumption.
+Moreover, although measures of core inflation remain subdued relative to labour costs, they have been
+stable in recent months. Nor are there many signs of weakness in the UK data on inflation expectations. As a
+result, I still expect that in a smooth Brexit scenario, a small amount of policy tightening will be required over
+the forecast period to keep demand growing in line with supply.
+As for the timing of any tightening; with inflation currently at 2% and likely to fall temporarily below target in
+the coming months, I did not feel compelled to vote for a policy change at our June meeting. If a Brexit
+agreement is reached, sterling is likely to appreciate, especially given the prospect of relatively looser
+monetary policy abroad. A stronger pound would serve to dampen import price growth, moderating upward
+pressure on CPI inflation from strong labour cost growth. Coupled with signs of a weaker global outlook,
+recent developments likely lengthen the period until there is a sufficient pickup in inflationary pressures for
+me to vote to raise Bank Rate. I do not currently anticipate such a pickup in the next few months.
+As always, this is my expectation, not a promise. As the data evolve, so too may my view of the appropriate
+policy setting. If so I will strive to communicate any change in my thinking to economists, to financial markets,
+and importantly, to the general public.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+17
+
+References
+Afrouzi, H, S Bayat, O Ghaderi and A Madanizadeh (2018), “Inflation expectations under volatile inflation:
+Evidence from firms in Iran,” Working Paper.
+Alesina, A (1987), “Macroeconomic Policy in a Two-Party System as a Repeated Game” The Quarterly
+Journal of Economics, Vol. 102, Issue 3, pp. 651-678.
+Armantier, O, S Nelson, G Topa, W van der Klaauw and B Zafar (2016), “The Price is Right: Updating
+Inflation Expectations in a Randomized Price Information Experiment,” Review of Economic and Statistics,
+Vol. 98, No. 3.
+Atkinson, A and F Messy (2012), “Measuring Financial Literacy: Results of the OECD / International
+Network on Financial Education (INFE) Pilot Study,” OECD Working Papers on Finance, Insurance and
+Private Pensions, No. 15, OECD Publishing.
+Barber, B M and T Odean (2001), “Boys will be Boys: Gender, Overconfidence and Common Stock
+Investment,” The Quarterly Journal of Economics, Vol. 116, Issue 1, pp. 261-292.
+Barro, R and D B Gordon (1983), “Rules, discretion and reputation in a model of monetary policy,” Journal
+of Monetary Economics, Vol. 12, Issue 1, pp. 101-121.
+Bholat, D, N Broughton, A Parker, J Ter Meer and E Walczak (2018), “Enhancing central bank
+communications with behavioural insights,” Staff Working Paper No. 750, Bank of England.
+Bank of England (2001), “The Bank of England inflation attitudes survey,” Quarterly Bulletin Summer 2001,
+Bank of England.
+Bryan, M F and G Venkatu (2001a), “The Demographics of Inflation Opinion Surveys,” Economic
+Commentary, Federal Reserve Bank of Cleveland.
+Bryan, M F and G Venkatu (2001b), “The Curiously Different Inflation Perspective of Men and Women,”
+Economic Commentary, Federal Reserve Bank of Cleveland.
+Broadbent, B (2019), “Financial education and the Bank of England,” speech given at the Helping children
+and young people learn about money conference, London.
+Carney, M (2018), “Opening remarks at the econoME launch event,” remarks given at Court Room, Bank of
+England.
+Carney, M (2019), “Sea Change,” speech given at the Local Government Association Annual Conference
+and Exhibition 2019, Bournemouth.
+Cavallo, A, G Cruces and R Perez-Truglia (2017), “Inflation Expectations, Learning, and Supermarket
+Prices: Evidence from Survey Experiments,” American Economic Journal: Macroeconomics, Vol. 9, No. 3,
+pp. 1-35.
+Coibion, O and Y Gorodnichenko (2015a), “Is the Phillips Curve Alive and Well after All? Inflation
+Expectations and the Missing Disinflation,” American Economic Journal: Macroeconomics, Vol. 7, No. 1, pp.
+197-232.
+Coibion, O and Y Gorodnichenko (2015b), “Inflation Expectations in Ukraine: A Long Path to Anchoring?”
+Visnyk of the National Bank of Ukraine, National Bank of Ukraine, Monetary Policy and Economic Analysis
+Department, Issue 233.
+Croson, R and U Gneezy (2009), “Gender Differences in Preferences,” Journal of Economic Literature, Vol.
+47, No. 2, pp. 448-474.
+18
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+18
+
+D’Acunto, F, U Malmendier, J Ospina and M Weber (2019), “Frequent Price Changes, Perceived Inflation
+and Inflation Expectations,” Working Paper.
+Frache, S and R Lluberas (2017), “New Information and Inflation Expectations among Firms,” working
+paper.
+Haldane, A (2017), “A Little More Conversation A Little Less Action,” speech given at the Federal Reserve
+Bank of San Francisco, Macroeconomics and Monetary Policy Conference.
+Haldane, A (2017), “Everyday Economics,” speech given at the Nishkam High School, Birmingham.
+House of Lords Economic Affairs Committee (2019), “House of Lords Economic Affairs Committee
+Report into Measuring Inflation,” HL Paper 246, 17 January 2019.
+Kydland, F and E Prescott (1977), “Rules Rather than Discretion: The Inconsistency of Optimal Plans,”
+Journal of Political Economy, Vol. 85, no. 3, 1977, pp. 473–491.
+Lusardi, A and O Mitchell (2014), “The Economic Importance of Financial Literacy: Theory and Evidence,”
+Journal of Economic Literature, Vol. 52, Issue 1, pp. 5-44.
+Malmendier, U and S Nagel (2015), “Learning from Inflation Experiences,” The Quarterly Journal of
+Economics, Vol. 131, Issue 1, pp. 53-87.
+Maule, B and A Pugh (2013), “Do inflation expectations currently pose a risk to the economy?” Quarterly
+Bulletin 2013 Q2, Bank of England.
+Meeks, R and F Monti (2019), “Heterogeneous beliefs and the Phillips curve,” Staff Working Paper No. 807,
+Bank of England.
+Reis, R (2018), “Discussion of ‘Inflation Expectations as a Policy Tool’ by Coibion, Gorodnichenko and
+Pedemonte” ECB Forum, Sintra.
+Rogoff, K and A Sibert (1988), “Elections and Macroeconomic Policy Cycles,” The Review of Economic
+Studies, Vol. 55, Issue 1, pp. 1-16.
+Tversky, A and D Kahneman (1981), “The framing of decisions and the psychology of choice,” Science,
+Vol. 211, Issue 4481, pp. 453-458.
+Woodford, M (2003), Interest and Prices: Foundations of a Theory of Monetary Policy, Princeton: Princeton
+University Press.
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+19
+
+

@@ -1,0 +1,498 @@
+Inflation persistence and
+monetary policy
+Slides
+
+Huw Pill, Philip Schnattinger, Brad Speigner
+
+Firms pricing behaviour
+Pricing behaviour
+Time vs. State dependency, %
+
+Time
+
+State
+
+Question wording – ‘Which of the following best describes how your business usually sets prices?’; (i) ‘Mostly change prices in response to specific events (e.g.
+changes in costs or demand)’; (ii) ‘Mostly change prices at fixed intervals (e.g. once a year or once a quarter, etc.)’
+Source: Bank of England Decision Maker Panel survey
+
+2
+
+Firms pricing behaviour
+
+Typical frequency of price changes
+% of businesses surveyed
+
+Question wording – ‘Approximately, how often did your prices change in each of the following years? Where possible, please consider the average across all
+products and services. If that is not possible, please answer for your main product/service.’
+Source: Bank of England Decision Maker Panel survey
+
+3
+
+Firms pricing behaviour
+
+Source: Bank of England Decision Maker Panel survey
+
+4
+
+State-dependent pricing firms report a bigger rise in inflation …
+
+… but also anticipate a
+bigger decline in inflation
+% of businesses surveyed
+
+Source: Bank of England Decision Maker Panel survey
+
+5
+
+A negative Terms of Trade shock leaves less real income to
+distribute domestically …
+Total Real Value Added
+
+Total Real Value Added
+
+To Imports
+
+To Imports
+
+𝑣 𝑥_1
+
+=𝑞
+
+𝑥
+
+𝑝1𝑥
+
+To domestic producers and
+suppliers of inputs into
+production, e.g. workers,
+intermediate good
+producers, retailers, …
+𝑑
+𝑦
+𝑣1𝑠 =
+𝜙𝑝𝑥 + 1 − 𝜙 𝑝𝑑
+
+𝑦2𝑥 = 𝑝2𝑥 𝑞2𝑥
+
+𝑝2𝑥 ↑ ⇒ 𝑣2𝑥 ↑
+
+ToT shock
+
+To domestic producers
+and suppliers of inputs
+into production, e.g.
+workers, intermediate
+good producers, retailers,
+…
+𝑝2𝑥 ↑ ⇒ 𝑣2𝑠 ↓
+
+• Negative ToT
+shock meant
+lower domestic
+real purchasing
+power
+• Who bears the
+cost of this real
+income reduction
+(𝑣 𝑠 ↓)?
+6
+
+Splitting the remaining surplus after a negative ToT shock
+• Baseline New Keynesian model: Labour is the only input in the baseline NK
+model and the labour market is ‘frictionless.’ The split of the surplus depends on
+adjustment frictions, but in the long run the share of 𝑣 𝑠 accruing to workers 𝑣 𝑖
+and firms 𝑣 𝑓 is stable. In equilibrium, marginal cost of work equal the marginal
+benefit for workers and firms (w wage, Z productivity) …
+𝑤𝑡
+𝑃𝑡
+
+= 𝑀𝑅𝑆𝑡 and 𝑀𝐶𝑡 =
+
+𝑤𝑡 /𝑃𝑡
+𝑍𝑡
+
+• Introducing labour market frictions: Labour market frictions imply workers and
+firms need to be ‘matched’, giving rise to a surplus value from a job match split
+via a negotiated wage:
+𝑣 𝑠 = 𝑣 𝑓 (−𝑤) + 𝑣 𝑖 (𝑤)
+• When the real income of the economy declines, for example through a ToT
+shock, 𝑣 𝑠 ↓. Under standard Nash bargaining 𝑣 𝑓 and 𝑣 𝑖 decline equally.
+7
+
+Profit and labour shares in the UK
+Gross rate of return
+
+Per cent
+
+Whole economy labour share
+
+Per cent
+63
+
+14
+
+62
+
+13
+
+61
+12
+60
+11
+59
+10
+58
+9
+
+57
+
+8
+7
+2000
+
+56
+
+2003
+
+2006
+
+2009
+
+2012
+
+2015
+
+2018
+
+2021
+
+Note: Rates of return of UK non continental shelf, private non-financial corporations
+Source: ONS
+
+55
+2000
+
+2003
+
+2006
+
+2009
+
+2012
+
+2015
+
+2018
+
+2021
+
+Source: ONS
+
+• The profit and labour share in value added have remained relatively stable. This
+could imply symmetric ‘push and shove’ between labour and capital.
+8
+
+What happens when parties refuse to accept that the real
+income implications of ToT shock?
+• If both parties – whether these are workers and firms or intermediate and final
+𝑓
+goods producers – refuse to accept that their respective equilibrium surpluses 𝑣𝑡
+
+and
+
+𝑣𝑡𝑖
+
+have declined and they target past
+∗
+𝑓∗
+𝑣𝑡 +𝑣𝑡𝑖
+
+𝑓∗
+surpluses 𝑣𝑡 and
+
+𝑖∗
+𝑣𝑡
+
+then …
+
+> 𝑣𝑡𝑠 .
+
+• In this situation, the input sellers target share, 𝛾 ∗ , is increasing in the differential
+𝑖∗
+between 𝑣𝑡 and 𝑣𝑡𝑖 . A higher 𝛾 ∗ will lead to higher seller price proposals 𝜄∗ …
+𝜄∗
+= 𝛾 ∗𝑣 𝑠
+𝑃
+
+• As long as
+
+𝑓∗
+𝑖∗
+𝑣𝑡 +𝑣𝑡 >𝑣𝑡𝑠
+
+inflation will persist.
+9
+
+Mechanics of targeting a real surplus that is too high –
+creation of ‘push and shove’ inflation
+• We assume that total surplus 𝑣 𝑠 produced by a buyer and seller agent in the economy
+changes from 𝑣0𝑠 > 𝑣𝑡𝑠 .
+• We assume that in response to the decline in the total surplus the buying producers and the
+input sellers accept a decline in their real surplus only at rate 𝜌𝑣 . Both agents j then target vj∗ :
+∗
+∗
+vt,j
+= 1 − 𝜌𝑣𝑗 vt−1j
++ 𝜌𝑣𝑗 𝛾𝑗 𝑣𝑡𝑠
+
+• Targets input prices 𝜄𝑡∗ and target output prices 𝑝𝑡∗ are set according to the deviation of the
+target surplus from the equilibrium surplus, in the following way;
+∗
+𝜄𝑡∗ = 𝑝𝑡 (1 + (vt,𝑖
+−𝛾𝑖 𝑣𝑡𝑠 ))
+∗
+𝑝𝑡∗ = 𝜄𝑡 (1 + (vt,𝑓
+−𝛾𝑓 𝑣𝑡𝑠 ))
+
+• Intuitively, a higher target leads to higher (realised) input price demands 𝜄𝑡∗ . In turn, buying
+producers pass the realised higher input price level on to output prices protect their real
+surplus.
+10
+
+Price dispersion has risen showing pass-through, adjustments and
+price pushes are unequally distributed across firms
+
+Source: Bank of England Decision Maker Panel survey
+
+11
+
+Wage dispersion across firms has also risen
+
+Wage Growth Dispersion
+
+Expected Wage Growth Dispersion
+
+3.5
+
+2.5
+
+3
+
+2.5
+
+Standard Deviation (%)
+
+Standard Deviation (%)
+
+2
+
+2
+
+1.5
+
+1
+
+1.5
+
+1
+
+0.5
+0.5
+
+0
+
+0
+Average August 2017 - October 2017
+
+May 2022 - March 2023
+
+Average August 2017 - October 2017
+
+May 2022 - March 2023
+
+Source: Bank of England Decision Maker Panel survey
+
+12
+
+Mechanics of targeting a real surplus that is too high
+• The partial equilibrium model is closed by transmitting targeted prices with
+Calvo parameter 𝜆𝑗 to aggregate price levels 𝜄𝑡 and 𝑝𝑡
+𝜄𝑡 = 𝜆𝜄 𝜄∗ + 1 − 𝜆𝜄 𝜄𝑡−1
+𝑝𝑡 = 𝜆𝑝 𝑝∗ + 1 − 𝜆𝑝 𝑝𝑡−1
+• Is a sluggish refusal to accept real surplus declines the same as price frictions?
+➢ While the implied dynamics are similar in the response of aggregate prices the
+micro foundations and policy implications are fundamentally different: Here
+sluggishness to accept 𝑑𝑟𝑖𝑣𝑒𝑠 inflation.
+➢ This sluggishness is by its nature asymmetric and inflation expectations do not
+matter as drivers of inflation via this channel. Real income expectations do.
+
+13
+
+Illustrating the dynamics
+• In the next slides we show …
+➢ A negative ToT shock at time 2
+➢ A positive ToT shock at time 26 making up 50% of the negative ToT at time 2
+➢ The fourth slide assumes that monetary policy can force a higher speed of
+acceptance. Intuitively this may be the result of interest rate increases reducing
+the bargaining power of input sellers, restricting their ability to raise the input
+price. And also cutting the demand for output produced, reducing the scope for
+output price increases.
+
+14
+
+Immediate surplus decline acceptance
+
+Immediate acceptance means no inflation caused by targeting too high real
+surpluses as the target surplus of both parties immediately adjusts
+15
+
+Sluggish (20%) surplus decline acceptance
+
+Sluggish acceptance leads to temporary inflation as targeted surpluses adjust to
+real surpluses. The positive terms of trade shock at time 26 has a negative
+effect on inflation provided real income increases are also sluggishly accepted.
+16
+
+Acceptance of the surplus declines never happens
+Acceptance rate = 0
+
+Refusal to accept decline in surplus means inflation increases persistently.
+The positive terms of trade shock at time 26 decreases inflation, but it is
+still positively increased compared to time 0.
+17
+
+Drivers of bargaining power – V/U ratio
+1.2
+
+Ratio of vacancies to unemployed
+1
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+Source: ONS Labour Force Survey
+
+18
+
+Drivers of bargaining power – Labour market churn
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+2001
+
+Job-to-job flows
+% of employed in previous period
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+Source: ONS Labour Force Survey
+
+19
+
+Acceptance of the surplus decline is facilitated by monetary
+policy action
+
+Monetary policy can facilitate a similar path to a sluggish acceptance of surplus decline.
+Compared to the refusal to accept, the dotted paths show that the increase in inflation will
+only be temporary elevated as the targeted surpluses are facilitated down.
+20
+
+Existing literature on the refusal to accept a real surplus decline
+• The framework in Layard Nickell Jackman has real wage resistance which
+encapsulates this concept for workers.
+➢
+
+In response to a real income shock the NAIRU rises.
+
+➢
+
+To get workers to accept the decline in income the bargaining power of the worker is being
+reduced by higher unemployment leading to eventual acceptance in the reduction of their surplus.
+
+➢
+
+Once sellers accept their decline in surplus, firms are no longer pushed to increase their prices
+and are encouraged to accept a surplus decline as average buyer bargaining power falls.
+
+• Other resolution: Reversal of the ToT shock, increasing productivity, increasing
+labour supply.
+• Refusal to accept a surplus decline may be further micro founded by real adjustment
+costs to income declines or minimum income requirements for input sellers and
+buyers to continue production.
+21
+
+References
+• Pissarides, C.A. (2000). Equilibrium unemployment theory. MIT Press
+
+• Layard, R., S.J. Nickell and R. Jackman (2005). Unemployment:
+Macroeconomic performance and the labour market. Oxford University Press
+• Blanchard, O., and J. Galí (2007). “Real wage rigidities and the New Keynesian
+model,” Journal of money, credit and banking 39, pp. 35-65
+• Broadbent, B. (2016). “The distributional implications of low structural interest
+rates and some remarks about monetary policy trade-offs,” speech to the
+Society of Business Economists Annual Conference
+
+• Lorenzoni, G., and I. Werning (2023). Wage price spirals, MIT working paper
+
+22
+
+

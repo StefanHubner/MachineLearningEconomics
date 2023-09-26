@@ -1,0 +1,1508 @@
+Models in macroeconomics
+Speech given by
+Silvana Tenreyro, External MPC Member, Bank of England
+
+University of Surrey, Guildford
+4 June 2018
+
+The views are not necessarily those of the Bank of England or the Monetary Policy Committee.
+I would like to thank Oliver Ashtari Tafti, Riccardo Masolo, Michael McLeay, Francesca Monti and
+Kate Reinold for their help producing this speech. I am also grateful to Thomas Belsham,
+Lizzie Drapper, Tomas Key, Chris Redl, Michael Saunders, Marco Schneebalg, Martin Seneca,
+Yad Selvakumar and Carlos Van Hombeeck for helpful comments. All errors are mine.
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+Introduction
+
+Good evening everyone and thank you for having me today.
+
+Perhaps unsurprisingly, following a decade of slow economic recovery from a painful financial crisis, the role
+of economics and economists has been vociferously debated. A few weeks ago a newspaper article felt
+obliged to ask the question “Has economics failed?”
+
+1
+
+Many critics have laid the blame on the tools that economists use – our models.
+
+2 3
+
+So, in my speech today, I
+
+will attempt to shed some light on how and why economists use models. Specifically, I will focus on how they
+are useful to me as a practitioner on the MPC. I will also outline some of the current challenges we face in
+macroeconomic modelling. As I go through, I will illustrate how a wide range of economic models have been
+useful in informing my recent policy votes.
+
+On policy, I will emphasise three points. First, I expect that the tight labour market will continue to feed
+through into domestic cost pressures – I think that fears of a breakdown in the relationship between slack
+and inflation are misplaced. Second, although we have seen some unexpected weakness in the recent
+inflation and activity data, in my view, the most likely scenario is that the GDP news is short-lived, and we will
+need a limited and gradual tightening in Bank Rate over the next three years to keep demand growing in line
+with supply. Third, since the picture for underlying demand should become clearer relatively soon, I was
+comfortable leaving policy unchanged in our May meeting.
+
+Before discussing how economic models have contributed to shaping this policy view, it might be helpful to
+first explain what a model is! Models are essentially abstractions. They simplify what is actually going on by
+removing unnecessary details.
+4
+
+An oft-used analogy is to think of models as maps. Maps simplify our complex world to small-scale, flat
+figures. When used for travelling, a map can show us the route we need to follow, abstracting from a host of
+information that is not essential to reach the destination. The map might be different (and more or less
+stylised) depending on the means of transportation (think of your favourite bicycle, foot, train, bus or car
+maps). In the same way, economic models might be different depending on the structure and characteristics
+of the economy; policy instruments available; institutional constraints; etc.
+
+1
+
+Clark and Giles (2018) in the Financial Times.
+For detailed arguments for and against many aspects of current macroeconomic modelling, see the 2018 special issue of Oxford
+Review of Economic Policy on ‘Rebuilding macroeconomic theory’, as well as Romer (2016), Korinek (2017) and Christiano,
+Eichenbaum and Trabandt (2018).
+3
+Vlieghe (2017) discusses a related set of criticisms of forecasting and Shafik (2017a, 2017b) defends expert opinion in general.
+4
+Many people have used the analogy before in different forms. One early example in the context of economics appears in
+Joan Robinson’s (1962) Essays on the theory of economic growth p33.
+2
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+2
+
+While maps have become more accurate with improved data and technology, we are still surprised by
+unexpected delays, blocked roads or flooded paths. Similarly, economic models have improved with greater
+computing power, econometric techniques and data availability, but there is still significant uncertainty that
+cannot be eliminated. And of course, we need different maps for different purposes. Physical, topographic,
+climate, political or thematic maps all help simplify our complex world in different ways. Analogously,
+economists often resort to different models to think about different economic problems.
+
+A brief history of macroeconomic models
+
+The macroeconomic models currently used in central banks and in academia are a product of a long journey
+over the past century or so. It would be impossible in a short speech to cover even a small fraction of the
+many advances, twists, turns (and many dead ends) that have led us here. But to give some context to some
+of the current debates, I will try to summarise a few of the key developments.
+
+5
+
+As with much in macroeconomics, the obvious place to start is with John Maynard Keynes, who published
+his General Theory in the depths of the Great Depression in 1936. With its focus on demand management, it
+arguably marked a clear break from earlier macroeconomic thought. It was also perhaps the single greatest
+influence on post-war macroeconomic policies. As a result, the early macroeconomic models that were built
+in support of those policies were resolutely “Keynesian” in nature. That legacy has continued to this day –
+much of the thinking underlying macroeconomic modelling today is still influenced by his insights.
+
+Despite its enduring impact, I expect that not many macroeconomic modellers will have spent too much time
+wading through Keynes’s writing itself. Its influence has been more indirect. One reason why is that, rather
+than formal mathematical models as is common today, Keynes’s arguments were advanced largely in prose.
+And while plain English can make ideas more accessible, it can also introduce ambiguity. Indeed, ever since,
+6
+
+there have famously been debates in the profession over “what Keynes really meant”. Moreover, the prose
+7
+
+itself has been variously described as “complex”, “recondite”, and “plodding”. My colleague Andy Haldane
+8
+
+has discussed how central bank publications perform badly on standard readability metrics. Keynes’s
+General Theory is likely to score poorly too.
+
+Most students instead learn the interpretation of Keynes formalised in the simple (IS-LM) model of Hicks
+(1937). Some have argued that this interpretation is not the right one, or at least misses some of the nuance
+of the General Theory. But a major advantage of such formal mathematical models is that they can bring
+greater clarity and precision: while many have disagreed that the IS-LM model was the right one, economists
+
+5
+
+For more general history of macroeconomics over much of this period, see for example Woodford (1999) or Blanchard (2000).
+Krugman (2011) divides interpretations of the book into two broad subsets, which he labels “Book 1ers” and “Chapter 12ers”.
+7
+By, respectively, Woodford (1999), Eichengreen (1999) and Krugman (2006).
+8
+Haldane (2017).
+6
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+3
+
+share an understanding of what the model means. Indeed, in such a global discipline as economics, maths
+can also act as a lingua franca, reducing potential misunderstandings.
+
+From the simple IS-LM framework, models evolved to match the rapidly expanding macroeconomic data
+available. Around the same time, the first comprehensive sets of National Accounts were developed in the
+UK and the US. Coupled with various technical advances in econometrics, these encouraged the
+development of early macroeconomic models. For aggregate demand, these typically consisted of (IS)
+blocks explaining each of consumption and investment, with another (LM) block explaining the asset market;
+an empirical Phillips curve relationship determined how prices and wages responded to imbalances between
+demand and supply. The models grew in importance and commensurately in size.
+
+9
+
+Large-scale macroeconomic models suffered a set of blows in the 1970s, which led to their falling rapidly out
+of favour in most modelling carried out in universities. One issue was a set of damaging methodological
+criticisms. In his famous “critique”, Lucas (1976) argued that the models’ equations were ill-suited to
+evaluating changes in policy, since they were liable to change when the policies were altered.
+A second challenge came from the real-world development of stagflation – the 1970s occurrence of high
+inflation and unemployment. This was seen as evidence against existing models, which almost exclusively
+featured negative Phillips curve relationships between inflation and unemployment. The models were quickly
+adjusted to correct one cause of their breakdown – their failure to incorporate the effects of the large oil
+shocks of the 1970s. But events also supported the broader arguments of Lucas and others, who had
+expected that the Phillips curve would break down if policymakers attempted to exploit it by accommodating
+inflationary shocks, since rational workers would begin to anticipate that behaviour and raise their wage
+demands accordingly.
+
+Different parts of the economics profession diverged in the paths they took to address the challenges posed
+in the 1970s. The response in the academic literature has been described as a “revolution”. Researchers
+developed new macroeconomic models that had microfoundations: they were built up from the optimal
+decision-making behaviour of individual consumers and firms in the economy – which was thought more
+likely to be invariant to changes in policy. And the agents in the models had forward-looking rational
+expectations: at each point in time, they made decisions based on their best forecasts of future outcomes,
+given the information currently available to them.
+Model design always involves a trade-off between realism – and so complexity – and tractability.
+
+10
+
+The
+
+modeller must therefore make choices over which details are unnecessary – and from which one can
+9
+
+By 1965, the Brookings econometric model had over 200 equations (including 75 identities) (Fromm and Klein, 1965).
+The Bank of England’s quarterly model had nearly 300 equations in 1987 (Patterson et al, 1987).
+10
+Robinson (1962) described this trade-off when she stated “A model which took account of all the variegation of reality would of no
+more use than a map at the scale of one to one.” She adapted her description from the amusing illustration of the same trade-off in
+Lewis Carroll’s Sylvie and Bruno Concluded (1893): '”What do you consider the largest map that would be really useful?”
+4
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+4
+
+abstract – and which should be included. For the early incarnations of the new dynamic, stochastic, general
+equilibrium (DSGE) models, making them far more complex in some dimensions meant that they had to be
+simpler along others. The prototype DSGE model, the “real business cycle model” of Kydland and Prescott
+(1982), had only a few key variables and no role at all for monetary policy. Importantly, the model failed to
+match key features of the data. Unsurprisingly, therefore, there was a more gradual evolution in the
+modelling strategies used in policy institutions such as the Bank of England and the Federal Reserve in the
+US. While they typically accepted some of the conceptual criticisms of their large-scale models, it was felt
+more pragmatic to introduce some smaller adjustments to the existing frameworks, with the new models still
+too simplified to produce useful forecasts or policy guidance.
+
+11
+
+Over the past 25 years, there has been a gradual convergence between models used in policy institutions
+and in the academic literature. Building on the now dominant DSGE research methodology,
+“New-Keynesian” models added the assumption that firms faced frictions preventing them from instantly
+adjusting their prices or wages. This restored to the models the influence of monetary policy on aggregate
+spending in the economy. Increased computing power and econometric advances allowed the development
+of progressively larger New-Keynesian models.
+
+12
+
+Many traditional insights into the role of macroeconomic
+
+policy were therefore recast in a set of models that avoided the 1970s criticisms, but also appeared to
+realistically match many aspects of the macroeconomic data. In the 2000s many central banks, including the
+Bank of England, switched to using these models as additional inputs into their forecasts and policy
+discussions.
+
+13
+
+Why do we use models?
+
+Models help us to understand the potential effects of policies, to assess and quantify different mechanisms
+that might be at play and to consider interactions that might go beyond the direct or intended effects of the
+policy. I will expand on each of these points in turn.
+
+a) To think through the effects of policy
+
+Good models help us clarify our intuition. When we want to know the effect of some action, we can often tell
+stories or conjecture mechanisms that might lead to different answers. A model can help us understand what
+might happen under different conditions and how different mechanisms might interact. An alternative option
+
+“About six inches to the mile”.
+“Only six inches!” exclaimed Mein Herr. “We very soon got to six yards to the mile…And then came the greatest idea of all! We actually
+made a map of the country on the scale of a mile to the mile!”
+“Have you used it much?” I enquired.
+“It has never been spread out yet”, said Mein Herr: “the farmers objected: they said it would cover the whole country and shut out the
+sunlight!””
+11
+Patterson et al, (1987), Pagan (2003), Brayton and Mauskopf (1987) and Brayton et al (1997).
+12
+Christiano, Eichenbaum and Evans (2005) and Smets and Wouters (2007).
+13
+Harrison et al (2005) and Burgess et al (2013).
+5
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+5
+
+might be to experiment. But this is not always possible when it comes to economics. That is doubly the case
+when it comes to working out the effect of macroeconomic policy.
+
+For macroeconomists, models are often the only way we can think through policy effects. And for an MPC
+member, that means monetary policy. We are tasked with setting Bank Rate to ensure that inflation reaches
+its 2% target. To work out how to do that, we need a good model of how Bank Rate affects the economy and
+inflation.
+
+We cannot just simply look at what happened to inflation when the MPC has increased Bank Rate before.
+For one thing, the MPC typically increases Bank Rate precisely when we expect inflation to rise above its
+target. So simply looking at the data will not disentangle the effect of the policy from the increase in inflation
+that was already expected to happen.
+Of course, clever econometricians – including many here at the University of Surrey – are able to find ways
+around to separate out confounding effects such as these. A massive amount of work has found ingenious
+ways to tease out ‘shocks’ to monetary policy from the data.
+collective research effort.
+
+15
+
+14
+
+I have even made my own contribution to this
+
+But as policymakers, we are not in the business of trying to engineer such
+
+shocks. Most of my job involves trying to set policy to respond in a predictable and well-understood way to
+economic developments. To work out how the economy will respond to the effects of this systematic part of
+monetary policy, we need to use models.
+
+16
+
+Moreover, the structure of the economy can change over time in ways that affect how policy works. Models
+allow us to think through how this might happen.
+
+Put differently, we often need models to try to work out the effects of impulses or interventions that we have
+not observed happen before. (Or have not happened enough times to allow us to reliably infer what might
+happen in future.) There will always be many models giving different answers. But we can try to judge which
+models are better by asking which ones are better able to explain the phenomena we have seen in the
+data.
+
+17
+
+b) Quantification
+
+Often in macroeconomics there are many plausible stories as to why something has happened, or what
+might happen in future. We can use models to make sense of the data and give quantitative estimates of the
+
+14
+
+Christiano, Eichenbaum and Evans (1996, 1999); Romer and Romer (2004); and, for the UK, Ellis, Mumtaz and Zabczyk (2013) and
+Cloyne and Hürtgen (2016).
+15
+Olivei and Tenreyro (2007, 2010) and Tenreyro and Thwaites (2016).
+16
+See Christiano, Eichenbaum and Trabandt (2018) for a recent articulation of these points.
+17
+See Haldane (2018) on the possibility of using “Big Data” techniques to answer these questions
+6
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+6
+
+size of different effects. To show how this can inform monetary policy, Chart 1 uses the Bank of England’s
+COMPASS model to explain the behaviour of inflation over the past decade.
+The chart divides up the observed inflation data into the different ‘shocks’ that are included in the model.
+Essentially it is the model’s interpretation of the most likely drivers of inflation. For me, there are three main
+points that I take from this chart.
+
+Chart 1: COMPASS decomposition of annual CPI inflation
+
+Monetary Policy
+World
+Inflation
+
+Cost-push
+Demand
+
+Supply
+Exchange rate
+
+Percentage point
+deviations from target
+4
+3
+2
+1
+0
+-1
+-2
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+-3
+2018
+
+Source: Bank calculations.
+
+First, I find the model’s interpretation of why inflation has evolved as it has quite plausible, as long as we do
+not take it too literally. A key driver of the movements in inflation, according to the model, has been various
+cost-push shocks (purple bars).
+
+18
+
+These caused above-target inflation in both 2008 and 2011-12, as well as
+
+below-target inflation in 2009 and 2015-16. These shocks often stand in for factors that affect prices over
+and above labour and capital costs, including changes in VAT and other costs not explicitly featured in the
+model, such as energy costs. And indeed, Chart 2 shows that the contribution of the purple bars to inflation
+is correlated with the peaks and troughs of oil-price inflation over the past decade or so.
+
+18
+
+These cost-push shocks consist of a wage mark-up shock and several different price mark-up shocks. Oil price increases, which do
+not feature explicitly in the model, are likely to be identified as a combination of these shocks. This suggests one should be cautious in
+taking the model interpretation too literally. See Burgess et al (2013) for further discussion.
+7
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+7
+
+Chart 2: Annual oil price inflation and COMPASS cost-push contribution to annual CPI inflation
+100
+
+Percentage point
+contribution
+
+Per cent
+
+80
+
+4
+3
+
+60
+
+2
+
+40
+20
+
+1
+
+0
+
+0
+
+-20
+
+-1
+
+-40
+
+-2
+
+-60
+-80
+-100
+
+Cost push contribution to CPI inflation (RHS)
+
+-3
+
+Oil price inflation (LHS)
+
+-4
+
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Source: Thomson Reuters Datastream and Bank calculations.
+Notes: Oil price is Brent crude in sterling terms.
+
+Second, monetary policy looks to have been relatively successful in stabilising underlying inflation.
+The MPC’s remit recognises that in the face of temporary shocks, attempting to keep inflation at target may
+cause undesirable volatility in output. Since the effects of oil-price swings are transitory, there is a good case
+for ‘looking through’ their impact on inflation. Cost shocks aside, the next biggest drivers of inflation during
+the period were large negative shocks to demand (blue bars) in the years following the crisis, which were
+broadly offset by a rapid loosening in monetary policy (orange bars).
+
+19
+
+And third, more recently, the exchange-rate has been pushing up on inflation since 2016. The model’s
+interpretation of the data is consistent with that of the MPC: the fall in the pound after the EU referendum has
+been the main driver of recent above-target inflation. This pick-up and subsequent easing of imported
+inflation has been a feature of MPC forecasts ever since. But in the past few quarters, we have seen some
+building evidence that import prices have been rising slightly less than we had expected (only by around half
+of the increase in foreign export prices - Chart 3). For me, this may be one reason why CPI inflation has
+recently fallen back faster than we had expected. And on balance, I expect some of this downside news to
+persist. I therefore agreed with the MPC’s collective judgement in May that, conditional on current market
+expectations for policy, the import-price contribution to CPI inflation is likely to be a little lower than in our
+February forecast (Chart 4).
+
+19
+
+In principle, successful, systematic monetary policy might not appear at all in the model decomposition. The model contains a Taylor
+rule that describes how monetary policy responds to deviations of inflation from its target as well as to positive or negative output gaps.
+These systematic responses are already included in the demand (and other) shock bars in the decomposition – they would tend to
+make them smaller than otherwise. But in practice, even though the rule is estimated based on past behaviour, it is likely to be too
+simple to provide a good policy prescription following an event like the 2008 financial crisis. Interpreted via the rule, policy may appear
+to place more weight on the output gap (Weale, 2016) and less weight on interest-rate smoothing than on average over the sample.
+This behaviour appears as monetary policy shocks, even though it may just be a systematic monetary policy response that does not
+follow a simple Taylor rule.
+8
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+8
+
+Chart 3 – Import prices and foreign export
+
+Chart 4 – Import price inflation
+
+prices
+Percentage changes on a year earlier
+
+Projection at the time of the February Report
+
+25
+
+Foreign export prices
+in sterling terms
+
+Projection consistent with MPC key judgements
+in May
+Percentage change on a year earlier
+
+20
+15
+10
+
+Import prices
+
+5
+0
+-5
+-10
+2005
+
+2008
+
+2011
+
+2014
+
+2017
+
+Sources: Bank of England, CEIC, Eurostat, ONS, Thomson
+Reuters Datastream and Bank calculations.
+Notes: See May 2018 Inflation Report for more details.
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+10
+8
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+2021
+
+Sources: ONS and Bank calculations.
+
+c) Thinking about the entire macroeconomy as a system
+
+The macroeconomy is a highly interconnected system where many aggregate variables depend on each
+other. We often need models to help us make sense of what is happening in the data. Looking at simple
+correlations can be misleading when trying to work out complicated causal logic.
+
+To give a simple and topical example, with major implications for monetary policy, there has been much
+discussion recently over the elusiveness of the Phillips curve.
+
+20
+
+The Phillips curve is an empirical model
+
+describing a negative relationship between rates of inflation and unemployment. Or, in modern versions, a
+positive relationship between inflation and the output gap (the difference between output and its potential).
+Incidentally, William Phillips, the economist who first identified the correlation between inflation and slack,
+was arguably the first economist to design an analogue computer (the MONIAC) to simulate the effect of
+macroeconomic policies.
+
+21
+
+Many commentators have recently argued that the Phillips curve is no longer apparent in the data – the
+observed correlation between inflation and slack is much weaker than it has been in the past. If the Phillips
+curve truly has flattened or disappeared, then the current strength of the UK labour market may be less likely
+to translate into a pick-up in domestic inflationary pressures. Given that the Phillips curve is one of the
+building blocks of standard macroeconomic models, including those used by the MPC, a breakdown in the
+relationship would also call for a reassessment.
+
+20
+21
+
+Both in the UK and in other countries. See for example Giles (2017) and the discussion and references in Vlieghe (2018).
+See Forbes (2017) for more detail and a picture of one of the MONIAC machines.
+9
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+9
+
+My view is that these fears are largely misplaced. I expect that the narrowing in labour market slack we have
+seen over the past year will lead to greater inflationary pressures, as in our standard models. To infer
+anything about the Phillips curve from the data, one needs to use a model that also takes into account the
+effect of monetary policy.
+
+22
+
+The reason is that good monetary policy, by design, should aim to quickly close
+
+any gaps between output and its potential in order to achieve the inflation target. Even with a working Phillips
+curve, these actions will blur any positive correlation in the data.
+
+To illustrate why this is so, Charts 5a and 5b plot a Phillips curve relationship in blue, alongside a stylised
+description of monetary policy in red. The Phillips curve is a simple positive relationship between inflation
+and slack. When output increases relative to its potential (that is, a positive output gap opens), this causes
+above-target inflation. Conversely, a negative gap causes below-target inflation.
+Chart 5a – Stylised representation of Phillips
+
+Chart 5b – Stylised representation of Phillips
+
+curve and monetary policy with cost-push
+
+curve and monetary policy with policy shocks
+
+shocks
+
+Source: McLeay and Tenreyro (2018).
+
+Source: McLeay and Tenreyro (2018).
+
+But good monetary policy should seek to eliminate any such gaps and simultaneously stabilise inflation.
+The exception is when cost-push shocks create a trade-off between stabilising inflation and the output gap.
+In the face of large or persistent shocks that create a trade-off between these two goals, the MPC is required
+by our remit to strike a balance between the two – for example to reduce output below potential in the face of
+above-target inflation. The red line plots an example preferred trade-off, which will depend on the slope of
+the Phillips curve and the policymaker’s preferences.
+
+Any time we see data on inflation and the output gap, we will be at the intersection of the red and blue lines.
+This means that we cannot interpret the observed data we see as the Phillips curve. If there are large
+
+22
+
+I elaborate on this identification problem in a recent paper, McLeay and Tenreyro (2018).
+10
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+10
+
+cost-push shocks, such as changes in energy prices, then the Phillips curve will move around, as shown in
+the dashed blue lines in Chart 5a. A naïve econometrician running regressions of inflation on the output gap
+would see only the red circles and identify the negative monetary policy trade-off line, rather than the positive
+Phillips curve relationship.
+
+Successful monetary policy will make the Phillips curve harder to identify in the data. But in practice,
+policymakers cannot always perfectly offset fluctuations in demand. There will be unforeseen shocks that
+cause output and inflation to evolve differently to their forecasts. These will appear as if they are shifts in the
+preferred trade-off (Chart 5b). If these shifts are large relative to the cost-push shocks in Chart 5a, we may
+be able to observe the Phillips curve. But as policymakers, even though the Phillips curve underlies our
+models, we should always be doing our best to make it disappear in the data.
+
+This example highlights that it may not be possible to see the true relationships from looking at the data
+alone. We often need to use a model in such situations. Models can show us a broader picture and help us
+consider alternative mechanisms that may be driving the data. (Another option, for the econometricians in
+the room, is to come up with clever instruments, but they are not always available.)
+
+Current challenges
+
+So far I have discussed some of the benefits of using macroeconomic models, as well some of the debates
+of the past that many economists thought had been settled. But compared to mapmaking, economic
+modelling is still a very imprecise science. And probably it will always be, as our economies and our
+understanding of them continue to evolve. (So too do our technical modelling capabilities.)
+
+As a result of all this, there will always be ample scope for improvement. I would like to pick out three areas
+where some of our standard models have been accused, with some justification, of being somewhat lacking:
+first, incorporating banks and the financial sector; second, realistically modelling people’s expectations of the
+future; and third, taking into account the ways in which the distribution of different households and firms in
+the economy may matter.
+
+23
+
+But I should also emphasise that I think there has been impressive progress on
+
+all three fronts. This list is also not exhaustive – I will briefly mention other areas where models could be
+improved.
+
+a) The financial sector
+
+As in the 1970s, the biggest challenge to macroeconomic models has come from a real-world event: the
+2008 financial crisis. Economists were charged with having ignored the financial sector in their models;
+
+23
+
+Others have picked out similar sets of challenges, for example, Yellen (2016), as well as Vines and Wills (2018) in the overview
+article in the Oxford Review of Economic Policy special issue.
+11
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+11
+
+some blamed policymakers for not acting against growing financial imbalances; and above all, economists
+were criticised for not predicting the crisis.
+
+While the charge that macroeconomic models failed to predict the financial crisis is fair, I think it helps to
+understand the reasons for that prediction failure. Models are used for forecasting, but it is by no means their
+only (or even their primary) role in macroeconomics. And most forecasting models are designed to predict
+the more frequent peaks and troughs we had seen in the economy in most of the post-war period, not rare
+events such as crises.
+
+Often the best we can do is to improve our understanding of crises that have happened in the past or in
+other countries and try to avoid the same phenomena happening again – and be prepared to react if they do
+happen. But even when we were able to identify worrying financial imbalances that might lead to crises, this
+would not mean that we would be able to predict their timing with any accuracy.
+
+24
+
+I should emphasise that prior to the crisis, there were also large parts of the economics profession that did
+pay close attention to banks and the financial sector. There are entire literatures exploring bank runs and
+liquidity risk, moral hazard in banking, market microstructures and other important issues.
+
+25
+
+With hindsight, it seems clear that macroeconomics should have included more of these insights into its
+models.
+
+26
+
+This is exactly what has happened since the crisis, with a mountain of new papers that have added
+
+further insights to our understanding of real economy-financial sector interactions. It is easy to argue this
+after the fact, however. Models cannot include every aspect of reality, so the model-builder has to decide
+which features matter for a given question.
+
+27
+
+I should add that even though many mainstream
+
+macroeconomic models did not feature a financial or banking sector before the crisis, the insights from the
+financial economics literature arguably played an important role in the response to the crisis, particularly in
+the form of liquidity provision through quantitative easing programs.
+
+b) More realistic expectations
+Many macroeconomic models start from simplified – and, as such, unrealistic – assumptions over how
+households and businesses’ behaviour depends on what will happen in the future.
+
+These features often lead to some unusual and implausible results. In particular, because expectations of
+the future are so important in the models, policies that work by affecting these can be incredibly powerful.
+This phenomenon has been dubbed the ‘forward guidance puzzle’. (Here, ‘guidance’ refers to promises
+24
+
+And if policymakers successfully prevent crises, then we will never actually see many that would have otherwise occurred.
+For a tiny subsample, see Diamond and Dybvig (1983), Kyle (1985) and Dewatripont and Tirole (1995).
+26
+There were of course exceptions, notably the financial accelerator model of Bernanke, Gertler and Gilchrist (1999).
+27
+In fact, some policy models in the 1960s and 1970s had far more detailed financial sector modelling, which was simplified following
+financial-sector deregulation in the 1970s and 1980s (Brayton et al, 1997).
+25
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+12
+
+about future monetary policy, rather than guidance of the type that the MPC has given, which has been
+28
+
+intended to clarify our reaction function) . Taken literally, the models suggest implausibly large economic
+effects from promises about interest rates many years in the future.
+
+There is ample empirical evidence that these strong assumptions do not hold in real-world data.
+
+29
+
+Anecdotally, my visits to businesses around the country with the Bank’s regional agents lead me to the same
+conclusion. When it comes to setting wages, for example, I have heard a number of times that companies
+focus on largely skill-specific salary benchmarks, which, in the model jargon, tend to be backward-looking.
+This contrasts with the assumption of forward-looking wage-setting behaviour in most models, and could
+explain some of the persistence we see in the real-world wage data.
+
+It is not yet clear how large a problem our assumptions on expectations are for many of our models. It seems
+obvious to me that assuming fully rational, perfectly informed households and businesses is rather extreme.
+But the other extreme – myopic, backward-looking expectations – would also be unrealistic. It was exactly
+that assumption that led our older models to perform so poorly in the 1970s, when inflation expectations
+rapidly increased in response to accommodative monetary policy.
+
+Encouragingly, lots of work is going into developing models that make more realistic assumptions. One set of
+research still assumes everyone is completely rational, but introduces limits to how easily people can collect
+and process information. Some models assume that people only update their information infrequently
+
+30
+
+or
+
+31
+
+imperfectly . Others model the consequences of not knowing how others will behave, especially when that
+depends on what they expect you to do, which depends on what you expect them to do, and so on.
+
+32
+
+A second strand of models takes its lead from psychology and looks at what happens when people do not
+always behave completely rationally. These behavioural models also have the potential to be more realistic:
+laboratory experiments consistently reveal systematic departures from rational behaviour.
+
+33
+
+There is a wide range of approaches incorporating some of these insights into macroeconomic models. One
+much-followed is to suppose that although people do not know the entire true model of the economy, they
+are able to learn about it over time via econometric estimation.
+
+34
+
+Others assume that people overweigh the
+
+35
+
+more recent past when forming expectations about the future , or that people dislike ambiguity – not being
+
+28
+
+See Carney (2018).
+See Coibion, Gorodnichenko, Kamdar (2017) for a recent review.
+30
+Mankiw and Reis (2002)
+31
+Woodford (2002) and Sims (2003)
+32
+These models of ‘imperfect common knowledge’ include Angeletos and La’O (2009), Nimark (2008) and Lorenzoni (2009), among
+others.
+33
+See Kahneman and Tversky (1979), for example, or DellaVigna (2009) for a literature review.
+34
+See Evans and Honkapoja (1999) for an extensive review of these models.
+35
+Bordalo, Gennaioli and Schleifer (2018)
+29
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+13
+
+able to work out how likely something is to occur.
+
+36
+
+Finally, some recent modelling assumes that given the
+
+complexity of the economy, people within it build a simplified model in which they pay more attention to some
+variables than others.
+
+37
+
+c) Distributional effects
+
+Another unrealistic assumption in many macroeconomic models is that everyone is the same. Or more
+accurately, that everyone can be characterised by a single, representative household or firm. While
+unrealistic, this has helped ensure that the models remain simple enough to be able to solve (and
+understand), while still being based on microfounded individually optimal behaviour. As always, whether this
+simplification matters depends on the question we are using the model to address.
+If we are interested in the distributional effects of monetary policy, then so-called ‘representative agent’
+models will not be very useful.
+
+38
+
+But while it is important to understand these effects, it is not the role of
+
+monetary policymakers to try to target particular segments of the population. The MPC remit is clear that we
+must target aggregate CPI inflation, while also taking into account other important macroeconomic variables
+39
+
+such as growth and employment. (One could argue that flexible inflation targeting itself embeds
+distributional considerations, since high and volatile inflation and unemployment tend to affect the poorest in
+society the most.)
+
+Monetary policy should nonetheless pay close attention to distributions, since there is a multitude of ways in
+which these might affect aggregate outcomes. There is increasing empirical evidence supporting this
+observation.
+
+40
+
+Studies suggest, for example, that following a change in monetary policy, there is a bigger
+
+change in spending by younger age groups and by households with low incomes or with mortgages.
+We therefore run the risk of being led astray if our models do not keep track of these distributions.
+
+Let me give a different example, also highly relevant for monetary policy.
+
+Although average weekly earnings (AWE) growth has now been strengthening since the middle of 2017, its
+persistent weakness had previously been a worry. Arithmetically, however, mean earnings growth will always
+be dominated by the wages of those at the top end of the distribution. It is less clear that this is the most
+relevant subset of workers for CPI inflation. When it comes to producing goods and services in the CPI
+basket, workers in the bottom half of the pay distribution may by disproportionately important. Their wage
+growth would then matter more for CPI inflation. Partly due to post-crisis increases in the minimum wage,
+pay for these workers has been growing at rates closer to its pre-crisis average (Chart 6).
+36
+
+Ilut and Schneider (2014), Baqaee (2016) and Masolo and Monti (2017).
+Gabaix (2014).
+38
+See Haldane (2018) for a discussion of the distributional effects of monetary policy.
+39
+As articulated in Carney (2018).
+40
+See Coibion et al (2012), Gornemann et al (2014), Best et al (2015), Cloyne, Ferreira and Surico (2016) and Wong (2016).
+37
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+14
+
+Chart 6: Average annual change in the nominal
+
+Chart 7: Median and aggregate wage growth
+
+weekly pay distribution
+
+(to April 2017)
+Percentage change
+on a year earlier
+
+90 £s
+
+Pre-crisis (1997-2008)
+
+80
+70
+
+Crisis (2009-11)
+
+60
+
+Post-crisis (2012-17)
+
+6
+5
+
+Median of individual pay
+growth rates (%)
+Growth of mean AWE
+regular pay (%)
+
+4
+
+50
+40
+
+3
+
+30
+
+2
+
+20
+
+1
+
+10
+
+0
+
+0
+-10
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+Percentile
+Source: ONS Annual Survey of Hours and Earnings and Bank
+calculations.
+
+Sources: Median pay growth from ONS Annual Survey of
+Hours and Earnings and Bank calculations, mean regular pay
+from ONS Average Weekly Earnings.
+Notes: Median pay growth shows annual growth in April of each
+year (ending April 2017). Mean regular pay shows three-month
+on twelve-month growth in the three months to May each year
+(ending May 2017).
+
+We can also construct alternative summary statistics of the wage growth distribution. Chart 7 shows how the
+median of the distribution has evolved over time, similar to the Atlanta Fed wage growth measure often used
+in the US. Since the crisis, it has generally held up better than the AWE regular pay data. These
+distributional splits of the earnings data give me further confidence that the tight labour market will continue
+to feed through into domestic inflationary pressures.
+
+Over the past couple of decades economists have developed a range of models that do take distributions
+into account.
+
+41
+
+Most recently, several authors have revisited the monetary policy transmission mechanism by
+
+introducing heterogeneous distributions of households, firms and workers into the common New Keynesian
+42
+
+framework. A key result in these models is that monetary policy largely works through its indirect effects on
+income and employment, with only relatively small direct spending responses to changes in interest rates.
+
+43
+
+d) Others
+
+There are of course several other areas where models could be improved. One area is international linkages,
+both through trade in goods and services, and through trade in financial assets. Another is solution methods.
+41
+
+The early work of Bewley (1986), Huggett (1993) and Aiyagari (1994) focused on the study of the role of income and wealth
+distributions in the macroeconomy, while Den Haan (1997) and Krusell and Smith (1998) introduce heterogeneity into business cycle
+models.
+42
+Kaplan, Moll and Violante (2017), Ravn and Sterk (2017) and Auclert (2017). See also Sterk and Tenreyro (2016).
+43
+The Bank’s COMPASS model also contains some differences between households, albeit to a more limited extent than some of the
+recent literature. It features two types of household – one that has access to financial markets, and one that is forced to consume only
+out of its labour income each quarter.
+15
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+15
+
+So far macroeconomists have often focused on simplified, linear versions of their models. With advances in
+computing power, it is now possible to explore important non-linear effects. I will leave a full discussion of
+these issues for another opportunity.
+
+As in the previous discussion of trade-offs in cartography, in all of these areas, economists will also need to
+weigh the gains from more realistic models against the cost of additional complexity and possible opacity.
+
+How do we use models in practice?
+
+While aware of their limitations, I still find model-based analysis extremely useful on the MPC. There will
+always be some things missing from each of the models we use in economics, or some seemingly unrealistic
+assumptions. But I do not see this as a major problem, for a couple of reasons.
+First and foremost, is that the MPC’s forecasts are judgement-based, rather than unthinkingly following some
+model output. One would not choose to follow a map if the terrain appeared different in reality: the dotted
+lines of a mountain footpath on an Ordnance Survey map could become a dangerous hazard following heavy
+snowfall. The same applies to our use of models. The model is best thought of as an advisor, used as an
+input into our decisions, rather than the author of our forecasts. And this has always been the case on the
+MPC.
+
+Second, even though we do use models to inform our projections, we do not focus exclusively on any one
+theoretical model. Different committee members will always place different weight on different models and
+data sources when coming to a policy decision. Speaking for myself, I value seeing results from several
+different types of models when analysing the data and constructing our forecasts.
+
+There are things missing from all models, so we are always likely to need to use a range of models to
+answer different questions. For example, since our main macroeconomic model, COMPASS, focuses on the
+behaviour of firms and households but does not explicitly model the financial sector, it is useful to look at
+results from alternative empirical models when assessing changes in credit market conditions.
+
+44
+
+Or when
+
+forecasting the very near-term outlook, I would typically place more weight on statistical ‘nowcast’ estimates
+than some of our more theory-driven models.
+
+45
+
+A recent example of this point was our expectation for Q1 GDP, following the heavy snowfall in February and
+March. Ahead of the data release, our DSGE models would have had no way of anticipating that the snow
+might affect activity. But unlike the models, since we were aware of the possible impact, as we mentioned in
+our March minutes, we revised down our forecast of headline Q1 GDP growth to 0.3%, based on staff
+analysis using Google search data.
+44
+45
+
+Cloyne et al (2015)
+Anesti et al (2017)
+16
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+16
+
+As we now know, GDP growth came in even weaker than this at 0.1%. There are good reasons to think that
+some of this news was also snow-related: the output split of GDP showed relatively weak readings for
+sectors likely to be affected (construction and some parts of private non-distribution services – Chart 8). It is
+also likely that the Q1 figure will be revised up in later data vintages.
+
+Nonetheless, I do still take some signal from the weak outturn, especially when combined with some
+negative news elsewhere, such as a soft picture for the housing market. Unusually, we should get a much
+clearer picture of underlying growth momentum over a relatively short timeframe.
+
+Chart 8: Output contributions to quarterly GDP growth
+1
+
+Percentage change on previous quarter
+
+0.8
+0.6
+0.4
+0.2
+0
+-0.2
+-0.4
+
+Private non-distribution services
+Manufacturing
+Other
+16 Q3
+
+16 Q4
+
+17 Q1
+
+Distribution
+Construction
+17 Q2
+
+17 Q3
+
+17 Q4
+
+18 Q1
+
+Sources: ONS and Bank calculations.
+
+Some comments on the UK macro outlook
+
+I hope I have conveyed how and why macroeconomic models do have some use in interpreting the
+economic data. Let me now bring together some of the real-world examples to summarise my current view of
+the economic outlook.
+
+World GDP has been growing strongly for some time. But in the near-term, there have been some signs of a
+slight slowing in momentum. GDP came out weaker-than-expected in both the US and euro area in Q1, and
+there has been a modest but relatively broad-based softening in global PMI indicators. Overall, however, the
+data remain consistent with the robust global growth incorporated in the MPC’s May IR forecast. We will
+need to remain watchful on this front, especially given recent increases in political uncertainty in Europe
+(and the associated market reaction), which is another factor that does not directly enter our models.
+
+The data flow on UK activity and inflation has also been slightly weaker than we expected in February. As I
+have discussed, I think that much of the downside Q1 GDP news is likely to be erratic, but it does increase
+17
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+17
+
+the possibility of some underlying weakness in demand. The negative news on inflation, meanwhile, may
+partly relate to a lower contribution from imported inflation. It now looks likely that the effect of exchange-rate
+pass through on CPI inflation will fade slightly more quickly than we had expected.
+
+Set against that, the labour market has continued to tighten. I am unconvinced by reports of the death of the
+Phillips curve, so I expect this to translate into a pickup in domestic cost pressures. Indeed, annual privatesector regular pay growth reached 3% in March, while evidence from the distribution of wage growth also
+signals greater strength.
+
+With falling imported inflation offset by a gradual pick-up in domestic costs, I judge that conditional on the
+outlook I have just described, a gradual tightening in monetary policy will be necessary over the next three
+years to return inflation to target and keep demand growing broadly in line with supply.
+
+While I anticipate that a few rate rises will be needed, the timing of those rate rises is an open question. To
+show why, I will use some stylised optimal policy simulations, since model analysis of this sort is often a
+useful input into my policy view. Because the point I want to make relates to the future path of interest rates, I
+use a simplified, behavioural version of the COMPASS model, in which expectations have a less powerful
+role.
+
+46
+
+Chart 9a: Policy scenario - inflation outturns
+
+Chart 9b: Policy scenario – Bank Rate
+
+2.4
+
+Percentage points change
+Baseline scenario
+2.5
+Optimal policy
+Optimal policy (after 1 quarter wait)
+2.0
+Optimal policy (after 4 quarter wait)
+
+2.3
+
+1.5
+
+2.2
+
+1.0
+
+Per cent
+2.6
+2.5
+
+2.1
+
+0.5
+
+2.0
+1.9
+1.8
+-1
+
+Baseline scenario
+Optimal policy
+Optimal policy (after 1 quarter wait)
+Optimal policy (after 4 quarter wait)
+0
+1
+2
+3
+
+0.0
+-0.5
+-1
+
+0
+
+Years
+Source: Bank calculations.
+
+1
+
+2
+
+3
+
+Years
+Source: Bank calculations.
+
+The stylised optimal policy simulations are shown in Charts 9a and 9b. The black dashed lines show a
+baseline scenario where, conditional on an upward sloping path for Bank Rate, inflation is above target and
+expected to remain so for the following three years. For simplicity, the output gap (not shown) is closed
+throughout. The policymaker seeks to minimise deviations of inflation from target, with some weight on
+46
+
+Specifically, this simplified version of COMPASS includes bounded rationality on the part of households, constructed using a similar
+approach to Gabaix (2014).
+18
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+18
+
+output and interest rate volatility.
+
+47
+
+The dark pink lines show the optimal policy in this scenario, which
+
+involves raising Bank Rate once immediately, then several more times over the following three years,
+successfully bringing inflation back to target by year two. The other lines instead show scenarios where the
+policymaker first decides to wait one quarter (green-blue line) or four quarters (orange line) before changing
+Bank Rate, after which they implement the new optimal policy. After waiting one quarter, the policymaker
+optimally raises Bank Rate slightly faster and further than they otherwise would have, but the inflation
+outcomes are almost identical. After waiting four quarters, the policymaker needs to raise Bank Rate
+somewhat more quickly, and ends up with inflation slightly above target until the middle of year three.
+
+The point I would like to emphasise from these simulations is that it may be possible to achieve very similar
+outcomes for inflation with somewhat different paths for Bank Rate.
+
+48
+
+This is possible because to some
+
+extent, future changes in policy can act as substitutes for immediate changes.
+
+49
+
+This is especially the case
+
+when the optimal path is relatively flat, since this means that it is easier for policy to achieve the same effect
+with a path of rate rises later that is still gradual. The flexibility is limited, however – waiting a few more
+quarters increases the likelihood that inflation overshoots the target.
+
+In May, I felt that as in these scenarios, the costs of waiting a short period of time for more information were
+small. And because unusually, we are likely to get a significantly clearer picture of the underlying strength of
+domestic demand quite soon, there were benefits to leaving policy unchanged. That information, filtered
+through some of our models, will be crucial in determining exactly when, in my view, the next rate rise should
+occur.
+
+To conclude
+I would like to finish by quoting Alfred Korzybski (1933). “A map is not the territory it represents, but, if
+correct, it has a similar structure to the territory, which accounts for its usefulness”. I do not wish to
+overstretch the map analogy – economics will always be less accurate and less predictable than
+cartography. But we should keep working on our models because they do help our thinking – even though
+they will never predict everything in advance – we might know better how to respond to events once they
+occur.
+
+47
+
+Optimal policy is computed by minimising, under commitment, a quadratic loss function including inflation deviations (with a weight of
+1), the output gap (with weight of 0.15) and the change in the interest rate (weight of 2.5). Given the reduced role for expectations in the
+model, the distinction between optimal commitment and discretionary policies is smaller than would be the case in a model with fully
+rational expectations.
+48
+Broadbent (2015) makes a similar point.
+49
+This is despite the simulations being produced in a model that does not feature a powerful expectations channel.
+19
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+19
+
+References
+Aiygari, S. R. (1994), “Uninsured Idiosyncratic Risk and Aggregate Saving,” The Quarterly Journal of
+Economics, Volume 109, Issue 3, pp. 659-684.
+Anesti, N., Hayes, S., Moreira, A. and Tasker J. (2017), “Peering into the present: the Bank’s approach to
+GDP nowcasting,” Bank of England Quarterly Bulletin 2017 Q2.
+Angeletos, G.M. and La’O, J. (2009), “Incomplete information, higher-order beliefs and price inertia,”
+Journal of Monetary Economics, Volume 56, Supplement, pp. S19-S37.
+Auclert, A. (2017), “Monetary Policy and the Redistribution Channel,” NBER Working paper No. 23451.
+Baqaee, D.R. (2016), “Asymmetric Inflation Expectations, Downward Rigidity of Wages and Asymmetric
+Business Cycles," Discussion paper.
+Bernanke, B., Gertler, M. and Gilchrist, S. (1999), “The financial accelerator in a quantitative business
+cycle framework,” Handbook of Macroeconomics, Volume 1, Part C, pp. 1341-1393.
+Best, M., Cloyne, J., Ilzetzki, E. and Kleven, H. (2015), “Interest Rates, Debt and Intertemporal Allocation:
+Evidence from Notched Mortgage Contracts in the United Kingdom,” Bank of England Working Paper No.
+543.
+Bewley, T. (1986), “Stationary Monetary Equilibrium with a Continuum of Independently Fluctuating
+Consumers," in Contributions to Mathematical Economics in Honor of Gerard Debreu, ed. by W.
+Hildenbrand, and A. Mas-Collel. North-Holland, Amsterdam.
+Blanchard, O. (2000), “What Do We Know about Macroeconomics that Fisher and Wicksell did not?”
+Quarterly Journal of Economics, Volume 115, No. 4, pp. 1375-1409.
+Bordalo, P., Gennaioli, N. and Shleifer, A. (2018), “Diagnostic Expectations and Credit Cycles,” Journal of
+Finance, Volume 73, Issue 1, pp. 199-227.
+Brayton, F.and Mauskopf, E. (1987), “Structure and uses of the MPS Quarterly Econometric Model of the
+United States,” Federal Reserve Bulletin 73, pp. 93-109.
+Brayton, F., Levin, A., Lyon, R. and Williams, J.C. (1997), “The evolution of macro models at the Federal
+Reserve Board,” Carnegie-Rochester Conference Series on Public Policy, Volume 47, pp. 43-81.
+Broadbent, B. (2015), “The MPC’s forecasts and the yield curve: predictions versus promises,” speech
+given at Reuters, Canary Wharf.
+Burgess, S., Fernandez-Corugedo, E., Groth, C., Harrison, R., Monti, F., Theodoridis, K., and Waldron,
+M. (2013), “The Bank of England’s forecasting platform: COMPASS, MAPS, EASE and the suite of models,”
+Bank of England Working Paper no. 471.
+Carney, M. (2016), “The Spectre of Monetarism,” speech given at Roscoe Lecture, Liverpool John Moores
+University.
+Carney, M. (2017), “Lambda,” speech given at the London School of Economics.
+Carney, M. (2018), “Guidance, Contingencies and Brexit,” speech given at the Society of Professional
+Economists.
+Carroll, L. (1893), Sylvie and Bruno Concluded, London, Macmillan.
+Clark, T. and Giles, C. (2018), “Has economics failed?” Financial Times, available at
+https://www.ft.com/content/670607fc-43c5-11e8-97ce-ea0c2bf34a0b.
+20
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+20
+
+Christiano, L., Eichenbaum, M. and Evans, C. (1996), "The Effects of Monetary Policy Shocks: Evidence
+from the Flow of Funds," Review of Economics and Statistics, Volume 78, No. 1, pp. 16-34.
+Christiano L., Eichenbaum M. and Evans C. (1999), “Monetary Policy Shocks: What Have We Learned
+and To What End?” in Handbook of Macroeconomics, Vol. 1A, edited by John B. Taylor and Michael
+Woodford. Amsterdam: Elsevier.
+Christiano, L., Eichenbaum, M. and Evans, C. (2005), “Nominal Rigidities and the Dynamics Effects of a
+Shock to Monetary Policy," Journal of Political Economy, Volume 113, No. 1, pp 1-45.
+Christiano, L., Eichenbaum, M. and Trabandt, M. (2018), “On DSGE Models,” working paper
+Cloyne, J. and Hürtgen, P. (2016), “The Macroeconomic Effects of Monetary Policy: A New Measure for the
+United Kingdom,” American Economic Journal: Macroeconomics, Volume 8, No. 4, pp. 75-102.
+Cloyne, J., Ferreira, C. and Surico, P. (2016), “Monetary Policy When Households Have Debt: New
+Evidence of the Transmission Mechanism,” CEPR Discussion Paper 11023.
+Cloyne, J., Thomas, R., Tuckett, A. and Wills, S. (2015), “A Sectoral Framework for Analyzing Money,
+Credit and Unconventional Monetary Policy,” Bank of England Working Paper No. 556.
+Coibion, O., Gorodnichenko, Y. and Kamdar R. (2017), “The Formation of Expectations, Inflation and the
+Phillips Curve,” NBER Working Paper No. 23304.
+Coibion, O., Gorodnichenko, Y., Kueng, L. and Silvia, J. (2012), “Innocent Bystanders? Monetary Policy
+and Inequality in the U.S.” NBER Working Paper No. 18170.
+DellaVigna, S. (2009), “Psychology and Economics: Evidence from the Field,” Journal of Economic
+Literature, Volume 47, Issue 2, pp. 315-372.
+Den Haan, W. (1997), “Solving Dynamic Models with Aggregate Shocks and Heterogeneous Agents,”
+Macroeconomic Dynamics, Volume 1, Issue 2, pp. 355-386.
+Dewatripoint, M. and Tirole, J. (1995), The Prudential Regulation of Banks, MIT Press, Cambridge.
+Diamond, D. and Dybvig, P.H. (1983), “Bank Runs, Deposit Insurance and Liquidity,” Journal of Political
+Economy, Volume 91, No. 3, pp. 401-419.
+Ellis, C., Mumtaz, H. and Zabczyk, P. (2014), “What Lies Beneath? A Time-varying FAVAR Model for the
+UK Transmission Mechanism,” Economic Journal, Volume 124, Issue 576, pp. 668-699.
+Eichengreen, B. (1999), “The Keynesian Revolution and the Nominal Revolution: Was There a Paradigm
+Shift in Economic Policy in the 1930s?” Storia dell-economia mondiale (A History of the World Economy),
+Volume 4: Between Expansion and Recession (1850-1930) (2000).
+Evans, G.W. and Honkapoja S. (1999) – “Learning Dynamics,” in Handbook of Macroeconomics, Volume 1,
+Part A, pp. 449-542.
+Farmer, R. (2013), “The Natural Rate Hypothesis: an idea past its sell-by date,” Bank of England Quarterly
+Bulletin 2013 Q3.
+Forbes, K. (2017), “A MONIAC (not maniac) economy,” speech given during a regional visit to Leeds.
+Fromm, G. and Klein, L. (1965). “The Brookings-S.S.R.C. Quarterly Econometric Model of the United
+States: Model Properties.” American Economic Review, Volume 55, No 1/2, pp 348-361.
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+21
+
+Gabaix, X. (2014), “A Sparsity-Based Model of Bounded Rationality,” The Quarterly Journal of Economics,
+Volume 129, Issue 4, pp. 1661-1710.
+Giles, C. (2017), “Central bankers face a crisis of confidence as models fail,” Financial Times, available at
+https://www.ft.com/content/333b3406-acd5-11e7-beba-5521c713abf4.
+Gornemann, N., Kuester, K. and Nakajima, M. (2014), “Doves for the Rich, Hawks for the Poor?
+Distributional Consequences of Monetary Policy,” Discussion paper, Federal Reserve Bank of Philadelphia.
+Haldane, A. (2017), “A Little More Conversation A Little Less Action,” speech given at the Federal Reserve
+Bank of San Francisco.
+Haldane, A. (2018), “How Monetary Policy Affects Your GDP,” speech given at the Finch Lecture, University
+of Melbourne.
+Haldane, A. (2018), “Will big data keep its promise?” speech given at the Data Analytics for Finance and
+Macro Research Centre, King’s College Business School.
+Harrison R., Nikolov K., Quinn M., Ramsay G., Scott, A. and Thomas, R. (2005), “The Bank of England
+Quarterly Model,” Bank of England.
+Hicks, J. R. (1937), "Mr. Keynes and the Classics: A Suggested Interpretation," Econometrica, Volume 5,
+No. 2, pp. 147-59.
+Huggett, M. (1993), “The risk-free rate in heterogeneous-agent-incomplete-insurance economies,” Journal of
+Economic Dynamics and Control, Volume 17, Issue 5-6, pp. 953-969.
+Ilut, C.L. and Schneider, M. (2014), “Ambiguous Business Cycles,” American Economic Review, Volume
+104, No. 8, pp. 2368-2399.
+Kahneman, D. and Tversky A. (1979), “Prospect Theory: An Analysis of Decision under Risk,”
+Econometrica, Volume 47, No. 2, pp/ 263-292.
+Kaplan, G., Moll, B. and Violante G. (2018), “Monetary Policy According to HANK,” American Economic
+Review, Volume 108, No. 3 pp. 697-743.
+Keyens, J.M. (1936), The General Theory of Employment, Interest and Money, New York: Harcourt, Brace &
+World.
+Korinek, A. (2017), “Thoughts on DSGE Macroeconomics: Matching the Moment, But Missing the Point?”
+Working paper.
+Korzybski, A. (1933), Science and Sanity: An Introduction to Non-Aristotelian Systems and General
+Semantics, The International Non-Aristotelian Library Pub. Co.
+Krugman, P. (2006), “Introduction to the ‘General Theory of Employment, Interest and Money’” Palgrave
+Macmillan.
+Krugman, P. (2011), “Mr. Keynes and the Moderns,” speech prepared for the Cambridge conference
+commemorating the 75th anniversary of the publication of The General Theory of Employment, Interest, and
+Money.
+Krusell, P. and Smith, A. (1998), “Income and Wealth Heterogeneity in the Macroeconomy,” Journal of
+Political Economy, Volume 106, No. 5, pp. 867-896.
+Kydland, F. and Prescott, E. (1982), “Time to build and aggregate fluctuations,” Econometrica Volume 50,
+No. 6, pp. 1345-1370.
+
+22
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+22
+
+Kyle, A.S. (1985), “Continuous Auctions and Insider Trading,” Econometrica, Vol. 53, No. 6, pp. 1315-1335.
+Lorenzoni, G. (2009), "A Theory of Demand Shocks," American Economic Review, Volume 99, No. 5, pp.
+2050-84.
+Lucas, R. (1976), “Econometric Policy Evaluation: A Critique,” Carnegie-Rochester Conference Series on
+Public Policy 1, 19-46.
+Mankiw, G. and Reis, R. (2002), “Sticky Information versus Sticky Prices: A Proposal to Replace the New
+Keynesian Phillips Curve,” The Quarterly Journal of Economics, Volume 117, Issue 4, pp. 1295-1328.
+Masolo, R. and Monti F. (2017), “Ambiguity, Monetary Policy and Trend Inflation,” Centre for
+Macroeconomics Woking Paper.
+McLeay, M. and Tenreyro, S. (2018), “Optimal Inflation and the Identification of the Phillips Curve,”
+Discussion paper.
+Nimark, K. (2008), “Dynamic pricing and imperfect common knowledge,” Journal of Monetary Economics,
+Issue 2, pp. 365-382.
+Olivei, G. and Tenreyro, S. (2007), “The Timing of Monetary Policy Shocks,” American Economic Review,
+Volume 97, pp. 636-663.
+Olivei, G. and Tenreyro, S. (2010), “Wage-Setting Patterns and Monetary Policy: International Evidence,”
+Journal of Monetary Economics, Volume 57, Issue 7, pp. 785-802.
+Pagan, A. (2003), “Report on modelling and forecasting at the Bank of England,” Quarterly Bulletin, Volume
+43, No. 1, pp. 60-89.
+Patterson, K.D., Harnett, I.R., Robinson, G.N. and Ryding, J. (1987), “The Bank of England Quarterly
+Model of the UK Economy”, Economic Modelling, Volume 4, pp. 398-629.
+Ravn, M. and Sterk, V. (2017), “Job uncertainty and deep recessions,” Journal of Monetary Economics,
+Volume 90, pp. 125-141.
+Robinson, J. (1962), Essays in the Theory of Economic Growth, Palgrave Macmillan.
+Romer, C. and Romer, D. (2004), “A New Measure of Monetary Shocks: Derivation and Implications,”
+American Economic Review, Volume 94, No. 4, pp. 1055-1084.
+Romer, P. (2016), “The trouble with macroeconomics,” The American Economist, forthcoming
+Shafik, M. (2017a), “In experts we trust?” speech given at the Oxford Union.
+Shafik, M. (2017b), “Experts must fight back,” Times Higher Education.
+Sims, C. (2003), “Implications of rational inattention,” Journal of Monetary Economics, Volume 50, Issue 3,
+pp. 665-690.
+Smets, F. and Wouters, R. (2007), “Shocks and Frictions in US Business Cycles: A Bayesian DSGE
+Approach,” American Economic Review, Volume 97, No. 3, pp. 586-606.
+Sterk, V. and Tenreyro, S. (2016), “The Transmission of Monetary Policy through Redistribution and
+Durable Purchases,” Discussion paper.
+Tenreyro, S. and Thwaites, G. (2016), “Pushing on a String: US Monetary Policy is Less Powerful in
+Recessions,” American Economic Journal: Macroeconomics, Volume 8, Number 4, pp. 43-74.
+
+23
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+23
+
+Vines, D. and Wills, S. (2018), “The rebuilding macroeconomic theory project: an analytical assessment,”
+Oxford Review of Economic Policy, Volume 34, Issue 1-2, 5 January 2018, Pages 1-42.
+Vlieghe, G. (2017), “Good policy vs accurate forecasts,” speech given at the Bloomberg Headquarters,
+London.
+Vlieghe, G. (2018), “From asymmetry to symmetry: changing risks to the economic outlook,” speech given at
+the Confederation of British Industry, Birmingham.
+Weale, M. (2016), “Brexit and Monetary Policy,” speech given at the Resolution Foundation.
+Wong, A. (2016), “Population Aging and the Transmission of Monetary Policy to Consumption,” Working
+Paper, Northwestern University.
+Woodford, M. (1999), “Revolution and Evolution in Twentieth-Century Macroeconomics,” Frontiers of the
+Mind in the Twenty-First Century, U.S. Library of Congress, Washington D.C..
+Woodford, M. (2001), “Imperfect Common Knowledge and the Effects of Monetary Policy,” NBER Working
+Paper No. 8673.
+Yellen, J. (2016), “Macroeconomic Research After the Crisis,” speech given at the "The Elusive 'Great'
+Recovery: Causes and Implications for Future Business Cycle Dynamics" 60th annual economic conference
+sponsored by the Federal Reserve
+
+24
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+24
+
+

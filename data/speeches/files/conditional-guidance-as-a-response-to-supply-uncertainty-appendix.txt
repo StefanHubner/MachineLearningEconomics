@@ -1,0 +1,436 @@
+Conditional guidance as a response to supply uncertainty
+Appendix to the speech given by
+Ben Broadbent, External Member of the Monetary Policy Committee, Bank of England
+
+At the London Business School, Regents Park
+Monday 23 September 2013
+
+I would like to thank Alina Barnett, Adrian Chiu and David Barkshire for research assistance, and I am
+also grateful for helpful comments from other colleagues, especially Spencer Dale, Gabor Pinter,
+Matt Waldron and Martin Weale. The views expressed are my own and do not necessarily reflect
+those of the Bank of England or other members of the Monetary Policy Committee.
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+This technical appendix goes through the details of three points in the main body of the speech: the extent
+to which flexible pay can account for the productivity shortfall; why (and how) the behaviour of relative prices
+tells you about losses due to slow reallocation of resources (specifically capital); the sensitivity of optimal
+policy to unemployment and output growth when both are noisy indicators of the “output gap”.
+Flexible pay and productivity
+The point that productivity is more cyclical when real pay is flexible can be represented with a simple labour
+demand and supply diagram. For the demand side suppose there’s a representative firm that uses CES
+production with an elasticity of substitution σ. For given output y and a real product wage w its demand for
+labour is l = y – (1-σ)a – σw, where a is TFP and all the variables are in logs. Thus, along any given demand
+curve, (log) labour productivity is y – l = σw + (1-σ)a.
+Lower output shifts this demand curve to the left.
+This might be caused by shift in TFP (the “a” term),
+which will itself lower output. But it’s also possible
+that y falls independently of a, thanks to a pure
+demand shock. The Chart represents such a shift
+and compares two cases: one with a relatively flat
+labour supply curve (inflexible pay), one where it’s
+steep (flexible pay). In the second case, real pay w
+will fall further and measured productivity, even for
+given TFP, will be lower. The size of the difference is
+σΔw, where Δw is the extent to which real wages are
+lower than they otherwise would have been.
+While they don’t give a precise estimate, Pessoa and Van Reenen (2013) say that real pay has become
+more flexible since earlier recessions, and is up to 2% weaker (all else equal) as a result. They then assume
+σ = 1 (Cobb-Douglas production) and conclude that flexible pay can account for 2% of the measured drop in
+productivity, relative to past downturns.
+My own view is that the effect is smaller. First, a reasonable estimate for the UK suggests σ is around onehalf, not one (see, for example, Ellis and Price (2003)). Second, it’s not clear that real wages are, in fact, that
+much lower, given the rate of unemployment, than one might have expected prior to the downturn (see Chart
+6 in Broadbent (2012(b)). Third, the maintained hypothesis here is that the entire decline in output is, by
+assumption, the result of lower aggregate demand, rather than a shift in effective supply (the a term). In
+other words it’s possible that as much as 1% point of the productivity shortfall is the result of more flexible
+pay and a purely demand-driven downturn (σ times the 2% difference in real wages). But it could also be
+that the drop in output and wages are themselves the consequences of a drop in effective supply (the a
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+term). Especially if you regard the Δw = 2% figure as a little high, the 1% implied hit to productivity should be
+as a ceiling, not a central estimate.
+Reallocation, lost productivity and the variance of prices
+Imagine a firm that uses inputs K and L to produce
+Suppose we increase its employment by
+
+and that the price of its output is
+
+.
+
+, holding fixed the other input K. Then the (base-weighted) value
+
+of its output will change by
+∫
+
+(1)
+
+where a zero superscript indicates the starting value and
+
+the marginal product of labour. We want to think
+∑
+
+about what happens to the change in aggregate output
+
+when shifts in relative demand are met
+
+by changes in labour alone. In doing so we assume there is a fixed supply of labour in aggregate (call it L)
+and that the labour market clears. The first condition means ∑
+
+. The second means there a common
+
+wage w, across all sectors, and that firms are on their labour demand curve
+(2)
+To work out the effect of a reallocation of labour on aggregate output note that the first-order approximation
+to the integral in (1) is
+[
+
+∫
+
+]
+
+(3)
+
+where the last term follows from (2). So, aggregating (1) and substituting from (3), the proportionate change
+in productivity is
+∑ [
+
+]
+
+(
+
+)
+
+(4)
+
+where α is the share of wages in national income (wL/Y) and λi is employment in sector i relative to the
+average. Note that, of the three terms in square brackets, the first two aggregate to zero because the wage
+(and its change) are common to all sectors, so can be taken out of the summation, and we have restricted
+∑
+
+.
+
+The share of wages in GDP is roughly two-thirds. So this relationship says the loss in productivity is (to a
+first-order approximation) one third the cross-sectoral covariance between inflation and size-weighted
+employment growth.
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+Further approximating the relationship between price and employment growth from (2), and using σ as the
+elasticity of substitution between capital and labour in sector i, and
+
+as the share of labour income in that
+
+sector, one can re-express this in terms of prices alone:
+(
+
+where
+
+)
+
+(√
+
+and
+
+)
+
+(5)
+
+is the same quantity for the economy as a whole. Empirical estimates suggest
+
+that whole-economy σ is around a half and α two-thirds. On that basis αμ is one and the loss of productivity
+will be around one half the cross-sectoral variance of (μ-weighted) inflation. This is the relationship we used
+in the main text.
+A few more points:
+First, if their derivation is a bit fiddly the intuition behind these relationships is relatively straightforward: if
+sectors where demand and employment grow (shrink) also see price increases (falls) – i.e. the sectoral
+supply curves slope upwards – then we know that marginal costs (
+
+) have become dispersed and
+
+aggregate productivity is lower as a result.
+Second, other than the assumption that labour demand curves are well defined, there are no restrictions
+here on production functions: they don’t need to be the same in all sectors, nor even do they need to exhibit
+constant returns to scale (CRS). But: if there are constant returns, and if capital too is mobile, then relative
+prices don’t change in response to demand shocks (relative supply curves are flat) and productivity is
+invariant to shifts in relative demand.
+To see this note that CRS means we can write marginal products in any sector i solely in terms of the
+capital:labour ratio (call that
+): defining the function g as
+, we have
+,
+and
+
+. So, under full factor mobility, and for given factor prices r and w, the two
+
+first-order conditions for optimal employment of labour
+to solve for the two variables
+
+and
+
+: the scale of production
+
+) and capital
+
+are enough
+
+doesn’t matter for prices.
+
+Third, note that I’ve assumed throughout that the production functions are constant: all we’re doing is
+simulating pure (cross-sectoral) demand shocks, and the formula for lost productivity (roughly one half the
+cross-sectoral variance of prices) depends on this assumption. But if there were such things as TFP shocks,
+at a sectoral level, these would obviously have effects on relative prices too. By the same token they would
+also have a (more direct) impact on aggregate TFP.
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+Extracting a signal about the output gap from noisy growth, unemployment
+We begin with a general result due to Svensson and Woodford (2002). They analyse how optimal policy, in a
+general linear model of the economy, with quadratic preferences, is affected by incomplete information about
+economically relevant variables, in particular the “output gap”. They demonstrate that the sensitivity of policy
+to the estimate of the output gap is invariant to its degree of accuracy. Specifically, suppose that, when you
+know the output gap x with complete certainty, optimal policy involves some reaction function akin to a Taylor
+rule:
+
+If you then introduce some noise into the observation of x, the optimal policy is just
+̂
+where ̂ is the best possible estimate of the output gap. Everything else, including the sensitivity parameter
+β, is the same as in the complete-information case. This means the relative sensitivities of optimal policy to
+employment and output growth are the same as in the formula for ̂.
+We now turn, in a particular (and very simple) setting, to what that “signal extraction” formula looks like. The
+economy has an output gap x subject to persistent demand shocks d, unemployment u that depends on a
+distributed lag of x and a white-noise disturbance u*, and output growth that’s (by definition) a combination of
+changes in the output gap and an underlying supply shock, also assumed to be white noise, Δs (Δ denotes
+the change in a variable so s itself is a random walk). Thus:
+(1)
+(2)
+(3)
+The standard deviations of the variances of the three shocks are σd, σu and σs respectively. We observe Δy
+and u. Our task is to find the best possible estimate of x.
+The easiest way to do this is to re-express (1)-(3) in state space form and use a Kalman filter. So the state
+variables are x and its lagged value and evolve according to the state equation
+[
+
+]
+
+[
+
+][
+
+]
+
+[ ]
+
+(1)’
+
+The observed variables growth and unemployment are given by the measurement equation.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+[
+
+]
+
+[
+
+][
+
+]
+
+[
+
+]
+
+(2)’
+
+The assumed parameter values are derived from simple regression estimates on quarterly UK data:
+,
+
+,
+
+,
+
+,
+
+,
+
+. We then solve the problem numerically. What drops out is an
+
+updating rule for the estimated output gap:
+̂
+
+̂
+
+Δ
+
+Δ̂
+
+̂ ,
+
+where Δ ̂ and ̂ are prior expectations of growth and unemployment respectively. Chart 9 in the main text
+(reproduced below) plots the values of the κ coefficients as you vary σ s.
+Kalman gain
+
+Note that these coefficients depend on other
+
+0.9
+
+Unemployment
+
+parameters in the model. In particular, the weight
+
+Output
+
+on unemployment rises, relative to that on output if
+either (i) demand shocks are more persistent
+
+0.6
+
+(higher α) and/or (ii) the sooner unemployment
+reacts to demand (γ1 rises relative to γ2) – see the
+0.3
+
+graphs below. The intuition for (i) is that, if demand
+shocks are more persistent, so are any policy errors
+one makes by (wrongly) reacting to a supply shock
+
+0
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+Standard deviation of supply relative to that of demand
+
+Δs. So the weight on output falls. And the sooner
+the one reacts to the other, the better
+unemployment serves as an indicator of the output
+gap.
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+Sensitivity analysis
+Sensitivity of the relative gain to changes in α
+
+Sensitivity of the relative gain to changes in γ2/γ1
+Relative Kalman gain (ku/ky )
+
+Relative Kalman gain (k u/k y)
+
+3.5
+
+2.5
+
+3
+
+2
+
+α increases
+from 0.1 to 1
+
+1.5
+
+γ2/γ1
+increases
+from 2 to
+10
+
+2.5
+
+2
+1.5
+
+1
+
+1
+
+0.5
+
+0.5
+0
+
+0
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+Standard deviation of supply relative to that of demand
+Note: Red line indicates the base-line simulation gain when
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+Standard deviation of supply relative to that of demand
+Note: Red line indicates the base-line simulation gain when
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+References
+Broadbent, B., 2012(b), “Productivity and the allocation of resources”, Speech given at Durham Business
+School available at http://www.bankofengland.co.uk/publications/Documents/speeches/2012/speech599.pdf
+Ellis, C. and S. Price, 2003, “UK business investment: long-run elasticities and short-run dynamics”, Bank of
+England Working Paper Series no. 196
+Pessoa, J.P and J Van Reenen, 2013, “The UK productivity and jobs puzzle: does the answer lie in the
+labour market flexibility?”, CEP working paper.
+Lippi, F, 2003, “Monetary policy with unobserved potential output”, BIS working paper no. 19.
+Svensson, L. and M. Woodford, 2000, “ Indicator variables for optimal policy”, European Central Bank,
+Working Paper Series no 0012.
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+

@@ -1,0 +1,370 @@
+Lessons from the pandemic: Has the simpler post-2008
+financial system held up? And where do we go from here?
+Speech given by
+Christina Segal-Knowles
+Executive Director
+Financial Market Infrastructure Directorate
+
+Official Monetary and Financial Institutions Forum
+29 January 2021
+
+I am grateful to Stephanie Haffner, Paul Brione, Pavel Chichkanov, Sarah Crowley, Harpal Hungin,
+and Barry King for their help in preparing these remarks. I am also grateful to David Bailey,
+Paul Bedford, Lee Foulger, Andrew Hauser, Matt Roberts-Sklar, Nick Jackson and Gerardo Ferrara
+for their helpful comments
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+The topic of my talk today is lessons we can draw from the market turbulence we saw in March and April
+2020.
+But before we get there I want to talk about an earlier crisis.
+Let’s rewind to 2008. On September 15th, Lehman brothers collapsed taking with it one side of $35 trillion in
+derivatives contracts. Most of these derivatives were bilateral contracts – a spaghetti bowl of
+interconnectedness. As Lehman collapsed and others teetered near the edge, no one knew who was
+holding the bag.
+
+The result was panic, which, as explained by Ben Bernanke, may have been a key driver of the severity of
+the Great Recession. Its early stages would have been significantly less severe without the confidence
+collapse on Wall Street.1
+
+1. Simpler
+Now let’s fast forward to 2020.
+
+Pandemic. Economic crisis. Market turbulence. But no panic in the banking system.
+
+There were a number of reasons. Banks were stronger. In the UK they were three times better capitalized
+than at end 2008. And to be clear –very significant government support and central bank interventions were
+required. I’ll come back to this later.
+
+But there is one other reason for the missing panic that I want to focus in on.
+
+After the 2008 global financial crisis, the G20 put in place reforms designed to make the global financial
+system simpler - to untangle the spaghetti bowl of bilateral derivatives trades that had fed the 2008 panic.2
+They incentivised - and for many products mandated - central clearing of derivative trades. Global clearing
+has as a result, grown significantly in the past decade. Today, about 60% of credit default swaps are cleared,
+as well as 80% of interest rate contracts, up from about 10% and 40% respectively in 2008.3
+
+This brought greater stability to derivative markets by ensuring that if a major financial institution were to
+collapse, you needn’t worry about a domino effect – with the failing firm’s derivatives contracts potentially
+threatening the viability of any number of other firms.4
+1
+
+Ben Bernanke, Op-Ed at Brookings Institution, 13 September 2018
+G20 Leaders’ Statement Pittsburgh Summit, September 2009.
+3
+Bank of International Settlements Statistical Release, November 2020
+4
+Although it’s not my focus today, reforms to bilateral derivatives trading have also helped to reduce the chance that bilateral contracts
+fuel a panic.
+2
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+One of the key ways central clearing counterparties – CCPs – help prevent panic is to be sure that as
+markets move, firms quickly pay for changes to their derivatives contracts, and insure against likely further
+changes.
+
+First, when derivatives contracts change value, the holders of those contracts exchange money right away.
+Losses and gains are promptly allocated to the firms on either side of the trade. This limits the chance that,
+if one side of the trade defaults, the other firm is left holding the bag for the defaulter’s bad trades. This is
+called variation margin.
+
+Second, CCPs require firms to place pre-paid self-insurance with the CCP to cover the predicted liquidation
+costs in the event of their default. Because derivatives markets can be fast moving, a key factor in how large
+this self-insurance needs to be is how volatile the markets are. This is known as initial margin.
+
+Importantly in times of market turbulence, both losses and gains of individual participants and required
+pre-paid self-insurance will rise. They are inherently pro-cyclical. As Deputy Governor Jon Cunliffe said last
+summer, this is a feature, not a bug.5
+
+So did the simpler, post 2008- system work?
+
+In March and April 2020, we saw some of the biggest two-day price moves for some cleared products in the
+past decade. In a number of products the price moves were much larger than ever seen before.
+
+There were no major clearing member defaults during the pandemic, so clearing was not tested to the limit.
+
+But UK CCPs were able to provide clearing services without disruption. And, importantly, despite record
+market moves, UK CCPs had enough prepositioned resources throughout the episode to cover the
+
+5
+
+Speech by Jon Cunliffe, Financial System Resilience: Lessons from a real stress, 9 June 2020.
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+simultaneous default of the two largest banks that use them. In other words, CCPs had enough resources at
+all times to cover two defaults of institutions like Lehman.
+
+Evidence from March and April suggests that, when it comes to preventing panic driven by opaque and
+complicated interlinkages of exposures, the simpler system is working. There were unprecedented
+market moves. But no spaghetti bowl. No widespread panic about who had exposures to whom, and
+whether they could pay.
+
+There’s a catch of course. As we think about where we go from here, we will also need to look at CCPs’ role
+in the performance of system as a whole. Indeed one of the key lessons of the 2008 financial crisis was that
+feedback loops and interlinkages mean the system is not the sum of its parts.6 I will come back to this.
+
+2. Global
+
+As we turn to that bigger question, however, we should not lose sight of the fact that the reforms we put in
+place to make the system simpler served their intended purpose.
+
+The question now is how to sustain and strengthen this new simpler system. I have two answers:
+
+First of all, keeping the spaghetti bowl untangled means global infrastructure. The deep pools of
+liquidity that make central clearing economical don’t correspond to national borders.
+
+Derivatives clearing is a global service. UK CCPs clear global markets for interest rates, foreign exchange,
+credit default swaps, and commodities. Foreign clearing members make up 63% of the clearing members at
+
+6
+
+Speech by Alex Brazier. How to: MACROPRU. 5 principles for macroprudential policy. 13 February 2017.
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+UK CCPs. At the end of 2020 there were £60 trillion of derivative contracts between UK CCPs and EU
+clearing members, and £66 trillion between UK CCPs and US clearing members.7
+
+The growth of global infrastructure that spans national borders is a direct result of the reforms we put in place
+after 2008 – again a feature not a bug.
+
+This cross-border nature of clearing means that there must be a consistent approach for the regulation and
+supervision of cross-border CCPs. The Principles for Financial Market Infrastructure, issued in 2012, provide
+that foundation.
+
+It also means that regulators and supervisors must do something difficult and for some, radical: we need to
+trust each other.
+
+This trust should not be blind. As a supervisor and regulator, I have a duty to households and businesses in
+the UK to preserve financial stability – to protect the UK economy from disruption. So I need to know on an
+ongoing basis that large CCPs on which the UK financial system relies are robustly regulated and
+supervised. But that should not necessarily mean I have to do the supervision of non-UK CCPs myself.
+Indeed if every host authority supervised every CCP that offers services to its banks and other financial
+institutions it would be untenable. We cannot have 21 different regulators’ hands on the steering wheel
+when it comes to critical cross-border infrastructure. That would hardly be a good result for financial stability
+- especially in a crisis, where clear and quick decision-making is critical.
+The solution is proportionate and informed reliance.8 Informed reliance means that, with sufficient
+information and a deep cooperative relationship with the home supervisor, I can defer to them to ensure that
+a CCP is as safe to operate in UK as those I regulate and supervise directly. Proportionate means that for
+cross-border CCPs that are very important to the UK financial system, I will need more information and even
+
+7
+8
+
+BoE calculations.
+Principles for Financial Market Infrastructure Responsibility E on Cooperation.
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+deeper cooperation – and in the event that we are unable to secure this, I may need to resort to supervising
+the CCP directly.
+This approach is underpinned by the 2013 G20 declaration which emphasizes the importance of regulators
+deferring to one another when justified by the quality of the regulatory and enforcement regimes.9 It is also
+exemplified in our ongoing cooperation with the US CFTC, which we enshrined in a revamped MOU last
+year.
+
+In the UK, we are in the process of designing our approach to our new onshored legal framework for
+incoming CCPs – known as UK EMIR 2.2. As we do this, we’ll be looking to ensure proportionate and
+informed reliance is at the heart of our approach.
+
+3. Ahead of the curve
+
+My second recommendation for how to sustain the simpler system: keep it under review. Since 2008, the
+financial system has evolved. Reforms have been implemented; innovation, preferences, and changes in our
+economies have reshaped financial markets. In particular the role of non-banks has grown. We need to be
+on the lookout for new fault lines.
+
+The market stress we saw in March and April offers the potential to glimpse of where these fault lines might
+be – a real life stress test.
+
+One of those fault lines may have come into view in March.
+
+Sharp moves in asset prices catalysed the
+
+sudden and sharp redistribution of liquidity around the system. Market participants were racing to get their
+hands on cash – and in particular US dollars. This led to a period of severe market dysfunction, spreading
+even to advanced economy government bond markets.
+
+9
+
+G20 Leaders’ Declaration, St. Petersburg Declaration, 6 September 2013.
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+Central banks stepped in to restore market stability in a big way, carrying out lending operations and asset
+purchases to limit wider economic consequences. G10 central bank balance sheets have risen by $8 trillion,
+or 16% of G10 GDP since March 2020.10 The good news is that extraordinary central bank action succeeded
+in restoring stability.
+
+But to conclude “all’s well that ends well” in this case would be the equivalent of someone who had an
+electrical fire in their home after a power surge deciding not to bother to look at the wiring because the fire
+department arrived quickly and managed to put the fire out without too much damage. We need to open up
+the walls.
+
+So what does this have to do with central clearing?
+You’ll recall earlier I spoke about margin - variation margin (the losses and gains of individual participants)
+and initial margin (pre-paid self-insurance).
+
+Well in March, UK CCP margin calls grew significantly in response to high levels of market volatility. At their
+March peak, daily variation margin calls by UK CCPs were over 5 times higher than their average, at around
+£30bn. And their initial margin requirements grew by over 30%.11 This is not particularly surprising – as I said
+earlier, one would expect CCP margin to jump in such a dramatic market stress.
+
+10
+
+Speech by Andrew Hauser, From Lender of Last Resort to Market Maker of Last Resort via
+the dash for cash: why central banks need new tools for dealing with market dysfunction, 7 January 2021.
+11
+Bank of England calculations.
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+But it also undoubtedly contributed to the liquidity stress some participants faced. At least some of those
+scrambling to get their hands on US dollars may have been doing so in order to meet their obligations at
+CCPs
+.
+As a priority for 2021, the Financial Stability Board (FSB) is looking at the role of margin in this episode, as
+part of its broader work plan to strengthen the resilience of non-bank financial intermediation.12 The Bank is
+closely involved.
+This is crucial work – we need to understand the role margin played as part of any thorough look behind the
+walls.
+
+This means we will need to look beyond aggregate numbers and build up a full and detailed picture to
+assess what role CCP margin played
+
+For example:
+
+
+We need to look at why all CCPs turned out not to be created equal. What drove variation across
+firms and are there any lessons learned.
+
+12
+
+FSB Holistic Review of the March Market Turmoil, 17 November 2020.
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+
+
+We need to distinguish between variation margin and initial margin. Variation margin flows -which
+simply reflect losses and gains in the underlying markets were in many cases much larger than the
+increases in initial margin controlled by CCPs’ own models.
+
+
+
+We need to go more granular than quarterly data to understand the speed of margin increases over
+that crucial period in mid-March.
+
+
+
+We also need to understand how much of the headline increase in initial margin resulted from
+members simply trading more. Our analysis suggests this varied widely across UK CCPs and over
+the crisis period. We already know that changing portfolios don’t tell the whole story. For almost all
+services, volume accounted for well less than half of CCP initial margin increases over March as a
+whole, with CCP models a much more important driver.13
+
+
+
+Finally, to really get into the walls of the dash for cash, we need to look beyond service-level
+aggregates to understand if particular groups of firms saw their margins increase more than across
+the service as a whole.
+
+13
+
+Bank of England calculations.
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+But even as we delve into margin data, we need to keep in mind that the increase in margin is only one piece
+of the puzzle. What matters is that the system as a whole has the right level of liquidity to cope with
+volatility in derivatives markets in a stress and that liquidity is in the right place
+
+We need to understand which market participants were caught flat-footed and why.
+
+Thanks to post- 2008 liquidity reforms, banks seemed able to handle the liquidity pressures they faced in
+March, including from margin calls. But non-banks such insurers, pension funds, hedge funds and asset
+managers have grown in importance over the past decade - we need to examine how well prepared they
+were to face the liquidity demands around margins.
+It’s too early to reach policy conclusions. But to preview the options in front of us:
+It’s possible we’ll want to explore solutions that could reduce the need for CCP margin to rise as much in
+stress by pre-positioning more liquidity at CCPs during quiet periods. It’s possible we could accomplish this
+by spreading existing good practices in CCP model design. It’s equally possible we’ll want to focus on better
+liquidity risk management, particularly for non-banks. This could make sure market participants self-insure
+against margin calls on their own balance sheets – rather than pre-positioning initial margin at the CCP.
+Improving transparency around potential margin calls could help support this.
+It’s possible that we’ll want to do some of both.
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+The right balance of policy responses will depend on what evidence we find. To be clear, the question here
+is not about whether CCP margin is to “blame” for the dash-for-cash. The question is did the system have
+enough liquidity ready in the right places to respond to derivative market volatility without adverse
+consequences for financial stability.
+
+Whatever we conclude, our policy response will need to take into account the whole story- including the
+essential role that margin played in preventing panic. We don’t want to return to the pre-Lehman world of a
+spaghetti bowl of counterparty credit risk.
+
+4. Conclusion
+
+So going back to my original questions.
+
+First, what has the experience of March and April told us about the reforms we put in place post-2008 to
+make the global financial system simpler?
+
+A: The headline answer is: It worked. When it comes to the crucial goal of preventing panic fuelled by a
+spaghetti bowl of bilateral derivatives exposures, the new system held up despite unprecedented stress.
+Second, where do we go from here?
+
+A: I have two recommendations:
+
+First, we need global regulatory cooperation in order to avoid reverting to fragmentation and spaghetti. Trust
+based on proportionate, informed reliance.
+
+Second, if we want the simpler system to keep working, global regulators need to stay ahead of the curve
+and keep the system under review.
+
+We cannot ignore the fire the financial system experienced in March and April last year just because central
+banks did a good job putting it out. We need to look behind the walls and address any faults in the wiring.
+Fortunately the FSB – working with the Committee on Payments and Market Infrastructure (CPMI) and the
+International Organization of Securities Commissions (IOSCO) are doing just that.
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+

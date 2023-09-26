@@ -1,0 +1,1934 @@
+The Grand Unifying Theory (and practice) of Macroprudential
+Policy
+Speech given by
+Mark Carney
+Governor of the Bank of England
+
+Logan Hall, University College London
+5 March 2020
+
+I would like to thank Daisy McGregor, Nicola Anderson, David Aikman, Caspar Siegert and Victoria
+Monro for assistance in preparing these remarks and Wayne Chapman, Kate Stratford, Jon Bridges,
+Matt Waldron, Cian O’Neil and Alina Barnett for their research and analysis.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+I.
+
+Introduction
+
+Economists suffer from physics envy.
+We covet its neat equations and crave its deterministic systems.
+This inevitably leads to disappointment.
+The economy isn’t deterministic. People aren’t always rational. Human creativity, frailty, exuberance and
+pessimism all contribute to economic and financial cycles.
+As the great physicist, Sir Isaac Newton, lamented, “I can calculate the motions of celestial bodies, but not
+the madness of people.”
+Newton’s exasperation came after he had lost a fortune investing in the South Sea company, or, with the
+wisdom of hindsight - after he had speculated on a bubble.
+Just as people can go from rational to “mad” in a boom, theoretical physics itself isn’t quite as neat as
+Newton had thought, for it has been discovered that Newtonian mechanics break down at the subatomic
+level.
+But physicists are not easily daunted. Their hottest fields, such as String Theory, are part of a quest for a
+theory that unifies Newton and the neutron—a Grand Unifying Theory of Everything that Matters. One that
+can explain the motions of both heavenly bodies and subatomic particles.
+I am on a similar quest this evening. My topic is one of the hottest fields in economic policy—
+macroprudential policy. A field that has something in common with Newton, for part of the responsibilities of
+macroprudential policy is to protect the economy from the madness of people.
+Macroprudential policy is as core to the responsibilities of central banks as their much better known twin,
+monetary policy. Both are fundamental to the value of money.
+The relative simplicity of the monetary policy objective and the relatively focused arsenal of monetary
+policymakers improve the likelihood that agents in the economy can understand the MPC’s reaction function
+and anticipate its actions, making its job of achieving price stability somewhat easier. 1
+This evening I would like to improve the understanding of the FPC’s reaction function by placing its
+objectives and policies in a more consistent theoretical framework. A common framework can better explain
+seemingly disparate macroprudential policies and can guide future policy actions. This will be important if,
+as has happened all too frequently in the past, either a prolonged period of growth or the emergence of new
+
+See ‘Guidance, Contingencies and Brexit’, speech by Mark Carney given at the Society of Professional Economists, 24
+May 2018.
+1
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+2
+
+era thinking threaten to take financial stability for granted once again, thereby sowing the seeds of a future
+crisis.
+
+II.
+
+The Triumph (and Tragedy) of Monetary Policy
+
+Newton famously and humbly observed, “If I have seen farther, it is by standing on the shoulders of Giants.”
+So too it is with macroprudential policy, a framework that owes a great debt to insights and initiatives of my
+predecessor, Lord King.
+The UK’s macroprudential policy framework today stands on the shoulder of the UK’s monetary policy
+framework first set up in 1998.
+In the UK, from 1971 to 1992, inflation was high - averaging 9%, and volatile, with a standard deviation of
+5.4%. This distorted price signals, inhibited investment, damaged the productive potential of the economy,
+and hurt those least well-off. It contributed to high and volatile unemployment, which averaged 7.8% with a
+standard deviation of 2.8%.
+Although the value of low and stable inflation was widely recognised, delivering it proved challenging.
+This was because the instrument that affects inflation most powerfully – monetary policy – also affects output
+and employment, at least in the short run. This tempted authorities, influenced by governments, to promise
+low inflation in the future, but then to renege in order to boost activity. Electoral cycles reinforced this
+predisposition. Firms and households began to anticipate these incentives, and eventually pre-empt them.
+This time inconsistency was resolved by first having society choose the preferred rate of inflation, and then
+delegating operational responsibility to the monetary authority to take the necessary monetary actions to
+achieve that objective. By “tying the hands” of authorities, better outcomes for both inflation and
+unemployment became possible.
+The Bank of England Act in 1998 represented the most comprehensive adoption of these insights. The Act
+clarified the Bank’s responsibilities, encoded in the MPC’s remit, and granted independence to the Bank for
+the operation of monetary policy. In delegating authority to an independent body, the Act ensured the Bank
+would operate under ‘constrained’ rather than ‘unfettered’ discretion. It would be accountable to Parliament
+for operating the instruments of monetary policy to achieve the objectives of monetary policy, as determined
+by the Government. 2
+
+·
+
+·
+
+·
+
+·
+
+·
+
+The MPC’s current monetary policy remit requires it to achieve price stability, defined by the Government as
+12-month CPI inflation of 2%. This inflation target is symmetric and applies at all times.
+For further information, see ‘Lambda’, speech by Mark Carney given at the London School of Economics, 16 January
+2017, and ‘A Framework for All Seasons?’, speech by Mark Carney given at the Bank of England Research Workshop
+on The Future of Inflation Targeting, 9 January 2020.
+2
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+3
+
+The remit also recognises that inflation may deviate temporarily from the target on account of shocks, and
+since 2013 it explicitly recognises that in these circumstances, bringing inflation back to target too rapidly
+could cause volatility in output and employment that is undesirable. The remit requires the MPC to consider,
+balance and explain such short-run monetary policy trade-offs.
+The manner in which the MPC optimises these trade-offs can be represented in “linear-quadratic” form – a
+set of linear constraints describing the behaviour of the economy, and quadratic preferences that penalise
+deviations of inflation from its target and output from its potential. The relative weight the policymaker places
+on output stabilisation, relative to inflation stabilisation, is often denoted 𝜆 – or ‘lambda’.
+The policymaker’s objective function can be described as the following “loss function”:
+𝐻
+∗
+)2 ]}
+min ℒ𝑡 ≡ 𝐸𝑡 {∑ 𝛽 𝑖 [(𝜋𝑡+𝑖 − 𝜋 ∗ )2 + λ(𝑦𝑡+𝑖 − 𝑦𝑡+𝑖
+
+{𝑟𝑡+𝑖 }𝑇
+𝑖=0
+
+𝑖=𝑜
+
+where 𝜋𝑡 is inflation, 𝜋 ∗ is the inflation target, 𝑦𝑡 is output and 𝑦𝑡∗ is ‘trend’ output, so that 𝑦𝑡 − 𝑦𝑡∗ is
+the output gap, 𝑟𝑡 is the nominal interest rate – the policy instrument, 𝛽 is the discount factor and 𝑡
+subscripts denote time periods. 𝐻 is 3-5 years after which the monetary policy transmission
+mechanism fades.
+The policymaker’s objective is to minimise the discounted sum of losses over time.
+In this formulation, a lambda of zero would imply no weight on the stabilisation of real activity – so-called
+“inflation nutter” preferences. When lambda is positive, the policymaker is willing to strike some trade-off
+between output and inflation stabilisation, as directed by the MPC remit.
+This objective function is optimised subject to the constraints implied by the aggregate behaviour of the
+economy, including the relationship between interest rates and activity; and the relationship between activity
+and inflation – the Phillips curve.
+Under this simple framework, in certain circumstances, the optimal policy balances overshoots of the inflation
+target with shortfalls of activity relative to potential, and vice versa for inflation undershoots. The relative size
+of these two deviations is governed by the strength with which higher output translates into higher inflation;
+and the preferences of the policymaker, or:
+
+λ
+𝜋𝑡 − 𝜋 ∗ = − (𝑦𝑡 − 𝑦𝑡∗ )
+κ
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+4
+
+where κ is the slope of the Philips curve, the effect of the output gap on inflation. 3
+From this, it is clear that the higher is lambda, the greater the weight placed on output stabilisation and the
+more a given shock is allowed to flow through to inflation. As lambda shrinks to zero, the policymaker forces
+all of the adjustment to a shock through the output gap in order to keep inflation very close to the target.
+The slope of the trade-off is also affected by that of the Phillips curve. When the Phillips curve is flatter, a
+given output gap results in a larger inflation over- or under-shoot. Intuitively, a flat Phillips curve raises the
+output costs associated with changing inflation.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Such inflation-targeting frameworks, adopted around the world, have been highly successful. Two decades
+prior to monetary policy independence in the UK, inflation averaged over 6% (Table 1). Since independence,
+it has been close to 2% and one-fifth as volatile. The unemployment rate fell by around 2 percentage points
+in the post-independence period. Its standard deviation was cut in half. And fifteen years of sustained
+economic growth followed.
+Table 1: Inflation lower and less volatile since MPC independence
+Annual
+CPI
+inflation
+
+Inflation
+volatility
+
+Four-quarter
+GDP growth
+
+Four-quarter
+GDP growth
+volatility
+
+Unemployment
+rate
+
+Real
+wage
+growth
+
+Pre-inflation targeting
+(1972-1992)
+
+9.0
+
+5.4
+
+2.2
+
+2.9
+
+7.8
+
+0.8
+
+Start of inflation
+targeting to MPC
+independence
+(1993- 1997Q2)
+
+2.3
+
+0.4
+
+2.9
+
+0.7
+
+9.0
+
+0.3
+
+MPC independence to
+crisis (1997Q3 - 2007)
+
+1.6
+
+0.5
+
+3.0
+
+0.9
+
+5.4
+
+0.7
+
+2008 - end 2012
+
+3.3
+
+1.0
+
+0.0
+
+2.7
+
+7.4
+
+-0.3
+
+2013 - present
+
+1.7
+
+1.0
+
+2.0
+
+0.5
+
+5.2
+
+0.2
+
+However, with time, the initially healthy focus on price stability became a dangerous distraction. Against this
+serene backdrop of “the Great Moderation”, a storm was brewing.
+
+3
+
+This is the time-consistent optimal policy in the textbook New-Keynesian model with purely forward-looking IS and
+Phillips curves. See Clarida, R, Gali, J and Gertler, M (1999), “The Science of Monetary Policy: A New Keynesian
+Perspective”, Journal of Economic Literature, December.
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+5
+
+The changes adopted by many central banks around the world in the late 1990s effectively narrowed their
+focus, reflecting the belief that price stability was the best contribution a central bank could make to
+macroeconomic stability, and by extension to the broader public good.
+Although there were tremendous innovations during this period, this reductionist vision of a central bank’s
+role was structurally flawed.
+In particular, this narrow focus failed to recognise that financial stability is as important an objective of
+macroeconomic policy as price stability.
+Central banks have a vital role in maintaining financial stability because of the deep underlying connection
+between it and monetary stability. Both are fundamentally about maintaining the public trust and confidence
+in money and the financial intermediation that is essential to oil the wheels of commerce. That trust and
+confidence can be undermined through a loss of certainty about the future value of money, a loss of
+confidence in financial intermediaries, or ultimately a loss of faith in the financial system.
+The financial crisis was a powerful reminder of the imperative of financial stability. After years of low and
+stable inflation, it became obvious that central banks had won the war only to lose the peace.
+The costs were enormous. The complete loss of confidence in private finance that occurred in 2008 could
+only be arrested by public support that totalled $15 trillion in bail-outs, government guarantees of bank
+liabilities and special central bank liquidity schemes. In the UK, real wages have just surpassed their 2007
+level. Trust in the system collapsed.
+In the wake of the crisis, the traditional model of central banking was reinstated and modernised.
+In the UK, monetary and financial stability were re-united at the Bank of England when the Chancellor in
+2010 created the Financial Policy Committee (FPC) and granted it responsibility for setting macroprudential
+policy.
+Operating monetary and financial stability functions within the same institution improve information
+synergies, and policy coordination. And it boosts the credibility of each policy function, amplifying their
+effectiveness since each can focus on their comparative advantage - monetary policy on demand
+management and macroprudential policy on systemic stability.
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+6
+
+III.
+
+The Advent of Macroprudential Policy
+
+The raison d’être of macroprudential policy is to ensure the financial system supports the economy.
+That requires the financial system to be strong enough to continue lending to households and businesses
+when economic shocks occur. And it means that macroeconomic downturns are not made worse because of
+unsustainable debt burdens.4
+To accomplish these goals, macroprudential authorities concentrate on systemic risks – that is, those large
+enough to materially impact growth. Such systemic risks fall broadly into two camps: cyclical and structural.
+Cyclical risks are the tendencies for financial conditions to loosen and debt to build up over time when the
+economy strengthens and people become more complacent. This cycle typically starts with a fundamentally
+positive development, such as new markets or a new technology of broad application. The ensuing period of
+prosperity and macroeconomic stability leads borrowers and lenders to make increasingly optimistic
+assumptions about the future such as “house prices can only go up” or “financial innovation has reduced
+risk.” Debt and asset prices build, reinforcing each other for a time.
+The resulting vulnerabilities are only exposed when economic conditions turn. When they do, lenders hastily
+revise their expectations for the future – the “Minsky moment” – and pull back on lending. Borrowers reduce
+spending, or in extremis, default. These responses make the economic downturn much deeper and more
+prolonged.
+Structural risks are systemic risks that do not vary with the cycle. They generally relate to interconnections
+and concentrations within the financial system but can also arise from the structure of financial contracts or
+regulations.
+For example, if financial institutions have a web of exposures to each other, an issue at one institution can
+set off a chain-reaction through the system. Or if several firms are exposed to the same market, problems in
+that market can be amplified because of how these firms react. Risks will also be higher if structurally weak
+investment vehicles, prone to fire sale their assets, play a meaningful role in important markets. And
+structurally deficient market infrastructure increases the complexity and opaqueness of markets, making
+risks harder to identify.
+Over the past decade, a flurry of macroprudential policy actions have been taken to address the fault lines
+that caused the crisis including raising bank capital minima and buffers, introducing liquidity buffers for
+banks, reducing bank interconnectedness and improving their resolvability, targeted restrictions on mortgage
+
+4
+
+Macroprudential policy is distinct from microprudential policy. Microprudential policy concentrates on promoting the
+safety and soundness of individual institutions. Macroprudential policy addresses risks arising from interactions between
+institutions and sectors within the financial system, and interactions between the financial system and the real economy.
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+7
+
+lending, transforming fragile OTC derivative markets, and winding down the toxic forms of shadow banking
+and building up more resilient market-based finance (Chart 1).5
+
+And with these policies have come a flurry of speeches too (Chart 2).
+Chart 1: Increasing use of macroprudential
+meaures over time
+
+Chart 2: Flurry of macroprudential policy speeches
+post-crisis
+
+Use of macroprudential measures over time
+
+Number of speeches
+250
+
+14
+12
+
+200
+
+10
+150
+
+8
+6
+
+100
+
+4
+2
+
+50
+
+0
+1995-2000
+
+2001-06
+AEs
+
+2007-12
+
+2013-18
+
+EMEs
+
+Bars show the average number of macroprudential
+measures per year and per 10 economies in each group
+of economies.
+
+0
+1998 2000 02
+
+04
+
+06
+
+08
+
+10
+
+12
+
+14
+
+16
+
+Sources for both charts: Bank of International Settlements
+
+What do these actions have in common? What guides the choice of macroprudential policy tools
+and their calibration? Is there a unifying framework that articulates success for macroprudential
+policy?
+There are several reasons why defining a unifying framework for macroprudential policy is more complex
+than for monetary policy.
+First, the gravitational pull of monetary policy is greater because its performance is easier to monitor. But
+whereas the objective of monetary policy—price stability—is readily and frequently observed, the objective of
+macroprudential policy—financial stability—is most easily defined in its absence. Financial stability is the
+opposite of the financial instability of bust, crises and panics.6
+Second, macroprudential policymakers deploy a large number of very different tools in order to address a
+wide range of systemic risks.
+See ‘True Finance – Ten years after the financial crisis’, speech by Mark Carney given at the Economic Club of New
+York, 19 October 2018.
+6 While most definitions of financial stability are based on its absence, a positive definition of financial stability would be
+the sustainable provision of financial services, and confidence in the financial system to withstand future shocks without
+major disruption to those services, where these are integral to the real economy’s pursuit of strong and sustainable
+economic growth.
+5
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+8
+
+In contrast, in the pursuit of price stability, central banks deploy a handful of policies, primarily changes in
+interest rates and purchases of assets, that all relate to the current and future price of money.
+Third, the time horizons are different. The costs of macroprudential interventions can be felt today but their
+benefits are often realised far into the future.
+And fourth, these benefits – moderating downturns and avoiding crises – are not directly observable. The
+bad outcomes that macroprudential policies prevent have to be estimated. But counterfactuals are difficult to
+sell: “it could have been worse” doesn’t quite have the ring of “you’ve never had it so good.”
+All these complexities and uncertainties make it challenging to implement macroprudential policies and
+harder to communicate the rationales for them. Over time, and particularly during good times, these
+challenges can feed a bias towards inaction. As memories of the last crisis fade, complacency sets in and
+pressures to ease policies re-emerge. When it comes to financial stability, success is an orphan.
+These tendencies can be exacerbated by similar time inconsistency problems to those that plague monetary
+policy. Lighter-touch regulation can be a powerful tool for authorities to boost near-term growth, a temptation
+that is reinforced by governments motivated by electoral cycles and the complacency curve of the financial
+cycle. In the long-run, the cost of such indulgence is financial and macroeconomic instability, bringing fiscal
+strains, lower growth, and higher unemployment.
+It is not surprising that across 800 years of economic history, financial crises occur roughly once a decade
+(Chart 3).
+Chart 3: Financial crises occur with fairly regular frequency
+Proportion of countries with banking crises, weighted by share of world income
+
+Sources: Reproduced from Reinhart, C, and Rogoff, K (2013), “Banking crises: An equal opportunity menace”, Journal of
+Banking and Finance, vol 37(11), pp. 4557-4573
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+9
+
+Creating a unifying framework for macroprudential policy can help to break this dreary cycle, guide
+policymakers and improve the understanding and effectiveness of macroprudential policy. It can also
+promote self-reinforcing behaviour within the private financial sector, just as with credible monetary policy.
+And a clearer framework will improve the transparency and accountability of the FPC to parliament and the
+people we serve.
+IV.
+
+Grand Unifying Theory of Macroprudential Policy
+
+The FPC is accountable to Parliament for operating the instruments of macroprudential policy to achieve the
+objectives of macroprudential policy, as determined by the Government. Society chooses the ends, and,
+within pre-set boundaries, the FPC determines the means to achieve them.
+The FPC framework mirrors that of the MPC because of the time-inconsistency problems. The (often) long
+lag between boosting growth today and the damage it does in the future makes an even stronger case for
+delegating operational responsibility for macroprudential policy to an independent authority than for monetary
+policy.
+The FPC’s responsibilities are encoded in the Bank of England Act and the Chancellor’s annual FPC remit
+letter.7
+The FPC’s primary objective is to identify, monitor and take action to remove or reduce systemic risks with a
+view to protecting and enhancing the resilience of the UK’s financial system.8
+Subject to meeting their primary objective, the FPC has a secondary objective to “support the economic
+policy of Her Majesty’s Government, including its objectives for growth and employment”.
+The emphasis on supporting economic growth over the medium to long term is underpinned by the so-called
+“stability of the graveyard clause” in the Bank of England Act, which does not “required or authorised the
+Committee to exercise its functions in a way that would in its opinion be likely to have a significant adverse
+effect on the capacity of the financial sector to contribute to the growth of the UK economy in the medium or
+long term”.
+The FPC’s actions support its secondary objective in several ways. The FPC minimises the negative impact
+of financial stability policies on growth including in the near-term by implementing financial stability policies
+gradually, and by choosing targeted policy tools.
+The FPC’s remit letter also tasks the FPC with taking actions to promote actively productive finance and
+growth as long as these actions do not compromise the primary objective of financial stability. These actions
+The Chancellor’s annual “Remit and Recommendations” letters to the FPC, alongside the FPC’s responses, are
+available here.
+8 The Chancellor’s annual remit letter sets out that the ultimate purpose of pursuing this objective is that “a strong and
+stable financial system supports economic growth, facilitates the provision of finance to support the expansion of the
+economy’s productive capacity and underpins the UK’s position as an important global financial centre”.
+7
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+10
+
+could include those that increase the efficiency of financial services, level the playing field between existing
+firms and new entrants, or that support the development of new products and markets.
+The FPC’s setting of macroprudential policy can be broadly characterised as minimising the loss function, ℒ:
+𝑇
+
+min ℒ ≡ 𝐸𝑡 {∑ 𝛽 𝑖 [𝑓(𝐺@𝑅𝑡+𝑖 ) − 𝜙𝑦𝑡+𝑖 ]}
+𝜌𝑡
+
+𝑖=0
+
+where 𝜌𝑡 is a policy setting at time t, 𝐸𝑡 probability-weights all future states of the world conditional on
+information available at time t, 𝛽 is the discount factor, and 𝑇 is the FPC’s time horizon, which should be
+thought of as representing the medium-to-long term. 𝐺@𝑅𝑡+𝑖 is the potential fall in GDP, 𝑓 ′ (·) >
+0 and 𝑓 ′′ (·) > 0.
+The FPC’s primary objective is captured by the first term, 𝐺@𝑅𝑡+𝑖 , “GDP-at-risk”.9 This is the potential fall in
+GDP and is a summary measure of the impact of tail risks on the economy. 10 GDP-at-risk can be thought of
+as the consequence of financial instability.
+𝑦𝑡+𝑖 is the central GDP forecast, which will over time be determined by the economy’s trend rate of growth.
+This will be influenced in the medium to long term by macroprudential policies that impact the efficiency of
+the financial system and through it aggregate productivity.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+Comparing the FPC’s objective function with the more familiar monetary policy objective function helps
+illustrate the operation of macroprudential policy:
+1. Clarity of objectives. The primary objective of the FPC, financial stability, can only be estimated;
+whereas that of the MPC, inflation, can be readily measured. As a consequence, FPC performance
+is best judged in the short term by intermediate indicators and drivers of financial stability;
+2. Impact on growth. Although both committees are tasked with promoting the government’s
+economic objectives subject to achievement of their primary objectives, the MPC has very limited
+ability to influence trend growth. The MPC’s trade-offs, when they occur, are to limit excessive short
+term volatility in output and inflation, particularly in “exceptional circumstances,” circumstances that
+only extend modestly the policy horizon. In contrast, the FPC is more likely to face trade-offs
+9
+
+The recent interest in this concept is based on work by Tobias Adrian and co-authors (Adrian, T, Boyarchenko, N and
+Giannone, D (2019), ‘Vulnerable Growth’, American Economic Review, 109(4)). For a discussion, see this article by
+Steve Cecchetti and Kim Schoenholtz.
+10 This means GDP-at-risk (the potential fall in GDP) grows as the size of the far-left tail of the forecast distribution of
+GDP rises. Throughout this speech, high or increasing “GDP-at-risk” indicates a worse outcome. Conversely, more
+favourable outcomes are when GDP-at-risk is smaller / low.
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+11
+
+between short term growth and its actions to achieve its primary objective. And the FPC can have
+potentially important impacts on longer term trend growth, both because financial crises have
+permanent scarring effects and because promoting productive finance can improve longer run
+productivity.
+3. Time horizon. The time horizon for FPC optimisation is longer than that of the MPC reflecting the
+longer duration of the financial cycle, the permanent impact of structural macroprudential policies,
+and long-run monetary neutrality. Whereas the impacts of macroprudential policy could easily extend
+out a decade; in practice, the relevant time horizon for monetary policy would rarely extend beyond
+3-5 years.
+Taking these in turn.
+1. Clarity of objectives
+A term-by-term comparison of the monetary loss function:
+𝐻
+∗
+)2 ]}
+min𝑇 ℒ𝑡 ≡ 𝐸𝑡 {∑ 𝛽 𝑖 [(𝜋𝑡+𝑖 − 𝜋 ∗ )2 + λ(𝑦𝑡+𝑖 − 𝑦𝑡+𝑖
+
+{𝑟𝑡+𝑖 }𝑖=0
+
+𝑖=𝑜
+
+and the macroprudential loss function:
+𝑇
+
+min ℒ𝑡 ≡ 𝐸𝑡 {∑ 𝛽 𝑖 [𝑓(𝐺@𝑅𝑡+𝑖 ) − 𝜙𝑦𝑡+𝑖 ]}
+𝜌𝑡
+
+𝑖=0
+
+underscores the greater uncertainty inherent in macroprudential policy.
+The monetary policymaker’s loss function is based on two clearly specified and observable variables –
+inflation and output. Monetary policy has a single, quantifiable inflation target, 𝜋 ∗ , and while potential output
+𝑦𝑡∗ must be estimated, there are well-developed and reasonably robust methods to do so.
+In contrast, the macroprudential policymaker’s loss function has no simply defined target – instead the
+policymaker has to make a judgement about when GDP-at-risk is within an acceptable range. GDP-at-risk,
+𝐺@𝑅𝑡+𝑖 , is not directly observable and must be estimated. And optimising for policy, 𝜌𝑡 , requires estimating
+𝐺@𝑅𝑡+𝑖 with and without policy, or for different policy calibrations – building estimates upon estimates.
+The fog of financial stability can be dangerous. A booming economy can give the illusion of lower risk,
+feeding assumptions that potential growth is stronger and GDP-at-risk lower. Proving otherwise can be
+difficult in the face of inherent uncertainty and growing complacency.
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+12
+
+As GDP-at-risk is not directly observable, it must be estimated using intermediate indicators and drivers of
+financial stability.11 Bank of England research finds that the indicators with greatest signalling power for
+GDP-at-risk are credit metrics, the current account, asset prices and metrics of banking system resilience. 12
+
+Chart 4 plots the estimated contribution of these indicators to GDP-at-risk over time. Specifically it shows the
+5th percentile of the estimated forecast distribution of the level of UK GDP in t+3 years’ time, conditional on
+risks at time t. The focus on 3 years ahead reflects lags between setting macroprudential policy and the full
+impact of that policy on GDP-at-risk.
+Chart 4: Intermediate indicators suggest UK risks around standard(a)
+
+Sources: Aikman et al., (2019), Bank of International Settlements, UK house price index, Datastream, Office of National
+Statistics, Bank calculations. The black line shows that the average 5th percentile GDP draw in the UK historically is 0%
+growth. Estimates of GDP-at-risk for any time period t utilise the full series of data available (and not just the data that
+would have been available had it been estimated at t).
+
+See Aikman, D, Bridges, J, Burgess, S, Galletly, R, Levina, I, O’Neill, C, and Varadi, A, (2018) ‘Measuring risks to UK
+financial stability’, Bank of England Staff Working Paper No. 738; and Bridges, J, Jackson, C, and McGregor, D, (2017)
+‘Down in the slumps: the role of credit in five decades of recessions’, Bank of England Staff Working Paper No. 659.
+12 See Aikman, D, Bridges, J, Hacioglu Hoke, S, O’Neill, C, Raja, A, (2019) ‘Credit, capital and crises: a GDP-at-Risk
+approach’, Bank of England Staff Working Paper No. 824.
+11
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+13
+
+Chart 5 estimates the whole forecast distribution of GDP in t+3 years’ time, conditional on the financial risk
+environment. The red area shows the steady growth in GDP-at-risk from 1997 to the crisis.
+Chart 5: Risks grew during the Great Moderation but are now standard
+
+Chart 5 shows the expected distribution of the cumulative change in the level of GDP in t+3 years’ time, given the macrofinancial risk environment at time t. Historical distributions are estimated using the full sample of data.
+
+In 1998, the early days of the Great Moderation, GDP-at-risk was benign – that is, even in a tail outcome the
+level of GDP was expected to be higher three years out. Through the next decade, though central case GDP
+grew steadily, risks were gradually building. By 2007 a fifth percentile draw was expected to leave GDP 3.5%
+lower three years out.
+As the crisis hit, GDP-at-risk shrunk rapidly as risks crystallised. Since then, risks have been relatively stable
+reflecting post-crisis balance sheet repair, the implementation of comprehensive macroprudential
+frameworks, and relatively subdued economic activity (Chart 6).
+Chart 6: Risks grew during the Great Moderation but are now standard
+2007
+
+Latest
+
+Probability density
+
+1997
+
+0.14
+0.12
+0.10
+0.08
+
+Risks increasing
+
+0.06
+0.04
+0.02
+0.00
+
+-10
+
+-8
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+Cumulative GDP growth over 3 years (%)
+
+10
+
+12
+
+14
+
+Chart 6 uses same data as Chart 5. For each distribution, shaded area denotes the tail; the line marks the 5th percentile.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+14
+
+2. Impact on growth
+The second set of differences between macroprudential and monetary policy concern the interaction
+between their objectives and growth in the short and long terms.
+Both monetary and macroprudential objectives apply at all times. The key difference is that the inflation
+target is symmetric – the monetary policymaker’s loss grows equally when inflation is either under or over the
+target, whereas the macroprudential policymaker’s loss function is asymmetric – increases (ie deteriorations)
+in GDP-at-risk are far more costly than the benefits of the reductions in GDP-at-risk.
+The relationship between the primary objective of financial stability and the macroprudential policymaker’s
+loss function can be represented by an increasing and convex function, 𝑓(·). This means the marginal gains
+from taking action to protect financial stability grow as GDP-at-risk increases. Conversely, the marginal
+benefit from reducing GDP-at-risk falls as tail risks decline.
+This is illustrated in Chart 7. Financial risks increase moving along the curve to the right. A policy to reduce
+GDP-at-risk (lines A) is more valuable to the policymaker at higher levels of GDP-at-risk (line B) than lower
+levels (line C).
+The weight the macroprudential policymaker places on the central GDP forecast relative to GDP-at-risk is
+also determined by 𝜙 (“phi”). 𝜙 is analogous to the monetary policy’s 𝜆, the weight monetary policymakers
+place on output stabilisation relative to inflation stabilisation.
+𝜙 is strictly greater than 0, as dictated by the “stability of the graveyard” clause in the Act that the FPC
+should not take action detrimental to medium-to-long term growth.13 In its annual remit letter, the emphasis
+the government places on this clause, and therefore the FPC’s secondary objective, can be thought of as
+changing 𝜙. When GDP-at-risk is high and outside an acceptable range, however, the convexity of the 𝑓(·)
+function dominates 𝜙 and drives the macroprudential policymaker towards an absolute (lexicographic)
+preference for financial stability.
+
+13 The Bank of England Act states that the FPC is not “required or authorised to exercise its functions in a way that
+
+would in its opinion be likely to have a significant adverse effect on the capacity of the financial sector to contribute to
+the growth of the UK economy in the medium or long term”.
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+15
+
+Chart 7: The relationship between GDP-at-risk and the macroprudential loss function is convex*
+Social cost of financial instability:
+𝑓 (GDP-at-risk)
+
+A
+
+B
+
+A
+C
+Tail risks increasing (GDP-at-risk worsening)
+as move further right
+Once GDP-at-risk is within an acceptable range, the gains from taking further action to protect financial
+stability are modest. In this case, the secondary objective carries larger weight, and actions to boost
+resilience will be tempered to a greater extent by any negative impact they have on the central outlook.
+Tighter regulation tends to have some cost for the central GDP forecast in the near term while the system
+adjusts. However, by making the system more resilient, macroprudential policy avoids a much larger hit to
+growth tomorrow and increases expected productive capacity in the longer term.
+In contrast, it is often the case for monetary policy that changes in the policy rate push both domesticallygenerated output and inflation in the same direction (for example an increase in the policy rate would, all else
+equal, reduce both output and inflation, and vice versa)—so-called Divine Coincidence. For monetary policy,
+trade-offs instead can arise from exogenous trade-off-inducing supply shocks. In these exceptional
+circumstances, the remit instructs the MPC to balance the trade-off between the speed at which inflation is
+returned to target and the support that monetary policy provides to jobs and activity.
+The UK has experienced a series of such shocks since the global financial crisis, during which a large
+adjustment to the supply side of the economy has meant a lower exchange rate, lower growth, and higher
+inflation (Chart 8).
+In contrast, the US and the euro area have generally faced Divine Coincidence since the global financial
+crisis (Charts 9 and 10)
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+16
+
+Chart 8: Divine Coincidence in the UK pre-crisis, but rarely post-crisis
+
+6
+
+Inflation (%)
+
+4
+
+2
+-5
+-4
+Output gap (%)
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+0
+
+Pre-financial crisis
+Financial crisis and after
+
+-2
+
+Charts 9 and 10: Divine Coincidence generally held in the US (left chart) and euro area (right chart)
+5
+
+Inflation (%)
+
+4.5
+
+4
+
+4
+
+3
+
+3.5
+3
+
+2
+-8
+
+-6
+
+-4
+
+-2
+
+1
+0
+
+Pre-financial crisis
+Financial crisis and after
+
+Inflation (%)
+
+0
+
+2
+
+2.5
+
+4
+
+Output gap
+
+2
+-4.00
+
+-2.00
+
+1.5
+
+-1
+
+1
+
+-2
+
+0.5
+
+-3
+
+0
+
+-4
+
+-0.5
+
+-5
+
+-1
+
+0.00
+
+2.00
+
+4.00
+Output gap
+
+Pre-financial crisis
+Financial crisis and after
+
+Source for Charts 8-10: Bureau of Economic Analysis, CBO, Eurostat, IMF and Bank calculations.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+17
+
+3. Time horizon
+Although both committees must promote the government’s economic objectives subject to achievement of
+their primary objectives, the MPC has very limited ability to influence trend growth. Monetary policy
+transmission impacts fade after 3-5 years.
+In contrast, the FPC can have a potentially important influence on longer-term, trend growth, both because
+financial crises have permanent scarring effects and because promoting productive finance can improve
+longer run productivity. Financial cycles last an average of 16 years, about twice as long and twice as big as
+business cycles.14,15
+As a consequence the appropriate setting for macroprudential policy 𝜌𝑡 is more sensitive to discount factor 𝛽
+than is the case for monetary policy.
+The appropriate rate at which to discount future costs and benefits of macroprudential actions is the social
+rate of time preference – the importance society places on future consumption relative to consumption today.
+One simple reason for this discount rate is that future generations will be wealthier than those currently alive,
+so £1 in the future will be worth less than £1 today.
+A more controversial reason is that individuals display an element of impatience in their decisions –
+something economists call a “pure time discount”. There is an ethical debate about the extent to which this
+preference for the present should be reflected when evaluating policies whose impact will be felt over long
+horizons, including by future generations.16 I will return to these issues of inter-generational equity shortly.
+V.
+
+The Grand Unifying Theory of Macroprudential Policy in practice
+
+Since its formation in 2011, the FPC have put in place a variety of policy measures ranging from bank capital
+and liquidity requirements to housing policy tools. More recently, the FPC has taken a series of measures to
+address potential disruptions to financial services because of disorderly Brexit; to support a smooth transition
+in benchmark interest rates from Libor to SONIA; to address risks from open-ended funds and have also put
+in place structural measures to address risks from climate change.
+
+14
+
+As well, both the duration and amplitude of financial cycles has increased since the mid-1980s. For empirical evidence
+on financial cycles, see: Drehmann, M, Borio, C and Tsatsaronis, K (2012), “Characterising the financial cycle: don’t lose
+sight of the medium term”, BIS Working Papers 380; Claessens, S, Kose, M and Terrones, M (2012), ‘How do business
+and financial cycles interact?’, Journal of International Economics’, Volume 87; and Aikman, D, Haldane, A, and Nelson,
+B (2013), “Curbing the credit cycle”, The Economic Journal, June.
+15 Claudio Borio defines the financial cycle as “self-reinforcing interactions between perceptions of value and risk,
+attitudes towards risk and financing constraints, which translate into booms followed by busts. These interactions can
+amplify economic fluctuations and possibly lead to serious financial distress and economic dislocations.” See Borio, C
+(2014), “The financial cycle and macroeconomics: what have we learnt?”, Journal of Banking & Finance, vol 45, pp 18298, August.
+16
+This debate is an old one. Arthur Pigou described government as “the trustee for unborn generations as well as for its
+present citizens”; Frank Ramsey referred to pure time preference discounting as “a practice which is ethically
+indefensible and arises merely from weakness of the imagination”.
+18
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+18
+
+While this menu of policies may at first appear disparate and unconnected, every action is consistent with the
+FPC’s objective function by reducing GDP-at-risk, without undue impact on the central GDP forecast.
+This ensures that:
+-
+
+the financial system is strong enough to continue lending to households and businesses when
+economic shocks occur;
+
+-
+
+macroeconomic downturns are not made worse because of unsustainable debt burdens, and the
+financial system supports the economy.
+
+The FPC’s structural mortgage market requirements
+The FPC’s housing tools are a textbook example of how the FPC reduces GDP-at-risk while minimising any
+negative impact on the central forecast for GDP by choosing targeted, efficient policy tools.
+𝑇
+
+min ℒ𝑡 ≡ 𝐸𝑡 {∑ 𝛽 𝑖 [𝑓(𝐺@𝑅𝑡+𝑖 ) − 𝜙𝑦𝑡+𝑖 ]}
+𝜌𝑡
+
+𝑖=0
+
+In 2014 the FPC introduced an ‘LTI flow limit’, a 15% limit on the share of new mortgages that banks could
+extend over a loan-to-income ratio of 4.5 times a borrower’s income, and an Affordability Test requiring
+lenders to assess whether borrowers could still afford their loan if the mortgage rate rose to 3pp above its
+reversion rate.17 This is a structural macroprudential intervention designed to remain in place through
+housing market cycles.18
+The FPC’s housing tools are based on analysis of how much this policy would reduce GDP-at-risk in the
+steady state, relative to any impact on GDP.
+There is now a rich body of evidence that rapid build-ups in mortgage debt increase GDP-at-risk by making
+downturns both deeper and longer. This relationship is robust across different countries, and across time
+(Chart 11).19
+
+17
+
+The two tools were calibrated to be broadly consistent with one another.
+Factors relevant for the calibration of the affordability test (and, by extension, the LTI flow limit given the consistency
+of calibration between the two) were discussed in the FPC’s 2019 housing review (see December 2019 Financial
+Stability Report).
+19 See, for example, Bridges, J, Jackson, C, and McGregor, D, (2017) ‘Down in the slumps: the role of credit in five
+decades of recessions’, Bank of England Staff Working Paper No. 659 for cross-country evidence; Mian, A, and Sufi, A
+(2010), “Household leverage and the recession of 2007 to 2009”, IMF Economic Review 58, pp74-117; Kovacs, A,
+Rostom, M, and Bunn, P (2018), “Consumption response to aggregate demand shocks and the role of leverage”, Centre
+for Macroeconomics Discussion Paper 1820, for UK cohort evidence; and Baker, S, (2018), “Debt and the response to
+household income shocks: validation and application to linked financial account data”, Journal of Political Economy
+126(4), pp1504-1557 for US household-level evidence.
+18
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+19
+
+Chart 11: Relationship between household debt and downturns robust across countries and
+time
+
+Source: Aikman, D, Bridges, J, Kashyap, A, and Siegert, C (2019), “Would macroprudential regulation have
+prevented the last crisis?”, Journal of Economic Perspectives, Winter.
+
+This is because highly indebted households are more likely to cut their consumption sharply to keep paying
+their mortgages, deepening the economic downturn (Chart 12).
+Given this evidence, the Bank of England tracks a range of intermediate indicators of GDP-at-risk created by
+build-ups in mortgage debt including housing market activity, credit growth, price and non-price lending
+terms, and household vulnerability indicators like the distributions of debt-service, loan-to-income and loanto-value ratios.
+Chart 12: Highly indebted borrowers restrict consumption more in downturns
+Percentage point change in consumption to income ratio
+0
+-5
+-10
+-15
+-20
+-25
+0 to 1
+
+1 to 2
+
+2 to 3
+
+3 to 4
+
+≥4
+
+Mortgage LTI ratio
+
+Sources: Living Costs and Food (LCF) Survey, ONS and Bank calculations.
+20
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+20
+
+The FPC’s housing tools could reduce GDP growth (secondary objective) in the short-term. The housing
+tools reduce housing activity and prices, and therefore demand as some borrowers are restricted from
+obtaining a mortgage. The impact on GDP is temporary however, as it can be offset by monetary policy.
+There are several ways that the housing tools could, in theory, impact the supply capacity of the economy.
+Lower mortgage availability could reduce labour mobility. Collateral values for small business loans could fall
+because of lower house prices. Or the LTI flow limit could increase investment if it discourages lenders from
+prioritising mortgages that would crowd out business lending. On balance, the Bank’s analysis and empirical
+studies suggest there are no strong reasons to think that the housing tools have any significant negative
+long-run impact on the growth of supply capacity.
+The housing tools will bind more when housing activity is stronger and lenders are loosening underwriting
+standards, increasing both the gross benefits (i.e. reducing GDP-at-risk in a downturn) and gross costs (i.e.
+reducing demand by excluding some borrowers from the market). To test if net benefits are positive across
+different states of the world the FPC reviews central, upside and boom scenarios.20
+In each scenario we first estimate the distribution of borrower indebtedness absent the tools (shown in blue
+shading, Chart 13, for the boom scenario). This includes an assumption about how lenders’ underwriting
+standards would have evolved without the tools in place. A second simulation then estimates how the
+distribution of indebtedness evolves differently with the tools in place (shown in pink shading, Chart 13, for
+the boom scenario). The gross benefits of the tools arise from a reduction in GDP-at-risk associated with the
+less risky debt distribution with the tools in place, compared to the risker scenario without the tools.
+To weigh these benefits off against the costs (the temporary reduction in housing activity) requires
+assumptions about the persistence of each, society’s discount rate, the probability of a downturn occurring –
+as the benefits are only realised in a downturn, and the preferences of the policymaker (as encapsulated in
+parameter 𝜙).
+Chart 14 provides a benchmark in which the 𝑓(·) function is assumed to be linear (an assumption that
+underestimates net benefits relative to a convex 𝑓(·) function) and the weight on the secondary objective, 𝜙,
+is set to one. It shows that the tools are likely to provide significant expected net benefits in the event of a
+housing boom, and these increase as the size of the housing boom increases. In the absence of a housing
+boom, there are unlikely to be material costs (Chart 14).21
+
+20
+
+To date, the Recommendations have largely acted as an insurance policy. Since they were introduced, banks, in
+aggregate, have been well within the 15% limit (the maximum share of high LTI lending in aggregate has been 11%). In
+part, this is likely to reflect the fact that the housing market has been relatively subdued since the policies were
+introduced. There has, however, been some ‘bunching’ of mortgages with LTIs between 4 and 4.5 suggesting that, as
+intended, lenders are judging it prudent for some borrowers to take smaller mortgages than may have been granted in
+the past. In aggregate, this bunching effect has been small.
+21 Note that the benefits and costs in Charts 14 and 15 are different. Chart 14 shows a discounted sum of the expected
+costs and benefits in each year of a scenario. It takes into account the probability that the costs and benefits will be
+incurred over a given period, the relative persistence of costs and benefits, and discounts both. Chart 15 is a point-in21
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+21
+
+Chart 13: The FPC’s housing tools prevent an
+
+Chart 14: FPC housing tools have positive net
+
+increase in highly indebted households
+
+benefits
+Per cent of GDP
+
+Benefits
+Costs
+Net Impact
+
+3
+2
+1
+0
+-1
+
+Central
+
+Upside
+
+Boom
+
+Source: Bank calculations. For more information please see the Bank’s Financial Stability Report, December 2019.
+
+It is often the case that more than one policy tool could be used to reduce GDP-at-risk, but these tools tend
+to be blunt. More targeted policies will usually have less impact on the FPC’s secondary objective, and so
+will yield better overall outcomes.
+The grey triangles in Chart 15 estimate GDP-at-risk (proxied by the 5th percentile of the forecast distribution
+of GDP) in 3 years’ time, conditional on risks at time t on the x-axis, versus on the y-axis the Bank of
+England’s 1-year ahead median GDP forecast at time t.
+It estimates that if in 2004 the FPC had their housing tools in place, GDP-at-risk (x-axis, proxied by the level
+of GDP expected in 2007, at the 5th percentile of the forecast distribution of GDP) could have shrunk by more
+than one third, from -3.3% of GDP to -2.1% of GDP. The cost of this (y-axis) would have been around 0.1%
+of GDP per year.
+By comparison, the Bank estimates that raising interest rates to achieve the same reduction in GDP-at-risk
+would have reduced the central forecast for GDP by 0.9% per year, a far greater cost for the same benefit,
+because raising interest rates impacts the whole economy. 22,23
+
+time estimate – it does not take potential persistence or probability of realising benefits into account. The costs in both
+charts are an upper bound, as they assume no offset to lower demand from monetary policy.
+22 The MPC’s remit states that the FPC’s macroprudential tools are the first line of defence against financial stability
+risks. If the FPC judges that the MPC’s attempts to keep inflation at target is exacerbating imbalances and creating a
+potential risk to financial stability that its macroprudential tools cannot keep in check, then the MPC may allow inflation to
+deviate from the target temporarily.
+23 The FPC’s mortgage market Recommendations were implemented pre-emptively, ahead of risks building to elevated
+levels. Their calibration reflected lenders’ own practices at the time, and so acted as insurance against the risk of any
+future deterioration in underwriting standards. This also means that the costs to the wider economy from introducing
+these tools was less than it would be if more aggressive action later in the financial cycle was required.
+22
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+22
+
+Chart 15: FPC housing tools more efficient than monetary policy for addressing the same risks
+
+Risks increasing
+as the GDP-at-risk
+tail grows larger
+
+1yr ahead median GDP growth
+forecast (%)
+
+2004
+
+If FPC housing tools
+had been in place
+
+2004
+2007
+
+4.0
+
+2014
+
+3.5
+
+3.0
+2000
+
+2015
+
+2006
+
+2.5
+2005
+
+If monetary policy acted to achieve
+same reduction in GDP-at-risk
+
+1998
+
+2001
+
+2003
+
+2017 2.0
+2016
+2010
+2002
+
+2013
+1.5
+2018
+
+2008
+2019
+
+2011
+1999
+
+1.0
+
+0.5
+
+3yr ahead 5th percentile GDP growth estimate
+(%, cumulative)
+
+2012
+
+0.0
+-6.0
+
+-5.0
+
+-4.0
+
+-3.0
+
+-2.0
+
+-1.0
+
+0.0
+
+1.0
+
+2.0
+
+The FPC’s structural and cyclical bank capital requirements
+The UK’s bank capital framework optimises the FPC’s objective function by balancing the impact of higher
+capital on GDP-at-risk with the impact of higher capital requirements on the central GDP forecast.
+𝑇
+
+min ℒ𝑡 ≡ 𝐸𝑡 {∑ 𝛽 𝑖 [𝑓(𝐺@𝑅𝒕+𝒊 ) − 𝜙𝑦𝑡+𝑖 ]}
+𝜌𝑡
+
+𝑖=0
+
+The capital framework includes structural requirements that are not designed to vary systematically over
+time, and a cyclical requirement that varies with the financial cycle to match the level of resilience with the
+level of GDP-at-risk.
+In a downturn, capital absorbs losses that could otherwise cause banks to restrict lending to households and
+businesses and make the downturn worse. If a bank fails, capital reduces disruption to the wider economy.
+And the market is more likely to continue funding adequately capitalised banks. For these reasons, higher
+bank capital requirements reduce both the likelihood and severity of future downturns, and so reduce GDPat-risk in the steady state.
+On the other hand, capital is relatively costly for banks to hold, which has a knock-on to the everyday cost of
+borrowing for households and businesses. So higher capital requirements also permanently dampen
+investment, productivity, and output.
+
+23
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+23
+
+The FPC’s 2015 Medium Term Capital Framework24 calibrated the optimal structural (non-time-varying)
+capital requirement for the UK banking system by estimating the level of capital where the difference
+between these benefits and costs are maximised in the steady state.
+Chart 16 shows conceptually that this is where the marginal benefit of capital (smaller GDP-at-risk) is equal
+to the marginal cost of capital (lower investment and output).
+Chart 16: Optimal capital ratio where marginal benefits equal to marginal costs*
+
+*Diagram is stylised.
+The ‘gross benefits’ curve in this analysis was estimated based on the historical relationship between
+banking system leverage and GDP-at-risk using a dataset for 840 advanced economy banks since 1980.
+To supplement this backward-looking analysis the FPC layered on a forward-looking judgement that the new
+bank resolution framework, put in place following the crisis, would reduce the gross benefits of capital.
+Holders of bank debt and equity now expect to be bailed-in if a bank is resolved, and so exert greater market
+discipline on banks to prudently manage their risks. This reduces the probability and severity of future crises
+(GDP-at-risk), and reduces the additional benefits of also adding more capital.
+The ‘gross costs’ were based on estimates of the relative costs of equity and debt funding, as well as macroeconomic estimates of what a given increase in bank lending rates implies for growth.
+Both of these costs and benefits are estimated to be largely constant over time.
+
+“Supplement to the December 2015 Financial Stability Report: The framework of capital requirements for UK banks”,
+Bank of England (2015). The analysis underpinning this framework is published in Brooke, M et al. (2015), “Measuring
+the macroeconomic costs and benefits of higher UK bank capital requirements”, Bank of England Financial Stability
+Paper No. 35, December.
+24
+
+24
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+24
+
+The FPC’s analysis pointed to an optimal range for structural capital requirements and buffers totalling 1014% of risk-weighted assets (Chart 17). This range maximised the expected future level of GDP. The range
+reflects the considerable uncertainty around the estimation. Within this range, the FPC judged that a
+structural level of capital requirements and buffers of 11% would allow it to meet its financial stability target,
+and maximise the longer-term level of expected GDP.25
+Chart 17: FPC’s benchmark for optimal capital requirements is 11%
+Estimated cost/benefit of capital
+
+11% optimum
+
+Annual GDP cost of moving away from the appropriate
+capital ratio (in % of GDP)
+0.02
+0
+-0.02
+-0.04
+-0.06
+-0.08
+-0.1
+
+Optimal range
+-0.12
+7
+
+8
+
+9
+
+10
+
+11
+12
+13
+14
+System capital ratio (% of RWAs)
+
+15
+
+16
+
+17
+
+In addition to this structural capital requirement, UK banks are required to hold a Countercyclical Capital
+Buffer (CCyB) that varies over the financial cycle, matching the level of banking system resilience to the level
+of risk.
+The CCyB was introduced internationally following the crisis, as part of the Basel III package of measures in
+2011. It better optimises the balance between the primary macroprudential policy objective to reduce GDPat-risk, and the secondary objective to support economic growth, compared to a fixed capital requirement
+that does not vary with the level of risk.
+UK banks will be required to hold a CCyB of 2% of UK risk-weighted assets when risks are around standard
+– that is when risks are neither particularly elevated nor subdued.26 We can use the GDP-at-risk model to
+provide a lens for understanding the risk environment: for example, the 35th to 65th percentile of the
+historical distribution of GDP-at-risk (see Chart 4) is a range of around -0.8 to 0.8.
+25
+
+At the time, the FPC also noted that there were gaps and shortcomings in the measurement of risk-weights (for
+example, risks associated with defined benefit pension fund deficits were not captured). In light of this, the FPC judged
+at the time that the appropriate level of Tier 1 capital requirement for the UK banking system was 13.5% of risk-weighted
+assets, based on existing measures of risk weights. In December 2019, the FPC reviewed the judgements underpinning
+this assessment, and confirmed that its 2015 benchmark remained appropriate.
+26 In December 2019, the FPC announced that it was raising the level of the UK CCyB that it expects to set in a standard
+risk environment from the region of 1% to the region of 2%. Consistent with this, and given its assessment that risks were
+standard, the FPC raised the CCyB from 1% to 2%. This takes effect with a one-year lag, and so will become a binding
+constraint from 16 December 2020. For further information, see the December 2019 Financial Stability Report.
+25
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+25
+
+When there is an economic shock, the FPC can release the CCyB to 0%, reducing banks’ capital
+requirements. This frees up capital to absorb losses and preserve lending capacity. By continuing to lend,
+banks help to cushion the economic shock, and promote a quicker economic recovery.
+That is, the ability to cut the CCyB reduces GDP-at-risk, improving overall welfare.27
+To give you some idea of scale, a cut in the CCyB from 2% to 0% today would preserve banks’ capacity to
+lend to UK households and businesses by £500bn. By comparison, net lending was around £100bn over the
+past year.
+This is a stark departure from the pre-crisis framework. Banks’ capital requirements were determined by
+microprudential supervisors focussed on the safety of individual institutions. When shocks hit, this incentive
+created by a purely microprudential objective was more likely to motivate supervisors to conserve capital at
+all costs, with the consequence that banks restricted lending and exacerbated the macroeconomic downturn.
+The CCyB also supports the central GDP forecast by ensuring banks do not have to carry at all times
+sufficient capital for an elevated risk environment, with the associated knock-on to borrowing costs,
+investment, and output. For example, Bank of England work suggests that - had the current capital
+framework been in place before the crisis - the CCyB would need to have been between 3.5% and 5% to
+absorb losses.
+The FPC’s judgement is that, if risks were to build above standard, then increasing the CCyB above 2% and
+bearing this cost would better optimise the balance between primary and secondary objectives. The cost
+would be warranted because, by building resilience, it would reduce the likelihood and severity of future
+downturns.28,29
+The grey triangles in Chart 18 estimate GDP-at-risk (proxied by the 5th percentile of the forecast distribution
+of GDP in 3 years’ time, conditional on risks at time t on the x-axis), versus on the y-axis the Bank of
+England’s 1-year ahead median GDP forecast at time t.
+The blue line illustrates how this trade-off could have changed if in 2004 capital levels (as measured by the
+total capital equity ratio) had been increased from 2004 levels. GDP-at-risk in 2004 (proxied by the estimated
+change in the level of GDP expected by 2007, based on information in 2004, at the 5th percentile of the
+
+27
+
+The CCyB is a particularly powerful policy tool in this regard because it can be removed altogether in a stress. Banks
+entering the capital conservation buffer, by contrast, are subject to restrictions on their dividends and other capital
+distributions.
+28The FPC’s CCyB decisions are informed by results of the Bank’s annual concurrent stress tests of the UK banking
+system. These tests provide a gauge of the sensitivity of banks’ balance sheets under stress. The FPC links the
+severity of the stress scenario used in its tests to its assessment of vulnerabilities in the financial system and in
+household and corporate balance sheets. When vulnerabilities are judged to be elevated, the scenarios used in the test
+will be more severe and vice versa.
+29 Having a positive 2% resting rate for the CCyB when risks are standard means that the FPC is better able to increase
+the CCyB gradually when vulnerabilities build. Gradual increases in capital requirements are less costly than large,
+discrete changes, as banks are then able to generate the required capital via retained earnings.
+26
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+26
+
+forecast distribution of GDP) could have been around a quarter less were capital levels just 1pp higher. And
+that the cost to the central GDP forecast of raising this capital might have been around 0.1 - 0.2pp.
+Chart 18: In 2004 increasing banks’ capital requirements would have improved the balance
+between GDP-at-risk and the central GDP forecast 30,31
+
+1yr ahead median GDP growth forecast (%) 4.0
+
+2004
+
+3.5
+2004
+
+2014
+
+2004 + 2pp tce
+
+2007
+
+2004 + 1pp tce
+2006
+
+3.0
+
+2000
+
+2004 + 3pp tce 2015
+2.5
+2005
+2001
+2016 2.0
+2017
+2010
+
+2003
+2002
+
+1.5
+2019
+
+2008
+
+2018
+
+1998
+
+2013
+2011
+1999
+
+1.0
+0.5
+
+3yr ahead 5th percentile GDP growth
+estimate (cumulative, %)
+
+2012
+
+0.0
+-6
+
+-5
+Error band
+
+VI.
+
+-4
+
+-3
+
+-2
+
+-1
+
+1yr median vs. 3yr tail trade-off (UK)
+
+0
+
+1
+
+2
+
+Policy frontier (2004)
+
+The Forward Agenda for Macroprudential Policy
+
+Addressing structural vulnerabilities in open-ended funds
+Growth in market-based finance over the last decade is a fundamentally positive development that brings
+welcome diversity to the financial system.
+
+Chart 19 draws on the approach and methodology in Aikman, D, Bridges, J, Hacioglu Hoke, S, O’Neill, C, Raja, A,
+(2019) ‘Credit, capital and crises: a GDP-at-Risk approach’, Bank of England Staff Working Paper No. 824. TCE stands
+for Total Capital Equity ratio. One difference with this paper is that we replace the y-axis with the relevant MPC forecast.
+The data point for 2009 has also been removed to avoid the significantly negative year distorting the chart.
+31 The model assumes a linear relationship between bank capital and GDP-at-risk. This assumption should be treated as
+a local approximation and is unlikely to be realistic over wide ranges of capital ratios. In particular, increases in systemwide capital levels from current high levels will ameliorate tail risk by less than similarly-sized increases when capital
+levels are relatively low, as they were in the immediate aftermath of the crisis.
+30
+
+27
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+27
+
+𝑇
+
+min ℒ𝑡 ≡ 𝐸𝑡 {∑ 𝛽 𝑖 [𝑓(𝐺@𝑅𝒕+𝒊 ) − 𝜙𝑦𝑡+𝑖 ]}
+𝜌𝑡
+
+𝑖=0
+
+However, globally more than $30 trillion of assets are now held in open-ended funds that offer short-term
+redemptions while investing in longer-dated and potentially illiquid assets.32 And funds with these structural
+mismatches are growing rapidly.
+This liquidity mismatch creates an advantage to investors who redeem ahead of others, particularly in stress.
+This “first mover advantage” could prompt a destabilising rush for the exits, not only in the market where
+problems first occur, but also across markets with analogous risks. Fund suspensions, a widely available
+tool, exacerbate the issue.
+Charts 19 and 20 illustrate that outflows from open-ended funds are indeed more sensitive to fund
+performance when funds hold more illiquid assets, and when market conditions are worse. Although risks
+have, so far, only crystallised within some niche managers and smaller markets, and their impact has been
+contained, these risks have the potential to become systemic if funds’ holdings of less liquid assets continue
+to grow.
+Chart 19: Outflows from open-ended funds more
+
+Chart 20: Outflows from open-ended funds
+
+sensitive for greater holdings of illiquid assets
+
+more sensitive when market
+
+Expected Fund Flows %
+0
+-0.2
+-0.4
+-0.6
+-0.8
+-1
+-1.2
+AE
+Equity
+
+EME AE Gov AE Corp CRE
+Equity Bond
+Bond Funds
+
+Source: Morningstar and Bank calculations.
+
+EME
+Bond
+Source: Financial Conduct Authority, Morningstar and
+Bank calculations. For more information please see the
+Bank’s Financial Stability Report, December 2019.
+
+32
+
+Illiquid assets are those that require a material price discount for a quick sale, or equivalently those that require a
+significant period for sales to avoid a material price discount. For discussion, see the chapter on “Vulnerabilities in openended funds” in the Bank of England’s December 2019 Financial Stability Report.
+28
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+28
+
+Last year, the FPC established that in order to reduce the first-mover advantage, greater consistency was
+needed between the liquidity of a fund’s assets and its redemption terms. To achieve this, funds should
+apply a pricing tool, a notice period or a combination of both that reflects the liquidity of their underlying
+assets (Charts 22 and 23), given by the following definitions:
+
+
+Liquidity measurement: The liquidity of funds’ assets should be assessed either as the price
+discount needed for a quick sale of a vertical slice of those assets or the time period needed for a
+sale to avoid a material price discount.
+
+
+
+Pricing: Investors who redeem should receive a price for their units that reflects the discount needed
+to sell the required proportion of a fund’s assets in the specified redemption notice period; and
+
+
+
+Notice period: Redemption notice periods should reflect the time needed to sell the required
+proportion of a fund’s assets without discounts beyond those captured in the price received by
+redeeming investors.
+
+Chart 21: The FPC’s principles for fund design to
+
+Chart 22: Stylised combinations of price
+
+deliver consistency
+
+discounts and notice periods needed to reduce
+incentives to redeem ahead of others
+
+This July the FPC will publish in its Financial Stability Report an analysis of how implementing these
+principles would likely impact the FPC’s primary and secondary objectives.
+GDP-at-risk should fall as the additional incentive for investors to liquidate assets in open-ended funds in
+stress is reduced. Estimating this requires simulating first-mover advantage under the status quo, then
+assessing the extent to which it is removed by applying the FPC’s principles. The difference must be mapped
+through to the impact on prices in corporate bond, bank funding and other markets, and then to the real
+economy.
+
+29
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+29
+
+The analysis will rely on bottom-up, simulated estimates within each market rather than macro analysis, as
+there has never been widespread crystallisation of these risks. Early work has estimated that, for example,
+an initial shock of 60bps to corporate bond spreads could be amplified by a further 30% and increase GDPat-risk (proxied by the 5th percentile of the forecast distribution of GDP) by 0.2pp.
+Estimating the costs and benefits will also require simulating into the future to take account of the larger size
+of funds.
+The impact of the FPC’s principles on the central forecast for GDP is harder to quantify as it depends on
+(unpredictable) investor behaviour.
+Under current fund structures, funds with longer notice periods or discounted redemption pricing are not as
+attractive to investors as the apparently “costless” funds with daily liquidity.
+Those structures that may look unattractive today are the very structures needed to finance investment in
+productive finance, such as infrastructure, the transition to a net zero economy and the financing of SMEs.
+Such investments simply are poorly suited to structures offering short-notice redemption.
+It follows that investors could respond to reform of fund structures by increasing investments in productive
+finance. The prospect of productive finance increasing after applying the FPC’s principles would be the
+macroprudential equivalent of ‘Divine Coincidence’ that promotes financial stability while increasing the rate
+of trend growth.
+Global co-ordination of potential reforms will be vital. That is why the Bank and FCA are engaging with the
+FSB, IOSCO and other competent authorities on the financial stability risks of asset management activity.
+Breaking the Tragedy of the Horizon to address the Climate Crisis
+The climate crisis is a Tragedy of the Horizon.
+The catastrophic impacts of climate change will be felt beyond the traditional horizons of most banks,
+investors and financial policymakers, imposing costs on future generations that the current one has no direct
+incentives to fix.
+Once climate change becomes a clear and present danger to financial stability it could already be too late to
+stabilise the atmosphere at two degrees.
+The longer adjustment is delayed, the more GDP-at-risk will grow.
+Catastrophic physical risks from the increased frequency and severity of climate and weather-related events
+will likely increase non-linearly.
+
+30
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+30
+
+And late climate policy action could bring about a climate ‘Minsky moment’ when the scale of stranded
+assets dawns, bringing about sudden and sharp adjustments to asset prices.
+These risks to financial stability will be minimised if the transition begins now and follows a predictable path,
+thereby helping the market anticipate the transition to net zero and reducing the costs of adjustment.
+The policymaker’s discount rate is important to their assessment of the financial stability risks of climate
+change.
+𝑇
+
+min ℒ𝑡 ≡ 𝐸𝑡 {∑ 𝛽 𝑖 [𝑓(𝐺@𝑅𝑡+𝑖 ) − 𝜙𝑦𝑡+𝑖 ]}
+𝜌𝑡
+
+𝑖=0
+
+Last year, the Government brought the horizon consistent with Parliament’s declaration of a climate
+emergency and the legislation of a UK Net Zero target for 2050. And announced in the Green Finance
+Strategy that from this year the FPC remit letter will require that they have regard to the COP21 Paris
+Agreement when considering how to advance objectives and discharge their functions.
+In taking these actions, the Government has in effect reduced the FPC’s discount rate on climate-related
+financial risks.
+This means that GDP-at-risk will now grow more quickly in the FPC’s loss function. And by responding to
+this, the FPC will reduce climate-related exposures, and the private financial sector will help to pull forward
+the adjustment to net zero for the economy as a whole.
+There are three main areas macroprudential policymakers can act. 33
+On reporting, climate disclosure standards under the TCFD must be enhanced to be as comparable, efficient
+and decision-useful as possible. And we need to develop pathways to mandatory climate disclosures.
+To manage risks, disclosures need to go beyond the static to the strategic. The Bank of England with the
+PRA and FPC will run the world’s first integrated bottom-up climate stress test for banks and insurers,
+including the catastrophic business-as-usual scenario, the ideal – but still challenging – transition to net zero
+by 2050, and the late policy action climate ‘Minsky moment’ scenario including economy-wide disruption that
+a delayed and disorderly transition will bring.
+Our stress test of the world’s leading international financial centre will show how major financial firms expect
+to adjust their business models, as well as the potential collective impact of these responses on the wider
+economy.
+
+33
+
+See Carney (2020) The Road to Glasgow, speech given 27 February 2020 at the launch of the COP26 Private
+Finance Agenda.
+31
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+31
+
+The stress test will reveal the financial firms – and by extension the companies – that are preparing for the
+transition, and it will expose those that are not.
+On returns, our citizens need to be able to see whether their investments are consistent with the path to net
+zero. And all companies that are transitioning to net zero should be encouraged.
+Asset owners and managers will increasing need to disclose whether their clients’ money is being invested in
+line with their values. Thus far, approaches to doing so have been inadequate. Carbon footprints are not
+forward-looking. Moreover, a whole economy transition isn’t about funding only deep green activities or
+blacklisting dark brown ones. We need fifty shades of green to catalyse and support all companies towards
+net zero and be able to assess collectively whether we’re “Paris aligned”.
+Given that net zero is both an imperative of climate physics and a commitment by 120 countries; companies,
+banks, insurers, pension funds and investors will increasingly be expected to develop and disclose their
+transition plans. For companies this could mean:
+-
+
+Commitment to a net zero target (for scope 1, 2 and ideally scope 3 emissions) by a specific
+date;
+
+-
+
+Assessment and disclosure of how the transition to a net zero business model will impact
+strategy;
+
+-
+
+Short-term milestones to track progress; and
+
+-
+
+Details of governance, including whether executive compensation is tied to success and how
+risks are managed at the board level.
+
+These actions will also support growth and the FPC’s secondary objective. By pulling forward and smoothing
+the adjustment to net zero, it will minimise the costs of transition.
+And, crucially, by revealing which companies are aligned to net zero, and which are not, these actions will
+reveal the immense investment opportunities from the transition to net zero, increasing productive finance for
+sustainable infrastructure.
+VII.
+
+Conclusion
+
+After engaging in an ambitious exercise to outline a Grand Unifying Theory of macroprudential policy, it is
+now time for a bit of humility.
+After all, if the experience of the financial crisis teaches us anything, it’s that we cannot anticipate every risk
+or plan for every contingency.
+And part of good macroprudential policy is literally planning for failure.
+32
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+32
+
+Part of our job is to create a system that is robust to both the intensification of known risks and the
+crystallisation of Rumsfeldian unknowns.
+This is directly relevant for the current challenges associated with the coronavirus outbreak.
+This is, above all else, a matter of human health and welfare. The front line of combatting the challenges of
+Covid-19 comprises the extraordinary efforts of NHS health professionals, Public Health Officials and
+volunteers across the country, as well as the exceptional support by the FCO to UK citizens abroad. We are
+fortunate in this country to have the infrastructure, expertise and dedication in public health that we do.
+The Bank of England’s role is to help UK businesses and households manage through an economic shock
+that could prove large but will ultimately be temporary.
+The Bank will take all necessary steps to support the UK economy and financial system, consistent with our
+statutory responsibilities. Our policy arsenal includes monetary policy instruments, special liquidity facilities,
+and macroprudential tools.
+We are also coordinating with HM Treasury to ensure that any initiatives are complementary and that they
+will collectively have maximum impact, consistent with our independent responsibilities.
+And lines of communication are wide open with our international colleagues at the G7, G20 and the IMF.
+While there will be differences in the exact timing and form, the collective impact of our efforts will be both
+powerful and timely.
+The Bank are monitoring the situation closely across all our functions and ensuring all necessary
+contingency plans are in place in the private financial sector and at the Bank of England itself.
+The MPC is assessing the economic impacts and considering the policy implications of various possible
+scenarios, including the extent to which supply disruptions have aggregate demand consequences via cash
+flow, cost and availability of finance, as well as confidence effects.
+Our PRA and FMI supervisors are also working with banks, insurers, and payment operators and clearing
+houses to ensure they have plans in place to maintain their operational resilience.
+And finally, the FPC is examining macro-financial impacts including spillovers to market functioning and how
+to address any possible constraints on financing to UK businesses and households that might emerge.
+The Bank’s annual stress test included a severe global shock originating in China where growth falls to 1.2% (Chart 23), and residential property prices fall -45%. Hong Kong’s GDP drops -7.9% and residential
+property prices fall -55%. As the shock broadens to global financial markets and the rest of the world, world
+GDP falls -2.6%. Globally this is a very severe test, with a roughly 1 in 100 likelihood of these stresses
+occurring together based on history.
+33
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+33
+
+Chart 23: 2019 Bank of England stress test
+
+Chart 24: 2019 Bank of England stress test scenario
+
+scenario overall more severe than the financial
+
+overall more severe than the financial crisis
+
+crisis
+Latest four-quarter growth (%)
+
+Latest four-quarter growth (%)
+
+2019 stress test start-to-trough fall (%)
+
+2019 stress test start-to-trough fall (%)
+
+UK Residential -33.0
+-4.7
+
+UK
+
+UK CRE -40.9
+
+-3.7
+
+2.3
+
+-4.0
+-2.8
+
+-34.1
+-1.2
+
+-44.9
+
+5.9
+China
+
+-10
+
+World
+(PPP)
+
+-5
+
+6.6
+
+US residential -22.3
+
+Hong
+
+-2.6
+
+4.1
+
+Euro area CRE -25.7
+
+0.9
+EA
+
+Kong
+
+-3.3
+
+Euro area residential -19.6
+
+US
+
+-7.9
+
+1.6
+
+1.1
+
+-55.0
+
+2.9
+
+0
+
+-64.0
+5
+
+10
+
+-70
+
+3.5
+
+China residential
+
+-50
+
+-30
+
+GDP outturn
+
+2.6
+3.4
+
+HK residential
+HK CRE
+
+11.5
+
+US CRE
+
+-10.4
+-10
+
+10
+30
+Property prices (%)
+
+Our major banks have passed this taxing stress test, just as they did a range of others in recent years. Their
+resilience contributes to a high degree of financial sector preparedness for the current crystallisation of what
+had previously been an unknown unknown risk.
+We haven’t built this strength for its own sake. It’s there to be used when needed.
+This is prudence with a purpose.
+Resilience with a reason.
+That reason is the ultimate objective that unifies the Bank of England’s monetary and financial functions –
+the meaning of the central banker’s life which can be found in the opening sentence of our 1694 Charter –
+“to promote the good of the people of the United Kingdom”.
+It has been my honour to do so.
+
+34
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+34
+
+

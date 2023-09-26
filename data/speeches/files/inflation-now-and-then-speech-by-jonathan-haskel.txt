@@ -1,0 +1,964 @@
+Inflation Now and Then
+Remarks given by
+Jonathan Haskel, External Member of the Monetary Policy Committee, Bank of England, and
+Imperial College Business School, Imperial College, London
+
+Adam Smith Business School, University of Glasgow
+23 November 2021
+
+My thanks to Simon Cox, Ian McCafferty, Jamie Lenney, Josh Martin, Dan Sichel, Marilyne Tolle and
+Tony Wilson for their assistance in preparation for this event. I would also like to thank Andrew Bailey,
+Ben Broadbent, Fabrizio Cadamagnani, Alan Castle, Harvey Daniell, Catherine Mann, Michael Mcleay,
+Nick Mclaren, Huw Pill, Michael Saunders, Fergal Shortall, Matt Swannell, Silvana Tenreyro, Ryland Thomas
+and Rupert de Vincent-Humphrey for their comments. Errors and opinions are my own.
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+1. Introduction
+Good morning everyone and thank you for having me here today. It’s my first in person speech since the start of
+the pandemic and it’s a pleasure to come back up to Glasgow following my last visit two years ago.
+Inflation, as measured by the annual rise in the consumer price index (CPI), was 4.2% in October. Our latest
+MPC forecast projects inflation to peak at around 5 percent in the second quarter of 2022. Since the Bank of
+England is asked to hit an inflation target of 2%, we have some explaining to do. So, in light of that I’d like to
+step back and think about inflation more broadly, consider some theory that seeks to explain the determinants of
+inflation and place the current episode of above-target inflation in context. I have five main messages:
+1. To those of you who are studying economics, the skills you are acquiring and models you are studying
+here in Glasgow have direct applications to modern policy-making.
+2. The Bank of England was made independent in 1997. Since then, average inflation has been… 2%, the
+current target.
+3. There has been variation around that 2% since then. On average, of every deviation of inflation from
+target,
+a. 24% has been due to food and energy,
+b. 13% due to taxes like VAT and
+c.
+
+25% due to sharp exchange rate movements and imported prices.
+
+Thus around 62% of inflation deviations from target is due to outside forces that are difficult for a central bank to
+control in the short run: echoing what the Governor has said, central banks cannot grow more food, supply more
+gas or make the wind blow stronger. Whether the central bank should take offsetting action today is a separate
+point that I’ll come back to below, but I expect much of the recent variation to be transitory as it has been in the
+past.
+4. The inflation problems of the 1970s were in part due to changes in commodity prices but also the long
+drawn-out response of wages to such changes. So then, as now, commodity prices and the labour
+market will be crucial to understanding the inflation process. Even though much of the current inflation
+is due to outside forces such as energy prices, but the labour market is tight and we have to be vigilant.
+In my view, if the labour market stays tight, Bank Rate will have to rise.
+5. We should maintain a long term perspective. The pandemic was the worst shock to hit the UK economy
+in 100 years.1 We have managed to recover largely from this shock, with, on current data, almost no
+rise in unemployment and the likely reabsorption of nearly all workers who were furloughed, who at one
+point accounted for almost one third of the workforce. In my view the prospective rise in Bank Rate
+from its emergency level – when that comes - is not a bug, but a feature. It reflects the success of the
+policies, mostly fiscal, health and science that have supported the economy over the pandemic.
+
+1
+
+In terms of its impact on GDP.
+2
+
+In what follows, I’ll try give some insights into how inflation is modelled, what went wrong in the 1970s and what
+policy might do now.
+2. How to think about inflation
+Trying to guess what a central banker will do is a cottage industry. In a constructive effort to help with that
+endeavour let me set out a description of inflation that I claim is in the head of many policy-makers including
+myself. I also hope this will be of interest to anyone concerned with the future of the economy. In what follows
+I’ll be cautious to not oversell this framework because (like any model) it is necessarily simplified and stylised
+relative to the real world, and has some critics, for example see an interesting critique by Jeremy Rudd (2021).
+2a. Broad outline
+Before getting into the details, let me sketch a broad outline. Firms are setting prices based on the (marginal)
+costs they are facing and expect to be facing in the future. If they face, or expect to face, more taxes, higher
+energy prices, and escalating labour costs, they will be contemplating raising prices. A potentially important
+element of costs in the current situation is “adjustment costs”. The costs of re-opening, say, a restaurant, after
+the pandemic are not only the staff and the building, but the costs of hiring new staff, finding a new building etc.
+So firms are heading towards a target level of prices based on these costs. But they don’t get there
+immediately. Firms are rightly cautious about adjusting too fast: maybe large changes might deter customers
+for example. And maybe expectations change: an energy cost rise might be reversed. So firms adjust slowly
+towards their target price level. In this account, inflation, general price rises, depends on what firms expect
+inflation to be in the future (since that determines how much they will have to adjust their prices now) and the
+target price to which they are heading. In turn, that target price depends on the costs they face now and in the
+future.
+At least part of those expectations of inflation will be determined by the central bank’s inflation target. So what
+can the central bank do to keep inflation on target? It is often said that Central banks need to be “credible”.
+Equally, they have to “take the punch bowl away at the party”. What do these statements mean in the context of
+the framework above? First, by maintaining credibility, Central Banks will hope that long-run expectations are
+“anchored” to the target. Second, at least some cost pressures are likely determined by how “hot” the economy
+is running: wages for example, might be bid up if the economy is running “hot” such that demand for workers is
+running ahead of supply. Thus central banks can raise interest rates to “cool down” the path of the economy
+and relieve these cost pressures.
+After a more formal outline of this model, we shall trace out how this framework helps understand inflation then
+and inflation now.
+
+3
+
+2b. Formal analysis
+For those preferring a more formal analysis, we start by thinking about the economic decisions of a
+representative firm selling goods to a representative consumer in the United Kingdom. This firms seeks to
+maximise its expected discounted profits today and in the future subject to constraints on production and the
+sensitivity of consumers demand 𝐷 to prices. In equations, that problem is as follows:
+
+𝑀𝑎𝑥{𝑌,𝑝,𝑁,𝐾,𝑀,𝐸} ∑ 𝛽 𝑡 𝑬𝒕 [𝑝𝑡 𝑌𝑡 − 𝐶(𝑌𝑡 ) − Γ (Δ𝑃𝑡 , Δ𝑁𝑡 , Δ𝐾𝑡 , Δ𝑀𝑡 , Δ𝐸𝑡 )]
+𝑡=0:∞
+
+Such that: 𝑌𝑡 = 𝐹(𝐾𝑡 , 𝑁𝑡 , 𝑀𝑡 , 𝐸𝑡 ) , 𝑌𝑡 = 𝐷(𝑝𝑡 ) , 𝐶(𝑌𝑡 ) = 𝑝𝑘,𝑡 𝐾𝑡 + 𝑝𝑤,𝑡 𝑁𝑡 + 𝑝𝑚,𝑡 𝑀𝑡 + 𝑝𝑒,𝑡 𝐸𝑡 + 𝑝𝑡𝑎𝑥,𝑡 𝑌𝑡
+This says that firm i decides price (𝑝𝑖 ) and the level of its inputs (labour (N), capital (K), imports (M), energy (E)).
+These decisions are contingent on the production function of the firm (F), the cost of each input (𝑝𝑥 ), taxes, and
+the sensitivity of demand to prices. We further assume there exist adjustment costs Γ associated with large
+changes in prices or inputs in short periods of time. For example, it is costly to rapidly increase or decrease
+staffing levels, contracts or reputational constraints may prevent or dissuade firms from large and frequent price
+changes and so on. Absent these adjustment costs, profit-maximising firms would choose to set prices as a
+markup (𝜇) over marginal costs (MC):
+𝑃∗ = μ ∗ 𝑀𝐶 ∗
+Which says firms will ideally charge consumers a price proportional to the cost of producing one extra unit of the
+good or service they provide. Why is there a markup?2 In a competitive environment with no other costs or risks
+associated with production, firms would be constrained to set prices equal to marginal cost [𝜇 = 1] as any
+deviation from that price would be punished by consumers rapidly switching to other providers. Markups arise
+when firms have overheads to cover (fixed costs) like management, human resources and advertising costs.
+Firms may also enjoy some level of price insensitivity due to brand loyalty or a lack of a perfect substitute for the
+good or service they provide (although the higher markup afforded to firms who benefit from any price
+insensitivity should be better thought of as payments for risky intangible investments in e.g. branding or product
+development that underpin the firm’s market position).
+If the level of prices is primarily a function of marginal costs and desired/required markups, then changes to
+marginal costs or desired/required markups are our key drivers of changes in prices, i.e. inflation, disinflation or
+deflation. So what determines marginal costs? In order to produce an extra unit we need more inputs, which we
+assume include imported goods and materials, energy, labour and capital. Therefore marginal costs are a
+function of input prices. In the interest of time I will refer you to good economics papers or textbooks e.g. Walsh
+(2010) or Battini et al (2005) for details of the derivation but today let it suffice to say that one can derive the
+following equation from the maximisation problem outlined above:
+
+2
+
+For simplicity, I assume it’s constant.
+4
+
+𝜋𝑡 = (1 − β)π∗ + 𝛽𝐸[π𝑡+1 ] + 𝜅( 𝑚𝑐 − 𝑚𝑐 ∗ ) + 𝛾(Δxt , Δxt+1 ) + 𝜙(Δptax,t , Δptax,t+1 )
+Which says that price changes 𝜋𝑡 are a function of some constant rate of inflation 𝜋 ∗ , the expected rate of
+inflation tomorrow, temporary log deviations of real marginal costs from their expected longer run equilibrium,
+relative real input adjustments Δ𝑥𝑡 and tax changes. Firstly let us think about 𝜋 ∗ . This term is determined
+outside the model, but one hopes it is equal to the Bank of England’s two percent target given to us by the
+government. Absent any unexpected deviations or adjustments, current and expected inflation should be 𝜋 ∗ .
+When inflation drifts away from the target, central banks are expected to act to bring inflation back in line with
+the target. They do so by seeking to influence aggregate demand via a loosening or tightening of monetary
+conditions i.e. interest-rate changes or bond purchases. Once households and institutions understand this,
+inflation expectations anchor themselves around the target and become embeded in routine price re-setting.
+That’s why central bankers look closely at measures of longer run inflation expectations.
+But inflation is not always constant at 𝜋 ∗ , even if peoples’ longer run inflation expectations remain anchored.
+The reason for that is the economy is constantly buffetted by shocks. We’ve had a few huge ones recently with
+the economic impact of Covid-19, and the related global supply shortages and swings in energy prices. These
+shocks often move faster than firms and households are willing or able to adjust and lead to short-term
+inflationary pressures represented by gaps between actual marginal costs and an unobserved theoretical
+marginal cost 𝑚𝑐 ∗ consistent with what we expect marginal costs to be absent these shocks. When these gaps
+open up firms are moved away from their desired/required markup and will adjust prices accordingly. Note that
+we are now talking about real marginal costs expressed relative to the price firms sell their product, i.e. ln(
+
+𝑀𝐶
+𝑝
+
+).
+
+We do this because firms care about unit costs relative to their unit prices. If input prices increase relative to
+output prices, markups decrease and firms need to increase prices to restore the markup. Finally the coeffcient
+𝜅 arises because we expect the adjustment of prices to close the marginal cost gap over time and not
+instantaneously.
+To proceed let’s make a further simplifying assumption3 that the log of real marginal costs can be expressed as
+an input-share-weighted linear combination of real input prices 𝑝̅𝑖 minus the level of total factor productivity 𝑎.
+Note that higher productivity allows us to produce more for the same given level of inputs and thus lowers
+marignal costs:
+
+𝑚𝑐 = 𝑐 + ∑ 𝑎𝑖 𝑝̅𝑖 − a,
+
+∗
+∗
+̅̅̅̅̅
+mc − mc ∗ = ∑ 𝛼𝑖 (𝑝
+̅̅̅̅
+𝑖,𝑡 − 𝑝𝑖,𝑡 ) − (a − a )
+i
+
+Putting this into the Phillips Curve gives
+
+∗
+∗
+̅̅̅̅̅
+𝜋𝑡 = (1 − β)π∗ + 𝛽𝐸[π𝑡+1 ] + 𝜅 ∑ 𝛼𝑖 (𝑝
+̅̅̅̅
+𝑖,𝑡 − 𝑝𝑖,𝑡 ) − κ (a − a ) + 𝛾(Δxt , Δxt+1 ) + 𝜙(Δptax,t , Δptax,t+1 )
+i
+
+The keen economists amongst us might note this akin to an assumption of a Cobb-Douglas production function assumption where 𝐹 =
+𝛼
+𝐴 ∏𝑖 𝑥𝑖 𝑥 .
+3
+
+5
+
+So inflation today is driven by long run expected inflation plus all current and expected future deviations in real
+marginal costs plus adjustment costs. Under this view, inflation-targeting central banks must look at
+expectations, and the costs incurred, and expected to be incurred by firms, if they want to understand how firms
+are likely to be setting their prices. That means it’s important to understand and communicate not just recent
+input price moves but also how those input prices might be expected to move in the future. It’s also important
+that businesses and households expect these gaps to close in the long run, and the central bank has a part to
+play in that.
+2c. Implementing the model
+I want to show how this model can be practically implemented. To do so, let me take a number of steps. First,
+one can replace the current prices terms and expected inflation term in the above equation with a forecast for
+each of the individual terms. A way to do that is by conducting a forecast based on the past history of deviations
+from trend of each of the inputs. This alters the equations above to the following form:
+∗
+∗
+̅̅̅̅̅̅̅̅
+𝜋𝑡 − π∗ = ∑ ∑ 𝜆𝑖,𝑡−𝑘 (𝑝
+̅̅̅̅̅̅̅
+𝑖,𝑡−𝑘 − 𝑝𝑖,𝑡−𝑘 ) − 𝜆𝑎,𝑡−𝑘 (at−k − at−k ) + 𝜆𝛾,𝑡−𝑘 Δxt−k + 𝜆𝜙,𝑡−𝑘 Δ𝑥𝑡−𝑘
+𝑘
+
+i
+
+Where the 𝜆 coefficients on the lags of the deviations require estimation.
+Second, for an open economy like the United Kingdom it's useful to further divide cost drivers into external and
+internal ones. The equation below makes that distinction clear by expanding the input price terms with the
+external terms for energy and import prices in blue:
+
+∗
+∗
+∗
+̅̅̅̅̅̅̅̅
+̅̅̅̅̅̅̅̅
+̅̅̅̅̅̅̅̅
+𝜋𝑡 − π∗ = ∑ 𝜆𝑙,𝑡−𝑘 (𝑝
+̅̅̅̅̅̅̅
+̅̅̅̅̅̅̅̅
+̅̅̅̅̅̅̅
+𝑙,𝑡−𝑘 − 𝑝𝑙,𝑡−𝑘 ) + 𝜆𝑘,𝑡−𝑘 (𝑝
+𝑘,𝑡−𝑘 − 𝑝𝑘,𝑡−𝑘 ) + 𝜆𝑒,𝑡−𝑘 (𝑝
+𝑒,𝑡−𝑘 − 𝑝𝑒,𝑡−𝑘 )
+𝑘
+∗
+∗
+̅̅̅̅̅̅̅̅̅
++ 𝜆𝑚,𝑡−𝑘 (𝑝
+̅̅̅̅̅̅̅̅
+𝑚,𝑡−𝑘 − 𝑝𝑚,𝑡−𝑘 ) − 𝜆𝑎,𝑡−𝑘 (at+k − at+k ) + 𝜆𝛾,𝑡−𝑘 Δxt−k + 𝜆𝜙,𝑡−𝑘 Δ𝑥𝑡−𝑘
+
+Third, central bankers tend to refer to the “output gap” when talking about inflation. How does this enter this
+framework? The assumption is that if demand moves ahead of what the domestic economy is able to supply
+that will tend to put pressure on wages as workers are asked to work harder and are able to move more easily
+between competing firms seeking to expand. Similarly higher utilisation rates of the capital stock [CAPU] leads
+to higher returns in the short run (higher 𝑝𝑘 ) but eventually creates costs pressures as the capital stock strains
+under demand.
+𝑝̅𝑙 − ̅̅̅̅
+𝑝𝑙,∗ ∝ 𝑦 − 𝑦 ∗
+∗
+∗
+̅̅̅̅
+𝑝𝑘 − 𝑝
+̅̅̅
+𝑘 ∝ 𝐶𝐴𝑃𝑈 ∝ 𝑦 − 𝑦
+
+The proportional relationships between these demand-induced marginal cost gaps and real quantities are folded
+together in the summary statistic that is the output gap [𝑦 − 𝑦 ∗ ]. Substituting the output gap for the 𝑝𝑙 and 𝑝𝑘
+terms leaves us with our final expression for the determinants of price inflation:
+6
+
+∗
+∗
+∗
+̅̅̅̅̅̅̅̅
+̅̅̅̅̅̅̅̅̅
+𝜋𝑡 − π∗ = ∑ 𝜆𝑦,𝑡−𝑘 (𝑦 − 𝑦 ∗ ) + 𝜆𝑒,𝑡−𝑘 (𝑝
+̅̅̅̅̅̅̅
+̅̅̅̅̅̅̅̅
+𝑒,𝑡−𝑘 − 𝑝𝑒,𝑡−𝑘 ) + 𝜆𝑚,𝑡−𝑘 (𝑝
+𝑚,𝑡−𝑘 − 𝑝𝑚,𝑡−𝑘 ) − 𝜆𝑎,𝑡−𝑘 (at+k − at+k )
+𝑘
+
++ 𝜆𝛾,𝑡−𝑘 Δxt−k + 𝜆𝜙,𝑡−𝑘 Δ𝑥𝑡−𝑘
+2d. Some lessons
+What do we learn from this framework? First, inflation will be determined in part by shocks to energy and import
+prices. But these are often independent of domestic economic conditions (e.g. they might be determined by
+socio-political or natural (e.g. weather) events in raw-material exporting countries). Now, monetary policy could
+try to offset these effects.. For example, sharply raising interest rates in response to a significant increase in oil
+prices may provide a modest cushion against a jump in the inflation rate through a stronger4 pound. But any real
+reduction in UK activity stemming from the rise in interest rates will have little to no impact on the fundamental
+global supply imbalance underlying the energy price change.
+Second, the effects on inflation of, say, energy prices, depend on what other prices do. If a rise in energy prices
+is met by a fall in other prices, say wages, then inflation is muted. We shall return to the topic of the domestic
+economy’s absorption of external cost shocks in the next section as this necessary adjustment is not something
+that can be taken for granted.
+Third, current rises in imports prices are often described as “supply side” problems. Shortages of, for example,
+sea containers due to ports being closed due to Covid would be an example. But some of the price rises are
+due to the inability to supply, perhaps due to adjustment costs, following with very strong rises in demand:
+bicycle price rises for example. So at least some “supply side” problems might be due to the strong demand
+side.
+Fourth, it will be apparent that the output gap is a catch-all term for the underlying domestically- focused input
+costs. It can therefore be misleading if other factors mediate the difference between input costs and the output
+gap. Further, we don’t observe y*, which is unsatisfactory, and there are many and often offsetting supply and
+demand factors that determine 𝑦 ∗ . But we do at least measure y and this can be easier than measuring
+marginal costs, markups or CAPU of which we have no official timely measures. In light of this, the MPC
+conducts regular data-intensive forecast rounds in an attempt to pin down the output gap today and its likely
+evolution over the coming months and years. These forecast rounds focus on a myriad of economic indicators,
+domestic and international, which taken together feed into a collective view on the stance of the domestic
+economy.
+
+When domestic interest rates rise the exchange rate should adjust and strengthen to rule out arbitrage opportunities that would become
+available to investors willing to move their savings to UK bank accounts. An exchange rate strengthening in turn lowers the price of imports
+invoiced in other currencies.
+4
+
+7
+
+2e. Inflation now.
+Let us now apply this formula. To do so we need data on the output gaps, the energy, import and tax rates and
+the coefficients in the formula. With these data and assumptions we get Chart 1, a decomposition constructed5
+for this talk for the period 1995-2019. The black line is the percentage point deviation of actual inflation from
+2%6. Notice first that despite some persistent departures from target, the area of the curve up until 2019 Q4
+sums to zero and tells us on average the target has been hit.
+Chart 1: Inflation deviations from target in the inflation targeting era
+
+Source: ONS, Bank of England and author calculations.
+Note: The chart decomposes deviations of year over year CPI inflation from 2 percent shown by the black line. The food and energy
+contributions are calculated directly from their CPI weights. The output gap contribution is based on a reduced form Philips curve
+embedded in an output gap filter (see Melolinna & Toth, 2016) and the Bank of England’s estimate of the output gap. The tax
+contributions use ONS calculations of the effect of indirect tax changes on CPI. Other import and exchange rate contributions are
+determined by a regression of the CPI residual deviation on 8 lags of de-trended non-fuel import prices, de-trended imported fuel prices,
+Bank of England measure of the multi-lateral effective exchange rate and changes to trend supply growth. The yellow bars are
+determined as a residual and assumed to constitute other supply effects, adjustment costs and misspecification.
+
+What does this decomposition tell us? First, when there have been significant departures, internationally
+determined prices such as energy prices, commodity prices and other import prices have played a big role.
+Food and energy prices (the dark blue bars) account for 24% of the gross integral of deviations from target.7
+Second, changes to taxes like VAT (dark green bars) account for a further 13 percent of variation, with these
+changes assumed to be passed through by firms to consumer prices as one-off price changes. Third, import and
+exchange rate effects (light blue bars) not accounted for by the output gap or productivity changes, account for
+a further 25 percent of the integral. These other import-price and exchange-rate movements stem from other
+
+See note to chart and appendix for more details.
+Between 1997-2003 the target was 2.5% for RPIX, and has been 2% since then for CPI.
+7
+Core inflation excludes these items with largely internationally determined prices and are perhaps a clearer read of domestic economic
+conditions.
+5
+6
+
+8
+
+global supply factors, financial market volatility and domestic factors. For example, they contributed to the
+departure from target following the substantial depreciation of the pound after the Brexit referendum in 2016.
+Some of this change could be attributed to excessive financial market volatility and it’s hard to argue that
+Britain’s ability to supply and demand goods was hugely impaired in the weeks and months following the
+depreciation. In that sense the depreciation felt like an external shock. But underlying the depreciation would
+have been deeper concerns about domestic supply in the longer run and transition risk.
+In sum, an important key message is that food and energy price changes, tax changes and import price
+movements have been the proximate causes of 24+13+25=62% of the gross deviations from target.
+It is instructive to consider some particular years. The largest departure from target in Chart 1 occurred in 2011
+when, as the black line shows, year-on-year CPI inflation reached 5 percent. This was largely explained by the
+green bars showing the effect of increases of the VAT rate from 15% to 17.5% in 2010 and then to 20% in 2011
+alongside other indirect tax increases over that period. At the same time internationally determined food and
+energy prices also rose significantly. Against this, the output gap (dark purple bars) were pulling down on
+inflation (disinflation), and is estimated to have been a significant drag for much of the decade following the
+Global Financial Crisis (GFC) of 2008-2009. And indeed, inflation fell below target between 2014 and 2017 as
+the temporary effects pushing up on inflation fell dissipated and then reversed. This example illustrates the
+trade-offs that policy-makers faced at the time: high inflation and a negative output gap (i.e. low activity). In this
+case “looking through” that temporary period of high inflation was the right policy.
+Finally a point about equilibrium. Decompositions like that in Chart 1 work well when the economy is in a
+relatively stable equilibrium. That includes stable long term inflation expectations, stable institutions, and stable
+growth rates. Without this stability the means by which the economy processes shocks becomes unpredictable
+and the assumption that inflation and the domestic economy react to lagged deviations of, for example, energy
+or import prices in a consistent manner, becomes invalid. That is to say the ability to explain and forecast
+inflation rests on the assumption that everyone understands the equilibrium we are in and the ability of our
+institutions to deliver that equilibrium. We will now study a period that was not so stable.
+3. Inflation then
+3a. The 1970s
+Chart 1 started in 1995 and showed the importance of energy prices. But what about inflation and energy
+prices before then? Chart 2 shows inflation and energy prices back to 1970. As the chart shows, inflation ran
+away in the 1970s which was also when oil prices rose. Consumer price inflation was more than 25% in August
+1975, and more than 18% in May 1980 – orders of magnitude greater than the 4.2% in October 2021.
+So the puzzle is: why did inflation run away then, but not now? Are we somehow better insulated from these
+and other shocks to the economy or are we destined for a repeat of the 1970s?
+
+9
+
+Chart 2: UK consumer prices and WTI oil price
+
+Source: ONS for UK CPI and Federal Reserve Bank of St. Louis for the West Texas Intermediate spot crude oil price.
+
+3b. Inflation and energy prices
+As we have seen, inflation can be boosted by rising energy prices as firms react to the prices of their inputs.
+But it can be affected by the prices of other inputs too, such as those of labour and capital. So to understand
+inflation better, we need to understand the relation between all these prices.
+How are these prices linked? The formal link between factor prices and productivity is the “factor price frontier”,
+which gives the maximum combinations of input prices consistent with a certain cost per unit of output. Thus for
+example, for a given output price and productivity, a firm paying very high material costs and very high wages
+would have little room for capital payments. Thus we may think of firms in the following way. Firms buy in
+intermediate inputs to which, using capital and labour, they add value (a supermarket for example buys in food
+and uses labour and capital to fill the shelves and deliver the food thus providing retailing services). The value
+of gross output of these firms is therefore defined as the value of the bought in food plus the value of services
+provided. The net output, or value added, is the gross output less the food. The gross output is available to pay
+for the food, capital and labour inputs, and the value added to pay for the capital and labour inputs. In
+considering payments to labour and capital therefore, what matters to firms is those payments in terms of the
+value added. So when considering unit costs of workers and capital, the costs that firms care about are wage
+and capital payments in terms of value added, which we write (𝑝𝑙 ∗ 𝐿)/(𝑝𝑣 ∗ 𝑉) and (𝑝𝑘 ∗ 𝐾)/(𝑝𝑣 ∗ 𝑉).8
+Now if firms care about the real product wage (𝑝𝑙 /𝑝𝑣 ), what do workers care about? They consume not value
+added, but consumption goods. So they care about (𝑝𝑙 /𝑝𝑐 ). Consider then a rise in imported material costs
+(food costs in the above example). We may think of two rounds of effects. The first-round effect is this: if a firm
+
+For labour, another way of expressing this is (𝑝𝑙 /𝑝𝑣 )/(𝑉/𝐻), the real product wage divided by labour productivity, the latter being value
+added (“real product”) per hour worked.
+8
+
+10
+
+just passes on that rise in costs to its selling price in proportion to the share of material costs in final selling
+costs, then value added is unaffected and the firm has the same value added to distribute to labour and capital.
+Under these circumstances, nothing more would occur; the economy would have adjusted via some
+consumption price inflation and (𝑝𝑙 /𝑝𝑣 ) remains the same.
+The second-round effect comes from the point that workers will now find themselves worse off: their purchasing
+power (𝑝𝑙 /𝑝𝑐 ) has fallen. If they push for a rise in 𝑝𝑙 to restore purchasing power, then productivity must rise for
+payments to capital to stay the same, or payments to capital fall. So a diagnostic for this second-round effect is
+(𝑝𝑙 /𝑝𝑣 ) relative to value added per hour (𝑉/𝐻): if these are out of line, capital payments will fall. Now, there is of
+course no reason that capital payments have to be defended. But in an open economy with capital mobility, we
+would expect capital to eventually leave economies with persistently low capital returns: factories setting up in
+low-cost countries for example. So taking (𝑝𝑙 /𝑝𝑣 ) relative to (𝑉/𝐻) as a benchmark seems like a reasonable
+rough diagnostic.
+Turning to the data, the real product wage is designed to measure the cost of hiring incurred by firms. It is
+defined as hourly labour compensation less employment subsidies, deflated by the GVA deflator at basic prices
+(basic prices means a consistent treatment of taxes and subsidies).9 Employment subsidies are therefore
+subtracted from pre-tax and subsidy labour payments since they defray labour costs of firms.
+The charts below set out the data. They show the real product wage (𝑝𝑙 /𝑝𝑣 ), productivity (𝑉/𝐻) and the real
+consumption wage (𝑝𝑙 /𝑝𝑐 ) in the 1970s in the left chart and during the late 2000s in the right chart.
+Chart 3 (Panel A) shows how during the first oil shock in the mid-1970s, workers’ resistance to cuts in their real
+consumption wage brought on by surging oil prices translated into a rise in the real product wage, to a level
+above that commensurate with their productivity. Such “real wage resistance” to energy prices was first
+analysed by Michael Bruno and Jeffery Sachs in their 1985 book The Economics of Worldwide Stagflation. It
+was relatively short-lived however, and the real product wage rose by less than productivity over the subsequent
+decade from 1977.
+Chart 3 (Panel B) shows the behaviour of real wages relative to output per hour starting in the first quarter of
+2008. In the aftermath of the GFC, inflation peaked at 5.2% in September 2011, following one-off cost shocks
+from rising energy prices, there was a 25% depreciation of sterling during the crisis, and the VAT increase to
+20%. The fall in the real consumption wage is striking – pointing to much greater real-wage flexibility than during
+the 1973/4 oil shock – while over that period the real product wage evolved broadly in line with hourly
+productivity until 2013/14, and started to fall behind thereafter.
+
+9
+
+Compensation is defined as wages and salaries plus firms’ social insurance contributions.
+11
+
+Chart 3: Real wage resistance
+Panel A: 1970s
+
+Panel B: 2010s
+
+Source: ONS and author’s calculations. The real product and consumption wages are calculated as hourly labour compensation less
+employment subsidies, deflated by the GVA deflator at basic prices and the consumer price index respectively. Productivity is calculated
+as GVA at basic prices divided by total hours worked.
+
+We can construct a measure of the share of labour costs in value added that is conceptually similar to the real
+product wage, in that it captures labour costs incurred by firms.10
+Chart 4 shows how the “labour cost share” has evolved over the past 50 years. Looking at the chart, it’s
+immediately apparent that workers’ share of income rose rapidly in the mid-1970s, when the real product wage
+was running ahead of productivity, only to fall more or less continuously until the mid-1990s and recover after
+that. Notice how the labour share is stable when the real product wage grows in line with labour productivity, as
+in the 2000s until the immediate aftermath of the GFC.
+
+The labour cost share measure used here is defined as labour compensation less employment subsidies, divided by GVA at basic prices.
+It differs conceptually from that officially published by the ONS. The published measure is the share of nominal labour compensation in GVA
+at factor costs. The numerator does not deduct employment subsidies because it focuses on the total labour income disbursed to workers.
+10
+
+12
+
+Chart 4: Labour costs share
+
+Source: ONS and author’s calculations. The labour cost share is calculated as the real product wage divided by output per hour, as defined
+in the source to Chart 3. It is indexed to the published ONS labour share measure in 2019 Q1. The published ONS measure can be found in
+the ONS’s Labour costs and labour income, UK: 2021.
+
+3c. Why the difference?
+So what can explain the drastically different evolution of the rewards to labour and capital in the mid-1970s and
+2000s? Two obvious candidates are labour and product market reform upon which much has been written, see
+e.g. Layard, Nickell, Jackman (2005).
+Chart 5: Trade union membership in Great Britain
+
+Source: Trade union statistics 2020, GOV.UK
+
+Starting with the labour market, one contributing factor Bruno and Sachs pointed to in their book was
+labour-market institutions, in particular the degree of employment protection and unionisation and the extent to
+which real wages adjusted in the face of external shocks. Chart 5 shows that trade-union membership was
+rising rapidly throughout the 1970s, to peak in 1979. Union membership then continued to fall to reach pre-WWII
+levels in 2020.
+13
+
+Turning to capital market reform, one development has been increasing international capital mobility. I’ve
+illustrated that from a UK perspective in Chart 6. It shows the evolution of the UK’s external assets as a share of
+GDP since 1970. These are the total financial claims of UK residents on non-residents – how much capital
+we’ve invested abroad. The six-fold increase in the ratio over the past 50 years, starting at 100% in the 1970s to
+reach 600% in 2020, is a testament to how much more open capital markets have become.
+Chart 6: UK international capital mobility
+UK external assets as a percentage share of GDP
+
+700
+600
+500
+400
+300
+200
+100
+0
+
+1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+Source: Lane Milessi-Ferretti (2021) External Wealth of Nations dataset.
+Lane, Philip R. and Gian Maria Milesi-Ferretti, External Wealth of Nations database (based on Lane, Philip R. and Gian Maria Milesi-Ferretti,
+2018, "The External Wealth of Nations Revisited: International Financial Integration in the Aftermath of the Global Financial Crisis," IMF
+Economic Review 66, 189-222).
+Note: External assets are the sum of portfolio equity, foreign direct investment, debt assets, financial derivatives and foreign-exchange
+reserves less gold.
+
+3d. Credibility
+In the theoretical framework I set out at the beginning, I said inflation today is a weighted average of some
+constant rate of inflation 𝜋 ∗ , and current and expected future deviations in real marginal costs plus adjustment
+costs. In an era of inflation targeting, as long as the MPC is expected to set policy in a way that will bring
+inflation back to the target when it deviates from it, 𝜋 ∗ embodies the central bank’s target. So, much hangs on
+the credibility of central banks.
+One gauge of that credibility is the substantial decline of households’ expected inflation in response to oil-price
+shocks over the past forty years. You can see in Chart 7 that during the 1970s oil price shocks, when oil-price
+inflation was peaking at more than 180%, UK households expected inflation one year hence to range between
+10 and 15%. That figure was 2.7% last September, following an oil inflation rate of more than 270% in April.
+
+14
+
+Chart 7: UK households’ median one-year ahead inflation expectations and WTI oil price
+
+Source: Federal Reserve Bank of St. Louis for the West Texas Intermediate spot crude oil price; for households’ inflation expectations, from
+1970 Q1 to 1986 Q4, Gallup and EC surveys based on Batchelor and Orr (1988); from 1987 Q1 to 1996 Q2, average of Barclays Basix median
+one-year ahead and extended Batchelor and Orr measure; from 1996 Q3 to 1999 Q3, Barclays Basix adjusted for average difference with the
+50:50 measure over the 2001-5 period; from 1999 Q4 to 2009 Q4, average of Barclays Basix median one-year ahead and Bank/GFK median
+one-year ahead; from 2010 Q1, Bank/Kantar median one-year ahead.
+
+Where does that credibility come from? It is often argued credibility is limited if, as in the 1970s, politicians are
+responsible for both the target and operation of monetary policy. For example, it has been argued that in the
+face of adverse shocks politicians inflated demand relying on “Verdoon’s law”, namely the belief that increases
+in demand would lead to economies of scale in industry and boost productivity.11
+On the monetary policy side, there was no inflation targeting and no independent central bank in charge of
+achieving a target. The government relied on wage and price controls to moderate input costs.
+Since then, much has changed in the design and conduct of monetary policy. In 1992, the UK adopted a form of
+inflation targeting and in 1997, the Bank of England was granted operational independence to achieve the
+inflation target. The motivation was two-fold. Firstly, an explicit target for inflation reduces the degree of
+uncertainty about future prices, making monetary policy more predictable (this is known as providing a “nominal
+anchor”). Secondly, the idea was that a central bank that sets policy independently, free from political
+interference and the electoral cycle, would build credibility.12
+
+See Dimsdale and Thomas (2020).
+The view was also taken that to affect expectations, policymakers should explain their understanding of economic developments and how
+that understanding affects their policy decisions to achieve the inflation target. This was the goal of the publication of the Inflation Report in
+1993, now called the Monetary Policy Report, and of MPC members’ regular appearances before the Treasury Select Committee.
+15
+11
+12
+
+4. Policy
+4a. Energy and other contributions
+Chart 8: Inflation outlook
+
+Source: ONS, Eikon by Refinitiv, Bank of England & Author calculations
+Note: Panel A shows three series normalised by their mean and standard deviation for the period 2011-2021. Shipping is
+the HARPEX shipping price index. Oil is the spot price for Brent crude oil. Gas is the UK national balancing point price for
+next day delivery. All series plotted as monthly averages with the last data point in November 2021. Panel B shows the
+contributions and forecasted contributions from the Bank of England November 2021 MPR of different components of the
+CPI basked to CPI inflation. Each contribution is expressed as deviations from its average contributions from 2010-2021.
+The forecast ends in March 2022.
+
+What does this all mean for policy? Let us turn to the very recent period and the latest MPR forecast.
+CPI inflation rose to 4.2% in October and the MPC expects inflation to continue to rise towards 5 percent in
+2022. Chart 8 shows some of the proximate factors behind this rise. Panel A shows the extraordinary recent
+spikes in container shipping rates, gas prices and oil prices. As we documented earlier, such changes have
+historically accounted for large shares of inflation changes. What of the future? There are two-sided risks. As
+set out in the November MPR due to the operation of the price cap, future prices will stay high, nudging up
+overall inflation. But, if these prices fall back substantially, then future price caps may well lower inflation.
+Indeed, in the MPR we calculated that such a fall could lead inflation to be 1 percent lower at its peak in 2022.
+An interesting side-note here13 is that while oil prices and shipping rates can be quite clearly linked to the
+pandemic and global supply issues, the recent volatility in gas prices could be linked to recent efforts to
+decarbonise the economy. Ongoing efforts may therefore induce more volatility in the medium term from energy
+prices as we continue along this transition.
+Panel B of Chart 8 sets out the contributions to past and future inflation in terms of their deviation from the
+1996-2021 average. Interestingly, over the pandemic, fuel prices had a below-average effect on lowering
+inflation. In the forecast however, all categories, except services, are pushing up on inflation to a greater extent
+than normal and thus taking us above target. In particular, goods prices have an above-average effect of raising
+
+13
+
+See What we know about climate change and inflation | VOX, CEPR Policy Portal (voxeu.org) for more on this.
+16
+
+inflation. These goods prices are likely globally determined and hence their rising prices are a likely a
+combination of global supply disruptions related to Covid-19 and other idiosyncratic factors, alongside
+heightened demand for goods relative to services. As I’ve argued there is little UK monetary policy on its own
+can do to rectify these global imbalances. But my central expectation is that these inflationary pressures will
+moderate as the level of these energy prices is expected to fall back, demand for goods relative to services
+moderates and global supply chains catch up. That said, there is of course substantial uncertainty about how
+long this will take.
+Finally, the contribution to inflation of services is in line with its average contribution. Since domestic services
+are in large part due to domestic wages, I turn to the labour market next.
+4b. The labour market
+One of the elements driving wage inflation is the “tightness” of the labour market. So how might one judge
+tightness? One very useful tool is the relation between unemployment (U) and vacancies (V) summarised in the
+Beveridge or UV curve.
+Beveridge14 was interested in understanding the simultaneous co-existence of unemployed workers and
+vacancies. He reasoned they must coexist if workers and firms had difficulty finding each other. There could
+not simultaneously be many vacancies and many unemployed (or else they would find each other and so both
+vacancies and unemployment would fall), so the relationship, shown in Chart 9 must be negative: for a given
+“finding technology” more vacancies would mean fewer unemployed and vice versa. In a recession, u rises and
+v falls and so one moves down the curve: in a recovery back upwards. But if the unemployed are ill-suited to
+the vacancies the curve moves out (from black to red). So the VU curve is a diagnostic tool: movements up and
+down the curve are the ups and downs of the business cycle. Movements in and out are “mismatch” between
+available unemployed and vacancies getting better and worse. The modern analytics of the curve are due to
+the 2010 Nobel Prize winners, Peter Diamond, Dale Mortenson and Christopher Pissarides.
+
+See Yashiv (2000). The Beveridge Report, 'Social Insurance and Allied Services' (1942) is credited with the proposal that effectively founded
+the modern UK welfare state.
+17
+14
+
+Chart 9: A theoretical Beveridge (VU) curve
+
+Chart 10 sets out what we see in the UK data. Starting in 2007, we can see that the financial crisis moved the
+economy down the curve to the south-east, with falling vacancies and rising unemployment. In 2011 we were at
+the most south-easterly point on the curve and the economy slowed recovered, moving up the curve in
+subsequent years. Recall from Chart 1 that in 2011 for the next few years the output gap pulled down on
+inflation. That is, the relatively high unemployment and low vacancies meant a slack labour market (a relatively
+low V/U ratio), which in turn, served to lower inflation.
+At the start of the pandemic, 2019, the economy was north-west of 2007, with high vacancies and low
+unemployment, and the green line plots out the economy in VU space since the onset of the pandemic. At the
+start of the pandemic vacancies fell. However, the fall in vacancies was not followed by a commensurate and
+sustained increase in unemployment. The main reason for this was the furlough scheme, which shielded
+millions from unemployment. The line partially adjust for the furlough scheme by assuming that 10 percent of
+furloughed workers were in effect unemployed (see note to chart) and makes the economy’s path in VU space
+look more like a shift along the curve as had been the case after 2007.15
+
+The appendix shows changes in other countries. The United States, which did not have a furlough scheme experienced an unemployment
+rate as high as 14.8 percent in April 2020 but today find themselves in a similar position to the UK with slightly elevated unemployment and
+significantly elevated vacancies.
+18
+15
+
+Chart 10 : The Beveridge (VU) curve
+
+Source: ONS, Bank and author calculations.
+Note: The 2020-2021 period has been adjusted by assuming that 10 percent of furloughed workers were in effect unemployed. This was
+calibrated using the Labour Force Survey microdata and is based on an estimate of the proportion of workers who report to be on
+furlough and state that they are searching for an additional or different job. The estimate comes from the LFS microdata. 21Q4 is a
+forecast based on the Bank of England MPR and extrapolation of the latest Adzuna vacancy data made available through ONS. Rates
+are expressed relative to the active labour force.
+
+After the depths of the pandemic, the economy moved up to the north-west. The 2021Q4 data show a forecast
+point with higher vacancies and relatively low unemployment relative to what we have seen before.
+I find it helpful to think of three possible cases all of which are indicated in the diagram.
+Case 1. Recovery: Less V, less U.
+In this case, the current (21Q4) position on the VU diagram describes an imbalance between labour demand
+and labour supply relative to the previous equilibrium that reflects temporary adjustment costs due to the pace
+of recovery and the fact that the composition of demand has not returned to its pre-pandemic distribution. A
+temporary overshoot in vacancies is therefore not that surprising, and consistent with historical evidence that
+such temporary shifts in the Beveridge curve are fairly common.16 This imbalance resolves itself as the
+composition of demand normalises further, hiring catches up, and fiscal and monetary support is gently
+withdrawn. That is a story of a smooth transition back to the 2019 equilibrium which would be consistent with a
+general path of rising rates embedded in the MPC forecast. Notice that in this case, rising rates should be seen
+as a successful transition back to a normal economy which has been supported over the pandemic.
+This successful transition will also depend upon bringing some of the 360,000 16-64 year olds that became
+economically active between February 2020 and today back into the labour force. This margin of the labour
+market has proved to be quite elastic in the past. Chart 11 decomposes the reasons for this change over the
+
+16
+
+See Diamond and Sahin (2015).
+19
+
+pandemic. It indicates a rise in students, the long-term sick, and retirement. An obvious question is to extent to
+which the rise is due to long Covid. We don’t know the answer this, since the data don’t ask the long-term sick
+why they have this status. That said, there is no rise in the growth of those reporting disability in the LFS (which
+is defined as having a long-term health condition that limits your day to day activities).17 If this wider group of
+inactive people proves difficult to bring back into the labour market then the likelihood of significant mismatch
+persisting is higher.
+Chart 11: Changes in levels of economic inactivity by reason, 2019Q4-2021Q3
+
+Source: ONS, Labour Force Survey.
+Note: this chart is based on Figure 11 of the the Institute for Employment Studies November Labour Market Statistics,
+16th November 2021. My thanks to Tony Wilson for kindly providing the data.
+
+Case 2. Mismatch: more V, more U.
+In this case, these current imbalances are more entrenched and/lead to a new equilibrium of lower labour
+supply. The current stock of unemployed workers alone will not be enough to restore balance in the labour
+market: perhaps such workers are unsuited to the new economic make up, or have permanently withdrawn from
+the workforce. This would also be consistent with the normalisation of policy, perhaps more vigorously than in
+case 1.
+Case 3. The recovery stalls: less V and more U.
+A final case is that temporary adjustment costs and imbalances give way to a stalled recovery. Worries about
+the pandemic, stalling consumer confidence in the face of falling living standards due to energy price rises,
+means that firms reverse hiring, stopping posting vacancies leading to rising unemployment. Indeed, GDP
+growth has moderated and come in below previous forecasts. GDP grew by 1.3 percent in 2021 Q3 versus an
+expectation of 2.9 percent in August. The November MPR forecast for the level of GDP in 2021Q4 also lies
+
+17
+
+I thank Tony Wilson for his help in understanding these data.
+20
+
+3.5% below our pre-pandemic forecast and below the level recorded in 2019Q4. In this case therefore, one
+might want to wait before normalizing policy such that normalisation begins only once we are more confident
+that the recovery is entrenched.
+In my view, adjudicating between these outcomes is crucial. In the November MPR we said would wait for more
+data following the end of furlough scheme. In terms of the diagram above, we would want more data to see if
+cases 1, 2 or 3 were more likely. So what has happened? We have at least two additional data points, both of
+which suggest that the labour market is buoyant. First, the Resolution Foundation survey18 from last week
+suggests 88% of workers who were still furloughed immediately prior to the end of the scheme have been
+rehired. Second, the labour market data for this month shows that indicators of redundancies remain muted, the
+number of payrolled employees continues to grow beyond 2019Q4 levels and there has been no recorded rise
+in claims for unemployment since the scheme ended. This is consistent with the forecast we have in the MPR
+and puts more likelihood on case 1 or case 2 for now. The next labour market report is released on December,
+14th, and provides data through to November that should give an even clearer steer of the post furlough labour
+market.
+I now come to look at wage developments. Current wage inflation (AWE) is measured at 5.8 percent. As the
+MPR has set out, it is hard to take a clean read from these data due to changes in composition and the like. A
+key question for me, as set out above, is the correspondence between real product wages, productivity and real
+consumption wages. Chart 1219 repeats Chart 3 for the recent period. It shows that workers’ consumption wage
+has risen significantly over the pandemic but product wages have continued to track output per hour.
+For the moment, the implication of the chart is twofold. First, productivity will have to keep pace with product
+wages to avoid more persistent domestic inflationary pressures. Second, without those productivity increases
+the real consumption wage will have to fall if imported prices keep rising. Third, the tightness of the labour
+market will be critical in understanding the likely evolution of wages. If the labour market remains buoyant then
+this puts upward pressure on wages that, from an inflation point of view, will need to be matched by increased
+productivity.
+
+See Post-furlough blues • Resolution Foundation
+I should say that the construction of this chart involves a number of difficult conceptual issues since there have been large subsidies and
+tax breaks over the pandemic period: the chart shows whole-economy labour compensation of those engaged less subsidies plus a share of
+mixed income divided by the GVA deflator at basic prices, which is not the same as the usual measures of private-sector wages and
+productivity.
+18
+19
+
+21
+
+Chart 12: Compensation and productivity over the pandemic
+
+Source: ONS and author’s calculations. The real product and consumption wages are calculated as hourly labour
+compensation less employment subsidies, deflated by the GVA deflator at basic prices and the consumer price index
+respectively. Productivity is calculated as GVA at basic prices divided by total hours worked.
+
+5. Conclusion: the big picture
+I have tried to make a number of points.
+First, much of the variation in inflation is due to global factors such as imported goods and energy prices. I
+expect much of that variation to be transitory.
+Second, as we have seen much of the inflation problems of the 1970s were due to changes in commodity prices
+and the long drawn-out response of wages relative to productivity to such changes. The latest data continues to
+indicate a tight labour market, putting upward pressure on wages. From a living standards point of view, this is
+of course excellent news, but from an inflation point of view this has to be matched by increased productivity
+and so we have to be vigilant.
+Finally, you will know that the November MPR suggested that if the economy proceeds to recover rates will rise.
+It is worth having some perspective on that rise. The solid line in Chart 13 shows Bank Rate since the start of
+the pandemic, falling from 0.75% to the current level of 0.1%. The dotted lines show the market-implied path of
+Bank Rate at intervals over the pandemic (measured by a snapshot of the expected market curve of future rates
+at the indicated times). In January 2020, before the pandemic, rates were expected to fall and then rise back
+gently. In October 2020, in the depth of the pandemic, with no vaccine in prospect and successive lockdowns,
+the market expected negative rates. By June 2021, with the vaccine rolled out and the prospect of much fewer
+restrictions, the curve had moved up. The message of this chart future rises in Bank Rate are largely indicative
+of the recovery. In my view, the prospective rise in Bank Rate from its emergency level – whenever that comes is not a bug, but a feature. It reflects the success of fiscal, health and science policy in dealing with worst
+economic shock in 100 years.
+
+22
+
+Chart 13: The evolution of Bank Rate
+
+Source: Bank of England (Yield curves | Bank of England)
+Note: Bank Rate forecasts are based on sterling overnight index swap (OIS) rates.
+
+23
+
+References
+Bank of England (2021). Monetary Policy Report, November 2021
+Batini, N., Jackson, B. and Nickell, N. (2005). An open-economy new Keynesian Phillips curve for the U.K.
+Journal of Moneraty Economics 52, 1061-1071.
+Bruno, M. and Sachs, J. (1985). The Economics of Worldwide Stagflation. Harvard University Press.
+Diamond, P. and Sahin, A. (2015). Shifts in the Beveridge curve. Research in Economics, Volume 69, Issue 1,
+pages 18-25.
+Dimsdale, N. and Thomas, R. (2020). UK Business and Financial Cycles Since 1660, Volume I: A Narrative
+Overview. Palgrave Macmillan.
+Faccia, D., Parker, M. and Stracca, L. (2021). What we know about climate change and inflation, VOXEU.
+Institute for Employment Studies (2021), November Labour Market Statistics, 16th November 2021.
+https://www.employment-studies.co.uk/system/files/resources/files/IES%20briefing%20%20Labour%20Market%20Statistics%20Nov%202021.pdf.
+Layard, R., Nickell, S. and Jackman, R. (2005). Unemployment: Macroeconomics Performance and the Labour
+Market, Oxford University Press.
+Brewer, M. and McCurdy, C. (2021). Post-furlough blues. Resolution Foundation.
+Rudd, J. (2021). Why Do We Think That Inflation Expectations Mattter for Inflation? (And Should We?). Finance
+and Economics Discussion Serries 2021-062. Washington: Board of Governors of the Federal Reserve System.
+Walsh, C. (2010). Monetary Theory and Policy, 3rd ed. MIT Press.
+Yashiv, E. (2000). Beveridge curve. Available at https://www.tau.ac.il/~yashiv/beveridge.pdf.
+
+24
+
+Appendix
+A1. Real product wage and labour share definitions
+This section lays out the definitions that go into the real product wage and various labour share measures featuring
+in section 3.b.
+The employed are defined as employees plus the self-employed.
+As defined here, the real product wage measures the cost of hiring incurred by firms. It is defined as hourly labour
+compensation less employment subsidies, deflated by the GVA deflator at basic prices. Using basic prices ensures
+a consistent treatment of taxes and subsidies across the numerator and denominator. Employment subsidies are
+therefore subtracted from pre-tax and subsidy labour payments since they defray labour costs of firms.
+Labour compensation is pre-tax wages plus non-wage labour costs such as pensions and employer national
+insurance contributions. As defined here, it includes the compensation of employees and that of the
+self-employed.
+The author’s measure of the share of labour costs in value added is conceptually similar to the real product wage,
+in that it captures labour costs incurred by firms.
+The labour costs share measure is thus defined as labour compensation less employment subsidies, divided by
+GVA at basic prices. It differs conceptually from that officially published by the ONS. The ONS’s published measure
+is the share of nominal labour compensation in GVA at factor costs. The numerator does not deduct employment
+subsidies because it focuses on the total labour income disbursed to workers.
+Below is a glossary table.
+
+Compensation of employees (CoE)
+
+= wages and salaries + employers' social
+contributions
+Subsidies paid to businesses by the government
+directly based on how many employees they
+employ or how much they pay employees. The
+
+Employment subsidies
+
+furlough schemes implemented during the
+coronavirus (COVID-19) pandemic are
+considered employment subsidies. Subsidies to
+the self-employed are included.
+
+GDP at market prices
+
+= GVA at basic prices + taxes on products (inc
+VAT) - subsidies on products
+25
+
+= consumption of fixed capital + net operating
+
+Gross operating surplus (GOS)
+
+surplus
+= total output - intermediate consumption
+or
+
+GVA at factor prices
+
+= compensation of employees + mixed income
++ gross operating surplus
+
+= GVA at factor prices + taxes on production -
+
+GVA at basic prices
+
+subsidies on production
+
+Hours worked by employees and the self-
+
+Hours
+
+employed
+
+= CoE + MI*
+Labour compensation
+
+MI* is the sum across industries of share a of
+Mixed Income (MI), where
+a = CoE / (GOS + CoE) in each industry
+= (CoE + MI*) / (CoE + MI + GOS)
+= (CoE + MI*) / GVA at factor prices
+
+Labour share of income
+(published by the ONS)
+
+MI* is the sum across industries of share a of
+Mixed Income (MI), where
+a = CoE / (GOS + CoE) in each industry
+= (CoE + MI* - employment subsidies) / GVA
+deflator at basic prices
+
+Labour-cost
+calculations)
+
+share
+
+of
+
+income
+
+(author’s
+MI* is the sum across industries of share a of
+Mixed Income (MI), where
+a = CoE / (GOS + CoE) in each industry
+26
+
+The operating profit of unincorporated
+businesses owned by households. Household
+members often provide unpaid labour inputs to
+Mixed income
+
+the business. The profit is therefore a mixture of
+labour remuneration and return to the owner as
+entrepreneur.
+It captures the remuneration of the selfemployed
+= (CoE + MI* – employment subsidies) / Hours)
+/ GVA deflator at basic prices
+
+Real Product Wage (author’s calculations)
+
+MI* is the sum across industries of share a of
+Mixed Income (MI), where
+a = CoE / (GOS + CoE) in each industry
+
+Output per hour worked
+
+GVA at basic prices / Hours
+
+See Labour costs and labour income, UK - Office for National Statistics (ons.gov.uk) and the ONS glossary for
+the main terms used in the national accounts.
+A2. Inflation Accounting Decomposition
+Chart 1 decomposes CPI inflation deviations from 2 percent at the quarterly frequency into several semi-structural
+factors for the period 1995-2019.
+1) Food and energy is the direct contribution of from food (COICOP 01), alcohol and tobacco (COICOP
+02) and energy (COICOP 04.5).
+2) Tax uses the calculated direct effects of changes in indirect taxes from ONS (link).
+3) The output gap is calculated using a reduced form Philips curve from an output gap filter based on
+appendix 1 of Melolinna & Toth (2016) but estimated without the financial conditions index. The filter
+uses data from 1986-2019 including real GDP, CPI core inflation, the unemployment rate and the
+4) long-term unemployment rate.
+^
+^
+𝜋𝑡^ = 0.28𝜋𝑡−1
++ 0.19 𝑦𝑡−1
++ 𝜖𝑡 .
+^
+𝜋𝑡^ is the cyclical component of quarterly inflation (annualized) and 𝑦𝑡−1
+is the lagged output gap. This
+formula is then applied to the MPC’s estimate of the output gap and converted to its effect on quarter on
+year inflation. This implies a coefficient of about 0.30 between a constant output gap and 12 month CPI
+inflation.
+5) The residual deviation from 2 percent minus the average contribution of non-core items is then
+regressed on 8 lags of the following variables that aim to capture other import price effects, the indirect
+effect of food and energy prices and other supply effects:
+a) HP filtered imported fuel prices published by ONS
+b) HP filtered non-fuel import prices published by ONS.
+
+27
+
+c) The change in the effective exchange rate. The effective exchange rate is first regressed on the
+current and lagged output gap. Changes to the residuals from the first stage regression enter
+the second stage.
+d) The residuals from the output gap filter estimate of the random walk trend growth rate 𝑔𝑡 =
+𝑔𝑡−1 + 𝜖𝑔,𝑡 .
+6) The contributions from (1) are then labeled the food and energy category. Contributions (4 a-c) are the
+import/ER category. (4d) is the supply category.
+7) Any residual unexplained deviations are the other category and due to factors like state contingency
+and misspecification from the reduced form semi-structural nature of the decomposition.
+A3. US Beveridge Curve
+
+Source: Bureau of Labor Stastistics and Bank calculations
+Note: pre-COVID data in blue; data since COVID in red.
+
+28
+
+

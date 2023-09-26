@@ -1,0 +1,1004 @@
+Forward guidance and its effects
+Speech given by
+Martin Weale, External Member of the Monetary Policy Committee, Bank of England
+At the National Institute of Economic and Social Research, London
+Wednesday 11 December 2013
+
+I am grateful to Andy Blake, Richard Harrison, Tom Key and Tomasz Wieladek for a great deal of help
+and to MPC and other Bank colleagues for their comments on an earlier draft.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Introduction
+Many thanks for inviting me to give this talk at the National Institute. As you know, the Bank of England, like
+the National Institute, has been under new management, albeit for less long. Following Mark Carney’s arrival
+we introduced a policy of forward guidance. This itself came after the Chancellor of the Exchequer had asked
+the Bank, at the time of the March Budget, to assess the role of “explicit forward guidance”. We produced a
+document on forward guidance in August (Monetary Policy Committee 2013a) and, at the same time adopted
+a policy whereby we said we would not consider raising Bank Rate until the unemployment rate had fallen to
+seven per cent. We qualified this by saying that the policy would be “knocked out” if significant risks arose
+with respect to either inflation or financial stability. At the same time we did not rule out further asset
+purchases, should they seem appropriate. Different members of the Committee may have had different
+views on whether the policy, as finally adopted, was likely to provide a stimulus to the economy by leading
+people to expect interest rates lower than might have otherwise been the case. But we all expected that
+forward guidance should make policy clearer and reduce the uncertainty surrounding future interest rates.
+In this talk I would like to begin by discussing some of the theoretical issues around forward guidance. I will
+then present my own, very tentative thoughts on the impact that the policy may have had.
+The forward guidance puzzle
+The theoretical analysis of forward guidance has typically been carried out on the assumption that the
+guidance provided was a statement that the Bank Rate or its equivalent would remain fixed, and lower than
+people might have expected it to be, until at least a particular date1. This reflects early forms of forward
+guidance. Thus the Bank of Canada stated in April 2009 that “the target overnight rate can be expected to
+remain at its current level until the end of the second quarter of 2010” and in the United States the
+Federal Open Market Committee stated in September 2012 that “exceptionally low levels for the federal
+funds rate are likely to be warranted at least through (sic) mid-2015.” These can be described as
+time-contingent policies, notwithstanding that they may have included their own “knock-outs”; for example
+the Bank of Canada stated that the policy would be “conditional on the outlook for inflation” (see Carney,
+2013a).
+Our own forward guidance is, of course state-contingent rather than time-contingent; subject to the
+knock-outs we will review things when the unemployment rate has fallen to seven per cent, and not at any
+particular date. Nevertheless, many of the issues which arise with time-contingent guidance also apply to
+state-contingent guidance. So I will begin with a discussion of some of the issues which arise when exploring
+time-contingent guidance. I will then move on to show how this analysis can be extended to state-contingent
+forward guidance. I will conduct my analysis in the context of a simple New Keynesian framework. This is, of
+course, not because I expect you to believe that it, or any other model, represents the truth. Models are
+1
+
+This section draws heavily on discussions with Andrew Blake who was a colleague of mine in Cambridge, and the National Institute
+and now at the Bank of England. I should say that I followed him to the last two of these institutions.
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+neither right nor wrong - they are simply tools for organising thoughts relevant to the question in hand, and
+the New Keynesian model provides a framework which is both simple enough to be easy to explain and rich
+enough to be able to understand some of the influences on the impact of forward guidance.
+The attraction of the New Keynesian framework is that it summarises the evolution of the economy as
+resulting from the balance between demand and supply. Demand is represented by the assumption that
+spending growth depends on the interest rate. When interest rates are low people choose a path along
+which spending grows slowly, while when interest rates are high goods tomorrow seem cheap relative to
+goods today; as a consequence people shift spending into the future, so that spending is likely to grow
+rapidly between today and tomorrow. This may sound paradoxical; we associate low rates with high
+spending and high rates with low spending. But if, at the end of the day output is limited by the supply side,
+high interest rates mean that spending today is low but rising, while low interest rates mean that it is high but
+falling or rising only weakly. Supply is represented by a form of the celebrated Phillips curve. While the
+original Phillips curve described the relationship between wage inflation and unemployment (Phillips, 1958),
+the New Keynesian variant relates inflation to expected future inflation and to demand, relative to supply in
+the goods market2. Normally these two relationships are combined with an additional one, which describes
+the assumed decision-making process of the body which sets interest rates. The Monetary Policy Committee
+is assumed to set the interest rate with reference to the inflation rate and the deviation of output from its
+apparently known long-run path. But of course, with time-contingent forward guidance, we would be
+assumed, apart from considering whether to increase our stock of asset purchases, to sit on our hands; the
+interest rate is simply assumed to take whatever is indicated by the forward guidance policy - in our case ½
+per cent.
+When this framework is used to simulate the effects of forward guidance, it is typically found that there is a
+very powerful impact on both output and on inflation- a point first observed, to my knowledge by Carlstrom,
+Paustian and Fuerst (2012). Del Negro, Giannoni and Patterson (2012) demonstrate that this effect also
+occurs in the model developed for the Federal Reserve Board. A commitment to hold the Bank Rate lower
+than normal, even for a few quarters, seems to lead to a sharp, and indeed probably incredible, increase in
+both output and inflation.
+I provide an example of this in Chart 1, which illustrates the impact on both inflation and output of a
+commitment to hold the Bank Rate one quarter of a percentage point lower than normal for twelve quarters.
+This is calculated using the structure described in the Appendix. You can think of the chart as showing the
+effects of holding the Bank Rate ¼ point lower than people would otherwise have expected given economic
+conditions. In that sense it is illustrative. I will come on later to the possible effects of actual policy. The path
+is based on the key assumptions, regarded by some economists as standard, that inflation today moves
+
+2
+
+It is a very open question how far this is relevant to the British economy. There is a long-running debate about how far business
+margins are elevated at times of high demand. Indeed, a reason for defining a state-contingent policy with reference to unemployment
+rather than output is that unemployment is a better guide to the state of overall demand. Nevertheless, in order to simplify the
+exposition, I will stay with what has become the standard structure.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+almost one for one with expected inflation and that a one point change in the real interest rate leads to a
+change of one percentage point in the expected
+Chart 1: The Effects of Holding Bank Rate down an
+extra ¼ point for twelve quarters
+6
+
+Percentage
+points
+
+growth rate of output. With these assumptions, a
+passive policy leaves the economy highly unstable
+and holding the interest rate lower than people
+would have expected has a very powerful effect.
+
+5
+Output
+4
+Inflation
+
+3
+
+The effect is largest when the policy is announced.
+For that to be the case it is necessary that
+
+2
+
+behaviour is not constrained by habit and that
+
+1
+
+people fully understand the policy and its
+implications immediately. Use of the habit-formation
+
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 11 12
+
+Quarters
+Source: Author’s calculations. See appendix
+
+framework similar to that suggested by Stone and
+Rowe3 (1958) would generate a lagged response as
+would the model of learning developed by Levine,
+
+Pearlman, Perendia and Bo (2012). But even with the sort of lag which might result from habits and a
+learning process, the policy would still generate a powerful initial effect. No one would regard this as
+plausible. Indeed del Negro, Giannoni and Patterson describe it as the forward guidance puzzle. It certainly
+does not describe what has happened to the British economy since we adopted forward guidance and I think
+the same could be said of the other economies which have done so. What are the sorts of changes which
+would make the outcome rather more plausible?
+I would like to consider two. The first is the way in which expectations of future inflation are determined. The
+standard model assumes that expectations are rational- that in the absence of shocks people expect the
+inflation rate which actually materialises. An alternative view is that many, perhaps most, people have an
+underlying confidence that the Monetary Policy Committee will do its job, so that, on average, expected
+inflation is only weakly sensitive to future out-turns. This might be expected to be a stabilising influence, as
+Committee members have periodically argued. In my alternative view expected inflation is based half on the
+outcome generated by the model simulation and half from the inflation target the Chancellor has set us.
+The second change that I make is to assume that a one percentage point change in the real interest rate
+leads to a change in the planned rate of growth of spending of only ½ per cent rather than one per cent. A
+ratio of one for one is often used in business cycle models. Lucas (1990) argues that a figure of much below
+a half would make it difficult to relate differences in consumption growth in different countries to the interest
+rate differentials between them4. But a meta-analysis (Havranek, Horvath, Irsova and Rusnak, 2013) of 242
+
+3
+
+Their analysis was applied to demands for individual goods. But their approach has subsequently been applied also to aggregate
+consumption.
+He says” If two countries have growth rates differing by one percentage point, then their interest rates must differ by s percentage
+points” where s is the inverse of the ratio we are discussing. He points out that on this basis a figure of two is at the upper limit of what is
+likely.
+
+4
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+studies of the UK gives a mean value of 0.487 with standard error of 1.09. So this analysis points to a good
+case for using a figure at the bottom of Lucas’ range.
+The impact of these changes is shown in Chart 2. You can see that these changes suggest much smaller
+effects of time-contingent forward guidance. But the effects are still, in absolute terms, large. The forward
+guidance puzzle remains. Furthermore, the fact that the outcome is so sensitive to parameters which are not
+known with any degree of certainty, suggests to me that time-contingent forward guidance is very uncertain,
+at least in the absence of any qualification.
+State-contingent forward guidance, of course, can
+Chart 2: The Effect of Holding Bank Rate down with
+weaker Consumption and Inflation Effects
+
+avoid this problem (Campbell, Evans, Fisher and
+
+2.5
+
+much stronger than we have assumed in our recent
+
+Percentage points
+
+Justiano, 2012). If the policy provides a stimulus
+Inflation Report, unemployment will fall to the
+
+2
+
+Output
+
+threshold of seven per cent earlier than we expect.
+
+Inflation
+
+1.5
+
+We will be able to respond without needing to break
+a promise so as to avoid a ride to disaster. Equally, if
+
+1
+
+supply conditions are different from what we regard
+as most likely, perhaps because productivity growth
+
+0.5
+
+is different from what we have assumed, then we will
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 11 12
+
+Quarters
+Source: Author’s calculations. See appendix.
+
+be able to react appropriately. But what are the
+implications of the policy being state-contingent
+rather than time-contingent for the effects of the
+policy itself?
+As many people have pointed out, a distinguishing
+
+Chart 3: The Probability of Unemployment falling to
+7 per cent on or before the date shown
+
+feature of a state-contingent policy is that people
+cannot be certain about the date at which the
+relevant state, in our case unemployment of
+seven per cent, will be reached. Some of the
+MPC’s critics have suggested that this is a
+weakness of the policy. I should say that I regard
+it as a strength. The future is uncertain and no
+one can change that. What is important is that the
+MPC reacts appropriately to events as they
+evolve. Anyway, I can address the same issue,
+exploring the impact of holding the Bank Rate
+
+Source: November Inflation Report
+
+lower than people would otherwise have expected
+with the additional assumption that people are
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+uncertain how long this policy will be pursued
+(Carlstrom, Paustian and Fuerst, 2013). The Inflation Report provides a reference point for quantifying this
+uncertainty.
+Chart 3 shows the MPC’s estimate of the probability that the unemployment rate will have fallen to the seven
+per cent threshold at any time in the next three years. It should be stressed that this does not give the
+probability of the Bank Rate being raised at each of these dates, for two reasons. First of all, whatever is the
+probability of one of the three knock-outs arising and MPC deciding to end the guidance, it must be greater
+than zero. This suggests that the probability of raising the rate at any time ought to be higher than Chart 3
+suggests. But, conversely, as my colleagues and I have pointed out (see e.g. Carney, 2013b) the MPC is not
+committed to raising Bank Rate when unemployment falls to seven per cent: it has merely said that it will
+review the position. So the mapping from Chart 3 to the probability of a rise in Bank Rate by a given date is
+by no means obvious.
+My own view is that if unemployment is falling rapidly at the time that it drops to seven per cent, that will be
+an indication that demand is strong relative to supply, strengthening the case for an early rate rise. But if, for
+example, wage pressures appear very weak and unit labour costs are at most growing only very slightly, that
+will weaken the case. Obviously I cannot judge now what the situation will be when unemployment does fall
+to seven per cent. Our forecasts rightly stress the fact that the future is uncertain.
+But, to return to my primary focus, for the purposes of illustrating the effects of uncertainty on forward
+guidance, I will assume that the probabilities are those shown by the Chart 3. Chart 4 shows the simulated
+profile for output and inflation with this uncertainty, computed again with the modified parameters which give
+the profiles of Chart 2 rather than Chart 1. It can be seen that uncertainty, or more correctly the possibility of
+an earlier rise in Bank Rate, further dampens the impact of the policy.
+Alternative estimates of the probability that the
+Chart 4: The Effect of a Bank Rate reduction of ¼
+point of uncertain duration.
+1.4
+
+Percentage points
+
+Bank Rate will have risen by any particular date can
+be obtained from the prices of options on LIBOR.
+The immediate impact of state-contingent forward
+
+1.2
+1
+
+Output
+
+guidance might be thought to depend not on the
+
+Inflation
+
+MPC’s views of future economic prospects but on the
+market’s view as expressed through these option
+
+0.8
+
+prices. The market view of the probability of
+0.6
+
+Bank Rate being raised by any given date is not,
+
+0.4
+
+however, very different from Chart 3. So the effect on
+
+0.2
+
+the simulations is not material. It remains the case
+that the strongest impact of the policy should be seen
+
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6 7 8
+Quarters
+
+9
+
+10 11 12
+
+at the start of the period of forward guidance,
+
+Source: Authors calculations.
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+although once again we should remember that habit formation and learning would delay the peak impact
+somewhat.
+The key to this analysis is the assumption that the interest rate would be held a quarter point below where it
+would otherwise have been, for at most twelve quarters. Our forward guidance implies that the probability of
+Bank Rate being held at its current level for longer than this is substantial. Chart 3 shows that the probability
+of the unemployment rate falling to seven per cent within three years is only about two-thirds. Simulations
+which gave a significant probability to Bank Rate staying low beyond twelve quarters would show much more
+powerful effects, provided of course that the policy was indeed to hold Bank Rate ¼ point below where it
+would otherwise have been and what people regarded as normal.
+Resolution of the forward guidance puzzle
+These large responses are a consequence of the assumption that the Bank Rate is ¼ point below where it
+otherwise would have been for up to three years. This is, to say the least, questionable. I find it inconceivable
+that, without forward guidance, I, or any of my colleagues, would have already voted to raise Bank Rate and
+that the only thing that has stopped us is forward guidance. To the extent that the policy simply represents
+the way the MPC had behaved before it was announced, then, while Bank Rate might well stay at ½ per cent
+into 2016 or beyond, it would do that in circumstances where, broadly speaking, it would have done it
+anyway. In that case the impact of the policy might be negligible. If forward guidance has done no more than
+to codify what people had expected the Monetary Policy Committee to do anyway, then its effects on the
+profile of expected future rates, and thus on output and inflation, should be expected to be small. The policy
+should be assessed on a counter-factual basis, as far as possible, and not with reference to an absolute
+change in Bank Rate.
+My own view, when the Committee discussed forward guidance last summer, was that the framework implied
+some easing of policy and thus probably did offer some support to output and inflation. I thought that it
+implied a greater tolerance of inflation eighteen to twenty-four months ahead than I felt was consistent with
+our remit. Fortunately the sharp and unexpected fall in actual inflation since the summer makes it
+considerably less likely that this aspect of the policy will be tested. Nevertheless, my view of the policy
+certainly implies that there would have been some effect on expected interest rates. I would now like to
+discuss two pieces of evidence on the effect of guidance on expected future rates. The first is based on
+expected rates and the uncertainty surrounding them, as derived from financial markets and the second is
+derived from an informal survey of dealers.
+
+The impact of forward guidance on interest rates: event studies using financial markets
+The financial markets provide a continuous stream of data and the range of contracts makes it possible to
+infer both expected future rates and the uncertainty surrounding them. One means of examining the effects
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+of a policy change on interest rates or related variables is to look at their movements in the immediate
+aftermath of the policy announcement. I do that with forward guidance, looking at the changes in the
+variables of interest between their closing values on the day before the policy was announced and their
+closing values on the day after the policy was announced. I compare these effects with the analogous
+changes which took place when the Funding for Lending Scheme was introduced. Care is needed in
+interpreting the results. The absence of a visible impact on announcement may be because the policy had
+been anticipated rather than because it had no impact. So event studies of this type can provide evidence
+that a policy intervention has had an effect. But, because such interventions may be anticipated, they cannot
+show that it did not have an effect.
+
+i) Immediate effects on levels
+When exploring the effects of forward guidance, the mechanism by which output and inflation were raised
+during the period of guidance was through a reduction in the expected path of the interest rate. So there is
+an obvious question whether the expected interested rate path was affected by the announcement of forward
+guidance. As noted above, one important reason why it might not be, would be that the guidance did little
+more than confirm what people, or at least the people involved in trading interest rate futures, believed
+anyway.
+A wide range of data makes it possible to look at the effects of forward guidance in the near term. Table 1
+shows the movement in the implied three-month future LIBOR rate at various horizons associated with the
+Funding for Lending Scheme and forward guidance announcements. The table attempts to indicate the
+statistical significance of the movements by showing whether the movements fell outside the ninetieth, the
+ninety-fifth or the ninety-ninth percentile of daily movements5.
+The FLS was intended to provide banks with a cheaper alternative to the inter-bank market and it is, to say
+the least, not surprising that it was associated with a sharp decline in expected future LIBOR rates67, and
+also on rates on unsecured bank debt although these are outside the scope of the present analysis. The
+policy reduced funding pressures and the fall in market rates can be seen as a response to this. In contrast,
+forward guidance did not have material effects on interest rates at the time of its announcement.
+The FLS was introduced at a time when the economy needed further support. I certainly did not think this
+was the case when we introduced forward guidance. There had been substantial discussion of the policy
+5
+
+When computing the percentiles, the daily movements are computed as proportions of initial values. These proportionate errors are
+much more stable than are errors measured in basis points.
+6
+It also had a favourable impact on other measures of bank funding costs, such as yields on unsecured debt. These were probably also
+influenced by Sig. Draghi’s promise to do “whatever it takes” to hold the euro together. But since this table shows only the effect on the
+day following the evening announcement of FLS, an event which preceded Sig. Draghi’s speech, we can be reasonably confident that
+the movement reflects the immediate response to the FLS announcement.
+7
+Throughout we use interest rate futures based on LIBOR, as opposed to the OIS (overnight index swap) rate. This is because futures
+are not available on OIS rates, which means that it is not possible to obtain implied, and hence normalised, volatilities. Our analysis is
+therefore subject to the caveat that, unlike the OIS rate, LIBOR can also move as a result of credit and liquidity risk in the banking
+system, though it is unlikely that such movements had a big effect on LIBOR during the period of interest.
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+ahead of its introduction and forward guidance may have already been reflected in market expectations of
+future interest rates. Anyway, given the market curve as it was at the start of August, I was relieved that there
+was no obvious further impact on expected future rates from the announcement of the policy in August of this
+year.
+Table 1: Libor futures: level reaction to monetary policy announcements (percentage points)
+Event
+FLS –
+Mansion house speech
+Forward Guidance –
+IR Publication
+
+Date
+
+1m
+
+14/06/2012
+
+07/08/2013
+
+0.01
+
+3m
+
+6m
+
+12m
+
+24m
+
+36m
+
+‐0.31***
+
+‐0.31***
+
+‐0.28***
+
+‐0.35***
+
+‐0.33***
+
+0.01
+
+‐0.02
+
+‐0.02
+
+0.00
+
+0.02
+
+Significant at ***1%, **5%, *10%. Percentiles of the empirical distribution.
+
+Taking a longer-term perspective, expected future rates are now, of course, appreciably higher than they
+were before forward guidance was announced. But I fully share Bean’s (2013) view that this reflects sharply
+improved growth prospects. It does not tell us anything about the effects of forward guidance.
+ii) Immediate effects on uncertainty
+The analysis so far has been in a world in which the focus is on expected future interest rates. While the
+theoretical discussion looked at a situation in which people were assumed to be uncertain about the date at
+which the normal working of policy would be expected to be resumed, the rate of output growth was not
+assumed to be influenced directly by uncertainty. Economic theory tells us that changes in uncertainty about
+both future interest rates and future growth in output8 have effects similar to changes in the rate of interest
+and, as I noted, forward guidance was intended to reduce uncertainty about future interest rates by making
+clearer the criteria by which the MPC set policy. Thinking in terms of the IS curve which relates demand to
+the interest rate, a reduction in uncertainty leads to an upward move in the IS curve and thus to greater
+demand at any given interest rate. So, to the extent that the policy affected uncertainty it should be expected
+to have at least some influence on demand.
+Options on LIBOR are widely traded. The prices associated with these allow us to measure not only the
+three-month LIBOR rate which is expected to hold at various points in the future, but also the uncertainty
+surrounding these expectations. I show, in Table 2 the changes in measures of uncertainty9 following those
+policy announcements identified in Table 1.
+
+8
+
+More correctly, a precisely-defined combination of the two. See Deaton (1992, p. 64)
+The numbers in the table are based on normalised volatilities calculated on options which are closest to the ‘money’ (strike price) on
+any given day. Since the type of contracts and hence distance to the strike price can vary across days, this introduces a potential source
+of bias. When the exercise is repeated with normalised volatilities, calculated on options, which are exactly at the money, we find similar
+movements. This suggests that the conclusions about the forward guidance announcement are robust to this concern.
+
+9
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+Table 2: Libor futures: volatility reaction to monetary policy announcements
+
+Event
+FLS –
+Mansion house speech
+Forward Guidance –
+IR Publication
+
+Date
+
+1m
+
+14/06/2012
+
+07/08/2013
+
+‐16.25%
+
+3m
+
+6m
+
+12m
+
+24m
+
+36m
+
+21.40%
+
+3.16%
+
+‐28.74%***
+
+‐7.29%**
+
+‐9.98%***
+
+‐29.52%***
+
+‐22.61%***
+
+‐6.61%
+
+‐1.68%
+
+‐1.27%
+
+Significant at ***1%, **5%, *10%. Percentiles of the empirical distribution.
+
+Both FLS and forward guidance affected uncertainty. FLS had the effect of increasing uncertainty in the short
+term, immediately after its announcement, perhaps because people were not sure of its short-term impact.
+But at twelve months and beyond it led to sharp and statistically significant reductions in uncertainty, perhaps
+because it convinced people that the Bank was keen to see a more stable inter-bank market. The impact of
+forward guidance on uncertainty has, in contrast been at the shorter end of the market. It had little impact on
+immediate uncertainty, probably because very few people were expecting an immediate change to the
+Bank Rate. But at three to six months it led to a marked reduction in uncertainty. The effect is attenuated at
+longer horizons. This reduction in uncertainty, which has persisted to the end of November, suggests that the
+policy achieved the aim of reducing uncertainty. This is likely to have provided some stimulus to the
+economy, but given that only near-term uncertainty has been affected, it is difficult to believe the effect is
+large.
+Market intelligence on forward guidance
+The ease with which the LIBOR curve can be used to indicate expected future rates and volatility should not
+lead to the neglect of other indicators of the effects of forward guidance. A good detective looks at everything
+that is relevant and not just where the light is brightest. There is a second piece of evidence for the effects of
+forward guidance on interest rates which I would like to mention.
+Market intelligence suggests that, while there is obviously a range of views, in broad terms market
+participants believe that the profile of expected future rates is about ¼ percentage point lower than it would
+be in the absence of forward guidance up to two years ahead. It is, of course, possible to produce arguments
+that the effect is larger than this, but they may well hinge on the argument that the MPC, without forward
+guidance, would have been expected to react early on to strong economic growth, even though inflation is
+close to target and there is considerable slack in the labour market.
+It seems to me unlikely that market participants believe that, in the absence of forward guidance we would
+have already raised rates or that they would have expected a rate rise to be imminent. But it is possible that
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+people believe interest rates are a ¼ point lower between say one and two years ahead. As I noted earlier, a
+feature of the theoretical model I used to assess the impact of forward guidance implied that guidance in the
+future has more impact on the present than does guidance today. The assumed cumulative instability of the
+economy means that an expectation that rates will be held down for one quarter longer than the market’s
+previous view of “normal” in a year’s time has a much bigger impact than if an imminent rate rise is delayed
+from the present to the next quarter. So delaying a rate rise from one year ahead to two years ahead has a
+substantial impact at the present. Chart 5 suggests that output is raised by about ½ to ¾ per cent and the
+inflation rate raised just over ¼ percentage points.
+For the movement to be as large as this would
+Chart 5: The Effect of the Market Intelligence View of
+the Impact of Forward Guidance
+
+require households and businesses to understand
+the implications of the policy reasonably well;
+without that, the effects may be considerably
+
+Percentage points
+
+0.7
+0.6
+
+Output
+Inflation
+
+0.5
+
+smaller. We do not, as yet, have any firm
+information on how well the policy has been
+understood. But, unless people have taken an
+
+0.4
+0.3
+
+unusual interest in what my colleagues and I have
+
+0.2
+
+said about policy, it seems to me likely that the initial
+
+0.1
+
+effects will be appreciably smaller than the numbers
+above. To the extent to which understanding of the
+
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6 7 8
+Quarters
+
+9 10 11 12
+
+policy does build up, its impact may well rise over
+time. More generally, of course, these rough
+calculations, which are mine rather than the Bank’s,
+
+Source: Author’s calculations. See appendix
+
+should not be seen as the last word on the matter.
+
+The effects of forward guidance on inflation expectations
+As the earlier analysis shows, if the policy is a direct stimulus to output, it should, if the New Keynesian
+model is to be believed, also lead to higher expected future inflation. Indeed Eggertson and Woodford (2003)
+writing about the United States, see the rise in expectations of inflation as a benefit of the policy or a least
+part of the route through which it works. In the context of the United Kingdom, with inflation above target for
+five years, the Committee was keen to implement forward guidance in a way which did not take risks with
+inflation expectations. Since then we have noted a modest elevation in medium-term inflation expectations
+which I think none of the Committee members regard as significant (Weale, 2013, Monetary Policy
+Committee 2013b); the position nevertheless needs to be monitored carefully.
+The question I would like to focus on here is whether the policy had any impact on the expectations of
+inflation over the next year formed by businesses. Fortunately the CBI has collected data on this since 2008
+Q2; their data are a great help to policy-makers like myself. Chart 6 shows that expectations held by
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+businesses of increases in both their own prices
+
+Chart 6: Business Expectations of Growth in
+Industrial Output Prices
+6
+
+QE 1
+
+QE 2 FLS
+
+QE 3
+
+(own inflation) and the prices in their industry
+FG
+
+(industry inflation) picked up somewhat in the third
+
+5
+
+quarter of this year, after our announcement of
+
+4
+
+forward guidance. Nevertheless, the distinction
+
+3
+
+between
+
+2
+
+post hoc and propter hoc may be important. As the
+
+1
+
+chart makes clear, inflation expectations have
+
+0
+
+moved round a lot over the past few years, probably
+
+-1
+-2
+2008
+
+as a result of factors such as movements in oil and
+2009
+2010
+2011
+Exp. Industry inflation
+Annual CPI inflation
+
+2012
+2013
+Exp. own inflation
+
+Source: Author’s calculation from CBI survey.
+
+commodity prices. It is certainly not possible to draw
+conclusions from Chart 6.
+An econometric analysis confirms for once the
+impression given by Chart 6. Controlling for
+
+movements in oil prices and other input costs leads to the conclusion that, in the third quarter of this year,
+expectations of both own inflation and industry inflation were lower than normal rather than above normal.
+But the impact was not statistically significant. Likewise, if we look at the second quarter, on the grounds that
+businesses, like financial markets, might have anticipated the policy, there is no evidence that expectations
+were raised. From the perspective of someone who has been repeatedly concerned about inflation
+expectations being above the inflation target, I must say that this is rather a relief, notwithstanding my earlier
+comments on medium term expectations. It is also, of course, consistent with the earlier observation that,
+even if forward guidance had been fully understood its impact on inflation would probably have been only
+just over
+¼ percentage point and that, in reality, the effect was likely to be appreciably smaller than this.
+Conclusions
+This attempt to assess the impact of forward guidance so far has presented a number of different pieces of
+evidence which point in different directions. A theory-based analysis suggests that the effect should be
+powerful, provided that the policy leads to markedly lower expectations of the future path of interest rates
+and thus on the date of the first increase in Bank Rate. The magnitude of the effect is nevertheless very
+sensitive to the precise assumptions made about the workings of the economy. But, if, the policy simply
+clarifies what policy-makers would have done anyway, the impact on the date of the first expected rise in
+Bank Rate is not likely to be large. In any case, since the policy is state dependent rather than
+time-dependent, the MPC can respond to the actual impact of the policy; we do not need a precise estimate
+of this in advance.
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+There was no immediate effect on expected future interest rates when the policy was announced, suggesting
+that, immediately following the announcement, expectations of interest rates were not much altered. One
+possible explanation of this is that the policy had been widely anticipated. Indicators of uncertainty
+surrounding future near-term interest rates fell, however, in the immediate aftermath of the announcement,
+and this decline has persisted. This decline in uncertainty probably provides some stimulus to the economy
+but the effect is almost certainly very small.
+Over the past few months, as the policy has bedded down, there has been a substantial change in people’s
+expectations of Britain’s growth prospects. This good news has led to rising expectations of future interest
+rates. Markets have an understanding that policy can remain very supportive of the economy even if
+Bank Rate is, at some point, slightly higher than it is now. I do not want to speculate on when that might
+happen and limit myself to the obvious point that, other things being equal, good news on underlying inflation
+reduces the case for tightening while rapid economic growth and, more especially, rapidly-falling
+unemployment strengthens it. This sharp and favourable change in Britain’s economic outlook does,
+however, mean that I cannot, by looking at movements in market interest rates over the last few months,
+infer what has been the effect of forward guidance on future rates (Bean, 2013).
+An informal survey of market traders suggests that they believe that, up to two years ahead, expected rates
+are about ¼ point lower than they would have been without forward guidance. If such views were held
+throughout the economy, it is possible that output would be raised by ½ - ¾ per cent with an effect on
+inflation of just over ¼ per cent. But, if the policy has not yet been understood by households, the initial
+impact is likely to be lower, perhaps appreciably lower than this. That in turn may explain why, so far, there is
+no evidence of an impact from the policy on businesses expectations of price increases.
+.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+References
+Blake, A ‘A Cumulated Expected Target and an Interest Rate Peg’ Bank of England Mimeo.
+Campbell, J. R., C.L. Evans, J.D. Fisher and A. Justiniano “Macroeconomic Effects of Federal Reserve
+Forward Guidance”. Brookings Papers on Economic Activity. 44, 1-80. 2012
+Carlstrom, C, Fuerst, T and Paustian, M `Inflation and Output Multipliers in New Keynesian Models with a
+Transient Interest Rate Peg.’ Bank of England Working Paper 459. 2012.
+Carlstrom, C, Fuerst, T and Paustian, M ‘Policy Multipliers under an Interest Rate Peg of Deterministic vs.
+Stochastic Duration’ Bank of England Working Paper 475. 2013.
+Carney, M. ‘Monetary Policy after the Fall’. Eric J. Hanson Memorial Lecture. University of Alberta. 2013a
+Carney, N. Speech given at the East Midlands Conference Centre. 2013b.
+Chang, B.Y and Fenou, B. ‘Measuring Uncertainty in Monetary Policy using Implied Volatility and realised
+Volatility’. Bank of Canada. 2013.
+Del Negro, M. M. Giannoni and C. Patterson. `The Forward Guidance Puzzle’. Staff Report No 574. May
+2013.
+Eggertson, G.B. and M. Woodford. ‘ The Zero Bound on Interest Rates and Optimal Monetary Policy’.
+Brookings Papers on Economic Activity. Pp 139-211. 2003.
+Gali, J. ‘Monetary Policy, Inflation and the Business Cycle: An Introduction to the New Keynesian
+Framework’. Princeton University Press.
+Havranek, T. , R. Horvath, Z. Irsova and M. Rusnak ‘Cross-country Heterogeneity in Intertemporal
+Substitution’. William Davidson Institute Working Paper No 1056. August 2013.
+Levine, P., J. Pearlman, G. Perendia and Bo Y, 2012. "Endogenous Persistence in an estimated DSGE
+Model Under Imperfect Information," Economic Journal, 122, pp 1287-1312, 2012.
+Lucas, R.E. ‘Supply-side Economics: an Analytical Review”. Oxford Economic Papers. Vol. 42. Pp. 293316.
+Monetary Policy Committee. ‘Monetary Policy Trade-offs and Forward Guidance’. Bank of England. 2013a.
+Monetary Policy Committee. ‘November Minutes’. 2013b
+Phelps, E S. (1968). "Money-Wage Dynamics and Labor Market Equilibrium". Journal of Political Economy
+76 (S4): 678–711.
+Phillips, A. W. ‘The Relationship between Unemployment and the Rate of Change of Money Wages in the
+United Kingdom 1861-1957’. Economica 25 pp 283–299, 1958.
+Stone, R. and D. A. Rowe. “Dyanmic Demand Functions: Some Econometric Results”. Economic
+Journal.68. pp 256-270. 1958.
+Weale, M.R. ‘Monetary Policy and Forward Guidance’. Speech delivered at Quintin Kynaston Academy. 15th
+November 2013.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+Appendix
+The Standard Neo-Keynesian model (Gali, 2008) is made up of these simple equations:
+(1)
+κ
+
+(2)
+(3)
+
+ϕ
+
+ϕ
+
+Where κ
+Equation 3 disappears in a model with an interest rate peg. The above model can then be written as
+
+where
+1
+κ
+
+,
+
+The solution for the impact multiplier, under the assumption that people know ahead of time when the peg
+will end (if it is deterministic) is:
+,
+
+∗
+
+(1)
+
+,
+
+From the above expression it becomes quite clear that the parameters in B, and hence and
+
+are crucial
+
+for the impact of an interest rate peg in the model.
+One can also generate impulse responses in this model, following the approach in Blake (2013). This can be
+done by subtracting the change in the multiplier the further one goes out each period:
+,
+
+,
+
+,
+
+,
+
+∗
+
+(2)
+
+But, with state-contingent guidance people are likely to have their own beliefs about the exit from the peg. So
+the stochastic case, where there is a probability of remaining in the peg, could be more appropriate. This is
+explored in Carlstrom, Fuerst and Paustian (2013). In particular, assume that there is a probability p of
+staying the pegged regime each period. That is, it is uncertain when the monetary policy authority will exit the
+peg, and agents assign a probability p to staying in the current regime. In that case, the expected duration of
+and the formula for the impact response is given by
+the interest rate peg is
+,
+
+∗
+
+,
+
+In this framework, the response will be constant each period. This is not a desirable feature of the model. So
+instead, we adopt the hybrid case: There is uncertainty about the exit, but it is known with certainty that there
+will be an exit after T periods. In that case, the impact is
+1,
+1,
+
+1
+
+∗
+
+(3)
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+From which it can be clearly seen that the impact responses rise in p. Meaning that the greater the
+probability of staying in a regime, the larger the impact response. To generate the impulse responses in
+Chart 1, we use the following parameterisation of the model:
+Table 1 – Model Parametrisation
+Variable
+
+Value
+
+α – Price Stickiness
+
+.66
+
+β – Discount Rate
+
+.99
+
+ω – Frisch Elasticity of Labour Supply
+
+2
+
+ϴ - Elasticity of Substitution
+
+11
+
+– Intertemporal Elasticity of Substitution
+
+1
+
+To replicate Chart 2, set β=1/2 and σ=2.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+16
+
+

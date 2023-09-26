@@ -1,0 +1,145 @@
+Bank of England
+
+Page 1
+
+What did the monetarists
+ever do for us? − speech by
+Huw Pill
+Speech annex
+24 June 2022
+
+Bank of England
+
+Page 2
+
+Annex
+A monetary approach to modelling QE can cross-check estimates of QE’s impact derived
+from other frameworks, such as event studies. Forward-looking monetary and portfolio
+balance models, which relate asset price developments to future QT asset sales that
+change the relative supply of money and other assets, can help analyse the implications
+sales to be made in the future, something that event studies – given their focus on the
+news in announcements of asset sales – by nature cannot do.
+A modified version of a model drawn from the Bank’s model suite (specifically, the sectoral
+monetary model of Cloyne et al. (2015)) adopts such a forward-looking approach. The
+model is estimated as a set of sectoral blocks, which are linked together using standard
+macroeconomic identities and relationships to get an aggregate impact on GDP and
+inflation. Each block models the broad money (M4ex) holdings of that sector. One of the
+sectors considered covers a group of asset managers known as non-intermediate OFCs
+(which we have labelled NBFIs in the main text), including the insurance companies and
+pension funds that typically hold a substantial amount of government debt.
+The demand for money by this sector is modelled as a portfolio-balance relationship
+linking asset managers’ holdings of money to the value of their overall portfolio of assets
+and the expected holding period return on money compared to other risky assets such as
+equities and bonds.
+mt
+
+=
+
+wt
+
++
+
+θ(R Dt – R Bt )
+
+Where mt is the (log of) money holdings, wt is the (log of) total asset holdings, RD and RB
+
+are the returns on the safe (monetary) and risky (bond) asset and θ is the (semi-)elasticity
+of substitution between money and bonds (which we can think of as a proxy for the state of
+market functioning).
+Total asset holdings are just the sum of money and the value of risky assets such as
+bonds and equities:
+
+W = M + PB B
+
+The holding period return on the risky asset depends on the coupon or dividend payment
+and the expected capital gain to be made over the period:
+R Bt
+
+=
+
+C
+PBt
+
++
+
+EPBt+1 − PBt
+PBt
+
+where C is the coupon on the bond or dividend on the equity.
+
+Bank of England
+
+Page 3
+
+Given an expected schedule of asset purchases or sales from this sector, this then
+delivers a relationship for risky asset prices which is a discounted function of future NBFI
+money holdings, with the discount factor dependent on the substitutability between money
+and other risky assets.
+p� bt =
+
+m
+�t
+θEp� bt+1
++
+sb + θ(1 + c) sb + θ(1 + c)
+
+where sb is the initial steady-state portfolio share of risky assets and c the initial coupon
+rate or dividend yield. It is useful to consider the case where sb and (1 + c) are close to 1,
+this approximates to:
+p� Bt ≈
+
+m
+�t
+θEp� Bt+1
++
+1 + θ (1 + θ)
+
+where lower case letters refer to logged values and a ^ refers to log-deviations from the
+initial steady state. Solving this recursively forward gives
+p� Et
+
+m
+�t
+θm
+� t+1
+θ N
+≈
++
++ ⋯.. �
+� Ep� Et+N
+(1 + θ)2
+1+θ
+1+θ
+
+As can be seen if asset prices are expected to increase N periods in the future, and
+assuming the money supply does not change up to that point, then today’s asset prices
+will only rise by a fraction of that amount given by �
+as N gets larger.
+
+θ
+
+1+θ
+
+N
+
+� with the fraction getting smaller
+
+The approximate solution to asset prices here is analogous to the solution of goods prices
+in the model of money demand and inflation first introduced by Cagan (1956) and applied
+in a rational expectations setting by Sargent and Wallace (1973). In that model, the price
+level is a discounted function of current and expected future money supplies. The only
+difference here is that we are applying it to asset prices rather than goods prices and to
+the demand for money by asset managers (NBFIs) rather than the aggregate demand for
+money. 1 Note, in the exact solution to the NBFI model, the impact of a QT sale on asset
+prices also depends on the substitutability between money and risky assets, whereas
+goods prices are exactly proportional to an immediate permanent increase in the money
+supply under Cagan’s transactions demand for money. So the analogy is not perfect. Once
+asset prices are determined in the NBFI sectoral block, they then affect other sectors and,
+in turn, output and inflation through the various channels discussed in Cloyne et al. (2015).
+
+1
+
+In Cagan’s model of aggregate money demand, real balances depend negatively on the expected rate of
+goods inflation.
+
+

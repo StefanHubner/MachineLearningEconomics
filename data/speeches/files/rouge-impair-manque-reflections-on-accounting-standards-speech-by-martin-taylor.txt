@@ -1,0 +1,389 @@
+Rouge – impair – manque: reflections on accounting standards
+Speech given by
+Martin Taylor, external member of the Financial Policy Committee
+
+Strathclyde Business School, Glasgow
+13 February 2020
+
+I would like to thank Dean Postans, Daniel Beale, Michelle Uhrick and Andy Walters for their
+contributions. The views expressed are my own and do not necessarily reflect those of the Bank of
+England or other members of the Financial Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+It is a great pleasure to be here with you at Strathclyde Business School. The romance of Strathclyde and its
+Kingdom of the Rock; its Brythonic – that is, Welsh – speaking civilisation which succumbed to repeated
+assaults by Picts, Angles, Gaelic Scots and Vikings; all this is resonantly described in Norman Davies’s
+splendid book Vanished Kingdoms. The Picts at the time could be recognised by their tattoos and by what
+Davies calls their “principled illiteracy”. I suspect that at least one of these traditional Pictish markers is no
+longer to be found at the Business School.
+This evening I want to talk about impairments. For the Bank of England’s Financial Policy Committee,
+impairment means credit impairment; the recognition by a bank that a loan it has advanced risks not being
+repaid. Somehow this potential damage needs to be reflected in the bank’s accounts.
+The word “impairment” shares a common Latin ancestry with the word “pejorative”. It’s about stuff getting
+worse. The unrelated French word “impair” refers to an odd number. Devotees of roulette – a pursuit not
+actively encouraged by the Bank of England among its staff, although our economists and statisticians adore
+what they call Monte Carlo simulations – will know that one can place a bet on a red, odd, low
+number….rouge, impair, manque. That gives me my rather whimsical title – you’re in the red, you take a hit,
+you’re short.
+Credit impairments matter because they’re the number one reason for bank failure. Banks make loans to
+apparently sound borrowers, then circumstances change. The borrowers are suddenly no longer sound, and
+the bank may not get all – or in extreme cases any - of its money back. It may or may not have protected
+itself by taking security over an asset belonging to the borrower, as in a mortgage contract. Or the contract
+may contain covenants which allow the bank to change the terms of the loan as the borrower’s position
+deteriorates. Many elaborations and subtleties come into play, but the brute underlying position is horribly
+simple – some of the money will have gone.
+
+Although of the first importance to the banks themselves and to those who supervise them, this
+phenomenon, as a phenomenon, is little discussed. What more is there to say about it? Well, I mentioned a
+moment ago that the damage arising from the weakening credit “somehow needs to be reflected in the
+bank’s accounts”. The way in which it is reflected is not at all straightforward, and can have serious real
+world effects.
+
+I have encountered these issues twice in my professional life. The two occasions were more than twenty
+years apart, and I should confess that in that intervening twenty years I didn’t give impairment theory serious
+consideration, except in the depths of the financial crisis in 2008-9 when like all other sentient observers I
+was concerned with the overriding question of whether the credit losses washing through the banking system
+like a tidal wave of filthy water were big enough to sink some large banks (spoiler alert – they were).
+The first occasion on which I lay awake thinking about impairments (not just worrying about them, thinking
+more philosophically) was in 1994. I’d recently become CEO of Barclays, which was recovering from a
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+2
+
+near-death experience brought about by very large and unexpected credit losses. Then in the last couple of
+years the issue has returned to my attention, this time because of a change in the accounting standard for
+impairment. As a no doubt unintended consequence, the move to the new standard has given the Bank of
+England an unwelcome headache in the construction of its stress tests. Supervisory headaches can be
+contagious: the banks may get a bit of a headache too.
+
+What the two episodes have in common is not just that they concern credit losses. They concern the way
+that credit losses are accounted for. And that is a very murky subject indeed.
+
+Accountancy is a much misunderstood profession. The stereotype of the fussy, meticulous auditor counting
+matchsticks could not be further from the truth. Or maybe it’s just outdated. My grandfather ran a firm of
+chartered accountants in Lancashire, into which my father reluctantly followed him: not even six years of
+service in the wartime RAF could absolve my father from joining the family business for the short period of
+life that remained to him. I imagine him slogging through his exam preparation in the late 1940s, learning
+about ancient principles derived from Scottish enlightenment thinking such as prudence and matching,
+neither of which would get him far today. For modern accountants have become theorists on a grand scale,
+perhaps not realising how perilous the intellectual life can be.
+
+Accounts have always dwelt at the contested frontier where precision, by which here I mean the exact
+application of a set of rules, meets accuracy, which I take to encompass the concept of the right answer –
+the truth, if you like, though that’s maddeningly hard to define. Pontius Pilate certainly thought so: he may
+perhaps have had an accountancy training before getting a break as a provincial governor. The business of
+ascribing a financial value to a variety of very different and valuation-resistant items - unsold goods,
+half-made machines, rapidly depreciating equipment, trademarks, brands, potential fines or litigation costs,
+embryonic software in development – and then adding them all up along with things you do know the exact
+value of (such as the balance of your bank account on December 31st) requires the evolution and
+application of conventions. Some of these may seem like common sense, but common sense, as so often,
+can prove itself a treacherous guide.
+
+These conventions are constantly refined and adjusted by accountancy standard-setting bodies, which seem
+to be responding to three kinds of pressure. The first is genuine change in the business environment – the
+rapid evolution of digital technology, for instance, or developments in the financial markets such as the huge
+expansion of derivative contracts: such matters demand a response from the profession, since its existing
+conventions may simply not be adequate for the new circumstances. The second is the desire, the
+imperative, even, to gain international agreement on standards. I can remember a time when the
+consolidated accounts of major companies would consist of the blending of subsidiary accounts which
+themselves had been drawn up under quite different conventions in different jurisdictions. Sometimes,
+where it was feasible, some sort of overlay would be provided, sometimes not. It is worth accepting a lessthan-ideal convention to gain support for a common approach across countries with different traditions, and
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+3
+
+many less-than-ideal conventions do indeed get adopted. The third kind of pressure comes from intellectual
+fashion within the accounting profession, and this can be of more dubious value.
+The important thing to understand is that conventions are just that – conventions - and the choice of one
+rather than another may be little more than a matter of taste. Sometimes intellectual fashion causes a
+philosophical trend to be pushed to destruction – witness the 1990s concept, which soon developed into a
+fad, then a passion, then a mania, for marking everything to market even when the market in question was
+more or less imaginary. Sometimes it is possible for outsiders to discern lunacy in the sober world of the
+accountants; witness the mad idea that a company that is in trouble and takes a huge credit downgrade,
+inflicting losses on those unfortunate enough to hold its bonds, must itself have made, and must therefore
+recognise, a profit equal to their losses. In this case the profession, perhaps influenced by the laws of
+thermodynamics, demonstrated an unwillingness, which would certainly have baffled my grandfather, to
+accept that value might actually have been destroyed. Those of you – from Scotland in particular - who
+remember 2008 will know that value can indeed vanish.
+
+On the whole, though, the standard-setters seem to me to do a careful and thorough job in conceptually
+confusing circumstances. For whom do they do it? Auditors have always had in mind a rather nebulous
+target group, the so-called Users of Accounts. Some rebellious souls may prefer to use accounts, especially
+as they grow both increasingly arcane and increasingly bulky, to hold back a heavy door or to hurl at the wall
+in frustration, but the general idea is that a large class of people – those who sell to, buy from, work in,
+compete with, collect taxes from or own the securities of an enterprise – have a common interest in sets of
+accounts that correspond to some recognisable version of reality.
+
+What if these Users of Accounts want different things? Managements are generally supposed to want
+flattering accounts, and there is plenty of evidence in favour of this supposition. Followers of the British
+banking sector over the last decade have got used to the idea that, alongside volatile and generally weak
+headline numbers, magical thinking offers a parallel universe of Underlying Profits (in fact they are more
+overlaying than underlying, but let that pass) which show the businesses were always doing quite
+respectably, thanks. At last the two measures are beginning to converge. Back in the 1970s the accountants
+got themselves in a real twist by making a quasi-theological distinction between so-called exceptional and
+extraordinary items. Exceptional items, although unusual, might be of a recurring nature and therefore went
+“above the line” and affected pre-tax profits, while their extraordinary cousins, truly non-recurring, in theory at
+least, were put below the line and more or less buried, though of course they affected shareholders’ equity.
+Managements, I’m ashamed to say, spent a lot of time and energy trying to have positive items classified as
+exceptional and negative items as extraordinary, and, given the pliability of some auditors, frequently
+succeeded. Perhaps the most breath-taking coup was carried out by Sir Nigel Broackes of Trafalgar House,
+who wrote off a huge chunk of restructuring costs as extraordinary losses one year, only to bring back some
+gains on disposals arising from that same restructuring above the line as exceptional profits the following
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+4
+
+year. Users of accounts were well advised to ignore the profit and loss account altogether: they had to look
+at cash, then at the changes in shareholders’ funds, and then at cash again. This remains sound practice.
+Banks are uniquely sensitive to accounting considerations. The level of a bank’s loss-absorbing capital, a
+matter of supreme interest to investors and regulators alike, is derived from its accounts. (I say “derived”
+rather than “lifted” from the accounts because supervisors make a number of adjustments to published
+figures in arriving at their version of capital. But all else being equal, changes in book capital flow through
+pound for pound into the supervisory measure). And then price-to-book ratios, comparing the market value of
+a bank’s equity to the book value stated in its published accounts, seem to play a larger role in the analysis
+of securities issued by banks than those of any other industry. It follows that banks cannot be indifferent to
+accounting developments that affect them. The truth of the accounts, to use that highly charged word again,
+may be questioned, but their reality is undeniable.
+
+Let me return to my concerns at Barclays in 1994. My interest then as a user was to change the way we
+accounted for credit losses, in order to encourage more sensible risk-taking. Two things were perfectly clear.
+First, we had a highly cyclical business, in which many years with virtually no impairments and thus high
+profits were followed by a bloodbath – a bloodbath which, though occurring regularly once a decade or so,
+always seemed to come as a surprise. Secondly, we were paying out in bonuses or dividends during the
+good years much of the credit spread, the bank’s compensation for accepting risk, which ought to have been
+insulating us against the downturn. When the downturn came, that spread, instead of providing a profit
+cushion, had evaporated.
+
+In the intellectual climate of the day, at Barclays at least, although it was broadly recognised that riskier loans
+required higher spreads, there was little or no explicit connection between the two on a case by case basis.
+Spreads arose in the marketplace – we were price-takers, in other words - and an all-wise credit committee
+was expected to make a binary determination: would this borrower repay five years from now, or not?
+I timidly advanced two views. Notwithstanding the organisation’s recent harrowing experience, both were
+instantly dismissed as heretical. The first was that the credit committee, although composed of people so
+senior as to be more or less infallible, was bound to make mistakes, and so we needed to price more
+accurately for the probability of default. This caused consternation among practical bankers. The second
+was that we needed to recognise that our profits were – on a through-the-cycle basis – overstated in the
+years when there were few if any impairments. We therefore needed to hold money back – to build capital –
+in those years to cover the expected loss, rather than raise the dividend excessively. This caused alarm
+among the auditors. I was accused of seeking to build up secret reserves, a far more dreadful crime,
+apparently, than merely allowing a bank to fail. Besides, they said, there was no way of accurately calibrating
+the extent of a potential cyclical adjustment, were such a wicked thing to be allowed (which it wasn’t).
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+5
+
+Though I might not have expressed it in this way at the time, I was trying to act counter-cyclically. In
+Basel-speak, a then unknown dialect which has since made astonishing progress among members of the
+synod of senior supervisors, I was seeking to flex the management buffer. Thanks to the work of a team
+headed by my admirable colleague Alan Brown, we did manage to calculate the extent by which – given the
+mix of our loan book and an average length of cycle – profits were boosted in the good years by the absence
+of impairments. Leaning heavily on Keynes’s dictum that it is better to be roughly right than precisely wrong,
+we were probably correct to within a couple of hundred million pounds per annum either way. I was daring
+enough to reveal our calculations in my report to shareholders: the numbers were not, of course, permitted to
+defile the published accounts. But a couple of years later the auditors, with a new partner in charge,
+demanded to audit this literally off-balance-sheet cyclical adjustment thoroughly, on the grounds that it was
+clearly influencing the bank’s dividend policy and therefore in some strange way, however disreputable it
+might be, probably mattered. I could not have been happier.
+
+Now counter-cyclical thinking is no longer disreputable. It is respectable, if not yet entirely normative. The
+FPC is founded on this principle. It is required by statute to set the countercyclical capital buffer for the UK
+system every quarter, and announced in December that it was raising it by 100 basis points, from 1% of
+risk-weighted assets to 2%, with the expectation that following consultations by the Prudential Regulation
+Authority some elements in the minimum capital requirement of the firms would be reduced by a
+commensurate amount. The intention is modestly to shift the configuration of the capital stack from minimum
+to buffer, from fixed to flexible, so as to allow the FPC more ammunition to release in a downturn, making a
+severe credit contraction less likely. This strikes me as hands down one of the most important moves the
+FPC has made in its now nearly nine years of existence, and I find it curious that commentators have largely
+ignored it, preferring to concentrate on more topical policy announcements concerning open-ended funds, as
+well as, to be fair, the general election that had taken place the week before.
+The annual stress tests of the banking system are a cornerstone of the committee’s countercyclical policy.
+We subject the banks to a violently negative scenario and see how their capital would hold up under such
+circumstances over a three-year period. The results are published in reasonable detail, both for the system
+and for the individual banks. We consider the setting of the CCyB for the whole system in the light of the
+results, which also influence our colleagues on the Prudential Regulation Committee as they set capital
+levels for individual banks. As my fellow FPC member Donald Kohn has recently discussed, the stress tests
+have consequences.
+
+At this point, a few years ago, enter an accounting standard-setter with a new standard to cover the matter of
+accounting for impairments. Simply put, its effect is to bring forward the impact of credit losses to the point at
+which trouble first manifests itself. In terms of our stress tests, this means that some losses which would
+have been spread by a bank over the three years of a downturn will now overwhelmingly occur in the first
+year: the quantum of overall loss is little affected, but it all hits rather earlier.
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+6
+
+In introducing this new standard, the standard setters had some powerful market evidence on their side. It
+was noticeable in the 2008 crash that the equity prices of the banks had predicted early, and with almost
+uncanny accuracy, what the eventual losses of those institutions would turn out to be, while impairments in
+the published accounts came plodding along behind. IFRS 9, for that is the enticing name of the new
+standard, would have aligned book and market values much better. In so doing it might also have
+contributed to the general atmosphere of alarm.
+
+It will be interesting to see how it works in practice. Conceptually it differs quite profoundly both from the old
+standard, which recognised impairments only when they could no longer be denied, and from my
+last-century attempts to manage the cycle at Barclays, which treated every advance as containing a
+probability of default from the very start. Personally I feel that it is probably easier to calculate what has
+clearly happened, or indeed what you might expect on average to happen in the future, than what appears to
+be just about to happen.
+For our counter-cyclical committee – a particular kind of User of Accounts – IFRS 9 did not immediately
+appear to be helpful. It has the potential to be highly pro-cyclical; if a bank doesn’t foresee its losses early
+enough, or, under pressure from anxious, hair-shirt-wearing auditors, overestimates them in the depth of a
+crisis, the accounts will not only kick it while it’s down, they will break most of its bones in doing so. Since
+IFRS 9 greatly deepens the trough of losses in the first year of the stress scenario (as it would in a real live
+stress), a bank’s capital base will touch a lower point than it would have done under the old standard. If the
+bank survives for the next few years, clawing back some capital from its business activities on the way, the
+score will eventually even up, but the survival of the bank through this troubled period is not a trivial
+condition.
+
+What was the FPC to do? The earlier timing and greater depth of the trough were serious issues, as here, if
+the FPC took no action, some major banks which had not breached their regulatory minimum capital
+requirements in a stress under the old standard might do so under the new one. Given the rigorous way that
+the FPC uses the results of stress tests, this would require us to raise capital requirements, perhaps sharply.
+Why on earth should we do that as a result of a more or less arbitrary move – and I mean no disrespect to
+the auditing profession here – from one accounting convention to another?
+
+Our first reaction was to commit ourselves to acting to avoid unwarranted capital consequences arising from
+the impact on the stress test of the change in accounting standards. We decided this by a consensus in
+which I happily joined, and we were keen to make our decision known immediately. The advantage of this
+swift announcement was that we hoped to avoid nervous uncertainty about the impact on capital; the
+disadvantage was that we were committing ourselves to finding a solution before we had a clear idea of what
+that might be. We knew we had some time, as the impact of the standard on regulatory capital was being
+introduced gradually, with transitional adjustments of which banks could take advantage if they wished; we
+certainly encouraged them to. And the broad shape of potential solutions was clear - the trouble was that the
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+7
+
+shape was uncomfortably ugly. Permanently lowering the hurdles that the banks had to clear in the stress
+test would do the job, but would be unlikely to enhance confidence in the system. Making adjustments to the
+banks’ accounts for stress test purposes so as effectively to undo the effects of IFRS 9 would do the job too,
+but it is emphatically not the central bank’s business to rewrite accounting standards. In any case, the earlier
+recognition of losses under IFRS9 was clearly a step in the right direction, and it’s not as though we believed
+that there was anything particularly wonderful about the old standard. It was, after all, just a set of
+conventions – it happened to be a set of conventions that we were used to working with.
+In its December 2019 Financial Stability Report, which covers most things under the macroprudential sun –
+it’s a positive tasting menu of the FPC’s preoccupations – we propose, working with our colleagues at the
+PRA, an outline solution to the IFRS 9 problem which seems to me elegant and sound. It suggests that the
+new provisions made by a bank in the first year of stress under IFRS 9, but not yet written off because the
+loans to which they relate are not yet utterly compromised, should be formally recognised as loss-absorbing
+(which they are) allowing us to adjust the capital requirements set through stress tests accordingly. We have
+been in the past reluctant to treat provisions as capital, because they relate to individual assets and are not
+fungible across a bank’s book. Not fungible, that is, until or unless a bank is in resolution, which is the state
+of affairs we most worry about: at that point they would be reliably loss-absorbing. Besides, these new IFRS
+9 provisions differ from provisions under the old standard. Our auditors at Barclays in 1994 might have
+considered them borderline secret reserves (horror), though they may be taken far too late in the cycle to
+perform the potentially stabilising function of genuine reserves (a shame: that is what makes them pro- rather
+than counter-cyclical), but under these circumstances we feel we can treat them almost as if they formed part
+of a bank’s capital stack.
+If this way forward is accepted – and the Bank has said that it will consult with the industry over the next year
+or so, running a pilot in the 2020 stress test – there are two further decisions to be taken: highly
+consequential decisions, which are also very much up for discussion. One concerns the point in time at
+which IFRS 9 provisions are acknowledged. The obvious answer is - as and when they formally appear in
+the accounts, but this is likely to be a panicky time, and banks and their investors may not be sure that
+supervisors will hold their nerve at this point and allow a capital offset, whatever they may have promised
+earlier. The alternative is to proceed by some form of anticipation derived from a stress-test judgement about
+the quantum of IFRS9 provisions that a firm may expect to incur, and recognise them early. My first instinct
+was to regard the calibration of the anticipation or down-payment route as unrealistic, but a moment’s
+reflection reminded me that it would be no more or less so than what I was proposing at Barclays 25 years
+ago. It has the great advantage of identifying future stressed credit losses at an unstressed point in time,
+and effectively earmarking a chunk of capital buffer to represent them. While not undermining the new
+standard, it substantially rectifies its unfortunate tendency to pro-cyclicality.
+
+Unlike my 1990s proposals, it would reallocate capital between different pockets, so to speak, rather than
+directly resulting in a capital build. It is likely, though, to result in a higher quality of capital since buffers,
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+8
+
+which are funded 100% with core equity, will rise at the expense of minimum requirements, where less
+stringent forms of capital are permitted. But the similarity is that IFRS9 will not allow explicit provisions to be
+made on a purely statistical expected loss basis (you will recall that secret reserves are taboo). So I
+suppose some capital would initially move from minimum to buffer; this buffer will become an IFRS9
+provision in the stress test – or of course in a real stress – and will then absorb losses as bad credits are
+written off. There are elements of supervisory ballet about this, but they should not be despised. It is good
+for supervisors to have explicit conversations with firms in peacetime about what may be expected when
+economic war breaks out.
+
+The second decision is from which capital pot this new IFRS9-prequel buffer should be carved out. At the
+moment a bank’s minimum capital requirements are matched one-to-one by debt that converts to equity in
+resolution, to replace the capital that will then have been lost. Do we fund the IFRS9-prequel half and half
+from minima and bail-in debt, or entirely from minimum requirements? Doing it entirely from minima would
+require us to alter the one-to-one formula, which would be a shame as it’s one of the few really simple design
+elements remaining to us. It would be a coherent way forward, though, insofar as it would treat new IFRS9
+provisions in the stress test as a substitute for the piece of the capital stack that absorbs losses in going
+concern, which conceptually is what it is. But the option of taking the adjustment entirely in going-concern
+minima leaves you more highly geared than the half-and-half alternative at the point of crisis, as you’d have
+relatively more debt compared to equity capital, and more of that equity in buffer form. And that’s on top of
+the 100 basis point flip that is already taking place with the switch from minimum requirements into the
+countercyclical capital buffer (as a result of our recent review of the UK bank capital framework).
+
+The decision will not be mine to take, since I shall have left the FPC before it comes back to the table. I have
+no doubt that my colleagues will weigh the options carefully; this set of choices is unusually finely balanced.
+
+I said earlier that impairments mattered because they were the biggest single cause of bank failure. What
+determines whether and how a bank can recover from the threat of failure is confidence or the lack of it;
+whether other banks will lend to it, whether shareholders will be prepared to put up new money. The
+authorities clearly play a determining role in the process of deciding when a firm goes from going-concern to
+gone-concern, and what means of resuscitation, if any, can be brought to bear. One of the crucial parts of
+their assessment is concerned with whether a bank has breached its minimum requirements. Reducing
+minimum requirements thus has two contradictory effects. Clearly, the lower they are, the less likely a firm is
+to breach them, and so the less likely it is to fall accidentally into resolution. But if they are set too low, the
+risk is that the market will lose confidence in the soundness of the system. At this point minimum
+requirements are no longer under the control of the supervisors: the financial markets – providers of
+short- and long-term debt as well as equity – take charge, and set their own minimum.
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+9
+
+We don’t know where the market minimum is, and I trust we are wise enough not to want to find out. We
+believe it’s a long way below the minimum requirements currently set by supervisors. But we also know that
+in a panic the market minimum rises, because in a panic markets act pro-cyclically, maybe even more
+pro-cyclically than the accountancy profession.
+I have tried in this speech to give a flavour of what the FPC’s work is like, attempting along the way to make
+some relatively arcane subject matter accessible, though I may not have succeeded in making it interesting.
+There is a danger that those who work with technical minutiae grow – after an initial period of repelled
+bemusement – rather too fond of it all, and end up wallowing in the fascinating complexities that are thrown
+up. I don’t believe the FPC does this – not yet, anyway. We try not to be distracted from the task of
+addressing the big risks to financial stability.
+The counter-cyclical methodology that informs so many parts of the committee’s policy work has immense
+potential value, if only because it’s such an unusual way of proceeding – it runs counter, in so many ways, to
+human nature. Done well, it holds the promise of significantly reducing both the amplitude of future crises
+and the economic damage they might do. The stress tests that I’ve discussed today loom large in our work.
+As I’ve said, they have real-life consequences, but at bottom they are a kind of game – a deadly serious
+game, but a game. The FPC will demonstrate its value not in stress tests, but in the testing circumstances of
+a real stress. At that point the illusion of control will be shattered: beyond the fastidious refinements of the
+various liabilities which make up an individual firm’s capital, that firm will either turn out to have enough
+equity or it won’t. The job of the Bank of England is to make sure it has enough – not way too much, for we
+believe excess bank capital has public as well as private costs - but clearly enough. The rest is noise – not
+silence, as at the end of Hamlet – noise. Thank you so much for listening to me.
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+10
+
+

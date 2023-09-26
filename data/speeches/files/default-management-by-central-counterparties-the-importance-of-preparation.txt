@@ -1,0 +1,191 @@
+Default management by central counterparties: the importance
+of preparation – introductory remarks to the CFTC’s Market
+Risk Advisory Committee
+David Bailey, Financial Market Infrastructure, Bank of England
+
+Commodity Futures Trading Commission Market Risk Advisory Committee, Washington
+17 November 2016
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Good afternoon.
+
+I would like to thank Committee Chair Bowen for inviting me to speak to the Committee today on the
+important topic of CCP Resilience. As supervisors of some of the biggest and most systemically important
+CCPs that serve global markets, the Bank of England and CFTC have a strong history of collaboration on
+market infrastructure and clearing related issues, on which today’s discussion can build.
+
+The next evolution of CCP fire drills
+
+I have listened with great interest to the previous panel discuss recommendations regarding CCP Default
+Management. Today I would like follow on from that discussion by focusing on one important element of
+CCPs’ resilience – the way in which CCPs test their default management preparations and procedures via
+default management ‘fire drills’.
+
+We know from past experience that the default of a material clearing member is likely to be a stressful event
+for a CCP. Realistic fire drills therefore help maintain CCP and clearing member preparedness, and test the
+robustness of default management arrangements. Fire drills are exemplars of the importance of proper
+preparation in ensuring readiness for unlikely and potentially challenging events. Given that the default of a
+material clearing member is likely to be accompanied by a period of market stress, there is no scope for poor
+performance by CCPs in managing the default.
+
+This is recognised in standards and regulations. For example, the Principles for Financial Market
+Infrastructures state that ‘An FMI…should involve its participants and other stakeholders in the testing and
+1
+
+review of the FMI’s default procedures…at least annually….’. Note that preparedness extends beyond the
+FMI to its participants and other stakeholders. This is mirrored in European regulation which requires CCPs
+2
+
+to ‘…test and review their default procedures to ensure they are both practical and effective.’ I understand
+that similar requirements exist in the Code of Federal Regulations as well.
+
+3
+
+Furthermore it is clear that, as a result of regulatory initiatives such as mandatory clearing obligations, CCPs
+are becoming increasingly important to global financial markets, and are increasingly interconnected with
+many key market participants. It is therefore more likely than not that a material clearing member default will
+impact multiple CCPs at the same time.
+
+Given this, at the Bank of England, we asked ourselves the question: to what extent does an idiosyncratic
+fire drill scenario, on its own, still constitute the scale of ‘proper preparation’ that we would expect to see?
+The answer we came to, is that regulators and CCPs must evolve some fire drills towards multiple CCP
+
+1
+2
+3
+
+Principle 13: Participant-default rules and procedures.
+EU153/2013 Article 58.
+CFR Title 17 § 39.16 (b)
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+scenarios in order to provide a realistic – and proper – simulation of a material clearing member default. The
+consequences of such a default would be visited upon a number of CCPs simultaneously, so it makes sense
+to test the response of multiple CCPs simultaneously. This is especially the case since CCPs rely on their
+members to provide bids and personnel in default management, and thus there is a risk that the demands of
+multiple CCPs could overwhelm available capacity at clearing members.
+
+LCH.Ltd / Eurex Clearing fire drill
+
+The Bank of England took a first step in this direction with the conclusion, earlier this year, of a fire drill
+exercise involving LCH Limited, which we supervise, and Eurex Clearing AG, which is supervised by our
+colleagues at the Bafin and Bundesbank. The scenario involved the default of a common hypothetical
+clearing member clearing interest rate swaps and futures and was integrated in the two CCPs’ annual fire
+drills, which were held in parallel.
+
+Along with colleagues from BaFin and Bundesbank, we observed the fire drills; carried out post-drill bilateral
+meetings with the two CCPs and seven of the largest clearing members participating in the drill; and also
+reviewed relevant procedural documentation. The exercise yielded some valuable findings, which I will move
+on to outline.
+
+Aims and conclusions of the 2016 fire drill
+
+Our overall objective was to identify, assess, and ultimately address weaknesses in default management
+arrangements, which may not be apparent when tested in a ‘single CCP’ default scenario. In particular:
+
+
+One area of focus was the extent to which clearing members’ internal procedures support their ability to
+second traders to multiple CCPs, in parallel, in order to participate in default management groups. This
+matters because seconded traders bring valuable up-to-date market and trading experience to CCP
+default management groups, helping CCPs to return to a matched book as effectively as possible. Our
+findings on this point were broadly positive – our review of a range of CCP members’ procedural
+documentation found generally sound arrangements in place, when considering their commitments
+across the two CCPs. There were a small number of notable exceptions, which we will follow up in due
+course to help ensure that best practices are broadly adopted.
+
+We recognise that there are other factors potentially affecting seconded trader availability, and our
+findings are by no means the ‘last word’. For example, demand for trading resource is likely to increase
+as more CCPs compete and clear similar products. This remains, therefore, an area we will need to
+keep under review.
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+
+
+A second area we assessed was the operational capacity of clearing members to process auction files
+from two CCPs. This matters because auctions are a central part of the default management process –
+a successful auction with effective member participation helps return the CCP to a matched book. This
+requires members to price and assess the risk in the CCP’s data file, which can be thought of as its
+auction catalogue. This often contains tens of thousands of records describing the contract
+specifications for each cleared trade. We found considerable variation in clearing members’ ability to
+process these files in a timely manner. In a multiple CCP scenario this might throw in to question some
+clearing members’ capability to consistently submit competitive and timely auction bids, to participate
+effectively in the CCP’s auction – and therefore default management – process.
+
+Our analysis attributes this variation to a combination of: insufficiently frequent testing of the process by
+some clearing members; under-developed operational systems; and the multiple auction file formats
+used by the CCPs. As a first step to dealing with this, I am pleased to say that LCH and Eurex have
+agreed to explore opportunities to more closely align auction file format and content, and report back to
+us. The outcome we are seeking to achieve here is to find a simple way of lifting some of the operational
+burden from clearing members of processing files in different formats and increase the likelihood of
+effective auction participation by members.
+
+
+As a third area of investigation, we also identified a number of prerequisites for running more effective
+fire drills across multiple CCPs. Among these are:
+o
+
+more tightly defining the timing of the CCPs’ hedging activity and auctions, to ensure that the
+exercise robustly tests clearing members’ capacity to participate;
+
+o
+
+ensuring defaulted portfolios are material in size with correlated risks above clearing members’
+business as usual risk model assumptions, so that the exercise identifies and really tests the
+clearing member’s risk management capacity; and
+
+o
+
+enabling regulators to complete an ex-post review of clearing member auction bids, particularly
+to assess the impact of capital or liquidity costs on bids.
+
+The Bank of England, BaFin and Bundesbank have communicated with the participating CCPs and clearing
+members, outlining our observations. We will be following up as necessary over the coming period.
+
+Planning a 2017 multiple-CCP fire drill
+
+We are building on the 2016 fire drill exercise, aiming for the next multiple CCP fire drill to take place in 2017.
+I am pleased to announce that, building on our close collaboration with the German authorities and CFTC,
+we have agreed to extend the 2017 exercise further to run across three CCPs – CME Inc has agreed to join
+LCH Limited and Eurex Clearing in a coordinated fire drill. We are looking forward to working with these
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+three CCPs, as well as our German and US regulatory colleagues, in continuing to build and evolve our
+approach.
+
+We are in the process of defining the scenario and objectives of the 2017 drill. This will include testing
+hedging and auctioning procedures at CCPs and at members in stressed market conditions. We are also
+considering testing the capacity of client porting arrangements, which we recognise is a key area of focus on
+both sides of the Atlantic. I would be happy to discuss the outcomes of next year’s test with the Committee at
+an appropriate point.
+So to conclude, fire drills – both idiosyncratic and multiple-CCP – are part of the vital work that CCPs,
+clearing members and regulators should take forward collaboratively, in order to promote safety, soundness
+and financial stability. We will continue to refine and adapt the way in which they are run to ensure that they
+recognise the increasingly complex interconnections within global markets and systemic importance of the
+CCPs that serve them.
+
+Thank you for your attention.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+

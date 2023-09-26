@@ -1,0 +1,354 @@
+Bank of England
+
+Page 1
+
+Technical Appendix
+Expectations, lags, and the transmission of monetary policy - speech by
+Catherine L. Mann given at the Resolution Foundation, 23 February 2023.
+
+A1. Structural decomposition of the Sterling-Dollar exchange rate
+
+The underlying setup is based on Brandt et al. (2021) who model the role of monetary
+policy spillovers and global risk for US and euro area financial market variables. We then
+adapt and extend the model for the UK.
+It is a Bayesian VAR in daily frequency identified using sign restrictions (following Arias et
+al., 2018) and comprising financial variables in both the UK and US. The model is tightly
+restricted according to theoretical predictions about the direction of changes in variables
+following a given shock.
+Within the same country, monetary policy shocks and macroeconomic shocks are
+disentangled by the co-movement of yields and equity prices. Ceteris paribus, monetary
+policy should induce a negative correlation between the two, while macroeconomic news
+induce a positive correlation.
+Across countries, shocks are identified by magnitude restrictions on the relative size of the
+effect on yields, on impact. That is, a UK-domestic shock has a larger effect on UK yields
+(but may still affect US yields to some extent). Vice versa, a US shock is assumed to affect
+US yields more than UK yields.
+Finally, there are two types of risk shocks in the model which are designed to reflect
+changes in both risk preferences and risk perceptions by global investors. Firstly, a global
+risk shock which captures risk-on/risk-off movements common to both countries and
+causes re-allocation between asset classes. It is identified as a shock which increases the
+attractiveness of riskless to risky assets (i.e. bond prices up, stock prices down), and leads
+to safe-haven flows into Dollar-denominated assets. Thus, a global risk-off shock
+decreases both UK and US yields (but US yields by more) and causes a depreciation of
+Sterling. In addition, there is a UK-specific risk shock which captures flows into or out of
+Sterling-denominated assets regardless of their relative riskiness. Therefore, it also causes
+a depreciation but, crucially, and in contrast to the global shock, it causes an increase in
+UK yields. This is because even less risky Sterling assets such as government bonds lose
+attractiveness.
+
+Bank of England
+
+Page 2
+
+A2. A UK financial conditions index
+
+We construct another financial conditions index (FCI) for the UK using principal component
+analysis, inspired by Angelopoulou et al. (2013). The index uses monthly data on a range
+of short and long term nominal government bond yields, term spreads (the difference
+between some short and long term yields and Bank Rate), credit spreads and risky asset
+prices. This index should be seen as a complement to the Bank’s Monetary and Financial
+Conditions Index which uses multipliers similar in principle to those used in the MPC
+forecast to construct its weights.1
+In common with a lot of macroeconomic variables, some financial market variables also
+suffer from issues of non-stationarity which induces non-stationarity also within the FCI. To
+alleviate concerns about stationarity, interest rate variables in the index are de-trended
+using an estimate of the long run real interest rate2, and other variables such as equity
+prices are stationarised using log differences.
+All variables are standardised by subtracting the mean and dividing by their standard
+deviation. This is to avoid differences in magnitude or units of the variables unduly
+influencing the index. It therefore provides a relative, not an absolute measure of financial
+conditions. An increase in the index denotes a tightening in financial conditions, and a
+decrease a loosening in financial conditions but it is unclear to what extent they are tight or
+loose in absolute terms. In other words, financial conditions above 0 are tight conditions
+relative only to the average index value.
+Variables are also normalised to account for the way in which the series affect financial
+conditions. In order for an increase in the FCI to denote a tightening in financial conditions,
+variables where an increase reflects a loosening in financial conditions enter the model
+with an inverted sign. Finally, the index is compiled using weights implied by the first three
+principal components (which explain almost 80% of the overall variation in the data) on the
+normalised variables.
+
+1
+2
+
+For more information, see Bank of England (2021).
+For more information, see Bailey et al. (2022).
+
+Bank of England
+
+Page 3
+
+A3. Updated estimates of the effect of UK monetary policy
+
+We build upon the specification of Cesa-Bianchi et al. (2020) by extending the sample until
+the end of 2019 and re-estimating both reduced and structural form using updated data.
+We find that the results in the paper are robust to the inclusion of additional data and an
+alternative proxy.
+Chart A3.1 shows the full set of impulse response functions for the specification shown in
+Chart 7 of the speech. To note, the results presented here are for a 25 basis point
+contractionary monetary policy shock (as in Cesa-Bianchi et al., 2020). There is a
+significant effect on financial and credit variables, such as corporate bond and mortgage
+spreads, but also on US corporate spreads. This is in line with the literature (such as
+Gerko and Rey, 2017 and Gertler and Karadi, 2015) which highlights the importance of the
+financial channel in the transmission of monetary policy.
+
+Bank of England
+
+Page 4
+
+Chart A3.1: Responses of UK variables to a contractionary monetary policy shock
+– full specification, as in Chart 7 of the speech
+
+We run a series of additional robustness checks on these results. First, we use a different
+proxy for the monetary policy shock. Cesa-Bianchi et al. create “a monetary policy
+surprises series from intra-day data that captures changes in expectations about the
+monetary policy stance in the UK for every monetary policy ‘event’ since 1997”. Changes
+in expectations about monetary policy stance are calculated using the intraday change in
+
+Bank of England
+
+Page 5
+
+interest rate futures at various different maturities. We verify whether the model
+specification is robust to using a different instrument: we use shocks derived from using
+intraday interest rate changes around monetary policy announcements, to capture the
+unexpected component of monetary policy. The methodology extracts principal
+components from the high-frequency surprises, and rotates these for economic
+interpretation.
+As suggested by Bauer and Swanson (2022), we clean these shocks for between-meeting
+surprises in macroeconomic data. Chart A3.2 shows the results of this robustness check,
+where the impulse response functions are of the same specification as in Chart A3.1, but
+using the alternative proxy. We find that the responses to a 25 basis point shock are larger
+in the macroeconomic variables: CPI, unemployment and GDP, but also in some financial
+variables, the spreads and the exchange rate. The impact on variables also peaks sooner.
+
+Bank of England
+
+Page 6
+
+Chart A3.2: Responses of UK variables to a contractionary monetary policy shock
+– full specification, with a different instrument
+
+For further robustness checks, we also include a measure of financial conditions (detailed
+in section A2) as a control variable in the model. We keep all other financial variables from
+the original specification in the model, as the FCI gives little weight to spreads, and does
+not include international financial variables. Chart A3.3 shows that the reaction, and peak,
+occurs early in £ERI and financial conditions, though magnitudes on the movement in
+financial conditions are implausible. CPI falls and unemployment rises, though both are
+insignificant.
+
+Bank of England
+
+Page 7
+
+Chart A3.3: Responses of UK variables to a contractionary monetary policy shock
+– specification including monthly GDP and UK financial conditions
+
+Bank of England
+
+Page 8
+
+A4. Simple New Keynesian model with backward-looking price-setters
+At its core, the model is the simple New Keynesian model described in Chapter 3 of
+Galí (2015) with the following three equations with all variables in logarithms:
+1. Dynamic IS curve:
+∗ ]
+𝑦𝑡 − 𝑦𝑡∗ = 𝐸[𝑦𝑡+1 − 𝑦𝑡+1
+−
+
+1
+(𝑖 − 𝐸[𝜋𝑡+1 ] − 𝑟𝑡∗ )
+𝜎 𝑡
+
+It defines today’s output gap as a function of the expected output gap tomorrow and
+the distance of the current real interest rate 𝑟𝑡 = 𝑖𝑡 − 𝐸[𝜋𝑡+1 ] from its neutral rate.
+The neutral rate is determined by the technology used in production as well as
+consumer preferences for consumption and saving.
+2. Phillips curve with naïve expectations formation:
+𝜋𝑡 = 𝛾𝑛 𝜋̂𝑡+1 + 𝛾𝑓 𝐸[𝜋𝑡+1 ] + 𝜆(𝑦𝑡 − 𝑦𝑡∗ ) + 𝑢𝑡
+Here, we extend the standard New Keynesian Phillips curve by including naïve
+price-setters along the argument of section 4.1 in Galí and Gertler (1999). We begin
+with a standard Calvo-pricing setup in which firms are able to adjust their price 𝑝
+with probability (1 − 𝜃). Accordingly, today’s price level is a weighted average of
+yesterday’s price level and the firms’ index of desired reset prices 𝑝∗ :
+𝑝𝑡 = 𝜃𝑝𝑡−1 + (1 − 𝜃)𝑝𝑡∗
+In the standard New Keynesian setup, this desired reset price is simply a weighted
+average of discounted future marginal costs. With a discount factor 𝛽, it is:
+∞
+𝑓
+𝑝𝑡
+
+= (1 − 𝛽𝜃) ∑(𝛽𝜃)𝑘 𝐸𝑡 [𝜇 + mc𝑡 ]
+𝑘=0
+
+Here, we assume, however, that there exists a second type of firm which
+determines its desired reset price according to some naïve rule of thumb. Assume
+that the share of naïve firms is a constant 𝜔, then the index of optimal reset prices
+is a weighted average of desired prices of those firms and the fundamental, rational
+expectations-implied price:
+𝑓
+
+𝑝𝑡∗ = 𝜔𝑝𝑡𝑛 + (1 − 𝜔)𝑝𝑡
+
+In the following we impose that these naïve firms just extrapolate last period’s
+inflation rate (i.e. 𝜋̂𝑡 = 𝜋𝑡−1 ) but the model is general enough to capture more
+
+Bank of England
+
+Page 9
+
+sophisticated ways of expectations formation. The optimal reset price of the naïve
+firm is therefore:
+∗
+𝑝𝑡𝑛 = 𝑝𝑡−1
++ 𝜋𝑡−1
+
+We then assume that there exists a linear mapping between real marginal costs
+and the output gap. Finally, 𝑢 is a persistent cost-push shock which increases
+mark-ups over and above price inflation implied by demand conditions.
+This gives rise to the above Phillips curve with weights that are non-linear functions
+of the share of naïve firms, discount factors, and the degree of price-stickiness. We
+obtain:
+𝛾𝑛 =
+
+𝜔
+𝛽𝜃
+, 𝛾𝑓 =
+𝜃 + 𝜔[1 − 𝜃(1 − 𝛽)]
+𝜃 + 𝜔[1 − 𝜃(1 − 𝛽)]
+
+3. Contemporaneous Taylor rule
+𝑖𝑡 = 𝜙𝜋 𝜋𝑡 + 𝜙𝑦 (𝑦𝑡 − 𝑦𝑡∗ ) + 𝜈𝑡
+Finally, we assume the central bank sets policy according to a simple
+contemporaneous policy rule with fixed parameters which trades-off inflation and
+the output gap subject to a monetary policy shock 𝜈. For the balanced policy rule,
+we choose 𝜙𝜋 = 1.5 and 𝜙𝑦 = 0.5 while in the inflation-biased rule, these
+parameters are 1.8 and 0.2 respectively.
+
+Depending on the share of naïve, backward-looking firms, shocks lead to more persistent
+deviations of inflation from target. See Chart A4.1 for the response to a persistent
+cost-push shock and Chart A4.2 for the response to a monetary policy shock. In both
+charts, the shock is normalised to yield an increase in the nominal interest rate of 100
+basis points under the fully forward-looking baseline.
+Charts A4.3 and A4.4 explore the gains from an inflation-biased policy rule given varying
+degrees of backward-looking expectations formation. In order to summarise the trade-off
+under the two rules, we specify a discounted squared-error loss function following Carney
+(2017):
+16
+∗ )2 ]
+Loss = ∑ 𝛽 ℎ [(𝜋𝑡+ℎ − 𝜋 ∗ )2 + 𝜆(𝑦𝑡+ℎ − 𝑦𝑡+ℎ
+2
+
+ℎ=1
+
+Bank of England
+
+Page 10
+
+We find that the inflation-biased Taylor rule delivers a lower aggregate loss for a wide
+range of choices of 𝜆 with disproportionately higher gains at higher degrees of
+backward-lookingness. For example, when we evaluate the above function for 𝛽 = 0.99
+and 𝜆 = 0.5, we obtain the following values:
+𝜔=0
+
+𝜔 = 0.4
+
+𝜔 = 0.8
+
+Balanced rule
+
+1.61
+
+16.27
+
+57.99
+
+Inflation-biased rule
+
+1.54
+
+15.11
+
+44.85
+
+Ratio
+
+1.05
+
+1.08
+
+1.29
+
+So, while the gains from putting a high weight on inflation in the policy rule are small in
+cases in which backward-lookingness is modest, there are large gains when there are
+many backward-looking agents.
+Note, however, that these are all cases in which 𝜔 is exogenously chosen. Therefore, we
+conclude that in a world in which 𝜔 actually depends on realised inflation deviations from
+target (and therefore on the chosen policy path), there is value in insuring against bad
+outcomes by adopting an inflation-biased rule even before 𝜔 is known to the policymaker
+(or is unknown altogether).
+
+Bank of England
+
+Page 11
+
+Chart A4.1: Responses to a cost-push shock in a New Keynesian model given
+varying degrees of backward-lookingness
+
+Bank of England
+
+Page 12
+
+Chart A4.2: Responses to a monetary policy shock in a New Keynesian model
+given varying degrees of backward-lookingness
+
+Bank of England
+
+Page 13
+
+Chart A4.3: Responses to a cost-push shock under different policy rules given
+modest degree of backward-lookingness (𝜔 = 0.4)
+
+Bank of England
+
+Page 14
+
+Chart A4.4: Responses to a cost-push shock under different policy rules given
+high degree of backward-lookingness (𝜔 = 0.8)
+
+Bank of England
+
+Page 15
+
+References
+Angelopoulou, E., H. Balfoussia and H. Gibson (2013). ‘Building a financial conditions
+index for the euro area and selected euro area countries. What does it tell us about
+the crisis?’, ECB Working Paper Series, No. 1541.
+Arias, J. E., J. F. Rubi-Ramírez, D. F. Waggoner (2018). ‘Inference Based on Structural
+Vector Autoregressions Identified With Sign and Zero Restrictions: Theory and
+Applications’, Econometrica, 86 (2), pp. 685 – 720.
+Bailey et al. (2022). ‘Structural change, global R* and the missing-investment puzzle’,
+Bank of England Supporting paper for a speech by Andrew Bailey at the Official Monetary
+and Financial Institutions Forum
+Bank of England (2021). ‘How do we monitor UK financial conditions’, Bank
+Overground.
+Bauer, M. D. and E. T. Swanson (2022). ‘A Reassessment of Monetary Policy
+Surprises and High-Frequency Identification’, NBER Working Paper 29939.
+Brandt, L., A. Saint Guilhem, M. Schroeder, and I. Van Robays (2021). ‘What drives euro
+area financial market developments? The role of US spillovers and global risk’, ECB
+Working Paper Series.
+Carney, M. (2017). ‘Lambda’, speech given at London School of Economics.
+Cesa-Bianchi, A., G. Thwaites and A. Vicondoa (2020). ‘Monetary policy transmission
+in the United Kingdom: a high frequency identification approach’, European
+Economic Review, 123.
+Galí, J. (2015). ‘Monetary Policy, Inflation, and the Business Cycle: An Introduction
+to the New Keynesian Framework and Its Applications – Second Edition’, Princeton
+University Press.
+Galí, J. and M. Gertler (1999). ‘Inflation Dynamics: A Structural Econometric
+Approach’, Journal of Monetary Economics, 44, pp. 195-222.
+Gerko, E. and H. Rey (2017). ‘Monetary Policy in the Capitals of Capital’, Journal of the
+European Economic Association, 15 (4), pp. 721–745.
+Gertler, M. and P. Karadi (2015). ‘Monetary Policy Surprises, Credit Costs, and
+Economic Activity’, American Economic Journal: Macroeconomics, 7(1), pp. 44-76.
+
+

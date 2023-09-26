@@ -1,0 +1,6158 @@
+The Beveridge Curve, Unemployment and Wages in the OECD
+from the 1960s to the 1990s
+Speech given by
+Stephen Nickell, Luca Nunziata, Wolfgang Ochel and Glenda Quintini
+
+At a Conference at the Bank of Portugal
+3 June 2001
+
+We would like to thank the ESRC Centre for Economic Performance, CES ifo, Munich and the Bank
+of England External MPC Unit for help in the production of this paper.
+We are also grateful to the Leverhulme Trust Programme on the Labour Market Consequences of
+Structural and Technological Change and CESifo, Munich for financial assistance. Finally our thanks
+are due to Michèle Belot, Olivier Blanchard, Guiseppe Nicoletti, Andrew Oswald, Jan Van Ours and
+Justin Wolfers for help with our data.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Abstract
+The Beveridge Curve, Unemployment and Wages in the OECD from the
+1960s to the 1990s
+
+This paper is an empirical analysis of unemployment patterns in the OECD countries from the 1960s
+to the 1990s, looking at the Beveridge Curves, real wages as well as unemployment directly.
+
+Our results indicate the following. First, the Beveridge Curves of all the countries except Norway
+and Sweden shifted to the right from the 1960s to the early/mid 1980s. At this point, the countries
+divide into two distinct groups. Those whose Beveridge Curves continued to shift out and those
+where they started to shift back. Second, we find evidence that these movements in the Beveridge
+Curves may be partly explained by changes in labour market institutions, particularly those which
+are important for search and matching efficiency. Third, labour market institutions impact on real
+labour costs in a fashion which is broadly consistent with their impact on unemployment. Finally,
+broad movements in unemployment across the OECD can be explained by shifts in labour market
+institutions although this explanation relies on high levels of endogenous persistence as reflected in a
+lagged dependent variable coefficient of around 0.9.
+
+JEL Numbers: E240, J300.
+
+2
+
+“The main message transmitted by the Beveridge curves for France and Germany goes squarely
+against the cliché that high and persistent unemployment is entirely or mainly a matter of worsening
+functioning of the labour market. It is precisely in France and Germany that there is no sign of a
+major unfavourable shift of the Beveridge curve during the period of rising unemployment.”
+(R. Solow, 2000, p.5)
+
+“Explanations (of high unemployment) based solely on institutions also run however into a major
+empirical problem: many of these institutions were already present when unemployment was low
+………. Thus, while labour market institutions can potentially explain cross country differences
+today, they do not appear able to explain the general evolution of unemployment over time.”
+(O.Blanchard and J.Wolfers, 2000, p.C2)
+
+“Despite conventional wisdom, high unemployment does not appear to be primarily the result of
+things like overly generous benefits, trade union power, taxes, or wage ‘inflexibility’.”
+(A.Oswald, 1997, p.1)
+
+3
+
+1. Introduction
+
+It is widely accepted that labour market rigidities are an important part of the explanation for the
+high levels of unemployment which are still to be found in many OECD countries. However, this
+view is not universally accepted and there remain serious problems as the above quotations indicate.
+One such problem, emphasised by Blanchard and Wolfers (2000), may be summarised as follows:
+
+Labour market rigidities cannot explain why European unemployment is so much higher than US
+unemployment because the institutions generating these rigidities were much the same in the 1960s
+as they are today and in the 1960s, unemployment was much higher in the United States than in
+Europe. Before going any further, it is worth looking at the actual numbers reported in Table 1.
+TABLE 1
+Unemployment (Standardised Rate) %
+
+1960-64
+
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany (W)
+Ireland
+Italy
+Japan
+Netherlands
+Norway
+New Zealand
+Portugal
+Spain
+Sweden
+Switzerland
+UK
+USA
+
+2.5
+1.6
+2.3
+5.5
+2.2
+1.4
+1.5
+0.8
+5.1
+3.5
+1.4
+0.9
+2.2
+0.0
+2.3
+2.4
+1.2
+0.2
+2.6
+5.5
+
+1965-72
+
+1.9
+1.4
+2.3
+4.7
+1.7
+2.4
+2.3
+0.8
+5.3
+4.2
+1.3
+1.7
+1.7
+0.3
+2.5
+2.7
+1.6
+0.0
+3.1
+4.3
+
+1973-79
+
+4.6
+1.4
+5.8
+6.9
+4.1
+4.1
+4.3
+2.9
+7.3
+4.5
+1.8
+4.7
+1.8
+0.7
+5.5
+4.9
+1.6
+0.8
+4.8
+6.4
+
+1980-87
+
+7.7
+3.1
+11.2
+9.7
+7.0
+5.1
+8.9
+6.1
+13.8
+6.7
+2.5
+10.0
+2.4
+4.7
+7.8
+17.6
+2.3
+1.8
+10.5
+7.6
+
+1988-95
+
+8.7
+3.6
+8.4
+9.5
+8.1
+9.9
+10.5
+5.6
+14.7
+8.1
+2.5
+7.2
+5.2
+8.1
+5.4
+19.6
+5.1
+2.8
+8.8
+6.1
+
+1996-99
+
+2000
+Oct/Nov
+
+8.7
+4.5
+9.4
+8.7
+5.5
+12.2
+11.9
+7.1
+8.9
+10.0
+3.9
+4.7
+3.9
+6.9
+5.9
+19.4
+8.7
+3.7
+6.9
+4.8
+
+6.6
+3.2
+8.4
+6.9
+5.0
+9.6
+8.9
+6.1
+4.1
+9.5
+4.7
+2.8
+3.2
+4.1
+13.6
+5.6
+2.6
+5.3
+4.0
+
+Notes. As far as possible, these numbers correspond to the OECD standardised rates and conform to
+the ILO definition. The exception here is Italy where we use the US Bureau of Labor Statistics
+“unemployment rates on US concepts”. With the exception of Italy, these rates are similar to the
+4
+
+OECD standardised rates. For earlier years we use the data reported in Layard et al. (1991), Table
+A3. For later years we use OECD Employment Outlook (2000) and UK Employment Trends,
+published by the UK Department of Education and Employment.
+
+This confirms that the United States indeed had the highest unemployment in the OECD in the early
+1960s but the picture today is not quite as clear-cut as is commonly thought. In fact, many of the
+smaller European countries have unemployment rates which are in the same ball park as that in the
+United States although none have reached the extraordinarily low levels ruling in the early 1960s.
+
+Our purpose is what follows is to shed some further light on the patterns of unemployment seen in
+the OECD from the 1960s to the 1990s. In particular, we want to focus on the problem noted above
+and, more generally, on the challenges set out in our introductory quotes. Our aim is to see how far
+it is possible to defend the proposition that the dramatic long term shifts in unemployment seen in the
+OECD countries over the period from the 1960s to the 1990s can be explained by changes in labour
+market institutions in the same period. The institutions concerned will be the usual suspects set out
+in the Oswald (1997) quote, namely generous benefits, trade union power, taxes and wage
+“inflexibility”. Our strategy is very simple. We analyse shifts in the Beveridge Curve, real wages
+and unemployment over time and explain these shifts by institutional changes and macroeconomic
+shocks. We focus on the times series variation in the data and eschew the extensive use of
+interactions which differentiates our analysis from that of Blanchard and Wolfers (2000) and Belot
+and Van Ours (2000). Are we successful in our main aim? We feel that we probably deserve a B
+grade. The story that emerges is reasonably consistent but not totally decisive. Experts on individual
+countries would probably feel that we had not produced wholly persuasive explanations of the
+unemployment shifts in each country and we make no attempt to provide a country by country story.
+Furthermore, we have not faced up to the problem of the endogeneity of the institutional shifts. In
+certain cases this may be important, but the absence of suitable instruments defeated us.
+
+The remainder of the paper is set out as follows. In the next section we briefly discuss our
+theoretical framework and then, in Section 3, we look at the various institutions and discuss our data.
+In Section 4 we lay out our empirical strategy and in Section 5 we present our results. We finish
+with a summary and conclusions
+
+2. Theoretical Background
+There are innumerable detailed theories of unemployment in the long run. These may be divided
+into two broad groups, those based on flow models and those based on stock models. Pissarides
+5
+
+(1990) and Mortensen and Pissarides (1999) provide good surveys of the former model type.
+Blanchard and Katz (1997) presents a general template for the latter models. Fundamentally, all the
+models have the same broad implications. First, unemployment in the short-run and in the long-run
+is determined by real demand.
+
+Second, over the long term, real demand and unemployment
+
+generally tend towards the level consistent with stable inflation. This we term the equilibrium level.
+Various possible mechanisms may be at work here. For example, many OECD countries now set
+monetary policy on the basis of an inflation target which naturally moves real demand and
+unemployment towards the equilibrium defined above 1 .
+
+Third, the equilibrium level of
+
+unemployment is affected first, by any variable which influences the ease with which unemployed
+individuals can be matched to available job vacancies, and second, by any variable which tends to
+raise wages in a direct fashion despite excess supply in the labour market. There may be variables
+common to both sets. Finally, both groups of variables will tend to impact on real wages in the same
+direction as they influence equilibrium unemployment, essentially because equilibrium labour
+demand, which is negatively related to wages, has to move in the opposite direction to equilibrium
+unemployment.
+
+Before going on to consider these variables in more detail, it is worth noting that the first group of
+variables mentioned above will tend to impact on the position of the Beveridge Curve (UV locus),
+whereas the second will not do so in any direct fashion. However, this division is not quite as clear
+cut as it might appear at first sight (see below). What we can say, nevertheless is that any variable
+which shifts the Beveridge Curve to the right will increase equilibrium unemployment. So a shift of
+the Beveridge Curve is a sufficient but not necessary sign that equilibrium unemployment has
+changed.
+
+We turn now to consider a series of variables which we might expect to influence equilibrium
+unemployment either because of their impact on the effectiveness with which the unemployed are
+matched to available jobs or because of their direct effect on wages. The unemployment benefit
+system directly affects the readiness of the unemployed to fill vacancies. Aspects of the system
+which are clearly important are the level of benefits, their coverage, the length of time for which they
+are available and the strictness with which the system is operated. Related to unemployment benefits
+is the availability of other resources to those without jobs. These include the returns on non-human
+wealth which may be increasing in the real interest rate.
+
+(see Phelps, 1994, for an extensive
+
+discussion). Employment protection laws may tend to make firms more cautious about filling
+vacancies which slows the speed at which the unemployed move into work. This obviously reduces
+the efficiency of job matching. However, the mechanism here is not clear-cut. For example, the
+introduction of employment laws often leads to an increased professionalisation of the personnel
+6
+
+function within firms, as was the case in Britain in the 1970s (see Daniel and Stilgoe, 1978). This
+can increase the efficiency of job matching. So, in terms of outflows from unemployment, the
+impact of employment protection laws can go either way. By contrast, it seems clear that such laws
+will tend to reduce involuntary separations and hence lower inflows into unemployment 2 . So the
+overall impact on the Beveridge Curve is an empirical question. Furthermore, employment law may
+also have a direct impact on pay since it raises the job security of existing employees encouraging
+them to demand higher pay increases.
+
+Anything which makes it easier to match the unemployed to the available vacancies will shift the
+Beveridge Curve to the left and reduce equilibrium unemployment. Factors which operate in this
+way include the reduction of barriers to mobility which may be geographical or occupational.
+Furthermore numerous government policies are concerned to increase the ability and willingness of
+the unemployed to take jobs. These are grouped under the heading of active labour market policies.
+
+Turning now to those factors which have a direct impact on wages, the obvious place to start is the
+institutional structure of wage determination. Within every country there is a variety of structures.
+In some sectors wages are determined more of less competitively but in others wages are bargained
+between employers and trade unions at the level of the establishment, firm or even industry. The
+overall outcome depends on union power in wage bargains, union coverage and the degree of coordination of wage bargains. Generally, greater union power and coverage can be expected to exert
+upward pressure on wages, hence raising equilibrium unemployment, but this can be offset if union
+wage setting across the economy is co-ordinated. Superficially it may be argued that wage setting
+institutions impact directly on wages without influencing the efficiency of job matching or the
+separation rate into unemployment. That is, without influencing the position of the Beveridge Curve.
+However, if we use a model of the Beveridge Curve which endogenises the rate of separation into
+unemployment or the rate of job destruction (see Mortensen and Pissarides, 1994, for example), this
+no longer applies. For example, if union power raises the share of the matching surplus going to
+wages, this will tend to raise the rate of job destruction and shift the Beveridge Curve to the right.
+The same thing will also happen if factors such as the co-ordination of wage bargaining reduce the
+extent to which wages at the firm level can fluctuate to offset idiosyncratic shocks and stabilise
+employment at the firm level. So while co-ordination can reduce overall wage pressure, which tends
+to lower equilibrium unemployment, it may raise the rate of idiosyncratic job shifts which will tend
+to shift the Beveridge Curve to the right and have an offsetting effect.
+
+The final group of variables which directly impacts on wages falls under the heading of real wage
+resistance. The idea here is that workers attempt to sustain recent rates of real wage growth when the
+7
+
+rate consistent with stable employment shifts unexpectedly. For example, if there is an adverse shift
+in the terms of trade, real consumption wages must fall if employment is not to decline. If workers
+persist in attempting to bargain for rates of real wage growth which take no account of the movement
+in the terms of trade, this will tend to raise unemployment. Exactly the same argument applies if
+there is an unexpected fall in trend productivity growth or an increase in labour taxes. For example,
+if labour taxes (payroll tax rates plus income tax rates plus consumption tax rates) go up, the real
+post-tax consumption wage must fall if real labour costs per employee facing firms are not to rise.
+Any resistance to this fall will lead to a rise in unemployment. This argument suggests that increases
+in real import prices, falls in trend productivity growth or rises in the labour tax rate may lead to a
+temporary increase in unemployment.
+
+However, some argue that these effects can be permanent. For example, Mortensen and Pissarides
+(1999) use their standard flow model of equilibrium unemployment to analyse various economic
+policies including changes in payroll taxes. And they find enormous effects. For example, in one
+simulation, with a benefit replacement ratio of 0.4, a rise in the payroll tax rate from 15 to 25 percent
+is enough to raise equilibrium unemployment permanently by over 6 percentage points. The reason
+why labour taxes have a big impact in this case is because Mortensen and Pissarides introduce into
+their model a value of leisure which is independent of the consumption wage. This fixing of an
+important element of the individual reservation wage implies that labour supply and willingness to
+work will increase permanently if the real consumption wage goes up. This will induce permanent
+reductions in equilibrium unemployment if labour taxes fall or productivity rises. Ultimately this is
+an empirical question but it may be argued that in a satisfactory model, the value of leisure, and the
+individual reservation wage more generally, should, in the long run, move proportionally to the
+consumption wage and the general level of productivity. If this adjustment is made in the Mortensen
+and Pissarides model, the impact of payroll taxes on equilibrium unemployment disappears.
+
+To summarise, the variables which we might expect to influence equilibrium unemployment include
+the unemployment benefit system, the real interest rate, employment protection laws, barriers to
+labour mobility, active labour market policies, union structures and the extent of co-ordination in
+wage bargaining, labour taxes, terms of trade changes and shifts in trend productivity growth. Given
+the inverse relationship between the equilibrium unemployment and equilibrium employment, the
+impact of any of the above variables on unemployment should be reflected by a ceteris paribus
+impact in the same direction on real wages which are, of course, inversely related to employment.
+
+8
+
+3. Factors Influencing Unemployment in the OECD, 1960s-1990s
+
+Our purpose is to investigate the effect of changes in labour market “institutions” on the Beveridge
+Curve, real wages and equilibrium unemployment in the OECD from the 1960s to the 1990s. In
+order to undertake this task, we require long time series for the appropriate countries. In this section,
+we describe the information we possess and also indicate the gaps in our knowledge. The variables
+we consider relate, in turn, to the benefit system, the system of wage determination, employment
+protection, labour taxes and barriers to labour mobility.
+
+The Unemployment Benefit System
+There are four aspects of the unemployment benefit system for which there are good theoretical and
+empirical reasons to believe that they will influence equilibrium unemployment. These are, in turn,
+the level of benefits3 , the duration of entitlement4 , the coverage of the system5 and the strictness with
+which the system is operated6 . Of these, only the first two are available as time series for the OECD
+countries. The OECD has collected systematic data on the unemployment benefit replacement ratio
+for three different family types (single, with dependent spouse, with spouse at work) in three
+different duration categories (1st year, 2nd and 3rd years, 4th and 5th years) from 1961 to 1995 (every
+other year). (See OECD, 1994, Table 8.1 for the 1991 data). From this we derive a measure of the
+benefit replacement ratio, equal to the average over family types in the 1 st year duration category and
+a measure of benefit duration equal to [0.6 (2nd and 3rd year replacement ratio) + 0.4 (4th and 5th year
+replacement ratio)] ÷ (1st year replacement ratio). So our measure of benefit duration is the level of
+benefit in the later years of the spell normalised on the benefit in the first year of the spell. A
+summary of these data is presented in Tables 2 and 3.
+It is unfortunate that we have no comprehensive time series data on the coverage of the system or on
+the strictness with which it is administered. This is particularly true in the case of the latter because
+the evidence we possess appears to indicate that this is of crucial importance in determining the
+extent to which a generous level of benefit will actually influence unemployment. For example,
+Denmark, which has very generous unemployment benefits (see Tables 2,3), totally reformed the
+operation of its benefit system through the 1990s with a view to tightening the criteria for benefit
+receipt and the enforcement of these criteria via a comprehensive system of sanctions. The Danish
+Ministry of Labour is convinced that this process has played a major role in allowing Danish
+unemployment to fall dramatically since the early 1990s without generating inflationary pressure
+(see Danish Ministry of Finance, 1999, Chapter 2).
+
+9
+
+A further aspect of the structure of the benefit system for which we do not have detailed data back to
+the 1960s are those policies grouped under the heading of active labour market policies (ALMP).
+The purpose of these is to provide active assistance to the unemployed which will improve their
+chances of obtaining work. Multi-country studies basically using cross section information indicate
+that ALMPs do have a negative impact on unemployment (e.g. Scarpetta, 1996; Nickell, 1997;
+Elmeskov et al., 1998). This broad brush evidence is backed up by numbers of microeconometric
+studies (see Katz, 1998 or Martin, 2000 for useful surveys) which show that under some
+circumstances, active labour market policies are effective. In particular, job search assistance tends
+to have consistently positive outcomes but other types of measure such as employment subsidies and
+labour market training must be well designed if they are to have a significant impact (see again
+Martin, 2000, for a detailed analysis).
+
+Systems of Wage Determination
+
+In most countries in the OECD, the majority of workers have their wages set by collective bargaining
+between employers and trade unions at the plant, firm, industry or aggregate level. This is important
+for our purposes because there is some evidence that trade union power in wage setting has a
+significant impact on unemployment 7 . Unfortunately, we do not have complete data on collective
+bargaining coverage (the proportion of employees covered by collective agreements) but the data
+presented in Table 4 give a reasonable picture.
+
+Across most of Continental Europe, including
+
+Scandinavia but excluding Switzerland coverage is both high and stable. As we shall see, this is
+either because most people belong to trade unions or because union agreements are extended by law
+to cover non-members in the same sector. In Switzerland and in the OECD countries outside
+Continental Europe and Scandinavia, coverage is generally much lower with the exception of
+Australia. In the UK, the US and New Zealand, coverage has declined with the fall in union density,
+there being no extension laws.
+
+10
+
+TABLE 2
+Unemployment Benefit Replacement Ratios, 1960-95
+
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany (W)
+Ireland
+Italy
+Japan
+Netherlands
+Norway
+New Zealand
+Portugal
+Spain
+Sweden
+Switzerland
+UK
+US
+
+1960-64
+
+1965-72
+
+1973-79
+
+1980-87
+
+1988-95
+
+0.18
+0.15
+0.37
+0.39
+0.25
+0.13
+0.48
+0.43
+0.21
+0.09
+0.36
+0.39
+0.12
+0.37
+0.35
+0.11
+0.04
+0.27
+0.22
+
+0.15
+0.17
+0.40
+0.43
+0.35
+0.18
+0.51
+0.41
+0.24
+0.06
+0.38
+0.64
+0.13
+0.30
+0.48
+0.16
+0.02
+0.36
+0.23
+
+0.23
+0.30
+0.55
+0.59
+0.55
+0.29
+0.56
+0.39
+0.44
+0.04
+0.31
+0.65
+0.28
+0.27
+0.17
+0.62
+0.57
+0.21
+0.34
+0.28
+
+0.23
+0.34
+0.50
+0.57
+0.67
+0.38
+0.61
+0.38
+0.50
+0.02
+0.29
+0.67
+0.56
+0.30
+0.44
+0.75
+0.70
+0.48
+0.26
+0.30
+
+0.26
+0.34
+0.48
+0.58
+0.64
+0.53
+0.58
+0.37
+0.40
+0.26
+0.30
+0.70
+0.62
+0.29
+0.65
+0.68
+0.72
+0.61
+0.22
+0.26
+
+Source: OECD. Based on the replacement ratio in the first year of an unemployment spell averaged
+over three family types. See OECD (1994), Table 8.1 for an example.
+
+11
+
+TABLE 3
+Unemployment Benefit Duration Index, 1960-95
+
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany
+Ireland
+Italy
+Japan
+Netherlands
+Norway
+New Zealand
+Portugal
+Spain
+Sweden
+Switzerland
+UK
+US
+
+Source:
+
+1960-64
+
+1965-72
+
+1973-79
+
+1980-87
+
+1988-95
+
+1.02
+0
+1.0
+0.33
+0.63
+0
+0.28
+0.57
+0.68
+0
+0
+0.12
+0
+1.02
+0
+0
+0
+0.87
+0.12
+
+1.02
+0
+0.96
+0.31
+0.66
+0.14
+0.23
+0.57
+0.78
+0
+0
+0.35
+0.07
+1.02
+0
+0
+0
+0.59
+0.17
+
+1.02
+0.69
+0.78
+0.20
+0.66
+0.72
+0.19
+0.61
+0.39
+0
+0
+0.53
+0.45
+1.02
+0
+0.01
+0.04
+0
+0.54
+0.19
+
+1.02
+0.75
+0.79
+0.25
+0.62
+0.61
+0.37
+0.61
+0.40
+0
+0
+0.66
+0.49
+1.04
+0.11
+0.21
+0.05
+0
+0.71
+0.17
+
+1.02
+0.74
+0.77
+0.22
+0.84
+0.53
+0.49
+0.61
+0.39
+0.13
+0
+0.57
+0.50
+1.04
+0.35
+0.27
+0.04
+0.18
+0.70
+0.18
+
+OECD.
+
+Based on [0.06 (replacement ratio in 2nd and 3rd years of a spell) + 0.04
+
+(replacement ratio in 4th and 5th year of a spell)] ÷ (replacement ratio in 1st year of a spell).
+
+12
+
+TABLE 4
+Collective bargaining coverage (%)
+Country
+
+1960
+
+1965 1970 1975
+
+1980 1985 1990
+
+1994
+
+Austria a
+Belgiumb
+Denmarkc
+Finland d
+Francee
+Germanyf
+Ireland g
+Italyh
+Netherlandsi
+Norwayj
+Portugalk
+Spainl
+Swedenm
+Switzerland n
+United Kingdomo
+Canadap
+United Statesq
+Japanr
+Australias
+New Zealand t
+
+n.a.
+80
+67
+95
+n.a.
+90
+n.a.
+91
+100
+65
+n.a.
+n.a.
+n.a.
+n.a.
+67
+35
+29
+n.a.
+85
+n.a.
+
+n.a.
+80
+68
+95
+n.a.
+90
+n.a.
+90
+n.a.
+65
+n.a.
+n.a.
+n.a.
+n.a.
+67
+33
+27
+n.a.
+85
+n.a.
+
+n.a.
+90
+72
+95
+85
+91
+n.a.
+85
+76
+70
+70
+68
+n.a.
+n.a.
+70
+40
+21
+28
+85
+n.a.
+
+99
+90
+69
+95
+95
+92
+n.a.
+82
+85
+70
+71
+78
+89
+53
+40
+36
+17
+21
+80
+31
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+
+n.a.
+80
+68
+95
+n.a.
+90
+n.a.
+88
+n.a.
+65
+n.a.
+n.a.
+n.a.
+n.a.
+68
+36
+27
+n.a.
+85
+n.a.
+
+n.a.
+85
+70
+95
+n.a.
+90
+n.a.
+85
+n.a.
+65
+n.a.
+n.a.
+n.a.
+n.a.
+72
+39
+24
+n.a.
+85
+n.a.
+
+n.a.
+90
+74
+95
+n.a.
+90
+n.a.
+85
+80
+70
+n.a.
+70
+n.a.
+n.a.
+64
+39
+21
+n.a.
+85
+n.a.
+
+99
+90
+69
+95
+92
+90
+n.a.
+83
+n.a.
+70
+79
+76
+86
+53
+54
+38
+18
+23
+80
+67
+
+1997 1999
+
+97
+
+36
+15
+
+Traxler, F., S. Blaschke and B. Kittel (2001): National Labour Relations in International Markets, Oxford
+Estimates by J. Rombouts; OECD 1997 for 1990 and 1994.
+Estimates by St. Scheuer; 1985 figures are survey based; OECD 1997 for 1990 and 1994.
+Estimates by J. Kiander; OECD 1997 for 1990 and 1994.
+OECD 1997 for 1980, 1990 and 1995; estimate by J.-L Dayan for 1997.
+Estimates by L. Clasen; OECD 1997 for 1980, 1990 and 1994.
+--Estimates by T.Boeri, P. Garibaldi, M. Macis; OECD 1997 for 1980, 1990 and 1994.
+Estimate by J. Visser for 1960; survey be van den Toren for 1985; OECD 1997 for 1980 and 1994.
+Estimates by K. Nergaard.
+OECD 1997 for 1980, 1990 and 1994.
+Estimates by J. F Jimeno for 1980 and 1985; OECD 1997 for 1990 and 1994.
+OECD 1997 for 1990 and 1994.
+OECD 1997 for 1990 and 1994.
+Estimates by W. Brown based on Milner (1995), Millward et al (1992) and Cully and Woodland (1998).
+Estimates by M. Thompson; OECD 1997 for 1990 and 1994.
+Estimates by W. Ochel for 1960 to 1980; Current Population Survey for 1985, 1990, 1994 and 1999.
+OECD 1997 for 1980, 1990 and 1994.
+Estimates by R. D. Lansbury; OECD 1997 for 1990 and 1994.
+OECD 1997 for 1990 and 1994.
+
+These data were collected by one of the authors (W. Ochel) from the country experts noted above. We are most grateful
+for all their assistance. Further details may be found in Ochel (2000).
+
+13
+
+TABLE 5
+Union Density (%)
+
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany (W)
+Ireland
+Italy
+Japan
+Netherlands
+Norway
+New Zealand
+Portugal
+Spain
+Sweden
+Switzerland
+UK
+USA
+
+1960-64
+
+1965-72
+
+1973-79
+
+1980-87
+
+1988-95
+
+Extension laws
+in place (a)
+
+47
+59
+40
+26
+60
+34
+18
+34
+46
+24
+33
+39
+54
+36
+61
+9
+63
+31
+39
+27
+
+45
+57
+43
+29
+61
+46
+23
+33
+50
+30
+34
+37
+50
+35
+61
+9
+66
+30
+42
+26
+
+48
+52
+53
+35
+68
+66
+20
+35
+55
+44
+30
+38
+51
+37
+61
+9
+76
+32
+49
+25
+
+4+
+51
+53
+37
+77
+71
+15
+34
+55
+42
+27
+34
+53
+37
+57
+10
+83
+31
+47
+20
+
+44
+45
+52
+37
+76
+77
+9
+31
+50
+38
+24
+29
+56
+36
+33
+16
+84
+25
+37
+16
+
+ü
+ü
+ü
+X
+X
+ü
+ü
+ü
+X
+ü
+X
+ü
+X
+X
+ü
+ü
+X
+ü (b)
+X
+X
+
+Notes
+(i)
+
+Union density = union members as a percentage of employees. In both Spain and Portugal,
+union membership in the 1960s and 1970s does not have the same implications as elsewhere
+because there was pervasive government intervention in wage determination during most of
+this period.
+
+(ii)
+
+(a)
+
+Effectively, bargained wages extended to non-union firms typically at the behest of
+one party to the bargain.
+
+(b)
+
+Extension only at the behest of both parties to a bargain. See OECD. For details, see
+OECD (1994), Table 5.11.
+
+(iii)
+
+Source: see Data Appendix.
+
+14
+
+TABLE 6
+Co-ordination Indices (Range 1-3)
+
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany (W)
+Ireland
+Italy
+Japan
+Netherlands
+Norway
+New Zealand
+Portugal
+Spain
+Sweden
+Switzerland
+UK
+US
+
+1960-64
+1
+2
+
+1965-72
+1
+2
+
+1973-79
+1
+2
+
+1980-87
+1
+2
+
+1988-95
+1
+2
+
+2.25
+3
+2
+1
+2.5
+2.25
+1.75
+3
+2
+1.5
+3
+2
+2.5
+1.5
+1.75
+2
+2.5
+2.25
+1.5
+1
+
+2.25
+3
+2
+1
+2.5
+2.25
+1.75
+3
+2
+1.5
+3
+2
+2.5
+1.5
+1.75
+2
+2.5
+2.25
+1.5
+1
+
+2.25
+3
+2
+1
+2.5
+2.25
+1.75
+3
+2
+1.5
+3
+2
+2.5
+1.5
+1.75
+2
+2.5
+2.25
+1.5
+1
+
+2.25
+3
+2
+1
+2.4
+2.25
+1.84
+3
+2
+1.5
+3
+2
+2.5
+1.32
+1.84
+2
+2.41
+2.25
+1.41
+1
+
+1.92
+3
+2
+1
+2.26
+2.25
+1.98
+3
+3
+1.4
+3
+2
+2.5
+1
+2
+2
+2.15
+2.25
+1.15
+1
+
+2
+2.5
+2
+1
+3
+1.5
+2
+2.5
+2
+1.94
+2.5
+3
+3
+2.5
+3
+3
+3
+2
+1.56
+1
+
+2
+2.5
+2
+1
+3
+1.69
+2
+2.5
+2.38
+1.73
+2.5
+2.56
+3
+2.5
+3
+3
+3
+2
+1.77
+1
+
+2.36
+2.5
+2.1
+1.63
+2.96
+2
+2
+2.5
+2.91
+2
+2.5
+2
+2.96
+2.5
+2.56
+2.64
+3
+2
+1.77
+1
+
+2.31
+2.5
+2.55
+1.08
+2.54
+2
+2
+2.5
+2.08
+1.81
+2.5
+2.38
+2.72
+2.32
+1.58
+2.3
+2.53
+2
+1.08
+1
+
+1.63
+2.42
+2
+1
+2.42
+2.38
+1.92
+2.5
+2.75
+1.95
+2.5
+3
+2.84
+1.25
+1.88
+2
+1.94
+1.63
+1
+1
+
+Notes
+The first series (1) only moves in response to major changes, the second series (2) attempts to
+capture all the nuances. Co-ordination 1 was provided by Michèle Belot to whom much thanks (see
+Belot and van Ours, 2000, for details). Co-ordination 2 is the work of one of the authors, W. Ochel.
+Co-ordination 1 appears in all the subsequent regressions.
+
+15
+
+In Table 5, we present the percentage of employees who are union members. Across most of
+Scandinavia, membership tends to be high. By contrast, in much of Continental Europe and in
+Australia, union density tends to be less than 50 percent and is gradually declining.
+
+In these
+
+countries there is, consequently, a wide and widening gap between density and coverage which it is
+the job of the extension laws to fill. This situation is at its most stark in France, which has the lowest
+union density in the OECD at 9 percent, but one of the highest levels of coverage (around 95
+percent). Outside these regions, both density and coverage tend to be relatively low and both are
+declining at greater or lesser rates. The absence of complete coverage data means that we have to
+rely on the density variable to capture the impact of unionisation on unemployment. As should be
+clear, this is only half the story, so we must treat any results we find in this area with some caution.
+
+The other aspect of wage bargaining which appears to have a significant impact on wages and
+unemployment is the extent to which bargaining is co-ordinated8,9. Roughly speaking, the evidence
+suggests that if bargaining is highly co-ordinated, this will completely offset the adverse effects of
+unionism on employment (see Nickell and Layard, 1999, for example). Co-ordination refers to
+mechanisms whereby the aggregate employment implications of wage determination are taken into
+account when wage bargains are struck.
+
+This may be achieved if wage bargaining is highly
+
+centralised, as in Austria, or if there are institutions, such as employers’ federations, which can assist
+bargainers to act in concert even when bargaining itself ostensibly occurs at the level of the firm or
+industry, as in Germany or Japan (see Soskice, 1991). It is worth noting that co-ordination is not,
+therefore, the same as centralisation which refers simply to the level at which bargaining takes place
+(plant, firm, industry or economy-wide). In Table 6, we present co-ordination indices for the OECD
+from the 1960s. The first index (co-ord 1) basically ignores transient changes whereas the second
+(co-ord 2) tries to capture the various detailed nuances of the variations in the institutional structure.
+Notable changes are the increases in co-ordination in Ireland and the Netherlands towards the end of
+the period and the decline in co-ordination in Sweden. Co-ordination also declines in the UK over
+the same period but this simply reflects the sharp decline of unionism overall.
+
+Employment Protection
+
+Employment protection laws are thought by many to be a key factor in generating labour market
+inflexibility.
+
+Despite this, evidence that they have a decisive impact on overall rates of
+
+unemployment is mixed, at best10. In Table 7, we present details of an employment protection index
+for the OECD countries. Features to note are the wide variation in the index across countries and the
+fact that, in some countries, the basic legislation was not introduced until the 1970s.
+16
+
+TABLE 7
+Employment Protection (Index, 0-2)
+
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany (W)
+Ireland
+Italy
+Japan
+Netherlands
+Norway
+New Zealand
+Portugal
+Spain
+Sweden
+Switzerland
+UK
+USA
+
+1960-64
+
+1965-72
+
+1973-79
+
+1980-87
+
+1988-95
+
+0.50
+0.65
+0.72
+0.30
+0.90
+1.20
+0.37
+0.45
+0.02
+1.92
+1.40
+1.35
+1.55
+0.80
+0.00
+2.00
+0.00
+0.55
+0.16
+0.10
+
+0.50
+0.65
+1.24
+0.30
+0.98
+1.20
+0.68
+1.05
+0.19
+1.99
+1.40
+1.35
+1.55
+0.80
+0.43
+2.00
+0.23
+0.55
+0.21
+0.10
+
+0.50
+0.84
+1.55
+0.30
+1.10
+1.20
+1.21
+1.65
+0.45
+2.00
+1.40
+1.35
+1.55
+0.80
+1.59
+1.99
+1.46
+0.55
+0.33
+0.10
+
+0.50
+1.27
+1.55
+0.30
+1.10
+1.20
+1.30
+1.65
+0.50
+2.00
+1.40
+1.35
+1.55
+0.80
+1.94
+1.91
+1.80
+0.55
+0.35
+0.10
+
+0.50
+1.30
+1.35
+0.30
+0.90
+1.13
+1.41
+1.52
+0.52
+1.89
+1.40
+1.28
+1.46
+0.80
+1.93
+1.74
+1.53
+0.55
+0.35
+0.10
+
+Note
+These data are based on an interpolation of the variable used by Blanchard and Wolfers (2000), to
+whom we are most grateful. This variable is based on the series used by Lazear (1990) and that
+provided by the OECD for the late 1980s and 1990s. Since the Lazear index and the OECD index
+are not strictly comparable, the overall series is not completely reliable.
+
+Labour Taxes
+
+The important taxes here are those that form part of the wedge between the real product wage (labour
+costs per employee normalised on the output price) and the real consumption wage (after tax pay
+normalised on the consumer price index). These are payroll taxes, income taxes and consumption
+taxes. Their combined impact on unemployment remains a subject of some debate despite the large
+number of empirical investigations. Indeed some studies indicate that employment taxes have no
+long run impact on unemployment whatever whereas others present results which imply that they can
+explain more or less all the rise in unemployment in most countries during the 1960-1985 period11.
+17
+
+In Table 8 we present the total tax rate on labour for the OECD countries. All countries exhibit a
+substantial increase over the period from the 1960s to the 1990s although there are wide variations
+across countries. These mainly reflect the extent to which health, higher education and pensions are
+publicly provided along with the all-round generosity of the social security system.
+
+Barriers to Labour Mobility
+
+Oswald (1997) proposes that barriers to geographical mobility, as reflected in the rate of owner
+occupation of the housing stock, play a key role in determining unemployment. He finds that
+changes in unemployment are positively correlated with changes in owner occupation rates across
+countries, US states and UK regions.
+
+He also presents UK evidence that owner occupation
+
+represents a significant mobility barrier relative to private renting. However, Gregg et al. (2000) find
+that while unemployment is significantly negatively related to unemployment both across UK
+regions and across time in a regional fixed effects model, this relationship becomes significantly
+positive once other relevant regional characteristics are included. We propose to include owner
+occupation as a variable in our investigation and the data are shown in Table 9. It must, however, be
+born in mind that these data are heavily interpolated, so the results should be treated with caution.
+4. The Basic Empirical Strategy
+Our aim is to explain the different patterns of unemployment exhibited across the OECD in the
+period from the 1960s to the 1990s. Our approach is to see how far we can get with a very simple
+empirical model. We have already discussed those factors which can be expected to influence
+equilibrium unemployment in the long run. Then, since we are, in practice, going to explain actual
+unemployment, we must also include in our model those factors which might explain the short-run
+deviations of unemployment from its equilibrium level. These factors include aggregate demand
+shocks, productivity shocks and wage shocks. More specifically, we include the following (see Data
+Appendix for details):
+
+i)
+
+money supply shocks, specifically changes in the rate of growth of the nominal money stock
+(i.e. the second difference of the log money supply);
+
+ii)
+
+productivity shocks, measured by changes in TFP growth or deviations of TFP growth from
+trend;
+
+iii)
+
+labour demand shocks, measured by the residuals from a simple labour demand model;
+
+iv)
+
+real import price shocks, measured by proportional changes in real import prices weighted by
+the trade share;
+18
+
+v)
+
+the (ex-post) real interest rate.
+
+With the exception of the real interest rate, these variables are genuine “shocks” in the sense that
+they are typically stationary and tend to revert back to their mean quite rapidly. Nevertheless, their
+impact may persist for some time, since we shall also include the lagged dependent variable in our
+model to capture endogenous persistence.
+
+Some further specific points are worth noting. The first of these is the role of productivity shocks
+and real import shocks in capturing real wage resistance. As we noted in Section 2, increases in real
+import prices or falls in trend productivity growth will lead to temporary increases in unemployment
+(and in real product wages relative to trend productivity) if real consumption wages do not adjust
+appropriately. Second, we include the real interest rate because some have accorded it a significant
+role in the determination of unemployment even in the long run (e.g. Phelps, 1994 or Blanchard and
+Wolfers, 2000). Third, we are not simply going to look at unemployment but we shall also try and
+explain real product wages (real labour costs) and shifts in the Beveridge Curve in order to see if we
+can obtain a consistent picture.
+
+Our focus is going to be on the time series variation in the cross-country data, so all our models will
+include country dummies as well as time dummies. We are by no means the first to undertake this
+task but what we are attempting is perhaps a little different from what has gone before. There have
+been a number of previous studies but a representative picture may be gathered from Layard et al.
+(1991), Chapter 9 (p.430-437), Blanchard and Wolfers (2000) and Belot and Van Ours (2000), all of
+which use panel models with country dummies12. The first two of these focus specifically on the way
+in which institutions interact with variables which are either shocks or factors which may influence
+unemployment in the longer term. Layard et al.(1991) present a dynamic model of unemployment
+based on annual data where unemployment depends on wage pressure (simply a dummy which takes
+the value one from 1970), the benefit replacement ratio, real import price changes and monetary
+shocks. Their impact on unemployment depends on time invariant institutions, with different sets of
+institutions affecting the degree of unemployment persistence (captured by the lagged dependent
+variable), the impact of wage pressure variables including the replacement rate and import prices,
+and the effect of monetary shocks. The model generally explains the data better than individual
+country autoregressions with trends.
+
+Blanchard and Wolfers (2000) also focus on the interaction between institutional variables and
+shocks, using five year averages of the data to concentrate on long-run effects. The shock variables
+consist of the level of TFP growth, the real interest rate and labour demand shifts (essentially the log
+19
+
+of labour’s share purged of the impact of factor prices). These shocks differ from those used here
+because, over the length of the sample (35 years), they are not mean reverting. For example, annual
+TFP growth is as much as 3 percentage points higher in the 1960s than in the 1990s in many
+countries. Interacting these shocks with institutions fits the data well. So we have an explanation of
+unemployment shifts which depends on long-run changes in the level of TFP growth, labour demand
+and the real interest rate, with the impact of these long-run shifts being much bigger in some
+countries than others because of institutional differences.
+
+Belot and van Ours (2000) is closer in spirit to our analysis. They rely on “institutional” shifts to
+explain the changes in unemployment. They typically include large numbers of interactions between
+institutions, many of which are highly significant (see, for example, their Table 6, equation 8). This
+has a sound theoretical foundation (see Coe and Snower, 1997, for example) and undoubtedly helps
+greatly with the explanatory power of the model. The model is, however, static so that the within
+country persistence of unemployment is excluded.
+
+In the light of what has gone before, we propose to see how much the institutional information
+described in Section 3 can explain if it is taken more or less straight. That is with only a minimum of
+interactions and with the addition of some mean reverting shocks. The results of our investigation
+are presented next.
+
+5. Shifts in the Beveridge Curve, Real Wages and Unemployment
+In this section we set out our results concerning first, shifts in the Beveridge Curve, second, real
+labour costs and third, unemployment. We shall also briefly look at employment rates for the benefit
+of those who prefer to use this measure13.
+
+Shifts in the Beveridge Curve
+
+In Figures 1a-1s (see Appendix) we present plots of the unemployment rate against the vacancy rate
+for all our countries except Ireland and Italy, where vacancy data are unavailable. For each country
+we also picture the shift in the Beveridge Curve, which is captured by the trend terms in a regression
+of the form
+
+20
+
+ln u t = α 0 + α 1 ln u t− 1 + α 2 ln υ t + α 3t + α 4t 2 +α 5t 3 ,
+ut = unemployment rate,υ t = vacancy rate.
+
+For completeness, in France we also show a plot using a labour shortage index in place of the
+vacancy rate.
+
+Recall that if the economy fluctuates with a stationary Beveridge Curve, we expect to see the uv dots
+cycling anti-clockwise around a fixed downward sloping line. If the steady-state Beveridge Curve is
+also moving then these cycles will shift either rightwards or leftwards. Furthermore if the steady
+state curve is moving very fast, the cycles will not be clearly visible. By looking at the estimated
+trends or eye-balling the pictures, two points stand out. First, for every country except Norway and
+Sweden, the Beveridge Curve shifted to the right from the 1960s to the mid- 1980s. Of course, the
+distance moved varies a lot from country to country but the movement is clear in all cases. Second,
+after the mid- 1980s, the countries fall into two groups. Those for which the Beveridge Curve carries
+on moving to the right with no serious hint of a turnaround and those for which it starts moving back
+to the left.
+
+The former group definitely includes Belgium, Finland, France, Germany, Japan,
+
+Norway, Spain, Sweden, Switzerland 14.
+
+The latter group definitely includes Canada, Denmark,
+
+Netherlands, the UK and the US. Australia, Austria, New Zealand and Portugal are harder to place
+although all are probably showing some recent improvement (leftward move).
+
+These reasonably clear-cut movements in the Beveridge Curve provide evidence that some factors of
+the type discussed in previous sections have raised equilibrium unemployment in most countries over
+the period from the 1960s to the mid 1980s and, from then on, they have caused a fall back in some
+of these countries and a continuing rise in others. In order to pin these things down a bit further, we
+estimate a pooled, cross-country Beveridge Curve although note the panel is not balanced. From
+foot. 2, we see that the steady state Beveridge Curve can be written as
+
+? = e m (?u, υ )
+w here ? is the exit rate from employment into unemployment, u is the unemployment rate, υ is the
+vacancy rate, e is the level of matching efficiency and ? is the level of search intensity. Noting that e,
+? depend on some institutional variables, z, we estimate a dynamic (non-steady-state) version of (1)
+which has the form
+
+21
+
+ln u it = α i + α t + β1 ln u it−1 + β 2 ln υ it + β 3 ln s it + ∑ γ j z jt + ε it
+j
+
+A representitive equation is presented in Table 10. Note that this curve is estimated given the inflow
+rate, s. In order to analysis the overall Beveridge Curve shifts, we also need to account for any
+exogenous movements in s, and this we do below. The picture generated by the results is that given
+the inflow rate, increasing benefit duration shifts the Curve to the right as does the owner occupation
+rate. These results might have been expected. However, the strictness of employment protection law
+shifts the Beveridge Curve to the left. This is, perhaps, surprising although, as we have already
+noted, it could come about if the introduction of employment legislation raises the efficiency of the
+personnel function in firms. Variables which directly impact on wages do not seem to have any
+impact on the Beveridge Curve with the possible exception of union density which tends to shift it to
+the right.
+TABLE 8
+Total Taxes on Labour
+Payroll Tax Rate plus Income Tax Rate plus Consumption Tax Rate
+Total Tax Rate (%)
+
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany (W)
+Ireland
+Italy
+Japan
+Netherlands
+Norway
+New Zealand
+Portugal
+Spain
+Sweden
+Switzerland
+UK
+USA
+
+1960-64
+
+1965-72
+
+1973-79
+
+1980-87
+
+1988-95
+
+28
+47
+38
+31
+32
+38
+55
+42
+23
+57
+25
+45
+20
+19
+41
+30
+34
+34
+
+31
+52
+43
+39
+46
+46
+57
+44
+30
+56
+25
+54
+52
+25
+23
+54
+31
+43
+37
+
+36
+55
+44
+41
+53
+55
+60
+48
+30
+54
+26
+57
+61
+29
+26
+29
+68
+35
+45
+42
+
+39
+58
+46
+42
+59
+58
+64
+50
+37
+56
+32
+55
+65
+30
+33
+40
+77
+36
+51
+44
+
+59
+50
+50
+60
+64
+67
+52
+41
+67
+33
+47
+61
+40
+46
+78
+35
+47
+45
+
+22
+
+Note
+
+These data are based on the London School of Economics, Centre for Economic Performance OECD
+dataset.
+
+TABLE 9
+Mobility: Owner Occupation (%)
+
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany (W)
+Ireland
+Italy
+Japan
+Netherlands
+Norway
+New Zealand
+Portugal
+Spain
+Sweden
+Switzerland
+UK
+USA
+
+1960-64
+
+1965-72
+
+1973-79
+
+1980-87
+
+1988-95
+
+64
+39
+51
+65
+44
+57
+42
+30
+62
+46
+69
+30
+53
+69
+54
+36
+33
+43
+64
+
+66
+41
+54
+61
+48
+59
+44
+35
+69
+49
+61
+34
+53
+68
+62
+35
+29
+48
+65
+
+69
+45
+57
+61
+51
+60
+49
+38
+74
+55
+61
+39
+57
+69
+69
+39
+29
+53
+67
+
+71
+50
+60
+62
+52
+63
+52
+39
+77
+62
+62
+43
+59
+70
+75
+41
+30
+60
+67
+
+70
+55
+62
+61
+51
+67
+54
+38
+78
+67
+61
+44
+59
+71
+78
+42
+30
+68
+64
+
+Note
+
+These numbers are based on data supplied by Andrew Oswald to whom we are most grateful. For
+most countries, the original data are generated by the Population Census which takes place relatively
+infrequently. They are then linearly interpolated.
+
+23
+
+TABLE 10
+Beveridge Curve, 1961-95
+Dependent Variable : ln uit
+Independent Variables
+
+1
+
+ln uit-1
+ln ?it
+ln (inflow rate)it
+benefit replacement rate it
+benefit duration it
+employment protectionit
+owner occupation rate it
+employment tax rate it
+coordinationit
+union densityit
+country dummies
+time dummies
+N
+NT
+R2
+
+0.61(21.1)
+-0.23(10.7)
+0.23(7.6)
+0.03(0.2)
+0.22(2.1)
+-0.19(3.0)
+1.03 (2.5)
+-0.11(0.4)
+-0.02(0.2)
+0.48(1.9)
+a
+a
+15
+324
+0.97
+
+Notes
+(i)
+
+For most countries, the inflow rate is proxied by the number of unemployed with duration
+less than one month divided by employment, so it approximates the monthly inflow rate.
+
+(ii)
+
+The benefit replacement rate, union density, employment tax rate and the owner occupation
+rate are proportions (range 0-1), benefit duration is effectively a proportion (range 0-1.1, see
+Table 3) employment protection, co-ordination are indices (ranges 0-2, 1-3).
+
+24
+
+TABLE 11
+The Inflow Rate into Unemployment, 1962-95
+Dependent Variable : ln (inflow rate)it (%)
+Independent Variables
+
+1
+
+employment protectionit
+owner occupation rateit
+employment tax rateit
+coordinationit
+union densityit
+country dummies
+time dummies
+N
+NT
+R2
+
+-0.45(3.5)
+0.93(1.1)
+0.70(1.1)
+0.46(1.8)
+2.41(5.3)
+a
+a
+15
+324
+0.88
+
+Notes
+
+(i)
+
+Inflow rate approximates the monthly inflow normalised on employment.
+
+(ii)
+
+The owner occupation rate, the employment tax rate and union density are proportions (range
+0-1), employment protection and co-ordination are indices (ranges 0-2, 1-3, respectively).
+
+Turning now to explaining the inflow rate into unemployment, our results are reported in Table 11.
+Notable results are that the impact of the owner occupation rate (i.e. mobility barriers) is only weakly
+positive whereas that of employment protection is negative as expected.
+
+Of the variables which
+
+directly impact on wage determination, union density turns out to be strongly positive. This is
+consistent with the role of union power in the Mortensen and Pissarides (1994) model of job
+destruction where unions raise the destruction rate by increasing the share of the matching surplus
+going to wages.
+
+Combining the Beveridge Curve and inflow rate equation, we find that once we include the impact of
+these variables on the inflow rate the duration of benefits, union density and owner occupation all
+tend to shift the Beveridge Curve to the right whereas stricter employment protection shifts it to the
+left. These should translate directly into effects on equilibrium unemployment. However, we should
+bear in mind that variables such as union density, co-ordination and employment protection may also
+25
+
+have a direct effect on wages and hence further effects on equilibrium unemployment. Indeed, we
+might expect employment protection to impact on unemployment via its direct wage effect in the
+opposite direction to the Beveridge Curve effects. So our next step is to go directly to the impact of
+our variables on unemployment and wages.
+
+Explaining Real Wages
+
+The idea here is to add to the overall picture by seeing if the impact of the institutions on real wages
+is consistent with their impact on unemployment. Broadly speaking, the institution variables can
+influence wages directly by raising the bargaining power of workers, or they can operate by
+modifying the effect of unemployment on wages. For example, trade unions may reduce the impact
+of unemployment on wages by insulating the existing work force from the rigours of the external
+labour market. Either raising wages directly or reducing the (absolute) value of the unemployment
+coefficient will lead to an increase in equilibrium unemployment 15. Furthermore, it is worth noting
+that in most standard models, institutions which shift the Beveridge Curve will also tend to impact on
+wages as well as on equilibrium unemployment.
+
+In Table 12, we present some real wage equations (or wage curves) where the dependent variable is
+the log of real labour costs per employee (i.e. real wages including payroll taxes normalised on the
+GDP deflator at factor cost).
+
+The unemployment term uses the level rather than the log of
+
+unemployment because in some countries, such as Germany, New Zealand and Switzerland,
+unemployment in the 1960s was very close to zero which would tend to distort the equation in log
+form16. As well as the standard institution variables, we also include trend productivity growth and
+both tfp and import price shocks to capture temporary real wage resistance effects.
+
+Each equation has country dummies, time dummies and country specific trends to control for the
+various types of unobservables and a lagged dependent variable to capture the sluggish
+responsiveness of wages. Most of the variables in the model have a unit root so we report a standard
+cointegration test which confirms that our equation explains real wages in the long run.
+
+26
+
+TABLE 12
+Explaining OECD Real Labour Cost Per Worker, 1961-92
+Dependent Variable : Ln (Real Labour Cost Per Worker)it
+Independent Variables
+
+1
+
+2
+
+3
+
+ln (real lab.cost per worker)it-1
+uit
+? uit
+
+0.73(31.7)
+-0.64(8.5)
+-0.10(0.2)
+
+0.71(30.3)
+-0.59(7.8)
+-0.10(0.3)
+
+0.75(32.3)
+-0.49(6.6)
+-0.30(0.8)
+
+coordit x uit
+union densityit x uit
+benefit replacement ratio it x uit
+
+-0.49(6.0)
+0.59(2.4)
+0.79(3.4)
+
+-0.49(6.0)
+0.82(3.3)
+0.89(3.8)
+
+-0.43(5.1)
+0.63(2.5)
+0.62(2.6)
+
+employment protectionit
+coordit x employment protectionit
+
+0.042(5.2)
+-0.039(4.0)
+
+0.040(4.9)
+-0.046(4.6)
+
+0.033(3.8
+-0.036(3.5)
+
+benefit replacement ratio it
+benefit durationit
+ben.dur.it x ben. rep.ratio it
+
+0.061(3.8)
+0.016(1.8)
+0.026(0.6)
+
+0.065(4.1)
+0.018(2.0)
+0.010(0.2)
+
+0.058(3.6)
+0.008(0.6)
+0.009(0.2)
+
+coordinationit
+
+0.014(1.1)
+
+-0.011(0.9)
+
+-0.008(0.6)
+
+total employment tax rateit
+coordit x tot.emp.tax rateit
+low coordit x tot.emp.tax rateit
+med.coordit x tot.emp.tax rateit
+high.coordit x tot.emp.tax rateit
+
+0.080(2.3)
+-0.21(5.3)
+
+0.074(2.2)
+-0.20(5.1)
+
+proportion owner occupiedit
+trend productivityit
+tfp shockit
+real import price shockit
+time dummies
+country dummies
+country specific trends
+N
+NT
+
+0.14(3.0)
+0.087(2.3)
+0.056(1.5)
+
+0.44(11.4)
+-0.31(3.2)
+0.37(6.9)
+ü
+ü
+ü
+20
+507
+
+0.22(2.9)
+0.48(11.5)
+-0.33(3.3)
+0.36(6.8)
+ü
+ü
+ü
+19
+488
+
+0.42(11.0)
+-0.33(3.3)
+0.30(5.6)
+ü
+ü
+ü
+20
+507
+
+Notes
+
+Estimation: Generalised least squares allowing for heteroscedastic errors and country specific first
+order serial correlation.
+
+Each equation contains country dummies, time dummies and country
+
+specific trends.
+
+27
+
+Tests
+
+(a)
+
+Poolability: the large sample version of the Roy (1957), Zellner (1962), Baltagi (1995) test
+for common slopes is χ 2 (152) = 108.9, so the null of common slopes is not rejected.
+
+(b)
+
+Heteroskedasticity: with our two way error component model, the error has the form a i +
+a t+E it. The null we consider is that E it is homoskedastic. Using a groupwise likelihood
+ratio test, the null is rejected ( χ 2 (19) = 4063.5) so we allow for heteroskedasticity.
+
+(c)
+
+Serial Correlation: assuming a structure of the form E it = ? E it-1 + ? it , the null ? = o is
+rejected using an LM test ( χ 2 (1) = 14.0). So we allow for first order autoregressive errors
+with country specific values of ? .
+
+(d)
+
+Cointegration: for most of the variables, the null of a unit root cannot be rejected (except for
+the shock variables). To test for cointegration, we use the Maddala – Wu (1996) test. Under
+this test, using Dickey-Fuller tests for individual countries, the null of no cointegration is
+rejected ( χ 2 ( 40) = 139.2). This test relies on no cross-country correlation. Our use of time
+dummies should capture much of the residual cross-correlation in the data.
+
+Other
+(i)
+
+When interactions are included, the variables are set as deviations from the mean, so the
+interactions take the value zero at the sample mean.
+
+(ii)
+
+The variables u, union density, benefit replacement ratio, employment tax rate, owner
+occupation are proportions (range 0-1). Benefit duration, employment protection and coordination are indices (ranges 0-1.1, 0-2, 1-3 respectively).
+
+All the equations have a sensible basic structure with a strong negative unemployment effect. Coordination increases the absolute impact of unemployment and both union density and the benefit
+replacement ratio reduce it. The overall impact of both employment protection and employment
+taxes is to raise real wages but these effects are modified in economies where wage bargaining is coordinated. This latter effect is consistent with the findings of Daveri and Tabellini (2000) and is
+refined in the equation of column 3, where we find the impact of labour taxes decreasing
+monotonically with the degree of co-ordination.
+
+28
+
+Both the benefit replacement ratio and benefit duration have a direct impact on wages. We also
+investigate the interaction between the two on the basis that higher benefits will have a bigger effect
+if duration is longer. This interaction effect is positive but insignificant. Looking at real wage
+resistance effects, we find that a tfp shock has a negative effect on real wages (given trend
+productivity) and an import price shock has a positive effect. Both these are consistent with the real
+wage resistance story. Finally, we find in column 2 that the impact of owner occupation on wages is
+positive and close to significance. Our next step is to see how these results tie in with those
+generated by an unemployment model.
+
+Explaining Unemployment
+
+The basic idea here is to explain unemployment by first, those factors that impact on equilibrium
+unemployment and second, those shocks which cause unemployment to deviate from equilibrium
+unemployment. These would include demand shocks, productivity and other labour demand shocks
+and wage shocks (see Layard et al. 1991, pp 370-374 or Nickell, 1990, for a simple derivation). In
+Table 13, we present the basic equations corresponding to the three wage equations in Table 12. As
+with these latter, each equation has country dummies, time dummies and country specific trends as
+well as a lagged dependent variable. Again, a standard cointegration test confirms that our equation
+explains unemployment in the long run despite the rather high value of the coefficient on the lagged
+dependent variable. This reflects a high level of persistence and/or the inability of the included
+variables fully to capture what is going on. Recall that we are eschewing the use of shock variables
+that last for any length of time, so we are relying heavily on our institution variables.
+
+29
+
+TABLE 13
+Explaining OECD Unemployment, 1961-92
+Dependent Variable : uit (%)
+Independent Variables
+
+1
+
+2
+
+3
+
+uit-1
+Employment protectionit
+coordit x employment protectionit
+
+0.89(54.9)
+0.49(2.3)
+-0.57(2.3)
+
+0.90(51.4)
+0.61(2.7)
+-0.66(2.5)
+
+0.89(54.6)
+0.41(1.9)
+-0.68(2.7)
+
+benefit replacement ratio it
+benefit durationit
+ben.dur.it x ben. rep.ratio it
+
+1.36(3.8)
+0.81(3.4)
+3.30(3.7)
+
+1.08(2.8)
+0.73(2.9)
+3.18(3.4)
+
+1.45(4.0)
+0.79(3.3)
+2.90(3.1)
+
+union densityit
+Coordinationit
+coordit x union densityit
+
+0.39(0.5)
+-1.28(5.0)
+-4.12(3.7)
+
+0.45(0.5)
+-1.33(5.0)
+-4.41(3.9)
+
+0.27(0.3)
+-1.15(4.3)
+-5.41(4.9)
+
+total employment tax rateit
+coordit x tot.emp.tax rateit
+low coordit x tot.emp.tax rateit
+med coordit x tot.emp.tax rateit
+high coordit x tot.emp.tax rateit
+
+1.86(2.3)
+-4.22(4.0)
+
+2.10(2.5)
+-3.78(3.4)
+
+% owner occupiedit
+labour demand shockit
+tfp shockit
+real import price shockit
+money supply shockit
+real interest rateit
+time dummies
+Country dummies
+Country specific trends
+N
+NT
+
+3.32(3.5)
+2.69(3.2)
+1.75(2.1)
+
+-27.9(19.7)
+-11.3(10.5)
+5.76 (3.7)
+0.13(0.5)
+-0.19(0.2)
+ü
+ü
+ü
+20
+552
+
+-0.96(0.5)
+-29.0(19.1)
+-9.81(8.1)
+5.44(3.4)
+0.11(0.4)
+0.03(0.1)
+ü
+ü
+ü
+19
+536
+
+-28.0(19.8)
+-11.2(10.4)
+5.25(3.4)
+0.09(0.4)
+0.24(0.2)
+ü
+ü
+ü
+20
+552
+
+Notes
+Estimation: Generalised least squares allowing for heteroskedastic errors and country specific first
+order serial correlation. Each equation contains country dummies, time dummies and country
+specific trends.
+Tests: These are the same as for the labour costs regressions (see notes to Table 12)
+i)
+Poolability: χ 2(190) = 114.9, so null of common slopes not rejected;
+ii)
+Heteroskedasticity: the null of homoskedasticity is rejected ( χ 2(19) = 955.5). So we allow
+for heteroskedasticity;
+iii)
+Serial Correlation: the null of no serial correlation is rejected ( χ 2(1) = 12.2). So we allow
+for first order autoregressive errors with country specific values of the relevant parameter.
+iv)
+Cointegration: Maddala-Wu test, χ 2 ( 40) = 86.6, so the null of no cointegration is rejected.
+30
+
+TABLE 14
+Time Dummies, Time Trends (Units: Percentage Points)
+
+Time Dummies
+
+64
+
+0.12(0.2)
+
+74
+
+-0.14(0.2)
+
+84
+
+0.98(0.5)
+
+65
+
+-0.03(0.1)
+
+75
+
+-0.45(0.6)
+
+85
+
+-0.1(0.1)
+
+66
+
+-0.01(0.0)
+
+76
+
+1.02(0.9)
+
+86
+
+-0.21(0.1)
+
+67
+
+0.06(0.1)
+
+77
+
+0.22(0.2)
+
+87
+
+-0.36(0.7)
+
+68
+
+0.25(0.5)
+
+78
+
+0.21(0.2)
+
+88
+
+-0.00(0.0)
+
+69
+
+0.25(0.5)
+
+79
+
+0.17(0.2)
+
+89
+
+-0.73(0.9)
+
+70
+
+-0.15(0.2)
+
+80
+
+0.08(0.1)
+
+90
+
+-0.11(0.0)
+
+71
+
+0.12(0.2)
+
+81
+
+-0.13(0.1)
+
+91
+
+-0.78(1.5)
+
+72
+
+0.30(0.4)
+
+82
+
+0.78(0.4)
+
+92
+
+0.83(0.2)
+
+73
+
+0.24(0.3)
+
+83
+
+0.73(0.7)
+
+Time Trends
+
+Australia
+
+-0.009 (0.1)
+
+Japan
+
+0.003 (0.0)
+
+Austria
+
+0.017 (0.2)
+
+Netherlands
+
+0.012 (0.2)
+
+Belgium
+
+0.009 (0.1)
+
+Norway
+
+-0.011 (0.1)
+
+Canada
+
+-0.027 (0.4)
+
+NZ
+
+0.049 (0.6)
+
+Denmark
+
+-0.015 (0.2)
+
+Portugal
+
+-0.161 (2.1)
+
+Finland
+
+-0.008 (0.1)
+
+Spain
+
+0.055 (0.7)
+
+France
+
+-0.021 (0.3)
+
+Sweden
+
+-0.017 (0.2)
+
+Germany (W)
+
+0.042 (0.6)
+
+Switzerland
+
+0.016 (0.2)
+
+Ireland
+
+0.048 (0.7)
+
+UK
+
+0.014 (0.2)
+
+Italy
+
+0.018 (0.2)
+
+US
+
+0.014 (0.2)
+
+Note:
+Taken from regression reported in column 1 of Table 13. t ratios in brackets.
+
+31
+
+Figure 2
+A Dynamic Simulation of the Baseline Unemployment Model
+
+Actual unemployment rate
+
+Standard dynamic simulation
+
+Australia
+
+Austria
+
+10
+
+0
+0
+
+-2
+1970
+
+1975
+
+1980
+
+1985
+
+1960
+
+Belgium
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+1960
+
+1970
+
+1970
+
+1980
+
+1990
+
+Canada
+
+15
+
+1980
+
+1990
+
+Finland
+15
+10
+
+2
+
+5
+
+5
+5
+0
+
+0
+1960
+
+1970
+
+1980
+
+1990
+
+6
+4
+2
+0
+1970
+
+1980
+
+1990
+
+0
+1960
+
+1970
+
+1980
+
+1990
+
+Norway
+
+6
+
+4
+
+4
+
+2
+
+2
+
+1990
+
+1960
+
+Japan
+
+1970
+
+1980
+
+1990
+
+Netherlands
+
+6
+
+15
+
+4
+
+5
+1970
+
+1980
+
+1990
+
+1960
+
+1970
+
+1980
+
+1990
+
+Standard dynamic simulation
+
+Unemployment
+
+Sweden
+
+Switzerland
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+1980
+
+1990
+
+1960
+
+United Kingdom
+
+1970
+
+1980
+
+1990
+
+United States
+
+15
+
+10
+8
+
+10
+
+6
+5
+
+4
+
+0
+
+2
+1960
+
+1970
+
+1980
+
+1990
+
+1980
+
+1990
+
+1975
+
+1980
+
+1985
+
+Spain
+
+10
+
+20
+10
+0
+1975
+
+1980
+
+1985 1990
+
+1960
+
+Year
+
+Actual unemployment rate
+
+1970
+
+1970
+
+Portugal
+
+1970
+
+Year
+
+1960
+
+1960
+
+4
+2
+
+0
+1960
+
+0
+
+0
+
+6
+
+2
+-2
+
+1990
+
+8
+
+10
+
+0
+
+1980
+
+New Zealand
+6
+
+2
+1980
+
+1970
+
+Standard dynamic simulation
+
+6
+
+Unemployment
+
+Unemployment
+
+Actual unemployment rate
+
+Italy
+
+4
+1970
+
+1960
+
+8
+
+10
+
+1960
+
+1990
+
+8
+
+10
+
+Standard dynamic simulation
+
+Ireland
+
+0
+
+1980
+
+Year
+
+Actual unemployment rate
+
+5
+
+1970
+
+Germany
+
+Year
+
+15
+
+1960
+
+France
+
+5
+
+1960
+
+20
+
+Standard dynamic simulation
+
+Denmark
+10
+
+4
+
+Unemployment
+
+Unemployment
+
+Actual unemployment rate
+
+1960
+
+1970
+
+1980
+
+1990
+
+Year
+
+32
+
+1970
+
+1980
+
+1990
+
+Looking further at how well we are doing, we see in Table 14 that with the exceptions of 1991 and
+Portugal, the time dummies and the country specific time trends are not close to significance, so they
+are not making a great contribution to the overall fit. So how well does our model fit the data?
+Given the high level of the lagged dependent variable coefficient, we feel that presenting a dynamic
+simulation for each country is a more revealing measure of fit than country specific R2 , and these are
+presented in Figure 2. Overall, the equation appears to do quite well, particularly for those countries
+with big changes in unemployment. However, for countries with minimal changes such as Austria,
+Japan and Switzerland, the model is not great.
+
+How do the institution effects compare with those in the wage equation? First, just as in the wage
+equation, both employment protection and employment taxes have a positive effect which is
+modified in economies with co-ordinated wage bargaining. Furthermore, the results in column 3
+confirm the findings of Daveri and Tabellini (2000), where we find the impact of labour taxes
+diminishing monotonically with co-ordination. The effects are not nearly as large as theirs, however,
+with a 10 percentage point increase in the total employment tax rate leading to around a 1.5
+percentage point rise in unemployment in the long run at average levels of co-ordination (see column
+1).
+
+As may have been expected from the wage equation, both benefit levels and duration have an
+important impact on unemployment as does their interaction, something that did not show up in the
+wage equation. Furthermore, despite the fact that union density reduces the unemployment effect in
+the wage equation, we can find no significant effect on unemployment. Neither do we find any role
+for owner occupation (see column 2). Finally, the impact of the import price and tfp shocks seem
+sensible and consistent with those in the wage equation. However, neither money supply shocks nor
+the real interest rate have any significant impact.
+
+So it appears that, overall, changing labour market institutions provide a reasonably satisfactory
+explanation of the broad pattern of unemployment shifts in the OECD countries and their impact on
+unemployment is broadly consistent with their impact on real wages. With better data, e.g. on union
+coverage or the administration of the benefit system, we could probably generate a more complete
+explanation, in particular one which did not rely on such a high level of endogenous persistence to fit
+the data. To see how well the model is performing from another angle, we present in Figure 3 a
+dynamic simulation of the model fixing all the institutions from the start.
+
+33
+
+Figure 3
+A Dynamic Simulation of the Baseline Unemployment Model with the Institutions Fixed
+
+Standard dynamic simulation
+
+All institutions fixed
+
+Australia
+
+Austria
+10
+
+2
+
+5
+
+5
+0
+-2
+
+0
+1975
+
+1980
+
+1985
+
+1960
+
+Belgium
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+1970
+
+1980
+
+1990
+
+Canada
+
+15
+
+1960
+
+1970
+
+1980
+
+1990
+
+Finland
+10
+5
+
+0
+0
+
+-5
+1960
+
+1970
+
+1980
+
+1990
+
+10
+
+8
+4
+2
+
+0
+1970
+
+1980
+
+1990
+
+0
+1960
+
+1970
+
+1980
+
+1990
+
+6
+
+10
+
+4
+
+5
+
+2
+
+0
+
+0
+1990
+
+1970
+
+1980
+
+1990
+
+Netherlands
+10
+
+4
+5
+
+0
+0
+1970
+
+1980
+
+1990
+
+1970
+
+1980
+
+1990
+
+All institutions fixed
+
+Sweden
+
+Switzerland
+4
+2
+
+Unemployment
+
+0
+-2
+1960
+
+1970
+
+1980
+
+1990
+
+1960
+
+United Kingdom
+
+1970
+
+1980
+
+1990
+
+United States
+
+15
+
+10
+8
+
+10
+
+6
+5
+
+4
+
+0
+
+2
+1960
+
+1970
+
+1980
+
+1990
+
+2
+0
+
+-5
+1960
+
+1970
+
+1980
+
+1990
+
+1975
+
+Portugal
+
+1960
+
+1970
+
+1980
+
+1990
+
+Year
+
+34
+
+1980
+
+1985
+
+Spain
+
+10
+
+20
+
+5
+
+15
+
+0
+
+10
+
+-5
+
+5
+0
+1975
+
+1980
+
+1985 1990
+
+1960
+
+Year
+
+Standard dynamic simulation
+
+-5
+
+New Zealand
+
+0
+
+1970
+
+Year
+
+0
+
+1990
+
+6
+
+-10
+1960
+
+5
+
+1980
+
+4
+
+1960
+
+Japan
+
+1960
+
+1970
+
+All institutions fixed
+
+Norway
+5
+
+Unemployment
+
+Unemployment
+
+15
+
+-2
+
+1960
+
+Standard dynamic simulation
+
+Italy
+8
+
+2
+
+1990
+
+6
+
+All institutions fixed
+
+Ireland
+
+6
+
+1980
+
+Year
+
+20
+
+1980
+
+1970
+
+Germany
+
+5
+
+1960
+
+Standard dynamic simulation
+
+1970
+
+1960
+
+France
+
+Year
+
+1960
+
+All institutions fixed
+
+Denmark
+
+4
+
+Unemployment
+
+Unemployment
+
+10
+
+1970
+
+Standard dynamic simulation
+
+1970
+
+1980
+
+1990
+
+In the following countries, changing institutions explain a significant part of the overall change in
+unemployment since the 1960s: Belgium, Canada, Denmark, Finland, France, Italy, Netherlands,
+Norway, Spain, UK, US. They explain far too much in Austria, Portugal, Sweden. They explain
+very little in Australia, Germany, Japan, New Zealand and Switzerland, although in Japan and
+Switzerland there is very little to explain. Again, the outcome is “not bad” given the weaknesses of
+the data.
+
+Finally, to round things off, we present in Table 15 a set of equations explaining the
+employment/population ratio which match the unemployment equations in Table 13. The broad
+picture is very similar although the institutional effects are generally smaller which is consistent with
+the fact that the non-employed are a far more heterogeneous group than the unemployed, and their
+behaviour is influenced by a much wider variety of factors such as the benefits available to the sick,
+disabled and early retired, the availability of subsidised child care and so on. One factor which is
+different, however, is the strong negative impact of owner occupation which contrasts with its trivial
+effect on unemployment.
+Summary and Conclusions
+
+We have undertaken an empirical analysis of unemployment patterns in the OECD countries from
+the 1960s to the 1990s. This has involved a detailed study of shifts in the Beveridge Curves and real
+wages as well as unemployment in twenty countries. The aim has been to see if these shifts can be
+explained by changes in those labour market institutions which might be expected to impact on
+equilibrium unemployment. In this context, it is important to recall that unemployment is always
+determined by aggregate demand. As a consequence we are effectively trying to understand the
+long-term shifts in both unemployment and aggregate demand (relative to potential output). We
+emphasise this because it is sometimes thought that the fact that unemployment is determined by
+aggregate demand factors is somehow inconsistent with the notion that unemployment is influenced
+by labour market institutions. This is wholly incorrect.
+
+Our results indicate the following. First, the Beveridge Curves of all the countries except Norway
+and Sweden shifted to the right from the 1960s to the early/mid 1980s17 . At this point, the countries
+divide into two distinct groups. Those whose Beveridge Curves continued to shift out and those
+where they started to shift back. Second, we find evidence that these movements in the Beveridge
+Curves may be partly explained by changes in labour market institutions, particularly those which
+are important for search and matching efficiency. Third, labour market institutions impact on real
+labour costs in a fashion which is broadly consistent with their impact on unemployment. Finally,
+broad movements in unemployment across the OECD can be explained by shifts in labour market
+35
+
+institutions although this explanation relies on high levels of endogenous persistence as reflected in a
+lagged dependent variable coefficient of around 0.9.
+
+TABLE 15
+Explaining OECD Employment/Population Ratios, 1961-92
+Dependent Variable = epopit (%)
+
+Independent Variables
+
+1
+
+2
+
+3
+
+epopit-1
+employment protectionit
+coordit x employment protectionit
+
+0.94(80.5)
+-0.34(1.5)
+0.29(1.2)
+
+0.94(79.3)
+-0.32(1.4)
+0.27(1.1)
+
+0.94(84.1)
+-0.29(1.3)
+0.33(1.4)
+
+benefit replacement ratio it
+benefit durationit
+ben.dur.it x ben. rep.ratio it
+
+-0.58(1.9)
+-0.48(2.7)
+-2.32(3.1)
+
+-0.34(1.1)
+-0.38(2.0)
+-2.16(2.8)
+
+-0.59(1.9)
+-0.49(2.8)
+-2.01(2.7)
+
+union densityit
+coordinationit
+coordit x union densityit
+
+-0.57(0.8)
+0.42(2.0)
+3.14(3.4)
+
+-1.25(1.7)
+0.25(1.3)
+3.49(3.6)
+
+-0.22(0.3)
+0.15(0.7)
+4.68(5.4)
+
+total employment tax rateit
+coordit x tot.emp.tax rateit
+low coordit x tot.emp.tax rateit
+med coordit x tot.emp.tax rateit
+high coordit x tot.emp.tax rateit
+
+-0.67(1.0)
+4.71(5.1)
+
+-0.86(1.3)
+4.63(4.6)
+
+% owner occupiedit
+labour demand shockit
+tfp shockit
+real import price shockit
+money supply shockit
+real interest rateit
+time dummies
+country dummies
+country specific trends
+N
+NT
+
+-1.73(2.3)
+-1.87(2.7)
+-0.08(0.1)
+
+54.11(45.0)
+1.62(1.5)
+-3.08 (2.6)
+-0.53(2.2)
+-0.23(0.3)
+ü
+ü
+ü
+20
+552
+
+-4.91(3.0)
+53.75(43.1)
+0.94(0.9)
+-3.07(2.6)
+-0.53(2.2)
+-0.00(0.0)
+ü
+ü
+ü
+20
+552
+
+55.09(47.1)
+1.88(1.9)
+-2.52(2.2)
+-0.44(1.9)
+-0.29(0.4)
+ü
+ü
+ü
+20
+552
+
+Notes
+
+Estimation: Generalised least squares allowing for heteroskedastic errors and country specific first
+order serial correlation.
+
+Each equation contains country dummies, time dummies and country
+
+specific trends.
+36
+
+Endnotes
+
+1.
+
+It is, of course, possible to make macroeconomic policy mistakes which have the effect of
+keeping real demand and unemployment away from their equilibrium level for long periods.
+Japan in the 1990s is arguably an example. There is no reason to believe equilibrium
+unemployment in Japan has been rising in the 1990s and so unemployment has persisted
+above its equilibrium level. This is, of course, consistent with the emergence of negative
+inflation over the same period.
+
+2.
+
+Note that the steady-state Beveridge Curve is based on the matching function M = ε m (cU,
+V) where M is the number of matches or hires from unemployment, U is unemployment, V is
+vacancies, ε is matching efficiency and c is the search effectiveness of the unemployed. The
+function is increasing in both arguments and is often assumed to have constant returns. If sN
+is the flow into unemployment, where s is the exogenous exit rate from employment into
+unemployment and N is employment, then in steady state we have sN = M and hence s = ε
+m(
+
+cU V
+,
+) which is the Beveridge Curve. If employment protection laws become more
+N N
+
+stringent, s tends to fall and ε may fall if firms are more cautious about hiring or may rise if
+the personnel function becomes more efficient. Since a fall in s shifts the Beveridge Curve to
+the left and a fall in ε shifts it to the right, the overall effect is indeterminate.
+3.
+
+A good general reference is Holmlund (1998). A useful survey of micro studies can be found
+in OECD (1994), Chapter 8. Micro evidence from policy changes is contained in Carling et
+al. (1999), Hunt (1995) and Harkman (1997), and from experiments in Meyer (1993). Crosscountry macro evidence is available in Nickell and Layard (1999), Scarpetta (1996) and
+Elmeskov et al. (1998). The average of their results indicates a 1.11 percentage point rise in
+equilibrium unemployment for every 10 percentage point rise in the benefit replacement
+ratio.
+
+4.
+
+There is fairly clear micro evidence that shorter benefit entitlement leads to shorter
+unemployment duration (see Ham and Rea (1987), Katz and Meyer (1990) and Carling et al.
+(1996)).
+
+5.
+
+Variations in the coverage of unemployment benefits are large (see OECD, 1994, Table 8.4)
+and there is a strong positive correlation between coverage and the level of benefit (OECD,
+
+37
+
+1994, p.190). Bover et al. (1998) present strong evidence for Spain and Portugal that the
+covered exit unemployment more slowly than the uncovered.
+
+6.
+
+There is strong evidence that the strictness with which the benefit system is operated, at given
+levels of benefit, is a very important determinant of unemployment duration. Micro evidence
+for the Netherlands may be found in Abbring et al. (1999) and Van Den Berg et al. (1999).
+Cross country evidence is available in the Danish Ministry of Finance (1999), Chapter 2 and
+in OECD (2000), Chapter 4.
+
+7.
+
+See the discussion in Nickell and Layard (1999), Section 8 and Booth et al. (2000)
+(particularly around Table 6.2) for positive evidence.
+
+8.
+
+See the discussion in Nickell and Layard (1999), Section 8, Booth et al. (2000) (particularly
+around Table 6.1) and OECD (1997), Chapter 3.
+
+9.
+
+One aspect of wage determination which we do not analyse in this paper is minimum wages.
+This is for two reasons. First, the balance of the evidence suggests that minimum wages are
+generally low enough not to have much of an impact on employment except for young
+people. Second, only around half the OECD countries had statutory minimum wages over
+the period 1960-95. Of course, trade unions may enforce “minimum wages” but this is only a
+minor part of their activities. And these are already accounted for in our analysis of density,
+coverage and co-ordination.
+
+10.
+
+The results presented by Lazear (1990), Addison and Grosso (1996), Bentolila and Bertola
+(1990), Elmeskov et al. (1998), Nickell and Layard (1999) do not add up to anything very
+decisive although there is a clear positive relationship between employment protection and
+long-term unemployment.
+
+11.
+
+A good example of a study in this latter group is Daveri and Tabellini (2000) whereas one in
+the former group is OECD (1990, Annex 6). Extensive discussions may be found in Nickell
+and Layard (1999), Section 6, Disney (2000) and Pissarides (1998).
+
+12.
+
+This distinguishes these studies from those which focus on the cross-country variation in the
+data by using cross-sections or random effects panel data models (e.g. Scarpetta, 1996;
+Nickell, 1997; Elmeskov et al., 1998).
+
+38
+
+13.
+
+Some investigations prefer to use the employment or non-employment rate as opposed to the
+unemployment rate when considering labour market performance. The non-employed consist
+of five main groups, the unemployed, those in full time education, the sick and disabled, the
+early retired and those at home looking after dependents. While the unemployed are, by
+definition, seeking work, in practice individuals from all these categories can and do enter
+employment although the rate of entry into employment is typically much greater for the
+unemployed than for those in any other category. Nevertheless, the distinction between the
+unemployed and the remainder is not clear cut and this partly explains why some analysts
+prefer to focus on non-employment rather than unemployment.
+
+However, the disparate
+
+nature of the non-employed makes results based on the non-employment rate less easy to
+interpret in our opinion.
+
+14.
+
+The movement in Belgium, France and Germany is particularly clear in the sense that both
+vacancies and unemployment are higher in the late 90s boom than in the late 80s boom and
+are higher in the late 80s boom than in the late 70s boom.
+
+15.
+
+For example, ignoring nominal inertia and short-run dynamics, suppose the wage equation
+has the form, w − p = α o − α1 ( z )u + α 2 ( z ) where α 1′ < ο ,α ′2 > ο and z are institutional factors
+which tend to raise wages and unemployment. Then if the price equation/labour demand
+function
+
+has
+
+the
+
+form,
+
+ρ − w = β 0 − β1u,
+
+equilibrium
+
+unemployment
+
+satisfies
+
+u* = (α o + β o + α 2 ( z )) /( β 1 + α 1 ( z )) . So z can increase equilibrium unemployment via either
+or both of α 1,α 2 .
+
+16.
+
+If we use the log form, then the impact of the increase in unemployment from the 1960s to
+the 1990s for those countries with negligible unemployment in the 1960s is massively greater
+than that for the average country. For example, in log form, the rise in unemployment in
+Switzerland from 1960-64 to 1996-99 (0.2% to 3.7%) has a negative impact on wages which
+is nearly 300 percent larger than that in Italy where unemployment rose from 3.5% to 10%.
+This differential seems somewhat implausible.
+
+17.
+
+Italy and Ireland are missing here because no vacancy data are available.
+
+39
+
+References
+
+Abbring, J. H., Van Den Berg, G. J and Van Our, J. C. (1999) “The Effect of Unemployment
+Insurance Sanctions on the Transition Rate from Unemployment to Employment”, Tinbergen
+Institute, University of Amsterdam.
+Addison, J. T. and Grosso, J-L. (1996) “Job Security Provisions and Unemployment:
+
+Revised
+
+Estimates”, Industrial Relations 35, 585-603.
+Baltagi, B. (1995), Econometric Analysis of Panel Data (John Wiley and Sons).
+Bamber, G. J. and R. D. Lansbury (eds.) (1998), International and Comparative Employment
+Relations. A Study of Industrialised Market Economies (London.
+
+Thousand Oaks, New
+
+Delhi)
+Belot, M. and van Ours, J. C. (2000), “Does the Recent Success of Some OECD Countries in
+Lowering their Unemployment Rates Lie in the Clever Design of their Labour Market
+Reforms?”, IZA Discussion Paper No. 147, April (Bonn, Germany)
+Bentolila, S. and Bertola, G. (1990) “Firing Costs and Labour Demand : How Bad is Euro sclerosis?”
+Review of Economic Studies, 57, 381-402.
+Blanchard, O. and Katz, L. (1999), “What We Know and Do Not Know about the Natural Rate of
+Unemployment”, Journal of Economic Perspectives.
+Blanchard, O. and Wolfers, J. (2000) “The Role of Shocks and Institutions in the Rise of European
+Unemployment: The Aggregate Evidence”, The Economic Journal (Conference Papers), 110,
+C1-C33.
+Booth, A., Burda, M., Calmfors, L., Checchi, D., Naylor, R., Visser, J. (2000) “What do Unions do
+in Europe?”, A Report for the Fondazione Rodolfo DeBenedetti, Milan.
+Bover, O., Garcia-Perea, P., Portugal, P, (1998) “A Comparative Study of the Portuguese and
+Spanish Labour Markets”, Banco de Espana, mimeo.
+Carling, K., Edin, P-A., Herkman, A. and Holmlund, B. (1996) “Unemployment Duration,
+Unemployment Benefits and Labor Market Programs in Sweden”, Journal of Public
+Economics 59, 313-334
+Carling, K., Holmlund, B. and Vejsiu, A. (1999) “Do Benefit Cuts Boost Job Findings? Swedish
+Evidence from the 1990s”, Swedish Office of Labour Market Policy Evaluation, Working
+Paper 1999:8 (Uppsala, Sweden).
+Coe, D. T. and Snower, D. J. (1997), “Policy Complementarities: The Case for Fundamental Labour
+Market Reform”, CEPR Discussion Paper No. 1585 (London: CEPR)
+Cully, M. and S. Woodland: “Trade Union Membership and Resulting Labour Market Trends” in:
+Office of National Statistics, Labour Market Trends, July.
+40
+
+Daniel, W. W. and Stilgoe, E. (1978), The Impact of Employment Protection Laws (London: Policy
+Studies Institute).
+Danish Ministry of Finance (1999), The Danish Economy:
+
+Medium Term Economic Survey
+
+(Copenhagen: Ministry of Finance)
+Daveri, F. and Tabellini, G. (2000) “Unemployment, Growth and Taxation in Industrial Countries”,
+Economic Policy (April), 49-90
+Disney, R. (2000) “Fiscal Policy and Employment 1: A Survey of Macroeconomic Models, Methods
+and Findings”, IMF, mimeo.
+Elmeskov, J., Martin, J. P. and Scarpetta, S. (1998) “Key Lessons for Labour Market Reforms:
+Evidence from OECD Countries’ Experiences”, Swedish Economic Policy Review, 5(2), 205252.
+Ferner, A. and Hyman, R. (eds) (1998), Changing Industrial Relations in Europe, 2nd edition
+(Oxford: Malden).
+Gregg, P., Machin, S. and Manning, (2000), “Mobility and Joblessness”, London School of
+Economics, Centre for Economic Performance, mimeo.
+Ham, J. and Rea, S. (1987) “Unemployment Insurance and Male Unemployment Duration in
+Canada”, Journal of Labor Economics, 5, 325-53.
+Harkman, A. (1997) “Unemployment Compensation and Unemployment Duration – What was the
+Effect of the Cut in the Replacement Rate from 90 to 80 percent?” in Harkman, A., Jansson, F.,
+Kallberg, K. and Öhrn, L. (eds) Unemployment Insurance and the Functioning of the Labour
+Market (The Swedish National Labour Market Board, Stockholm).
+Holmlund, B. (1998) “Unemployment Insurance in Theory and Practice”, The Scandinavian Journal
+of Economics, 100(1), 113-141.
+Hunt, J. (1995) “The Effect of Unemployment Compensation on Unemployment Duration in
+Germany”, Journal of Labor Economics, 13, 88-120.
+Katz, L. F. (1998), “Wage Subsidies for the Disadvantaged” in R. Freeman and P. Gottschalk (eds.)
+Generating Jobs (New York: Russell Sage Foundation).
+Katz, L. and Meyer, B. (1990) “The Impact of Potential Duration of Unemployment Benefits on the
+Duration of Unemployment”, Journal of Public Economics, 41, 45-72.
+Layard, R., Nickell, S. and Jackman, R. (1991), Unemployment : Macroeconomic Performance and
+the Labour Market (Oxford: Oxford University Press)
+Lazear, E. P. (1990) “Job Security Provisions and Employment”, Quarterly Journal of Economics
+105, 699-726.
+Maddala, G.S. and Wu, S. (1996) “A Comparative Study of Unit Root Tests with Panel Data and a
+New Simple Test: Evidence from Simulations and the Bootstrap”, Ohio State University,
+mimeo.
+41
+
+Martin, J. (2000), “What Works among Active Labour Market Policies? Evidence from OECD
+Countries”, OECD Economic Studies No.30, 79-112 (Paris : OECD)
+Meyer, B. (1995) “Lessons from the US Unemployment Insurance Experiments”, Journal of
+Economic Literature, 33, 91-131
+Millward, N., Smart, D. and W. Hawes (1992), Workplace Industrial Relations in Transition
+(Aldershot).
+Milner, S. (1995) “The Coverage of Collective Pay-setting Institutions in Britain, 1895-1990”,
+British Journal of Industrial Relations, 33(1), 71-91.
+Mortensen, D.T. and Pissarides, C.A. (1994), “Job Creation and Job Destruction in the Theory of
+Unemployment”, Review of Economic Studies 61, 397-415
+Mortensen, D. T. and Pissarides, C. A. (1999), “New Developments in Models of Search in the
+Labor Market” in Ashenfelter, O. and Card, D. (eds.) Handbook of Labor Market (Amsterdam:
+North Holland)
+Nickell, S.J. (1990) “Unemployment: A Survey”, Economic Journal.
+Nickell, S. J. and Layard, R. (1999) “Labour Market Institutions and Economic Performance” in
+O.Ashenfelter and D. Card (eds.) Handbook of Labor Economics Vol. 3 (Amsterdam: North
+Holland)
+Nickell, S. J. (1997), “Unemployment and Labour Market Rigidities:
+
+Europe versus North
+
+America”, Journal of Economic Perspectives 11(3), 55-74.
+Nickell, S. J. and Nunziata, L. (2000) “Employment Patterns in OECD Countries” CEP Discussion
+Paper 448, London School of Economics.
+Ochel, W. (2000), “Collective Bargaining Coverage”, Ifo Institute for Economic Research, Munich.
+Ochel, W. (2000), “Collective Bargaining (Centralization and Co-ordination)”, Ifo Institute, Munich.
+OECD (1990), Employment Outlook (Paris: OECD)
+OECD (2000), Employment Outlook (Paris: OECD)
+OECD (1997), Employment Outlook (Paris: OECD)
+OECD (1994) The OECD Jobs Study, Evidence and Explanations, Vols. I and II (OECD, Paris)
+Oswald, A. (1997) “The Missing Piece of the Unemployment Puzzle”, Inaugural Lecture, University
+of Warwick, November.
+Phelps, E. S. (1994), Structural Slumps, The Modern Equilibrium Theory of Unemployment, Interest
+and Assets (Cambridge MA: Harvard University Press).
+Pissarides, C. (1998) “The Impact of Employment Tax Cuts on Unemployment and Wages; the Role
+of Unemployment Benefits and Tax Structure”, European Economic Review, 47, 155-83
+Pissarides, C. A., (1990), Equilibrium Unemployment Theory (Oxford: Basil Blackwell)
+Roy, S (1957), Some Aspects of Multivariate Analysis (John Wiley and Sons).
+42
+
+Scarpetta, S. (1996), “Assessing the Role of Labour Market Policies and Institutional Settings on
+Unemployment: A Cross Country Study”, OECD Economic Studies 26:43-98
+Solow, R. (2000), “Unemployment in the United States and in Europe: A Contrast and the Reasons”,
+CES ifo Forum, Spring.
+Soskice, D. (1991), “Wage Determination:
+
+The Changing Role of Institutions in Advanced
+
+Industrialised Countries”, Oxford Review of Economic Policy, 6, 36-61.
+Traxler, F.: (1996) Collective Bargaining and Industrial Change : A Case of Disorganization? A
+Comparative Analysis of Eighteen OECD Countries, European Sociological Review, Vol.12,
+No.3, pp. 271-287.
+Traxler, F. and Kittel, B. (1999), “The Bargaining System and Performance: A Comparison of 18
+OECD Countries”, Comparative Political Studies (forthcoming).
+Van Den Berg, G., Van Der Klaauw, B. and Van Ours, J. C. (1999), “Punitive Sanctions and the
+Transition Rate from Welfare to Work”, Tinbergen Institute, University of Amsterdam.
+Visser, J. (1996), “Unionisation Trends. The OECD Countries Union Membership File”, University
+of Amsterdam, Centre for Research of European Societies and Labour Relations.
+Wallerstein, M. (1999), “Wage-Setting Institutions and Pay Inequality in Advanced Industrial
+Societies”, American Journal of Political Science 43(3), July.
+Windmiller, J.P. (1987), Collective Bargaining in Market Economics. A Reappraisal (Geneva: ILO)
+Zellner, A. (1962), “ A Efficient Method of Estimating Seemingly Unrelated Regression and Tests
+for Aggregation Bias”, Journal of the American Statistical Association, 57.
+
+43
+
+Appendix 1
+
+Beveridge Curve Plots and Beveridge Curve Shifts
+Table 1a
+Australia: 75-99
+1
+75
+99
+85
+
+vacancy rate (%)
+
+.8
+
+95
+
+90
+
+.6
+80
+
+.4
+
+.2
+4
+
+6
+
+8
+unemployment rate (%)
+
+10
+
+12
+
+Australia:60-99
+65
+
+2
+
+vacancy rate (%)
+
+7060
+
+1.5
+
+1
+
+75
+99
+
+85
+95
+
+90
+80
+
+.5
+
+0
+0
+
+2
+
+4
+
+6
+8
+unemployment rate (%)
+
+10
+
+12
+
+Trend for Australia
+0.60
+0.50
+
+0.30
+0.20
+0.10
+
+-0.10
+year
+
+44
+
+99
+
+97
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+0.00
+61
+
+trend
+
+0.40
+
+Table 1b
+Austria: 60-99
+2.5
+
+vacancy rate (%)
+
+2
+
+90
+70
+
+1.5
+
+65
+80
+75
+
+1
+
+60
+99
+85
+
+95
+
+.5
+1
+
+2
+
+3
+unemployment rate (%)
+
+4
+
+5
+
+Austria: 75-99
+1.75
+90
+
+1.25
+
+80
+
+75
+
+1
+99
+
+.75
+85
+
+95
+
+.5
+1
+
+2
+
+3
+unemployment rate (%)
+
+Trend for Austria
+0.40
+0.30
+0.20
+0.10
+0.00
+61
+
+trend
+
+vacancy rate (%)
+
+1.5
+
+-0.10
+-0.20
+-0.30
+
+year
+
+45
+
+4
+
+5
+
+Table 1c
+Belgium: 60-99
+1.5
+
+vacancy rate (%)
+
+99
+
+1
+
+70
+
+65
+
+85
+
+95
+
+90
+
+.5
+
+60
+80
+75
+
+0
+0
+
+2
+
+4
+
+6
+8
+unemployment rate (%)
+
+10
+
+12
+
+14
+
+Trend for Belgium
+0.80
+0.70
+0.60
+
+0.40
+0.30
+0.20
+0.10
+
+year
+
+46
+
+99
+
+97
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+0.00
+61
+
+trend
+
+0.50
+
+Table 1d
+Canada: 62-99
+
+1.5
+
+vacancy index
+
+75
+
+80
+65
+
+1
+
+90
+85
+70
+99
+
+95
+
+.5
+2
+
+4
+
+6
+8
+unemployment rate (%)
+
+10
+
+12
+
+Trend for Canada
+0.60
+0.50
+
+0.30
+0.20
+0.10
+
+year
+
+47
+
+98
+
+96
+
+94
+
+92
+
+90
+
+88
+
+86
+
+84
+
+82
+
+80
+
+78
+
+76
+
+74
+
+72
+
+70
+
+68
+
+66
+
+64
+
+0.00
+62
+
+trend
+
+0.40
+
+Table 1e
+Denmark: 70-99
+
+vacancy rate (%)
+
+.4
+
+70
+
+.3
+
+.2
+
+95
+
+90
+
+.1
+99
+
+85
+
+75
+
+80
+
+0
+0
+
+5
+unemployment rate (%)
+
+10
+
+Denmark: 75-99
+.15
+
+.1
+
+99
+85
+
+.05
+
+75
+80
+
+0
+4
+
+6
+
+8
+unemployment rate (%)
+
+10
+
+Trend for Denmark
+
+trend
+
+vacancy rate (%)
+
+90
+95
+
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99
+year
+
+48
+
+Table 1f
+Finland: 61-99
+1.5
+
+vacancy rate (%)
+
+90
+
+1
+75
+
+99
+
+70
+8085
+
+.5
+
+95
+65
+
+0
+0
+
+2
+
+4
+
+6
+8
+10
+12
+unemployment rate (%)
+
+14
+
+16
+
+18
+
+Trend for Finland
+2.50
+
+2.00
+
+trend
+
+1.50
+
+1.00
+
+0.50
+
+year
+
+49
+
+99
+
+97
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+61
+
+0.00
+
+Table 1g
+France: 75-99
+
+90
+
+50
+
+2000
+
+labour shortage index
+
+91
+
+40
+89
+
+30
+76
+
+78
+
+83
+
+77
+
+99
+
+92
+
+98
+
+80
+88
+
+82
+
+79
+
+84
+
+20
+
+85
+86
+
+95
+87
+
+81
+
+97
+96
+93
+94
+
+10
+5
+
+10
+unemployment rate (%)
+
+15
+
+Trend for France
+0.18
+0.16
+0.14
+
+0.10
+0.08
+0.06
+0.04
+0.02
+
+year
+
+50
+
+99
+
+98
+
+97
+
+96
+
+94
+
+93
+
+92
+
+91
+
+89
+
+88
+
+87
+
+86
+
+84
+
+83
+
+82
+
+81
+
+79
+
+78
+
+77
+
+0.00
+76
+
+trend
+
+0.12
+
+Table 1h
+France: 60-99
+
+vacancy rate (%)
+
+1.5
+
+1
+
+99
+75
+
+.5
+
+70
+
+80
+
+95
+90
+85
+
+6560
+
+0
+0
+
+2
+
+4
+6
+8
+unemployment rate (%)
+
+10
+
+12
+
+Trend for France
+1.20
+1.00
+
+0.60
+0.40
+0.20
+
+year
+
+51
+
+99
+
+97
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+0.00
+61
+
+trend
+
+0.80
+
+Table 1i
+Germany: 60-99
+70
+
+3
+
+65
+
+vacancyrate(%)
+
+2
+60
+
+99
+80
+
+90
+
+1
+
+75
+
+95
+
+85
+
+0
+0
+
+2
+
+4
+unemployment rate (%)
+
+6
+
+8
+
+Germany: 74-99
+1.5
+99
+74
+
+80
+
+90
+
+1
+
+vacancyrate(%)
+
+75
+
+95
+
+.5
+85
+
+0
+2
+
+4
+6
+unemployment rate (%)
+
+8
+
+Trend for Germany
+1.80
+1.60
+1.40
+
+1.00
+0.80
+0.60
+0.40
+0.20
+
+year
+
+52
+
+99
+
+97
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+0.00
+61
+
+trend
+
+1.20
+
+Table 1j
+Japan: 60-99
+1.4
+
+vacancy rate (%)
+
+1.2
+
+90
+
+70
+
+1
+60
+
+.8
+99
+95
+80
+65
+
+85
+
+75
+
+.6
+0
+
+.5
+
+1
+
+1.5
+2
+2.5
+3
+unemployment rate (%)
+
+3.5
+
+Japan: 75-99
+90
+
+vacancy rate (%)
+
+1
+
+.8
+99
+95
+80
+
+85
+
+75
+
+.6
+2
+
+3
+4
+unemployment rate (%)
+
+5
+
+Trend for Japan
+0.60
+0.50
+
+0.30
+0.20
+0.10
+
+year
+
+53
+
+99
+
+97
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+0.00
+61
+
+trend
+
+0.40
+
+Table 1k
+Netherlands: 60-99
+3
+
+65
+70
+
+60
+99
+
+2
+
+vacancyrate(%)
+
+90
+
+80
+
+75
+
+1
+
+95
+
+85
+
+0
+0
+
+2
+
+4
+6
+8
+unemployment rate (%)
+
+10
+
+12
+
+The Netherlands: 71-99
+3
+
+71
+
+2
+
+vacancyrate(%)
+
+90
+98
+
+75
+
+1
+
+80
+95
+
+85
+
+0
+0
+
+5
+10
+unemployment rate (%)
+
+15
+
+Trend for The Netherlands
+1.40
+1.20
+
+0.80
+0.60
+0.40
+0.20
+
+year
+
+54
+
+99
+
+97
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+0.00
+61
+
+trend
+
+1.00
+
+Table 1l
+New Zealand: 60-96
+
+1
+
+vacancy rate (%)
+
+65
+60
+
+70
+
+.5
+
+85
+95
+90
+
+75
+80
+
+0
+0
+
+2
+
+4
+6
+unemployment rate (%)
+
+8
+
+10
+
+New Zealand: 74-96
+.5
+
+85
+
+.4
+
+74
+
+vacancyrate(%)
+
+95
+
+90
+
+.3
+96
+
+.2
+75
+
+80
+
+.1
+0
+
+5
+unemployment rate (%)
+
+10
+
+Trend for New Zealand
+0.60
+0.40
+0.20
+
+trend
+
+-0.20
+-0.40
+-0.60
+-0.80
+-1.00
+-1.20
+year
+
+55
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+61
+
+0.00
+
+Table 1m
+Norway: 60-99
+99
+
+.8
+
+vacancy rate (%)
+
+70
+
+.6
+
+80
+
+.4
+
+95
+65
+75
+90
+60 85
+
+.2
+1
+
+2
+
+3
+4
+5
+unemployment rate (%)
+
+6
+
+7
+
+Trend for Norway
+0.80
+0.70
+0.60
+
+0.40
+0.30
+0.20
+0.10
+
+-0.10
+year
+
+56
+
+99
+
+97
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+0.00
+61
+
+trend
+
+0.50
+
+Table 1n
+Portugal: 74-99
+
+vacancy rate (%)
+
+.4
+
+80
+
+99
+
+.3
+
+90
+
+.2
+
+95
+
+75
+
+.1
+
+85
+
+2
+
+4
+
+6
+unemployment rate (%)
+
+8
+
+10
+
+Trend for Portugal
+0.40
+0.35
+0.30
+
+trend
+
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99
+year
+
+57
+
+Table 1o
+Spain: 77-99
+99
+
+vacancy rate (%)
+
+1
+
+.5
+90
+85
+
+95
+80
+
+0
+5
+
+7.5
+
+10
+
+12.5
+15
+17.5
+unemployment rate (%)
+
+20
+
+22.5
+
+Trend for Spain
+0.60
+0.50
+
+trend
+
+0.40
+0.30
+0.20
+0.10
+0.00
+77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99
+year
+
+58
+
+25
+
+Table 1p
+Sweden: 60-99
+70
+
+1.5
+
+65
+
+60
+
+vacancy rate (%)
+
+75
+
+1
+
+80
+
+90
+85
+
+99
+
+.5
+95
+
+0
+0
+
+2
+
+4
+6
+unemployment rate (%)
+
+8
+
+10
+
+Trend for Sweden
+0.80
+0.70
+0.60
+
+0.40
+0.30
+0.20
+0.10
+
+year
+
+59
+
+99
+
+97
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+0.00
+61
+
+trend
+
+0.50
+
+Table 1q
+Switzerland: 60-99
+.5
+90
+
+vacancy rate (%)
+
+.4
+
+80
+99
+
+.3
+60
+
+85
+
+.2
+65
+70
+
+95
+
+.1
+
+75
+
+0
+
+.5
+
+1
+
+1.5
+2
+2.5
+unemployment rate (%)
+
+3
+
+Trend for Switzerland
+2.00
+1.80
+1.60
+1.40
+
+1.00
+0.80
+0.60
+0.40
+0.20
+
+year
+
+60
+
+99
+
+97
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+0.00
+61
+
+trend
+
+1.20
+
+Table 1r
+United Kingdom: 60-99
+
+1.2
+65
+99
+
+vacancy rate (%)
+
+1
+60
+
+.8
+
+70
+95
+85
+
+90
+75
+
+.6
+
+80
+
+.4
+2
+
+4
+
+6
+8
+10
+unemployment rate (%)
+
+12
+
+14
+
+Trend for The United Kingdom
+0.40
+0.35
+0.30
+
+0.20
+0.15
+0.10
+0.05
+
+year
+
+61
+
+99
+
+97
+
+95
+
+93
+
+91
+
+89
+
+87
+
+85
+
+83
+
+81
+
+79
+
+77
+
+75
+
+73
+
+71
+
+69
+
+67
+
+65
+
+63
+
+0.00
+61
+
+trend
+
+0.25
+
+Table 1s
+United States: 60-99
+.12
+
+vacancy index
+
+.1
+80
+85
+
+65
+
+70
+
+.08
+
+90
+95
+99
+75
+60
+
+.06
+2
+
+4
+
+6
+unemployment rate (%)
+
+8
+
+10
+
+Trend for The United States
+0.50
+
+0.40
+
+0.20
+
+0.10
+
+-0.10
+year
+
+62
+
+97
+
+94
+
+91
+
+88
+
+85
+
+82
+
+79
+
+76
+
+73
+
+70
+
+67
+
+64
+
+0.00
+61
+
+trend
+
+0.30
+
+Data Appendix
+
+The countries in the sample are:
+
+Australia
+
+Finland
+
+Japan
+
+Spain
+
+Austria
+
+France
+
+Netherlands
+
+Sweden
+
+Belgium
+
+Germany
+
+Norway
+
+Switzerland
+
+Canada
+
+Ireland
+
+New Zealand
+
+United Kingdom
+
+Denmark
+
+Italy
+
+Portugal
+
+United States
+
+Where possible, the data refer to West Germany throughout.
+
+The latest version of these data (mostly 1960-1992) may be found on (to follow).
+
+Benefit Replacement Rate. Benefit entitlement before tax as a percentage of previous earnings
+before tax. Data are averages over replacement rates at two earnings levels (average and two-thirds
+of average earnings) and three family types (single, with dependent spouse, with spouse at work).
+They refer to the first year of unemployment. Source: OECD (Database on Unemployment Benefit
+Entitlements and Replacement Rates). The original data are for every second year and have been
+linearly interpolated.
+Benefit Duration Index. [0.6 x replacement rate in 2nd /3rd year of an unemployment spell + 0.4 x
+replacement rate in 4th /5th year of an unemployment spell] ÷ [replacement rate in 1st year of an
+unemployment spell]. Replacement rate defined as above. Source: OECD, as above.
+
+Trade Union Density. This variable is constructed as the ratio of total reported union members (less
+retired and unemployed members), from Visser (1996) to wage and salaried employees, from the
+OECD Comparative Welfare Dataset (1997).
+
+Co-ordination Index (1-3). This captures the degree of consensus between the actors in collective
+bargaining. 1 low, 3 high. There are two series. 1. Based on interpolations of OECD data (OECD
+Employment Outlook 1994, 1997) and data made available by Michèle Belot, described in Belot and
+van Ours (2000). 2. Based on data reported in OECD Employment Outlook (1994), (1997), Traxler
+(1996), Traxler and Kittel (1999), Wallerstein (1999), Ferner and Hyman (1998), Windmüller et al.
+(1987), Bamber and Lansbury (1998). For full details, see Ochel (2000). The first series is used in
+all the regressions reported in the paper.
+63
+
+Employment Protection Index (0-2). This captures the strictness of employment protection laws. 0
+low, 2 high. Made available by Olivier Blanchard. Based on the series used by Lazear (1990) and
+that reported in OECD Employment Outlook (1999). The series is an interpolation of 5 year
+averages.
+
+Labour Taxes. This consists of the payroll tax rate plus the income tax rate plus the consumption tax
+rate. These are taken from the CEP-OECD Dataset (Centre for Economic Performance, London
+School of Economics) and are mainly based on OECD National Accounts.
+
+i)
+
+Payroll tax rate = EC/(IE-EC), EC = EPP + ESS. EPP = employers’ private pensions and
+welfare plans contributions, ESS = employers’ social security contributions, IE =
+compensations of employees;
+
+ii)
+
+Income tax rate = (WC + IT)/HCR. WC = employees’ social security contributions, IT =
+income taxes, HCR – households’ current receipts;
+
+iii)
+
+Consumption tax rate = (TX – SB)/CC. TX = indirect taxes, SB = subsidies, CC = private
+final consumption expenditure.
+
+Owner Occupation Rate. Refers to the percentage of the housing stock classified as owner occupied.
+The data were supplied by Andrew Oswald and have been heavily interpolated. Not available for
+Portugal.
+
+Unemployment Rate. Where possible, these correspond to OECD standardised unemployment rates
+and conform to the ILO definition. For Italy; the data correspond to “unemployment rates on US
+concepts” from the US Bureau of Labor Statistics. For earlier years, we use data reported in Layard
+et al. (1991), Table A3. For later years we use OECD Employment Outlook (2000), Table A and
+UK Employment Trends Table C 51.
+
+Vacancy Rate. This is defined as the number of registered vacancies divided by employment. The
+latter is total civilian employment (OECD Labour Force Statistics). The former refers to the number
+of registered vacancies, to be found in OECD Main Economic Indicators. In Canada and the United
+States, the vacancy data come in the form of a “help wanted” advertising index.
+
+Inflow Rate. This variable is the monthly inflow into unemployment divided by employment (total
+civilian employment). In the UK, the data refer to the actual inflow into claimant status (UK
+64
+
+Employment Trends and we use the male rate because of the large variations over-time in the benefit
+eligibility of unemployed women. In the remaining countries where data are available we use the
+number of unemployed with duration less than one month (or 4 weeks).
+
+Real Labour Cost per Worker. The real wage adjusted to include payroll taxes. This is defined by
+the compensation of employees divided by employment and normalised on the GDP deflator.
+Source: OECD, National Accounts and Main Economic Indicators.
+
+Real Import Prices. Defined as the import price deflator normalised on the GDP deflator. Source:
+OECD, National Accounts and Main Economic Indicators. The real import price shock is the change
+in the log of real import prices times the share of imports in GDP (OECD Main Economic
+Indicators).
+
+Trend Productivity. Based on the Hodrick-Prescott trend of (log real GDP – log employment).
+
+Real Interest Rate. Long term nominal interest rate less the current rate of inflation from the OECD
+Economic Outlook Database.
+
+Total Factor Productivity (TFP). Based on the Solow residual for each country, smoothed using a
+Hodrick-Prescott filter (see Nickell and Nunziata, 2000, for more detail). There are two versions of
+the TFP shock. 1. Three year moving average of ? 2 (so low residual) . This is used in the labour
+cost equations in Table 12. 2. The cyclical component of TFP, i.e. the deviation of the Solow
+residual from its HP filter trend. This is used in the unemployment and employment equations
+(Tables 13, 15).
+
+Labour Demand Shock. Residuals from the OECD employment model from Nickell and Nunziata
+(2000), Table 2, Equation 1. This is an employment equation for each of the OECD countries whose
+coefficients depend on individual country institutions.
+Money Supply Shock. ? 2 ln (money supply) from OECD Economic Outlook database.
+
+Employment Population Ratio.
+
+Total civilian employment normalised on the working age
+
+population (15-64), from CEP OECD dataset, updated.
+
+65
+
+

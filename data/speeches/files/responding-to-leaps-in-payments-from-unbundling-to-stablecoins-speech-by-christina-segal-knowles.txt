@@ -1,0 +1,265 @@
+Responding to leaps in payments: from unbundling to
+stablecoins
+Christina Segal-Knowles1
+Executive Director
+Financial Market Infrastructure Directorate
+
+Westminster Business Forum
+Thursday 22 January 2020
+
+1
+
+I would like to thank Holly Snaith, Michaela Costello, Rachel James and Josh Sadler for their assistance with preparing this speech.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+Good morning. I would like to thank the Westminster Business Forum for inviting me to speak at today’s
+seminar on ‘Payments policy and regulation - infrastructure, innovation and end-user priorities’.
+I’d like to start today by telling two short (and seemingly unrelated) stories.
+The first is the story of perhaps the first giant leap forward in payments – the introduction of paper money.
+
+Paper money was invented in China as early as the tenth century. Merchants seeking to avoid carrying
+around heavy iron coins began issuing IOUs written on mulberry bark. The state eventually took over –
+outlawing private IOUs and banning counterfeit – and the first state-backed currency was born. When
+Marco Polo arrived in the mid thirteenth century, he was so amazed by this invention that he devoted an
+entire chapter of The Marvels of the World to Kublai Khan’s tree bark money.
+
+But, the first big leap forward in payments ultimately ended in a leap backwards. By the mid-fifteenth
+century, China had eliminated paper money entirely. The state had issued too much money and counterfeit
+was rife. Ultimately, mismanagement of the new invention resulted in what was perhaps the world’s first
+hyperinflation. China didn’t adopt paper money again for several hundred years. Although paper money
+eventually made a comeback, it took generations.
+
+The second story I would like to tell is a bit more mundane: the story of my breakfast. On the way to this
+conference, I stopped to get a coffee and paid for it by tapping my phone against an ipad. Of the other
+people in line in the busy coffee shop, not a single one paid in cash – everyone was tapping cards or
+phones.
+The story of my breakfast won’t be a surprise to most of you – indeed card payments have become the norm
+in many parts of the UK. The proportion of UK payments made with cash has fallen from 60% in 2008 to
+28% just ten years later. This of course has implications for financial inclusion, which I won’t cover today as I
+don’t have time to do the topic justice.
+
+The future of payments regulation
+
+So, what do these stories have to do with payments regulation?
+
+Well, the story of my breakfast is just one tangible example of the transformation underway in payments.
+Transformation that could very well end with another leap forward in payments.
+
+But the story of the first paper money is a cautionary tale. Leaps in payments are not always forwards. And
+if mismanaged or poorly governed they can lead to a reversal or even a leap backwards.
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+2
+
+Ensuring that innovation in payments this time around doesn’t end in a leap backwards is important for two
+reasons.
+
+The first is that we want innovation to be sustained. Innovation in payments could bring significant benefits
+for users. Innovation could meet unfulfilled customer needs, widen access to financial services, lower costs,
+and facilitate better integration of payments with other platforms. Innovation could also support financial
+stability by increasing diversity in payment methods. Diversity means that if there is a problem with one way
+to pay, there are ready alternatives, reducing the risks of disruption from any one payment method.
+
+The second is that the ability of individuals and businesses to transact safely and smoothly is critical to
+financial stability. People and businesses need to be able to make and receive payments on time, with
+confidence, even in periods of economic uncertainty.
+The Bank of England’s Financial Policy Committee, the body charged with safeguarding financial stability in
+the United Kingdom, lists the provision of payment and settlement services as the first of the vital functions
+which the financial system as a whole performs in our economy. They define the very purpose of preserving
+financial stability as “avoiding serious interuptions in [these] vital functions”.
+
+Responding to innovation already under way
+
+While some of the current innovation in payments is very visible, there is also significant innovation
+happening beneath the surface. Increasingly, the process of electronic payments has been disintermediated
+or ‘unbundled’.
+
+Example of a card payment chain
+
+A typical ‘payment chain’ (the set of activities necessary for a payment to be made) may now start with new
+non-bank entities using new technologies at the point of initiation – for example, the digital wallet provider
+that let me use my phone to pay with my debit card this morning. New entrants may also be adding an
+entirely new service – increasing the number of activities and players and thus lengthening the chain. One
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+3
+
+example is technology aggregators, who provide smaller banks with IT access to payment systems and
+clearing infrastructure.
+
+The current regulatory framework was designed in a world in which banks and a small number of systemic
+payment systems made up the entire payments chain. Under the current framework, systemically important
+payment systems (the core infrastructures that undertake the activities of authorisation, clearing and
+settlement), and some of their critical providers, are regulated by the Bank of England for financial stability
+purposes. For example, the Bank of England is supervising the development of the New Payments
+Architecture to ensure the opportunity is taken to enhance resilience. Combined with the separate financial
+stability focused regulation of banks, who provided initiation and access, this used to capture the entire
+payment chain.
+Example of ‘unbundling’
+
+But today, the banks and payments systems covered by this regulation are only a subset of the entities
+involved in many payments chains. When I tapped my phone against an ipad to buy my coffee earlier, my
+payment may have involved as many as four different non-bank entities – in addition to my own bank, the
+retailer’s bank, and the payment system (in this case, Visa).
+
+It is possible that over time, one of these new entities will become so critical that disruption to it could take
+down the entire chain. And, if they could disrupt the entire chain, the risks these entities could pose would
+be comparable to the risks posed by the payments systems we currently regulate for financial stability.
+
+To safeguard and future-proof our regulatory framework, we need to move away from a system in which how
+you are regulated depends on the type of entity you are, towards one in which what matters is what risks you
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+4
+
+pose. In other words: regulation of payments should reflect the financial stability risk, rather than the legal
+form, of payments activities. This should cover the entire chain, end-to-end.
+
+This may seem obvious: same risk, same regulation. It is hard to argue that regulation should not reflect
+risks. And a framework that focused on risks rather than legal form would help level the playing field –
+ensuring that regulation isn’t unfairly applied to one type of firm but not another as a result of their legal
+structure or status. The principle of same risk, same regulation is technology neutral – and could provide
+clearer expectations to innovators for how they will be treated by regulators when entering the market.
+
+But while same risk, same regulation may seem obvious, as payments chains increasingly continue to
+involve new entities, our regulatory framework may require some adjustment to meet this principle.
+
+Responding to innovation around the corner
+Some of the most high profile potential changes in the way we pay haven’t happened yet.
+
+The new “global currency” proposed by Facebook and partners, Libra, generated headlines across the globe
+when it was announced last summer. Other proposed private ‘stablecoins’ continue to emerge. The
+language some of these proposals use to describe themselves is grand. Libra promises to “Reinvent money.
+Transform the global economy. So people everywhere can live better lives.”
+
+In practice, stablecoin arrangements would use cryptoassets (known as coins or tokens) for transactions
+currently processed by retail or wholesale payments systems. Existing crypto assets – for example Bitcoin –
+have so far proven too volatile to become widely accepted as payment. Stablecoins propose to address this
+by using asset backing to establish and maintain a stable value.
+It is concievable that some stablecoins – particularly if integrated into existing online platforms or social
+media – could achieve widespread adoption very quickly. In India, Google Tez reported having 50m users
+10 months after its launch in September 2017. In China, Alipay and WeChat Pay by some measures handled
+more than $37trn in mobile payments in 2018. As such it will be important to adopt an appropriate regulatory
+framework for stablecoins in advance of their launch.
+
+If it quacks like a payment system…
+
+Stablecoins pose two unique challenges for regulators:
+
+The first is that we need to decide how to regulate them. Proposed use cases for stablecoins vary. And
+some stablecoins may appear to do more than one currently regulated economic function.
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+5
+
+But many stablecoin arangements will facilitate the transfer of ‘money’ for buying goods and services –
+effectively substituting all or part of existing payments chains. While my ability to pay for coffee with my
+phone may feel innovative, it still ultimately relies on card payment - a payment method that has existed for
+well over half a century. Stablecoins could mean that in future, when I tap my phone at a coffee shop, I may
+be able to pay with a token that provides a new payment method entirely – and which would not rely on
+either my bank or my credit and debit cards.
+
+If stablecoins are substitutes for existing payments chains, it follows that they could pose the same financial
+stability risks as existing payments chains. Failure to regulate them accordingly could leave a
+stablecoin-shaped hole in our payments regulation.
+
+This is why the Financial Policy Committee of the Bank of England has judged that:
+
+Payment chains that use stablecoins should be regulated to standards equivalent to those applied to
+traditional payment chains.
+In other words: if you’re used for payments you should be regulated to the same standard as other entities
+conducting payments activities. It doesn’t matter what technology you are using. Same risk, same
+regulation.
+
+Nothing new under the sun
+
+The second challenge for regulators is that stablecoins differ from existing payments systems in one
+fundamental way:
+Regulation of existing payment chains largely focuses on the resilience of arrangements to transfer money –
+how money gets from point A to point B. However, the reliability of those chains also crucially depends on
+the stability of the money they transfer.
+Existing payment systems transfer money that has been created by other entities — central banks or
+commercial banks. Stablecoins propose to create the digital tokens or ‘coins’ they transfer.
+
+Existing payment systems effectively outsource this issue - they only transfer money that is subject to
+separate protections and regulations to help maintain stability and confidence. The value of central bank
+money, which gives holders a claim on the state, is protected by the Bank of England’s monetary stability
+mandate and inflation targeting regime, while the value of commercial bank money is protected by legal
+rights that ensure holders can redeem this money one-for-one in the currency they deposited. Robust
+prudential regulation and deposit insurance in turn ensure that commercial banks can make good on this in
+all but rare circumstances.
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+6
+
+These protections are important as they underpin confidence in the system.
+
+These protections mean that the coffee shop where I tapped my phone this morning does not need to worry
+that the value of my payment will change materially vis-à-vis the sterling-denominated price of the coffee by
+the time it reaches the shop’s bank account. And, when the payment arrives in the coffee shop’s account,
+the shop has a clear right to withdraw these funds, in sterling, and receive the same amount that was
+deposited.
+They also mean that, as a payments regulator, I don’t currently need to worry about large fluctuations in the
+money flowing through UK payments systems. I can instead rely on my colleagues in the Bank’s monetary
+policy and prudential regulation areas to do their jobs.
+
+Absent additional regulation, stablecoins may not offer these protections. Regulation of stablecoins will
+therefore need to be broader than the regulation of current payment chains.
+
+At minimum, where stablecoins are used in systemic payment chains as money-like instruments they should
+meet standards of stability and protections of holders’ rights equivalent to those expected of commercial
+bank money.
+It is tempting to view questions about the stability of value of the ‘money’ flowing through payment systems
+as a new issue – but in fact it is one of the oldest issues in economics. Indeed fifteenth century China’s leap
+backwards in payments was motivated by precisely this issue. Failure to properly ensure the stability of
+value led to the collapse and elimination of the innovation in payments.
+
+Next Steps
+
+I started this talk by noting that we may be in the midst of a leap forwards in payments. This is good news.
+Innovation – including the innovation some of you in this room are pushing forward as part of the New
+Payments Architecture project, and the work that the Bank of England is pursuing on RTGS renewal promises to deliver easier, faster, cheaper, and more stable payments.
+
+But to ensure that this period of innovation does not end in a leap backwards we need to be sure that
+regulation keeps pace. Regulation needs to facilitate innovation by avoiding picking winners or losers.
+Instead we should focus on delivering same risk, same regulation. The protections regulation delivers for
+your payments should not depend on whether you are paying by cash, card, interbank, or stablecoin.
+
+Fortunately, here in the UK we have an opportunity to ensure that regulation remains fit for purpose through
+this period of change. HM Treasury is currently leading a welcome review of the payments landscape. And
+there is related work underway in the cross-authority Cryptoassets Task Force that was launched by
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+7
+
+HM Treasury in 2018, bringing together Bank, FCA and Treasury thinking. The Bank of England’s Financial
+Policy Committee is supporting this work by providing insight into the financial stability implications of
+innovation in payments – in December, for the first time ever, its semi-annual Financial Stability Report
+included a chapter on payments.
+
+As industry, you will have opportunities to engage in this work and I hope you will. I look forward to working
+with you – and to your questions.
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+8
+
+

@@ -1,0 +1,354 @@
+What is left to do on the post-crisis bank capital framework?
+Speech given by
+David Rule, Executive Director, Prudential Policy
+
+At the Institute of International Bankers Annual Conference, Washington
+2 March 2015
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Six and half years after the depths of the Great Financial Crisis, we know the shape of the future global bank
+capital framework. But important questions do remain. Today I want to focus on how regulators should
+measure risk in order to set capital requirements, with some final remarks on the particular case of
+securitisation.
+
+To start, though, a reminder of the key elements of the post-crisis, internationally-agreed framework:
+
+
+Banks have minimum requirements for at least 4.5% of risk-weighted assets (RWAs) in core equity
+and 6% of RWAs in going concern Tier 1 capital, including for the purpose of absorbing losses in
+insolvency or resolution. Basel III tightened the definition of capital significantly.
+
+
+
+Systemically-important banks have further loss absorbing capacity so that they can be recapitalised
+in resolution without taxpayer support, ensuring the continuity of critical functions and minimising
+damage to financial stability.
+
+
+
+In November 2014, the Financial Stability Board (FSB) proposed that total loss absorbing capacity
+(TLAC) for globally systemically-important banks (G-SIBs) should comprise at least 16-20% RWAs.
+
+
+
+Core equity buffers sit on top of this TLAC so that the banking system can weather an economic
+downturn without unduly restricting lending to the real economy; the Basel III capital conservation
+buffer for all banks is sized at 2.5% of RWAs.
+o
+
+Systemically-important banks hold higher buffers; and
+
+o
+
+Buffers can also be increased counter-cyclically when national authorities identify higher
+systemic risks.
+
+The new bank capital framework will cause banks to hold significantly more capital than the pre-crisis
+regime. Major UK bank capital requirements and buffers have increased at least seven-fold once you take
+account of the higher required quality of capital, regulatory adjustments to asset valuations and higher risk
+weights as well as the more obvious increases in headline ratio requirements and buffers.
+
+Small banks have seen a lesser increase than systemically-important banks, reflecting the important new
+emphasis since the crisis on setting capital buffers and TLAC in proportion to the impact of a bank’s distress
+or failure on the wider financial system and economy. In sum, the framework is now impact- as well as
+risk-adjusted. From a PRA perspective, this is consistent with our secondary objective to facilitate effective
+competition.
+
+We are currently in transition to the final standards, with full implementation not due until 2019. Although the
+broad shape is clear, I want to highlight four areas where questions remain:
+First, the overall calibration of TLAC. The FSB will finalize its ‘term sheet’ that specifies the TLAC
+standard for G-SIBs in light of a public consultation and findings from a quantitative impact study and market
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+survey. It will submit a final version to the G-20 by the 2015 Summit. National authorities will also need to
+consider loss absorbing capacity requirements for banks other than G-SIBs. In the United Kingdom, the
+Financial Policy Committee (FPC) will this year consider the overall calibration of UK bank capital
+requirements and gone-concern loss absorbing capacity.
+
+Second, the appropriate level of capital buffers, including how and by how much they increase as
+banks are more systemically important. The Basel Committee has published a method for bucketing
+G-SIBs by their global systemic importance, a mapping of buckets to buffer add-ons and a list of G-SIBs by
+bucket. This will be reviewed in 2017. Separately the US authorities have proposed somewhat higher
+add-ons. National authorities also have to decide buffer frameworks for domestically systemically-important
+banks or D-SIBs. In the UK, the FPC plans to consult on a proposal for UK D-SIBs in the second half of this
+year.
+
+Third, the location of capital buffers, requirements and loss absorbing capacity within international
+banking groups. A number of such groups are moving towards ‘sibling’ structures in which operating
+banks are owned by a common holding company. This has advantages for resolution: first, loss absorbing
+capacity can be issued from a holding company so that statutory resolution tools only have to be applied to
+this ‘resolution entity’ – the operating subsidiaries that conduct the critical economic functions can be kept as
+going concerns; and second, the operating banks can be more easily separated in recovery or
+post-resolution restructuring. It also fits with legislation in countries such as the UK requiring ring fencing of
+core retail banking activities and the US requiring a foreign banking organization with a significant U.S.
+presence an to establish intermediate holding company over U.S. subsidiaries. A ‘single point of entry’
+approach to resolution might involve all external equity to meet buffers and external equity and debt included
+in TLAC being issued from the top-level holding company. An important question then is to what extent and
+on what terms that equity and debt is downstreamed from the top-level holding company to any intermediate
+holding companies and the operating subsidiaries. This will also be influenced by the final TLAC standard
+that includes requirements on these intragroup arrangements.
+Finally, I would like to spend more time on my fourth issue: how to measure a bank’s risk exposures in
+order to set TLAC and buffers – or, in other words, determining the denominator of the capital ratio.
+
+Here
+
+regulators have to balance multiple objectives:
+
+
+An approach that is simple and produces consistent outcomes across banks. Basel I, based entirely
+on standardised regulatory estimates of credit risk, met this test.
+
+
+
+An approach that is risk sensitive and minimises undesirable incentives that may distort market
+outcomes. Whether we like it or not, banks will evaluate their activities based on return on regulatory
+capital requirements. So if those requirements diverge from banks’ own assessments of risk,
+regulation will change market behaviour. Sometimes that may be intended and desirable. But often
+it will not be. Basel I, for example, led to distortions in markets like the growth of commercial paper
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+back-up lines because under-one-year commitments had a zero capital requirement. Subsequent
+developments of the Basel capital framework sought to close the gap between regulatory estimates
+of risk and firms’ estimates of risk by allowing use of internal models for market, operational and
+credit risk.
+
+
+An approach that is robust in the face of uncertainty about the future. Estimates of risk based on
+past outcomes may prove unreliable. We should be wary of very low capital requirements on the
+basis that assets are nearly risk free. And behavioural responses to the capital framework may
+change relative risks endogenously. For example, before the crisis, banks became dangerously
+over-exposed to AAA-rated senior tranches of asset backed securities partly because, wrongly, they
+saw the risks as very low and partly because the capital requirements were vanishingly small.
+
+Ideally regulators would design a framework for measuring risk exposures that maximises each of these
+objectives. But trade-offs are likely to be necessary and, in my view, the rank ordering of objectives should
+be robustness followed by risk sensitivity and simplicity.
+
+Prioritising robustness points to combining different approaches in case any single one proves to be flawed.
+So the PRA uses three ways of measuring risk: risk weightings, leverage and stress testing.
+
+By weighting all assets equally regardless of risk, the leverage exposure measure provides a cross check on
+the possibility that risk weights or stress testing require too little capital against risks judged very low but
+which subsequently materialise.
+In the United Kingdom, the FPC’s view is that leverage ratio should be set at 35% of a bank’s applicable
+risk-weighted requirements and buffers.1 This is simple to understand and can be seen as setting a
+minimum average risk weight of 35%. So, for non-systemic banks with risk-weighted requirements and
+buffers of 8.5%, the minimum leverage ratio would be 3%. But a G-SIB, with a risk-weighted buffer add-on
+of, say, two percentage points, would a have an additional leverage buffer of 0.7 percentage points. And all
+firms would be subject to a leverage buffer equal to 35% of any risk-weighted counter-cyclical buffer.
+Another key advantage of using the same scaling factor and mirroring the different elements of the
+risk-weighted framework is that it creates consistent incentives for different types of banks and over time.
+By contrast, for example, setting the same leverage ratio for all firms would amount to setting a lower
+minimum average risk weight for systemically-important banks than other banks.
+
+Stress testing complements risk weighted and leverage approaches by considering the impact of extreme
+but plausible forward-looking macroeconomic scenarios of current concern to policymakers. Because
+buffers are intended to absorb losses in an economic downturn, the natural role of stress testing in the
+capital framework is to assess the adequacy of the buffers based on the Basel risk-weighted and leverage
+1
+
+See The Financial Policy Committee’s review of the leverage ratio, October 2014.
+http://www.bankofengland.co.uk/financialstability/Documents/fpc/fs_lrr.pdf.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+measures. If an individual bank is shown to be an outlier in a stress test, with a particularly large
+deterioration in its capital position, supervisors may use Pillar II to increase its capital buffers. The PRA is
+currently consulting on its approach to Pillar II, including a ‘PRA buffer’ that would be used in this way to
+address individual bank risks.2
+
+An advantage of concurrent stress testing across major banks is that policymakers can consider the wider
+systemic impact of the scenario. They can also test whether buffers are sufficient even if regulators prevent
+banks from modelling management actions that would be harmful to the wider economy: for example, if
+banks propose to reduce new lending in order to conserve capital. Used in this way, stress testing may
+inform calibration of the system-wide, countercyclical buffer if macro-prudential policymakers identify
+elevated systemic risks.
+
+Leverage and stress testing are best seen as complements rather than alternatives to risk-weighted
+measures of capital, producing a more robust overall framework. Risk weightings will likely remain the
+binding constraint for most banks most of the time. A central priority of the Basel Committee over the next
+year or so is to restore confidence in risk weightings by designing a system that balances most effectively the
+three objectives of robustness, risk sensitivity and simplicity.
+Risk sensitivity points to a continuing role for firms’ internal estimates and models. But that depends on
+finding solutions for problems with them. First, various studies by the Basel Committee have shown material
+variations in risk weights between banks for reasons other than differences in the riskiness of portfolios.
+Models appear to be producing excessive variability in capital outputs, undermining confidence in
+risk-weighted capital ratios and raising questions about gaming. Second, some models may produce low
+risk weights because the data underpinning them do not include stress events in the tail of the distribution.
+This is a particular concern in portfolios where the typical level of defaults is low but defaults may correlate in
+a systemic crisis: for example, exposures to other banks or high quality mortgages. For major global firms,
+average risk weights fell almost continuously from around 70% in 1993 to below 40% in 2008, since when
+they have remained around that level.3 Third, modelled capital requirements can be procyclical. For
+example, last year’s concurrent stress test of major UK banks by the Bank of England showed that some
+banks’ mortgage risk weights increased significantly in the test, particularly where banks took a ‘point in time’
+approach whereby probability of default was estimated as a function of prevailing economic and financial
+conditions.
+
+One solution would be to abandon use of banks own estimates and models entirely and use standardised
+regulatory risk weights. But standardised approaches have their own weaknesses. For example, finding
+simple and consistent techniques for measuring risk by asset class that work well across countries with
+2
+
+See Prudential Regulation Authority Assessing capital adequacy under Pillar II – CP 1/15.
+http://www.bankofengland.co.uk/pra/Pages/publications/cp/2015/cp115.aspx.
+3
+See The Financial Policy Committee’s review of the leverage ratio, October 2014, page 13, Chart 1
+http://www.bankofengland.co.uk/financialstability/Documents/fpc/fs_lrr.pdf.
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+different market structures and risk environments is not straightforward. Regulators typically face a trade-off
+between simplicity and risk sensitivity.
+
+An alternative approach is to find solutions for the problems with models. Some possible ideas might
+include:
+
+
+Requiring banks to provide more transparency about their risk estimates and models. The work of
+the Enhanced Disclosure Task Force and Basel’s revised Pillar III templates are steps in this
+direction. Regular hypothetical portfolio exercises by supervisors can identify banks with more
+aggressive approaches.
+
+
+
+Being more selective about where it makes sense to allow internal models and where standardised
+approaches may be more effective. In the case of credit risk, for example, models may be more
+robust in asset classes with longer and richer histories of default data; and the value-added of
+models for risk sensitivity is likely to be greater in asset classes where banks have significant private
+information about differences in risk.
+
+
+
+Changing the specification of models to take greater account of potential losses if tail risks
+crystallise. The Basel Committee has already agreed to move from a value-at-risk to an expected
+shortfall approach to estimating market risk. For credit risk, increasing the implied correlation of
+default in the model might be a simple way to produce higher risk weights in asset classes where
+banks are estimating low probabilities of default but regulators are concerned about tail risks.
+
+
+
+Broadening the use of so-called ‘slotting’ approaches in which banks use their own estimates to rank
+order risks but regulators determine the risk weights for each ‘slot’. Slotting makes use of the better
+information banks have about relative risk within an asset class. But regulators decide the level of
+capital requirements. Slotting was one of the options considered when regulators first started
+thinking about use of internal models in the capital framework in the 1990s.
+
+
+
+Putting floors on the level of modelled capital requirements. The Basel Committee has recently
+consulted on the design of a floor based on standardised risk weights to replace the existing
+transitional capital floor based on the Basel I framework. But it has not taken decisions on
+calibration: in other words, how often the floors would ‘bite’.
+
+The Basel Committee has said that it will consider the calibration of standardised floors alongside its work on
+finalising revised standardised approaches to credit risk, market risk and operational risk, and as part of a
+range of policy and supervisory measures that aim to enhance the reliability and comparability of
+risk-weighted capital ratios. Restoring confidence in risk weights will form a major part of the Committee’s
+agenda over the next year or so.
+
+Meanwhile, at a national level, supervisors can use Pillar II to address risks not adequately captured under
+internationally-standardised risk weightings. The PRA uses Pillar II actively to ensure banks have adequate
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+capital to support all the risks in their businesses and has recently set out in a transparent way for
+consultation the methodologies it proposes using to inform its setting of Pillar II capital requirements.4
+
+Finally, I want to speak briefly about securitisation as an example of an area where regulators find it hard to
+measure risk. One reason is that part of the securitisation market grew up in order to exploit weaknesses in
+risk weightings by allowing banks to maximise reduction in capital requirements while minimising decreases
+in revenue. A lesson from the past is that the risk of unintended market consequences is high. Risk
+weighting approaches for securitisation have relied either on external tranche ratings or on regulatory
+formulae. Both have problems. Formulae may not include all the key dimensions of risk. Ratings agencies
+can. But their track record in the financial crisis was poor and authorities globally are seeking – and in the
+US case are required by law – to reduce reliance on rating agencies.
+
+As well as the micro-prudential goal to ensure that banks measure securitisation risks appropriately and hold
+adequate capital against them, we also have a macro-prudential goal that the securitisation market develops
+in a sustainable way. These goals are aligned because, as we saw in the crisis, a market that develops in an
+unhealthy way can mean unexpectedly greater risks for banks.
+
+What are the characteristics of a sustainable securitisation market? One in which:
+
+
+banks and other issuers can use securitisation to transfer risk and raise funding but not to manage
+capital requirements artificially;
+
+
+
+investors are diverse and predominantly ‘real money’ as opposed to the fragile base of leveraged
+funds and bank treasuries that collapsed in Europe during the crisis;
+
+
+
+issuers’ incentives are adequately aligned with those of investors; and
+
+
+
+investors have the information they need to understand the risks they are taking.
+
+If structured soundly in this way, securitisation markets can be an important channel for diversifying funding
+sources and allocating risk more efficiently. Overall, the development of a carefully structured securitisation
+market could enable a broader distribution of financial sector risk, allow institutional investors to diversify
+their portfolios and banks to obtain funding and potentially remove part of the risk from banks' balance
+sheets to free up balance sheet capacity for further lending to the economy. 5
+
+The Basel Committee published a revised securitisation framework in December last year. Jointly with
+IOSCO, it also published for consultation a set of criteria to help identify simple, transparent and comparable
+(STC) securitisation.6 This year, the Committee will consider how to incorporate such criteria into the
+securitisation capital framework. In my view, incorporating the STC criteria will serve both micro-prudential
+4
+
+See footnote 1 reference.
+The European Commission is currently consulting on an EU framework for simple, transparent and standardised securitisation. See
+http://ec.europa.eu/finance/consultations/2015/securitisation/docs/consultation-document_en.pdf.
+6
+See http://www.bis.org/press/p141211.htm.
+5
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+and macro-prudential objectives. First, it will add a measure of ‘structure’ risk into the capital framework
+complementing existing inputs such as the underlying risk weights on the securitised portfolio, maturity and
+tranche seniority. That should improve risk sensitivity. And more transparency will help regulators as well as
+investors to measure risk. Second, such criteria will encourage securitisation market to develop in a more
+healthy and sustainable way.
+
+Finally, and returning to my main theme, I conclude that the post-crisis capital regulation for banks globally
+should be based on different ways of assessing risk, with leverage and stress testing complementing
+risk-weighted measures within an integrated framework. Such an approach is most likely to achieve the
+objectives of robustness followed by risk sensitivity and simplicity.
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+

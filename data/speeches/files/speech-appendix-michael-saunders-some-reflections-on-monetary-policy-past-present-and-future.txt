@@ -1,0 +1,180 @@
+Bank of England
+
+Page 1
+
+Some reflections on
+Monetary Policy past,
+present and future − speech
+by Michael Saunders
+Speech appendix
+18 July 2022
+
+Bank of England
+
+Page 2
+
+Effects on Labour Supply of Changes in the
+State Pension Age 2010-22
+From April 2010, the female state pension has risen in stages until, as of the first quarter of
+this year, it sits at 66. This variation in the state pension age (SPA) allows us to estimate
+how extending the SPA by one more year affects labour supply (Table 1).
+All our analysis is based on the individual responses to the Labour Force Survey.
+Our models are estimated from 2009 Q2 up to 2022 Q1. We follow Cribb et al’s (2013)
+lead and begin our sample roughly one year before the SPA escalator commenced.
+Therefore, our estimates provide the average marginal effect on participation of raising the
+female SPA over different age cohorts.
+Relative to Cribb et al (2013), we estimate a parsimonious specification, but find results
+that lie in the same ballpark. We control for individuals’ age in quarters using dummies.
+Likewise, we control for macroeconomic conditions using quarterly time dummies. We also
+include dummies for educational attainment, where the baseline case is an individual with
+GCSE or lower educational attainment.
+We limit our sample to the age range affected by the reforms.
+We estimate both a linear and probit model to estimate the marginal effect. As the probit
+model relies on a non-linear specification, we compute the marginal effect of the SPA at
+the sample means. Under both specifications, we find that being above the SPA lowers
+female participation, on average, by 8-9pp. By including interactions, we can see that
+reaching the SPA has around a 5-7pp smaller effect on women with degree or higher
+education attainment than those with GCSE or lower education attainment. This may
+reflect the fact that people with higher education attainment on average have higher
+incomes, and hence are less reliant on the state pension. There is no difference in the
+effect of reaching the SPA for those with A-level or equivalent education attainment,
+relative to those with GCSE or lower.
+
+Bank of England
+
+Page 3
+
+Table 1. OLS and Probit regression results estimating the effects of changes in the
+SPA on labour supply
+
+Estimation technique
+
+(i)
+OLS
+
+Participation
+(ii)
+(iii)
+Probit
+OLS
+
+(iv)
+Probit
+
+Above female state pension
+age
+
+-0.09***
+
+-0.21***
+
+-0.10***
+
+-0.25***
+
+(0.004)
+
+(0.01)
+
+(0.004)
+
+(0.012)
+
+Degree level or higher
+education
+
+0.09***
+
+0.25***
+
+0.06***
+
+0.15***
+
+(0.003)
+
+(0.008)
+
+(0.004)
+
+(0.012)
+
+0.06***
+
+0.16***
+
+0.06***
+
+0.15***
+
+(0.002)
+
+(0.007)
+
+(0.004)
+
+(0.011)
+
+0.05***
+
+0.17***
+
+(0.006)
+
+(0.016)
+
+0.00
+
+0.02
+
+(0.005)
+
+(0.014)
+
+A-level or equivalent
+education
+SPA – degree level or higher
+education interaction
+SPA – A–level or equivalent
+education interaction
+
+Sample
+Female
+60-66
+2009 Q2 – 2022 Q1
+
+Gender
+Age group
+Time period
+Estimation technique
+All
+Degree level or higher
+education
+A-level or equivalent
+education
+GCSE or lower education
+
+Marginal effect at sample average
+OLS
+Probit
+OLS
+Probit
+-0.09
+
+-0.08
+-0.05
+
+-0.03
+
+-0.10
+
+-0.10
+
+-0.10
+
+-0.10
+
+Note: * significant at 10% level; ** significant at 5%; *** significant at 1%. Standard errors in brackets.
+Source: Bank of England.
+
+

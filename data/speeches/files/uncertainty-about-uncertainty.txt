@@ -1,0 +1,2483 @@
+Uncertainty about Uncertainty
+Speech given by
+Kristin Forbes, External MPC Member, Bank of England
+
+J.P. Morgan Cazenove “Best of British” Conference, London
+23 November 2016
+
+Thanks to Shiv Chowla, David Copple, Ida Hjortsoe, Jack Marston and Tsveti Nenova for their
+assistance in putting together the analysis discussed in these comments. Further thanks to
+Ben Broadbent, Simon Hayes, Gareth Ramsey, Chris Redl, Michael Saunders, and Konstantinos
+Theodoridis for helpful comments. The views expressed here are my own and do not necessarily
+reflect those of the Bank of England or other members of the Monetary Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Uncertainty is the modern equivalent of a “whipping boy” for economics. A whipping boy was an official court
+position in the Tudor and Stuart monarchies. The boy was punished when the crown prince misbehaved,
+even if the boy played no role in the prince’s transgression. Similarly today, “uncertainty” is often blamed for
+any expected weakness in company earnings or broader economic growth - especially uncertainty around
+the UK’s relationship with the European Union. For example, about one-third of profit warnings by UK
+1
+
+companies in Q3 mentioned uncertainty around Brexit and sterling. The BoE’s agents cited uncertainty
+about the demand outlook and future trade arrangements as the biggest drag on investment intentions in
+2
+
+their November update. Even the MPC minutes have recently set a record of averaging 15 mentions of
+uncertainty each meeting, up sharply from averaging less than 6 times per meeting since the Committee was
+created.
+
+3
+
+Despite this heightened discussion about uncertainty, UK economic performance has been solid. Quarterly
+economic growth has picked up from 0.4% in Q1, to an average of 0.6% for Q2 and Q3. This is well above
+the consensus expectation by economic forecasters, as well as the MPC forecast. In fact, average GDP
+growth over the quarters of heightened uncertainty directly before and after the UK referendum on EU
+membership has been stronger than for all of 2015. It has even been above what is generally believed to be
+the UK’s potential growth rate. This raises obvious questions. Are we overestimating the negative economic
+effects of uncertainty? Is the ease of blaming the “whipping boy” of uncertainty causing us to miss important
+underlying dynamics in the UK economy?
+th
+
+th
+
+Just as the whipping boy of the 15 and 16 centuries was not always irrelevant to his punishment, however,
+UK earnings and the broader economy are not unaffected by the uncertainty at hand. The whipping boy was
+not a poor, innocent, unrelated street urchin. He was a well-born and titled friend of the crown prince. His
+close relationship with the prince meant that the royal would (hopefully) be less likely to misbehave so that
+his friend was not whipped. As a confidant of the prince, the whipping boy could also play a role in
+encouraging proper behaviour. Similarly, uncertainty around the UK’s future relationship with the European
+Union has undoubtedly had some impact on companies’ investment plans and the aggregate economy – and
+will continue to do so in the future. But the key question is: how much?
+Figure 1 captures this challenge. The black shaded bars show the MPC’s best collective forecasts for
+economic growth in Q2 and Q3 of 2016 from the Inflation Report half-way through the relevant quarter. More
+specifically, the bar for 2016 Q2 shows the growth forecast for Q2 as made in May, and the bar for 2016 Q3
+shows the forecast made in August. The green lines show the actual rate of GDP growth (based on the most
+
+1
+
+EY, Analysis of profit warnings issued by UK quoted companies (available at http://www.ey.com/Publication/vwLUAssets/ey-uk-profitwarnings-q3-2016/$FILE/ey-uk-profit-warnings-q3-2016.pdf)
+2
+
+Agents’ Summary of Business Conditions, November 2016 Update, Bank of England.
+
+3
+
+This record was set over the six MPC meetings before November 2016. This does not adjust for changes in the length of the minutes
+over time. MPC minutes were substantially longer from 1997 through 2004, during which they averaged 8131 words per each Minutes.
+Since 2005, the Minutes have averaged only 4034 words, although the length has been increasing gradually to 5382 words since the
+start of 2015. When the use of the term ‘uncertai’ (in order to capture various endings) is adjusted by the length of the minutes, it has
+averaged 1.1 mentions per thousand words over the duration of the MPC and has only spiked twice – to 2.7 during the global financial
+crisis and to 2.8 recently.
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+recent ONS data). In both Q2 and Q3, actual GDP growth was substantially higher than forecast (by 0.4pp).
+Next, the red line in each column shows an estimate of growth if the mechanical drag from uncertainty (as
+estimated using a separate SVAR model similar to that in Haddow et al., 2013) was removed from that
+4
+
+quarter’s forecast. In each case, growth would have been expected to be higher and closer to actual GDP
+growth, especially after the referendum, albeit not fully explaining the gap. Although a series of wellrespected academic papers provide evidence that uncertainty can drag on growth through numerous
+5
+
+channels, this exercise suggests that mechanically removing the drag from uncertainty from our forecast
+6
+
+would have substantially reduced our forecast errors. Of course, there are many other factors that could
+have spurred stronger growth than expected over this period, but overestimating the impact of uncertainty
+should be in the line-up of suspects.
+
+Figure 1. Quarterly GDP growth: IR forecasts,
+
+Figure 2. Annual GDP growth: Alternative scenario
+
+counterfactuals and outcomes
+
+with higher consumption
+
+% increase on quarter earlier
+0.8
+
+% increase on a year earlier
+4
+
+0.7
+
+3.5
+
+0.6
+
+3
+
+0.5
+
+2.5
+
+0.4
+
+2
+
+0.3
+
+1.5
+
+0.2
+
+1
+
+0.1
+
+0.5
+
+0
+
+0
+2016Q2
+
+2016Q3
+
+2016Q4
+
+IR same quarter forecast
+IR with no uncertainty impact
+ONS data
+
+Alternative scenario
+
+Aug IR
+
+Reported and Nov IR
+
+As further evidence of how overestimating the negative impact of uncertainty could significantly bias
+economic forecasts, Figure 2 shows an alternate scenario for annual UK GDP growth in 2016 and 2017 that I
+discussed at our August MPC meeting (in red), along with the collective MPC forecast (in black). This
+alternate scenario was one of the reasons why I did not support as aggressive a monetary easing at that
+time and voted against quantitative easing. My alternate scenario made just one change to our baseline
+
+4
+
+More specifically, this estimate of the growth impact of uncertainty assumes uncertainty had stayed at its long-run average, instead of
+increasing, and the effects on growth follow the standard mechanical treatment and multipliers. The measure of uncertainty used in
+these simulations is a principal component of six measures, discussed in detail in the next section. This simulation involves combining
+the output of two different forecasting models and is meant to be suggestive of the potential impact of uncertainty on the forecast
+recently, rather than as an alternate forecast, which could have involved additional adjustments.
+5
+
+Some important examples include: Dixit and Pindyck (1994), Bloom (2009), Bloom et al. (2012), Arellano et al. (2012), Baker and
+Bloom (2013), and Christiano, Motto and Rostagno (2014).
+6
+
+This refers to only removing uncertainty effects as estimated in the VAR, and not any effects that may already be captured in other
+variables incorporated in the forecast, such as movements in financial markets.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+forecast: that consumption growth was stronger and remained at the same rate as the average over the
+7
+
+previous year. Uncertainty was still assumed to have a substantial impact on investment, and monetary
+policy assumed to follow the market curve, both according to the standard treatment in our forecasts. Under
+this alternate scenario, growth was still expected to slow, but only to a trough of 1 ½% yoy, instead of to
+about 0.5% as in the consensus MPC August Inflation Report forecast. The green squares show the MPC’s
+most recent estimate of growth in Q3 and its published November forecast for the next three quarters. My
+alternate scenario with stronger consumption growth still underestimated recent growth, but by a lesser
+degree than in the collective forecast, and better captured the shallower slowdown that is now widely
+expected. This comparison highlights the sensitivity of economic forecasts to assumptions about the effects
+of uncertainty on consumption – even without adjusting for any reduced effect of uncertainty on investment –
+which is believed to be even more important.
+
+The tradition of the whipping boy in Tudor and Stuart England came about due to belief in the Divine Right of
+Kings, which made it inappropriate to whip a crown prince. Economic forecasters, however, are not subject
+to the same protection today, including the MPC. Therefore, my goal in these comments is to question,
+analyse, and challenge the treatment of uncertainty in our economic forecasts. There is no doubt that
+uncertainty matters - but how important is it? Are we accurately capturing its effects?
+
+In an attempt to better understand these issues, my comments will address three questions. First, how
+should we measure uncertainty? Second, do different measures of uncertainty affect different sectors of the
+economy? Finally, how will heightened uncertainty in the UK today affect the economy in the future?
+
+The answers to these questions could have first-order importance for our forecast, and therefore the
+appropriate path of monetary policy. The shaded black bar on the right side of Figure 1 shows the MPC’s
+forecast for GDP growth in Q4 (of 0.4%) from the November Inflation Report. The red line shows the impact
+of removing the mechanical drag from uncertainty from this forecast - with growth increasing to 0.6% (and
+assuming no other adjustments are made). If growth remains around this higher level, then unemployment is
+unlikely to increase significantly and there would be no meaningful slack in the economy. In this case,
+monetary policy may need to be tightened sooner than expected. Moreover, if there is no meaningful output
+gap, I would find it more difficult to look through the expected inflation overshoot to above the 2% target in
+three years, even if it largely resulted from sterling’s recent depreciation.
+
+But are we overestimating the impact of uncertainty? Before answering that question, it is necessary to take
+a step back and think about how to measure uncertainty and how it can affect the economy.
+
+7
+
+Quarterly growth in consumption was predicted to remain at 0.7% through the forecast period, which was the same average rate as
+over the previous 4 quarters.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+I.
+
+How do you Measure Uncertainty?
+
+Uncertainty is a concept that is easy to talk about, but hard to measure. Some types of uncertainty might
+affect businesses, while other types might affect consumers. Uncertainty about sterling might affect large
+exporters, but not smaller, domestically-focused firms. Uncertainty about mortgage costs might have a
+greater effect on homebuilders and young adults than the older generation. Carney (2016) highlights that
+uncertainty can come in many forms - such as economic uncertainty, geopolitical uncertainty, and policy
+uncertainty. Economists try to differentiate between model uncertainty (when an agent is uncertain about the
+correct model of the economy), Knightian uncertainty (when the distribution of outcomes for a variable is
+uncertain), and Bayesian uncertainty (when the shape of the parameter distribution is uncertain).
+
+Critically important is differentiating between a deterioration in the expected outcome and a greater range of
+expected outcomes. The first is not uncertainty, just bad news. The second is uncertainty, but often hard to
+differentiate from the first, especially as people often become more pessimistic in the face of greater
+uncertainty. In the context of the recent vote on UK membership in the European Union, a “Remain” voter
+might believe that leaving the European Union means a lower path for economic growth. This lower forecast
+for growth would be a deterioration in the first moment and not necessarily an increase in uncertainty. An
+increase in uncertainty would be a greater range of possible outcomes for growth – the second moment –
+and correspond to a widening in the fan chart around the mean growth path. Although the distinction sounds
+obvious, it is very difficult to measure, especially in surveys where individuals have trouble distinguishing
+between these two concepts.
+
+Also critically important when measuring uncertainty is capturing the various ways in which uncertainty can
+manifest itself. This is made more difficult as the types of uncertainty that are a concern can change over
+time. For example, Figure 3 shows word clouds from the MPC’s Minutes during four periods when mentions
+8
+
+of “uncertainty” increased sharply. Words near the centre are mentioned more often, and the size of each
+word is scaled by its frequency. In 2002, mentions of uncertainty occurred at the same time as traditional
+concerns for monetary policy about higher inflation - with frequent links to words such as: price level, higher,
+increase, inflation, and expectations. In 2008, mentions of uncertainty occurred frequently with words such
+as: credit conditions, tighten, banks, and lending – highlighting concerns about the tightening of credit
+9
+
+conditions that occurred at that time. In 2010, concerns shifted to uncertainty about the euro area and fiscal
+policy, with frequent use of words such as: euro area, market, government, fiscal, debt, and bond. In 2016, a
+new set of words stands out in the cloud linked to uncertainty: United Kingdom, leave, European Union, vote,
+and trade. The specific concerns during periods of heightened uncertainty have clearly changed over time.
+
+8
+
+The word clouds are formed from the words in the paragraphs where uncertainty had the greatest weight. The analysis is done over
+the 6-month window before uncertainty peaks in each episode.
+9
+
+The words linked to uncertainty changed during different periods of the crisis; for example, in other months there was more focus on
+sterling and in others, more focus on changes in interest rates.
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+Figure 3. Word clouds in Minutes during periods of increased mentions of uncertainty
+
+2002
+
+2008
+
+2010
+
+2016
+
+These various aspects and manifestations of uncertainty are impossible to capture in a single data series.
+Therefore, the Bank of England has focused on a measure of uncertainty that is a principal component
+drawn from eight different measures of uncertainty. This measure is described in detail in Haddow et al.
+(2013). It draws from financial market data, survey data, and media citations, and is therefore able to capture
+several different types of uncertainty. First is uncertainty in households, measured in the GfK unemployment
+expectations balance and GfK financial situation expectations balance. Second is uncertainty in firms,
+measured in the CBI survey and IBES dispersion of company earnings’ forecasts. Third is uncertainty in the
+whole economy, measured by FTSE option-implied volatility, sterling option-implied volatility, the dispersion
+of consensus forecasts for annual GDP growth, and the number of press articles citing uncertainty.
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+Figure 4a graphs this uncertainty indicator at a monthly basis since 1991. The principal component is the
+solid line, and the grey swathe captures the range of the underlying measures.
+
+10
+
+Uncertainty recently spiked
+
+upwards - from one standard deviation below its historic average in the middle of 2015 to two standard
+deviations above its historic average immediately after the referendum on EU membership. There are only 3
+other times when uncertainty reached as high a level as after the referendum: during the 2008-9 financial
+crisis, during the period of heightened concern about the euro area at the end of 2011, and after the UK left
+the ERM and sterling was devalued in 1992. This uncertainty measure has recently declined somewhat in
+August and September, but increased again in October to still remain above its historic average.
+
+Figure 4. Monthly uncertainty measures
+a. Principal component indicator
+
+b. Individual uncertainty indicators
+
+Standard deviations from mean
+
+Standard deviations from mean
+
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+1991 1995 1999 2003 2007 2011 2015
+Swathe of uncertainty indicators
+Principal component
+
+2005
+
+2007
+
+2009
+
+2011
+
+FTSE Volatility
+Growth forecast disp
+GfK Unemp.
+
+2013
+
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+
+2015
+
+Sterling Volatility
+GFK Financial
+Media Citations
+
+Note: In the charts above, only six of the eight measures included in the quarterly principal component are shown. Two measures
+(based on the CBI survey and IBES earnings forecasts) are not shown as they are not available on a monthly basis. These two
+measures are currently near the middle of the swathe. See Haddow et al. (2013) for more information on this principal component and
+the underlying data.
+
+What is driving these recent movements in uncertainty? The shaded swathe in Figure 4a shows that at least
+one measure of uncertainty used to form the principal component has reached a record high since the start
+of the series. Could changes in certain types of uncertainty have different effects on the economy than
+others? To better understand these dynamics, Figure 4b begins by graphing the 6 monthly measures of
+uncertainty used to construct the principal component. It shows that some measures of uncertainty have
+been relatively stable and are below their historic averages, including the measures focused on household
+uncertainty (based on the GfK expectations balances). Other measures, however, have increased sharply
+and remain well above their historic averages, especially those measuring broader economic uncertainty
+(media citations of uncertainty, sterling volatility, and the dispersion of GDP growth forecasts). This graph
+
+10
+
+The principal component discussed here and used in much of the analysis below is based on eight measures available at a quarterly
+frequency. In order to capture recent high-frequency movements, however, the graph in this figure shows the index calculated on a
+monthly basis. It uses 6 of the 8 indicators used in the quarterly measure, but does not include two data series that are only available at
+a quarterly frequency: the IBES dispersion of company earnings’ forecasts and the CBI survey indicator. The last data on these two
+measures indicated that they are currently slightly above their historic averages and just below 0.5 on the graph; neither have recently
+spiked to the same degree as seen in some other measures.
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+highlights, yet again, the challenge of capturing such a multifaceted concept as uncertainty in any individual
+data series; different measures of uncertainty can move in starkly different directions at the same time.
+
+Figure 5 confirms this point by showing the correlation between different quarterly measures of uncertainty. It
+includes the BoE principal component measure, its underlying 8 data series, and three additional popular
+measures of uncertainty: the Global Policy Risk Index (GPRI) from Caldara and Iacoviello (2016),
+Economic Policy Uncertainty (EPU) from Baker, Bloom and Davis (2016), and the VIX (a measure of implied
+U.S. stock market volatility). Each cell is coded by colour, with blue indicating a positive correlation, red
+indicating a negative correlation, and darker cells indicating stronger correlations (with either sign). The
+correlations across many of these measures are very low - averaging 0.36 for the full matrix. The measure of
+geopolitical risk stands out as having particularly low correlations with the other measures (even moving in
+opposite directions in some cases).
+
+Figure 5. Correlation of selected uncertainty measures
+Media
+BoE
+
+GFK
+
+Earnings
+
+PC
+
+Unemp.
+
+GFK Fin.
+
+CBI
+
+Growth
+
+FTSE Vol
+
+Sterling
+
+Growth
+
+Cita-
+
+Vol
+
+Forecast
+
+tions
+
+GPRI
+
+GFK Unemp.
+
+0.83
+
+GFK Financial
+
+0.54
+
+0.35
+
+CBI Uncertainty
+
+0.76
+
+0.71
+
+0.17
+
+Earnings Growth
+
+0.81
+
+0.66
+
+0.72
+
+0.53
+
+FTSE Volatility
+
+0.50
+
+0.22
+
+0.01
+
+0.32
+
+0.26
+
+Sterling Volatility
+
+0.83
+
+0.60
+
+0.50
+
+0.58
+
+0.78
+
+0.68
+
+Dispersion
+
+0.59
+
+0.57
+
+0.32
+
+0.37
+
+0.33
+
+0.24
+
+0.30
+
+Media Citations
+
+0.56
+
+0.40
+
+0.14
+
+0.48
+
+0.54
+
+0.34
+
+0.45
+
+0.03
+
+GPRI
+
+-0.05
+
+-0.01
+
+-0.33
+
+0.09
+
+-0.22
+
+0.08
+
+-0.29
+
+0.05
+
+0.24
+
+EPU
+
+0.47
+
+0.28
+
+0.55
+
+0.30
+
+0.51
+
+0.02
+
+0.36
+
+-0.02
+
+0.89
+
+0.16
+
+VIX
+
+0.55
+
+0.31
+
+0.02
+
+0.49
+
+0.33
+
+0.93
+
+0.71
+
+0.25
+
+0.29
+
+0.10
+
+EPU
+
+Growth Forecast
+
+-0.01
+
+The BoE principal component has some of the strongest correlations - which is not surprising as it is
+constructed based on most of these measures. The BoE principal component is most correlated with: sterling
+volatility, the GFK measure of unemployment uncertainty, the dispersion of IBES earnings forecasts, and the
+CBI measure of business uncertainty.
+
+11
+
+This suggests that the principal component may have an advantage
+
+over other measures by better capturing various dimensions of uncertainty - including differential effects for
+households, companies, financial markets and the broader economy. This measure would be more likely to
+capture the very different forms of uncertainty captured in the word clouds in Figure 3.
+11
+
+A calculation of the weightings on the different variables used to form the principal component yields a similar result; the four variables
+with the greatest weights are the four variables with the highest correlation with the principal component.
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+II. How Does Uncertainty Affect Different Segments of the Economy?
+
+Even more important than assessing how the different forms of uncertainty move together is understanding
+how they move with the broader economy. For example, even if geopolitical uncertainty has little relationship
+with other measures of uncertainty, does it correspond more tightly to major changes in GDP growth? Are
+some forms of uncertainty more malignant while others benign? And do some measures of uncertainty
+primarily affect certain segments of the economy (such as businesses), but not others (such as households)?
+
+Figure 6: Channels by which uncertainty can affect the economy
+Effect on:
+Investment
+
+Consumption
+and savings
+
+Productivity
+growth
+
+Labour
+market
+
+Financial
+markets and
+credit
+conditions
+
+Reduces investment and productive capacity; larger
+effects for more irreversible investment; larger effects
+on investment in housing and export sector
+
+Consumers reduce consumption and increase their
+buffer stock of savings; larger effects on spending for
+more durable and big-ticket items - especially housing;
+could also shift to less risky assets and therefore
+reduce pool of funds available for companies
+Reduces efficient allocation of resources across
+economy through a number of channels: (1) less
+expansion by productive firms as well as less
+contraction in less productive firms; (2) postponing
+entry and exit, especially into new markets and for
+startups; (3) shortening of supply chains as firms
+attempt to guarantee inputs and shift away from foreign
+suppliers
+Firms reduce hiring, training, and wage growth; firms
+may shift to more temporary and less permanent
+workers; workers less likely to shift jobs and less
+job-to-job churn; could result in lower wages and worker
+productivity
+Greater volatility raises risk premia and cost of credit to
+businesses and households; banks have less incentive
+to provide loans to households and companies; credit
+conditions tighten most for startups and those without
+established relationships
+
+Evidence
+Dixit and Pindyck (1994);
+Bernanke (1983); Bond,
+Moessner, Mumtaz and Syed
+(2005); Arellano, Bai and Kehoe
+(2012)
+Romer (1990); Caroll (1997);
+Benito (2006); Pistaferri (2016)
+
+Disney, Haskell and Heden
+(2003); Bloom (2009);
+Johnson and Noguera (2012);
+Bloom, Floetotto, Jaimovich,
+Saporta-Eksten and Terry
+(2012)
+
+Lazear and Spletzer (2012);
+Arellano, Bai and Kehoe (2012);
+Broadbent (2016)
+
+Whaley (2000); Gilchrist,
+Sim and Zakrajek (2014);
+Alessandri and Bottero (2016)
+
+Before examining if different measures of uncertainty are more or less correlated with different measures of
+economic activity, however, it is useful to take a step back and think about how uncertainty might be
+expected to affect various segments of the economy. There is a voluminous literature on the various
+channels and relationships - a literature which I will not even attempt to survey.
+
+12
+
+Instead, Figure 6 provides
+
+an overview of the key channels, as well as a selection of papers providing evidence. To simplify the
+discussion, I’ve focused on five channels through which uncertainty could affect the economy and that have
+received at least some empirical support: on investment, consumption and savings, productivity growth,
+labour markets, and financial markets (including credit conditions). Although the impact of uncertainty on
+12
+
+For recent BoE discussion of the various channels, see Broadbent (2016), Carney (2016), Weale (2016), Haddow et al. (2013), and
+the Box on Uncertainty and GDP growth in the May 2016 Inflation Report.
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+investment has received the most attention, and is believed to be the most important channel by which
+uncertainty influences the business cycle and broader economy, the figure highlights that uncertainty could
+have multifaceted effects on an economy through diverse channels.
+
+To assess the importance of these channels for uncertainty in the UK, as well as to better assess if different
+measures of uncertainty primarily affect different segments of the economy, Figure 7 looks at how
+uncertainty measures comove with different segments of the economy.
+
+13
+
+More specifically, it reports the
+
+correlations between the 12 uncertainty measures (discussed in the last section) with different measures of
+economic activity, roughly categorized according to the various channels in Figure 6, but grouping the
+housing and labour market indicators together. The cells are colour coded using the same format as in
+Figure 5, with red indicating a negative correlation, blue indicating a positive correlation, and darker colours
+indicating stronger relationships (positive or negative).
+
+Figure 7 is a sea of different colours and shading, confirming that different measures of uncertainty seem to
+have different relationships with different measures of economic activity. Many of the different patterns are
+intuitive and support our understanding of the channels by which uncertainty works. There are, however,
+several points worth highlighting.
+
+First, the correlations between most measures of uncertainty and the different economic outcomes are
+generally negative (red) – confirming that higher uncertainty corresponds to weaker growth, investment,
+consumption, productivity, housing and commercial real estate markets, labour markets, and financial
+markets. The few positive (blue) correlations are also intuitive – such as higher uncertainty corresponding to
+higher savings and higher credit spreads. Most noteworthy are the consistently positive (and often strong)
+correlations between uncertainty and inflation. This suggests that some of the channels by which uncertainty
+affects the economy could work through reducing supply, as well as reducing demand. More specifically,
+higher uncertainty could reduce potential growth by reducing productivity growth (directly and through lower
+investment) and reducing employment and labour market churn (and therefore reducing the size of the
+labour force through hysteresis effects and the efficient allocation of labour).
+
+14
+
+If uncertainty only reduced
+
+demand, but not supply, then it would be expected to generate spare capacity and be associated with a fall instead of an increase - in inflation. If uncertainty is associated with a weakening of the supply-side of the
+economy, this could complicate the case for monetary policy to provide support to demand during periods of
+heightened uncertainty.
+
+13
+
+15
+
+Correlations are reported from 1996Q1-2016 Q2 in order to include all of the measures for the full period.
+
+14
+
+Fernández-Villaverde et al. (2015) model an additional channel by which uncertainty shocks could generate higher inflation. An
+uncertainty shock increases the range of optimal prices firms will face in the future, and since it is more costly for the firm to set too low
+a price relative to its competitors (instead of too high), they choose to bias the price they choose today upward. Mumtaz and
+Theodoridis (2015) provide empirical evidence that uncertainty shocks can be inflationary in the US and cite a similar argument.
+15
+
+As discussed below, these variables are likely endogenous; higher uncertainty could generate higher inflation through supply-side
+effects, while higher inflation could generate heightened uncertainty about future real income. The effects of uncertainty on the
+supply-side of the economy are also likely to occur with a substantial lag, which would not be captured in these correlations. More
+formal analysis using a SVAR and discussed below, however, also finds that an increase in uncertainty corresponds to a reduction in
+measures of the supply-side.
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+Financial
+Markets &
+Credit
+
+Labour
+Market
+
+Investment
+& Exports
+Consumption
+and Savings
+Productivity
+Growth
+Housing &
+Real Estate
+
+Aggregate
+
+Sector of
+Economy
+
+GDP
+-0.63
+Inflation
+0.57
+Capital investment
+-0.27
+Exports
+-0.31
+Consumption
+-0.56
+Savings rate
+0.06
+Productivity/hour
+-0.31
+Productivity/head
+-0.42
+Housing investment
+-0.35
+CRE prices
+-0.57
+House prices
+-0.56
+Housing transactions
+-0.09
+Hiring rate
+-0.63
+Private sector wages
+-0.31
+Separation rate
+-0.39
+Quit rate
+-0.63
+Job-to-job rate
+-0.63
+Credit spreads
+0.42
+FTSE 250
+-0.21
+10-year gilts
+-0.23
+Median of correlations
+-0.33
+Note: Based on data from 1996Q1-2016Q2.
+
+Statistic
+
+BoE Principal
+Component
+-0.59
+0.65
+-0.24
+-0.22
+-0.58
+-0.13
+-0.28
+-0.40
+-0.30
+-0.46
+-0.52
+-0.05
+-0.70
+-0.25
+-0.47
+-0.51
+-0.67
+0.09
+-0.09
+-0.04
+-0.29
+
+GfKUnemp.
+-0.53
+0.70
+-0.11
+-0.19
+-0.48
+0.05
+-0.37
+-0.44
+-0.22
+-0.42
+-0.68
+-0.04
+-0.55
+-0.30
+-0.48
+-0.75
+-0.64
+0.56
+-0.09
+-0.19
+-0.33
+
+GfKFinancial
+-0.47
+0.45
+-0.34
+-0.25
+-0.41
+0.19
+-0.22
+-0.29
+-0.19
+-0.37
+-0.24
+0.05
+-0.47
+-0.18
+-0.22
+-0.46
+-0.45
+0.40
+-0.16
+-0.04
+-0.23
+
+CBIUncertainty
+-0.54
+0.48
+-0.14
+-0.27
+-0.53
+0.14
+-0.28
+-0.35
+-0.28
+-0.35
+-0.55
+0.02
+-0.83
+-0.35
+-0.61
+-0.85
+-0.81
+0.55
+0.03
+-0.18
+-0.32
+
+Earnings
+Growth
+
+Figure 7. Correlations between measures of uncertainty and economic activity
+
+-0.39
+0.09
+-0.21
+-0.31
+-0.25
+0.06
+-0.10
+-0.25
+-0.31
+-0.57
+-0.20
+-0.14
+-0.02
+-0.13
+0.18
+0.03
+0.06
+0.24
+-0.50
+-0.39
+-0.17
+
+FTSE
+Volatility
+-0.54
+0.22
+-0.29
+-0.26
+-0.42
+0.06
+-0.20
+-0.34
+-0.38
+-0.46
+-0.42
+-0.10
+-0.37
+-0.18
+-0.14
+-0.34
+-0.32
+0.24
+-0.17
+-0.29
+-0.29
+
+-0.35
+0.39
+-0.15
+-0.05
+-0.35
+-0.03
+-0.09
+-0.16
+-0.33
+-0.36
+-0.22
+-0.12
+-0.37
+-0.12
+-0.14
+-0.21
+-0.33
+-0.09
+0.00
+-0.06
+-0.14
+
+Growth
+Sterling Forecast
+Volatility Dispersion
+-0.21
+0.31
+-0.03
+-0.17
+-0.32
+-0.06
+-0.21
+-0.19
+-0.16
+-0.25
+-0.33
+-0.25
+-0.50
+-0.23
+-0.48
+-0.53
+-0.55
+0.30
+-0.23
+-0.24
+-0.23
+
+Media
+Citations
+0.10
+-0.33
+-0.17
+0.05
+0.12
+-0.28
+0.08
+0.05
+0.01
+0.11
+0.37
+-0.05
+-0.07
+-0.07
+-0.05
+0.12
+0.00
+-0.35
+-0.16
+0.03
+0.01
+
+GPRI
+-0.20
+0.21
+-0.04
+-0.12
+-0.24
+-0.15
+-0.26
+-0.24
+-0.04
+-0.16
+-0.31
+-0.16
+-0.50
+-0.24
+-0.59
+-0.61
+-0.58
+0.37
+-0.10
+-0.16
+-0.18
+
+EPU
+-0.47
+0.15
+-0.25
+-0.32
+-0.27
+0.16
+-0.17
+-0.31
+-0.31
+-0.64
+-0.24
+-0.08
+-0.01
+-0.15
+0.21
+-0.05
+0.04
+0.29
+-0.55
+-0.43
+-0.21
+
+VIX
+
+-0.47
+0.35
+-0.19
+-0.23
+-0.38
+0.06
+-0.22
+-0.30
+-0.29
+-0.39
+-0.32
+-0.08
+-0.48
+-0.21
+-0.31
+-0.49
+-0.50
+0.30
+-0.16
+-0.18
+
+Median
+
+Second, in terms of evaluating which measures of uncertainty are more tightly linked to movements in the
+economy, the Bank of England’s principal component measure (which is the main measure of uncertainty
+used in MPC forecasts) does quite well. It has the strongest correlation with GDP and relatively darker cells
+for most economic measures and across different segments of the economy. The three individual uncertainty
+measures most correlated with GDP (other than the principal component) capture very different types of
+uncertainty: sterling volatility, unemployment uncertainty, and the dispersion of company earnings’ forecasts.
+This confirms the point highlighted in the previous section; in order to capture the effects of uncertainty on
+the economy, it is important to directly measure different types of uncertainty - including in financial markets,
+on consumers, and on businesses. The BoE’s principal component measure should accomplish this.
+
+Third, and in contrast, other uncertainty measures show a weaker relationship with key economic variables.
+For example, two popular measures of uncertainty used in academic research, the Economic Policy
+Uncertainty Index (from Baker, Bloom and Davis, 2016), and especially the Global Political Risk Index (from
+Caldara and Iacoviello, 2016), have weaker correlations with key economic variables, including GDP. In
+terms of the individual uncertainty measures used to construct the Bank of England’s principal component,
+the uncertainty measures based on media citations, GDP growth forecast dispersions, and FTSE volatility
+have the lowest correlations with the economic variables, including with GDP. This agrees with results in
+Caldara et al. (2016), which finds that measures of uncertainty based on real economic data (such as
+dispersions in forecast errors) generate significant declines in real economic activity, while uncertainty
+measures based on stock market data or economic policy news, have no significant effect. This could also
+be important in assessing the recent impact of heightened uncertainty in the UK. Two of the main factors
+behind the sharp upward spike in the BoE uncertainty index has been the increase in media citations
+referring to uncertainty and the dispersion in GDP growth forecasts. If these measures have less impact on
+economic activity (as suggested in Figure 7), one might expect less drag on GDP from the recent increase in
+uncertainty than has traditionally occurred and when uncertainty increases due to other components.
+
+A final noteworthy pattern is the relative strength of the correlations between the different uncertainty
+measures and the different segments of the economy. Uncertainty measures seem to have some of the
+strongest links with the labour market (especially with hiring, quits, and job-to-job flows) and with the housing
+market (especially with prices for housing and CRE). The fact that many uncertainty measures have a
+weaker correlation with investment than many of the other variables is noteworthy, especially as the
+academic literature has focused on the negative effects of uncertainty on investment. Although the other
+channels have received some attention, they are generally not believed to be as large in magnitude or as
+important in explaining fluctuations in GDP. Yet, in the UK, uncertainty generally moves more closely with
+consumption (with a median correlation of -38% across all the measures) than with investment (with a
+median correlation of -19%). One possible explanation is that the effect of uncertainty on investment is more
+lagged, but the same analysis with uncertainty lagged by 1 or 2 quarters yields even lower correlations with
+investment. Another challenge is that these correlations do not capture causation, so that high correlations
+may not just capture how uncertainty affects that variable, but also how that variable affects uncertainty, or
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+how they both are simultaneously affected by a third variable. While all of these considerations could be
+important, the correlations still suggest that the effects of uncertainty on the economy may be more broadly
+based than generally believed, and occur through other important channels than investment.
+
+To further explore the dynamics of the effects of uncertainty on investment and consumption, as well as to
+evaluate the possibility of longer lags, I perform a simulation for the UK. I estimate the effects of uncertainty
+using a VAR model similar to that described in Haddow et al. (2013), and incorporate the estimated effects
+into COMPASS - the standard forecasting model used by the Bank of England.
+
+16
+
+I assume that the BoE’s
+
+principal component measuring uncertainty increases by one standard deviation (about one-third of the
+increase that occurred from its recent trough to its post-referendum peak). I also assume that the exchange
+rate and monetary policy are unchanged. Figure 8a shows the resulting estimated effects on consumption
+and investment. The peak impact on both consumption and investment is lagged by several quarters, with
+the largest effect occurring a little over a year after the increase in uncertainty. The impact on consumption
+growth is estimated to be a small fraction of the impact on investment growth; two years after uncertainty
+increased, the fall in consumption is around 10% of the fall in investment.
+
+Next, Figure 8b uses the same simulation to estimate the impact on aggregate expenditure growth (the black
+line), broken into the three components on which it has the largest effect (consumption, investment, and
+17
+
+imports).
+
+Expenditure growth slows gradually, with a maximum drag of 0.5% qoq after 4 quarters. Weaker
+
+imports dampen some of the negative impact on output, while consumption and investment both drag
+significantly on growth. Most interesting, however, are the relative contributions of investment and
+consumption to slower expenditure growth. Even though uncertainty has a significantly greater effect on
+investment than consumption (as shown in Figure 8a), since consumption is a significantly greater share of
+aggregate expenditure than investment, the overall contribution of weaker consumption to the slowing in
+growth is very important and not far off that from investment. The drag on expenditure from consumption
+peaks at -0.25 pp, while that from investment peaks at -0.4 pp.
+
+To summarize, this closer look at how uncertainty is related to various segments of the economy has
+highlighted several key points. First, the effects of uncertainty are manifest in many ways and hard to capture
+in a single statistic that only focuses on one sector of the economy; there are advantages to using some type
+of index or principal component that captures these different aspects of uncertainty. Second, some indicators
+of uncertainty that have recently increased sharply (such as media references and the dispersion of GDP
+growth forecasts) tend to be less correlated with important economic indicators. Third, uncertainty can have
+meaningful effects on the economy through channels other than just investment - including significant effects
+through consumption. Finally, uncertainty not only reduces demand in an economy through numerous
+
+16
+
+For further details, see Burgess et al. (2013).
+
+17
+
+Uncertainty has a negligible impact on the other expenditure components (government spending, exports and other investments), so
+they are not shown.
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+channels, but can also reduce the supply potential of the economy. This implies that heightened uncertainty
+could lead to lower or higher inflation, therefore making the appropriate monetary response less clear-cut.
+
+Figure 8. The effect of an increase in uncertainty
+a. Consumption and Investment
+Consumption
+percentage points
+0.0
+
+Investment
+
+-0.5
+-1.0
+-1.5
+-2.0
+-2.5
+-3.0
+-3.5
+-4.0
+-1 0 1 2 3 4 5 6 7 8 9 10 11 12
+quarters after shock
+
+b. Contributions to GDP
+Consumption
+0.3
+0.2
+0.1
+0.0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+-0.6
+-0.7
+
+Imports
+percentage points
+
+Investment
+GDP (percent)
+
+-1 0 1 2 3 4 5 6 7 8 9 10 11 12
+quarters after shock
+
+Note: The estimated impact of a one standard deviation increase in uncertainty, as measured by the BoE’s principal component.
+Monetary policy and the exchange rate are assumed to remain unchanged.
+
+III. How will Heightened Uncertainty Affect Growth and Inflation in the UK?
+
+It is now time to move to the most important question related to uncertainty today - at least for someone
+tasked to set monetary policy in the UK – how will the recent increase in uncertainty around the UK’s
+relationship with the European Union affect output and inflation? In order to answer this question, it is helpful
+to build on several insights from above. First, uncertainty should be measured using some type of broad
+index or principal component that captures its various manifestations - including uncertainty relevant to
+consumers and businesses. For this, the Bank of England’s principal component measure seems better than
+any individual measures or any popular measures used in other research papers. Second, uncertainty can
+affect the economy through various related channels, and clearly in more ways than just reducing investment
+(including through consumption, productivity growth, the labour market and housing market). As a result,
+focusing on the aggregate effects on the economy, instead of trying to estimate each of these specific
+channels and then aggregating these individual estimates, seems a logical approach.
+
+Those were the easy decisions.
+
+Now the really hard work starts.
+
+In order to estimate the effect of heightened uncertainty on the broader economy, it is necessary to make
+three additional and critically important assumptions. First – how will uncertainty evolve in the future? For
+example, will uncertainty increase or decrease from its current elevated level - especially after Article 50 is
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+invoked? Second, should we adjust our measure of uncertainty to put more weight on indicators that have
+stronger relationships with key economic variables? For example, should we put less weight on some of the
+measures of uncertainty included in our principal component that have recently spiked (such as media
+references to uncertainty and the dispersion in GDP growth forecasts) but have weak relationships with
+GDP? Finally, saving the hardest for last, how does one identify the impact of uncertainty? For example, if
+past increases in uncertainty correspond to tighter credit conditions, is it possible to isolate the impact of
+heightened uncertainty when it does not correspond to tighter credit conditions?
+
+This section will take each of these questions in turn. It will show that each of these assumptions is critically
+important for the economic forecast and monetary policy. The answers to the last two questions may also
+explain why heightened uncertainty around the time of the referendum on EU membership has had less
+impact on the broader economy, to date, than expected given past relationships.
+
+The Path for Uncertainty
+
+To begin, Figure 9 shows the MPC forecasts for GDP growth (panel a) and CPI inflation (panel b) from the
+November Inflation Report (in black lines). This forecast incorporates the impact of uncertainty as measured
+by the BoE principal component. Uncertainty is assumed to remain elevated through the forecast period,
+weighing on both supply and demand.
+
+18
+
+Annual GDP growth is expected to slow to a trough of 1.2% by the
+
+end of next year, and CPI inflation pick up to a peak of 2.8% in mid-2018.
+
+What would happen if uncertainty followed a different path? To see how this one change might affect the
+forecast, I consider scenarios with higher and lower uncertainty paths (as compared to the path assumed in
+the November Inflation Report forecast), as well as a scenario with a delayed increase in uncertainty. In the
+higher uncertainty scenario (in blue), uncertainty picks up much more sharply than currently expected and
+then falls back slowly to end the forecast period one standard deviation higher than in the baseline scenario.
+In the lower uncertainty scenario (in green), uncertainty falls gradually over the rest of this year to its historic
+average of 0, and ends the forecast one standard deviation lower than in the baseline scenario. In the
+delayed uncertainty scenario (in purple), uncertainty remains at its current level through May 2017, then
+increases gradually for about a year, before falling back towards 1 standard deviation by the end of the
+forecast horizon (and ending exactly in the middle of the higher and lower uncertainty scenarios).
+
+The resulting paths for output under these three scenarios are shown next to the baseline forecast in
+Figure 9a. Annual growth falls by significantly more in the high uncertainty scenario – troughing at almost
+0.6% instead of 1.2%. Growth falls more moderately in the low uncertainty scenario, never reaching as low
+as 1.5%. In the delayed uncertainty scenario, growth falls more gradually, but is still only 1.3% after 2 years,
+which is below the higher uncertainty scenario. These scenarios show that assumptions about the path for
+
+18
+
+See Section 5 in the November Inflation Report.
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+uncertainty could have first-order effects on the path for growth, and therefore for unemployment and the
+size of any output gap.
+
+Figure 9. Scenarios based on different paths for uncertainty in the future
+a.
+
+b.
+
+GDP
+Lower uncertainty
+Delayed uncertainty
+
+Higher uncertainty
+IR Nov 16
+
+% increase on a year earlier
+4
+3.5
+
+CPI
+
+Lower uncertainty
+Delayed uncertainty
+% increase on a year earlier
+5
+
+Higher uncertainty
+IR Nov 16
+
+4
+
+3
+3
+
+2.5
+2
+
+2
+
+1.5
+
+1
+
+1
+0
+
+2018Q1
+
+2017Q1
+
+2016Q1
+
+2015Q1
+
+2014Q1
+
+2013Q1
+
+-1
+2012Q1
+
+2018Q1
+
+2017Q1
+
+2016Q1
+
+2015Q1
+
+2014Q1
+
+2013Q1
+
+2012Q1
+
+2011Q1
+
+0
+
+2011Q1
+
+0.5
+
+Note: IR Nov 16 refers to the MPC’s November 2016 Inflation Report modal projections for GDP and CPI, respectively.
+
+These different paths for uncertainty, however, have much smaller effects on the forecast inflation rate, as
+shown in Figure 9b. Inflation peaks at 2.8% in the baseline case, 2.7% in the higher uncertainty scenario,
+3.0% in the lower uncertainty scenario, and 2.9% in the delayed uncertainty scenario. In all four scenarios,
+inflation ends the forecast period above target - ranging from 2.3% to 2.7% in 3 years. These scenarios,
+however, all assume that there is no change in monetary policy or the exchange rate relative to the original
+assumptions in the baseline uncertainty case - even though uncertainty has followed a different path. In
+other words, all four scenarios are based on the market curve for interest rates and the level of sterling as
+used for the November Inflation Report. If uncertainty followed one of these different paths, however,
+monetary policy could also follow a different path.
+
+Moreover, the implications for monetary policy from the different uncertainty paths would likely be more than
+implied by just looking at the fairly similar inflation paths. In the current baseline forecast, growth falls below
+potential, unemployment increases, and the output gap becomes negative. Monetary policy should balance
+supporting demand and returning inflation to target in the medium term on a sustainable basis; this trade-off
+was critical in the MPC’s decision not to tighten monetary policy in November, despite inflation being
+expected to overshoot 2% over the next 2-3 years. If uncertainty evolved following a path closer to the lower
+uncertainty scenario, however, there would be little increase in unemployment and only a very small output
+gap. This would involve less of a trade-off and less reason to tolerate an inflation overshoot without
+tightening monetary policy. On the other hand, if uncertainty followed the higher uncertainty profile, the MPC
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+16
+
+might possibly be willing to look through a slightly higher overshoot of inflation than currently forecast. Or,
+potentially most difficult, if uncertainty did not increase over the next few months, but is expected to increase
+sharply next spring after Article 50 was triggered (possibly something closer to the delayed uncertainty path),
+then any weakness in the economy might not be apparent for even longer. Each of these scenarios would
+undoubtedly generate robust discussion by the MPC.
+The bottom line is that the path for uncertainty is central to the trade-off facing the MPC today – and
+therefore for monetary policy.
+
+The Measure of Uncertainty
+
+The way in which uncertainty is measured is also central to the economic forecast and monetary policy.
+Section I and Figure 4 showed that the BoE’s standard measure of uncertainty spiked around the time of the
+referendum, but that this spike reflected a divergence in the underlying data series used to construct the
+principal component. The recent spike in this uncertainty measure primarily reflected sharp increases in
+three of the underlying components: sterling volatility, media references to uncertainty, and the dispersion of
+GDP growth forecasts. The other five measures of uncertainty used to construct the principal component
+have been remarkably stable in recent months. Moreover, Section II and Figure 7 showed that two of the
+three measures that have recently spiked (of media references to uncertainty and the dispersion of GDP
+forecasts) were some of the least correlated with key measures of economic activity (including GDP).
+
+Could we be overestimating the impact of uncertainty because our measure spiked largely due to
+components that have the weakest relationship with economic activity? To test this, I construct an alternative
+principal component measure of uncertainty - which I will call the narrow BoE measure. This narrow measure
+uses the same methodology as the BoE’s broad measure, and the same set of underlying components,
+except excludes the two components that have the weakest correlations with GDP. This narrow measure is
+therefore still broadly based (despite its name) and should still capture the multifaceted nature of uncertainty
+and its ability to affect various segments of the economy. Figure 10a shows the resulting paths for the two
+different quarterly measures of uncertainty. They generally move together closely, although there are a few
+periods where they have diverged – especially since the end of 2015. The broad uncertainty indicator has
+increased by 1.3 standard deviations since end-2015, while the narrow indicator has increased by only 0.4
+standard deviations over the same period.
+
+Next, I run an SVAR which estimates the impact of heightened uncertainty in the UK economy using either
+the standard (broad) BoE principal component or the narrow measure. The SVAR model follows the general
+setup in Gilchrist et al. (2014) and focuses on the relationship between 6 variables: uncertainty, corporate
+borrowing spreads, GDP, consumption, business investment, hours worked, CPI inflation, and Bank Rate.
+
+19
+
+19
+
+The SVAR is estimated on quarterly data from 1987q2 to 2016q2. The business investment, consumption, GDP, CPI and hours series
+have been detrended using an HP-filter with a smoothing parameter λ=1,600; uncertainty, Bank Rate and corporate borrowing spreads
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+17
+
+Figure 10b shows the estimated impact on GDP of the recent changes in the two different uncertainty
+measures. There are starkly different predictions for output, and therefore growth. The forecast based on the
+broader uncertainty measure (in blue) implies a substantially greater decline in GDP. The peak effect is a
+contraction of around 0.7 percent relative to trend. In contrast, the predicted decline in GDP based on the
+narrow measure (in red) is significantly smaller, peaking at a contraction of only 0.2 percent. In other words,
+the narrow measure of uncertainty would imply a substantially smaller slowing in GDP growth than predicted
+based on the standard BoE measure.
+
+Figure 10. Broad vs narrow principal component measures of uncertainty
+a. Historical comparison
+
+b. GDP effect of increase since 2015Q4
+Standard deviations
+from mean
+
+Percentage points
+0.2
+
+5
+
+3
+
+-0.2
+
+Broad uncertainty
+measure (standard BoE
+principal component)
+
+2
+1
+0
+
+-0.4
+-0.6
+
+Narrow uncertainty
+measure (ex media
+references, forecast
+dispersion)
+
+-1
+
+2020Q3
+
+2019Q3
+
+2018Q3
+
+-1
+2017Q3
+
+2014Q1
+
+2011Q1
+
+2008Q1
+
+2005Q1
+
+2002Q1
+
+1999Q1
+
+1996Q1
+
+1993Q1
+
+1990Q1
+
+1987Q1
+
+-3
+
+-0.8
+
+2016Q3
+
+-2
+
+2023Q3
+
+Narrow uncertainty measure
+(ex media references,
+forecast dispersion)
+
+0
+
+2022Q3
+
+4
+
+2021Q3
+
+Broad uncertainty measure
+(standard BoE principal
+component)
+
+Moreover, as discussed above, these different forecasts for GDP could have important implications for the
+current monetary policy trade-off – even if there is little difference in the corresponding inflation forecasts.
+The growth forecast based on the standard BoE measure of uncertainty is substantially weaker and
+corresponds to a larger output gap. As a result, this implies a more difficult trade-off for monetary policy as
+inflation overshoots the 2% target. The growth forecast based on the narrower measure of uncertainty (which
+excludes the two components that are less correlated with economic variables), suggests less weakness in
+GDP, a smaller output gap, and therefore less of a trade-off for monetary policy.
+
+The bottom line is that how uncertainty is measured can have material implications for our economic forecast
+and the corresponding path for monetary policy. Challenges in measuring uncertainty, and especially putting
+too much weight on less informative measures (such as media citations and GDP forecast dispersions),
+could have recently caused us to overestimate the impact of heightened uncertainty on the economy.
+
+are in levels. The effect of the uncertainty shock is estimated using a recursive identification scheme (or a Cholesky decomposition),
+where uncertainty is ordered last, meaning that shocks to uncertainty affect the other variables in the model with a one-quarter lag.
+18
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+18
+
+Isolating the Effects of Uncertainty from those in Credit Markets
+
+A final issue related to uncertainty that is critical for the MPC today is how much of the estimated effect of
+uncertainty results from the tighter credit conditions that usually correspond to heightened uncertainty –
+effects which might not occur if credit conditions did not deteriorate. Figure 11 captures this challenge. The
+yellow line is the standard BoE principal component measuring uncertainty (based on the broader set of 8
+variables) and the blue line is a measure of corporate borrowing spreads (a measure of credit conditions).
+These two measures usually move together fairly tightly (with a correlation of 0.73). Both have seen their
+sharpest increases during the same periods – such as around 1991 prior to the UK leaving the ERM (and
+allowing sterling to float), in 1998 when a large hedge fund collapsed (and generated turmoil in financial
+markets), and in 2008 during the global financial crisis (when both measures increased to their highest levels
+since the graph started).
+
+Figure 11. UK uncertainty and credit spreads
+
+When our models estimate the impact of heightened
+uncertainty on the economy, however, are they
+
+Standard deviations
+from mean/ Percent
+Uncertainty index
+
+2014
+
+2011
+
+2008
+
+2005
+
+2002
+
+1999
+
+1996
+
+1993
+
+1990
+
+1987
+
+Corporate borrowing
+spreads
+
+capturing just the effect of uncertainty? Or are they
+6
+
+also capturing the indirect effect of the increase in
+
+5
+
+borrowing spreads which tends to occur
+
+4
+
+simultaneously (and which may partly reflect
+
+3
+
+heightened uncertainty, but also other variables)?
+
+2
+
+Are the estimated and large effects of uncertainty
+
+1
+
+driven by periods when both uncertainty and credit
+
+0
+
+spreads spiked – especially by the large
+
+-1
+
+movements around the global financial crisis? If
+
+-2
+
+uncertainty increases but corporate borrowing
+spreads are relatively stable – will there be as large
+an economic effect?
+
+This issue of identifying the distinct effects of uncertainty from those of other types of financial shocks has
+recently been highlighted by several papers in the academic literature. This literature discusses how
+uncertainty tends to move in conjunction with not only corporate borrowing spreads, but also the yield curve,
+exchange rate, other credit spreads, and even commodity prices for some countries. Most papers make no
+attempt to isolate the various effects, as there is no straightforward way to distinguish them. The few papers
+that do try to isolate the effects generally find that both uncertainty and financial shocks affect various
+economic measures, but the impact of uncertainty shocks is significantly weaker when distinguished from
+financial shocks and/or financial frictions.
+
+20
+
+Some papers even find that, under certain setups for their
+
+estimation, the effects of pure uncertainty shocks are no longer significant in isolation.
+20
+
+See Caldara, Fuentes-Albero, Gilchrist and Zakrajsek (2016), Gilchrist, Sim and Sakrajsek (2014), Alfaro, Bloom and Lin (2016),
+Arellano et al. (2012), and Cesa-Bianchi, Pesaran and Rebucci (2014). Christiano, Motto and Rostagno (2014) argue that uncertainty
+shocks are more important than various financial shocks, but uncertainty works primarily through generating a higher cost of borrowing.
+19
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+19
+
+Gilchrist, Sim and Sakrajsek (2014) present a case study that highlights the importance of distinguishing
+between the effects of uncertainty and changes in credit conditions. They show that after the US stock
+market crash in 1987, there was a large increase in US uncertainty measures, but no substantial increase in
+credit spreads. They also find little effect of uncertainty and heightened volatility on the broader US economy
+at this time. This is far from definitive, but supports their hypothesis; financial conditions are an important
+channel by which uncertainty affects the broader economy. If uncertainty does not affect credit conditions,
+movements in uncertainty would have less impact on the economy.
+
+Does this also apply to the UK? The Appendix performs a similar case study for the UK. It examines the
+performance of GDP, consumption and investment during two periods (identified with circles in Figure 11)
+when uncertainty increased: around 2002 and 2008. In the first episode, credit conditions were fairly stable,
+while in the second episode they tightened sharply. The effects on real activity in 2002 were much more
+moderate, with only a small and short-lived slowdown in business investment, and no discernible impact on
+consumption or GDP, despite heightened uncertainty. These smaller effects on real activity from heightened
+uncertainty in 2002 remain, even after adjusting for the relative magnitudes of the changes in uncertainty
+across these periods. This comparison of the effects of heightened uncertainty in 2002 (when there was no
+corresponding tightening in credit conditions) with the episode in 2008 (when credit conditions tightened
+sharply) is obviously only suggestive. There are many other differences across these two episodes – and
+many reasons why real economic activity was substantially weaker in 2008 than in 2002. Nonetheless, this
+simple comparison does support the recent evidence in the academic literature that uncertainty could have
+less malignant effects on the real economy when credit conditions are relatively stable.
+
+In an attempt to test this hypothesis more formally, I will discuss one last piece of analysis. I re-estimate the
+SVAR model used earlier, using the standard BoE principal component measuring uncertainty. This
+framework allows for credit spreads to adjust automatically in response to various shocks (including
+uncertainty shocks). Then I assume a 1 unit increase in uncertainty (which is somewhat smaller than the 1.3
+standard deviation increase that occurred in the UK since end-2015). The blue lines in the each of the panels
+in Figure 12 show the estimated impulse responses for GDP, investment, consumption, and hours worked.
+As expected, economic activity falls for each of these four measures, with the sharpest fall in investment.
+
+20
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+20
+
+Figure 12. SVAR impulse responses to an uncertainty shock – with and without increase in credit spreads
+a. Uncertainty index
+
+b. GDP
+With credit spread response
+
+Percentage
+points
+
+Without credit spread response
+
+1.2
+
+With credit spread response
+Percentage
+points
+
+Without credit spread response
+
+0.5
+
+1
+
+0.0
+
+0.8
+0.6
+
+-0.5
+
+0.4
+
+-1.0
+
+0.2
+-1.5
+
+0
+
+-2.0
+
+-0.2
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+0
+
+28
+
+4
+
+8
+
+quarters after shock
+
+16
+
+20
+
+24
+
+28
+
+quarters after shock
+
+c. Business investment
+
+d. Consumption
+
+With credit spread response
+Percentage
+points
+
+12
+
+Without credit spread response
+
+With credit spread response
+Percentage
+points
+
+0.5
+
+0.5
+
+0.0
+
+0
+
+-0.5
+
+-0.5
+
+-1.0
+
+-1
+
+-1.5
+
+-1.5
+
+Without credit spread response
+
+-2
+
+-2.0
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+quarters after shock
+
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+quarters after shock
+
+e. Total hours
+With credit spread response
+
+Percentage
+points
+
+Without credit spread response
+
+0.2
+0.1
+0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+-0.6
+0
+
+4
+
+8
+12
+16
+20
+quarters after shock
+
+24
+
+28
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+21
+
+Next, I repeat the same exercise, except keep credit spreads unchanged.
+
+21
+
+This is not the same as
+
+controlling for any independent financial shocks, but given the challenges in accurately identifying and
+isolating these effects from uncertainty, this is a good approximation. The red lines in each of the panels in
+Figure 12 show the estimated effects. GDP, investment consumption, and hours worked still fall, but by less
+than when credit spreads also tighten simultaneously. More specifically, investment falls by about half
+relative to in the base case; consumption falls by about 60%, and GDP by about two-thirds of that in the base
+case. Moreover, this reduced drag on real activity occurs despite the fact that monetary policy is tighter in the
+simulation with no impact on credit spreads; if monetary policy was constant in these two scenarios, the
+differences between these two scenarios would be even greater.
+
+Although these scenarios should only be interpreted as rough simulations, they clearly suggest that the
+impact of heightened uncertainty on real activity could be substantially smaller if credit conditions do not
+simultaneously tighten. This has important implications for understanding and estimating the impact of
+uncertainty on the UK economy today. Although uncertainty has increased by many measures, including in
+the BoE’s principal component, credit spreads have not increased to nearly the same degree. In fact, credit
+spreads remained relatively stable during the period of heightened uncertainty just before the referendum,
+and fell immediately afterward, at least partly reflecting the MPC’s package of monetary easing. This is also
+supported by the BoE survey of credit conditions,
+
+22
+
+which shows that credit availability for households and
+
+firms remained stable in the third quarter of 2016. This stability in financial conditions and credit markets has
+helped support real activity in the UK, and may partially explain why uncertainty has seemed to create less
+drag than generally expected. For example, investment and housing have weakened somewhat less than
+expected, and consumption and GDP growth have been substantially stronger than expected. Although it is
+impossible to know the counterfactual, there does not appear to be a significant drag from uncertainty – at
+least not yet – on these measures of activity. Moreover, this analysis also suggests that this attenuated effect
+of uncertainty may persist if credit conditions remain supportive.
+
+IV. Conclusions
+
+What have we learned? Measuring uncertainty is hard. Measuring the impact of uncertainty on the economy
+is even harder. Its effects are multifaceted and work through much more than just business investment.
+Predicting the impact of uncertainty on the economy in the future is even harder still. Heightened uncertainty
+can have different effects based on credit conditions. Heightened uncertainty can not only weaken demand,
+but also the supply potential of an economy, making it more challenging for monetary policy to cushion its
+effects.
+
+There is much uncertainty about uncertainty.
+21
+
+More specifically, I assume positive credit shocks which offset the negative effect from uncertainty on credit spreads. There is also a
+small impact on the uncertainty measure, as shown in panel a.
+22
+
+Bank of England Credit Conditions Survey 2016 Q3. Available at:
+http://www.bankofengland.co.uk/publications/Pages/other/monetary/ccs/2016/q3.aspx .
+22
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+22
+
+Yet, as Voltaire said, “Uncertainty is an uncomfortable position. But certainty is an absurd one.”
+
+Although most measures of UK uncertainty are higher today than their historic averages, there is always
+uncertainty. Central banks are accustomed to operating under uncertainty; we must constantly make
+decisions based on predictions of highly uncertain variables in the future. Heightened uncertainty is no
+th
+
+th
+
+reason to change our approach to monetary policy. Unlike the 15 and 16 century monarchs, we have no
+whipping boy who will take the pressure off.
+
+Moreover, the strength of the UK economy during the period of heightened uncertainty before and after the
+referendum on EU membership suggests that uncertainty is dragging less on growth than has traditionally
+occurred. I have shown evidence for two possible explanations.
+First, some of the factors recently driving up uncertainty indices – such as heightened media attention and a
+wider dispersion in GDP growth forecasts – tend to have smaller effects on the broader economy than other
+measures of uncertainty. Adjusting uncertainty measures to reduce the importance of these less informative
+components suggests a smaller drag on growth from the recent increase in uncertainty.
+
+Second, heightened uncertainty usually corresponds to tighter credit conditions. When it does not,
+uncertainty seems to have less impact on the broader economy. Recently, most measures of credit
+conditions (such as corporate bond spreads and access to credit) have not tightened sharply. As a result,
+one of the standard mechanisms by which uncertainty traditionally slows growth may be less important
+today.
+
+Nonetheless, even though heightened uncertainty has recently appeared to have less effect on the UK
+economy than expected, that does not mean that it has had no effect, or will have no effect in the future.
+Most business surveys suggest that some companies are already delaying investment, or expect to do so
+over the next year. Some of the effects of heightened uncertainty only occur with substantial lags, including
+not just weaker investment, but also weaker wages and productivity growth, and therefore eventually weaker
+income and consumption. The effects of uncertainty through weakening the supply potential of the economy
+are likely to be even slower. Heightened uncertainty could have a larger or smaller impact over time if it
+continues for a prolonged period. And UK uncertainty measures could quickly shift – up or down – as more
+details on the future arrangement between the UK and EU are clarified.
+
+The MPC will continually be assessing the effects of uncertainty. We will also do what we can to reduce
+uncertainty when possible – such as by focusing on our remit, clarifying that we have the tools to either
+tighten or loosen monetary policy as needed, explaining how we make our decisions, and discussing the key
+variables that will be critical to these decisions. Uncertainty is just one of those variables.
+
+23
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+23
+
+References
+Alfaro, Ivan, Bloom, Nicholas and Lin, Xiaoji. (2016). “The Finance-Uncertainty Multiplier.“
+Stanford Mimeo, October 2016.
+Alessandri, Piergiorgio and Bottero, Margherita. (2016). “Bank Lending in Uncertain Times.”
+Mimeo, August 2016.
+Arellano, Cristina, Bai, Yan and Kehoe, Patrick. (2012). "Financial Frictions and Fluctuations in Volatility."
+Staff Report 466, Federal Reserve Bank of Minneapolis.
+Benito, Andrew. (2006). "Does Job Insecurity Affect Household Consumption?"
+Oxford Economic Papers, Oxford University Press, vol. 58(1), pp. 157-181, January.
+Bernanke, Ben. (1983). "Irreversibility, Uncertainty, and Cyclical Investment."
+The Quarterly Journal of Economics, Vol. 97, No. 1, pp. 85-106, February.
+Baker, Scott and Bloom, Nicholas. (2013). "Does Uncertainty Reduce Growth? Using Disasters as Natural
+Experiments." NBER Working Papers 19475, National Bureau of Economic Research.
+Baker, Scott, Bloom, Nicholas and Davis, Steven. (2016). “Measuring Economic Policy Uncertainty.” The
+Quarterly Journal of Economics, vol. 131(4), pp. 1593-1636, November.
+Bloom, Nicholas. (2009). “The Impact of Uncertainty Shocks.” Econometrica, Vol. 77, Issue 3, pp. 623-685,
+May.
+Bloom, Nicholas, Floetotto, Max, Jaimovich, Nir, Saporta-Eksten, Itay and Terry, Stephen. (2012).
+"Really Uncertain Business Cycles." NBER Working Papers 18245, National Bureau of Economic Research.
+Bond, Stephen, Moessner, Richhild, Mumtaz, Haroon and Syed, Murtaza. (2005).
+“Microeconometric Evidence on Uncertainty and Investment.” Institute for Fiscal Studies Mimeo, September.
+Broadbent, Ben. (2016). “Uncertain Times.” Available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech929.pdf.
+Burgess, Stephen, Fernandez-Corugedo, Emilio, Groth, Charlotta, Harrison, Richard, Monti, Francesca,
+Theodoridis, Konstantinos and Waldron, Matt. (2013). "The Bank of England's forecasting platform:
+COMPASS, MAPS, EASE and the suite of models." Bank of England Working Papers 471, Bank of England.
+Caldara, Dario and Iacoviello, Matteo. (2016). “Measuring Geopolitical Risk.” Mimeo, September.
+Caldara, Dario, Fuentes-Albero, Cristina, Gilchrist, Simon and Zakrajšek, Egon. (2016).
+"The Macroeconomic Impact of Financial and Uncertainty Shocks." European Economic Review, vol. 88(C),
+pp. 185-207.
+Carney, Mark. (2016). “Uncertainty, the Economy and Policy.” Available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech915.pdf.
+Carroll, Christopher. (1997). "Buffer-Stock Saving and the Life Cycle/Permanent Income Hypothesis." The
+Quarterly Journal of Economics, Vol. 107, No. 1, pp. 1-56, February.
+Cesa-Bianchi, Ambrogio, Pesaran, M. Hashem and Rebucci, Alessandro. (2014).
+"Uncertainty and Economic Activity: A Global Perspective." CESifo Working Paper Series 4736, CESifo
+Group Munich.
+Christiano, Lawrence, Motto, Roberto and Rostagno, Massimo. (2014).
+"Risk Shocks." American Economic Review, vol. 104, No. 1, pp. 27-65.
+
+24
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+24
+
+Disney, Richard, Haskel, Jonathan and Heden, Ylva. (2003).
+"Restructuring and Productivity Growth in UK Manufacturing." Economic Journal, vol. 113(489), pp. 666-694.
+Dixit, Avinash, & Pindyck, Robert. (1994). “Investment under Uncertainty.” Princeton University Press.
+Fernández-Villaverde, Jesús, Guerrón-Quintana, Pablo, Kuester, Keith, and Rubio-Ramírez, Juan. (2015).
+“Fiscal Volatility Shocks and Economic Activity.” American Economic Review, vol. 105(11), pp. 3352-3384.
+Gilchrist, Simon, Sim, Jae and Zakrajšek, Egon. (2014). "Uncertainty, Financial Frictions, and Investment
+Dynamics." NBER Working Papers 20038, National Bureau of Economic Research.
+Haddow, Abigail, Hare, Chris, Hooley, John and Shakir, Tamarah. (2013). “Macroeconomic Uncertainty:
+What is it, How Can we Measure it and Why Does it Matter?” Bank of England Quarterly Bulletin, Q2.
+Johnson, Robert and Noguera, Guillermo. (2012). “Fragmentation and Trade in Value Added over Four
+Decades.” NBER Working Paper No. 18186. National Bureau of Economic Research.
+Lazear, Edward and Spletzer, James. (2012).
+"Hiring, Churn, and the Business Cycle." American Economic Review, vol. 102(3), pp. 575-79, May.
+Mumtaz, Haroon and Theodoridis, Konstantinos. (2015). “Common and Country Specific Economic
+Uncertainty.” Working Paper no. 752. Queen Mary University of London.
+Pistaferri, Luigi. (2016). “Why Has Consumption Remained Moderate after the Great Recession?”
+Mimeo, October.
+Romer, Christina. (1990). “The Great Crash and the Onset of the Great Depression.”
+The Quarterly Journal of Economics 105(3), pp. 597-624.
+Weale, Martin. (2016). “What’s Going On? Uncertain Data and Uncertain Outcomes.” Available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech907.pdf.
+Whaley, Robert. (2000). “The Investor Fear Gauge.” Journal of Portfolio Management, vol. 26, pp. 12-17.
+
+25
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+25
+
+Appendix
+
+This appendix performs a case study of UK economic performance during two periods of heightened
+uncertainty: one when credit conditions simultaneously tightened, and one when credit conditions remained
+relatively stable. It is only one example, but supports the hypothesis discussed in Section III that economic
+performance may be less affected by heightened uncertainty if such an increase in uncertainty does not
+correspond to tighter credit conditions.
+
+Figure 11 suggests that there are limited episodes when a sharp increase in uncertainty did not correspond
+to a sharp increase in corporate borrowing spreads. The best example is in 2001 through early 2003
+(hereafter the “2002 episode”), when uncertainty increased to above its historic average, but corporate
+th
+
+borrowing spreads were fairly steady and then fell slightly. This was the period after the Sept 11 terrorist
+attacks in the US, and then the subsequent invasion of Afghanistan, increase in oil prices, and bursting of
+the technology bubble.
+
+Next, in order to assess what happened to the economy during this period of heightened uncertainty (but not
+heightened credit spreads), I will make several comparisons to the period around 2008 – when both
+uncertainty and credit spreads were sharply elevated. To clarify the comparison and different developments
+in financial markets over these periods, the left side of Appendix Figure A shows trends during the earlier
+episode around 2002, and the right side shows the same data for the later period around 2008. Panels a and
+b show the evolution of uncertainty (which increased in both periods, albeit more sharply in 2008), and of
+several measures of credit conditions – overall credit spreads, corporate bond spreads, and corporate
+borrowing spreads (which all increased sharply in 2008, but not in 2002). Next, panels c and d show the
+corresponding trends in real activity, measured by the cumulative changes in the levels of GDP, consumption
+and business investment. All measures of real activity fell sharply after 2007, especially business investment.
+The effects in 2002 were much more moderate, however, with a small and short-lived slowdown in business
+investment (note the difference in the scales on the two graphs), and no discernible impact on consumption
+or GDP.
+
+Of course, given the much larger increase in uncertainty during 2008 relative to 2002, one would have
+expected a larger and more discernible impact on real activity in the later episode. Therefore, in order to
+assess if the smaller impact on real activity in 2002 was simply proportional to the smaller increase in
+uncertainty that occurred at that time, panels e and f plot the standardized growth rates in GDP, investment
+and consumption in the three years after 2001 q1 and 2007 q2, respectively, against the uncertainty
+measure. Panel e shows that the increase in uncertainty in the 2002 episode was associated with marginally
+lower GDP, consumption and investment growth - but the coefficients are all close to zero, the lines are close
+2
+
+to flat, and the regressions have little explanatory power (as shown by the low R ’s). In contrast, the
+estimated correlations during the 2008 crisis period were much bigger; the lines are very steep, and the
+explanatory power of the simple regressions much higher. There is no evidence that the weaker impact of
+26
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+26
+
+uncertainty in 2002 relative to 2008 corresponded to the smaller movement in uncertainty in the earlier
+period.
+
+This comparison of the effects of heightened uncertainty in 2002 (when there was no corresponding
+tightening in credit conditions) with the episode in 2008 (when credit conditions tightened sharply) is
+obviously only suggestive. There are many other differences across these two episodes - and many reasons
+why real economic activity was substantially weaker in 2008 than in 2002. Nonetheless, this simple
+comparison does support the recent evidence in the academic literature that uncertainty could have less
+malignant effects on the real economy when credit conditions are relatively stable.
+
+Appendix Figure A. Two episodes of heightened uncertainty in the UK
+a. Uncertainty and credit spreads (2001q1=0)
+
+b. Uncertainty and credit spreads (2007q2=0)
+
+Standard deviations
+from mean/ Percent
+
+Standard deviations
+from mean/ Percent
+6
+
+2.5
+Uncertainty index
+Corporate borrowing spreads
+Corporate bond spreads
+Overall borrowing spreads
+
+1.5
+0.5
+
+5
+4
+3
+
+-0.5
+2
+-1.5
+
+1
+
+2009Q2
+
+2004Q2
+
+c. Real activity (2001q1=0)
+
+2008Q2
+
+-1
+2007Q2
+
+-3.5
+2006Q2
+
+0
+2005Q2
+
+-2.5
+
+2004Q1
+
+2003Q1
+
+2002Q1
+
+2001Q1
+
+2000Q1
+
+1999Q1
+
+1998Q1
+
+Uncertainty index
+Corporate borrowing spreads
+Corporate bond spreads
+Overall borrowing spreads
+
+d. Real activity (2007q2=0)
+Percentage
+points
+
+GDP
+
+20
+
+Business investment
+
+15
+
+Percentage
+points
+
+GDP
+Business investment
+
+5
+
+Consumption
+
+0
+
+Consumption
+
+10
+-5
+
+5
+
+-10
+
+-25
+2009Q2
+
+-15
+2008Q2
+
+-20
+
+2007Q2
+
+-10
+2006Q2
+
+-15
+
+2005Q2
+
+-5
+
+2004Q2
+
+2004Q1
+
+2003Q1
+
+2002Q1
+
+2001Q1
+
+2000Q1
+
+1999Q1
+
+1998Q1
+
+0
+
+27
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+27
+
+e. Relationship between Uncertainty (x-axis) and
+
+f. Relationship between Uncertainty (x-axis) and
+
+GDP, Consumption, Business Investment growth
+
+GDP, Consumption, Business Investment growth
+
+(y-axis) in the three years after 2001q1
+
+(y-axis) in the three years after 2007q2
+
+2
+1.5
+
+Consumption
+
+0
+y = -0.19x + 0.54
+R² = 0.17
+
+0.5
+0
+-0.5
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+-1
+
+1.5
+
+-0.5
+y = -0.07x + 0.37
+R² = 0.01
+
+-3
+y = -0.87x - 0.06
+R² = 0.85
+
+-4
+-1.5
+-2
+
+5
+y = -0.63x + 0.04
+R² = 0.58
+
+-2
+0.5
+
+-1
+
+1
+
+Business investment
+
+1
+
+-1.5
+
+GDP
+Consumption
+Business investment
+
+2
+
+GDP
+y = -0.01x - 0.36
+R² = 0.00
+
+-5
+
+y = -1.10x + 0.17
+R² = 0.86
+
+28
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+28
+
+

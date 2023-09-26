@@ -1,0 +1,796 @@
+Inflation and beliefs about inflation
+Speech given by
+Ben Broadbent, Deputy Governor Monetary Policy
+
+London Business School
+4 March 2020
+
+I’ve received helpful comments from colleagues at the Bank of England. I’d particularly like to thank
+Mette Nielsen, Kate Reinold, Fergus Cumming and Ryland Thomas for their help in preparing the
+speech. The views expressed are my own and do not necessarily reflect those of the Bank of
+England or other members of the Financial Policy Committee or the Monetary Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+Hello!
+My topic today is inflation. This shouldn’t be too surprising, given our remit. The stability of inflation is the
+MPC’s primary objective and it’s the medium-term outlook for inflation that matters most for monetary policy.
+This talk won’t be about the current outlook. However, I thought I’d begin with some brief remarks about the
+potential impact of the coronavirus outbreak. This is, above all else, a matter of human health and welfare.
+In that respect we are fortunate in this country to have the infrastructure and expertise in public health that
+we do. As we’ve seen from the experience of other countries, however, the spread of the virus, and the
+measures to contain that spread, can also have a very significant impact on economic activity. Judging by
+past episodes it’s likely that the impact will ultimately be temporary. As such, the outbreak should not directly
+affect the longer-term viability and productive potential of most businesses or of the economy as a whole.
+Precisely for that reason, there may therefore be a role for economic policy to support activity and the
+provision of credit in the meantime, in order to ensure that short-term disruption doesn’t result in longer-term
+damage. We are in regular and close contact with government officials and with our peers in other central
+banks. As the Governor indicated in a statement yesterday the Bank’s three policy committees – the MPC,
+FPC and PRC – met on Monday and discussed a range of macro-economic and financial scenarios. We will
+continue to monitor closely these fast-moving developments and to consider any policy response as
+appropriate.
+For the MPC what matters most in this respect will be the potential medium-term impact on inflation. As I’ve
+said, however, my focus today is more about the longer-term history and what that might teach us about how
+inflation is determined. More specifically, I want to discuss the risks of ignoring or underplaying the central
+role of monetary policy in that process.
+If by “longer term” one meant only the last quarter century that history is exceptionally (and reassuringly) dull.
+Consumer price inflation has been even more stable in the past 25 years than it was during the period of the
+international gold standard (1871-1914). In fact, if you believe the estimates of consumer prices the Bank
+has compiled – a series that extends back to the early 13th century – this has been the most stable
+quarter-century for inflation in (at least) 800 years. Chart 1 plots the rate of inflation (in red), and its
+variability (in blue), over the more modern part of that history, from 17001.
+This is a good thing. It’s extremely difficult for businesses to make decisions, or for an economy to function
+near its full potential, if prices are volatile and unpredictable. That’s why, after such a long period of highly
+
+1
+
+The inflation series is averaged over two-year periods, to avoid exaggerating its volatility early in the sample, when there is more likely
+to be measurement error in the level of prices.
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+2
+
+Chart 1: Inflation stable when monetary policy has a clear and stable objective, less so otherwise
+
+Sources: Thomas and Dimsdale (2017) (based on Crafts and Mills (1994), Feinstein (1991), Feinstein (1998), Mitchell (1988),
+O'Donoghue et al (2004), ONS, and Bank calculations) and Bank calculations.
+
+unstable inflation, extending as far back as the suspension of the gold standard at the outbreak of the First
+World War, the UK government finally settled in 1992 on a fixed inflation target2.
+Welcome though it has been, however, one side-effect of inflation’s stability has been to obscure its
+underlying causes. Unable to conduct laboratory experiments, economists rely on their natural equivalents –
+testable variations in the real-world data – to uncover the underlying economic relationships. Even then it’s
+not always straightforward to extract signal from noise or to separate cause from effect. It’s just that much
+harder if you take those variations away. In particular, it’s more difficult to contest two related claims that
+have been made quite often about inflation in recent years3. One is that its stability is mainly the result of
+some structural factor or other – examples I’ve seen include globalisation, de-unionisation and the internet –
+rather than the inflation targeting regime for monetary policy. Another is that, even if it ever had such a
+power, monetary policy has lost its ability to affect inflation.
+
+This charge of monetary impotence comes in various forms. If the transmission of monetary policy occurs
+archetypically in stages – from the instrument of policy to asset prices and broader financial and credit
+conditions; from financial conditions to spending and demand; and then from the pressure of demand on
+supply to inflation – then all three have at various times been questioned. Perhaps, in a globalised financial
+system, a single country’s monetary policy has little impact on its domestic financial conditions. Maybe
+demand is no longer sensitive to those financial conditions anyway – look at how weak economic growth has
+been in recent years, despite low interest rates. And even when economies have improved, not much has
+2
+
+There has been one change in that period. In 2003 the target was altered from a rate of 2½% a year as measured by RPIX to 2% for
+CPI inflation. However, given the average spread between the two at the time the change had little impact (by design) on appropriate
+monetary policy or for medium-term inflation expectations.
+3
+See, for example, FT (2017), Borio (2017), FT (2019a) and FT (2019b).
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+3
+
+happened to prices, so maybe inflation is in any case insensitive to the pressure of demand on supply. The
+claim is that, if it’s not altogether extinct, the so-called Phillips curve – the relationship between inflation and
+the degree of excess demand in the economy (sometimes called the “output gap”) – has at least become a
+lot weaker4.
+
+I think this scepticism is overdone. More than that, I think the view that monetary policy is structurally unable
+to affect inflation carries quite a bit of risk with it. It can encourage inaction, in cases both when inflation is
+persistently low and also when it’s too high. In today’s talk I want to expand on this point.
+
+In the case for the defence against the charge of monetary impotence exhibit A might well be the longer-term
+history in Chart 1. If monetary policy had no impact on inflation then nor would changes in the monetary
+regime. That’s clearly not the case. During the centuries of experience we’ve had in this country the only
+two periods in which inflation has been reasonable stable overlap precisely those in which there’s also been
+a stable goal for policy and an operationally independent authority to meet it. It would be a very striking
+(and, to my mind, implausible) coincidence if that were simply down to chance.
+
+Beyond this, and in the body of the speech, I will make three broad points.
+The first concerns the empirical relationship between inflation and the output gap. All I’ll do here is to
+re-iterate a point that’s been made by many others, including my fellow MPC member Silvana Tenreyro.
+When monetary policy successfully stabilises inflation you wouldn’t necessarily expect to find much of a
+correlation with the output gap in the realised data, even when there’s a robust causal link in the underlying
+economy. That’s because policy will actively seek to counteract the very things – persistent shocks to
+demand – that would trace it out. In fact, to the extent inflation is also affected by things other than demand
+– things that policy will be inclined to offset – the measured correlation with the output gap could even be
+negative. The general lesson is to take care in making inferences from simple correlations. Unless you’ve
+estimated a truly “structural” relationship, one that’s invariant to policy, the objectives and conduct of policy
+will in general affect your results.
+The second point involves the low inflation “traps”. This is one situation where monetary policy – a one-off
+policy action, at least – can lose its grip. Ever since Keynes, and his description of what happened in the
+Great Depression, economists have recognised that inflation might get stuck at very low levels. The two
+jaws of the trap are the lower bound for nominal interest rates and the risk that people come to expect low
+inflation to persist. If inflation expectations are sufficiently low then, even with nominal rates at their lower
+bound, real interest rates may be too high to sustain demand, keeping actual inflation below target. Closing
+from the other direction, persistently low inflation could, in its turn, confirm and encourage the subdued
+expectations.
+4
+
+One often comes across more than one of these ideas in a single piece of economic commentary. Though descriptions of it vary,
+“Modern Monetary Theory” – a collection of claims connected with the financing of government deficits – seems to hold to all of them at
+once. In MMT (so-called) monetary policy is thrice damned.
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+4
+
+Under these circumstances a one-off expansion of monetary policy can prove ineffective. If their yields are
+depressed right along the maturity spectrum government bonds start to look a lot like central bank money –
+they’re both safe, low-yielding and liquid assets – and the act of exchanging one for the other (i.e. QE) won’t
+necessarily do much to asset prices or demand. This presents an important caveat to the claim that
+monetary policy can always and easily control demand and inflation.
+To be clear, I don’t think the UK is at or close to such a situation currently. In recent years, even with interest
+rates somewhat above the lower bound, monetary policy has been sufficiently loose for demand to have
+outstripped supply (the rate of unemployment and the general level of spare capacity in the economy have
+declined). Nor have there been any signs of inflation expectations slipping the anchor of the inflation target.
+More generally, it’s important to understand that these traps are not intrinsically inescapable. In theory, the
+monetary authority could climb out of one if, in addition to easing policy today, it were able to make a credible
+commitment to “over” expansionary policy in the future: a believable promise to keep policy easy even in the
+event of something that would tend to push inflation up (and that would normally be met with higher interest
+rates). This is the caveat to the caveat.
+
+In reality, of course, convincing people of this may not be a straightforward task, particularly if inflation has
+been persistently below target for a long time. But if the obstacle to it is a mistaken scepticism that monetary
+policy could ever do anything – that weak inflation is an unavoidable fact of life and that attempts to escape it
+are therefore pointless – then it becomes all the more important to challenge that view. This may be relevant
+for the current debates about monetary policy in the euro area.
+
+The third point involves the same sorts of risks but this time in the face of high inflation. In the UK of the
+1950s and 1960s, the Bretton Woods fixed-exchange rate system helped to keep a lid on price rises. It also
+meant domestic monetary policy had little room to respond to domestic developments5, devoted as it was to
+maintaining sterling’s external value.
+At the same time the idea that it wouldn’t really be of much help in stabilising inflation anyway, even were
+one free to use it for such a purpose, was actually pretty widespread. In fact, it’s not too much of an
+exaggeration to say that the belief that monetary policy didn’t really matter much for inflation – that interest
+rates did little to demand and (in particular) that demand did little to prices – was close to an accepted truth in
+the British economic establishment of the time. Somehow, Keynes’s description of the particular
+circumstances of the Great Depression had come to be seen as immutable laws, things that prevailed under
+any and all economic circumstances.
+
+5
+
+More precisely, policy had little room to respond to domestic developments except to the extent those were consistent with the fixed
+exchange rate. At least until the late 1950s, when they began to be relaxed, exchange controls will also have increased the room for
+manoeuvre.
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+5
+
+As such, that establishment was not well prepared for the inflation that followed, after the demise of the
+Bretton Woods system during the late 1960s and early 1970s. Indeed I think it’s likely that the very high
+inflation of that period was in part the result of these mistaken beliefs. It’s certainly hard to imagine the
+problem would have been as severe or as protracted as it was had there been more confidence in (and
+understanding of) the means of controlling it.
+
+(Mis)-estimating the Phillips curve
+So let’s start with the empirical relationship between price inflation and output (more specifically the
+difference between actual output and the economy’s supply capacity, known as the “output gap”). This is
+sometimes called the “price Phillips curve” to distinguish it from the relationship between wages and
+unemployment that was actually the focus of Phillips’s original work.
+
+As Silvana has explained there are two essential points here. One is that, by acting to stabilise inflation, the
+monetary authority leans against the very things – persistent demand shocks – that would make it easy to
+see the Phillips curve in the actual economic data. The second – and related – point is that, if you look at
+measures of prices other than those targeted by central banks, you do often find a reliable relationship
+between pressures on real resources on the one hand and inflation on the other.
+
+One way to illustrate the first point is to simulate an economy where, by construction, the Phillips curve works
+– increases in demand are inflationary – but in which there’s also a monetary authority whose primary
+objective is to stabilise inflation. Realistically, we’ll suppose that it takes a little time for policy to take effect.
+This means that the monetary authority won’t be able to offset demand shocks in full. Any residual variations
+in the output gap would tend to induce a positive correlation with inflation in the actual data.
+However, and also realistically, we’ll allow too for the existence of things that move inflation around
+independently of demand, things that an inflation-targeting central bank will therefore be inclined to lean
+against. Because this involves moving demand in the opposite direction – developments that boost inflation
+will be met with contractionary monetary policy – shocks like this will tend to induce a negative correlation, in
+the realised data, between inflation and the output gap6. (An example of something that can affect inflation
+
+In symbols, we suppose the output gap y is set by policy up to some white-noise control error εD, with standard deviation σD. The
+policymaker acts under discretion to minimise the expected present value of π2+λy2 where π is inflation and λ the weight placed on
+stabilising the output gap. The true slope of the Phillips curve is β and inflation also depends on the two disturbances s and εS: 𝜋 =
+𝛽𝑦 + 𝑠 + 𝜀𝑆 . The distinction is that s is known when policy is set while εS (a forecast error) is not. There are no restrictions on s so it
+could include the common “New Keynesian” case in which inflation depends on a combination of lagged inflation and inflation
+expectations. In general it captures any pure inflation shock that matters at policy-relevant horizons. The standard deviation of s is σS.
+We’re interested in the result of a regression of π on y and in particular the expected value of the regression coefficient.
+6
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+6
+
+Chart 2: When monetary policy targets inflation a
+simple regression will under-estimate the impact of
+demand
+
+at policy-relevant horizons, other than the simple
+pressure of demand, might be the direct impact
+on CPI inflation of changes in sterling’s exchange
+rate – so-called “pass-through”).
+What we’re interested in is what you’d expect to
+find if, using the out-turns for inflation and the
+output gap generated by such an economy, you
+regressed one on the other. It turns out that,
+even in a relatively general setting, you can work
+out this number exactly (Chart 2).
+
+The answer depends on the extent of these pure
+(“trade-off-inducing”) inflation shocks, relative to any residual variations in demand that monetary policy is
+unable to offset. When there aren’t any such things – if the only thing that matters for inflation at
+policy-relevant horizons is the output gap – then the regression will provide an unbiased estimate of the true
+slope of the Phillips curve (β in the graph). But in general, during an inflation targeting regime, the estimate
+will be biased downwards7. And the more important these “trade-off-inducing” shocks, relative to any
+residual movements in demand – in Chart 2, the further you move to the right – the greater the extent of that
+bias. To make this a little more real Charts 3a and 3b generate data from such a model – the first when
+demand shocks predominate, the second where pure inflation shocks are more important – and you can see
+how the simple, “reduced-form” relationship between output and inflation shifts.
+
+Chart 3a: When demand shocks predominate
+correlation between inflation and output gap
+will at least be positive…
+
+Simulation of inflation and output gaps assuming 𝜎𝑆 = 0.1 and
+𝜎𝐷 =0.5.
+
+Chart 3b: … but the correlation can turn negative
+when inflation shocks are more prevalent
+
+Simulation of inflation and output gaps assuming 𝜎𝑆 = 0.5 and
+𝜎𝐷 =0.1.
+
+Econometrically, the regression of π on y alone suffers from a simple “missing variable” problem – in this case the “s” term(s). In
+general this biases the remaining regression coefficients towards zero. The problem here is worse because, in an inflation-targeting
+regime, policy will actively lean against anything that affects inflation at policy-relevant horizons and in particular variations in s. This will
+introduce a source of negative correlation between y and π. The extent of the bias depends on the importance of these s disturbances
+relative to any residual variation in demand, σS/σD.
+7
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+7
+
+It’s important to understand that this result depends on what monetary policy is being asked to do (in this
+case to target inflation). If the policy regime changes the downward bias may no longer hold. For example,
+if inflation expectations are very volatile – perhaps because people come to understand that the monetary
+authority doesn’t care much about inflation – then the empirical Phillips curve will appear to steepen8. That’s
+just because inflation would move up and down a great deal, un-tempered by policy and independently of the
+output gap. The more general point is that, unless you’re estimating a truly structural relationship –
+something that’s invariant to policy – your results will depend on what policy is doing.
+
+This is, of course, a negative sort of point: it says only that you cannot, on the basis of the bare correlations
+alone, refute the existence of a Phillips curve for price inflation. It doesn’t positively prove there is one. But
+there is such evidence – evidence more broadly that pressure on real resources produces nominal inflation –
+if you look away from the particular rates of inflation central banks have been asked to target.
+
+Take the labour market in the UK. Chart 4 plots the relationship between unemployment and wage growth.
+It’s clear this “wage Phillips curve” has shifted down in the past few years, in response to lower productivity
+growth since the crisis. But there’s no evidence the slope has declined: it was negative in the twenty years
+until 2012 and it’s been equally so since. In fact, not only are the slopes of the two lines in Chart 4 very close
+to each other, they’re also pretty much identical to what you get from Phillips’s data, which run from
+1861-1913, in his original 1958 paper9 (Chart 5).
+
+Chart 4: UK Phillips curve: down but not out
+
+Chart 5: Relationship between unemployment
+and wages similar to that during Gold Standard
+(1861-1913)
+
+Sources: ONS, Bank of England, and Bank calculations.
+
+Sources: Thomas and Dimsdale (2017) (based on Boyer and
+Hatton (2002), Crafts and Mills (1994) and Bank calculations), and
+Bank calculations.
+
+8
+
+The fact that the empirical Phillips curve will depend on the behaviour of inflation expectations was the central point made by Milton
+Friedman in his famous presidential address to the American Economic Association, over 50 years ago (Friedman (1968)).
+9
+There is no clear relationship between UK unemployment and wage growth, at least in the simple reduced form data, after 1914 and
+until the introduction of inflation targeting in 1992 (see, for example, Chart 11 below). The fact that the relationship emerges only when
+there’s a stable monetary regime, in which inflation expectations are relatively stable, would seem to bear out very well Friedman’s
+point.
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+8
+
+Similarly, Silvana and her co-author Michael McLeay illustrate that the estimated slope of the Phillips curve is
+steeper in regional US data than at the level of the whole economy (Charts 6a and 6b contrast the two).
+Jan Vlieghe (2018) made a similar point with sectoral wage data in the UK. Levy (2019) investigates the
+relationship between unemployment and wage growth in the euro area, again using regional data, and again
+finds a significant underlying relationship.
+
+Chart 6a: Phillips curve at the level of the whole
+economy relatively flat
+
+Chart 6b: The curve is steeper at a regional level
+
+Charts reproduced from McLeay and Tenreyro, forthcoming in NBER Macroeconomics Annual 2019, Volume 34, edited by
+Martin Eichenbaum, Erik Hurst, and Jonathan Parker, from the University of Chicago Press. Chart 6a illustrates the pooled OLS
+regression, Chart 6b a regression with year and metro area fixed effects. Data in the charts have been averaged across 100 equal
+sized bins according to the unemployment rate.
+
+Low inflation traps and “low for long” guidance
+
+Let me now turn to the potential problem of persistently low inflation and the potential, in particular, for low
+inflation “traps”. We know from both experience and theory that, in these circumstances, policy can lose its
+grip.
+Our understanding of them has its origins in Keynes’s description of the Great Depression, in his “General
+Theory” of 1936. The problem, according to Keynes, was not simply that there was a floor (at or near zero)
+for short-term nominal interest rates. It was that longer-term rates might become similarly constrained, in
+which case even QE, a policy that Keynes had strongly advocated in the early stages of the Great
+Depression, might lose its power to influence financial conditions and ultimately spending.
+The description of this “liquidity trap”10 in the General Theory wasn’t a very precise one. A much more
+theoretically coherent version was set out by the economist Paul Krugman in 1998. What creates the “trap”,
+in Krugman’s framework, is that low realised rates of inflation start to depress people’s expectations of future
+inflation. With nominal interest rates already constrained, and unable to fall any further, this raises real
+The term “liquidity trap” wasn’t Keynes’s term – it was actually coined in 1940 by the economist Denis Robertson. It was then adopted
+and promoted by the great economist John Hicks, who in 1937 had come up with the IS-LM framework as a simple, rigorous
+representation of Keynes’s thinking.
+10
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+9
+
+interest rates and weakens demand. Weak demand, in its turn, keeps inflation low, confirming the initial
+pessimism of depressed inflation expectations.
+
+In this environment even QE can lose its power. If nominal yields are depressed right along the maturity
+spectrum investors start to view government bonds and central bank money as very similar assets. As such,
+exchanging one for the other (which is what QE involves) has little direct effect. If I buy from the private
+sector something that’s come to be seen as perpetually low-yielding, safe, and liquid, and pay for it with
+another low-yielding, safe, liquid asset (central bank money), it’s not really going to do that much. Whether
+they involve yield, risk or liquidity, QE depends for its effects on the differences between pure money (central
+bank reserves) and government debt11.
+Krugman’s interest in this issue went beyond the academic. He was writing at a time when Japan had just
+started to experience deflation and when its official interest rates were close to zero. Since then, it seems
+clear the “neutral” rate of interest – the level of real policy rates required to keep activity and inflation on an
+even keel – has declined significantly, across the world. This means that, even if inflation expectations stay
+anchored to the target, there’s a higher chance that actual policy rates might become constrained at the
+nominal lower bound, priming one of the jaws of the trap.
+Just to be clear, I don’t think there’s any evidence that the UK economy is in or even near such a trap.
+Demand growth has been enough to depress the rate of unemployment over a period of several years now.
+We can conclude that policy has clearly been supportive enough, even with interest rates above the lower
+bound, to ensure that demand has outstripped supply (Chart 7). And although inflation has at times fallen
+below target, there’s no sign of any overall bias in recent years, nor any indication that inflation expectations
+have drifted downwards. Financial market measures are very close to their historical averages (Chart 8).
+But the more general and important point is that that even when caught in this “trap” monetary policy is not
+wholly powerless. The key would be to break the link between low actual inflation and subdued expectations
+of future inflation. If the monetary authority can convince people that it will accommodate any positive
+inflationary shocks in future – and if there’s any chance of them at all such shocks are bound to crop up at
+some point – this can help raise inflation expectations even when actual inflation is below target. As
+Krugman puts it: “If investors believe that the central bank will keep the pedal to the metal even as the
+economy begins to recover, this will imply higher inflation than if it hikes rates at the first hint of good news…
+
+11
+
+Wallace (1981) had already made the more general point that, if there was no liquidity advantage to holding money, QE would in
+general be ineffective. The argument was similar to the Modigliani-Miller result for corporate balance sheets. In general, when shortterm interest rates were above zero, this liquidity advantage clearly existed (who would otherwise hold something that was clearly
+inferior to other short-term assets in terms of its yield). As such, the neutrality result doesn’t apply in normal times. When short-term
+interest rates are zero, however, this “Wallace neutrality” of QE is re-introduced (e.g. Eggertsson and Woodford (2003)).
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+10
+
+Chart 7: Unemployment has been falling: policy
+has been supportive enough for demand to
+outstrip supply
+
+Chart 8: UK inflation compensation close to its
+historical average
+
+Sources: ONS, Eikon by Refinitiv, and Bank calculations.
+
+UK rates are derived from index-linked gilts. US and Euro area
+rates are based on inflation swaps.
+Sources: Bloomberg Finance L.P, Tradeweb and Bank
+calculations.
+
+higher expected inflation means a lower real interest rate, and therefore a stronger economy... the central
+bank can still get traction if it can change expectations about future policy”12.
+
+This may not be an easy thing to do. After all, you might be trying to convince people that, even once the
+deflationary threat has passed, and in the event of a development to which the normal response would be to
+tighten policy, the monetary authority of the future – perhaps quite some time into the future – will instead sit
+on its hands.
+It’s possible that some sort of public commitment – a promise to keep policy easy until inflation reaches or
+even overshoots the target for a while – would help. This is the point of “low-for-long” forward guidance, a
+pledge by the central bank to keep policy rates at very low levels for a protracted period13. More recently,
+some economists – including former Fed Chair Ben Bernanke – have suggested that, if inflation has fallen
+below target for a while, the monetary authority should explicitly attempt to make up for that by overshooting
+for a period in future14.
+
+What would not help, in situations where this trap is a risk, is to signal that policy will react aggressively to
+the first signs of inflationary life. Positively unhelpful, it seems to me, is the suggestion that the right
+response to persistently undershooting the target is simply to lower that target. Moving the goalposts in this
+
+12
+
+Krugman (2013).
+Reifschneider and Williams (2000). It’s interesting that Keynes had recommended something similar in the early phase of the Great
+Depression. In order to depress the longer-term interest rate, which he saw as an important determinant of investment spending, he
+argued in 1930 that “it might be sufficient merely to produce a general belief in the long continuance of a very low rate of short-term
+interest”. He also recognised the importance of a public commitment to that strategy: “A monetary policy which strikes public opinion as
+being experimental in character or easily liable to change may fail in its objective” (Keynes (1936)).
+14
+Bernanke (2020); see also the recent speech by Fed Governor Lael Brainard (Brainard (2020)).
+13
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+11
+
+way will do little to stabilise inflation expectations, except perhaps at levels that provide even less space for
+monetary policy to react to negative shocks.
+
+The inflation of the 1970s
+
+The potential for the low-inflation trap exists because of the interaction between the lower bound for policy
+rates and the risk that inflation expectations become dislodged from the target rate.
+There’s no equivalent high-inflation trap because there’s no equivalent upper bound for interest rates. But
+there’s little doubt that, if people become used to high inflation, and expect it to continue, reversing course
+can become a more arduous and painful task. To see this, and if you’ll forgive the use of symbols, it’s helpful
+to write down the basic structure of the Phillips curve that most economists tend to use these days:
+Inflation = a x inflation expectations + b x lagged inflation + β x the output gap + other, “cost-push” shocks
+where a, b and β are fixed numbers15. What this implies, amongst other things, is that you have to work
+harder to get inflation down – you need a more negative output gap – if inflation expectations are themselves
+unresponsive to tighter policy. And after over a decade of extremely high and volatile inflation, this is the
+situation in which the UK authorities found themselves in the late 1970s.
+
+In the mid-1960s, when the UK was still subject to the constraints of the Bretton Woods fixed-exchange rate
+system, inflation had been relatively well contained. But when that system then began to break down, and
+when it was subsequently given an additional boost by higher oil prices, inflation rose very sharply. That was
+true everywhere in the developed world, but the problem was significantly more severe in the UK than
+elsewhere (Chart 9). During the 1970s, consumer prices in the UK went up by 13% a year, on average,
+compared with 7% in the US and 5% in Germany. And although policy rates were clearly higher than in the
+1960s, they remained below the rate of inflation for much of the time. As such, real policy rates were
+negative, and below those in the US and Europe, for most of the decade (Chart 10).
+
+A natural question is why it took so long to address the problem. Although there might have been many
+contributory factors – the big jumps in oil prices in the first half of the decade were decidedly unhelpful – I
+think an important part of the story was the mistaken belief, at the outset, that monetary policy didn’t really
+have a material part to play in either explaining or controlling inflation.
+
+15
+
+These coefficients aren’t arbitrary. In particular, theory dictates that a + b =1, ensuring that there is no long-run trade-off between
+output and inflation.
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+12
+
+Chart 9: Inflation rose sharply in the UK in the
+1970s
+
+Chart 10: (Ex post) real policy rates were deeply
+negative
+
+Sources: National sources, BIS Consumer price series
+(http://www.bis.org/statistics/cp.htm), and Bank calculations.
+
+Note: Effective policy rate for Germany approximated by the midpoint of the discount rate and the Lombard rate for 1960-85.
+Sources: National Sources, BIS policy rate statistics, BIS
+Consumer price series (http://www.bis.org/statistics/cp.htm.),
+Deutsche Bundesbank, and Bank calculations.
+
+It was thought by many to be imperfect (at best) as a demand management tool. The Radcliffe Committee16
+– a body set up in the late 1950s by the then Chancellor to investigate the workings of the UK monetary and
+financial system – was certainly unconvinced:
+“When all has been said on the possibility of monetary action and of its likely efficacy, our conclusion is that
+monetary measures cannot alone be relied upon to keep in nice balance an economy subject to major
+strains from both without and within…..There can be no reliance on [the official interest rate] as a major
+short-term stabiliser of demand”.
+
+And there was widespread scepticism, throughout the post-war period, that demand mattered for inflation
+anyway. If there was any sort of Phillips curve relationship at all, it was often seen as “L-shaped” – flat until
+some notional level of full capacity, usually believed to be some way away, had been reached.
+
+Consider, for example, the opinion of the economist Nicholas Kaldor, adviser to the Treasury in the
+mid-1960s and again in the mid-1970s17:
+There is a “belief, for which there is no empirical support in the post-war statistics for this country, that there
+is a so-called “trade-off” between the level of unemployment and the rate of wage increases. Since the size
+
+16
+
+The “Committee on the Working of the Monetary System”, chaired by the lawyer Cyril (Lord) Radcliffe, was set up by the Chancellor
+of the Exchequer in 1957 and published its findings (the “Radcliffe Report”) in 1959. The report concluded that changes in the supply of
+money had little impact on interest rates and bond yields and that these, in their turn, did little to demand. In the parlance of Hicks’s
+IS-LM model, the Radcliffe Report claimed that the LM curve was relatively flat and the IS curve relatively steep. See, for example,
+Aikman et al. (2018). In his famous presidential address to the American Economic Association, Friedman (1968) discusses similar
+views in the United States.
+17
+I am indebted for all these quotes to Nelson (2001).
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+13
+
+of wage settlements is determined in key sectors – and those are the sectors where jobs are secure [– then]
+even with large-scale unemployment… there is little reason why such a trade-off should exist”.
+
+Kaldor said this in 1977. But the view was widespread and had been held in many parts of the economic
+establishment for some time. In his submission to the Radcliffe Committee in 1957, Robert Neild – also an
+adviser to the Chancellor in the mid-1960s – claimed that:
+“The problem of persistent increases in costs and prices… is a problem inherent in the way [these things] are
+determined, and is likely to persist whether or not the level of demand is excessive”.
+
+Perhaps it was (to a degree) forgivable to underplay the importance of monetary policy at that time because,
+until it began to break down in the late 1960s, the UK was bound by the fixed exchange rates of the Bretton
+Woods system. So except to the extent that capital controls created the room for it, there was no discretion
+for interest rates to move much away from international levels. And episodes of excess demand were more
+likely to create problems in the current account – these occurred frequently – than inflation.
+
+Chart 11: No simple wage Phillips curve
+relationship through much of the post-war period
+
+Furthermore, Kaldor was at least half right about
+one thing: through much of the post-war period,
+at least until inflation targeting began in 1992, it
+was difficult to detect in simple correlations the
+relationship between unemployment and wage
+growth (Chart 11). Very possibly this reflects a
+similar sort of problem that Silvana Tenreyro has
+discussed and that I sought to re-emphasise
+earlier: if you fail to take account of variations in
+other things that affect wage inflation
+(expectations of future inflation, for example),
+
+Sources: Thomas and Dimsdale (2017) (based on ONS, Feinstein
+(1972), and Bank calculations), and Bank calculations.
+
+you will tend to under-estimate the importance of
+excess demand, unemployment in particular18.
+In the more stable environment of inflation
+targeting, and with pretty much the same slope
+
+as had existed during the second half of the 19th century, that underlying wage Phillips curve has reemerged.
+18
+
+As indicated above, in an earlier footnote (8), this was exactly the claim – amongst others – that Friedman made in his famous
+presidential address to the American Economic Association in 1968 (Friedman (1968)): the relationship between unemployment and
+wage inflation would only be apparent in simple correlations as long as other influences on wage growth – above all inflation
+expectations – were either constant or controlled for separately by the econometrician. If not, and if those expectations responded to
+actual inflation, the empirical Phillips curve would begin to turn vertical. This result may seem to contrast with Silvana’s point that, under
+inflation targeting, the simple correlation between output and inflation is too low. But that only illustrates the general point that, if you
+mis-specify the relationship, and in particular you forget that the policy regime matters, the empirical results will be misleading. If policy
+is acting to stabilise inflation expectations and other (non-demand) influences, a simple regression will under-estimate the true slope of
+the Phillips curve. When expectations are volatile, and allowed to respond to inflationary shocks, the Phillips curve will look more
+vertical.
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+14
+
+Anyhow, as Neild’s remarks exemplify, excessive inflation – to the extent it occurred – was seen as
+inherently unrelated to demand, and this view persisted even once the Bretton Woods system formally ended
+in 1971. Kenneth Berrill, Chief Economic Adviser to the Treasury in 1973 and 1974, was clear at the time
+about the notion of an “L-shaped” Phillips curve:
+“I would say that we do not believe the Phillips curve over quite a large band…starting at the top end [from
+already low levels of unemployment], when you reduce unemployment [further], you can begin to see
+shortages of skilled labour, bottlenecks and so on… which affect the balance of payments and also earnings
+and prices. Then [at higher levels of unemployment] there is a large flat band”.
+
+These views may not have been sufficient, on their own, to explain what happened in the 1970s. There were
+clearly other events (looser policy in the US in the late 1960s, higher oil prices in the 1970s) that helped to
+ignite the inflation. There may well have been structural features of the economy at the time (centralised and
+indexed wage bargaining, for example) that helped to propagate it. But it is hard to imagine that the outcome
+would have been as severe without the prevailing scepticism about the role of monetary policy. Not least, it
+would have given little confidence to those forming expectations of future inflation – themselves an important
+part of the inflation process – that the authorities would ever be inclined to offset it.
+
+In a series of papers, the economist Tom Sargent asked how you might have expected inflation in the
+United States to have behaved, over the 1970s and 1980s, had you thrown the same initiating inflationary
+shocks at an imaginary economy in which there’s a “true” Phillips curve that resembles the one we use today
+but where the monetary policymaker erroneously believes in something else.19
+The particular misconception he had in mind was the idea that inflation expectations don’t matter for inflation
+(in the language of the simple representation earlier in this section, the central bank wrongly believes that the
+coefficient a is zero). And as and when it sees this model going off track – as it almost surely will – the
+central bank diagnoses the problem as a change in the slope of the Phillips curve (β), rather than a more
+fundamental mis-specification, and updates its estimates of β accordingly. What it fails to do is to realise it’s
+got the wrong model to begin with.
+
+You can see how this might introduce long-term cycles into the behaviour of inflation. Suppose the central
+bank starts with the belief that excess demand doesn’t do much to inflation (i.e. a low estimate of β) and
+therefore thinks it can boost output at relatively low inflationary cost. However, when it then eases policy,
+and because expectations of future inflation also start to rise in response, inflation itself goes up by more
+than the central bank had anticipated. Rather than realising why this has happened the central bank
+concludes that the Phillips curve is steeper than it had thought and that the inflationary cost of easy
+monetary policy is therefore higher than it had believed. Policy is re-tightened, inflation is brought back down
+and inflation expectations re-stabilise. Again, however, it fails to understand why this has happened. After a
+19
+
+See Sargent et al (2006).
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+15
+
+time, the stability of inflation expectations leads the authorities to believe the Phillips curve has flattened, and
+the cycle begins all over again. Sargent and his co-authors maintain that a simple model of this sort mimics
+closely the actual behaviour of US inflation over the past few decades.
+
+Arguably, and whether fair or not as a description of the core belief of the Fed of the 1960s and 70s, the
+mis-conception Sargent investigates is a less egregious error than that of its counterparts in the UK.
+Certainly the remarks I’ve quoted seem to suggest a prior belief not only that a =0 but that β=0 as well – that
+neither inflation expectations nor the output gap matters. If so, I think this could help explain why the UK
+inflation of the 1970s was that much worse than elsewhere, including in the US.
+
+Conclusion
+
+In 2013 the economists Christina and David Romer wrote a short paper marking the century of the founding
+of the Federal Reserve. The title leaves the reader in little doubt about what the authors think. The paper’s
+called “The Most Dangerous Idea in Federal Reserve History: Monetary Policy Doesn’t Matter”.
+
+As they point out, there have clearly been occasions when mistakes have been made for the opposite
+reason. When monetary policy is overburdened, and asked to do things it ultimately cannot achieve – to
+keep unemployment permanently below its natural rate, for example, or indeed to control any real variable
+for extended periods of time – it risks losing control of the things it can (nominal variables like inflation).
+
+But the authors maintain that the larger failures have resulted from a mistaken belief that monetary policy is
+powerless. The most egregious and well-documented case is the Great Depression. Even in the face of
+wholesale economic collapse – in the three years after the Wall Street crash, banks’ balance sheets, output
+and even the level of consumer prices all fell by around a quarter – monetary policy was essentially inactive.
+Little was done because “many Federal Reserve officials believed that expansionary policy would not be
+effective and that it might involve substantial costs”20.
+
+We are, of course, a world away from the 1930s. Output has been growing pretty much without interruption
+for the past six years, across the developed world, and unemployment has fallen throughout. Nevertheless,
+there are echoes of that same scepticism about monetary policy in the face of the stubbornly low rates of
+inflation that exist in some areas.
+
+There are circumstances in which, because of the interaction of the lower bound for policy rates and the
+behaviour of inflation expectations, one-off monetary policy actions can lose their grip. With the underlying,
+“equilibrium” real rate of interest still at very low levels, compressing policy rates at or close to that lower
+20
+
+Sometimes the case for ineffectiveness amounted to no more than the observation that the contraction was continuing even though
+interest rates were already low. One opponent argued against what he saw as “the fruitlessness and unwisdom of attempting to
+depress still further the abnormally low interest rates now prevailing”. As for the perceived costs, these often involved fears that easier
+policy would re-ignite the credit boom that had preceded the crash: “Cheap money is a stimulant”, said one Fed Governor in an FOMC
+meeting in 1930, “but […it] encourages over-borrowing”.
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+16
+
+bound, and because low inflation has persisted for a while in some places, it is right to take the risks of such
+a trap seriously.
+Equally, it’s important to understand these things for what they are. It’s not Amazon, global trade or
+de-unionisation that create the potential for low-inflation traps. Nor have these things permanently robbed
+monetary policy of its power. The direct correlation between the output gap and inflation has been low
+through the inflation targeting period, but in itself that tells you nothing about the underlying causal
+relationship.
+
+If the view that inflation is determined by structural factors can lead you to policy errors when inflation is too
+low, we also know from direct experience that the same risk exists when events threaten to push it up.
+Influenced by Keynes’s description of the economy in the Great Depression, and perhaps by the relative
+stability under the Bretton Woods system, many in the UK were sceptical about the utility of monetary policy
+in tempering the cycle or its centrality in controlling inflation. Just as some argue today, the prevailing view
+seemed to be that monetary policy was not a reliable way of affecting demand, that demand did little to
+prices and that inflation was determined predominantly by other, “cost-push” factors about which monetary
+policy could do little. As such, the UK was particularly ill-prepared to deal with the significant inflationary
+shocks of the late 1960s and early 1970s.
+Whether it’s complacency in the face of high inflation or defeatism in the face of persistently low inflation,
+there are risks in ignoring monetary policy as the central tool for the job.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+17
+
+References
+Aikman, D., Bush, O., and Taylor, A. M. 2018. “Monetary versus macroprudential policies: causal impacts
+of interest rates and credit controls in the era of the UK Radcliffe Report”. NBER working paper 22380,
+available at https://www.nber.org/papers/w22380.
+Bernanke, B. S. 2020. “The new tools of monetary policy”. American Economic Association Presidential
+Address, 4 January 2020.
+Borio, C. 2017. “Through the looking glass”. OMFIF City Lecture, London. Available at
+https://www.bis.org/speeches/sp170922.pdf.
+Boyer, G. R, and Hatton, T. J. 2002. “New estimates of British Unemployment, 1870-1913”. Journal of
+Economic History, Vol. 62, pp 643-75.
+Brainard, L. 2020. “Monetary policy strategies and tools when inflation and interest rates are low”. Remarks
+at the 2020 U.S. Monetary Policy Forum, New York. Available at
+https://www.federalreserve.gov/newsevents/speech/files/brainard20200221a.pdf.
+Crafts, N. F. R. and Mills, T. C. 1994. “Trends in real wages in Britain, 1750-1913”. Explorations in
+Economic History, Elsevier, Vol. 31 (2), pp 176-94.
+Eggertsson, G. B. and Woodford, M. 2003. “The zero bound on interest rates and optimal monetary
+policy”. Brookings Papers on Economic Activity, Vol. 2003, No. 1, pp 139-211.
+Feinstein, C. H. 1972. “National income, output and expenditure of the United Kingdom 1855-1965”.
+Cambridge: Cambridge University Press.
+Feinstein, C. H. 1991. “A new look at the cost of living”, in Foreman-Peck, J, ed. New perspectives on the
+Late Victorian Economy, Cambridge University Press, Cambridge.
+Feinstein, C. H. 1998. "Pessimism Perpetuated: Real Wages and the Standard of Living in Britain during
+and after the Industrial Revolution". Journal of Economic History, Vol. 58, No.3, pp 625-658.
+Friedman, M. 1968. “The role of monetary policy”. The American Economic Review, Vol. 58, No. 1, pp 1-17.
+FT. 2017. “Weak global inflation is a mystery investors must unlock”. Financial Times, 24 July 2017.
+FT. 2019a. “It could be time for central banks to ditch the 2% inflation target”. Financial Times, 19 June
+2019.
+FT. 2019b. “Broken: monetary policy”. Financial Times, 26 November 2019.
+Keynes, J. M. 1930. “A treatise on money”. London, Macmillan.
+Keynes, J. M. 1936. “The general theory of employment, interest and money”. London, Macmillan.
+Krugman, P. R. 1998. “It’s baaack: Japan’s slump and the return of the liquidity trap”. Brookings Papers on
+Economic Activity, Vol. 1998, No. 2, pp 137-206.
+Krugman, P. R. 2013. “Monetary policy in a liquidity trap”. The Conscience of a Liberal, The New York
+Times, 11 April 2013.
+Levy, A. 2019. “The euro area Phillips curve: identification with regional data”. Working paper available at
+http://economics.mit.edu/files/16976.
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+18
+
+McLeay, M. and Tenreyro, S. Forthcoming. “Optimal inflation and the identification of the Phillips curve”. In
+NBER Macroeconomics Annual 2019, Vol. 34, edited by Martin Eichenbaum, Erik Hurst, and Jonathan
+Parker. University of Chicago Press.
+Mitchell, B. R. 1988. “British Historical Statistics”. Cambridge University Press.
+Nelson, E. 2001. “What does the UK’s monetary policy and inflation experience tell us about the
+transmission mechanism?” CEPR Discussion Paper, No. 3047.
+O'Donoghue, J., Goulding, L. and Allen, G. 2004. "Consumer Price Inflation since 1750". ONS Economic
+Trends 604.
+Phillips, A. W. 1958. “The relation between unemployment and the rate of change of money wage rates in
+the United Kingdom, 1861-1957”. Economica, New Series, Vol. 25, No. 100, pp 283-299.
+Reifschneider, D. and Williams, J. C. 2000. “Three lessons for monetary policy in a low-inflation era”.
+Journal of Money, Credit and Banking, Vol. 32, No. 4, pp 936-966.
+Romer, C. D. and Romer, D. H. 2013. “The most dangerous idea in Federal Reserve history: Monetary
+policy doesn’t matter”. American Economic Review, 103(3), pp 55-60.
+Sargent, T., Williams, N. and Zha, T. 2006. “Shocks and government beliefs: The rise and fall of American
+inflation”. American Economic Review, Vol. 96, No. 4, pp 1193-1224.
+Thomas, R. and Dimsdale, N. 2017. "A Millennium of UK Data". Bank of England OBRA dataset,
+http://www.bankofengland.co.uk/research/Pages/onebank/threecenturies.aspx.
+Vlieghe, J. 2018. “From asymmetry to symmetry: changing risks to the economic outlook”. Speech given at
+the Confederation of British Industry, available at https://www.bankofengland.co.uk/speech/2018/gertjanvlieghe-speech-at-birmingham-chamber-of-commerce.
+Wallace, N. 1981. “A Modigliani-Miller theorem for open-market operations”. American Economic Review,
+Vol. 71, No. 3, pp 267-274.
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+19
+
+

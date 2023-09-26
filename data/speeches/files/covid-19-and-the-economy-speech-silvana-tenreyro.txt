@@ -1,0 +1,1007 @@
+Covid-19 and the economy: what are the lessons so far?
+Speech given by
+Silvana Tenreyro
+External Member of the Monetary Policy Committee, Bank of England
+London School of Economics webinar
+15 July 2020
+
+The views are not necessarily those of the Bank of England or the Monetary Policy Committee. I would like
+to thank Oliver Ashtari Tafti, Andrew Bailey, Thomas Belsham, Dario Bonciani, Robin Braun,
+Cristiano Cantore, Federico Di Pace, Sinem Hacioglu, Jonathan Haskel, Elizabeth Levett, Clare Macallan,
+Riccardo Masolo, Michael McLeay, Silvia Miranda-Agrippino, Kate Reinold, Martin Seneca, Tom Smith,
+Neeltje van Horen and Jan Vlieghe for comments and input into this speech.
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+Introduction
+It is great to speak at the LSE this morning, which, along with other universities and research centres in the
+country, has been leading the social science and policy debate on the Covid-19 pandemic.
+The scale and nature of the economic shock from Covid have been unlike anything policymakers in this
+country or in any advanced economy have faced in recent memory. We have had to quickly adapt to a
+rapidly changing situation, rethinking our assumptions as the data evolved and our understanding improved.
+That understanding has been guided by interactions with researchers in central banks and universities, who
+have contributed to a rapidly expanding body of analysis and modelling of Covid and its economic effects.
+In my speech today, I will discuss some of the key insights I have taken from this research, and how it has
+informed my policy views over recent weeks, and will continue to do so as we exit lockdown. I will also touch
+on some of the many issues we still have to learn, so where more research is most urgently needed.
+I will highlight three main points:
+
+
+While the existing economic knowledge helped us to think about some aspects of Covid-19,
+researchers have had to develop a variety of new ways to think about many other aspects. A vast
+new body of research has sprung up in response to Covid, combining epidemiology with
+macroeconomics. This is helping answer important policy questions about the interaction of the virus
+and people’s behaviour; its economic effects; and the costs and benefits of different policies.
+
+
+
+Behavioural responses mean that the UK economic outlook will continue to depend on the global
+and domestic spread of Covid-19. Assuming prevalence gradually falls, my central case forecast is
+for GDP to follow an interrupted or incomplete ‘V-shaped’ trajectory, with the first quarterly step-up in
+Q3.1 We are already seeing indications of a sharp recovery in purchases that were restricted only
+because of mandated business closures. But I think that this will be interrupted by continued risk
+aversion and voluntary social distancing in some sectors, remaining restrictions on activities in
+others, and in general, by higher unemployment.
+
+
+
+At our June MPC meeting, I thought that on balance and absent additional policy stimulus, demand
+would remain weaker than supply for some time, generating continuing disinflationary pressures. To
+counteract those pressures and bring inflation back up towards our 2 per cent target, I voted to
+loosen monetary policy by expanding the stock of asset purchases by £100 billion. As with the rest of
+the committee, I remain ready to vote for further action as necessary to support the economy and
+ensure inflation returns to target.
+
+1
+
+Whether a recovery looks ‘V-shaped’ of course depends on the scale: a V-shaped recovery in annual data may look ‘U shaped’ in
+monthly figures. The initial step-up in activity is likely to begin in the period after the UK lockdown measures were relaxed.
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+2
+
+Past epidemics and crises
+As the enormity of Covid’s effects on public health started to become clear in early 2020, policymakers had
+to quickly think through the likely effects on the economy.2 A natural place to start was by looking at
+comparable historical events. These offered a guide to how persistent the economic effects were likely to be,
+as well as the specific mechanisms through which they would take place. At the same time, all crises are
+different, and Covid-19 has had economic effects that have not neatly followed any historical precedent.
+The global spread of Covid-19 bears some similarities to past health crises, particularly the 1918-1920 flu
+pandemic. Despite some estimates suggesting that the 1918-1920 flu led to one of the largest economic
+crises of the century (Barro and Ursúa, 2008), it had been relatively little studied by economists. One partial
+reason is that it is not straightforward to isolate its effect on the economy, given its occurrence at the end of
+the First World War.
+New studies of the economic impact of the 1918-1920 flu have quickly emerged and helped inform us about
+the possible persistence and size of the effects of Covid-19 and containment measures imposed. Barro,
+Ursúa and Weng (2020) found that it led to a sharp decline in output and consumption in those countries
+affected, with evidence that they did not fully recover, suggesting a persistent effect. Others have looked at
+differences across cities or regions in lockdowns imposed in 1918-1920, generally finding that these had
+large effects on activity or employment in the short run, but with conflicting results in the medium-term. 3
+There are also important differences between the 1918-1920 influenza pandemic and the current situation.
+The likelihood of deaths from the influenza pandemic was much higher for younger age groups relative to
+Covid-19. Containment measures also differed. Although lockdowns were commonplace a century ago, they
+were shorter and less strict than the ones we have just seen, without extensive business shutdowns. 4 Given
+these differences, it was also instructive to examine more recent epidemics, even though these were less
+widespread across countries than Covid-19.
+Recent outbreaks that had received attention from economists included those of the coronaviruses SARS in
+2002-04 and MERS in 2012, as well as the H1N1 ‘swine flu’ in 2009, and Ebola in 2014. 5 These epidemics
+generally resulted in sharp downturns in the countries affected. Although consumption in sectors such as
+travel and tourism was affected for some time, the recoveries in aggregate output were relatively rapid,
+resulting in V-shaped trajectories towards the pre-outbreak trend. But these episodes represented a likely
+lower bound for the effects of Covid-19, given their far more limited global spread and consequently lower
+number of deaths (Ma, Rogers and Zhou, 2020). The MPC’s May MPR scenario lay somewhere between
+2
+
+See Tenreyro (2020a, 2020b, 2020c) for discussion of my views as the crisis evolved.
+See Corriera, Luck and Verner (2020) and Lilley, Lilley and Rindali (2020) for the US, and Dahl, Hansen and Jensen (2020) for
+Denmark.
+4
+See Hatchett, Mercher and Lipsitch (2007).
+5
+Assessments of the economic effects include Siu and Wong (2004) and Keogh-Brown and Smith (2008) for SARS, and Ma, Rogers
+and Zhou (2020) for the other outbreaks.
+3
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+3
+
+these extremes – the downturn was more persistent than those after recent epidemics, but less so than after
+the 1918-20 pandemic.
+Although past crises did not provide perfect comparators for the current episode, they were able to inform us
+about the types of economic channels that were likely to take place. There had also been some efforts to
+model the macroeconomic effects of public health crises, which could be calibrated to match some of the
+health consequences of Covid-19 in the UK.6 On the supply side, these studies suggested that there were
+likely to be reductions in labour supply for workers who were self-isolating, sick, or caring for others, in
+addition to any business closures mandated by the government. Productivity was set to fall in the short-term
+where changed working practices were less efficient, and in the long-term should any scarring take place
+due to business failures or higher unemployment. Internationally, we anticipated that the shutdown of supply
+chains would reduce capacity for production using imported intermediates.
+On the demand side, uncertainty and confidence channels were likely to weigh on investment and
+consumption. Even absent business closures, it was also likely that consumption demand would fall sharply
+in social-consumption sectors such as tourism, hospitality and live entertainment, as quickly became clear in
+some of the high-frequency indicators in February and March. The sharp global slowdown was also expected
+to depress demand for UK exports.
+With a range of channels affecting supply and demand, a crucial question for policymakers was whether
+Covid-19 would generate inflationary or disinflationary pressures. This was difficult to judge purely from
+historical precedents, for two reasons. First, the balance of demand and supply effects depends on the
+nature of the health effects and the health policy response, which differ from previous epidemics. The labour
+supply reduction owing to workers’ illness or mortality has been far lower than during the 1918-20 flu, for
+example, and lockdowns were shorter and less strict.7 Second, the effect of past episodes on aggregate
+demand and inflation depended on the monetary and fiscal policy response and regime at the time. To
+cleanly identify the effect of the health crisis itself on inflation, we need to control for these responses.
+
+6
+
+At the start of the crisis, helpful existing studies included McKibbin and Sidorenko (2006), Keogh-Brown et al. (2009), Smith et al.
+(2009), Verikios et al. (2016) and McKibbin and Fernando (2020). Since then a large amount of new literature has emerged exploring
+different aspects of the crisis and its transmission to the economy, as discussed in the remaining sections of the speech.
+7
+On the demand side, precautionary reductions in consumption may have been expected to have been lower than viruses with higher
+mortality rates, such as SARS or Ebola.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+4
+
+1957-58 Flu
+
+1918-20 Flu
+
+1889-90 Flu
+
+Third Plague
+
+First Cholera
+Second Cholera
+
+Great Plague
+of London
+
+1592 London
+Plague
+
+1563 London
+Plague
+
+Black
+Death
+
+Chart 1: Annual UK CPI inflation, 5 year rolling averages, per cent
+
+Per cent 20
+15
+10
+5
+0
+-5
+-10
+
+1250 1300 1350 1400 1450 1500 1550 1600 1650 1700 1750 1800 1850 1900 1950 2000
+CPI inflation
+Years after pandemic started
+Sources: Thomas and Dimsdale (2017); Jordà, Singh and Taylor (2020) and Bank calculations.
+Notes: Red lines highlight the first eight years following the start of each pandemic or epidemic.
+
+Those caveats aside, some recent research has attempted to use long-run historical data to assess the
+impact of past pandemics on key macroeconomic variables. Jordà, Singh and Taylor (2020) use data from
+pandemics going back to the Black Death to estimate the average impact on equilibrium interest rates. They
+look at long-run impacts, which should be less susceptible to the impact of monetary policy, and find that
+pandemics tend to reduce r* or the equilibrium interest rate. If Covid-19 has the same effect, it would imply
+lower levels of interest rates than before would be consistent with meeting the inflation target. Forthcoming
+work by Bank staff, using a similar method, uses historical inflation data from the UK (Chart 1) and seven
+other countries to estimate the response of inflation to pandemics (Bonciani and Braun, forthcoming). The
+results suggest that these episodes typically led to persistent declines in inflation (Chart 2).
+Chart 2: Estimated response of inflation to a pandemic across 8 countries
+
+Percentage points
+
+4
+2
+0
+-2
+-4
+
+90 per cent confidence interval
+Inflation response
+0
+
+1
+
+2
+
+3
+4
+5
+Years since pandemic started
+
+6
+
+7
+
+-6
+-8
+8
+
+Source: Bonciani and Braun (forthcoming).
+Notes: Line represents local projections. Shaded areas are 90 per cent confidence bands. Countries included are the UK, Italy,
+Germany, France, the Netherlands, Spain, Japan and the USA.
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+5
+
+Macroeconomics and epidemiology
+As Covid-19 started to exert a massive impact on economies around the world, so economists have
+responded by directing their research efforts towards its effects. A spate of new papers have added to our
+standard macroeconomic models some of the key features from basic epidemiological models. These have
+produced insights into how the health and economic effects of the virus were likely to interact, as well as on
+the economic costs and benefits of different containment policies.
+At their core, modern macroeconomic models contain firms that make decisions on employment, investment
+and production, and individuals who make two key decisions: how much to work; and how much to spend or
+save. The canonical (SIR) epidemiological model, simulates the spread of a virus by differentiating between
+individuals who are susceptible (S), infected (I) and recovered (R) from the illness.8 The models include
+assumptions, of varying degrees of complexity, governing how individuals move between the different virus
+states. Over the past few months, new ‘Epi-Macro’ papers, influenced especially by Eichenbaum, Rebelo
+and Trabandt (2020), have married together these two classes of models. In the combined Epi-Macro
+framework, susceptible individuals consider the risk of becoming infected when choosing how many hours to
+work and how much to consume. This modelling led to at least two sets of important insights for
+macroeconomic policymakers.
+The first important set of lessons was about the economic effects, costs and benefits of different virus
+containment policies such as lockdowns. By modelling how individuals would behave absent any health
+intervention, Eichenbaum, Rebelo and Trabandt (2020) are able to simulate the extra reduction in economic
+activity from introducing lockdowns. In turn, however, reduced economic activity feeds back into slower
+spread of the virus. Optimal government policy institutes containment measures that would slow near-term
+economic output even more, generating a larger recession, in order to reduce virus contagion.
+When lockdowns were implemented around the world, the modelling insights suggested that we should view
+them differently from a normal recession, with some describing them instead as a one-off investment in
+public health.9 As understanding of the virus has improved, other papers have modelled more complex
+policies, where lockdowns or self-isolation is encouraged or mandated for some industries, age groups, or
+combined with different testing strategies. See for example Acemoglu et al. (2020).10
+The second important lesson was that even absent any public health containment policy, individuals would
+voluntarily reduce their consumption and restrict labour supply. While the virus was transmitting widely,
+individuals faced some risk of catching it when consuming (e.g., shopping or attending functions). Assuming
+the infection risk could not be fully mitigated, one natural response to this, captured by the models, was to
+
+8
+9
+
+Kermack and McKendrick (1927).
+Bullard (2020).
+See also Baqaee et al. (2020) and Glover et al. (2020).
+
+10
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+6
+
+consume less. 11 The MPC included some of this ‘voluntary social distancing’ in the scenario in our May
+report. The behaviour weighed on consumption and only gradually unwound over 2020 and 2021. In the
+model, a similar mechanism applies to the labour supply decision, although in reality many workers do not
+have the same flexibility to vary their working hours as their consumption spending.
+Modelling by Bank staff illustrated how voluntary social distancing could affect consumption in the UK
+(Cantore et al., forthcoming). Chart 3 shows their simulations of an epidemic, using model similar to
+Eichenbaum, Rebelo and Trabandt (2020). The blue lines show the case where people continue working and
+consuming as normal, despite the risk of infection. The red lines simulate what happens with mandated
+containment measures, such as lockdowns, which lead to a reduction in infections and deaths. And the
+yellow lines show how the economy responds with no official containment measures, but when people
+respond to lower their own individual risk. Although stylised, the model simulations suggest that while
+consumption falls most under an imposed lockdown, a large fraction of the decline may have occurred
+anyway due to voluntary social distancing, even absent official measures. This scenario also results in fewer
+infections than with no behavioural response, although more than under a lockdown. 12 The scenarios shown
+here are V-shaped – by assumption, consumption and hours return to their previous trends. But variants of
+the model can also explore more persistent voluntary social distancing or scarring effects.
+Chart 3: Simulations from stylised ‘Epi-Macro’ model under different behavioural responses
+(a) Consumption
+
+(b) Hours worked
+Percentage
+change from
+steady state
+
+0
+
+20
+
+40
+
+0
+-5
+No behavioural response
+-10
+-15
+Voluntary social
+-20
+distancing only
+-25
+Mandated social
+distancing (lockdown) -30
+-35
+60
+80 100 120 140
+Weeks
+
+Percentage
+change from
+steady state
+
+0
+-5
+-10
+-15
+-20
+-25
+-30
+-35
+
+0
+
+20
+
+40
+
+60
+80
+Weeks
+
+100
+
+120
+
+140
+
+Source: Cantore et al. (forthcoming).
+
+The effect of voluntary social distancing has been evident in some of the UK consumption data. 13 In the run
+up to the UK lockdown at the end of March, retail footfall and various indicators of social consumption such
+as restaurant bookings all fell sharply, even though businesses were still open at the time (Chart 4). As the
+lockdown ends, the extent to which this behaviour weighs on consumption again is a key uncertainty for the
+11
+
+Some versions of the models capture the fact that some purchases can still be made online, but for others this is difficult or
+impossible, as I discussed in Tenreyro (2020c).
+12
+See also Céspedes, Chang, and Velasco (2020) for a model of this trade-off.
+13
+It has been less clear that it has had a large effect on the labour market. Average hours worked have fallen to a series low, but
+evidence from the Bank’s Agents suggest this is due to enforced falls in labour demand, rather than active choices by workers
+themselves.
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+7
+
+MPC. Since lockdown measures have begun to be lifted, we have seen consumption pick up in sectors
+where risks of catching the virus are small. But even after the reopening of many businesses, the early signs
+are that social consumption is not recovering as quickly (Chart 5). Indeed, even within social spending, the
+limited pickup so far has been partly down to substitution towards businesses able to offer products that
+involve less contact.
+Chart 4: Restaurant bookings
+
+Chart 5: CHAPS spending
+
+Percentage change relative
+to a year ago
+
+Restaurants
+close
+
+Restaurants
+reopen
+United Kingdom
+
+Percentage change on Jan-Feb 2020
+
+0
+
+40
+-20
+
+20
+
+Staples
+
+0
+
+-40
+
+-20
+
+Aggregate
+-60
+
+Work-related -40
+
+Delayable
+
+London
+
+-60
+
+-80
+
+-80
+
+Social
+-100
+
+Mar 20
+
+Apr 20
+
+May 20
+
+Jun 20
+
+60
+
+Jul 20
+
+Source: OpenTable.
+Notes: Seated diners at restaurants from online, phone and walkin bookings.
+
+-100
+Mar 20
+
+Apr 20
+
+May 20
+
+Jun 20
+
+Jul 20
+
+Source: Bank of England and Bank calculations.
+Notes: CHAPS data are based on a sample of around 100 UK
+companies’ payments received from their merchant acquirers on a
+daily basis. These payments reflect the sales that companies
+make through debit and credit card purchases, which are summed
+to estimate rolling seven-day revenues. For definitions of the
+different consumption groups see the May 2020 MPR. Data
+shown to July 8.
+
+Consumer behaviour is difficult to predict, especially in response to extreme or rare events such as the
+current crisis. Both imposed lockdowns and voluntary social distancing cause reductions in activity, but both
+are also more likely to take place when Covid 19 is more prevalent in the community. Disentangling these
+effects is tricky. One useful way of gauging their relative size is to compare across regions, since the virus
+has spread and lockdowns have been introduced or relaxed at different times in different places. Using US
+real-time data, Chetty et al. (2020) show that consumer spending evolved very similarly in different US
+states, irrespective of when they decided to lockdown, and whether they decided to reopen (Chart 6). Using
+mobile phone data on US shopping trips, Goolsbee and Syverson (2020) find that legal restrictions explain
+only around one-tenth of the reduction in retail footfall, with individual choices explaining the vast majority.
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+8
+
+Chart 6: Real-time consumer spending data before and after reopening in US states
+Percentage change since Jan 2020
+Reopening
+
+0
+-5
+-10
+-15
+-20
+
+Early reopening states
+
+-25
+
+Control group
+
+-30
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+-10
+
+-20
+
+-30
+
+-40
+
+-50
+
+-60
+
+-70
+
+-80
+
+-35
+Days since reopening in early reopening states
+Source: Chetty et al. (2020) and Bank calculations.
+Notes: Simple average of seasonally-adjusted percent change in real-time measure of consumer spending in states that partially
+reopened businesses between April 20th and May 4th and in a matched control group, as identified in Chetty et al. (2020).
+
+Covid-19 and distributional issues
+One of the most striking aspects of the economic effects of Covid-19 is how uneven they have been. In order
+to comprehend these effects, we need to understand well its impact on people consuming from, and working
+in, different industries and occupations. To do so we need to use models with, in the economics jargon,
+heterogeneity.
+In the past, macroeconomic research had been criticised for often assuming away important distributional
+issues. Fortunately, there has been much progress introducing heterogeneity into macroeconomics over the
+past couple of decades, partly enabled by advances in computing power, as I previously discussed in a
+speech in 2018.14 Entering the Covid-19 crisis, economists were therefore well prepared to explain and
+predict many of its key effects. I would pick out three areas in which there have been important insights from
+these literatures.
+First, models of multiple sectors told us that although the direct effects of Covid-19 on output were
+concentrated in some industries, these could lead to large spillovers in other sectors. 15 Even if the initial
+reduction in output was due to falls in supply, these second-round spillovers would affect aggregate demand,
+making it likely to fall more than aggregate supply. Guerrieri et al. (2020) model this phenomenon explicitly:
+when there are multiple sectors, reductions in supply in some sectors, for example due to business closures,
+lead to falls in income for their employees. This causes a subsequent reduction in demand for goods
+
+14
+
+Tenreyro (2018).
+Even within industries, the shock may have heterogeneous impacts on different firms, given their starting balance sheet positions.
+See van Horen (2020) for a summary of the literature on the factors affecting firms’ ability to withstand the shock.
+15
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+9
+
+produced in unaffected sectors.16 The fall in demand can be larger than the initial fall in supply, which is not
+the case when all sectors are affected equally. In a different setting, Baqaee and Farhi (2020) use a
+multi-sector model with a detailed input-output structure to present scenarios in which the ‘omnibus of supply
+and demand shocks’ lead to spillovers across different sectors. 17
+In the UK data, we saw sharp enforced falls in consumption during the lockdown, but for most categories of
+consumption, these have now largely unwound. On the face of it, this might suggest that the spillovers to
+consumption from falls in income have been small in practice. However for most workers, by far the largest
+potential fall in income arises if they are made unemployed. And although a great number of workers have
+unfortunately already lost their jobs, many others have been able to maintain much of their income during the
+crisis via the government’s Coronavirus Job Retention Scheme. The likelihood of large spillovers to
+aggregate demand will depend strongly on the outlook for the labour market over the coming quarters.
+A second insight relates to the fact that job losses and income reductions are likely to fall disproportionately
+on low-income households. Since they tend to spend a larger share of their income, this could have greater
+subsequent effects on spending for those households than if the losses had been spread more equally, even
+if the implications for aggregate consumption may not be as large. Kaplan, Moll and Violante (2020) model
+how low income, low wealth households suffer the worst economic consequences from the virus and
+containment policies. Hacioglu, Känzig and Surico (2020) present UK data showing that the percentage falls
+in income have been largest for more economically vulnerable groups.
+Chart 7: GDP and remote working by sector, ordered by average weekly earnings
+Mining & quarrying
+Finance & insurance
+
+Percentage fall
+in GVA
+
+Highest
+wage
+
+Information and communication
+Electricity, gas and water supply
+Professional services
+Manufacturing
+
+Share ever worked
+from home
+
+Transport and storage
+Construction
+Real estate activities
+Administrative services
+Other service activities
+Agriculture, forestry and fishing
+Wholesale and retail trade
+Arts, entretainment & recreation Lowest
+Accomodation & Food
+
+-100
+
+-50
+
+0
+
+wage
+0
+
+20
+
+40
+
+60
+
+16
+
+There is also a more direct negative effect if goods in the unaffected sectors are complements with the products in the affected ones.
+Baqaee and Farhi (2020) argue, using a quantitative model, that the disinflationary pressures so far in the US data are consistent with
+a mixture of both aggregate supply and demand shocks. With only supply (demand), more extreme inflation (deflation) would have been
+likely. Brinca, Duarte and Faria-e-Castro (2020) attempt to empirically identify the balance of labour demand and supply shocks in each
+sector in the US, and find about two-thirds of the fall in hours were due to falls in labour supply.
+17
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+10
+
+Sources: ONS and Bank calculations.
+Notes: Left hand panel shows change in monthly GDP between December 2019 and May 2020, for each of the mainly market sectors
+(A-N, R and S). Right hand panel shows the share of the sector that had ever worked from home in 2019, according to that ONS annual
+population survey. Sectors are ordered by Average Weekly Earnings including bonuses in the April 2020 Labour Market Statistics.
+
+The reasons low-income households have been more affected relate to some of the other distributional
+issues. Many service-sector industries, such as hospitality, where the risk of spreading Covid-19 is thought to
+be higher, are also relatively low wage. Since these industries have faced stronger imposed or voluntary
+social distancing measures, they have generally suffered greater than average losses in output from the
+Covid crisis (Chart 7). These have also been the industries where firms have furloughed the largest shares
+of their employees using the Coronavirus Job Retention Scheme. Some of the worst hit sectors are those in
+which working from home is difficult or impossible, which is likely to have amplified some of the disparities
+(Chart 7). They are also sectors with higher female employment shares, which may lead to greater job
+losses among women than men.18
+A third important distributional concern in the current crisis arises because Covid-19 leads to quite different
+health outcomes for different age-groups. These differences need to be taken into account when considering
+the amount of voluntary social distancing that is likely to take place. For example, younger age groups are
+likely to cut consumption less than older ones if they take into account their lower risks from the virus. This
+might reduce the amount of voluntary social distancing, and therefore increase the incremental impact of
+lockdowns on spending. Several papers have also suggested that a better balance between maintaining
+economic activity and reducing the spread of the virus may be possible with containment measures and
+incentives targeted by age.19 For example, Argente, Hsieh and Lee (2020) find that in South Korea, policies
+that disclosed detailed location data of Covid cases reduced foot traffic in neighbourhoods in which they lived
+or had travelled.20 Using these findings in their SIR model suggests that such policies could reduce case
+numbers with a lower economic cost than lockdowns, although this must be weighed against costs from loss
+of privacy. The economic gains come from encouraging self-selection into voluntary social distancing among
+demographics and in locations where risks are highest.
+Outstanding issues
+Drawing on the latest economic research, policymakers have learnt a great deal about the effects of
+Covid-19 over the past few months. But there remain many uncertainties and unanswered questions. 21
+Making progress towards answering them will likely be a two-way process, with policymakers taking lessons
+from the latest research, and researchers learning from practical policy decisions and their impact. There are
+a few areas where I think we still have much to learn, and which in my view should be a near-term priority.
+
+18
+
+See Alon et al. (2020), who also discuss how women appear to have been disproportionally affected given higher demands in the
+household, including childcare and home schooling. They also suggest that there may be some offsetting longer-term effects that
+promote gender equality, such as a shift towards more flexible work arrangements.
+19
+Acemoglu et al. (2020) and Glover et al. (2020).
+20
+Location data was collected from contact tracing, as well as mobile phone and credit card records.
+21
+These questions relate not only to the economics of Covid, but also to the epidemiology of the virus, on which the economic effects
+will depend.
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+11
+
+Many of the macroeconomic studies I have discussed have been theoretical, but as the data comes in, we
+will need to continue to test and validate different hypotheses. By necessity, the initial findings on Covid-19
+came largely from modelling work, as well as insights from similar historical episodes. Since official data are
+published with a lag, economists and statisticians also quickly adapted, making use of new real-time data
+sources.22 As the data continue to come in, it will be essential to keep devising empirical strategies to identify
+the effects of the virus and improve our understanding of different containment measures.
+Interpretation of the aggregate data will be complicated by various practical and conceptual difficulties.
+Standard empirical techniques for analysing and forecasting macroeconomic time series may become less
+appropriate in the face of such extreme movements in the data, although economists are already coming up
+with ways to address these challenges.23 On the data side, I have previously discussed the many difficulties
+affecting CPI inflation measurement and interpretation. 24 Elsewhere, data on average wages and productivity
+will be skewed by large compositional effects, since layoffs are likely to be concentrated in low-wage sectors
+with low measured productivity.
+For monetary policymakers, one of the most important issues to understand will be any changes in the
+transmission of policy brought about by Covid-19. We already know that the role of monetary policy in
+meeting the remit was quite different from usual during the lockdown period. With many businesses closed
+owing to public health policy, no amount of expansionary monetary policy could boost activity in those
+sectors. An unusually large part of the transmission of interest-rate policy was instead aimed at mitigating
+cash-flow difficulties by lowering borrowing costs and providing liquidity.
+As the economy opens up, we will need to understand the extent to which monetary (as well as fiscal) policy
+is still able to boost demand as normal. Even as legal restrictions on businesses are removed, it may be that
+voluntary social distancing hinders the ability of policy to increase activity in some sectors, and potentially in
+aggregate. Guerrieri et al. (2020) and Baqaee and Farhi (2020) both find that aggregate demand policy
+injects less stimulus than usual after negative sectoral shocks in their models. My own conjecture is that
+some of the sectoral changes we are seeing could limit the usefulness of empirical estimates of the
+aggregate transmission mechanism, including relationships such as the aggregate Phillips curve.
+A closely related question is what, in an ideal world, optimal economic policy should do. For the MPC, the
+answer is straightforward – we will strive to meet our mandate by achieving the 2 per cent inflation target. For
+broader economic policy, research can tell us, in the context of an economic model with given assumptions
+on societal preferences, what might be optimal for welfare. The answers may depend on whether some of
+the changes in behaviour and attitudes toward risk that we have seen are temporary or permanent. If
+transitory, policies that return the economy as close as possible to its pre-crisis path may be preferable. If
+permanent, then policies will instead need to facilitate the transition to new patterns of demand and supply.
+22
+23
+24
+
+See the recent speech by Haldane (2020) and references therein.
+See Lenza and Primiceri (2020) and Primiceri and Tambalotti (2020), for example.
+Tenreyro (2020c).
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+12
+
+The current outlook
+Turning back to monetary policy, the challenge for the MPC is to assess how Covid-19, the lockdown, and its
+subsequent easing will interact to determine the outlook for demand, supply and inflation. The MPC will be
+publishing its collective view in August, but ahead of that, I would like to set out my own thinking, including
+the reasons behind my vote in June to expand our asset purchase programme by a further £100 billion.
+The latest monthly GDP data suggest we are on track for a reduction of nearly 25% in 2020 Q2, relative to
+the 2019 Q4 peak. This still looks to be less severe than in the illustrative scenario the MPC published in
+May, but I do not read too much into the precise figure – neither its absolute weakness, nor the downside
+surprise in the latest monthly data. Activity was extraordinarily weak during the lockdown, but a large part of
+this was a direct consequence of business closures and other public health restrictions. The scale of the
+GDP fall largely reflects the timing and the extent of lockdown measures, and the same will be true for the
+initial step in the recovery in output as businesses reopen. For purchases that were constrained only by the
+lockdown, we should initially see a relatively ‘V-shaped’ jump in activity beginning in Q3.
+The key uncertainty is how much the ‘V’ will be interrupted by other factors weighing on demand and supply.
+Two near-term ones stand out. First, the possible feedback from higher unemployment, particularly in some
+badly affected sectors, to lower aggregate demand, and if persistent, to lead to greater scarring. Second,
+effects of voluntary or mandated social distancing on demand and supply in social consumption sectors.
+The imminent rise in the unemployment rate was not yet visible in the official labour market data for April, but
+more timely indicators suggest it will soon be visible in the headline numbers. Vacancies have dried up and
+the employment survey balances are consistent with a sharp fall in employment in the rest of Q2, even if they
+cannot reliably inform us about its scale (Chart 8). Higher unemployment in some sectors is likely to feed in
+to lower demand for goods and services produced in others, especially if layoffs are concentrated in
+households less able to borrow to continue spending. Unemployment would already be far higher if it were
+not for the sizeable uptake of the Coronavirus Job Retention Scheme. But the latest indications from the
+Bank’s Agents suggested a further risk that many furloughed workers would not be reabsorbed into
+employment as the scheme is wound down. Recent large-scale redundancy announcements are consistent
+with this, although the new Job Retention Bonus may mitigate the risk for some workers.
+The persistence of higher unemployment will partly depend on how long voluntary and mandated social
+distancing weigh on activity. On the demand side, as the lockdown is eased, I expect voluntary social
+distancing to continue to drag on consumption in sectors where the perceived risk of spreading Covid-19
+remains high, such as hospitality and travel. Recent survey data suggests a majority of people would still be
+uncomfortable going to indoor restaurants or cinemas, for example (Chart 9). For goods and services
+involving social interaction, evidence from other countries suggests that a key determinant will be the actual
+prevalence of the virus. The effects of voluntary social distancing will therefore depend on whether case
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+13
+
+numbers continue to decline. Assuming they do, there is still likely to be some lag between confirmed cases
+and perceived risks, although behaviour could also be affected by recent fiscal measures to boost social
+consumption spending. On the supply side, there could be negative effects on productivity in some
+occupations. These could stem from mandated social distancing, which may reduce the amount that can be
+produced in a given space; or from remote working being less efficient for some workers.25
+Chart 8: Employment survey balances
+
+Net percentage
+balances
+
+BCC
+
+Chart 9: Survey on going to restaurants/cinemas
+
+40
+20
+
+0
+
+-20
+
+REC
+
+Uncomfortable
+
+-40
+
+Neither comfortable nor
+uncomfortable
+
+-60
+
+Comfortable
+
+-80
+
+Very comfortable
+
+Going to the cinema
+Eating indoors at a restaurant
+Eating outdoors at a restaurant
+
+-100
+
+2017
+
+2018
+
+2019
+
+2020
+
+Source: BCC, IHS Markit/CIPS, KPMG/REC Report on Jobs and
+Bank calculations.
+Notes: BCC (employment expectations over the next three
+months), IHS Markit/CIPS (PMI composite employment index) and
+KPMG/REC (index of demand for new staff). All series are
+monthly, except BCC which is quarterly.
+
+50
+
+Very uncomfortable
+
+0
+
+PMI
+
+Percentages of respondents
+10
+20
+30
+40
+
+Source: ONS.
+Notes: Survey taken July 2 to July 5. Question: At this time, how
+comfortable or uncomfortable would you be about eating indoors
+at a restaurant?
+
+On balance, these uncertainties suggest to me considerable downside risks for demand relative to supply.
+The global outlook remains weak, given the continued spread of the virus around the world and especially its
+resurgence in the US. This global picture, together with significant uncertainty and a subdued outlook for
+consumption will all serve to drag on business investment. Last but not least, the risk of a second wave
+domestically or abroad brings additional uncertainty into the outlook. Highly supportive fiscal policy will make
+government spending the main offsetting component of GDP.
+Putting this demand outlook together with the pre-existing weakness in core inflation, we are likely to see
+disinflationary pressures for some time. Headline inflation will continue to weaken in the near term, given a
+continuing sizeable impact from lower energy prices, and a negative contribution from the recent cut in VAT.
+Although these effects on headline inflation should prove temporary, in order to use up spare capacity and
+bring inflation back to target, policy needs to continue to support aggregate demand through the crisis. This
+should also benefit the supply-side of the economy, by acting to offset business failures and persistently high
+unemployment, which would ultimately feed through into lower potential output. Although fiscal policy is
+providing significant support to the economy and to individual workers and sectors, monetary policy also has
+a role to play to try to maintain aggregate demand in line with supply and ensure price stability.
+25
+
+See Haskel (2020) for a detailed discussion of this point, also suggested in Tenreyro (2020c) and in the May MPR.
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+14
+
+In June I therefore voted with the majority of the MPC to increase our stock of asset purchases. Lower gilt
+yields and higher asset prices induced by QE will lead to some aggregate demand stimulus, although the low
+prevailing level of the yield curve may reduce the impact somewhat, relative to some of the MPC’s previous
+asset purchase announcements. As with the rest of the committee, I remain ready to vote for further action
+as necessary to support the economy and ensure inflation returns to target.
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+15
+
+References
+Acemoglu, D, V Chernozhukov, I Werning and M D Whinston (2020), “Optimal Targeted Lockdowns in a
+Multi-Group SIR Model,” NBER Working Paper No. 27102.
+Alon, T M, M Doepke, J Olmstead-Rumsey and M Tertilt (2020), “The Impact of COVID-19 on Gender
+Equality,” NBER Working Paper No. 26947.
+Argente, D O, C-T Hsieh and M Lee (2020), “The Cost of Privacy: Welfare Effect of the Disclosure of
+COVID-19 Cases,” NBER Working Paper No. 27220.
+Baqaee, D and E Farhi (2020), “Nonlinear Production Networks with an Application to the Covid-19 Crisis,”
+NBER Working Paper No. 27281.
+Baqaee, D, E Farhi, M Mina and J Stock (2020), “Evaluating the economics and epidemiology strategies
+for reopening the economy,” Harvard University Working Paper.
+Barro, R and Jose F Ursúa (2008), “Macroeconomic Crises since 1870,” Brookings Papers on Economic
+Activity, vol. 39, pp. 255-350.
+Barro, R, Jose F Ursúa and J Weng (2020), “The Coronavirus and the Great Influenza Pandemic: Lessons
+from the “Spanish Flu” for the Coronavirus’s Potential Effects on Mortality and Economic Activity,” NBER
+Working Paper No. 26866.
+Brinca, P, J B Duarte and M Faria-e-Castro (2020), “Measuring Sectoral Supply and Demand Shocks
+During COVID-19,” FRB St. Louis Working Paper No. 2020-011.
+Bonciani, D and R Braun (forthcoming), forthcoming Bank Underground Post.
+Bullard, J (2020), Interview with Bloomberg, available at https://www.bloomberg.com/news/articles/2020-0322/fed-s-bullard-says-u-s-jobless-rate-may-soar-to-30-in-2q.
+Cantore, C, F Di Pace, R Masolo and S Miranda-Agrippino (forthcoming), forthcoming working paper.
+Céspedes, L F, R Chang, and A Vélasco (2020), “Macroeconomic Policy Responses to a Pandemic”,
+Working Paper.
+Chetty, R, J N Friedman, N Hendren, M Stepner and The Opportunity Insights Team (2020), “How Did
+COVID-19 and Stabilization Policies Affect Spending and Employment? A New Real-Time Economic Tracker
+Based on Private Sector Data,” NBER Working Paper No. 27431.
+Correia, S, S Luck and E Verner (2020), “Pandemics Depress the Economy, Public Health Interventions Do
+Not: Evidence from the 1918 Flu,” Working Paper.
+Dahl, C M, C W Hansen and P S Jensen (2020), “The 1918 epidemic and a V-shaped recession: Evidence
+from municipal income data,” CEPR Covid Economics.
+Eichenbaum, M, S Rebelo and M Trabandt (2020), “The macroeconomics of epidemics,” NBER Working
+Paper No. 26882.
+Glover, A, J Heathcote, D Krueger, JV Rios-Rull (2020), “Health versus wealth: On the distributional
+effects of controlling a pandemic,” NBER Working Paper No. 27046.
+Goolsbee, A and C Syverson (2020), “Fear, Lockdown, and Diversion: Comparing Drivers of Pandemic
+Economic Decline 2020,” NBER Working Paper No. 27432.
+Guerrieri, V, G Lorenzoni, L Straub and I Werning (2020), “Macroeconomic Implications of COVID-19:
+Can Negative Supply Shocks Cause Demand Shortages?” NBER Working Paper No. 26918.
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+16
+
+Hacioglu, S, D Känzig and P Surico (2020), “Consumption in the time of Covid-19: Evidence from UK
+Transaction Data,” CEPR Discussion Paper No. 14733.
+Haldane, A (2020), “The second quarter,” speech delivered online, available at
+https://www.bankofengland.co.uk/speech/2020/andy-haldane-the-second-quarter-webinar
+Haskel, J (2020), “Remarks on Covid-19 and Monetary Policy,” speech hosted by the Brighton Chamber of
+Commerce via Zoom, available at https://www.bankofengland.co.uk/speech/2020/jonathan-haskel-brightonhove-chamber-of-commerce
+Hatchett, R J, C E Mecher and M Lipsitch (2007), “Public health interventions and epidemic intensity
+during the 1918 influenza pandemic,” Proceedings of the National Academy of Sciences of the United States
+of America, vol. 104, no. 18.
+Kaplan, G, B Moll and G Violante (2020), “Pandemics according to HANK,” Working Paper.
+Kermack, W O and A G McKendrick (1927), “A Contribution to the Mathematical Theory of Epidemics,”
+Proceedings of the Royal Society of London, series A, vol. 115, no. 772.
+Keogh-Brown, M R and R D Smith (2008), “The economic impact of SARS: how does the reality match the
+predictions?” Health Policy, vol.88, no. 1.
+Keogh-Brown M, S Wren-Lewis, W J Edmund, P Beutels and R D Smith (2009), “The Possible
+Macroeconomic Impact on the Economy of an Influenza Pandemic,” University of Oxford Department of
+Economics Discussion Paper Series No. 431.
+Jordà, O, S R Singh and A M Taylor (2020), “Longer-run Economic Consequences of Pandemics,” NBER
+Working Paper No. 26934.
+Lenza, M and G Primiceri (2020), “How to Estimate a VAR after March 2020,” Working Paper.
+Lilley, A, M, Lilley and G Rinaldi (2020), “Public health interventions and economic growth: Revising the
+Spanish flu evidence,” Working Paper.
+Ma, C, J H Rogers and S Zhou (2020), “Modern Pandemics: Recession and Recovery,” Working Paper.
+Markel, H, H B Lipman and A Navarro (2007), “Nonpharmaceutical Interventions Implemented by US Cities
+During the 1918-1919 Influenza Pandemic,” JAMA.
+McKibbin W and R Fernando (2020), “The Global Macroeconomic Impacts of COVID-19: Seven
+Scenarios,” Working Paper.
+McKibbin and A Siderenko (2006), “Global Macroeconomic Consequences of Pandemic Influenza,”
+Working Paper.
+Primiceri, G and A Tambalotti (2020), “Macroeconomic Forecasting in the Time of COVID-19,” Working
+Paper.
+Siu, A and R Wong (2004), “Economic Impact of SARS: The Case of Hong Kong,” Asian Economic Papers,
+vol. 3, no. 1.
+Smith, R D, M R Keogh-Brown, T Barnett and J Tait (2009), “The economy-wide impact of pandemic
+influenza on the UK: a computable general equilibrium modelling experiment,” BMJ 339:b4571.
+Tenreyro, S (2018), “Models in macroeconomics” speech delivered at the University of Surrey.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+17
+
+Tenreyro, S (2020a), Remarks given at a panel discussion at the 2020 US Monetary Policy Forum, available
+at https://www.chicagobooth.edu/-/media/research/igm/events/usmpf/2020/silvana-tenreyro-remarks-for2020-mpf-panel.pdf.
+Tenreyro, S (2020b), Annual Report for the Treasury select Committee, available at
+https://www.bankofengland.co.uk/news/2020/march/silvana-tenreyro-annual-report.
+Tenreyro, S (2020c), “Monetary Policy during pandemics: inflation before, during and after Covid-19,”
+speech delivered online.
+Thomas, R and N Dimsdale (2017), "A Millennium of UK Data", Bank of England OBRA dataset, available
+at http://www.bankofengland.co.uk/research/Pages/onebank/threecenturies.aspx
+van Horen, N (2020), “Covid-19 Briefing: Corporate Balance Sheets”, Bank Underground post, available at
+https://bankunderground.co.uk/2020/06/09/covid-19-briefing-corporate-balance-sheets/
+Verikios, G, M Sullivan, P Stojanosvski, J Giesecke and G Woo (2016), “Assessing Regional Risks From
+Pandemic Influenza: A Scenario Analysis,” The World Economy.
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+18
+
+

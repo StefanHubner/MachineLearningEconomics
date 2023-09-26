@@ -1,0 +1,222 @@
+Gauging (dis)inflationary
+pressures: comparing tools
+and current findings
+SUERF
+February 2023
+Emma Hatwell and Huw Pill
+Monetary Analysis
+
+Unobserved components (UC) models determine our bottom-up
+approach to short-term inflation forecasts
+CPI inflation rose to 11% in 2022 Q4, but is expected to fall back to 8% by 2023 Q21
+
+Sources: Bloomberg Finance L.P., Department for Business, Energy and Industrial Strategy, ONS and Bank calculations.
+1Figures
+
+in parentheses are CPI basket weights in 2022. Data to December 2022. Bank staff projections from January to June 2023. Fuels and lubricants estimates use Department for
+Business, Energy and Industrial Strategy petrol price data for January 2023 and then are based on the sterling oil futures curve. Other goods is the difference between CPI inflation and the
+other contributions identified in the chart.
+
+2
+
+Utilise staff research to improve the accuracy of the models
+1/3 to 2/3 of STIF components by weight were improved at the
+1 to 6 month horizon2,3
+•
+
+UC model with stochastic volatility and automatic outlier
+adjustment
+o Stochastic volatility is useful as certain components
+experience periods of higher volatility
+o The outlier detection feature handles the one-off
+changes in volatility
+o The outlier detection feature is comparable to most
+recent developments in the literature during the
+Covid period that accounts for the fat-tails/ tdistribution
+
+Red dots show weaker performance from using the new UCSV models
+Blue dots show improvement from using the new UCSV models
+
+Sources: ONS and Bank calculations.
+2
+
+Component Level Short-Term Inflation Forecasting for the UK (Esady and Mate, mimeo)
+We exclude non-comparable components for our forecast comparison. These include petrol, utilities, education, financial services, other household goods and other household services. Actual
+STIF includes staff judgement which may have improved forecasting performance, so comparison not purely like-for-like
+3
+
+3
+
+We use an indicator model as a top-down cross-check
+…which allow us to cross-check against our main
+forecast
+
+Increasing correlation
+with CPIX
+
+We draw on a number of different indicators…
+
+BCC
+
+Agents
+PMI
+PPI
+PPI
+PMI
+Agents
+
+PMI
+Agents
+
+MakeUK
+
+MakeUK
+BCC
+
+Agents
+
+SPPI
+
+Agents
+PPI
+
+Agents
+
+Agents
+
+PPI
+PMI
+
+BCC
+BCC
+
+Agents
+CBI
+
+CBI
+
+CBI
+BRC
+
+PriceStats
+
+Imports
+Notes:
+• CPIX excludes energy, housing,
+education and financial services
+• Text in squares indicates source of
+indicators; more than one indicator
+can be drawn from any single data
+source
+
+>85th percentil e
+Up to 85th percentil e
+Wi thi n 35th-65th percentil es
+Up to 35th percentil e
+<15th percentil e
+
+Sources: ONS, S&P Global/CIPS and Bank calculations.
+4
+
+Food price inflation has reached a 45-year high reflecting higher
+agricultural prices and producer input costs
+Commodity prices and food PPIs remain elevated but are expected to slow
+
+Sources: S&P GSCI agriculture and livestock index spot
+and Bank Calculations.
+
+Sources: ONS.
+5
+
+Energy prices have soared; we aim to capture both direct and
+indirect effects on CPI
+Contributions from energy are expected to fall but
+remain high
+
+As we also estimate the indirect effects of energy
+
+Use Market curve for gas and
+oil to estimate coke and
+refined petroleum, electricity
+and gas price changes
+
+No direct
+effect given
+price cap
+
+Use I-O analysis to
+estimate indirect effects
+
+CPA to COICOP
+converter
+CPI Weights
+
+Convert into CPI
+Sources: Bloomberg Finance L.P., Department for Business, Energy
+and Industrial Strategy, ONS and Bank calculations.
+
+We track measures of underlying inflation and higher frequency
+movements to assess the risk of inflation persistence
+Underlying inflation model (UIM) captures
+common movements between components4
+
+Sources: ONS and Bank calculations.
+4How
+
+broad-based is the increase in UK inflation? (G. Potjagailo, B.Wanengkirtyo and J. Lam, 2022) [link]
+
+High frequency measures help us to understand
+changes in momentum
+
+Sources: ONS and Bank calculations.
+7
+
+Households’ inflation expectations have fallen, but remain
+elevated
+Bank/Ipsos and Citigroup/YouGov one-year
+household inflation expectations
+
+Sources: Inflation attitudes survey and Citigroup/YouGov
+and Bank calculations.
+
+Citigroup/YouGov one-year ahead inflation
+expectations distribution
+
+Sources: Citigroup/YouGov and Bank calculations.
+8
+
+As DMP business inflation expectations also remain elevated
+Decision Maker Panel CPI and own price
+expectations
+
+Sources: DMP survey.
+5Firm
+6Text
+
+Decision Maker Panel text analysis5,6
+
+Sources: DMP survey and Bank calculations.
+
+inflation expectations in quantitative and text data (G. Thwaites, I. Yotzov, Ö. Öztürk, P. Mizen, P. Bunn, N. Bloom, . Anayi, 2022) [link]
+analysis of reasons for firms’ own price expectations in 12 months time, August to October DMP surveys. Data are for August-October 2022 period
+
+9
+
+The high inflation environment is driving pay growth
+Models show inflation expectations are the main
+contributor to pay growth…
+
+…and results from our Agents’ survey corroborate
+this story
+
+Sources: ONS and Bank calculations.
+Sources: DMP survey.
+10
+
+With pay contributing to underlying strength in services inflation
+Median and underlying measures appear better correlated with pay than headline services
+
+Sources: ONS and Bank calculations.
+11
+
+

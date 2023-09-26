@@ -1,0 +1,383 @@
+Where next for fixed income markets:
+Thriving in a world of change
+Speech given by
+Rohan Churm
+Head of Foreign Exchange Division
+Bank of England
+
+UK Debt Capital Markets Forum 2019
+London Stock Exchange
+1 March 2019
+
+I would like to thank Saba Alam and Geir-Are Kårvik for their help in preparing the text. I also thank
+Clare Ashton, Grigoria Christodoulou, Liam Crowley-Reidy, Amber Evans, Simon Forsyth,
+Andrew Harley, Andrew Hauser, Tom Horn, James O’Connor, Khushal Thakur, and Jack Worlidge for
+their comments and contributions.
+1
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+Centuries of innovation
+The United Kingdom is home to one of the oldest financial centres in the world. Starting from within the
+confines of London’s square mile – The Square Mile – but now spread widely around the country, the
+United Kingdom has also become one of the world’s leading financial centres. In doing so it has been
+central to centuries of innovation and evolution in the financial system.
+The Bank of England’s first foray into fixed income markets came at its inception, in 1694, when it raised
+£1.2m over 12 days, in order to lend to the government. This was an innovative way for the government of
+the time to fund a war effort. But the original Royal Charter explained that the Bank was founded to
+‘promote the public Good and Benefit of our People’. That aspect of the Bank’s mission has remained
+timeless, even as the financial system has radically changed. That the Bank today can deliver its mission is
+testament to how it has also innovated and evolved alongside financial markets and their participants.
+If it feels like financial market participants must constantly adapt in order to thrive, then it would be helpful to
+know we are not alone in this experience. It brings to mind the ‘Red Queen hypothesis’, which arose as the
+academic field of evolutionary biology drew on the literature of Lewis Carroll. This idea was originally
+proposed by US academic Leigh Van Valen. It posits that organisms that survive in a constantly changing
+environment have themselves adapted and evolved. In Lewis Carroll’s book ‘Through the Looking Glass’,
+the Red Queen warns Alice that it “takes all the running you can do, to keep in the same place. If you want
+to get somewhere else, you must run at least twice as fast as that.” No doubt some of you can identify with
+that as you consider how the City has changed over your careers, arguably innovating more rapidly than
+ever before.
+The Bank of England innovated in 1725 with the introduction of printed bank notes – moving away from the
+handwritten ones.1 In the 19th century its lender-of-last-resort operations were novel and groundbreaking.
+More recently, operational independence to set monetary policy and the new responsibilities for
+macro-prudential regulation have significantly changed the shape of the Bank.
+As we meet today at the London Stock Exchange (LSE) it is worth reflecting on how exchanges have
+evolved. Not least because the LSE now has 14,500 listed debt securities and is hosting a fixed income
+forum! When the Bank was founded in the 17th century stockbrokers would meet in the coffee houses of
+Change Alley in order to exchange information and strike trades. Prices were first transmitted via the electric
+telegraph in 1830. Today, in many markets algorithms ‘meet’ in a server centre to trade within fractions of a
+second. Despite this, coffee shops are thriving.
+
+1
+
+Partly printed notes probably came into use between 1696 and 1699, but the notes issued after 1725 were in mainly printed form, and
+began to appear in fixed denominations; the first was for £20.
+2
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+2
+
+Recent innovations towards ‘fast markets’
+Indeed, there has been a remarkable evolution in many financial markets in the last few decades, defined by
+speed. Equity markets have been at the centre of this, sparked by the migration of trading from physical
+exchanges, to voice trading by telephone, to various types of electronic trading – where the venue is virtual
+and the communication electronic. This is one example of innovation in the physical infrastructure for
+trading, so called ‘hard infrastructure’, speeding up markets and lowering costs.
+At the same time, the impact of technology has vastly expanded access to data. The combination of data
+availability and electronic venues has led to the growth of automated trading, where a program is making the
+decision to execute a trade. A subset of automated trading is high frequency algorithmic trading, seeking to
+gain an advantage from speed. But algorithms are also commonly used for other purposes, such as
+minimising the price impact of a transaction by breaking it down into smaller trades across time. Today, it is
+estimated that at least 70% of equity trading on the LSE electronic orderbook is done by algorithms.2
+This development hasn’t been exclusive to equity markets. Foreign exchange markets are critical in my role
+managing the Bank of England and HM Treasury’s Foreign Exchange reserves. And the FX market has
+been participating in this change, particularly trading of spot exchange rates in the major global currencies.
+For example, an estimated 70% of orders on EBS, one of the primary spot FX platforms, are now submitted
+by algorithms.3 And much spot FX market trading, one might be surprised to find, has migrated away from
+the Square Mile and Canary Wharf to server centres in Slough.
+But at their core, FX and equities markets are based on homogenous instruments. As one moves towards
+related but potentially bespoke products, such as FX and equity options, trading is far less automated.
+The logic applies to fixed income markets, where bespoke aspects to bonds are often a central feature. A
+typical large bank may have more than one thousand unique debt instruments associated with it, varying
+across currency, coupons, maturity dates, optionality, and seniority, to name some dimensions. This
+compares to ultimately only one equity claim.
+This feature of fixed income markets is not a bug. It reflects product innovation that allows debt instruments
+to suit the preferences and constraints of the investor, which ultimately lowers costs for the borrower. But it
+does reduce liquidity. Most obviously, for any given amount of debt, more debt instruments means smaller
+sized individual issues available to trade in the market. The bespoke characteristics also lead to market
+segmentation as any individual investor may only be willing to buy a subset of bonds from a given issuer.
+And from a practical perspective, investing in automated trading, with potentially bespoke programming, is
+less likely to be worth it for small and unique issues with non-standard characteristics.
+
+2
+3
+
+Source LSE. Equity is defined using MiFIR identifiers of SHRS and DPRS.
+See https://www.bis.org/publ/mktc10.pdf
+3
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+3
+
+This means that fixed income markets remain somewhat slower.
+Saying that, electronic trading is now a very standard part of fixed income markets. Automated trading has
+also increased markedly, in particular in standardised or liquid instruments such as government bond futures
+or on-the-run US treasuries.
+Electronic trading is also increasing for corporate bonds. Our market intelligence suggests that around 50%
+of all gross notional in the European corporate bond market is now being traded electronically. This has been
+helped by the electronification of the corporate bond ecosystem, including the pre-trade, execution and the
+post-trade phase of the trade lifecycle. And we have also seen growth of electronic trading platforms,
+serving the dealer-to-dealer, dealer-to-client, and all-to-all segments.
+But the degree of automated trading in corporate bonds is far less prevalent, as much of the electronic
+trading is electronic closing of trades negotiated by voice. Our market intelligence suggests that only about
+10% of the electronically traded corporate bond volumes are automated. And in sterling corporate bonds,
+while 60% of the traded volumes reported to the FCA in 2018 were via electronic means, little is automated
+in any way.
+At least not yet.
+Product innovation in fixed income markets
+This lower level of speed should not be taken to mean fixed income markets have not been innovating, or
+have been less innovative. Adaption can take many forms and each asset class will evolve in its own unique
+way. Let me mention four current examples.
+First, there has been significant growth in fixed income exchange-traded funds (ETFs) in recent years. Such
+ETFs allow investors to buy and sell a fund that tracks an index of underlying bond securities intraday, as if it
+were a share. And this has met a demand amongst market participants. The value of fixed income ETFs
+globally has grown over 400% since 2009. 4 They now make up around 18% of the total assets under
+management in ETFs globally, growing 13% in 2018, compared to a fall of 2% in the currently much larger
+universe of equity ETFs. And by aggregating many bonds in one transparently listed structure, it allows
+investors to trade them using more of the hard infrastructure of ‘fast markets’. This leads to the possibility of
+positions being shifted much more rapidly and in a more automated manner, than by trading individual
+bonds.
+
+4
+
+See https://www.ishares.com/ch/individual/en/literature/etp-landscape-report/monthly-industry-highlights-december-2018-en-emea-pcetp-landscape-report.pdf
+4
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+4
+
+Second, we have seen rapid growth in the issuance of so-called ‘green bonds’ – bonds where the proceeds
+will be directed to projects and activities that should improve the quality of natural capital, or that support
+environmentally friendly objectives – with London as one of the main hubs. In 2018, global green bond
+issuance was around $170 billion5, with outstanding volumes around $480 billion6. And if we include
+so-called ‘climate-aligned’ bonds, which are issued by firms that derive at least 75% of their revenues from
+‘green’ business lines, the outstanding volume stands at $1.2 trillion.7,8
+Third, sterling markets have been responding to the need to transition away from LIBOR, with a significant
+increase in issuance related to SONIA. In 2019 we have already seen 15 sterling bond issues that have
+referenced SONIA, with a total notional value of £9.5bn.9 This exceeds the value of all of the SONIA-linked
+issuance ever seen prior to 2019.
+Fourth, we have seen a dramatic opening up of Chinese markets to the rest of the world. This includes the
+issuance of so-called ‘dim sum’ bonds – renminbi-denominated bonds issued outside of China.10 In fact,
+there are 112 such bonds listed here on London Stock Exchange, with a total notional value equivalent to
+£3.7bn. And outstanding RMB loans and deposits in London both stand at around £6bn equivalent.
+London is also the leading centre for trading in China’s foreign exchange outside of greater China.
+According to the most recent semi-annual London Foreign Exchange Joint Standing Committee survey11,
+turnover in dollar-renminbi has increased to $73 billion per day, its highest to date, and a more than 25-fold
+increase over ten years.
+Evolution at the Bank of England
+Markets are in a constant state of innovation and change. As they develop in speed, complexity, and
+diversity, so the authorities also need to move with the times. Central banks must adapt. Let me give you
+three examples of areas where we in the Bank are running fast right now.
+
+Monitoring market developments with expanded datasets
+The first is to adapt the way we monitor market developments. Sitting as we do at the heart of one of the
+world’s most important financial centres, it is vital that we maintain a good understanding of what is
+5
+
+See https://www.climatebonds.net/files/files/2018%20green%20bond%20market%20highlights.pdf
+See https://www.climatebonds.net/files/reports/cbi_sotm_2018_final_01k-web.pdf
+7
+Including issuance from so-called ‘fully-aligned’ US Municipal issuers, the outstanding volume is $1.45 trillion.
+8
+‘Green’ business lines include “clean energy, low-carbon transport, water management, low-carbon buildings, waste management and
+sustainable land use”, according to the Climate Bonds Initiative.
+9
+Data collated by Bank of England staff from Bloomberg, as of 27th February 2019.
+10
+In 2014, the UK Government became the first non-Chinese issuer of sovereign Renminbi denominated debt, issuing the then largest
+ever bond by a non-Chinese issuer. The bond had a maturity of 3 years, a coupon of 2.70% and a notional of RMB 3 billion, equivalent
+to approximately £300 million at the time.
+11
+See https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fxturnover-survey-october-2018
+6
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+5
+
+happening in financial markets, in order to support policymakers such as Monetary Policy Committee (MPC)
+and Financial Policy Committee (FPC) members in their decision making. Within the Markets area of the
+Bank we maintain very frequent contact with market participants about developments, aggregating and
+synthesising your views, in order to keep our policy makers as informed as possible. This is part of the
+Bank’s highly valued Market Intelligence activity.
+One form of adaption is old. As the market structure changes we have to change who we talk to. Our
+contacts today are not just banks and insurers, but an increasingly diverse range of players to understand
+the services they offer, their trading strategies and expectations about future developments.
+But another form of adaption is newer. Increasingly we need to complement this market intelligence with
+analysis of vastly expanded datasets. This might include running code on transaction level datasets to
+inform us about market developments. One example can be found in our most recent Financial Stability
+Report, where analysis of transaction-level data in derivatives and repo markets, alongside market
+intelligence, helped the Financial Policy Committee assess the risks to the resilience of financial markets
+from leverage in the non-bank financial system.12
+
+Updating codes of conduct for automated trading
+As a central bank, we have a role in supporting and promoting fair and effective financial markets. In
+particular, the Markets area of the Bank was heavily engaged in the Fair and Effective Markets Review. That
+review included recommendations to raise standards of professionalism and accountability of individuals in
+financial markets. Following on from that, the Bank has supported the establishment of market codes of
+conduct, such as the UK Money Market Code and FX Global Code.
+Market practices and codes of conduct are examples of so called soft infrastructure. A key part of our
+mission is ensuring that soft infrastructure keeps up with technology and other hard infrastructure. With
+London the preeminent centre of global FX trading the FX Global Code is of particular relevance and
+importance.
+Those involved in developing and maintaining codes of conduct13 have had to consider what it means when
+it is machines, and not just humans, doing the trading. For example, Principle 17 of the FX Global Code, on
+‘last look’, was updated at the end of 2017. Last look is a practice utilised in electronic trading activities. The
+last look window is a period of time within which the price-maker can confirm or reject a trade. The update to
+
+12
+
+Another example is the BIS Markets Committee’s report on the 2016 sterling flash event, co-led by the Bank of England, which
+combined market intelligence and analysis of high-frequency data to understand the drivers of the event.
+13
+In the case of the Global FX code it is the responsibility of the Global FX Committee. One of its three objectives is to promote,
+maintain and update on a regular basis the FX Global Code (the Code) and to consider good practices regarding effective mechanisms
+to support adherence.
+6
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+6
+
+Principle 17 made clear that the price-makers shouldn’t also be using the information from the trade request
+to trade within the last look window. Subsequent analysis by NEX Markets suggests that
+last look-times are down from an average of 93 milliseconds to 37 milliseconds14, which is both a positive
+development in itself, but also because of the increased awareness and conversations it provokes.
+More broadly, continual innovation in financial markets can shift where responsibilities and liabilities
+(ultimately) reside. We need to consider what it means when algorithms quote and read prices, make and
+accept orders, select collateral and send confirmation tickets. Market participants should be clear about the
+capacities in which they act in order for markets to function fairly and effectively.
+One interesting parallel of this outside of financial markets is the potential growth of driverless cars. Cars
+driven by humans are far from accident proof, and driverless cars may ultimately be safer and collectively
+superior. However the liability for car accidents caused by human error lies with the driver. With driverless
+cars, the liability for accidents could shift to car manufacturers, as their machines and software are behind
+the wheel.
+
+Understanding the impact of product innovation on the resilience of market-based finance
+My final example is understanding how product innovation could affect the resilience of the financial system,
+given the FPC’s macroprudential responsibilities.
+As fixed income infrastructure has evolved to capture some of the efficiency gains enjoyed in equity and FX
+markets, these markets can become exposed to new risks.
+For example, the creation of focal points for liquidity such as ETFs and futures that can be traded in an
+automated high frequency way leave fixed income markets vulnerable to the sort of ‘flash-crash’ disruption
+sometimes experienced in other established ‘fast markets’.15
+A second risk is that the perceived depth of liquidity in such products can be at odds with the actual ability to
+trade in the underlying asset. Such a gap has the potential to test the functioning of some markets where
+demand for liquidity may be high in times of stress. In relatively illiquid markets – where forced sales have
+larger impacts on prices – procyclical behaviour by fund investors could create a feedback loop, between
+price falls, redemptions and asset sales.
+
+14
+
+https://newsroom.nex.com/news/04092018/nex-markets-experiences-a-reduction-in-hold-times-and-reject-rates-as-a-result-of-the-fxcode-of-conduct
+15
+Perhaps the highest profile example was the US Treasury flash rally on 15 October 2014 when the market for US Treasury securities,
+futures and other closely related financial markets experienced an unusually high level of volatility and a very rapid round-trip in prices.
+For instance, 10-year US Treasury yields experienced a 16-basis-point drop and rebound in less than 15 minutes.
+7
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+7
+
+This type of risk existed before electronification and automation. But as product innovation occurs in the ETF
+market, the Bank’s job is to ask the question where the underlying instruments are less liquid, such as
+corporate bonds. The FPC has committed to monitoring exchange-traded funds closely, amongst other
+fast-growing or evolving areas.
+Conclusion
+To conclude.
+Attendees of this forum are no strangers to innovation and technological improvement. The agenda for
+today suggests no sign of that slowing. In order to thrive and succeed, we need to constantly evolve.
+Where does that leave fixed income markets? I won’t try to pre-judge today’s discussions. But you can be
+assured that the Bank will be an interested observer and participant, as we continue to adapt our activities to
+carry out our timeless mission: to promote the good of the people of the United Kingdom.
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+8
+
+References
+
+Anderson, N, Webber, L, Noss, J, Beale, D and Crowley-Reidy, L (2015), ‘The resilience of financial
+market liquidity’, Bank of England Financial Stability Paper No. 34, available at
+https://www.bankofengland.co.uk/-/media/boe/files/financial-stability-paper/2015/the-resilience-of-financialmarket-liquidity
+Anson, M, Bholat, D, Kang, M, Thomas, R (2017), ‘The Bank of England as lender of last resort: new
+historical evidence from daily transactional data’, Bank of England Staff Working Paper No. 691, available at
+https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2017/the-bank-of-england-as-lender-oflast-resort-a-new-historical-evidence-from-daily-transactional-data
+Bank for International Settlements (2016), ‘Electronic trading in fixed income markets’, available at
+https://www.bis.org/publ/mktc07.pdf
+Bank for International Settlements (2018), ‘Monitoring of fast-paced electronic markets’, available at
+https://www.bis.org/publ/mktc10.pdf
+Bank for International Settlements (2018), ‘Triennial Survey of foreign exchange and OTC derivatives
+trading’, available at https://www.bis.org/statistics/derstats3y.htm
+Bank of England, ‘Our History’, https://www.bankofengland.co.uk/about/history
+Bank of England (1969), ‘The Bank of England note: a short history’, Quarterly Bulletin, available at
+https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1969/the-boe-note-a-short-history
+Bank of England (2015), ‘Fair and Effective Markets Review – Final Report’, available at
+https://www.bankofengland.co.uk/report/2015/fair-and-effective-markets-review---final-report
+Bank of England (2017), ‘The UK Money Markets Code’, available at
+https://www.bankofengland.co.uk/-/media/boe/files/markets/money-markets-committee/uk-money-marketscode
+Bank of England (2018), ‘Financial Stability Report’, Issue No. 44
+Bank of England (2018), ‘Record of the Financial Policy Committee Meetings on 20 and 27 November
+2018’, available at https://www.bankofengland.co.uk/-/media/boe/files/record/2018/financial-policycommittee-meeting-november-2018
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+9
+
+Baranova, Y, Coen, J, Lowe, P, Noss, J, Silvestri, L (2017), ‘Simulating stress across the financial system:
+the resilience of corporate bond markets and the role of investment funds’, Bank of England Financial
+Stability Paper No. 42, available at https://www.bankofengland.co.uk/-/media/boe/files/financial-stabilitypaper/2017/simulating-stress-across-the-financial-system-resilience-of-corporate-bond-markets
+BlackRock (2018), ‘BlackRock Global ETP Landscape’, available at
+https://www.ishares.com/ch/individual/en/literature/etp-landscape-report/monthly-industry-highlightsdecember-2018-en-emea-pc-etp-landscape-report.pdf?switchLocale=y&siteEntryPassthrough=true
+Butler, M (2019), ‘Ending reliance on LIBOR: Overview of progress made on transition to overnight risk-free
+rates and what remains to be done’, available at https://www.fca.org.uk/news/speeches/ending-reliance-liboroverview-progress-made-transition-overnight-risk-free-rates-and-what-remains
+Carney, M (2018), ‘Staying Connected’, speech available at https://www.bankofengland.co.uk//media/boe/files/speech/2018/staying-connected-speech-by-mark-carney
+Carroll, Lewis (1871), ‘Through the Looking-Glass’
+City of London, ‘City History’, available at https://www.cityoflondon.gov.uk/things-to-do/visit-the-city/ourhistory/Pages/city-history.aspx
+Climate Bonds Initiative, ‘Bonds and Climate Change: The State of the Market 2018, available at
+https://www.climatebonds.net/resources/reports/bonds-and-climate-change-state-market-2018
+Climate Bonds Initiative, ‘2018 Green Bond Market Highlights’, available at
+https://www.climatebonds.net/resources/reports/2018-green-bond-market-highlights
+Equinix, ‘London-Slough. The World’s New Financial Centre’, available at
+http://info.equinix.co.uk/rs/equinixinc/images/London-CapitalMarkets.pdf
+Global Foreign Exchange Committee (2018), ‘FX Global Code August 2018’, available at
+https://www.globalfxc.org/docs/fx_global.pdf
+Global Foreign Exchange Committee (2019), ‘Global Foreign Exchange Committee Report: The Role of
+Disclosure and Transparency in the Global FX Market’, available at
+https://www.globalfxc.org/docs/the_role_of_disclosure_and_transparency.pdf
+Green Finance Initiative, greenfinanceinitiative.org
+10
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+10
+
+Guiseppi, J (1966), ‘The Bank of England: A history from its foundation in 1694’, Evans Brothers Limited
+The Government Office for Science (2012), ‘Foresight: The Future of Computer Trading in Financial
+Markets’, Final Project Report, available at
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/289431/1
+2-1086-future-of-computer-trading-in-financial-markets-report.pdf
+HM Treasury (2014), ‘Britain issues western world’s first sovereign RMB bond, largest ever RMB bond by
+non-Chinese issuer’, available at https://www.gov.uk/government/news/britain-issues-western-worlds-firstsovereign-rmb-bond-largest-ever-rmb-bond-by-non-chinese-issuer
+HM Treasury (2018)’, ‘Remit and recommendations for the Financial Policy Committee’, available at
+https://www.bankofengland.co.uk/-/media/boe/files/letter/2018/chancellor-letter-291018
+Jain, N, O’Reilly, J & Silk, N (2015), ‘Driverless Cars: Insurers Cannot be Asleep at the Wheel’, Bank
+Underground, available at https://bankunderground.co.uk/2015/06/19/driverless-cars-insurers-cannot-beasleep-at-the-wheel/
+Jeffery, R, Lindstrom, R, Pattie, T, Zerzan, N (2017), ‘The Bank’s Market Intelligence function’, Bank of
+England Quarterly Bulletin 2017 Q1, available at https://www.bankofengland.co.uk/quarterlybulletin/2017/q1/the-boe-market-intelligence-function
+Joint Staff Report (2015), ‘The U.S. Treasury Market on October 15, 2014’, available at
+https://www.treasury.gov/press-center/press-releases/Documents/Joint_Staff_Report_Treasury_10-152014.pdf
+The London Foreign Exchange Joint Standing Committee (FXJSC), ‘Results of the Semi-Annual FX
+Turnover Surveys in October 2018’, available at https://www.bankofengland.co.uk/markets/london-foreignexchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-october-2018
+NEX Markets (2018), ‘NEX Markets experiences a reduction in hold times and reject rates as a result of the
+FX Code of Conduct’, https://newsroom.nex.com/news/04092018/nex-markets-experiences-a-reduction-inhold-times-and-reject-rates-as-a-result-of-the-fx-code-of-conduct
+Salmon, Chris (2017), ‘Keeping up with fast markets’, speech available at
+https://www.bankofengland.co.uk/speech/2017/keeping-up-with-fast-markets
+Van Valen, Leigh (1973), ‘A new evolutionary law’, Evolutionary Theory, Vol 1, pp 1-30
+11
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+11
+
+

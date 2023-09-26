@@ -1,0 +1,1840 @@
+Much ado about something important: How do exchange rate
+movements affect inflation?
+Speech given by
+Kristin Forbes, External MPC member, Bank of England
+47th Money, Macro and Finance Research Group Annual Conference, Cardiff
+11 September 2015
+
+Thanks to Ida Hjortsoe and Tsveti Nenova for playing key roles in the analysis discussed in these
+comments. Further thanks to Stuart Berry, Enrico Longoni, Karen Mayhew, Gareth Ramsay,
+Emma Sinclair, Martin Weale, and Carleton Webb for helpful comments. The views expressed here
+are my own and do not necessarily reflect those of the Bank of England or other members of the
+Monetary Policy Committee
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Shakespeare’s famous play depicts a number of comic examples when people create “Much Ado About
+Nothing.” People play tricks on each other out of boredom. Much fuss is made about things that are
+misunderstood. People are regularly mistaken for someone else. Far too much time and energy is spent on
+things which do not merit it.
+In contrast, movements in exchange rates are very important and merit substantial attention. They affect a
+country’s competitiveness – therefore influencing exports, imports, and overall GDP growth. They affect the
+prices of items coming from abroad – from oil and fruit to iPhone and cars – which feeds through into overall
+prices and how far a pay check can go. Exchange rate movements can make it much harder (or easier) to
+repay debt denominated in foreign currency and affect any earnings on foreign investments. Of primary
+importance for my discussion today, currency movements have critical implications for inflation and the
+appropriate stance of monetary policy.
+The magnitude of recent exchange rate movements has highlighted how important these movements are for
+an economy and the ability of companies to compete internationally. Sterling’s effective exchange rate has
+appreciated 17% since its recent trough in the spring of 2013. The U.S. dollar has appreciated by about 20%
+over the same period, while the euro has weakened by 7%. The yen has been on a downward trend for even
+longer – depreciating more than 30% since June 2012. Many emerging markets have also seen their
+currencies weaken sharply – such as the Turkish lira which has depreciated by 30% and the Brazilian real by
+42% since the start of the year (both against the dollar).
+And this type of volatility in exchange rates is not unprecedented – or even unusual. Figure 1 depicts a
+measure of volatility in global and G7 foreign exchange markets since 2005. Even though volatility has
+recently picked up by this measure, it is still at about the average level since 2010 – and well below levels
+seen around the crisis in 2009. Volatility in exchange rates can create substantial challenges for exporters,
+but may simply be a fact of life to which we need to become accustomed.
+Even though recent exchange rate movements are not particularly unusual, they have still generated a
+substantial amount of attention. Ironically, it is some of the smaller movements that have created the most
+“ado”. For example, when China devalued the yuan by about 2% on August 11, the global response and
+rhetoric was rapid. Both the IMF and U.S. Treasury quickly released formal statements, and many
+Asia-Pacific currencies immediately fell against the dollar. China-sensitive commodity prices dropped sharply
+1
+
+– such as copper and aluminum which reached 6-year lows. The “fear index” recorded the largest two-day
+increase in its history, reaching an intra-day high that was last hit at the end of 2011 as the euro area crisis
+th
+
+unfolded. On August 11 , the Financial Times described these market gyrations in an article entitled:
+‘Surprise China Devaluation Marks Escalation of Currency War’. In the UK, analysts and the press quickly
+assumed that increased volatility and uncertainty following China’s currency adjustment would cause the
+
+1
+
+The VIX index, which measures 30-day implied volatility on the S&P 500.
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+2
+
+MPC to delay raising interest rates. And yes, I said the yuan devaluation which prompted this uproar was
+about 2%, not 20%.
+Figure 1: JP Morgan G7 and Global FX implied
+volatility indices
+30
+
+Sterling’s recent appreciation has generated much
+less fuss, but its effect on UK inflation and monetary
+policy has been much more substantive. Sterling’s
+
+25
+20
+15
+
+2007
+
+2009
+G7
+
+2011
+
+2013
+Global
+
+2015
+
+prices, which has been one important factor driving
+inflation to around zero today (along with the sharp
+declines in energy and food prices). Sterling’s
+
+10
+
+appreciation was mentioned eight times in the March
+
+5
+
+and August 2014 Minutes of the Monetary Policy
+
+0
+2005
+
+appreciation has contributed to a sharp fall in import
+
+Committee (MPC), and eleven times in the August
+2015 Minutes. That could be a record – but I didn’t
+have enough coffee to check all the historic Minutes.
+Whether a record or not, currency movements have
+been a key factor allowing the MPC to keep interest
+
+rates on hold, despite the solid recovery and without worrying (yet) about inflation overshooting our 2%
+target. How sterling’s most recent appreciation, and any future currency movements, affect prices will be a
+critically important determinant of when is the appropriate time to begin raising interest rates.
+Despite all of this “ado” and the important effects of currency movements, we have a surprisingly poor
+understanding of exactly how exchange rate movements affect inflation. Yes – there is a large academic
+literature (to which I will return below) and there is no shortage of analysis and debate. But our existing
+models and estimates have shown their substantial limitations. Some of what we have believed to be key
+tenets in our understanding do not hold up terribly well in UK data. My comments today will discuss three of
+these seeming misunderstandings. First, contrary to common belief, exchange rate movements don’t seem
+to consistently have larger effects on prices in sectors with a higher share of imported content. Second,
+exchange rates don’t seem to consistently have larger effects on prices in the most tradable and
+internationally-competitive sectors. Third, the effects of exchange rates on inflation – and even just on import
+prices – do not seem to be consistent across time. Most of what I learned in grad school on this topic no
+longer seems to apply.
+We clearly need to improve our framework for understanding pass-through. We are missing something. This
+limited understanding of how exchange rate movements affect inflation is – to be candid – quite frustrating
+for those of us tasked to set monetary policy. This is a crucial relationship – especially for an open economy
+such as the UK.
+2
+
+For example, The Guardian reported that: “The first rise in UK interest rates could be delayed until autumn 2016, according to City
+expectations, as market turmoil in China raises the prospect of historically low borrowing costs staying in place for longer than
+expected.”
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+My comments today will begin by describing the standard approach to estimating pass-through. Then it will
+discuss three misunderstandings that present challenges to this approach. I will end by outlining a new way
+of thinking about how exchange rate movements affect prices, a fundamentally new approach that could
+explain at least some of these anomalies. These comments summarize work from a project with Ida Hjortsoe
+and Tsveti Nenova, who are also at the Bank of England (BoE). To be clear, these results are from an
+independent research project, and although we have benefited from extremely helpful discussions with some
+of our BoE colleagues, my comments today do not represent the official views of the Bank of England or the
+Monetary Policy Committee, or any formal change in BoE forecasting models.
+The line of research about which I will talk today, however, suggests an intuitive new framework that could
+provide a critical missing piece in understanding how exchange rate movements affect inflation. The
+framework will undoubtedly need to be fine-tuned and improved on. But part of why I was delighted to have
+this chance to talk to this impressive audience of academics today was that I was hoping to stimulate some
+of you to think about this framework, comment on it, identify any shortcomings, and even build on it in the
+future.
+More specifically, we propose that when analysing how exchange rate movements affect inflation, it is
+crucially important to consider a factor that has previously been largely ignored in this literature – what drives
+the initial exchange rate movement. For comparison, when we analyse how a change in oil prices affects the
+UK, we understand that the effects depend critically on whether the change in oil prices was driven by
+changes in the global supply or demand for oil. In contrast, when thinking about how changes in currency
+prices affect the UK, people generally do not focus on why the currency price initially changed. But whether a
+country’s currency is strengthening because of changes in domestic demand, global demand, domestic
+monetary policy, global supply shocks (including oil), or domestic productivity – could be critically important
+3
+
+in determining how the currency movement affects inflation and the economy. Not surprisingly, companies
+will adjust their prices and margins in different ways based on why the exchange rate is moving.
+Analysis that does not consider the source of the exchange rate movement may provide a blurred picture
+and make it difficult to forecast its effects. For example, we show that when exchange rate movements result
+primarily from changes in domestic and global demand, they are associated with very different inflation
+dynamics than other types of shocks – undoubtedly due to the support to company sales from stronger
+demand. Incorporating these types of considerations goes some way to explaining why exchange rate
+movements have been associated with such different effects on prices at different points over the last
+decade – an issue of much frustration for those of us attempting to forecast inflation.
+
+3
+
+Bussiere, Lopez and Tille (2015) recently raised a related point that exchange rate appreciations driven by domestic productivity
+shocks would have different effects on growth than movements driven by surges in capital inflows. Shambaugh (2008) is the only
+example of an academic paper that we have found which considers how the source of the exchange rate shock could affect
+pass-through. Kirby and Meaning (2015) discuss how different shocks affect the degree of exchange rate pass-through for the UK using
+NIESR’s global structural model.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+For example, sterling’s depreciation during the crisis increased import prices and inflation by more than was
+generally expected. We show that this can at least partly be explained by the reasons behind the
+depreciation – that it reflected an unusually large decline in domestic and global supply. Sterling’s recent
+appreciation has been driven by a very different set of factors, which could explain why it has had less drag
+on import prices than was generally expected. If this trend continues, it would have important implications for
+how recent movements in sterling affect future inflation, and therefore monetary policy.
+Although this new approach could help us understand why it has been so hard to estimate how exchange
+rate movements affect inflation – and especially how that relationship can change so quickly over time in a
+country such as the UK – it is not meant to be exhaustive and does not capture all the subtleties of how
+exchange rate movements affect inflation. For example, there are many structural differences across
+countries that are important in explaining different effects of exchange rate movements – such as the
+currency composition of invoicing, the share of debt in foreign currency, and the monetary policy framework.
+
+4
+
+The fact that the exchange rate sometimes moves in different directions with respect to different currencies
+might also play a role.
+Nonetheless, a greater consideration of why an exchange rate moves could improve our understanding of its
+effects and our ability to forecast the impact on inflation in the future. Most important, a clearer understanding
+might create “less ado” about the effects of exchange rate movements and how monetary policy should
+respond.
+1. What do we know?: current evidence on how exchange rate movements affect inflation
+Economists use the term “pass-through” to capture how changes in the exchange rate “pass-through” to
+import prices, and then to the broader price level and corresponding rate of inflation. Although the concept is
+simple, many factors can influence this relationship. This makes predicting exactly how exchange rate
+movements affect prices less straightforward. Figure 2 gives an idea of the various mechanisms that are in
+play when sterling moves against the euro. This is replicated from a former speech (Forbes, 2014) in which I
+5
+
+discuss the past literature and evidence on pass-through. I will not repeat this summary of the literature
+here – especially as many of you in the audience are undoubtedly familiar with it – but instead refer you to
+the speech if you are interested.
+
+4
+
+See Gopinath (2015) for the role of currency invoicing and Stulz (2005) for the role of monetary policy expectations. See also Fleer,
+Rudolf and Zurlinden (2015), who consider a related angle that sectors with a high price-change dispersion tend to have larger
+pass-through than sectors with low price dispersion.
+5
+See Burnstein and Gopinath (2013) for a recent overview of the academic literature on pass-through and Mishkin (2008) for a
+discussion of exchange-rate pass-through and the implications for monetary policy.
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+Figure 2: Exchange rate pass-through after movements in the sterling/euro exchange rate
+
+For those of you who are not familiar with this literature, however, let me just quickly highlight a couple of key
+points that are critical to the discussion below but are often misunderstood. When discussing how exchange
+rate movements affect prices, it is important to differentiate between the two phases of pass-through. In the
+first phase, changes in the exchange rate affect import prices. This effect is believed to occur fairly quickly
+and be largely complete within a year. In the second phase, these changes in import prices feed through into
+the overall price level and inflation. This second phase is believed to be quite slow – with many estimates
+suggesting that it can be roughly 3 to 5 years before most of the adjustment is made (and even longer for the
+full effect). This second stage is also more difficult to estimate, as it depends on a broad range of
+hard-to-measure variables, including inflation expectations and the credibility of monetary policy.
+Understanding how exchange rate movements first affect import prices and then overall inflation may sound
+like a tedious technical issue of interest only to academics and central bankers. But the effects are
+substantive enough that they should merit consideration by anyone trying to figure out where prices are
+going and what is next for interest rates.
+Using very rough rules of thumb, the BoE has traditionally estimated that the pass-through from exchange
+rate movements to UK import prices is roughly 60% to 90%, and the import intensity of the consumer price
+6
+
+7
+
+index (CPI) is about 30%. This generates an overall pass-through coefficient of around 20% to 30%. In
+6
+
+These numbers have changed over time due to a variety of factors – as will be discussed below – so this example is only meant as a
+rough guide to the magnitude of the effects.
+7
+The 20% is about 60% x 30%. The 30% is about 90% x 30%. These are all rounded to highlight that they are very rough estimates.
+These are multiplied by the size of the exchange rate movement to estimate the final pass-through to prices.
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+other words, the 17% appreciation of sterling that has occurred since the spring of 2013 would reduce the
+level of the consumer price index by about 3 to 5%. Even if this is spread across several years, this effect on
+prices and inflation is meaningful. And in a recent speech, I raised the possibility that exchange rate
+pass-through may be occurring faster today than in the past, accelerating the immediate impact on inflation.
+
+8
+
+But the magnitude of these estimates seems large relative to the more modest falls in import prices recently.
+Especially, after taking into account BoE analysis suggesting that other factors are currently also playing an
+important role in dragging down inflation. Recent declines in energy and food prices are estimated to be
+dragging down inflation by around 1¼ percentage points compared to the pre-crisis average contribution.
+
+9
+
+Low inflation in key trading partners, and any remaining slack in the economy, may also be restraining
+wages, domestic costs, and prices. Is there other evidence on the role that exchange rate movements play in
+driving inflation dynamics?
+Micro-level data provides a useful check on the impact of exchange rate movements on prices, as well as of
+its importance relative to other factors influencing inflation. More specifically, we use data on the prices of
+each of the 85 separate goods and services that comprise the UK headline CPI index from 1996 through
+September 2008.
+
+10
+
+Then we estimate a series of component level regressions to evaluate how closely the
+
+prices of each of these 85 sectors moves with changes in four variables: sterling, oil prices, foreign export
+prices, and the output gap.
+
+11
+
+Appendix A lists the 10 goods and services that are most correlated with each of these four variables (along
+with their corresponding estimated correlations).
+
+12
+
+The results are largely intuitive. For example, sectors
+
+whose prices move most closely with oil prices are “liquid fuels” and “fuels and lubricants” – with low
+correlations between oil prices and prices in other sectors. Sectors whose prices move most closely with
+sterling are often related to food and energy (such as air transportation, vegetables, gas, fuels, tobacco, and
+food products). These are sectors where prices are largely set in international markets and it is therefore not
+surprising they are highly sensitive to exchange rate movements. Most sectors tend to have very low
+correlations with the output gap, supporting evidence of a “flat” Phillips curve and low estimated correlations
+between the output gap and inflation.
+
+13
+
+8
+
+See Forbes (2015a). The Federal Reserve Board assumes a substantially faster rate of pass-through to inflation, as shown in Fisher
+(2015).
+9
+This is consistent with the Governor’s recent letter to the Chancellor of the Exchequer dated August 6 2015, in which he points out that
+the recent drops in energy and food prices explain about 1½ percentage point of the deviation of inflation from target, when combined
+with the downward pressure from sterling’s appreciation.
+10
+We end the analysis in 2008 in order to avoid confusing the effects of the exchange rate depreciation in 2007/8 with the VAT changes
+in the UK in the following years, which are likely to have affected the CPI components to different degrees.
+11
+The estimation method for these 85 component-level regressions is basically a New Keynesian Phillips curve model with explanatory
+variables for expected and lagged inflation, changes in the sterling exchange rate index (ERI), oil prices in US dollars, foreign export
+prices in foreign currency, and the UK output gap. We follow the literature and use lags of these variables as instruments to correct for
+the endogeneity arising from the use of actual future inflation as a proxy for expected inflation. See Forbes (2015b), Table 2 and related
+text, for further detail.
+12
+The ranking is based on the test statistic of the regression coefficient of each good/service to the respective explanatory variable. The
+goods most correlated with sterling are those with the most negative t-stat from the GMM regression, whereas the goods most
+correlated with oil, foreign export prices and the output gap are those with the highest positive t-stat associated with the coefficient on
+each of those variables.
+13
+See Forbes (2015b).
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+Next, we use these estimates from Appendix A of the sectors most sensitive to changes in exchange rates,
+oil prices, foreign export prices, and the output gap to calculate how movements in each of these more
+sensitive goods and services affect overall inflation. More specifically, each graph in Figure 3 shows CPI
+inflation since 1998 in the blue lines. The red bars in each graph show how much of this inflation can be
+explained by price changes in the “basket” of the 10 goods or services identified as being most sensitive to
+movements in either sterling (part a), oil prices (part b), foreign export prices (part c), or the output gap
+(part d).
+
+14
+
+In other words, Figure 3a shows how much of headline inflation is explained by the basket of 10
+
+goods and services most sensitive to sterling’s moves. It shows the actual contribution to overall inflation
+from these sectors (rather than estimates of how sterling or other factors influenced UK inflation through
+these sectors). The goal is to see whether sectors particularly sensitive to certain price movements and
+variables explain a disproportionate share of recent movements in UK inflation.
+A quick look at Figure 3 suggests that movements in just the 10 sectors more sensitive to sterling’s
+movements explain a significant share of movements in overall inflation. In fact, this sterling-sensitive basket
+(and by extension probably movements in sterling) explains more of the CPI than the corresponding baskets
+and movements for oil prices, foreign export prices, and the output gap. More specifically, the
+sterling-sensitive basket has on average accounted for 29% of overall CPI inflation over the 1998-2015q1
+period, the oil-sensitive basket for 22%, the foreign export price-sensitive one for 10%, and the output
+gap-sensitive basket has averaged around 0%. And the correlation betweenthe sterling-sensitive basket’s
+inflation rate and quarterly CPI inflation was 0.85 during the same period, that of the oil-sensitive basket was
+0.66, for the foreign export price-sensitive basket it was 0.63, and that for the output gap-sensitive basket
+was 0.79.
+This simple analysis suggests that if one wants to understand movements in headline inflation, it is critically
+important to consider movements in the exchange rate, and in turn, how exchange rate movements affect
+different prices throughout the economy. Unfortunately, this is where things begin to get complicated. In the
+following, I will point out three common misunderstandings on exchange rate pass-through, and propose a
+framework which could potentially explain why these arise.
+
+14
+
+The same good can appear in more than one basket. This reflects the fact that, for example, goods that are traded in international
+markets may be sensitive to both movements in the exchange rate and foreign export prices.
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+Figure 3: Annual CPI inflation and contributions from the components most correlated* with sterling,
+oil, foreign export prices and the UK output gap
+a) Sterling
+
+b) Oil price
+5
+
+10 components
+most correlated
+with sterling
+CPI
+
+5
+10 components
+most correlated
+with oil
+CPI
+
+4
+3
+
+4
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+1998
+
+2000
+
+2003
+
+2006
+
+2008
+
+2011
+
+2014
+
+-1
+
+1998
+
+c) World export prices
+
+2000
+
+2003
+
+2006
+
+2008
+
+2011
+
+2014
+
+d) UK output gap
+5
+
+10 components most
+correlated with world
+export prices
+CPI
+
+5
+10 components most
+correlated with UK
+output gap
+CPI
+
+4
+3
+
+4
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+1998
+
+2000
+
+2003
+
+2006
+
+2008
+
+2011
+
+2014
+
+-1
+
+1998
+
+2000
+
+2003
+
+2006
+
+2008
+
+2011
+
+2014
+
+* The goods most correlated with each of the factors are those with the highest t-stat from a Phillips curve equation, which includes all
+four variables above along with the inflation lag and lead for each component. For sterling we use the most negative t-stat, as we would
+expect prices to fall in response to an exchange rate appreciation. See Forbes (2015b) for further detail of the estimation method.
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+2. Misunderstanding 1: pass-through is greater in sectors with a greater import content
+
+One of the standard assumptions used to estimate pass-through is that countries and sectors that have a
+higher share of imported goods or imported content should exhibit a greater sensitivity of prices to exchange
+rate movements. Granted, there are other factors that could mitigate this relationship – such as the degree of
+competition (discussed below) or the currency in which prices are calculated. But at a broad level, one would
+expect to see a pattern that sectors with a greater share of imported content tend to be more sensitive to
+changes in the exchange rate. To take an example often used in economic textbooks, one might expect that
+prices in the sector “hairdressing” (a sector that is clearly labour-intensive, with a low import content, and
+hard to trade across borders) would not see prices that fluctuate substantially based on exchange rate
+movements. On the other hand, one might expect that prices in a sector such as fruit – which is largely
+imported in the UK – would be more sensitive to exchange rate movements.
+
+To see if this intuitive relationship holds, we use the correlations between prices in each of the 85 sectors
+discussed above and sterling’s movements to estimate a “sterling coefficient” that captures how sensitive
+prices in each sector are to sterling’s movements.
+
+15
+
+Figure 4 shows the resulting sterling coefficients (in
+
+yellow) and the import-intensity of each sector in blue. The sectors are shown starting on the left with those
+with lower import intensities and moving to the right as import intensities increase. One would expect to see
+a general pattern in which the sterling sensitivity as proxied by the sterling coefficients (the yellow lines) tend
+to increase gradually as you move from left to right—roughly following the pattern for the blue lines capturing
+import intensity by sector. (To simplify readability, sterling sensitivity is expressed so that a higher number
+means a higher price fall after an exchange rate appreciation.)
+But the yellow lines show no such pattern – even if you squint or look with one eye. There is no evidence that
+prices in sectors with a higher import intensity are more correlated with sterling’s movements.
+
+16
+
+Sensitivity to
+
+sterling appears to occur randomly when sectors are ranked by import intensities. In fact, the correlation of
+sterling sensitivity and import intensity by sector is even negative at ‒ 0.08! This is not only close to zero, but
+the opposite sign of what one would expect.
+
+17
+
+15
+
+The estimation method for these component-level regressions is described in footnote 11.
+This analysis uses the publicly available direct import intensities published here by the ONS. The results are unchanged if we adjust
+the import intensities to account for the imported intermediate goods used in the production of the final consumption goods and services
+in the CPI basket (which is based on confidential data and therefore not reported here).
+17
+The estimated sterling coefficients remain little changed if we exclude the large 1996/7 sterling appreciation – the only large sterling
+move during the estimation period – from the sample. At this level of disaggregation, however, it may be the case that the lack of
+sterling sensitivity of some import intensive goods partly reflects the fact that they are only sensitive to a specific sterling bilateral
+exchange rate. Some sectors might also be very slow in adjusting domestic prices in response to a change in the imported prices. Our
+framework does not examine these different dynamics.
+16
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+Figure 4: Import intensities of 85 CPI components and their price sensitivity to changes in sterling
+
+As an additional check on this puzzling relationship,
+we examine the correlations between sterling
+
+Figure 5: Import intensity (x-axis) and sterling
+sensitivity (y-axis) of 29 broader CPI
+components
+
+sensitivities and import content for broader groups of
+29 goods and services – hoping that the expected
+pattern might at least appear in this more aggregated
+sectoral data.
+
+18
+
+A summary of this analysis is shown
+
+in Figure 5, which graphs each sector by import
+intensity on the y-axis and sterling sensitivity on the
+x-axis. The negative slope is again the opposite of
+what we would expect. Goods with higher import
+content appear to be less sensitive – instead of more
+– to sterling’s movements (although the relationship
+2
+
+has little explanatory power with an R of close to
+zero).
+The puzzle deepens.
+
+18
+
+*We would expect a positive relationship. The picture is
+unchanged if we exclude fruit & vegetables as well as energy.
+
+The group of goods and services chosen is those publically available in the Eurostat PPP database.
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+3. Misunderstanding 2: pass-through is greater in sectors that are more tradable and internationally
+competitive
+One possible explanation for why exchange rate sensitivity appears to have little relationship to import
+intensity across sectors is that other characteristics of the sector are more important – such as its tradability
+or degree of international competition. More specifically, consider what happens when sterling appreciates
+and causes import prices to fall. UK firms producing goods sold in the UK, but prone to international
+competition, might have to reduce their prices in line with the price reductions of similar foreign goods in
+order to avoid losing market share. This implies that if goods are tradable and/or compete with international
+goods – despite being produced and sold in the UK and having minimal import content – their price could still
+be sensitive to changes in the exchange rate.
+
+A good example of this is alcoholic beverages. The sector has a relatively low import intensity (partly due to
+high taxes and duties), but is easily tradable. The prices of alcoholic beverages are also sensitive to
+exchange rate movements and prices in other countries (as anyone who walks through a duty-free shop in
+an airport quickly realizes).
+Measuring tradability and the degree of international competition, however, is not straightforward. But, as a
+rough proxy, we conjecture that goods that are more tradable must have more similar price levels across
+countries, i.e. they must show some evidence of the law of one price (LOOP). We compare the price levels
+of goods in the UK and the EU15 for approximately 30 different CPI components.
+
+19
+
+Then we consider two
+
+different LOOP measures of tradability, one which focuses on average price levels and the other which
+accounts for deviations. The details of these measures are described in Appendix B.
+
+20
+
+The results of this analysis are shown in Figure 6. In each graph, the good’s price sensitivity to sterling is
+graphed on the y-axis (with a higher coefficient indicating greater sensitivity) and the good’s tradability is
+measured on the x-axis (with a lower measure indicating the good is more tradable). Therefore, one would
+expect a negative relationship, showing that more tradable goods are more sensitive to the exchange rate,
+with the fitted line sloping down to the right. Instead the top two panels, which use the two different measures
+of tradability, show a positive relationship, although with a fairly low degree of explanatory power. At first
+glance, the tradability measures do not appear to help us understand what determines the sensitivity of
+different goods’ prices to exchange rate movements.
+
+19
+
+Given that the EU is the UK’s main trading partner, we consider prices in this region to be a good enough proxy for the degree of
+international competition that the UK faces in each sector. Moreover, international pricing competition between the UK and EU is not
+distorted by tariffs on traded goods between them.
+20
+The data used to compute the measures is from Eurostat’s PPP database.
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+Figure 6: Tradability measures (x-axis) and sterling sensitivity (y-axis) of 29 broader CPI components
+1.00
+
+1.00
+
+0.80
+
+0.80
+
+0.60
+
+0.60
+
+0.40
+
+y = 0.1684x + 0.071
+R² = 0.0126
+
+0.20
+
+0.40
+0.20
+
+0.00
+
+0.00
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+0
+
+-0.20
+
+-0.20
+
+-0.40
+
+-0.40
+
+Note:
+on x-axis (the lower the measure the more tradable
+is the good); price sensitivity to sterling on y-axis (the higher is
+the coefficient, the more sensitive is the price of the good to
+sterling). We would expect a negative relationship.
+
+0.40
+
+0.30
+
+0.30
+
+0.20
+
+0.20
+
+0.10
+
+0.10
+
+0.3
+
+y = 1.2757x - 0.0395
+R² = 0.0736
+
+0.00
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+0
+
+-0.10
+
+-0.10
+
+-0.20
+
+-0.20
+
+-0.30
+
+-0.30
+
+-0.40
+
+0.2
+
+Note:
+on x-axis (the lower the measure the more tradable
+is the good); price sensitivity to sterling on y-axis (the higher is
+the coefficient, the more sensitive is the price of the good to
+sterling). We would expect a negative relationship.
+
+0.40
+
+0.00
+
+0.1
+
+y = -0.5874x + 0.0945
+R² = 0.3584
+
+Note: Narrow
+(excluding energy and fruit and vegetables)
+and sterling sensitivity on x-axis.
+
+0.05
+
+0.1
+
+0.15
+
+0.2
+
+y = -0.9477x + 0.1272
+R² = 0.0391
+
+-0.40
+Note: Narrow
+(excluding energy and fruit and
+vegetables) and sterling sensitivity on x-axis.
+
+A closer look at the data, however, suggests the expected relationship may hold for at least some of the
+sectors. More specifically, if we only focus on the 10 most tradable goods identified by each measure, all
+appear to have prices that are sensitive to the exchange rate as expected. You could also make the case
+that sectors such as “electricity, gas and other fuels” and “fruit, vegetables and potatoes” should not be
+included because their prices are largely determined by global factors. If these sectors are excluded, there is
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+the expected negative relationship between tradability and sterling sensitivity. This is shown in the bottom
+two panels of Figure 6.
+However, the relationship remains weak.
+
+21
+
+This suggests that although tradability and the degree of
+
+international competition may play some role in some sectors’ sensitivity to sterling’s movements, the effect
+does not appear to be nearly as strong as one might expect.
+The puzzle remains.
+4. Misunderstanding 3: pass-through is constant across time
+
+One assumption that is traditionally made in many institutions when analysing pass-through is that it is fairly
+stable over time – at least within a given country. This assumption has continued to be used in most
+analyses of pass-through, despite it being challenged in a number of studies over the years – including at the
+Bank of England.
+
+22
+
+Recent evidence from the UK has again highlighted that the magnitude of pass-through
+
+continues to change over time.
+
+More specifically, consider Figure 7, which graphs the sensitivity of CPI inflation to exchange rate
+movements over time for the UK. The solid blue line is calculated as the coefficient on the sterling exchange
+rate from a standard rolling Phillips’ curve regression (over a 10-year window). The dashed lines show the
+95% confidence band. Given these long windows, it is important to interpret the values on the graph at any
+point in time not as the extent of pass-through at that time, but as the average pass-through over the historic
+period of the window. A higher value indicates that a given appreciation of the exchange rate causes inflation
+to fall by more. The graph clearly shows that the CPI became more sensitive to exchange rate movements
+during and after the crisis.
+
+23
+
+One possible explanation, which has been cited in other countries to explain why pass-through has
+increased over time, is that this would be expected as imports and trade competition increase. If imports and
+traded goods constitute a larger share of the consumption basket, changes in the exchange rate that affect
+import prices and tradable goods would naturally have a greater impact on overall prices. It is true that
+imports to the UK have increased over time, as has the imported content in the price index (which
+incorporates both imported consumer goods as well as any imported component of other goods). But that
+
+21
+
+The weakness could potentially be due to the fact that the UK imposes a VAT rate on some goods which is different from the EU15
+average VAT rate on that good. While the tradability measures correct for the average difference in price levels (and therefore the
+average difference in VAT rates), it does not correct for deviations in differences between individual goods’ VAT rates from the average
+difference in VAT rates.
+22
+Mumtaz et al. (2006) pointed this out for the UK when they found that the pass-through to import prices had decreased significantly
+between 1995 and 2004. Marazzi et al (2005) documented that the pass-through to import prices in the US fell sharply from the 1980s
+to the mid-1990s. For Switzerland, Stulz (2005) documented that pass-through fell in the 1990s, while Fleer, Rudolf, and Zurlinden
+(2015) documented that it increased sharply in 2010-2011.
+23
+More specifically, the model is the New Keynesian open-economy Phillips curve described in Forbes (2015b) and the blue line is the
+trailing, rolling coefficients on changes in the sterling exchange rate estimated using 10-year rolling windows.
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+increase since the early-1990s has been slow and gradual and cannot explain the more recent increase in
+exchange rate pass-though.
+
+24
+
+Figure 7: Rolling 10-year exchange rate coefficient
+from aggregate CPI Phillips curve vs componentweighted time-invariant coefficients
+
+Figure 8: Rolling 10-year exchange rate
+coefficient from OLS regression of UK import
+prices on the exchange rate and foreign export
+prices
+
+Note: A higher coefficient implies that prices fall more in response to
+an appreciation, i.e. greater exchange rate pass-through.
+
+Note: A higher coefficient implies that prices fall more in
+response to an appreciation, i.e. greater exchange rate passthrough.
+
+Another explanation might be that the mix of the CPI basket has shifted over time from goods with lower to
+goods with higher pass-through.
+
+25
+
+But some simple analysis suggests this has not driven the increase in
+
+pass-through over time for the UK. The green line in Figure 7 shows the mechanical impact of changes in the
+composition of the CPI basket on the sensitivity of prices to the exchange rate.
+
+26
+
+The effects are very small.
+
+Moreover, even if these types of changes in the import shares or baskets of the consumer price index played
+some role in causing the changes in overall pass-through from the exchange rate to final consumer prices, it
+would be less likely to affect the first stage of pass-through – from exchange rates to import prices. And
+evidence suggests that this first stage of pass-through has also changed quite sharply over the past decade.
+For example, Figure 8 graphs the sterling coefficient estimated from a simple OLS regression of UK import
+prices on foreign export prices in foreign currency and the sterling trade-weighted exchange rate index, using
+a 10-year rolling window.
+
+27
+
+Once again, given these long windows, it is important to interpret the values at
+
+any point in time as the average pass-through over the historic window. And once again, the graph shows
+24
+
+If anything, we have seen a slowdown in the rise in imports’ share in UK consumption since the crisis – which should imply a lower
+and not higher pass-through.
+25
+Campa and Goldberg (2002) find that changes over time of the first stage of pass-through are primarily due to such compositional
+changes in many OECD countries.
+26
+We use the full sample coefficient on sterling from Phillips curve equations estimated for each of the 85 CPI components and weight
+them by the changing annual weights of these goods/services in the CPI basket. This creates a measure of how exchange rate
+sensitivity has changed over time purely due to compositional changes, i.e. consumers buying goods or services that are more or less
+sensitive to the exchange rate over time.
+27
+The regression is estimated using quarterly changes in all variables and includes the contemporaneous value and three lags of the
+explanatory variables. The rolling sterling sensitivity in Figure 8 is the sum of the coefficients on all lags of the exchange rate.
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+substantive changes in the extent of pass-through over time – even in just this first stage. Pass-through
+appears to have increased after the crisis and fallen over the past year.
+A closer look at the data underlying these regressions shows the challenges that these changes in the first
+stage of pass-through have created for forecasting import prices and inflation in the UK. Figure 9 graphs
+annual changes in UK import prices and foreign export prices in sterling terms. Through the 1990s and most
+of the 2000s, UK import prices moved in the same direction as foreign export prices (converted into sterling
+in Figure 9), but by a smaller amount. Starting around 2010, however, UK import prices began to move
+almost one-for-one with foreign export prices. This
+Figure 9: UK import prices and
+UK-trade-weighted foreign export prices in
+sterling terms
+
+greater pass-through at this first stage was a key
+factor discussed by the MPC when explaining why
+inflation was higher than expected from 2010
+through 2013. Over the last year, however, this
+relationship between UK import prices and foreign
+export prices seems to have diminished. Movements
+in foreign export prices have recently been
+associated with smaller movements in UK import
+prices than occurred from 2010-2013. If this lower
+degree of pass-through at the first stage continues,
+there could be less drag on inflation from sterling’s
+recent appreciation than models would predict using
+the recent past to estimate pass-through.
+
+To summarize, recent evidence from the UK supports results from several countries at different time periods
+– that pass-through appears to change over time. Given that this point has been made in the past, it is
+unclear why it has not been incorporated in mainstream thinking and analysis on pass-through. This may
+partly reflect the impossibility of forecasting pass-through if it changes over time – and especially if one does
+not fully understand why it changes.
+5. A new approach: consider why the exchange rate moved
+Let me summarize what we’ve learned (or not learned) so far. CPI-components with higher import intensities
+do not seem to be systemically more sensitive to changes in the exchange rate. Sectors which are more
+tradable and face greater international competition do not seem to be systemically more sensitive to changes
+in the exchange rate. Changes in the exchange rate do not seem to affect different goods and sectors in the
+most basic ways which one would expect. And pass-through does not seem to be constant over time – even
+just the first stage of pass-through from exchange rate movements to import prices. There must be a critical
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+16
+
+missing piece. There must be other channels by which changes in the exchange rate can affect different
+sectors and the CPI and that could explain these three puzzles.
+
+One possibility is that when we discuss how exchange rate movements affect import prices and inflation, we
+tend to ignore what caused the exchange rate to move in the first place. We simply take the exchange rate
+fluctuation as given, i.e., as an “exogenous shock”. But very different types of factors or shocks cause
+exchange rate movements. For example, if sterling appreciated due to an increase in UK productivity,
+companies would be able to lower their final prices (to match cheaper imports) and still maintain margins and
+sale volumes. On the other hand, if sterling appreciated due to a sharp increase in UK demand, companies
+might not lower their final prices due to their expectations for strong domestic sales. Why the exchange rate
+initially moves could clearly be important in determining how companies respond and adjust prices. This is
+an issue which has received some attention in the theoretical literature, but almost no attention in the
+voluminous empirical literature on pass-through.
+
+28
+
+The one notable exception is Shambaugh (2008).
+
+A new research paper (Forbes, Hjortsoe, and Nenova, 2015), however, develops these ideas more formally
+and tests them empirically. This is a long research paper – so I will only briefly summarize the framework,
+model, and key results. I hope you will look at the longer paper and send any comments and suggestions.
+In this paper, we use an SVAR model to identify six different domestic and global shocks which could impact
+the exchange rate as well as import prices, consumer prices, GDP, interest rates, and foreign export prices.
+The six shocks on which we focus are: UK supply shocks, UK demand shocks, UK monetary policy shocks,
+exogenous exchange rate shocks, global supply shocks, and global demand shocks. These six shocks can
+incorporate most factors that one would believe could drive exchange rate movements. For example, a UK
+supply shock could capture changes in UK productivity growth, and a global supply shock could capture
+changes in oil prices. To identify these shocks we impose a set of identification criteria consistent with
+economic theory. We use a combination of zero short- and long-run restrictions, combined with sign
+restrictions.
+
+29
+
+We use this framework to estimate a VAR model using quarterly data over the period 1980q2 through
+2015q1.
+
+30
+
+To simplify comparisons, we look at different scenarios under which sterling would have
+
+appreciated by 1% after four quarters. In other words, we set the magnitude of each of the shocks (to UK
+demand, UK supply, etc.) as needed to cause an identical 1% exchange rate appreciation at the end of 4
+
+28
+
+For example, Corsetti and Dedola (2007) show that the degree of pass-through varies based on whether the shock hits upstream or
+downstream producers, and Corsetti, Leduc and Dedola (2005) stress the importance of controlling for the general-equilibrium effects of
+the shocks leading to exchange rate movements when measuring pass-through. Of course, economic forecasts do control for different
+shocks to demand and supply to some extent.
+29
+Our identification strategy rests on several key assumptions, all of which are explained in more detail in the paper. First, only supply
+shocks affect the level of output in the long run. Second, domestic shocks do not affect world (ex-UK) export prices on impact or in the
+long run (which is logical for a small open economy such as the UK, albeit not all countries). Finally, we impose several short-term sign
+restrictions on domestic shocks. Supply shocks are associated with a negative correlation between GDP and the CPI, and demand
+shocks are associated with a positive correlation between GDP, the CPI and the exchange rate. Expansionary monetary policy shocks
+are associated with a rise in GDP and the CPI and a depreciation of the exchange rate. Exogenous exchange rate appreciations imply a
+fall in the CPI and no resultant increase in the interest rate. Importantly, no restrictions are imposed on import prices.
+30
+The VAR includes two lags of the explanatory variables and is estimated with Bayesian methods, using standard Minnesota priors.
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+17
+
+quarters. Then we estimate the accumulated impulse responses to see how the different variables would
+respond to this 1% appreciation based on what caused the appreciation.
+Figure 10 graphs the results for the estimated median effects on the exchange rate (in red), import prices (in
+green), and consumer prices (in blue) from the six different shocks. It is immediately apparent that the
+impact of a 1% appreciation on import prices and consumer prices can vary significantly based on what
+caused the appreciation. And these effects vary not only in their magnitude and duration, but even in their
+sign.
+
+31
+
+There are a number of noteworthy results in these graphs, so it useful to discuss the results for the
+
+different phases of pass-through separately.
+Figure 11a summarizes the results from Figure 10 for the effect of the six appreciation scenarios on import
+prices, i.e., the first stage of pass-through. It shows that exchange rate appreciations are associated with
+lower import prices in all cases, except when the appreciation results from a positive shock to global
+demand. This makes sense; import prices would normally fall after sterling appreciates. But, if an increase in
+global demand simultaneously creates inflationary pressure for world prices (and, in turn, for UK import
+prices), this could outweigh the downward pressure on UK import prices from the appreciation.
+
+32
+
+An
+
+appreciation that results from a positive shock to UK demand also creates less drag on import prices than
+the other factors, but since a domestic demand shock has less effect on foreign export prices, UK import
+prices still fall some.
+This minimal effect on UK import prices from UK demand shocks is also intuitive. An improvement in demand
+would simultaneously drive up UK inflation, making it less necessary for importers to reduce their prices,
+despite a lost off competitiveness internationally. The strongest negative effect on import prices after four
+quarters (when this first stage of pass-through is largely complete) is when the appreciation results from a
+global supply shock.
+
+31
+
+There is obviously significant uncertainty around these impulse responses and Forbes, Hjortsoe and Nenova (2015) discuss this in
+greater detail.
+32
+The full set of results also shows that the increase in import prices is lower than the increase in world prices.
+18
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+18
+
+Figure 10: Median impulse responses of the exchange rate, import prices and CPI to appreciations
+Supply shock
+
+Demand shock
+
+Exchange rate
+
+Exchange rate
+
+4
+
+Import prices
+
+4
+
+Import prices
+
+3
+
+3
+
+Consumer prices
+
+Consumer prices
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+
+-2
+
+-2
+
+-3
+
+-3
+
+-4
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+-4
+0
+
+Monetary policy shock
+
+4
+
+8
+
+12
+
+16
+
+20
+
+Exchange rate shock
+
+Exchange rate
+
+Exchange rate
+
+4
+
+4
+
+Import prices
+
+Import prices
+
+3
+
+3
+
+Consumer prices
+
+Consumer prices
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+
+-2
+
+-2
+
+-3
+
+-3
+
+-4
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+-4
+0
+
+Global supply shock
+
+4
+
+8
+
+12
+
+16
+
+20
+
+Global demand shock
+
+Exchange rate
+Import prices
+Consumer prices
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+Exchange rate
+
+-1
+
+-1
+
+Import prices
+
+-2
+
+-2
+
+Consumer prices
+
+-3
+
+-3
+
+-4
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+-4
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+19
+
+Moving to the second stage of pass-through, Figure 11b summarizes the results from Figure 10 on the
+impact of the six appreciation scenarios on CPI inflation. Appreciations associated with positive UK supply
+shocks – such as productivity gains – cause the sharpest fall in inflation. Global supply shocks also cause a
+fall in UK inflation, although by a smaller amount. This is intuitive as supply shocks can reduce prices – in
+and above their impact on the CPI – and allow companies to keep margins constant while still lowering
+prices in response to an appreciation. Perhaps most striking, however, are the large positive effects on
+inflation after an appreciation if this is driven by a positive shock to UK or global demand. Apparently
+stronger UK or global demand can allow companies to avoid lowering prices after an appreciation. This
+supports some evidence that income effects – faster growth in exporting countries – can outweigh price
+effects from exchange rate movements.
+
+33
+
+Figure 11a: Ratio of import price response vs
+exchange rate response to each shock
+
+Figure 11b: Ratio of CPI response vs exchange
+rate response to each shock
+
+These results on how appreciations can have different effects on import prices and inflation based on what
+caused the exchange rate to move may be intuitive, but can they explain some of the changes in exchange
+rate pass-through experienced by the UK over the last few years? To test this, we use this SVAR framework
+to decompose changes in the sterling exchange rate index since 1981. More specifically, Figure 12 graphs
+exchange rate changes in black, and then each quarter breaks down how much of any exchange rate
+movement results from the same six shocks: UK supply shocks, UK demand shocks, UK monetary policy
+shocks, exogenous exchange rate shocks, global supply shocks, and global demand shocks.
+
+34
+
+Changes in
+
+UK demand and UK monetary policy (the light and dark blue shading) have been the key drivers behind the
+large movements in sterling over much of this period. These types of shocks are responsible for the “normal”
+levels of pass-through.
+
+33
+
+See Forbes (2014).
+The full paper also performs this decomposition for the other five variables in the paper: import prices, CPI inflation, GDP, interest
+rates, and foreign export prices.
+34
+
+20
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+20
+
+Figure 12: Historical shock decomposition of annual changes in sterling exchange rate index
+
+But in order to understand why pass-through has changed over time, it is necessary to examine how the
+sources of shocks behind major exchange rate movements have changed over time. Since it is difficult to
+discern these differences in the colourful and detailed graphs since 1981, Figure 13 blows up the parts of the
+graph related to the two largest recent sterling depreciations (1992 and 2007-8) and two appreciations
+(1996-7 and 2013-5).
+The 2007-8 depreciation stands out in these graphs for the role of negative global and UK supply shocks (in
+red and green).
+
+35
+
+These sharp negative supply shocks are unusual – even for a depreciation. The discussion
+
+above also highlighted that currency movements resulting from negative global, and especially UK, supply
+shocks tend to be associated with substantially larger price movements than other types of shocks. In other
+words, the nature of the shocks causing the 2007-8 depreciation could have caused the higher rate of
+pass-through than expected, and the corresponding higher rate of inflation than forecast. And although the
+above discussion focused on the channels through which this would occur during an appreciation, they also
+apply after a depreciation. More specifically, if a depreciation occurred partly due to a sharp negative UK or
+global supply shock (reflecting lower productivity and/or a collapse in the financial system that increased
+financial constraints), then UK firms might take advantage of higher import prices to raise domestic prices in
+order to pay for higher production costs and generate enough cash flow to stay in business. Gilchrist and
+Zakrajsek (2015) present strong evidence that these types of effects were important in explaining why
+inflation did not fall as much during the crisis as would have been expected by the contraction in demand.
+
+35
+
+Both these negative global shocks depreciate the exchange rate because even though they are global (affecting the world and UK
+simultaneously), they might impact the UK relatively more than the rest of world, such that the exchange rate depreciates.
+21
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+21
+
+Figure 13: Historical shock decomposition of four large moves in the exchange rate (cumulative
+percent change since preceding peak/ trough)
+1992 depreciation
+
+1996/7 appreciation
+
+2007/8 depreciation
+
+2013/4/5 appreciation
+
+In contrast to the depreciation episode after the crisis, global and UK supply shocks have not played an
+important role in driving sterling’s most recent appreciation. If anything, weakness in UK supply (undoubtedly
+reflecting weak productivity growth) has moderated the appreciation. As a result, UK companies are likely
+finding it more difficult to reduce their prices to compete with cheaper imports than they would if ways had
+been found to raise productivity. This could be why a key reason why there appears to be less pass-through
+from recent exchange rate movements today than occurred during the 2007/8 depreciation.
+
+6. Conclusions and implications for monetary policy
+In Shakespeare’s play “Much Ado about Nothing”, the word “nothing” was not only a reference to the
+tremendous fuss made about events which should have had no import, but also a play on the terms “noting”
+or “noticing” (which were pronounced as “nothing” in old English). In other words, the play was also a lesson
+on the importance of paying attention to details and truly understanding what is going on. If the key
+22
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+22
+
+characters in the play had been more careful to verify what they thought they knew before jumping to
+assumptions, they could have avoided much heartache and drama.
+
+As this talk has shown, this insight on the importance of “noting” is also critically important when analysing
+how exchange rate movements affect inflation – and therefore monetary policy. Some of our most basic
+assumptions and priors do not do a particularly good job in explaining recent pass-through in the UK. More
+specifically, sectors with a higher imported content do not systemically appear to be more sensitive to
+sterling’s movements. Sectors that are more tradable and face greater international competition show only
+limited evidence of greater sensitivity to sterling’s moves. And the extent of pass-through from sterling’s
+movements to both CPI inflation as well as import prices has changed over time. This has created
+substantial challenges to predicting how recent exchange rate movements will affect inflation in the future.
+After “noting” these challenges, it is clear that we need to rethink how we assess the impact of exchange rate
+movements on prices. My comments propose a new approach that puts more emphasis on the underlying
+reasons why the exchange rate moves. This can help explain some of the puzzles in pass-through and why
+exchange rates can have different effects on import prices and inflation at different times. This approach can
+also help explain the sharp increase in pass-through and surprising pickup in inflation after the crisis.
+Perhaps most important for monetary policy today, this approach also suggests that sterling’s recent
+appreciation could create less drag on import prices and inflation than we might have expected if the levels
+of pass-through seen after the crisis persisted. If this plays out, monetary policy would need to be tightened
+sooner than based on the older models. Some may not view this as the happy ending in Shakespeare’s play
+when the star-crossed lovers were finally reconciled. But a better understanding of pass-through would
+improve our ability to forecast inflation and adjust monetary policy in advance as appropriate, avoiding the
+types of errors that lead to drama and heartache.
+
+23
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+23
+
+References
+Bussiere, Matthieu, Lopez, Claude and Tille, Cedric (2015). “Currency Crises in Reverse: Do Large Real
+Exchange Rate Appreciations Matter for Growth?”, Economic Policy 30(81).
+Corsetti, Giancarlo, Dedola, Luca and Leduc, Sylvain, 2007. "Optimal Monetary Policy and the Sources of
+Local-Currency Price Stability", International Dimensions of Monetary Policy, National Bureau of Economic
+Research, Inc., pages 319-367
+Corsetti, Giancarlo, Dedola, Luca and Leduc, Sylvain, 2005. "DSGE Models of High Exchange-Rate Volatility
+and Low Pass-Through," CEPR Discussion Papers 5377
+Fisher, Stanley (2015). “US inflation developments”, Speech given at the Federal Reserve Bank of Kansas
+City Economic Symposium, Jackson Hole on August 29, 2015.
+Fleer, Rita, Rudolf, Barbara and Zurlinden, Mathias (2015). “Price change dispersion and time-varying
+pass-through into consumer prices”, mimeo.
+Forbes, Kristin (2015a). “Risks around the Forecast”, Speech given in London on January 22, 2015.
+Forbes, Kristin (2015b). “When, why, and what’s next for low inflation?: No magic slippers needed”,Speech
+given at the London School of Economics on June 17, 2015.
+Forbes, Kristin (2014). “The economic impact of sterling’s recent moves: more than a midsummer night’s
+dream”, Speech given in London on October 1, 2014.
+Forbes, Kristin, Hjortsoe, Ida and Nenova, Tsvetelina. (2015). “The Shocks Matter: New Evidence on
+Exchange Rate Pass-Through.” Forthcoming.
+Gilchrist, Simon and Zakrajsek, Egon. (2015). “Customer Markets and Financial Frictions: Implications for
+Inflation Dynamics”. Federal Reserve Bank of Kansas City Economic Symposium, Jackson Hole.
+Gopinath, Gita (2015). “The International Price System”, Federal Reserve Bank of Kansas City Economic
+Symposium, Jackson Hole.
+Kirby, Simon and Meaning, Jack, 2014. “Exchange rate pass-through: a view from a global structural model”,
+National Institute Economic Review No. 230 November 2014.
+Marazzi, Mario, Sheets, Nathan, Vigfusson, Robert J., Faust, Jon, Gagnon, Joseph , Marquez, Jaime,
+Martin, Robert F., Reeve, Trevor and Rogers, John, 2005. "Exchange rate pass-through to U.S. import
+prices: some new evidence," International Finance Discussion Papers 833, Board of Governors of the
+Federal Reserve System (U.S.).
+Mumtaz, Haroon, Oomen, Ozlem and Wang, Jian, 2006. “Exchange rate pass-through into UK import
+prices”, Bank of England Working Paper No. 312.
+Shambaugh, Jay (2008). “A new look at pass-through”, Journal of International Money and Finance, No. 27,
+pp 560-591.
+Stulz, Jonas (2007). “Exchange rate pass-through in Switzerland: Evidence from vector autoregressions”,
+Swiss National Bank Economic Studies, No. 4.
+
+24
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+24
+
+Appendix A: Tables with the 10 CPI components most correlated with movements in the sterling exchange
+rate, oil prices, foreign export prices excluding fuel and the UK output gap
+
+Coefficient
+
+ONS import
+intensity
+
+Passenger Transport by Air
+
+-1.29
+
+0.00
+
+Vegetables Including Potatoes and Other Tubers
+
+-1.22
+
+0.38
+
+Gas
+
+-0.71
+
+0.00
+
+Fuels & Lubricants
+
+-0.54
+
+0.21
+
+Books
+
+-0.35
+
+0.14
+
+Other Personal Effects
+
+-0.20
+
+0.34
+
+Tobacco
+
+-0.19
+
+0.10
+
+Other Medical and Therapeutic Equipment
+
+-0.16
+
+0.39
+
+Products for the Regular Repair of Dwelling
+
+-0.12
+
+0.27
+
+Food Products
+
+-0.06
+
+0.31
+
+Top-10 sensitive to sterling:
+
+Coefficient
+
+ONS import
+intensity
+
+Liquid Fuels
+
+0.53
+
+0.20
+
+Fuels & Lubricants
+
+0.18
+
+0.21
+
+Financial Services N.E.C.
+
+0.08
+
+0.00
+
+Insurance Connected With the Dwelling
+
+0.04
+
+0.00
+
+Sewerage Collection
+
+0.02
+
+0.00
+
+Water Supply
+
+0.02
+
+0.00
+
+Other Articles of Clothing & Accessories
+
+0.01
+
+0.31
+
+Social Protection
+
+0.01
+
+0.02
+
+Jewellery Clocks and Watches
+
+0.01
+
+0.33
+
+Actual Rents for Housing
+
+0.01
+
+0.00
+
+Top-10 sensitive to oil prices:
+
+Coefficient
+
+ONS import
+intensity
+
+Gas
+
+4.27
+
+0.00
+
+Passenger Transport by Sea and Inland Waterway
+
+2.64
+
+0.00
+
+Passenger Transport by Air
+
+1.99
+
+0.00
+
+Garden Plants and Flowers
+
+0.78
+
+0.29
+
+Carpets & Other Floor Coverings
+
+0.69
+
+0.18
+
+Equipment for Sport Camping and Open-Air Recreation
+
+0.68
+
+0.35
+
+Tools and Equipment for House and Garden
+
+0.67
+
+0.31
+
+Products for the Regular Repair of Dwelling
+
+0.64
+
+0.27
+
+Other Personal Effects
+
+0.52
+
+0.34
+
+Coffee, Tea, Cocoa
+
+0.48
+
+0.28
+
+Top-10 sensitive to foreign export prices:
+
+25
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+25
+
+Coefficient
+
+ONS import
+intensity
+
+Gas
+
+0.02
+
+0.00
+
+Fuels & Lubricants
+
+0.01
+
+0.21
+
+Insurance Connected With the Dwelling
+
+0.01
+
+0.00
+
+Non-Durable Household Goods
+
+0.01
+
+0.26
+
+Postal Services
+
+0.01
+
+0.01
+
+Photographic, Cinematographic & Optical Equipment
+
+0.01
+
+0.39
+
+Garments
+
+0.00
+
+0.42
+
+Repair of Audio-Visual,Photo. & Data Processing Equip
+
+0.00
+
+0.00
+
+Food Products
+
+0.00
+
+0.31
+
+Dry-Cleaning, Repair and Hire of Clothing
+
+0.00
+
+0.01
+
+Top-10 sensitive to UK output gap:
+
+Appendix B:
+
+To construct the first measure, we conjecture that goods that are tradable must have relatively similar
+average price levels across countries, i.e. they must satisfy the law of one price on average. We measure
+tradability for each good as its average deviation from the LOOP over the period 1997-2014 (compared to
+the average deviation from the LOOP of all goods to correct for any deviations affecting all goods e.g. VAT
+differences or local costs). Formally, this measure of tradability in industry i is
+(
+
+[
+
+)
+
+].
+
+A concern with this measure, however, is that it does not penalise large deviations from the LOOP if these
+are subsequently offset by equally large deviations from the LOOP in the opposite direction. We therefore
+also consider a second measure of tradability which considers the dynamics of relative prices.
+This second statistics measures the extent to which each sector has experienced deviations from the law of
+one price over the time period considered. In particular, we construct a measure of the variance of each
+good’s LOOP deviation from the average LOOP deviation over 1997-2004. That is,
+(
+
+(
+
+)
+
+).
+
+26
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+26
+
+

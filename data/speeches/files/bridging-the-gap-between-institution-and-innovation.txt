@@ -1,0 +1,182 @@
+Bridging the gap between institution and innovation
+Remarks given by
+Charlotte Hogg, Chief Operating Officer
+
+Web Summit, Lisbon
+9 November 2016
+
+I would like to thank Venetia Bell for her contribution to preparing these remarks, and to Buck Rogers,
+Victoria Cleland, Andrew Hauser and Claire Sunderland Hay for their input and guidance.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Introduction
+Thank you very much for inviting me to take part in today’s session. It’s a pleasure to be here.
+When the Bank of England asked me to take charge of its FinTech work, Coco Chanel’s take on innovation
+sprang to mind:
+“Innovation! One cannot be forever innovating! I want to create classics”
+
+The Bank of England, where I am Chief Operating Officer, is certainly a classic. Founded in 1694 to promote
+the good of the people of the United Kingdom, initially by acting as the Government’s banker and debt
+manager, the Bank has long been a bastion of the financial system. And a bastion sounds rather slow
+moving. I’d argue that is not the case.
+
+Our mission is to promote the good of the people of the United Kingdom through maintaining monetary and
+financial stability. To fulfil our mission we have had to adapt, and we have adapted significantly over the past
+322 years. As the world changes and new technologies emerge, we seek to use them to do our job better.
+You could think of the Bank as the trench coat of the UK financial system – adapting season after season,
+but remaining a classic.
+
+The current swell of development in financial technologies, Fintech, is in some ways no different from past
+waves of innovation, and the Bank has positioned itself to adapt again. We watch, think, learn and form a
+judgement on the impact of developing technologies. When necessary we act.
+
+There are two main ways in which we look to gain knowledge of the emerging technologies: research and
+experience.
+
+Central banks are typically known primarily for the first. And research has remained a key way in which we
+1
+
+have gained knowledge of Fintech, striving for analytical excellence.
+
+Just over the past six months we have met or researched over 130 start-ups, participated in around 25
+conferences, and held roundtables with more than 80 organisations. In listening and learning, we are able
+to begin forming a judgement about the impact of these technologies.
+
+1
+
+For an overview, see Remarks by Victoria Cleland Fintech: Opportunities for all, September 2016. For current research interests, see
+One Bank Research Agenda, February 2015, and Bank of England Digital Currencies research questions, July 2016.
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+Experience is important too, however. Our approach is to complement analytical excellence with outstanding
+execution. We need to work with these new technologies as well as think about them: theory without
+practice lacks power.
+
+The desire to combine research with experience is not new. For example, the Bank studied developments in
+mechanisation in the 1920s, with detailed documentation of early ledger posting by machines contained in
+our archives, likewise the machine companies kept the Bank informed of developments. The Bank was then
+an early adopter of machines in the 1930s to assist with accounting, and the processing of registration,
+2
+
+transfer and dividend payments on government stocks. These mechanised ledgers no doubt felt as
+innovative then as distributed ledgers did recently.
+
+In the 1980s and 90s, the Bank again harnessed the latest technologies, this time to drive fundamental
+reform in the infrastructure for sterling payments and settlements. Starting with the Central Gilts Office in
+1986, and moving on through the Central Moneymarkets Office, the Real-Time Gross Settlement System
+(RTGS), and finally CREST in the mid-1990s, slow and unsafe paper-based systems for completing billions
+of pounds worth of business were transformed into real-time, electronic book-entry processes against
+risk-free central bank money.
+
+3
+
+So then, as now, our approach is both to research and also to experience Fintech.
+
+Experiencing Fintech
+4
+
+We set up the Bank’s Fintech Accelerator in the Bank, launched in June this year, precisely to develop our
+practical experience of Fintech. In the Accelerator, we seek to engage with a large number of Fintech firms
+and technologies, and to run a series of targeted, rapid proof of concepts (POCs) with a number of them. All
+POCs are work on problems or challenges that are important to us, and the firms are carefully chosen
+5
+
+through an open process based on our published criteria. At the end, we write up case studies and, where
+we believe the value justifies it, we proceed to an open procurement. Recent POCs have covered three
+main areas – data analytics, information security, and some work exploring distributed ledgers.
+
+Data is a key thread that runs through nearly all our work, and so technologies relating to data analytics and
+visualisation have the potential to develop our capabilities significantly. The evolution has already been
+remarkable – from efforts to begin collecting macroeconomic data consistently from around the 1920s to big
+data in the 1990s, with machine learning and application of artificial intelligence (AI) now moving into
+mainstream economic and financial analysis. Recently, developments have been stimulated by the move to
+2
+
+See Hennessy, Elizabeth (1992) “A domestic history of the Bank of England 1930-1960”, Cambridge University Press.
+Speech by Andrew Hauser, Building the market infrastructure of tomorrow: CREST, RTGS and the Bank of England, 20 years on,
+September 2016.
+4
+Speech by Mark Carney, Enabling the FinTech transformation: Revolution, Restoration, or Reformation? June 2016.
+5
+See: http://www.bankofengland.co.uk/Pages/fintech/default.aspx
+3
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+an open source approach and by cheaper computing power including through cloud computing. A recent
+addition to the FinTech Accelerator is a POC with BMLL Technologies that uses a machine learning platform,
+applied to historic limit order book data, to spot anomalies and facilitate the use of new tools in our analytical
+capabilities. A second new POC, with Enforcd, uses an analytic platform designed specifically to share
+public information on regulatory enforcement action.
+
+Data visualisation and communication similarly has the power to transform. A good policy not understood is
+worthless. The Bank has come a long way since the days when we used to announce changes in
+Bank Rate by holding up a board in the Front Hall – messengers used to then run from the Bank to give the
+news as quickly as possible. You can now access content in a range of ways; for example, the recent
+launch of the polymer £5 note was publicised through Twitter, YouTube and Instagram as well as more
+traditional channels. You can even now follow the Fintech Accelerator on LinkedIn.
+
+While increased computing power and reduced barriers to information flow have stimulated the provision of
+new goods and services, they have also facilitated new ways to put those at risk through cyber-attack.
+Threats have diversified and accelerated at a broadly similar rate to the defences built to protect. The Bank’s
+twin focus has been on protecting the critical national infrastructures we provide, and working with other
+authorities to encourage financial sector firms to improve their own cyber defences. Fintech tools designed
+to identify, protect, detect and respond to cyber threats have therefore been of keen interest to us. For
+example, we ran a POC with Bitsight using publically available bulk data to assess our own resilience. We
+have also partnered with two firms – Anomali and ThreatConnect – that provide innovative technologies to
+collect, correlate, categorise and integrate cyber security intelligence data. Most network defence models
+and technology solutions in use today continue to focus overwhelmingly on aggregation of tactical indicators
+which, when collected and processed in isolation, provide limited value to security teams seeking to prioritise
+detection and remediation efforts. The work will help to assess how tactical threat information can be
+enriched to provide relevant operational and strategic context in order to prioritise monitoring and mitigation
+efforts against given threats.
+The Fintech Accelerator isn’t just about new tools and technology. It’s about cultural change and how we
+adapt. For an institution to endure it needs to change with the times; as human beings who are living longer
+we need to adapt how we work as well. Recognising the importance of cultural change, in all our POCs we
+seek to learn from the fresh approach and skills of start-up colleagues to adapt our approaches. For
+example, our recent POC on a simple distributed ledger trialled non-traditional ways of technology
+development including through co-located cross-discipline working, taking a continuous approach to build
+and integration of the technology, and automating testing built in from the outset.
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+Conclusion
+
+New technologies present opportunities and risks and we need to assess both.
+Just as adaptations to the classic trench coat can work beautifully, there can also be (fashion) disasters. I’ve
+highlighted some of the positives above. Let me also note some of the questions.
+
+For Fintech, I think there remain real questions around the potential risks and as yet unknown ramifications.
+As we have seen before, not least during the financial crisis, even the tools considered the most advanced
+analytically at the time may be flawed – and how would we know, if the AI techniques make the approach all
+but impossible to unpick. How should one govern or regulate financial services provisioned using AI? In
+cyber, for example, how would we judge the balance between protecting core infrastructure from insider risk
+whilst ensuring acceptable levels of privacy?
+
+Again, experience will help us to understand those questions and ultimately contribute to a debate that we
+need to have. Not just as regulators or the central bank, but as societies, as part of our mission to promote
+the public good. Today, we’ve opened our next call for applications as we seek to further our research and
+work, continuing to bridge the gap between institution and innovation.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+

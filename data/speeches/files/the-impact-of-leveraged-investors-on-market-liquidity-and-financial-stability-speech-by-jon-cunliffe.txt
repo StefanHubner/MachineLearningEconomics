@@ -1,0 +1,586 @@
+The impact of leveraged investors on market liquidity and
+financial stability
+Speech given by
+Sir Jon Cunliffe, Deputy Governor Financial Stability, Member of the Financial Policy
+Committee, Member of the Monetary Policy Committee and Member of the Prudential
+Regulation Committee
+Managed Funds Association Global Summit 2020
+12 November 2020
+
+I am grateful to Tom Baines, Stephen Denby, Rand Fakhoury, Tom Farrington, Richard Gordon,
+Nick Jackson, Stephen Newell, Matt Roberts-Sklar, Yousif Taki and Oliver Wood for their assistance
+in drafting these remarks.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+Thank you, Brooke, for that kind introduction and for inviting me to speak today on financial stability and
+market liquidity.
+Earlier this year, we experienced the first real test of the financial system since the global financial crisis, 10
+years ago. The pandemic that struck last spring was, and remains a true economic tail event; global GDP in
+the second quarter dropped by around 9%1 and is not forecast by the IMF to return to pre COVID levels until
+at least 20222. In the UK, GDP declined by nearly 20%1 in the second quarter, the sharpest recession since
+that caused by the Great Frost at the beginning of the 18th century.
+Economic prospects declined and economic risks soared in a matter of weeks. As they did so, the financial
+system came under a very severe stress from changing asset prices and demands for liquidity and from the
+shift to remote working.
+The banking system appears to have come through this initial stress well, meeting the emerging demand
+from clients for liquidity, avoiding deleveraging and generally being able to provide support for the real
+economy. However, we saw extreme turmoil in financial markets – the so called ‘dash for cash’ – which was
+only calmed by massive central bank intervention.3
+The resulting mass liquidation of assets had an impact on market liquidity even in the most liquid of markets.
+In late March, as you can see in Chart 1: the bid-ask spread on the US Treasury 30 year bond increased
+tenfold; the bid ask on the 30-year gilt increased by a factor of eight.
+Chart 1 - Bid-offer spreads on gilts and US treasuries(a)
+
+30 year gilts
+
+Basis points
+
+30 year US treasuries
+
+3.5
+3
+2.5
+2
+1.5
+1
+0.5
+0
+
+Jan-20 Feb-20 Mar-20 Apr-20 May-20 Jun-20 Jul-20
+Sources: Eikon by Refinitiv and Bank calculations. (a) 5-day moving average.
+
+1
+
+See Bank of England Monetary Policy Report – November 2020.
+See transcript of the IMF’s October 2020 World Economic Outlook press briefing.
+3
+As described in speech by Andrew Hauser (2020), Seven Moments in Spring.
+2
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+In the UK, the Bank launched its largest and fastest single programme of asset purchases - £200bn of gilts
+and corporate bonds, equivalent to around a tenth of UK GDP. And similar unprecedented action was
+needed in the US and elsewhere to stabilise markets.
+As with all such episodes, there are important lessons to be learned about what functioned well and what
+proved fragile under stress, and what and how we can improve.
+I should like to talk today about what this stress has told us about market liquidity, and changes in the
+financial system over the last 10 years and how these may impact upon financial stability.
+I should start with some definitions.
+By financial stability, I mean first and foremost ensuring the financial system does not amplify economic
+shocks and, if possible, serves to dampen them. In other words, that the financial system as a whole doesn’t
+make things worse. And if possible, that it makes them better.
+A very important part of that is ensuring that the financial system does not cause the shock in the first place,
+as it did 10 years ago. But, as we are seeing now, the shock can originate outside the financial sector and in
+such cases it is just as important to ensure that the dynamics of the financial system do not amplify it.
+By market liquidity, I mean the ability to transact in reasonable size at or close to mid-market prices
+prevailing prior to the trade4.
+There are two ways to turn liquid assets into cash: either by simply selling them, using the liquidity available
+in the market; or by using funding liquidity, borrowing cash by pledging them as collateral. Crucially, funding
+liquidity also relies on market liquidity because secured loans, such as repo, assume the collateral can be
+liquidated.
+The popular memory of the global financial crisis is one of the near failure of the banking system due to
+insufficient bank capital to absorb losses and insufficient banking liquidity to meet obligations.
+But market liquidity can be as important to financial stability as bank solvency or bank liquidity.
+The ability to use the liquid asset buffers that banks and other firms hold to meet stress can depend on
+market liquidity directly, for example for those holding government bonds or futures. It can also depend on it
+indirectly if firms cause an intermediary to liquidate assets. For example, if a firm redeems shares in a money
+market fund, that fund may need to liquidate assets in order to satisfy this redemption or to replace cash
+buffers.
+4
+
+See Anderson et al (2015), “The resilience of financial market liquidity”, Financial Stability Paper No. 34, October 2015.
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+Following an economic shock, investor appetite usually shifts from risky to safer, more liquid, assets which
+generally increases demand in the government bond market. This occurred at the outset of the Covid-19
+episode. However, as conditions became more severe, there was exceptionally high demand for cash and
+near-cash, short-dated assets.
+As I mentioned earlier, and you can see in Charts 2 and 3, market liquidity suffered even - and most rapidly
+- in the deepest markets for the safest assets at the core of the system, most notably the US Treasury
+market. This deterioration, on first examination, appears to have been materially greater than might have
+been expected from the increase in volatility.
+
+Chart 2 – Bid offer spreads in US treasury markets
+
+Chart 3 – Bid offer spread in UK gilt markets
+
+Source: Eikon from Refinitv and Bank calculations
+(a) The chart plots a five-day rolling average bid-offer spreads
+
+Source: Eikon from Refinitv and Bank calculations
+(a) The chart plots a five-day rolling average bid-offer spreads
+
+To learn the lessons from the ‘dash for cash’, we need to understand the dynamics of what occurred in these
+markets.
+To pose the question in an extreme form, was it simply the result of a massive, precautionary shift to cash in
+which sellers overwhelmed buyers and the ability of market makers to take risk?
+Or, as markets adjusted sharply, were there dynamics and fragilities in the financial system that both
+amplified the demand for cash and reduced the ability of the core markets to provide it?
+There are many areas in which one might look to see whether such dynamics were at play – liquidity
+mismatches in open-ended funds, margin calls, reduced activity of bank broker dealers. Given the
+inter-connectedness of modern market-based finance, and the role played by these core markets, any
+evaluation of this episode has to be comprehensive in nature. The review currently underway by the
+Financial Stability Board (FSB), of which I will say a little more at the end, adopts such a comprehensive,
+‘holistic’ approach.
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+But I want to drill down today on one of the developments we have seen in recent years, namely the
+increasing importance of non-banks for market liquidity.
+In most core markets, such as bonds and derivatives, the dominant intermediaries who provide market
+liquidity remain dealer banks.5 However, since the financial crisis, less regulated non-banks - particularly
+leveraged investors such as hedge funds - have increasingly been taking on roles previously dominated by
+dealers. For example, you can see in Charts 4 and 5 that in recent years hedge funds have been increasing
+their lending of cash as well as their borrowing, and we have seen a continual increase in turnover by hedge
+funds in sovereign and municipal bonds.
+
+Chart 4 – Prime brokers’ repo and reverse repo with
+hedge funds(a)
+
+Chart 5 – Monthly turnover of sovereign and municipal bonds in
+hedge fund portfolios
+$ billions
+
+5
+4
+3
+2
+1
+0
+
+2013
+
+Sources: Bank of England Hedge Fund as Counterparty
+Survey and Bank calculations.
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Source: SEC Private Funds Statistics.
+
+(a) Data are from a biannual survey conducted by the Bank
+of England, which captures data on hedge funds via their
+prime-brokers.
+
+This has been due, in part at least, to post crisis reforms which strengthened the resilience of bank dealers and
+to changes in banks’ risk appetite. 6
+As you can see in Chart 6, the weighted average dealers’ leverage ratio has increased from around 2 percent
+prior to the GFC to 5 percent in recent years. And Chart 7 shows that over the last 5 years the dealers’ liquidity
+coverage ratio has increased from around 110 percent to over 140 percent.
+
+5
+
+In some core markets, most notably spot FX and some futures markets, principal trading firms play an increasingly important role. See,
+for example, July 2019 Financial Stability Report, Box 3.
+Post crisis reform also disincentivised proprietary trading. See “Proprietary Trading Review”, Bank of England Prudential Regulation
+Authority, September 2020.
+6
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+Chart 6 - Dealers leverage ratio (a)(b)
+
+Chart 7 - Dealers liquidity coverage ratio (a)(b)
+
+Sources: SNL Financial, The Banker Database, banks’ published
+accounts and Bank calculations
+(a) Leverage ratio defined as reported Tier 1 capital (or common
+equity where not available) divided by total assets, adjusted for
+accounting differences on a best-endeavours basis. This accounting
+measure differs from regulatory leverage ratios.
+(b) Dealers included are Bank of America Merrill Lynch, Barclays,
+BNP Paribas, Citigroup, Credit Agricole, Credit Suisse, Deutsche
+Bank, Goldman Sachs, HSBC, JP Morgan, Mitsubishi UFJ, Morgan
+Stanley, RBS, Societe Generale and UBS. Pre-crisis data also
+include Bear Stearns, Lehman Brothers and Merrill Lynch.
+
+(a) Dealers included are Barclays, BNP Paribas, Citigroup, Crédit
+Agricole, Deutsche Bank, RBS and Société Générale from 2014 Q4;
+Credit Suisse and Mitsubishi UFJ from 2015 Q1; HSBC from 2015 Q4;
+UBS from 2017 Q1; Bank of America Merrill Lynch, Goldman Sachs,
+JPMorgan and Morgan Stanley from 2017 Q2. Quarterly data, where
+available. Some banks report on a lower frequency prior to 2017.
+(b) The Basel LCR has been phased in with the minimum requirement
+rising from 60% to 100% between 2015 to 2019. See the Bank for
+International Settlement’s publication ‘Basel III: The Liquidity Coverage
+Ratio and liquidity risk monitoring tools’, (January 2013). Reported
+LCRs prior to the introduction of requirements are estimates.
+
+These changes have contributed to bank dealers being less willing to employ their balance sheets as
+opposed to simply matching buyers and sellers. This has been especially true for banks’ involvement in
+trades that arbitrage the difference between prices of closely related assets, and potentially require
+significant balance sheet commitment. Leveraged non-banks have taken the opportunity to occupy some of
+this space.7 For example, Chart 8 illustrates a marked increase in sovereign fixed income relative value
+hedge fund exposure.
+
+Chart 8 – Sovereign fixed income relative value hedge fund exposures
+$ billion
+
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+2013 2013 2014 2015 2016 2016 2017 2018 2019 2019
+Q1 Q4 Q3 Q2 Q1 Q4 Q3 Q2 Q1 Q4
+Source: SEC Private Funds Statistics
+7
+
+Boyarchenko et al (2020) argue that changes in regulation and market structure since the 2008 crisis made it more expensive to
+engage in arbitrage activity, both for dealers and for hedge funds via their prime brokers.
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+The role leveraged investors play in supporting market liquidity is dependent on funding from dealer banks.
+The amount of leverage required to render such activity a profitable proposition varies from market to market
+depending on a fund’s strategy and the perceived risk.
+In ‘business as usual’, leveraged funds can add to market liquidity and efficiency.
+This is particularly true of arbitrage trades mentioned above, which help ensure that inefficient spreads do
+not emerge between assets of the same economic value.
+Opportunities for such strategies have grown in recent years, most notably in sovereign fixed-income relative
+value trades as we just saw in Chart 8.
+However, while it can add to market liquidity and efficiency in normal times, highly leveraged arbitrage can
+add fragility and act as an amplifier in conditions of severe but plausible systemic stress and high volatility.
+During such periods, leveraged non-banks’ own, prudent, risk management procedures may lead to a sharp
+reduction or withdrawal of arbitrage activities.
+High levels of leverage mean that small price moves can lead to large losses relative to the fund’s Net Asset
+Value, while at the same time growing margin requirements reduce the amount of funding to support
+trading. This combination of losses and liquidity demands can very quickly generate pressure on funds to
+delever, either because of internal risk limits, withdrawal of funding or higher margin/haircuts making trades
+less attractive.
+Such deleveraging by levered funds can reduce the supply of market liquidity, while at the same time
+increasing the demand for market liquidity
+These trades often inherently involve some form of liquidity and maturity mismatch. Positions in long maturity
+sovereign bonds are often funded in repo markets in overnight or other very short-term transactions Chart 9,
+for example, shows an increase in the proportion of short-term hedge fund repo.
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+Chart 9 - Term of hedge fund repo (a)
+
+Sources: Bank of England Hedge Fund as Counterparty Survey and Bank calculations.
+(a) Data are from a biannual survey conducted by the Bank of England, which
+captures data on hedge funds via their prime brokers.
+
+In order to maintain these positions, funds rely on continued provision of funding from their repo
+counterparties, who tend to be banks. And there is significant ‘tiering’ of access to funding in volatile markets,
+with smaller less profitable funds likely to see their access to funding reduced most acutely in a stress.
+To illustrate some of these dynamics under stress, I should like to focus on the experience, last March, of
+funds that were engaged in the US Treasuries cash-futures basis trade.
+Going into the March shock, hedge funds had been arbitraging deviations in price between US Treasuries
+and US Treasury futures. This involved purchasing bonds, funding these by borrowing cash in repo
+markets,8 and selling futures.
+This activity helped to support market liquidity while volatility was low. It helped ensure pricing relationships
+between instruments were predictable, providing intermediaries with effective hedging tools to manage their
+risks.
+The activity also supported futures markets liquidity. In recent years, asset managers have increasingly
+chosen to use Treasury futures to manage exposures to the yield curve - as you can see in Chart 10. This
+has been driven by liquidity, operational simplicity and the leverage embedded within these derivatives. The
+activity of arbitragers balanced this flow, supporting liquidity in the futures market.
+
+8
+
+See “Have hedge funds increased their use of repo borrowing?”, Bank of England Bank Overground blog, February 2020
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+The basis differential however existed for a reason: the attractiveness of the future relative to the cash bond
+despite their apparent substitutability. The arbitragers were exposed to the risk that, under stress and
+conditions of extreme volatility, the gap between the future and the cash market would increase, perhaps
+due to the cost of financing or margin, or due to an increase in the liquidity differential between the products.
+During March this risk crystallised. There were substantial selling flows in cash US Treasury markets, as the
+‘flight to safety’ became the ‘dash for cash’.9
+These selling flows widened the price differences between cash bonds and futures, with arbitragers accruing
+significant losses as a result. As margin requirements and concerns over the availability and cost of funding
+grew as shown in Chart 11, arbitragers in aggregate reduced exposure to these positions, increasing the
+stress still further.
+Chart 10 - Net positions in US Treasury futures(a)
+
+Chart 11 – Initial margin on future and options at CME,
+which includes US Treasury futures
+House
+
+Client
+
+$ billions
+
+200
+160
+120
+80
+40
+0
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+2018 2018 2018 2018 2019 2019 2019 2019 2020
+Source: Bloomberg Finance L.P. and Bank calculations.
+(a) Aggregate notional equivalent position across all US
+Treasury futures contracts of asset managers and leveraged
+funds as defined by the CFTC’s ‘Commitments of Traders’
+report.
+
+Source: CCP disclosures and Bank calculations.
+
+In sum, arbitragers had turned from buyers to sellers, at a time when dealers where already struggling to
+absorb selling flows. Pricing relationships between bonds and bond futures broke down as you can see in
+Chart 12, removing a key hedging tool that intermediaries had relied upon to transfer risk. And the demand
+and supply for futures became unbalanced. Arbitragers had gone from being a stabiliser of the market to
+being an amplifier of market stress.
+
+9
+
+For example, see Schrimpf et al (2020), “Leverage and margin spirals in fixed income markets during the Covid-19 crisis”, Bank for
+International Settlements, Duffie (2020) Still the world’s safe haven?, Barth and Kahn (2020), “Basis Trades and Treasury Market
+Illiquidity”, Office of Financial Research., Di Maggio (2020), “The role of hedge funds in the 2020 Treasury market turmoil”.
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+Chart 12 - Correlation in 2 year UST bond and future
+
+Rolling 1-week correlation
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+01-Jan
+
+01-Feb
+
+01-Mar
+
+01-Apr
+
+01-May
+
+Source: Bloomberg and Bank calculations.
+
+The dynamic unwinding of leveraged relative value trades following a tail event is not new. Perhaps the
+closest, most famous example was Long-Term Capital Management in 1998.10 But we have not before seen
+such a combination in a systemic stress.11
+How big a role did the crystallisation of these risks have on the disappearance of liquidity in core markets,
+particularly the US Treasury market, during the turmoil last spring?
+As I have noted, there were many other demands on market liquidity during that episode: investment funds,
+including money market funds, selling assets following or in anticipation of redemption; official sector sellers;
+risk parity funds unwinding leveraged positions; and increases in both initial and variation margin calls.
+But the episode also showed the impact that extreme price volatility, reliance on dealer funding and margin
+calls can have on the role some leveraged non-banks play in supporting market liquidity.
+There is strong evidence that it led to funds deleveraging and exiting from trades.12
+The important question, however, from a financial stability perspective is not only whether these dynamics
+occurred but also whether they were large enough to have material impacts on market liquidity.
+10
+
+See “Hedge Funds, Leverage, and the Lessons of Long-Term Capital Management”, Report of The President’s Working Group on
+Financial Markets, April 1999.
+11
+The 1999 report into LTCM highlights some issues familiar from the recent stress: “The principal policy issue arising out of the events
+surrounding the near collapse of LTCM is how to constrain excessive leverage. By increasing the chance that problems at one financial
+institution could be transmitted to other institutions, excessive leverage can increase the likelihood of a general breakdown in the
+functioning of financial markets. This issue is not limited to hedge funds; other financial institutions are often larger and more highly
+leveraged than most hedge funds.”
+12
+See Barth and Kahn (2020), “Basis Trades and Treasury Market Illiquidity”, Office of Financial Research.
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+This is not a straightforward question to answer. Assessing the impact of the dynamics I have set out is
+complex and requires granular analysis.
+The good news is that we have much better data than we had 10 years ago.13 But there are still issues we
+need to resolve to get a clear picture given that non-banks are operating across many markets and
+jurisdictions, and to ensure we measure the right things to understand the risks from leverage.
+Measuring aggregate leverage in hedge funds, for example, misses the point that some trades, like
+bond-futures basis, use very high levels of leverage whereas others (such as long-short equity or credit) do
+not. As the Financial Policy Committee of the Bank of England set out in its 2018 assessment of the risks
+from leverage in the non-bank financial system,14 using gross to net asset value does not give a good
+indication of the risks from leverage. For that, we need to understand potential liquidity demands and
+potential losses.15
+Nor might it be as simple as it looks to measure the market impact of the unwinding of these strategies. We
+might, for example, expect that the cheapest to deliver bond in a futures contract will be more liquid than
+other instruments so it may be that changes in relative pricing rather than in absolute prices might give a
+better read. And we know that some traders hold bonds other than the cheapest to deliver for extra yield,
+and these might be the first bonds to be offloaded when funds exit the trade.
+We do not yet have all the answers to such questions. But it is important from a financial stability
+perspective that we find them.
+If the expected level of market liquidity relies on high levels of leverage - and if the dynamics of leveraged
+non-bank activity mean that liquidity providers become liquidity demanders in highly volatile conditions - then
+we need to look at whether we have got the balance right between increased market efficiency in business
+as usual conditions and resilience under severe but plausible stress.
+This is not to say that there will be a single explanation of the ‘dash for cash’ and that we will find it in the
+amplification dynamics of leveraged non-banks. Leveraged non-banks do not operate in isolation. Their
+activity is interconnected with many parts of the market-based finance system, linking to banks, other
+non-banks and financial market infrastructure.
+As I have said, many factors were at play in the March episode. We need to look at all of the links in the
+liquidity chains that connect market participants.
+13
+We have better data on hedge funds through regulatory reporting e.g. the SEC’s Form PF in the US and AIFMD reporting in the UK
+and EU. And we have more granular transaction data on many markets, e.g. via MIFID II, Sterling Money Market data and EMIR trade
+repository data on derivatives.
+14
+See “The FPC’s assessment of the risks from leverage in the non-bank financial system”, Bank of England November 2018 Financial
+Stability Report, in particular Box 6
+15
+See the “Bank of England’s response to the IOSCO consultation report on the use of leverage by investment funds”.
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+The FSB, which was itself one of the key reforms of the great financial crisis, is the natural home for such
+work, given the cross-jurisdiction nature of many non-bank activities and the range of regulatory authorities
+and central banks involved.
+And, I am pleased to say that such a comprehensive, ‘holistic’ analysis is precisely what the FSB has
+undertaken and is due to be delivered to the G20 summit later this month.
+As well as outlining how the non-bank financial intermediation sector faired in March, the FSB’s review will
+set out a comprehensive work plan of specific and cross-cutting issues that need further attention at the
+international level, including identifying areas where policy changes may be needed.
+I do not want to anticipate that report. But I did want to finish by briefly giving a view on two of the links in the
+chain that appear to have had the greatest relevance to the leveraged non-banks supplying market liquidity,
+namely bank dealers and CCP margin calls.
+I said at the outset that one of the features of the Covid stress has been the resilience of the banking
+system – particularly the global banks at the centre of the system. One cannot over-estimate the
+importance of this – one only has to imagine what might have resulted from the combination of the Covid
+shock and a banking crisis.
+This crisis is not yet over, of course. But I am pretty sure that, absent the strengthening of the banking
+system carried out over the last 10 years, systemic banks would have found it very difficult, if not impossible,
+to withstand the force and speed of the shock we experienced last spring.
+It may be that this has resulted in reduced dealer ability to provide liquidity and funding in stress, though I
+suspect banks’ risk aversion and the sheer scale of market-based finance liquidity demands have played at
+least as important a role. As Chart 13 shows, the amount of sovereign bonds outstanding continues to
+increase but intermediary balance sheets do not. We do, of course, need to look at dealer activity during the
+March episode.16 But we cannot expect to improve the resilience of market liquidity under stress by
+weakening the resilience of the core banking system.
+
+16
+
+See, for example, Duffie (2020), “Still the world’s safe haven?”
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+12
+
+Chart 13 - Stock of sovereign bonds compared to dealer balance sheet size (a)(b)
+
+Sources: Duffie, D (2020), ‘Still the World's Safe Haven?’ Redesigning the U.S Treasury
+market after the Covid-19 crisis, Hutchins Center Working Paper No. 62; UK Debt
+Management Office;
+Bank of England Regulatory Returns and Bank calculations.
+(a)Assets of large US banks cover total assets for the holding companies of Bank of
+America, Bear Sterns, Citigroup, Goldman Sachs, JP Morgan Chase, Lehman Brothers,
+Merrill Lynch, Morgan Stanley and Wells Fargo.
+(b)Gilt-edged market makers’ total assets are based on quarterly averages available from
+2008 and exclude assets of banking entities that are authorised to operate in the UK through
+branches. Amount of gilt outstanding is based on financial YTD as of end-March.
+
+We need to look at margin calls through a similar lens. The margining reforms, for both cleared and
+non-centrally-cleared instruments, of the past ten years have been designed to prevent widespread
+counterparty credit risk emerging under stressed conditions.
+Regular exchange of variation margin, which is driven mechanically by changes in asset prices, is a key part
+of risk management by market participants in derivatives markets. And initial margin protects all the
+members of clearing houses from the failure of one or more of their number given that losses are mutualised
+once initial margin is exhausted.
+Again we need to look at how margin operated during the dash for cash. Did margin call reflect, as it was
+intended to do, movements in asset price and increases in risk? Or was it greater than might have been
+expected for the volatility experienced in March? An important aspect of that question is whether market
+participants had the information they needed to be able to anticipate and prepare the impact of margin calls
+in a severe but plausible stress.
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+13
+
+But we also need to look at whether market participants actually factored such an impact into their trading
+and investment strategies. And, if they did, whether they were able to turn the supposedly liquid assets they
+held against these risks into cash when needed.
+This last point not only brings us back to the issue of market liquidity in core markets but also raises the
+question of the role of central banks as the ultimate providers of liquidity to the system.
+An overarching question is whether, in light of the growth of market-based finance relative to dealer
+intermediation capacity, central banks have the right tools to ensure they can continue to meet their
+objectives for both monetary and financial stability in an effective and efficient way.
+Following on from that, in which markets and securities, and when, should central banks stand ready to
+provide backstop support for liquidity in stress? Should they be clearer about the principles that might guide
+such interventions? And, crucially, how can the potential risks and costs of interventions in markets ―
+financial and moral hazard ― best be reduced, through appropriate pricing and accompanying regulatory
+requirements?
+The Bank of England supports further work on these issues by central banks alongside the work underway in
+the FSB to review the resilience of market-based finance.17 However, central bank intervention cannot be a
+substitute for reforms that mitigate the vulnerabilities in financial markets that give rise to liquidity stresses in
+the first place.
+And to the extent that such vulnerabilities arise from market activity that aids liquidity in good times but is
+fragile and damages liquidity in stress, we have, as I have said, to assess whether we have got the balance
+right between efficiency in the short term and resilience through time.
+This is not a new question for those of us in the financial stability trade. We faced a very similar question in
+relation to banks after the global financial crisis ten years ago. To be sure, the answers on market liquidity
+will not be the same. Market-based finance and banking are very different. The right balance and the way of
+achieving it may well lie in a different place.
+But we cannot ignore the events we saw last March, even if the primary cause lay outside the financial
+system. And wherever the answers lie, we should learn the lessons of those events to ensure that they are
+not repeated.
+
+17
+
+See Bank of England August 2020 Financial Stability Report and Financial Policy Summary and Record - October 2020.
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+14
+
+

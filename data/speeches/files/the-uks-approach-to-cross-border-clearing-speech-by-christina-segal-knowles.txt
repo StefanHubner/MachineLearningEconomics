@@ -1,0 +1,436 @@
+The UK’s approach to cross-border clearing
+Speech given by
+Christina Segal-Knowles
+Executive Director
+Financial Market Infrastructure Directorate
+
+FIA
+8 November 2021
+
+I am grateful to Paul Avanzato, Nefeli Fotopoulou, Stephanie Haffner, Charlotte Kelly,
+Tatjana Nikitina, Michael Salib, Akash Sharma, Yasuhisa Toyota, and Daniel Wright for their help in
+preparing these remarks. I am also grateful to Andrew Bailey, Sarah Breeden, Jon Cunliffe,
+Phil Evans, and Alison Pugsley for their helpful comments
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+Good morning/good afternoon.
+Today I am going to speak about the UK’s approach to tiering, recognising and supervising cross-border
+central counterparties (CCPs).
+
+Before I jump into that, I thought I would share a quote that could provide context for why I believe
+getting this right is so important.
+
+On September 25 2009 G-20 leaders met in Pittsburgh. It was one year after the collapse of Lehman
+Brothers and five months after Gordon Brown hosted the second ever G-20 meeting in London amid a
+rapidly escalating global financial crisis. Their statement1 is quite remarkable.
+‘When we last gathered in April, we confronted the greatest challenge to the world economy in
+our generation.
+
+Global output was contracting at pace not seen since the 1930s. Trade was plummeting. Jobs
+were disappearing rapidly. Our people worried that the world was on the edge of a depression.
+
+At that time, our countries agreed to do everything necessary to ensure recovery, to repair our
+financial systems and to maintain the global flow of capital.
+
+It worked.’
+
+Why am I showing you this? Well aside from being notable for having possibly the only 2 word paragraph
+you will ever see in a leaders’ communiqué (I think the shortest sentence from the communiqué two weeks
+ago had 28 words), I think it captures very well why it is so important to get cross-border supervision of CCPs
+right. The triumph of this statement, of the work that came before and after it is that – rather than turning
+inward to nationalism, protectionism and fragmentation– the world’s major economies committed to work
+together to address the lax regulation that had enabled the crisis, to repair our financial systems and to
+maintain global capital flows. We were going to make the system safe. But we were also going to keep it
+open at the same time.2
+
+1
+
+G20 Leaders Statement, September 24-25 2009. http://www.g20.utoronto.ca/2009/2009communique0925.html
+M. Carney. ‘The High road to a responsible open financial system’ (7 April 2017) https://www.bankofengland.co.uk//media/boe/files/speech/2017/the-high-road-to-a-responsible-open-financialsystem.pdf?la=en&hash=0264C2348F1C0E8225C7ACCC83ABF85AE827394A.
+2
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+Safe Openness: Today’s Challenge
+
+This project is not over. If we learned anything from the 2008 crisis it was the importance of ensuring that
+regulation and supervision of the financial system keeps up with the evolving shape of the system. Safe
+openness requires tending.
+
+One of the ways that the system has changed is that the reforms that made global derivatives markets safer
+have made CCPs more important than ever before. This is deliberate – a feature not a bug. We’ve moved
+away from the spaghetti bowl of bilaterally cleared trades that was a major reason why Lehman’s failure
+sparked a global crisis.3
+
+It worked. The market turmoil last year sparked by the global pandemic could very easily have tipped into a
+panic and a financial crisis. Thanks in part to derivatives reforms, instead there was no panic about
+counterparty credit risk – no tangled web of vulnerability.4,5
+
+The ongoing task for regulators is to make sure CCPs, which are inherently large and cross-border, continue
+to make the system safer.
+
+Because CCPs operate cross-border, UK regulators and supervisors cannot stop with just making sure the
+CCPs headquartered here in the UK are safe. We need to ensure that the CCPs on which the UK financial
+system relies are appropriately supervised and regulated regardless of whether they are based in London,
+Hong Kong, Chicago or Frankfurt. Users of UK CCPs are looking to the UK for the same assurances. We
+take that responsibility very seriously.
+
+But we also recognise that a system in which every jurisdiction that uses a CCP insists on imposing its own
+regulation and supervision on the CCP cannot work. If every jurisdiction that used major global CCPs were
+to regulate them, we could be talking about several dozen sets of rules, regulations and supervision. This
+would create either complexity, as we all regulate the same entity, or fragmentation, as we require the entity
+to split itself into smaller parts. Both risk unravelling the very reforms that have made our system safer – if we
+want safe derivatives markets with central clearing a major feature we need a better approach.
+
+C. Segal-Knowles. ‘Lessons from the pandemic: Has the simpler post-2008 financial system held up? And where do we go from here?’
+(29 January 2021) https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/january/has-the-simpler-post-2008-financial-systemheld-up-speech-by-christina-segal-knowles.pdf?la=en&hash=1D5368CE3851806186CCC076627CBC8461914606.
+4
+J. Cunliffe. ‘Financial System Resilience: Lessons from a real stress’ (9 June 2020),
+https://www.bankofengland.co.uk/speech/2020/jon-cunliffe-speech-at-investment-association.
+5
+As stated in the recent consultative report on margin practices, ‘the Covid-19 market turmoil of March 2020 was the most significant
+test of the resilience of financial markets since the Great Financial Crisis (GFC) of 2008. Financial markets generally proved resilient,
+with no widespread concerns about counterparty credit risk. In part, this reflects global financial regulatory reforms following the GFC.
+Reforms were put in
+place expressly to increase the role of central counterparties (CCPs) through mandating and incentivising
+centrally cleared derivatives activity, simplifying counterparty credit exposures and increasing transparency
+to regulatory authorities. ’ BIS, CPMI, IOSCO. Consultative Report: Review of margining practices’ (October 2021), p. 1,
+https://www.bis.org/bcbs/publ/d526.pdf.
+3
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+The UK Approach
+Today we have launched a consultation on the policies that will define the UK’s approach going forward.
+
+Many of you will recall that last year the EU finalised a new framework for recognising non-EU CCPs wishing
+to serve EU clearing members and clients known as EMIR 2.2. Under this framework, CCPs are categorized
+or “tiered” according to the level of systemic risk they pose to the EU. “Tier 1” CCPs may operate in the EU
+without direct EU regulation and supervision. Systemically important or “Tier 2” CCPs are brought into direct
+supervision by the European Securities and Markets Authority. “Tier 3” CCPs are subjected to a location
+policy – they cannot operate in the EU unless they establish an EU presence through which to operate. This
+tiering system sits on top of an equivalence process, in which CCPs’ home jurisdictions must also receive a
+positive equivalence decision from the European Commission, deeming their regulatory and supervisory
+frameworks equivalent to those in the EU.
+When it left the EU, the UK “on-shored” EMIR 2.2 and transferred the responsibility for tiering, recognising
+and, where needed, supervising non-UK CCPs to the Bank of England. Contrary to any rumours about
+divergence, we are implementing EMIR 2.2. HM Treasury has assumed responsibility for the equivalence
+process deeming CCPs’ home jurisdictions’ regulatory and supervisory frameworks equivalent to those in the
+UK The Bank has taken on the responsibility to set the policy for how we will determine which CCPs pose
+systemic risk to the UK – it is those polices on which we’re consulting today.
+In designing these policies, our guiding principle was “safe openness”. How do we do we make sure that
+non-UK CCPs providing services, cross-border into the UK don’t make the UK financial system unsafe
+without sacrificing the global financial stability benefits of open, cross-border financial market infrastructure.
+Luckily it turns out these are not incompatible. Our approach has 3 major features.
+
+Risk-Based
+
+The first is that it is designed to be risk-based. We will supervise non-UK CCPs based on the risks that they
+could potentially pose to the UK.
+
+The starting point here should be size: how much do UK financial system participants rely on the CCP and
+in the event of a problem at the CCP how large is the potential liability of UK financial system participants.
+We reflect this in our proposed approach by including triage indicators focused on the CCP’s importance to
+UK clearing members. We will consider supervising a non-UK CCP directly (i.e. placing it in Tier 2) if:
+a. The CCP has more than £10bn Initial Margin (IM) from UK clearing members6, or
+
+6
+
+Measured at any point in the last 5 years, across all services and including non-UK subsidiaries of UK headquartered firms.
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+b. The CCP holds more than £1bn Default Fund Contribution (DFC) from UK clearing
+members, or7
+c.
+
+The CCP is interoperable with a UK CCP.
+
+As these triage indicators are blunt, any CCP that meets them will be subjected to a more holistic and
+detailed systemic risk assessment. This is to reflect the full set of criteria set out in EMIR 2.2 and to ensure
+we don’t get false positives.
+
+Cooperation-centric
+
+The second feature of our approach is that it places cooperation at the heart of our tiering decisions. When it
+comes to assessing whether something poses a financial stability risk, size is a starting point. But it is only a
+starting point. You can’t determine how much risk a CCP may pose to the UK financial system based on
+size criteria alone.
+Imagine two non-UK CCPs that provide very significant levels of clearing service to UK clearing members –
+they are potentially systemic in the UK:
+
+-
+
+For the first hypothetical CCP we have minimal cooperation with its home supervisor. We have little
+understanding or continuing visibility into its supervision and regulation. We can’t assess whether its
+home supervision continuously adequately addresses risks to UK financial stability.
+
+We have no
+
+relationship of trust or experience of collaboration with its home authorities.
+
+-
+
+For the second hypothetical CCP, we have a deep relationship with its home supervisor based on
+mutual trust and cooperation. We are invited to join in supervisory visits. We receive regular
+updates either via a supervisory college or bilaterally. We have opportunities to discuss our priorities
+with the home supervisor and input into their supervisory programme. Its home supervisors
+recognise and take seriously their duty to reduce not just risks to their home jurisdiction but to any
+jurisdiction that uses the CCP.
+
+Even if these two hypothetical CCPs are identical in terms of size of UK clearing member reliance and
+exposure, the risks of letting them operate in the UK without direct UK supervision and regulation are hardly
+identical.
+For the first CCP – into which we have little visibility, limited cooperation and no trusted relationship – our
+duty to protect financial stability in the UK would mean we need direct supervision – and we would need to
+place them in Tier 2.
+
+7
+
+Measured at any point in the last 5 years, across all services and including non-UK subsidiaries of UK headquartered firms. The DFC
+indicator will be £5bn for CCPs that hold IM and DFC in a single fund.
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+But for the second CCP, where we have a deep ongoing relationship with its supervisor, it isn’t clear that the
+benefits of direct supervision by UK regulators would outweigh the potential detriment to post-crisis reforms
+or global financial stability from having multiple supervisors and regulators of global market infrastructure.
+This is why a key feature of our approach to tiering is an “informed reliance” test. Where a jurisdiction has a
+robust regulatory and supervisory framework and is clearly committed to meeting our expectations with
+respect to cooperation, trust and, information sharing, we will deem that CCP Tier 1. In other words we will
+not bring that CCP into direct UK supervision provided that we can see on a continuing basis that its home
+regulators are delivering the outcomes we need to protect UK financial stability.
+
+Recognising the importance of clarity and predictability in our regime, we will do this based not on
+judgement, but on a clear set of informed reliance test criteria, which we detail in the consultation we
+released today. This ensures we can deliver on our statutory objectives to protect and enhance UK financial
+stability without sacrificing the global good of well-regulated and supervised central clearing.
+
+Proportionate
+
+The third feature of our approach is proportionality. We recognise that a system where every authority
+insists on deep cooperation for systemic CCPs could in itself become unmanageable. Imagine thirty
+different regulators on every supervisory visit, thirty different voices with significant weight in setting
+supervisory priorities. I imagine that for some of you in the audience who run CCPs I’ve already given you
+nightmares.
+
+Therefore, even for systemic CCPs that might justifiably be placed in Tier 2, our approach distinguishes
+between CCPs in which we – the UK – have a very large interest and would expect to be among the lead
+authorities, and CCPs where the UK has less at stake.
+
+Our goal is to ensure that the authorities with the greatest interest in a CCP in the event of its failure have the
+greatest input in its regulation and supervision. This reflects the fact that jurisdictions representing the
+highest default fund contributions to a CCP will bear the burden in the event of CCP failure as their clearing
+members will contribute most to mutualised losses.
+
+Where the UK has a smaller interest in a CCP relative to other jurisdictions, the Bank will be more inclined to
+rely on the home authority. But where the UK has a greater interest in a CCP relative to other authorities, we
+should expect a greater level of assurance that the home authority is delivering robust and equivalent
+supervisory outcomes and that we have a relationship on which we can rely.
+
+So our approach has two levels of the informed reliance tests I just described. For CCPs for which UK
+clearing members are less than 20% of both the CCP’s total global IM and total default fund contributions we
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+will use a lighter-touch “level 1” informed reliance test. For those CCPs for which the UK is at least 20% of
+either the CCP’s IM or default funds will we insist on a more-detailed “level 2” informed reliance test. In both
+cases the outcome will be that the CCP will be categorised in Tier 1 if the regulatory authorities meet our
+informed reliance expectations.
+Summary of the Bank’s proposed approach to tiering non-UK CCPs’
+
+Together these principles: Risk-based, Cooperation-centric, and Proportionate, will enable us to ensure that
+the CCPs on which the UK financial system relies are safe – The Bank will be able to fulfil with confidence
+our duty to Parliament and ultimately the people of the UK, to protect UK financial stability. This is because
+the Bank will have proportionate, fair and continuing visibility into the supervision of the financial market
+infrastructure that serves as the backbone of the financial system. And the Bank will be able to do this
+without sacrificing the openness that was at the heart of that triumphant G-20 declaration 12 years ago.
+Where we need to, we will directly regulate and supervise cross-border CCPs. But where we can achieve
+the same outcomes with confidence through cooperation, we will not.
+
+Holding Up the Mirror
+I’ve just spent quite a bit of time explaining what we expect of others in order for us not to step in and directly
+supervise their CCPs - cooperation and trust. Now I’m going to turn the tables and give you a bit of a
+self-assessment – how does the UK fare as the home supervisor of some of the world’s largest CCPs?
+This is important – throughout the process of designing our tiering criteria my team and I have had a mantra:
+it has to work both ways. In other words we need to be happy that it keeps the UK safe from risks posed by
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+incoming non-UK CCPs. And we need to be happy about what would happen if someone applied this to UK
+CCPs serving other markets. If we want a global system that preserves safe openness we can’t have
+one-way beggar thy neighbour approaches. Or, more colloquially: we shouldn’t dish it out if we can’t take it.
+
+The UK takes its responsibility as a supervisor of financial infrastructure in a global financial centre very
+seriously. UK is home to a global clearing market used by market participants from around the world. And
+our supervision and regulation of these firms should reflect not only their domestic importance but also the
+vital services they provide to other jurisdictions. The government will publish a consultation on the
+Future Regulatory Framework Review soon. One issue to be addressed through that Review is the
+governance and accountability framework for CCP regulation. This will be an opportunity to more explicitly
+recognise in our objectives the key role that CCPs play in safeguarding global financial stability and the
+impact that they can have on other jurisdictions.
+
+So what does being a responsible supervisor of infrastructure used by participants around the world mean in
+practice? I think there three tests (1) Are they a good and proactive supervisor day-to-day? (2) Do I have the
+visibility and cooperation I need? and (3) Can I trust them in a crisis?
+
+Good and proactive supervision and regulation
+
+So how do we do on day to day supervision and regulation?
+The UK has long been recognised as a world leader in the regulation of clearing services.8 And we have
+time and time again stressed that we are committed to maintaining at least the current levels of resilience for
+CCPs. For example in June, Chancellor Rishi Sunak emphasised that ‘The UK already has one of the
+world’s most robust regulatory regimes for central counterparties. And our plan is not to weaken but
+strengthen that regime, because we believe in high-quality regulation”.9
+But it’s not enough just to say these things. So I thought I would highlight just a few of our recent actions to
+strengthen CCP regulation in the UK.
+
+For example, the Government published a consultation proposing the introduction of a Senior Managers and
+Certification Regime for Financial Market Infrastructure (FMIs), which would enhance the accountability of
+senior managers and improve governance arrangements at CCPs.10 This would give the Bank of England
+new tools to ensure that CCP senior managers are well qualified, and ensure that they have legal
+responsibility and accountability of the firms they run. As we have seen for other financial institutions that
+
+8
+
+United Kingdom: Financial Sector Assessment Program--Financial System Stability Assessment; IMF Country Report 16/167; June 1,
+2016United Kingdom: Financial Sector Assessment Program--Financial System Stability Assessment; IMF Country Report 16/167; June
+1, 2016
+9
+R. Sunak. ‘Mansion House Speech’ (1 July 2021) https://www.gov.uk/government/speeches/mansion-house-speech-2021-rishi-sunak.
+10
+HM Treasury. Senior Managers & Certification Regime (SM&CR) for Financial Market Infrastructures (FMIs): consultation (20 July
+2021), https://www.gov.uk/government/consultations/senior-managers-certification-regime-smcr-for-financial-market-infrastructuresfmis-consultation.
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+have a Senior Managers and Certification regime in place, this regime can be an important enhancement to
+the safety and soundness of firms.
+
+The Bank has also been pushing forward with an ambitious new stress testing approach, which as well as
+fully testing credit and liquidity risks, will include consideration of a range of alternative default assumptions
+to help better assess individual and system-wide CCP resilience. This summer the Bank published a
+Discussion Paper on CCP supervisory stress testing and launched its first supervisory stress test of CCPs.
+We intend to use CCP supervisory stress testing as a key mechanism through which to undertake
+assessment of the resilience of individual CCPs and the broader resilience of the clearing network, as well as
+to promote transparency and help maintain public confidence in CCPs.
+The Bank also released new policies on operational resilience for CCPs in March 2021. 11 This reflects the
+fact that operational disruption can impact financial stability, threaten the viability of individual firms, or cause
+harm to other participants in the financial system. Building on existing regulatory requirements, these
+policies set out a comprehensive approach to ensure firms and the financial sector are able to prevent,
+adapt, respond to, recover from, and learn from operational disruptions.
+
+Visibility and Cooperation
+
+How do we do on cooperation? The UK has a long tradition of cooperation and openness. The UK
+authorities established the world’s first CCP colleges in 2012. Over the past twelve months alone, the Bank
+hosted five college meetings involving over 40 individual authorities from across the world.
+
+Over the past two years we have signed new cooperation Memorandums of Understanding (MOUs) with the
+US Commodity Futures Trading Commission and the European Securities and Markets Authority. Both
+these MOUs establish that the supervision of central counterparties that operate in our jurisdictions is based
+on close co-operation and mutual respect. These MOUs also have extensive provisions on information
+sharing. We have committed to share information about our CCPs, our regulatory regimes, and our
+supervisory practices. And we are doing this! I can’t count the number of times a week a member of my
+team or I are on the phone with one of our international counterparts.
+
+What happens in crisis
+
+Can you trust us to act transparently and fairly in a crisis? The UK was a pioneer in the development of
+crisis management arrangements for FMIs. In 2016, the International Monetary Fund described the Bank –
+the CCP resolution authority in the UK – as ‘a global leader in the development of crisis management
+
+11
+
+Bank of England policy on Operational Resilience of FMIs (29 March 2021), https://www.bankofengland.co.uk/paper/2021/bank-ofengland-policy-on-operational-resilience-of-fmis.
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+arrangements for FMIs including recovery and resolution planning.’12 We have set up crisis management
+groups for CCPs to enable information sharing with foreign authorities and to cooperate in the case of a
+cross-border crisis.
+
+Perhaps more importantly, in a crisis we as a regulator, supervisor or resolution authority for UK CCPs
+cannot act in a way that favours certain members of a CCP over others solely based on their nationality.
+
+The strength of London as a global financial centre is that users are confident in the robust legal framework
+that underpins it. English law is commonly used to govern international transactions in financial services due
+to its certainty and principle of non-discrimination. The rule of law does not favour any particular nationality.
+The expertise and efficiency of English courts make it one of the leading choices for wholesale financial
+market participants. Clearing is no different.
+Our current resolution regime for CCPs – which when introduced in 2012 was one of the world’s first –
+provides robust protections for non-UK users of UK CCPs.13 In addition, our EMIR non-discriminatory
+provisions apply equally to all clearing members. The UK government has recently consulted on
+enhancements to the resolution regime for CCPs, including a proposal to introduce an explicit No Creditor
+Worse Off safeguard.14 HMT’s proposed No Creditor Worse Off regime would provide an even stronger
+legal basis for what is already the case in practice: the Bank cannot and will not discriminate in its actions on
+the basis of factors like the nationality of a clearing member.
+
+Conclusion
+
+Going back to the beginning of my talk, one question many of you must rightly have asked when I showed
+the G-20 statement from 2009 is: wasn’t it a bit pre-mature?
+
+Ensuring recovery, repairing our financial systems and maintaining the global flow of capital was of course
+not over in 2009.
+In many ways it’s not a task that’s complete today and probably never will be. The financial system evolves.
+New risks emerge. Safe openness requires tending.
+But in the narrower space of CCP cross-border supervision I hope we’ve today laid out a possible path
+forward that preserves both safety and openness.
+12
+
+International Monetary Fund. Financial Sector Assessment Program: Supervision and Systemic Risk Management of Financial Market
+Infrastructures – Technical Note (June 2016), p. 5, https://www.imf.org/external/pubs/ft/scr/2016/cr16156.pdf.
+13
+For an overview of the current resolution regime for CCPs see Section 2 of HM Treasury’s Special Resolution Regime Code of
+Practice (1017),
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/945165/SRR_CoP_December_2020.
+pdf.
+14
+HM Treasury. ‘Expanded Resolution Regime for Central Counterparties (CCP): consultation’ (24 February 2021),
+https://www.gov.uk/government/consultations/expanded-resolution-regime-for-central-counterparties-ccp-consultation.
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+By putting in place a system that is risk-based, cooperation-centric and proportionate, we can fulfil our
+mandate to protect UK financial stability without sacrificing the post-crisis reforms to derivative markets that
+have made us all safer.
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+

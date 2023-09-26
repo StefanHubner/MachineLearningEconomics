@@ -1,0 +1,438 @@
+Inflation Now and Then
+Speech at the University of Glasgow
+23 November 2021
+Jonathan Haskel
+@haskelecon
+
+Imperial College Business School, and Bank of England
+Full text of speech available on Bank of England Website
+Views are my own.
+1
+
+Outline
+
+• Inflation on average is on target
+•
+
+Since BoE independence in 1997, inflation has averaged 2%
+
+• But inflation varies around the target
+•
+
+Of every deviation from target
+•
+
+24% food & energy
+
+•
+
+13% taxes
+
+•
+
+25% imported goods and exchange rates
+
+• Inflation then : what went wrong in the 1970s?
+•
+•
+•
+
+Inflation 26%!
+Transient commodity price rises, but …
+wages ran ahead of slowing productivity
+
+• Inflation now: the 2020s
+•
+•
+
+•
+
+High commodity price rises, should be transient
+What about wages and productivity?
+•
+
+High wages are good!
+
+•
+
+But high wages need high productivity too…
+
+If the labour market stays tight, Bank Rate will have to rise.
+
+• Some perspective
+•
+•
+•
+
+This is the worst shock to hit the economy for 100 years
+The prospective rise in Bank Rate from its emergency level is not a bug, but a feature.
+It reflects the success of the policies, mostly fiscal, health and science, that have supported the economy over the pandemic.
+2
+
+Modelling inflation, 1/2
+• Firms target prices p*
+ Costly for firms to adjust prices instantly. So firms adjusting p towards target p*
+ Prices and target depends on marginal costs 𝑚𝑐 now and in future, and react to expected inflation
+ Costs are capital and labour costs, energy and import prices, taxes; also adjustment costs (e.g. Covid)
+
+• Central banks target inflation 𝜋 ∗
+ Credibility needed to anchor people’s long-run inflation expectations to the target (π∗ )
+ Manage demand in the economy by changing interest rates to hit the target
+𝜋𝑡 = 1 − β π∗ + 𝛽𝐸 π𝑡+1 + α 𝑝∗ − 𝑝 + 𝛾 Δxt , Δxt+1
+Inflation
+
+Bank
+target
+
+Expected
+inflation
+
+Firms
+getting to
+target p*
+
+Adjustment costs
+3
+
+Modelling inflation, 2/2
+• Gap between target and actual prices depends on
+ Costs of goods such as
+ Food
+ Energy
+ (non-food, non-fuel) imports of final goods
+
+ Taxes
+ Adjustment costs
+ Wages and capital, which in turn depend on tightness of labour and (real) asset markets
+ Expectations
+
+• An (inflation - 2%) decomposition:
+𝜋𝑡 − 2% = 𝛼1 𝐹𝑜𝑜𝑑 + 𝑒𝑛𝑒𝑟𝑔𝑦 + 𝛼2 𝑇𝑎𝑥𝑒𝑠 +𝛼3 𝐼𝑚𝑝𝑜𝑟𝑡𝑠 + 𝛼4 𝑜𝑢𝑡𝑝𝑢𝑡 𝑔𝑎𝑝 + ⋯
+4
+
+Decomposing the deviation of inflation from 2% over 1995-2019
+
+Food and
+energy
+= 24% of
+deviation
+
+Source: ONS, Bank of England and author calculations.
+Note: The chart decomposes deviations of year over year CPI inflation from 2 percent. The food and energy contributions are
+calculated directly from their CPI weights. The output gap contribution is based on a reduced form Philips curve embedded in an
+output gap filter (see Melolinna & Toth, 2016) and the Bank of England’s estimate of the output gap. The tax contributions use ONS
+calculations of the effect of indirect tax changes on CPI. Other import and exchange rate contributions are determined by a
+regression of the CPI residual deviation on 8 lags of de-trended non-fuel import prices, de-trended imported fuel prices, Bank of
+England measure of the multi-lateral effective exchange rate and changes to trend supply growth. The yellow bars are determined
+as a residual and assumed to constitute other supply effects, adjustment costs and misspecification.
+
+5
+
+Decomposing the deviation of inflation from 2% over 1995-2019
+
+Tax
+= 13% of
+deviation
+
+Source: ONS, Bank of England and author calculations.
+Note: The chart decomposes deviations of year over year CPI inflation from 2 percent. The food and energy contributions are
+calculated directly from their CPI weights. The output gap contribution is based on a reduced form Philips curve embedded in an
+output gap filter (see Melolinna & Toth, 2016) and the Bank of England’s estimate of the output gap. The tax contributions use ONS
+calculations of the effect of indirect tax changes on CPI. Other import and exchange rate contributions are determined by a
+regression of the CPI residual deviation on 8 lags of de-trended non-fuel import prices, de-trended imported fuel prices, Bank of
+England measure of the multi-lateral effective exchange rate and changes to trend supply growth. The yellow bars are determined
+as a residual and assumed to constitute other supply effects, adjustment costs and misspecification.
+
+6
+
+Decomposing the deviation of inflation from 2% over 1995-2019
+
+Imports/ER
+=25% of
+the
+deviation
+
+Source: ONS, Bank of England and author calculations.
+Note: The chart decomposes deviations of year over year CPI inflation from 2 percent. The food and energy contributions are
+calculated directly from their CPI weights. The output gap contribution is based on a reduced form Philips curve embedded in an
+output gap filter (see Melolinna & Toth, 2016) and the Bank of England’s estimate of the output gap. The tax contributions use ONS
+calculations of the effect of indirect tax changes on CPI. Other import and exchange rate contributions are determined by a
+regression of the CPI residual deviation on 8 lags of de-trended non-fuel import prices, de-trended imported fuel prices, Bank of
+England measure of the multi-lateral effective exchange rate and changes to trend supply growth. The yellow bars are determined
+as a residual and assumed to constitute other supply effects, adjustment costs and misspecification.
+
+7
+
+Decomposing the deviation of inflation from 2% over 1995-2019
+
+Output gap
+
+Source: ONS, Bank of England and author calculations.
+Note: The chart decomposes deviations of year over year CPI inflation from 2 percent. The food and energy contributions are
+calculated directly from their CPI weights. The output gap contribution is based on a reduced form Philips curve embedded in an
+output gap filter (see Melolinna & Toth, 2016) and the Bank of England’s estimate of the output gap. The tax contributions use ONS
+calculations of the effect of indirect tax changes on CPI. Other import and exchange rate contributions are determined by a
+regression of the CPI residual deviation on 8 lags of de-trended non-fuel import prices, de-trended imported fuel prices, Bank of
+England measure of the multi-lateral effective exchange rate and changes to trend supply growth. The yellow bars are determined
+as a residual and assumed to constitute other supply effects, adjustment costs and misspecification.
+
+8
+
+Case study: inflation peak in 2011
+Mostly due to
+tax…
+…with a bit of
+food+energy,
+imports…
+…with a very weak
+economy…
+…and an
+undershoot soon
+after…
+Policy messages: inflation can be transitory
+It can be right to “look through” transitory changes in inflation
+9
+
+Inflation then: the 1970s
+
+Source: ONS for UK CPI and Federal Reserve Bank of St. Louis for the West Texas Intermediate spot crude oil price.
+
+• Oil shocks of 1973/74 and 1979
+• UK CPI inflation: 25%+ in Aug 1975; 18%+ in May 1980 vs 4.2% in Oct 2021
+10
+
+What’s the link between energy, labour and capital prices?
+• The Factor Price Frontier
+ If energy prices rise
+ First round effects: Output prices rise: inflation in proportion to share of energy
+ Second round effects: if wages and capital returns stay the same, no further rise in inflation.
+
+ What can give second round effects?
+ If wages rise
+ If productivity falls
+ If capital returns rise
+
+• But if wages stay the same, “purchasing power” (wages/consumption prices) of workers falls
+•
+
+F
+
+• Diagnostics:
+ Firms care about the real product wage (𝑤/𝑝𝑣 ) relative to productivity V/L
+ Workers care about the real consumption wage (𝑤/𝑝𝑐 )
+ “Real wage resistance” is when workers resist falls in (𝑤/𝑝𝑐 ) (at given productivity)
+
+11
+
+Real wage resistance: RPW vs productivity in the 1970s
+1973
+• Rises in oil prices meant falls in w/pc
+• Attempt to maintain w/pc
+• At the same time productivity
+slowed down
+• w/pc and w/pv exceeded
+productivity => inflation
+
+Source: ONS and author’s calculations. The real product and consumption wages are calculated as hourly labour compensation less employment subsidies, deflated by the GVA deflator at basic
+prices and the consumer price index respectively. Productivity is calculated as GVA at basic prices divided by total hours worked. Labour compensation is pre-tax wages plus non-wage labour costs
+such as pensions, employer national insurance.
+
+12
+
+Real wage resistance: RPW vs productivity in the 2010s
+
+Post financial crisis, collapse in productivity but in real
+wages too
+
+13
+
+Expectations: what inflation were households expecting?
+
+Source: Federal Reserve Bank of St. Louis for the West Texas Intermediate spot crude oil price; for households’ inflation expectations, from 1970 Q1 to 1986 Q4, Gallup and EC surveys based on
+Batchelor and Orr (1988); from 1987 Q1 to 1996 Q2, average of Barclays Basix median one-year ahead and extended Batchelor and Orr measure; from 1996 Q3 to 1999 Q3, Barclays Basix adjusted for
+average difference with the 50:50 measure over the 2001-5 period; from 1999 Q4 to 2009 Q4, average of Barclays Basix median one-year ahead and Bank/GFK median one-year ahead; from 2010 Q1,
+Bank/Kantar median one-year ahead.
+
+• Why the fall in expected inflation? Policy intention: inflation targeting in
+1992; BoE independence in 1997
+
+14
+
+Inflation now: big energy and shipping price rises…
+
+The big questions:
+• how will wages react?
+• Is the labour market loose or
+tight?
+
+Source: ONS, Eikon by Refinitiv, Bank of England & Author calculations
+Note: Panel A shows three series normalised by their mean and standard deviation for the period 2011-2021. Shipping is the HARPEX shipping price index. Oil is the spot price for Brent
+crude oil. Gas is the UK national balancing point price for next day delivery. All series plotted as monthly averages with the last data point in November 2021. Panel B shows the
+contributions and forecasted contributions from the Bank of England November 2021 MPR of different components of the CPI basked to CPI inflation. Each contribution is expressed as
+deviations from its average contributions from 2010-2021. The forecast ends in March 2022.
+
+15
+
+So far product wages in line with productivity…
+
+What have the MPC said?
+“The Committee judges that, provided the incoming data, particularly on the
+labour market, are broadly in line with the central projections in the November
+Monetary Policy Report, it will be necessary over coming months to increase
+Bank Rate in order to return CPI inflation sustainably to the 2% target. “
+Bank of England, November 2021, Summary
+
+16
+
+The Beveridge curve as a guide to labour market “tightness”
+• Unemployment and
+vacancies co-exist as workers
+try to find vacancies
+• Business cycles
+• Recessions: V falls and U rises
+Mismatch
+
+• down the curve, loose labour market
+• Recoveries: V rises and U falls
+
+Boom
+
+• up the curve: tight labour market
+Recession
+
+• Labour market problems
+• Mismatch: firms post V, but if U less
+suitable, curve shifts out
+
+• Questions
+• What happened over the pandemic?
+• Where are we now?
+
+17
+
+Beveridge (VU) curve with UK data 2001- 2021
+
+• 2007 recession: moved down and
+then recovered
+• Start in 2019
+• V fell but furlough prevented
+proportional rise in U
+• Now (2021 Q4): high V and low
+U
+
+• What will happen?
+
+Source: ONS, Bank and author calculations.
+Note: The 2020-2021 period has been adjusted by assuming that 10 percent of furloughed workers were in effect unemployed.
+This was calibrated using the Labour Force Survey microdata and is based on an estimate of the proportion of workers who
+report to be on furlough and state that they are searching for an additional or different job. The estimate comes from the LFS
+microdata. 21Q4 is a forecast based on the Bank of England MPR and extrapolation of the latest Adzuna vacancy data made
+available through ONS. Rates are expressed relative to the active labour force.
+
+18
+
+The UK Beveridge curve
+• Case 1: Recovery: less V, less U
+1. Return to
+2019
+
+Source: ONS, Bank and author calculations.
+Note: The 2020-2021 period has been adjusted by assuming that 10 percent of furloughed workers were in effect unemployed.
+This was calibrated using the Labour Force Survey microdata and is based on an estimate of the proportion of workers who
+report to be on furlough and state that they are searching for an additional or different job. The estimate comes from the LFS
+microdata. 21Q4 is a forecast based on the Bank of England MPR and extrapolation of the latest Adzuna vacancy data made
+available through ONS. Rates are expressed relative to the active labour force.
+
+• Return to 2019
+• Interest rates likely to rise
+
+19
+
+The UK Beveridge curve
+• Case 1: Recovery: less V, less U
+2. New eq.
+1. Return to
+2019
+
+• Return to 2019
+• Interest rates likely to rise
+
+• Case 2: Mismatch: more V, more U
+• Return to 2019
+• Interest rates likely to rise
+
+Source: ONS, Bank and author calculations.
+Note: The 2020-2021 period has been adjusted by assuming that 10 percent of furloughed workers were in effect unemployed.
+This was calibrated using the Labour Force Survey microdata and is based on an estimate of the proportion of workers who
+report to be on furlough and state that they are searching for an additional or different job. The estimate comes from the LFS
+microdata. 21Q4 is a forecast based on the Bank of England MPR and extrapolation of the latest Adzuna vacancy data made
+available through ONS. Rates are expressed relative to the active labour force.
+
+20
+
+The UK Beveridge curve
+• Case 1: Recovery: less V, less U
+2. New eq.
+1. Return to
+2019
+3. Stalled
+recovery
+
+• Return to 2019
+• Interest rates likely to rise
+
+• Case 2: Mismatch: more V, more U
+• Return to 2019
+• Interest rates likely to rise
+
+• Case 3: Stalled recovery: less V
+and more U
+• Likely to pause interest rate rise
+Source: ONS, Bank and author calculations.
+Note: The 2020-2021 period has been adjusted by assuming that 10 percent of furloughed workers were in effect unemployed.
+This was calibrated using the Labour Force Survey microdata and is based on an estimate of the proportion of workers who
+report to be on furlough and state that they are searching for an additional or different job. The estimate comes from the LFS
+microdata. 21Q4 is a forecast based on the Bank of England MPR and extrapolation of the latest Adzuna vacancy data made
+available through ONS. Rates are expressed relative to the active labour force.
+
+21
+
+The big picture
+• Much inflation variation due to energy, imports.
+Transitory.
+• If labour market tight, wages rise.
+•
+
+Good!
+
+•
+
+But needs increased productivity to not be inflationary
+
+• Is the labour market tight?
+•
+
+Initial indications from VU curve suggests it is
+
+•
+
+If the labour market stays tight, rates will have to rise
+
+• Some perspective
+•
+
+COVID was the worst economic shock in 100 years.
+
+•
+
+The prospective rise in Bank Rate from its emergency level is not a bug,
+but a feature.
+
+•
+
+It reflects the success of the policies, mostly fiscal, health and science,
+that have supported the economy over the pandemic.
+
+22
+
+

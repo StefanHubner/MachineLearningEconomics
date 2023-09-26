@@ -1,0 +1,1080 @@
+Pass-through of Bank Rate to household interest rates
+Speech given by
+Michael Saunders
+External MPC Member
+Bank of England
+
+Imperial College Business School, London
+6 March 2019
+
+The views expressed here are not necessarily those of the Bank of England or the Monetary Policy
+Committee. I would like to thank Thomas Belsham, Ben Broadbent, Fabrizio Cadamagnani,
+Aaron Clements-Partridge, Andrew Hauser, Bonnie Howard, Lee Jones, Jeremy Leake,
+Elizabeth Levett, Clare Macallan, Rebecca Maule, Mette Nielsen, Michal Stelmach, Matt Swannell,
+Martin Taylor, Silvana Tenreyro, Ryland Thomas, Gertjan Vlieghe, Chris Yeates.
+1
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+In using monetary policy to achieve the inflation target, the MPC’s primary tool is Bank Rate, which acts as
+the anchor for sterling overnight interest rates. Changes in Bank Rate influence the interest rates facing
+households and businesses, as well as the exchange rate and other asset prices, and hence shape the
+economic outlook. However, in the current tightening cycle, a key part of this monetary transmission
+mechanism – the effect on household deposit and lending rates – seems to be much less effective than
+usual. In this speech, I want to discuss a few possible reasons for this, whether it is likely to continue, and
+some implications for monetary policy.
+Pass-through has been unusually low
+Let me start by outlining the issue.
+Since late 2017, the MPC has increased the policy rate by 50bp, in two 25bp steps. Consistent with MPC
+guidance, the rise in the policy rate has been gradual and limited.1
+Market rates have moved up roughly in line with the policy rate. For example, compared to three months
+before the first hike (ie August 2017), three-month interbank rates are up by slightly more than Bank Rate
+(about 60bp), 2-year swap rates have risen about the same amount as Bank Rate, and 5-year swap rates
+have risen a little less (about 40bp). This is broadly similar to trends in prior MPC hiking cycles.
+However, pass-through to retail interest rates – both deposit rates and lending rates – has been unusually
+small. Many household interest rates have barely changed.
+
+
+Since three months before the first rate hike, the average interest rate on household
+(interest-bearing) sight deposits is up by just 14bp, roughly 30% of the rise in Bank Rate. By
+contrast, in the equivalent period of prior MPC tightening cycles, sight deposit rates rose almost as
+much as Bank Rate, with average pass-through of more than 80% (and minimum pass-through of
+over 60%).2
+
+
+
+It is a similar story for rates on new household time deposits: a rise of 15bp so far (roughly 30% of
+the rise in Bank Rate), versus average pass-through of just above 100% in prior MPC hiking cycles.
+
+
+
+Pass-through has been slightly greater for corporate sight deposits (which fell further during MPC
+easing), but still below prior tightening cycles. The weighted average interest rate on all household
+and private non-financial corporations (PNFC) sight and new time deposits has risen by 17bp,
+implying pass-through of roughly 35% versus around 100% on average in prior tightening cycles.3
+
+
+
+The average rate on new mortgages (covering both fixed and variable rate loans) is up by only
+
+1
+
+Bank Rate rose by an average of 120bp over the first 12 months of prior MPC hiking cycles (1997-98, 1999-2000, 2003-04, 2007-08).
+These figures are based on the BoE effective rates series, which are weighted to reflect the overall market. Using the BoE quoted
+rates series, pass-through to deposit rates in this cycle has been slightly higher, around 40%. However, those series do not extend far
+enough back to produce comparable figures for prior tightening cycles. Moreover, as noted in FCA (2018), banks tend to reduce interest
+rates as accounts age, and hence the quoted rates data may not properly represent the extent of pass-through to all sight deposits.
+3
+This calculation excludes non-interest bearing sight deposits. Including these, the average rate on household and PNFC deposits has
+risen by just 14bp.
+2
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+2
+
+10-15bp, roughly 30% of the rise in the appropriate mix of Bank Rate and swap rates. By contrast, in
+previous tightening cycles, the average level of mortgage rates moved up roughly in line with Bank
+Rate and swap rates. Indeed, for 2-year fixed rate 95% LTV mortgages, spreads have compressed
+so much that – unprecedentedly – lending rates have actually fallen by over 80bp while the policy
+rate has been rising.
+
+
+Pass-through also has been relatively low for interest rates on consumer unsecured loans and new
+loans to companies.4
+
+Figure 1. UK – Pass-Through to Selected Deposit Rates
+
+Figure 2. UK – Pass-Through to Selected New
+
+from Changes in Bank Rate During MPC Tightening
+
+Mortgage Rates from Changes in Bank Rate (and
+
+Cycles
+
+Swap Rates) During MPC Tightening Cycles
+
+140
+120
+
+%
+
+200
+
+Average of MPC Tightening Cycles Since 2004
+
+Average of MPC Tightening Cycles Since 1999
+Average of MPC Tightening Cycles Since 2004
+2017‐19
+
+175
+
+2017‐19
+
+150
+
+100
+
+125
+
+80
+
+100
+
+60
+
+%
+
+75
+
+40
+
+50
+
+20
+
+25
+
+0
+
+0
+
+H'Hold Sight New H'Hold Stock of
+All H'Hold
+Deposits
+Time
+H'Hold Time Deposits
+Deposits
+Deposits
+
+All H'Hold
+and PNFC
+Deposits
+
+‐25
+Variable Rate
+
+2‐Year Fixed
+
+5‐Year Fixed
+
+All New
+Mortgages
+
+Note: Both charts show the changes in household interest rates as a percentage of the change in riskless rates (Bank Rate or swaps)
+from three months before the first rate hike to an average of 12-14 months after the first hike. In the right chart, the series for 2-year,
+5-year and all new mortgages are weighted averages of the rates on 75% and 90/95% LTV mortgages. Source: Bank of England.
+
+Deposit rate renormalisation
+The relative insensitivity of deposit rates is probably best viewed as the renormalisation of the spread
+between deposit rates and the policy rate as the policy rate moves away from the effective lower bound.5
+Deposit rates usually sit below the BoE’s policy rate, with this spread reflecting among other things banks’
+wholesale funding costs, their operational costs, competitive pressures, and the relative supply of deposits
+and demand for credit.6 For example, in 2000-07, household sight deposit rates on average were about
+4
+The pass-through to PNFC borrowing rates from the increases in Bank Rate since late-2017 has been below 50% for both fixed and
+floating rate loans, versus average pass-through of just above 100% in prior MPC tightening cycles. Interest rates on household
+unsecured lending are typically less sensitive to changes in Bank Rate. They have edged up recently, but have actually fallen slightly
+since Q3-2017, the quarter before the first rise in Bank Rate.
+5
+This issue has been previously highlighted by MPC members. See for example Shafik (2016), the Inflation Report press conferences
+of August and November 2018, and pages 9-10 of the November 2018 Inflation Report.
+6
+There is an extensive literature on factors that can affect interest rate pass-through. See for example de Bondt (2002), Hofmann and
+Mizen (2004), Kwapil and Scharler (2006), van Leuvensteijn et al (2013), Gigineishvili (2011), ECB (2017), Hsu (2017), Siakoulis et al
+(2018), Heider, Saidi and Schepens (2018).
+3
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+3
+
+220bp below Bank Rate, with a range of 150bp to 330bp. The picture is much the same over a longer
+period.7 Time deposit rates usually exceed sight deposit rates, reflecting an illiquidity premium and at times
+an upward sloping yield curve, and on average were 40bp below Bank Rate during 2000-07. With similar
+trends in PNFCs interest rates, the overall weighted average interest rate on household and PNFC deposits
+during 2000-07 was roughly 135bp below the policy rate. The picture was broadly similar in the euro area as
+a whole, with some variation between countries.8
+As the policy rate in the UK fell close to zero in 2009, banks were understandably reluctant to impose
+significantly negative interest rates on deposits, and so household deposit rates fell less than the policy rate.9
+This effect was exacerbated in 2011-12 by the market-based rise in banks’ wholesale funding costs, which
+caused banks to bid more aggressively for deposits. But even when that faded, the very low policy rate
+created interest rate congestion, with sight deposit rates in 2013-16 remaining slightly above the policy rate –
+something never previously seen on a sustained basis.
+Figure 3. UK – BoE Policy Rate and Average Interest Rate on Household Sight Deposits, Annual
+Averages, 1870-2018
+
+18
+BoE Policy Rate
+16
+%
+14
+Interest Rate on H'Hold Sight
+12
+Deposits
+10
+8
+6
+4
+2
+0
+‐2
+‐4
+Spread
+‐6
+1870
+1890
+1910
+1930
+1950
+1970
+
+1990
+
+2010
+
+Source: Bank of England Millennium database, updated for 2017 and 2018.
+
+7
+Figures from the BoE Millennium database show that over the whole period since 1870, using annual average data, the interest rate
+on household sight deposits on average was 180bp below the BoE policy rate. Until the last few years, the sight deposit rate has never
+been above the policy rate. The closest the two series got was in 1877 and 1884, with sight deposit rates 100bp below the policy rate.
+8
+Over 2000-07, the average interest rate on sight deposits in the euro area was 210bp below the policy rate, with the average rate on
+deposits with a notice period up to 3 months 100bp below the policy rate. Sight deposit rates were at least 160bp below the ECB policy
+rate on average in every EA country over that period. Kok Sørensen and Werner (2006) discuss the variation across EA countries.
+9
+See minutes of MPC meeting of February 2009. The issue that negative rates on deposits might lead to a substantial withdrawal of
+deposits in favour of cash is covered in Bean (2013).
+4
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+4
+
+More recently, this congestion has unwound a bit as the policy rate has risen. Deposit rates have risen much
+less than one for one with the policy rate, and the spreads between deposit rates and the policy rate are
+returning towards ‘normal’.
+In some countries, there is evidence that pass-through from policy rates to household deposit and lending
+rates tends to be asymmetric with, for example, slower pass-through to deposit rates on the way up than on
+the way down (or faster pass-through to lending rates on the way up).10 This disparity is not so evident in the
+UK, other than when deposit rates were constrained by an effective floor close to zero. And in any case, the
+issue is that pass-through in this cycle has been slower than prior rate rise cycles.
+I don’t think this decline in pass-through is a sign that the household deposit market has become structurally
+less competitive than it used to be: pass-through also has been relatively low for companies’ sight deposit
+rates. And this is not unique to the UK. This compression of household interest rates as the policy rate fell
+close to zero occurred in various other countries, including the EA, Sweden, the US and Canada. Household
+interest rates have also been fairly insensitive to policy rate increases so far in Canada, the US and Czech
+Republic, where central bank rate hikes started earlier and have gone further than in the UK.11
+
+Figure 4. UK – Policy Rate and Household Deposit
+
+Figure 5. Canada – Policy Rate and Household
+
+Rates, 1999-2019
+
+Deposit Rates, 1999-2019
+
+7
+
+7
+%
+
+6
+
+BoE Policy Rate
+H'Hold Sight Deposits
+
+6
+
+5
+
+Stock of H'Hold Time Deposits
+
+5
+
+4
+
+New H'Hold Time Deposits
+
+4
+
+%
+
+BoC Policy Rate
+90 Day Deposit Rate
+1 Year Investment Certificate Rate
+Household interest
+rates have not fully
+matched rising policy
+rate
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019
+
+0
+1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019
+
+Sources: Eikon from Refinitiv and Bank of England.
+
+In the UK, this normalisation of the spread between deposit rates and the policy rate is probably not over. If
+the policy rate continues to edge up in the next year or two, it would not be surprising if pass-through to
+deposit rates remains relatively low. For example, the average rate on interest bearing household sight
+deposits (around 50bp) is currently only about 25bp below Bank Rate, far less than the 220bp average
+spread in the precrisis period (and the 180bp average spread since 1870). Moreover, and this is a point I
+
+10
+11
+
+See Valadkhani and Anwar (2012), Driscoll and Judson (2013), and Popiel (2016).
+See Anderson et al (2017), Pašaličová (2018), and King and Yu (2018). See also Chart A on page V of August 2016 Inflation Report.
+5
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+5
+
+shall return to later on, banks in aggregate have ample deposit funding at present. To be sure, it is possible
+that the expansion of new deposit-taking institutions will lift interest rates for savers. But even if, as an
+illustration, we assume that the equilibrium spread between household sight deposit rates and the policy rate
+in coming years will be about 150bp – the smallest spread seen in 2000-07 – then sight deposit rates
+(currently 0.5% on average) would only start to rise in a significant way if the policy rate goes above 2% or
+so. Time deposit rates would probably be less constrained. But about 70% of household bank deposits (and
+80% of PNFC deposits) are sight deposits rather than time deposits. Hence, if pass-through to sight deposit
+rates is low then pass-through to the overall average deposit rate would also be limited.
+Why have lending rates not responded fully to a rising policy rate?
+Let me turn to lending rates. As noted, pass-through has been relatively low for a range of lending rates. But,
+given their importance to the economy, I am going to focus here on mortgage rates.
+Viewed against traditional metrics, this relative insensitivity of interest rates on new mortgages to a rising
+policy rate might seem unsustainable, with spreads appearing to be well below equilibrium. The way that
+banks price new loans to reflect costs and risks has always involved some judgement, but Figure 6 shows a
+stylised illustration of the traditional approach. The anchor is the policy rate (or swap rates for longer-term
+lending rates), plus the banks’ funding spread. Historically, banks have tended to use unsecured wholesale
+funding as the main measure of the marginal funding cost.12 This is partly because it is a market in which it is
+possible to raise a large amount of funds relatively quickly and the cost is readily observable. These costs,
+plus liquidity costs, typically form the internal funds transfer price (FTP) set by the banks’ treasury functions,
+which is charged to business units that originate new loans (or ‘remunerates’ business units that raise
+deposits). The business unit then allocates extra layers to reflect admin costs, other balance sheet costs,
+and profit margin.
+On average since 2004, new mortgage spreads have been 130-140bp above unsecured wholesale funding
+spreads (both against the relevant mix of riskless rates). However, with mortgage rates rising less than the
+policy rate (and swap rates), mortgage spreads (over riskless rates) have fallen from around 140bp in
+mid-2017 to 100-110bp now, the lowest for over 10 years. Meanwhile, unsecured wholesale funding spreads
+have risen and now are actually slightly above mortgage spreads.
+Hence, if this traditional framework is still valid then, if recent levels of unsecured wholesale spreads persist,
+you would probably expect mortgage spreads to widen sharply. This would produce a significant tightening in
+domestic financial conditions even if the policy rate is stable.
+
+12
+
+See Beau et al (2014).
+6
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+6
+
+Figure 6. UK – Stylised Decomposition of Traditional
+
+Figure 7. UK – Mortgage Spreads and Banks’
+
+Model for Setting Interest Rates on New Mortgage
+
+Unsecured Wholesale Funding Spreads, 2004-2019
+
+Loans
+5.5
+
+4.0
+%
+
+3.5
+
+Mark‐up
+
+3.5% Lending rate
+
+Unsecured
+Wholesale
+Funding Spread
+
+4.5
+
+3.0
+2.5
+2.0
+
+Wholesale funding
+spread
+
+1.5
+1.0
+
+Can
+divergence be
+sustained?
+
+3.5
+
+Admin and other costs
+Capital charge
+Expected loss
+Cost of liquid assets
+
+Average Spread
+on New
+Mortgages
+
+2.5
+Funds
+transfer
+price
+
+1.5
+pp
+0.5
+
+Reference rate
+
+0.5
+
+‐0.5
+2004
+
+0.0
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Note: In the right chart, wholesale spreads are an average of Opco and Holdco measures, relative to Libor. Mortgage spreads are
+measured by a weighted average of various mortgage rates against an appropriate mix of Bank Rate and swap rates.
+Source: Bank of England.
+
+However, in my view, this assumption that lending spreads are currently far below equilibrium is
+questionable.
+UK banks prefunded last year ahead of Brexit uncertainties and hence may not immediately need to borrow
+at this higher spread on unsecured wholesale funding.
+More fundamentally, as discussed in the latest Inflation Report,13 changes in the mix of banks’ liabilities
+mean that the traditional approach, based on unsecured funding spreads, may no longer be valid. Changes
+in liquidity regulation since the financial crisis have encouraged banks to have more deposits and less
+short-term wholesale debt. Moreover, private savings surged after the financial crisis, so that deposit growth
+outpaced credit growth. As a result, the major UK banks in aggregate have eliminated their customer funding
+gap, which peaked at over £300bn (20% of annual GDP) in 2008-09. In aggregate, mortgage lending –
+indeed all lending to households and PNFCs – is now largely backed by deposit liabilities rather than reliant
+on wholesale funding. In turn, the proportion of banks’ balance sheets accounted for by wholesale funding
+has fallen from over 40% in 2008 to below 25% in 2017, and unsecured wholesale funding has shrunk even
+more sharply – with some shift to secured forms of wholesale funding (eg covered bonds).
+Consistent with this shift from a wholesale-funded to retail-funded model, recent supervisory intelligence
+suggests that UK banks now place less emphasis on wholesale unsecured funding in their FTP models, and
+consider a broader range of strategic considerations in setting interest rates. For instance, among
+
+13
+
+See box ‘Bank funding costs and loan pricing’ on page 7 of February 2019 Inflation Report.
+7
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+7
+
+ring-fenced banks, which account for the bulk of lending to UK households and non-financial companies,
+most use blended funding measures reflecting wholesale secured funding (e.g. covered bonds), and
+unsecured funding costs, as well as fixed-rate deposits. Some lenders include sight deposits in their marginal
+funding cost estimate, while others take account of the cost of deposit funding through, for example,
+management overlays.
+
+Figure 8. UK – Banks’ Deposits, Lending, and
+
+Figure 9. UK – Banks’ Wholesale Funding as Pct Total
+
+Customer Funding Gap, Pct of GDP, 1988-2018
+
+Balance Sheet, 2005-17
+
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+‐10
+
+45
+
+Deposits from H'Holds and PNFCs
+
+40
+
+Lending to H'Holds and PNFCs
+
+Long‐term wholesale
+funding
+
+%
+
+Short‐term unsecured
+wholesale funding
+
+35
+
+%
+
+30
+25
+
+Bank Funding Gap
+(Lending Less Deposits)
+
+20
+15
+10
+5
+
+1988
+
+1993
+
+1998
+
+2003
+
+2008
+
+2013
+
+2018
+
+0
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Note: Data in left chart are break-adjusted. For the right chart (which was shown in the February 2019 Inflation Report), wholesale
+funding comprises deposits by banks, debt securities and subordinated liabilities but excludes repo. Long-term wholesale funding has
+residual contractual maturity of greater than three months. Balance sheet total excludes derivatives and liabilities to customers under
+investment and insurance contracts. Sources: Published accounts and BoE calculations.
+
+All this implies that, in estimating the equilibrium level of lending spreads, we should focus on the gap
+between mortgage and deposit rates at least as much as the gap from mortgages to wholesale funding
+costs.
+Judged against deposit rates, spreads on new mortgages appear a little on the low side, but not dramatically
+so. Partial pass-through of a rising policy rate to deposit rates implies that partial pass-through to mortgage
+rates may be sustainable. For example, the spread between the average new mortgage rate (just above
+2.1%) and the average interest rate on household and PNFC deposits (just above 0.5%) is around 160bp.14
+This proxy for net interest margins (NIMs) is only about 15bp below the average of 2004-07, and a similar
+amount below the average since 2013. This spread is much lower than in 2008-12. However, that was an
+exceptional period of severe financial strains and risk aversion, and is unlikely to be a valid benchmark for
+more normal times. It is probably more relevant that this spread is similar to the average of the last two years
+
+14
+
+This is only a rough guide to trends in net interest margins on deposit-funded mortgage lending, because it does not allow for the
+effect of swapping fixed rate mortgages to floating rate assets.
+8
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+8
+
+and has not changed much since the policy rate started to rise in late-2017, with mortgage rates and deposit
+rates both rising less than the policy rate and swap rates.
+Figure 10. UK – Average Interest Rates on Bank
+
+Figure 11. UK – Spreads Between Mortgage Rates and
+
+Deposits and New Mortgages, 2004-19
+
+Average Deposit Rates, 2004-19
+2.4
+
+7
+
+%
+
+BoE Policy Rate
+
+Average Rate on
+New Mortgages
+
+6
+5
+
+2.2
+Spread from
+Mortgage Rates to
+Deposit Rates
+
+4
+
+2.3
+
+3
+
+2004‐07 Average
+2013‐16 Average
+Latest (Jan 2019)
+
+2008‐12 Average
+2017‐18 Average
+
+2.1
+2.0
+
+pp
+
+1.9
+1.8
+1.7
+
+2
+
+Average Rate on
+Household and
+PNFC Deposits
+
+1
+
+0
+2004
+
+1.6
+1.5
+1.4
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+All Outstanding Mortgages
+
+New Mortgages
+
+Note: Figures use BoE effective rates data, weighted for different types of household and PNFC deposits. Source: Bank of England.
+
+Of course, I would not argue that unsecured wholesale funding costs can never affect mortgage rates.
+At some point, retail deposits might shift into non-deposit liabilities, while banks facing more expensive
+wholesale funding might bid more for deposits. This may be especially likely if wholesale funding costs are
+pushed up by strong credit demand (and hence a rising bank funding gap), or general competition for funds
+across the economy.15
+But at present credit growth remains subdued. Moreover, the rise in unsecured spreads over the last year
+has not been mirrored in other wholesale markets (eg covered bonds). It appears to reflect some risk
+aversion among investors, partly Brexit-related, and changes in the resolution regime for UK banks. These
+factors are probably less likely to affect deposit rates.
+Results from the BoE Credit Conditions Survey are consistent with this. Even with the rise in unsecured
+wholesale spreads, banks expect mortgage lending spreads to fall further in coming months. Similarly, since
+around 2014, changes in wholesale funding spreads have not had much impact on lenders’ expectations for
+mortgage availability. Indeed, the survey suggests that competitive pressures are likely to continue to lead to
+easier mortgage availability in coming months.
+
+15
+
+Conversely, Erikson and Vestin (2019) argue (based on data for Sweden) that a negative policy rate can pull down mortgage rates by
+dragging wholesale funding costs below zero even if deposit rates are constrained around zero.
+9
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+9
+
+Figure 12. UK – Net Balance of Banks Reporting
+
+Figure 13. UK – Unsecured Wholesale Funding
+
+Changes in Wholesale Funding Costs, Internal Transfer
+
+Spreads Have Less Effect on Mortgage Credit
+
+Pricing of Funds, and Expectations for Mortgage
+
+Availability, 2008-18
+
+Lending Spreads, 2012-18
+40
+Higher
+
+20
+0
+
+Lower
+
+‐20
+‐40
+
+Wholesale Funding Costs Last 3 Months
+
+‐60
+%
+
+Change in Unsecured Wholesale Funding Spreads (left)
+
+0.6
+
+Effect of Wholesale Spreads on Mortgage Availability
+(rise implies worse credit availability, right)
+
+40
+%
+30
+20
+
+0.2
+
+10
+
+0.0
+
+0
+
+‐0.2
+‐0.4
+
+Mortgage Spreads Next 3 Months
+
+‐0.6
+
+‐10
+
+In 2011‐12, higher
+funding spreads
+followed by worse
+credit availability
+
+Now, higher funding
+spreads not affecting
+credit availability
+
+‐20
+‐30
+
+‐0.8
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+50
+
+0.4
+
+Internal Transfer Pricing Last 3 Months
+
+‐80
+2012
+
+1.0
+pp
+0.8
+
+‐40
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Note: Both charts show 4-quarter averages. The series in the left chart are all net balances, as is the series for mortgage availability in
+the right chart. The left chart uses results from the BoE Credit Conditions and Bank Liabilities surveys, and the series on wholesale
+funding costs does not distinguish between secured and unsecured funding. Source: Bank of England.
+
+Deposit rate renormalisation likely to continue to cap lending rates
+Looking ahead, a background in which the policy rate is rising gently and deposit rate pass-through is
+relatively low might well continue to produce only limited upward pressure on new mortgage rates.
+First of all, partial pass-through to deposit rates would allow lending rates to rise less than the policy rate (or
+swap rates) without further eroding NIMs on new mortgages. To be sure, margins on new mortgages are
+already relatively low, as noted above, with a recent external estimate putting the return on equity for new
+mortgage lending a little below 10%.16 However, the ring-fencing of major UK banks may reinforce
+competitive pressure among lenders and hence keep NIMs on new mortgages below historic norms.17
+Moreover, NIMs on existing mortgages – which generally exceed those on new mortgages – would probably
+benefit from a rising policy rate. Market intelligence suggests that lenders typically swap most fixed rate
+mortgages into floating rate assets. Hence, the yield on these mortgages (plus tracker and SVR mortgages)
+moves broadly in line with Bank Rate, plus the mortgage spread at origination. So partial pass-through of a
+rising policy rate to deposit rates implies widening NIMs on existing mortgages (for a deposit-funded
+mortgage lender), given that in effect most mortgage assets are variable rate. This so-called ‘back book’
+16
+
+See Sinha et al (2019). The November 2017 Financial Stability Report estimated that the cost of equity for UK banks is around 11.5%
+on average. Recent FSRs report that the overall return on equity for UK banks has been below 10% for about ten years.
+17
+See page 31 of the BoE June 2018 Financial Stability Report and Proudman (2018).
+10
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+10
+
+effect would allow banks to maintain overall NIMs on the stock of mortgage lending if Bank Rate is rising
+gently even if NIMs on new mortgages remain somewhat below average.18 Indeed, BoE staff analysis
+suggests that if pass-through to deposit rates remains as low as recently, and/or if Bank Rate rises faster
+than once per year (and mortgages are deposit-funded), then banks’ aggregate net interest margins could be
+stable even if spreads (over riskless rates) on new mortgage loans fall further.
+Implications
+Let me summarise the argument so far. Household deposit rates are unlikely to respond fully to policy rate
+hikes until the spread between deposit and policy rates has normalised further. With the funding gap closed,
+mortgage lending rates are now more sensitive to deposit rates and less sensitive to wholesale unsecured
+funding rates. Hence, for as long as deposit rates remain less sensitive to policy rate changes, rates on new
+mortgages may also respond by less than usual to changes in Bank Rate (and corresponding swap rates).
+The link from changes in the policy rate set by the MPC to changes in households’ deposit and lending rates
+is not permanently broken, but is likely to be less effective while the policy rate is very low.
+This has some general implications for monetary policy. Since the crisis, policymakers have had to pay more
+attention to the issue that there may be an effective lower bound (ELB) for the policy rate – not necessarily at
+zero – below which a further reduction generates no extra stimulus and may even be counter-productive.19
+However, as the policy rate approaches the ELB, there also may be a range in which policy rate changes
+have progressively less impact on banks’ deposit and lending rates. Close to the ELB, a lower policy rate
+would be reflected mainly in wider lending spreads (over riskless rates) rather than lower mortgage rates.
+Conversely, a slight rise in the policy rate would produce narrower lending spreads. Lending and deposit
+rates would not move much either way.
+This is only part of the monetary transmission mechanism (MTM). But it is a fairly important part. BoE models
+suggest that monetary policy in the UK operates through four main channels: the exchange rate; cost of
+capital and non-housing wealth; the cashflow effect on households and their willingness to bring forward or
+delay purchases; and a housing channel. The latter two channels rely on the pass-through of policy rate
+changes to household interest rates. For example, a higher policy rate pushes up mortgage rates and hence
+weakens housing activity and house prices, reducing the value of households’ collateral (the housing
+channel). And the combined rise in deposit and mortgage rates squeezes consumer spending because the
+spending of people with a mortgage is more sensitive to interest rate changes than the spending of net
+savers (the cashflow channel), even if this effect is less marked than it used to be.20 The Bank’s suite of
+models suggest that these two channels typically account for between a third and two thirds of the total
+18
+
+For example, BoE staff analysis suggests that if Bank Rate rises once per year over the next three years, mortgages are backed by
+deposits, and pass-through to deposit rates is 60% (which is higher than recently), then the overall NIM for mortgage lenders will be
+stable if spreads on new mortgages (over riskless rates) are unchanged. Those results are simplified and some banks have so-called
+‘structural hedges’ for some rate-insensitive deposits that will affect how NIMs will evolve as risk-free rates change.
+19
+See Carney (2016), Brunnermeier and Koby (2019), Heider, Saidi and Schepens (2018), Eggertsson et al (2019).
+20
+See Panigrahi, Rigg and Rockall (2018), and Gelos et al (2019).
+11
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+11
+
+expected medium-term impact on output from policy rate changes, depending on how persistent the interest
+rate change is and the extent to which it is anticipated. If these channels are less effective, then the overall
+MTM also may be less effective than usual.
+It is not possible to be precise about where the threshold for such a zone of reduced policy effectiveness
+might be. It probably starts when sight deposit rates reach or are close to their effective lower bound, and
+hence when the policy rate itself is clearly above the ELB. As a rough estimate, my guess is it that for the UK
+this might occur at a policy rate of roughly 2% or so, reflecting a near-zero floor for sight deposit rates plus
+an equilibrium spread of 150-200bp between household sight deposit rates and the policy rate.21 The
+reduction in policy effectiveness may become more marked as the policy rate approaches the ELB and a
+higher share of deposit rates (eg time deposits) become constrained. Of course, this is still very uncertain
+and we are still learning about the effects of policy rate changes at low levels. But this issue may be a fairly
+regular occurrence given that the neutral policy rate is much lower than previously.22
+Figure 14. Stylised Illustration of Policy Rate, Mortgage Rates and Deposit Rates at Low Level
+
+Note: In the chart, the responsiveness of deposit and mortgage rates to changes in the policy rate is less while the policy rate is in the
+shaded area, and diminishes further in the bottom half of the shaded area. Source: Bank of England.
+
+I stress that if the monetary transmission mechanism is less effective at a low rate level – and this is still an
+‘if’ – this will not prevent the MPC from achieving the inflation target over time. The MPC could allow for this
+issue by adjusting monetary policy slightly more actively (when the policy rate is low) in order to produce a
+desired impact on the economy. For example, if Bank Rate is at, say, 1.0% and the MPC want to add
+21
+22
+
+This spread averaged 220bp in the precrisis period, with a low of 150bp.
+See box on pages 39-43 of the August 2018 Inflation Report.
+12
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+12
+
+stimulus, it would be more appropriate to cut a bit further than usual, because each 25bp change in rates
+would have relatively less impact on the economy. The same point applies if the MPC want to tighten policy
+(at a low rate level). Moreover, lower interest rates could be reinforced by balance sheet policies. For
+example, TFS-type programmes could increase downward pressure on lending rates even if banks’ deposit
+rates are unchanged, while QE can provide extra stimulus if the policy rate is at the effective lower bound.23
+The near-term outlook
+Let me finish with some brief comments on the near-term outlook for the economy and monetary policy.
+For most of the period since the Brexit referendum, the economy has grown at an underlying pace of
+1½%- 2% YoY, with some variation from quarter to quarter due to erratic factors such as the weather. That
+pace of growth is modest by historic norms but slightly above potential. Brexit uncertainties have weighed on
+investment, but activity was supported by the relatively loose monetary stance here and, for much of that
+time, solid global growth. The output gap probably closed during 2018, with a clear pick up in pay growth
+during that year.
+However, with increased effects from Brexit uncertainties and softer global growth, the economy has recently
+slowed significantly. Business surveys have turned down markedly, with gloomy readings on output, orders
+and confidence. Despite the support from stronger real wage growth, consumer confidence has fallen below
+average, with a marked deterioration in consumers’ expectations for the general economy.
+Looking ahead, assuming we avoid a disruptive no-deal Brexit and the economy adjusts smoothly to an
+average of Brexit endstates, some of the current uncertainties in the UK are likely to fade. Moreover, global
+growth is likely to be underpinned by expectations of more accommodative monetary policies overseas.
+Hence, conditioned on that Brexit assumption and the fiscal measures announced late last year, UK growth
+will probably strengthen again, such that the economy moves into excess demand over the next year or two.
+In that scenario, further UK monetary tightening – limited and gradual – probably will be needed over time.
+However, the possibility that monetary tightening might be needed in the future does not necessarily mean
+we need to tighten now. A range of alternative Brexit outcomes are possible, and these may have very
+different implications for the economy and monetary policy. Given that at present economic growth is
+probably not strong enough to create excess demand and inflation is reasonably well behaved, for now it
+makes sense to wait and to see how Brexit developments unfold. And as we have said before, the monetary
+policy response to Brexit, whatever form it takes, will not be automatic and could be in either direction. We
+will always act to achieve the 2% inflation target.
+
+23
+
+The TFS probably also helped lower the effective lower bound for the policy rate. See Carney (2016), Shafik (2016), and Ginelli Nardi
+et al (2018). See also ECB (2017) and Eisenschmidt and Smets (2018) for discussion of the effects of non-conventional policies in the
+euro area.
+13
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+13
+
+References
+Anderson, A, Ihrig, J, Styczynski, M and Weinbach, G (2017), ‘How have the Fed's three rate hikes
+passed through to selected short-term interest rates?’, FEDS Notes, Board of Governors of the Federal
+Reserve System, 2 June.
+Bean, C (2013), ‘Letter to Andrew Tyrie on negative interest rates’, available at
+https://www.bankofengland.co.uk/letter/2013/charles-bean-negative-interest-rates-may-2013
+Beau, E, Hill, J, Hussain, T and Nixon, D (2014), ‘Bank funding costs: what are they, what determines
+them and why do they matter’, Bank of England Quarterly Bulletin, 2014 Q4, available at
+https://www.bankofengland.co.uk/quarterly-bulletin/2014/q4/bank-funding-costs-what-are-they-whatdetermines-them-and-why-do-they-matter
+Brunnermeier, M and Koby, Y (2019), ‘The reversal interest rate’, Princeton University Working Paper.
+Carney, M (2016), Opening remarks and Q&A at the Inflation Report press conference, 4 August, available
+at https://www.bankofengland.co.uk/inflation-report/2016/august-2016
+de Bondt, G (2002), ‘Retail bank interest rate pass-through: new evidence at the euro area level’, ECB
+Working Paper, No. 136.
+Driscoll, J and Judson, R (2013), ‘Sticky deposit rates’, Finance and Economics Discussion Series, No.
+2013-80, Board of Governors of the Federal Reserve System.
+ECB (2017), ‘MFI lending rates: pass-through in the time of non-standard monetary policy’, Economic
+Bulletin, European Central Bank, Issue 1.
+Eggertsson, G, Juelsrud, R, Summers, L and Wold, E (2019), ‘Negative nominal interest rates and the
+bank lending channel’, NBER Working Paper, 25416.
+Eisenschmidt, J and Smets, F (2018), ‘Negative interest rates: lessons from the euro area’, ECB working
+paper.
+Erikson, H and Vestin, D (2019), ‘Pass-through at mildly negative policy rates: the Swedish case’,
+VoxEU.org, 22 January.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+14
+
+Financial Conduct Authority (2018), ‘Price discrimination in the cash savings market: one rate, one
+solution?’, FCA Occasional Paper, No. 41.
+Gelos, G, Grinberg, F, Mancini-Griffoli, T, Khan, S, Narita, M and Rawat, U (2019), ‘Has higher
+household indebtedness weakened monetary policy transmission?’, IMF Working Paper, No. 19/11.
+Gigineishvili, N (2011), ‘Determinants of interest rate pass-through: do macroeconomic conditions and
+financial market structure matter?’, IMF Working Paper, No. 11/176.
+Ginelli Nardi, B, Nwankwo, C and Meaning, J (2018), ‘The Term Funding Scheme: design, operation and
+impact’, Bank of England Quarterly Bulletin, 2018 Q4, available at
+https://www.bankofengland.co.uk/quarterly-bulletin/2018/2018-q4/the-term-funding-scheme-designoperation-and-impact
+Heider, F, Saidi, F and Schepens, G (2018), ‘Life below zero: bank lending under negative policy rates’,
+ECB Working Paper, No. 2173.
+Hofmann, B and Mizen, P (2004), ‘Interest rate pass-through and monetary transmission: evidence from
+individual financial institutions’ retail rates’, Economica, 71: 99-123.
+Hsu, C (2017), ‘The interest rate pass-through: an empirical study of seven Asian economies’, Global
+Journal of Business Research, v. 11 (2) p. 1-10.
+King, T and Yu, J (2018), ‘How have banks responded to changes in the yield curve?’, Chicago Fed Letter,
+No. 406.
+Kok Sørensen, C and Werner, T (2006), ‘Bank interest rate pass-through in the euro area: a cross country
+comparison’, ECB Working Paper, No. 580.
+Kwapil, C and Scharler, J (2006), ‘Limited pass-through from policy to retail interest rates: empirical
+evidence and macroeconomic implications’, Monetary Policy & the Economy, Oesterreichische Nationalbank,
+issue 4, pages 26-36.
+Panigrahi, L, Rigg, H and Rockall, E (2018), ‘The financial position of British households: evidence from
+the 2018 NMG Consulting survey’, Bank of England Quarterly Bulletin, 2018 Q4, available at
+https://www.bankofengland.co.uk/quarterly-bulletin/2018/2018-q4/the-financial-position-of-british-householdsevidence-from-the-2018-nmg-consulting-survey
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+15
+
+Pašaličová, R (2018), ‘The impact of the CNB’s interest rate hikes on client rates’, Czech National Bank
+Inflation Report – II/2018.
+Popiel, M (2016), ‘Interest rate pass-through: a nonlinear vector error-correction approach’, Queen’s
+Economics Department Working Paper, No. 1352.
+Proudman, J (2018), ‘From construction to maintenance: patrolling the ring-fence’, speech given at Cass
+Business School, London, available at https://www.bankofengland.co.uk/speech/2018/james-proudmanspeech-at-cass-business-school-london
+Shafik, M (2016), Remarks given as a discussant of ‘Passthrough efficiency in the Fed’s new monetary
+policy setting’, Federal Reserve Bank of Kansas City Economic Symposium, Jackson Hole, Wyoming,
+available at https://www.bankofengland.co.uk/speech/2016/remarks-given-as-a-discussant-of-passthroughefficiency-in-the-feds-new-monetary-policy-setting
+Siakoulis, V, Petropoulos, A, Lazaris, P and Lialiouti, G (2018), ‘Interest rate pass-through in the euro
+area: are policy measures efficient in crisis periods? Evidence from a multi state Markov model on a panel
+dataset’, 2nd Annual Workshop of ESCB Research Cluster 3, organised jointly by the Bank of Greece and
+the European Central Bank.
+Sinha, R, Shah, S and Abouhossein, K (2019), ‘UK & Irish banks: lower cost of equity and capital return
+subject to Brexit’, Europe Equity Research, J.P. Morgan Cazenove, 21 January.
+Valadkhani, A and Anwar, S (2012), ‘Interest rate pass through and the asymmetric relationship between
+the cash rate and the mortgage rate’, The Economic Record, 88 (282), 341-350.
+van Leuvensteijn, M, Kok Sørensen, C, Bikker, J and van Rixtel, A (2013), ‘Impact of bank competition
+on the interest rate pass-through in the euro area’, Applied Economics, vol. 45(11), pages 1359-1380.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+16
+
+

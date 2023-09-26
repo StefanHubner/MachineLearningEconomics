@@ -1,0 +1,1965 @@
+British Unemployment and Monetary Policy
+Speech given by
+Dr. Sushil Wadhwani, Member, Monetary Policy Committee
+
+Speech delivered to the Society of Business Economists
+2 December 1999
+
+I am extremely grateful to Damon Clark, Joanne Cutler, Mark Dean, John Henderson and Duncan
+Melville for their help and advice on this work. I have also learnt a great deal by talking to William
+Brown, Richard Layard and Stephen Nickell. Ian Bond, Phil Evans, Paul Fisher, Mike Joyce, DeAnne
+Julius, Mervyn King and John Vickers provided me
+with helpful comments on an earlier version. The views expressed in this paper are personal and do
+not necessarily reflect any views held by either the Monetary Policy Committee or the Bank of
+England.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+INTRODUCTION
+
+Many economists use a notion like the so-called ‘natural’ rate of unemployment (or the
+allied concept of the non-accelerating inflation rate of unemployment – the NAIRU,
+hereafter) in thinking about the labour market. Of course, the NAIRU is extremely
+difficult to measure, and, often, there is significant disagreement about where it is at a
+given moment in time.
+
+As I discuss below (in Section 2), since 1992, British economic forecasters have
+displayed a tendency to over-predict the level of unemployment, while simultaneously
+also over-predicting inflation. It is likely that these forecast errors have come from
+having been too gloomy about the NAIRU. In Section 3, I discuss econometric evidence
+suggesting that, in the 1990s, the traditional relationship between inflation and
+unemployment broke down.
+
+It is likely that a whole host of structural changes in the labour market (Sections 4 and 6)
+and the product market (Section 5) have contributed to a significant fall in the NAIRU in
+the 1990s. However, it is unlikely that the level of equilibrium unemployment has, as
+yet, fallen to the ‘Golden Age’ levels of the 1960s. (Section 7)
+
+Looking ahead, although there are some factors that might increase the NAIRU
+(Section 9.1), there are several other labour and product market factors which should
+allow the equilibrium unemployment rate to continue to fall in coming years
+(Sections 9.2 and 9.3), with the magnitude of the fall depending importantly on how
+quickly the internet has an impact on margins and costs, and, perhaps, also, on the degree
+to which the Government extends its New Deal. Hence, in summary, the NAIRU today
+is probably lower than in the 1980s, but higher than in the 1960s. However, it is
+probably heading lower.
+
+3
+
+Of course, a belief that the NAIRU has fallen, and is likely to fall further is “good news”,
+but it does not, of itself, imply that one might become complacent about inflation. In
+that regard, the Monetary Policy Committee (MPC, hereafter) shall continue to look at a
+wide variety of indicators in order to assess inflation prospects.
+
+SECTION 2 CONSENSUS FORECASTS OF THE NAIRU HAVE BEEN TOO
+GLOOMY
+In analysing the UK labour market, most economists rely on the concept of the NAIRU.
+For example, as Budd (1999) notes in their responses to the House of Commons Treasury
+Committee in 1998, all members of the MPC said that the ‘natural’ rate was a useful
+concept. 1
+
+Table 1, which is drawn from Robinson (1997), shows how the consensus estimates of
+the NAIRU in the UK have evolved over time. It is clear that the average estimate of the
+NAIRU has moved significantly over the period, having ranged between 2.9% and 7%.
+Moreover, at any given moment in time, there is significant disagreement about what the
+NAIRU is – the range of estimates is, typically, rather wide. Also, there seems be a
+tendency for estimates of the NAIRU to go up and down with actual unemployment.
+This property of NAIRU estimates appears to be more general – Palley (1999) reports a
+regression of the OECD’s estimates of structural against actual unemployment rates in
+1986, 1990 and 1996, and finds that every percentage point increase in the actual
+unemployment rate is associated with a rise in the structural rate of 0.915 percentage
+points!
+
+Another interesting feature of Table 1 is that the average estimate of the NAIRU barely
+changed between 1981-7 and 1995-6, and this was despite a whole host of structural
+changes in the labour and product markets. It is, perhaps, therefore hardly surprising that
+1
+
+It is standard practice to draw a distinction between the long-run NAIRU and a shorter-run NAIRU. On
+the latter concept, as its name, implies, some factors (eg lagged unemployment, import prices) can,
+temporarily, affect the equilibrium level of unemployment, without having an effect on the long-run
+NAIRU. Some authors (eg King (1998)) prefer to describe the long-run NAIRU as the ‘natural’ rate. In
+what follows, we primarily focus on the determinants of the long-run NAIRU, though, inevitably we will
+also discuss some factors that only affect the short-run NAIRU.
+
+4
+
+when attempting to forecast the year-ahead unemployment rate, UK economists (have
+tended to over-predict unemployment (see Table 2) – ie in every year since 1993
+unemployment has fallen by more than the consensus projections.
+TABLE 1
+
+NAIRU ESTIMATES IN BRITAIN 1
+
+AVERAGE
+ESTIMATE OF
+NAIRU
+
+RANGE OF
+ESTIMATES
+
+ACTUAL RATE
+
+1969-73
+
+2.9
+
+1.6-5.6
+
+2.5
+
+1974-80
+
+5.7
+
+4.5-7.3
+
+3.8
+
+1981-87
+
+7.0
+
+5.2-9.9
+
+10.1
+
+1988-90
+
+6.1
+
+3.5-8.1
+
+6.8
+
+1995-96
+
+6.7
+
+3.5-8.9
+
+8.2
+
+Source: Robinson (1997)
+Note: 1.
+
+Claimant count (as percentage of the labour force).
+
+5
+
+TABLE 2
+
+UNEMPLOYMENT (Q4, Mns) – ACTUAL VS CONSENSUS FORECAST, 1993-99
+
+YEAR-AHEAD 1
+FORECAST
+
+ACTUAL OUTTURN
+
+FORECAST
+ERROR
+
+1993
+
+3.15
+
+2.79
+
+-0.36
+
+1994
+
+2.73
+
+2.46
+
+-0.27
+
+1995
+
+2.24
+
+2.21
+
+-0.03
+
+1996
+
+2.16
+
+1.98
+
+-0.18
+
+1997
+
+1.81
+
+1.43
+
+-0.38
+
+1998
+
+1.30
+
+1.29
+
+-0.01
+
+19992
+
+1.57
+
+1.26
+
+-0.31
+
+YEAR
+
+AVERAGE FORECAST ERROR
+
+-0.22
+
+Source: HM Treasury Panel of Independent Forecasts
+1
+
+1 year ahead forecast made in December of the preceding year (eg ‘1994’refers to the
+forecast made in December 1993).
+
+2
+
+Actual out-turn for 1999 is for Q3.
+
+6
+
+On average, the consensus has over-predicted the number of unemployed by as much as
+220,000 per year -this is a strikingly large error given that the number of unemployed has
+fallen by an average of about 219,000 a year over this period.
+
+A notable feature of the last few years is that the tendency to over-predict the number of
+unemployed has gone hand-in-hand with a tendency to over-predict inflation (see
+Table 3) – eg, the Panel of Independent Forecasts has over-estimated RPI inflation in five
+of the last seven years, with an average forecast error of -0.4 percentage points. A
+similar picture emerges in terms of forecasts for RPIX inflation (on average forecast error
+of –0.4 percentage points, which is high in relation to a target of 2½%), and for average
+earnings growth (average error of –0.5 percentage points).
+
+In order to illustrate the improvement in the trade-off, Table 3A displays the forecast
+errors that were made vis-à-vis unemployment and average earnings growth together.
+Specifically, in 1993 and 1994, although unemployment fell by 360,000 and 270,000
+more than expected, average earnings growth came in 1.9% and 0.3% lower than
+expected – a clear case of the inflation-unemployment trade-off being rather better than
+had been expected. In 1995, unemployment fell by 250,000 rather than the expected
+220,000 which would imply that earnings growth should have come in modestly lower
+than expected, but, in fact, earnings growth was a full 1.3% below what had been
+expected (3.1% rather than 4.4%). In 1996, unemployment fell by more than expected
+(230,000 rather than the expected 50,000), but earnings growth continued to surprise on
+the downside (3.6% rather than 4.2%), thereby continuing to point to an improvement in
+the inflation-unemployment tradeoff. In 1997, although unemployment fell by 380,000
+more than expected, the improved trade-off manifested itself in earnings growth coming
+in 0.4% lower than had been expected. It is only in 1998 and 1999 that earnings growth
+has come in (modestly) higher than expected though, in 1999, that is probably
+attributable to the level of unemployment being 310,000 lower than had been expected.
+
+TABLE 3
+INFLATION – FORECAST1 VS ACTUAL
+
+RPI (Q4)
+
+RPIX (Q4)
+
+AVERAGE EARNINGS
+
+(Annual Growth)
+
+(Annual Growth)
+
+(Annual Growth)
+
+Forecast1
+
+Actual
+outturn
+
+Forecast
+error (Actual
+minus
+forecast)
+
+Forecast
+
+Actual
+outturn
+
+Forecast
+error (Actual
+minus
+forecast)
+
+Forecast
+
+Actual
+outturn
+
+Forecast
+error (Actual
+minus
+forecast)
+
+1993
+
+3.3
+
+1.6
+
+-1.7
+
+4.4
+
+2.7
+
+-1.7
+
+5.0
+
+3.1
+
+-1.9
+
+1994
+
+3.4
+
+2.6
+
+-0.8
+
+3.5
+
+2.3
+
+-1.2
+
+3.9
+
+3.6
+
+-0.3
+
+1995
+
+3.5
+
+3.2
+
+-0.3
+
+2.9
+
+2.9
+
+0.0
+
+4.4
+
+3.1
+
+-1.3
+
+1996
+
+2.6
+
+2.6
+
+0.0
+
+2.8
+
+3.2
+
+0.4
+
+4.2
+
+3.6
+
+-0.6
+
+1997
+
+3.5
+
+3.7
+
+0.2
+
+3.0
+
+2.8
+
+-0.2
+
+4.6
+
+4.2
+
+-0.4
+
+1998
+
+3.2
+
+3.0
+
+-0.2
+
+2.8
+
+2.5
+
+-0.3
+
+4.8
+
+5.1
+
+0.3
+
+19992
+
+1.5
+
+1.2
+
+-0.3
+
+2.2
+
+2.2
+
+0.0
+
+4.3
+
+4.6
+
+0.3
+
+Average forecast error 1993-1999
+
+-0.4
+
+1
+
+1 year ahead forecast made in December of preceding year
+
+2
+
+Actual outturn is Q3 for RPI, RPIX inflation, and average in Jan-Sep for earnings growth
+
+-0.4
+
+-0.5
+
+TABLE 3A
+UNEMPLOYMENT AND AVERAGE EARNINGS FORECAST ERRORS, 1993-99
+
+YEAR
+
+UNEMPLOYMENT FORECAST
+ERROR
+
+AVERAGE EARNINGS
+FORECAST ERROR
+
+(Q4, Millions)
+
+(% change on year earlier)
+
+1993
+
+-0.36
+
+-1.9
+
+1994
+
+-0.27
+
+-0.3
+
+1995
+
+-0.03
+
+-1.3
+
+1996
+
+-0.18
+
+-0.6
+
+1997
+
+-0.38
+
+-0.4
+
+1998
+
+-0.01
+
+0.3
+
+1999
+
+-0.31
+
+0.3
+
+Average Forecast Error
+
+Source: see Tables 2 and 3
+
+-0.22
+
+-0.5
+
+9
+
+With both inflation and unemployment coming in better than expected, there would
+appear to be prima facie evidence of the Panel having systematically over-estimated the
+NAIRU and/or some change in the historical relationships that these economists were
+(implicitly or otherwise) relying on.
+
+SECTION 3 A BREAKDOWN OF TRADITIONAL ECONOMIC
+RELATIONSHIPS
+In the US, economists have increasingly questioned the stability of the standard Phillips
+curve in which price inflation depends on the unemployment rate, past price inflation and
+standard measures of price supply shocks. For example, a recent paper by researchers at
+the Federal Reserve Board (see Brayton, Roberts and Williams (1999)) argues
+
+“….. the tendency of our baseline equations to significantly over-predict inflation since
+the mid-1990s, however, is an indication of structural change – perhaps a decline of the
+NAIRU” (page 9)
+
+Using different specifications, Stock (1998) and Katz and Krueger (1999) have also
+concluded that the relationship between inflation and unemployment in the US has
+changed during the 1990s.
+
+In the UK too, there is some evidence that the relationship between inflation and
+unemployment might have shifted during the 1990s. Specifically, Table 4 reports two
+different pieces of evidence on this issue. The first run contains the results of estimating
+a standard, ‘expectations-augmented Phillips curve’ – type specification for wages – we
+find that, from 1993 onwards, such an equation over-predicts wage growth by about 0.65
+percentage points. The second run reports qualitatively similar results from a
+corresponding exercise carried out for the wage equation that is to be found in the Bank
+of England’s core macro-econometric model (see Bank of England (1999)). What is
+particularly striking about this result is that it occurs despite the core model already
+implicitly building in a fall in the NAIRU over the nineties. Of course, one way to
+
+10
+
+interpret these results is that there has been a fall in the NAIRU. Such a fall in the
+NAIRU would also provide a coherent explanation for why the average economic
+forecaster has been too gloomy about both, unemployment and inflation during the post1992 period.
+
+TABLE 4
+EVIDENCE ON THE STABILITY OF WAGE EQUATIONS
+
+COEFFICIENT1 OF
+DUMMY VARIABLE
+
+t-RATIO
+
+I – Expectations –
+augmented Phillips curve 2
+
+-0.65
+
+-1.97
+
+II – Core model wage3
+equation
+
+-0.27
+
+-2.5
+
+ALTERNATIVE
+MODELS
+
+Notes
+1
+
+Dummy variable that takes value one from 1993 Q1.
+
+2
+
+Regression of 4-quarter change in earnings growth on five lags of the dependent
+variable, 4-quarter change in RPI inflation, log of the unemployment rate lagged four
+periods and seasonal dummies.
+
+3
+
+Wage equation as described in Bank of England (1999).
+
+SECTION 4 WHY MIGHT THE NAIRU HAVE FALLEN SINCE 1992?
+In attempting to explain why the NAIRU might have fallen since 1992, I initially draw on
+the standard reference works on attempting to explain UK unemployment, that are
+represented by Layard, Nickell and Jackman (1991), Minford (1992) and Nickell (1998).
+
+11
+
+If we first begin with proxies for union power, notice that membership (as a fraction of
+total employment) has fallen further (from about 36% in 1992 to 30% in 1998). Strike
+activity has also diminished from the already low levels of 1992. Another factor that has
+historically played an important role in unemployment fluctuations is the oil price – in
+real terms during 1998, it was much lower than in 1992, although it has clawed back
+some part of its losses during 1999. 2 It is commonplace to hear that the NAIRU in the
+UK might have risen because of increased imbalances between the pattern of labour
+demand and supply – in other words, because of greater mismatch. Table 5 contains
+indices of regional and skill mismatch based in the definitions of these in Layard, Nickell
+
+2
+
+Of course, in some accounts of the NAIRU (see, eg Layard, Nickell and Jackman (1991)), oil price
+changes only have a temporary effect on the NAIRU.
+
+12
+
+TABLE 5
+SOME CONVENTIONAL FACTORS AFFECTING THE NAIRU: 1998 VS 1992
+AND 1980
+
+FACTORS
+
+1992
+
+1998
+
+1980
+
+0.36
+
+0.30
+
+0.49
+
+48
+
+30
+
+957
+
+13.2
+
+7.81
+
+40.4
+
+(a) REGIONAL
+
+1.01
+
+0.24
+
+1.54
+
+(b) SKILLS
+
+6.15
+
+5.22
+
+5.00
+
+LONG-TERM
+UNEMPLOYMENT
+
+37.7
+
+31.4
+
+34.8
+
+REPLACEMENT RATIO
+
+0.18
+
+0.18
+
+0.24
+
+TAX WEDGE
+
+0.34
+
+0.36
+
+0.35
+
+UNION DENSITY
+NUMBER OF WORKING
+DAYS LOST (000s)
+REAL OIL PRICE
+MISMATCH
+
+(Ratio of Total
+Unemployment)
+
+1 1999 Q3 value is 9.8.
+
+13
+
+and Jackman (1991). Note that, along both dimensions, there appears to be less
+mismatch in 1998 than in 1992 (especially along the regional dimension).
+It is also plausible that the fraction of the unemployed who have been in their current
+state for a long time might affect the NAIRU, either because they lose skills and become
+demotivated, or because they face employer discrimination. Hence, the fall in the
+fraction of the unemployed who have been so for over 12 months (the LTU ratio) since
+1992 is another factor that might have reduced the NAIRU.
+Turning to the unemployment benefits regime, the conventional replacement ratio (ie the
+ratio of out-of-work benefit to estimated in-work income) has remained constant.
+However, the New Deal, and other measures which have tightened the availability of
+benefits have probably worked towards reducing the NAIRU.
+Amongst the variety of conventional factors listed in Table 5, the only variable that has
+moved in a NAIRU-increasing direction is the total “tax wedge” between product and
+consumption wages, namely the sum of payroll, income and consumption tax rates. This
+appears to have edged up between 1992 and 1998 (from 0.34 to 0.36), though it is worth
+emphasising that the empirical evidence linking the tax wedge to unemployment is
+somewhat fragile (see Nickell and Layard (1998)).
+Our discussion of the factors that might have plausibly lowered the NAIRU between
+1992 and 1998 has focussed, in a rather mechanical fashion, on how these variables
+actually evolved between those dates. However, if one adopts a longer time-frame,
+some of these variables have changed by rather more. For example, Table 5 shows that
+union membership was as high as 49% in 1980 (it was 30% in 1998 and 36% in 1992).
+Strike activity was much higher in 1980, 957,000 working days lost to strikes, as
+compared to just 30,000 in 1998.
+
+The real oil price in 1980 was nearly three times as
+
+high as in 1992, and around five times as high as 1998.
+
+Similarly, an index of regional
+
+mismatch in 1980 was around 50% higher than in 1992, which, in turn, was around four
+times as high as 1998. Further, the replacement ratio in 1980 was higher than in 1972 or
+1998. Also, the benefits system was progressively tightened from 1986 with the Restart
+
+14
+
+programme, under which unemployed people on benefit were interviewed every six
+months in order to ensure that they were looking for work, and to provide them with a
+menu of help. Notwithstanding the significant improvement in the underlying variables
+that are supposed to lower the NAIRU between 1980-1992, much of the evidence on
+improved wage performance for a given level of unemployment appears to post-date
+1992.
+Industrial relations experts like Professor William Brown of Cambridge argue that the
+structural improvements in the labour market during the 1980-92 period did not translate
+into improved wage performance until other catalytic events induced firms to undertake
+radical industrial relations change in the early 1990s. Possible candidates as catalysts are
+the 1990-92 recession, and the re-election of the government in 1992, which implied that
+many of the structural changes in the labour market were not going to be reversed.
+There is case-study evidence in favour of both these factors having played some role (see
+eg Brown et al (1998)). Other possible catalytic events include the adoption of an
+explicit inflation target after 1992.
+Personally, I have no problem with the notion that structural changes can take time before
+they manifest themselves in improved macroeconomic performance. Any changes to the
+way labour is used (eg reforming pay systems, improving selection, etc) requires
+managerial effort, and takes time to get in place and be effective. Given how much some
+of the factors that are held to affect the NAIRU have changed between 1980-98, I find it
+rather surprising that the average estimate of the NAIRU had changed hardly at all
+between 1981-87 and 1995-6 (Table 1). With the claimant count rate of unemployment
+having now fallen to 4.2%, one suspects that the consensus estimate of the NAIRU has,
+in time-honoured fashion, now followed the actual unemployment rate down to some
+extent.
+SECTION 5 PRODUCT MARKET COMPETITION AND THE NRU
+In our discussion above, we have largely concentrated on a variety of labour market
+factors which have probably contributed to a reduction in the NAIRU since 1980.
+However, one would expect an increase in product market competition to lead to lower
+
+15
+
+wages, as the relevant firms will tend to partially offset the effect on their profit margins
+– eg after the trucking regulatory reforms of the late 1970s in the US, Rose (1987) found
+that, between 1979 and 1985, there was a decline of approximately 40 per cent in the size
+of the union wage differential in trucking. 3
+Nickell, Vainiomaki and Wadhwani (1994) present evidence based on observing some
+800 British manufacturing firms over time that product market power has a positive
+effect on wages, and that product market power also reduces the size of the negative
+effect of unemployment on wages, thereby making the labour market less “flexible”.
+One reason that there has probably been an increase in product market competition is
+globalisation, ie the increasing integration of global product markets. Figure 1 suggests
+a striking increase in the degree of import penetration.
+Figure 1
+
+Import penetration
+Imports (% of GDP) 50
+40
+30
+20
+10
+0
+65Q1 70Q1 75Q1 80Q1 85Q1 90Q1 95Q1
+
+My colleague, DeAnne Julius (1999), has recently reminded us that foreign direct
+investment (FDI) has also played an important role in this context, with the UK now one
+of the most important outward investors worldwide. Increased globalisation implies that
+the world output gap can be more important than domestic supply capacity for many
+3
+
+Most union bargaining models and efficiency wage models would yield the result that intensified product
+market competition would reduce wages and the NAIRU.
+
+16
+
+prices. In a UK context, anecdotal evidence suggests that, in many industries, a
+combination of low cost imports and the threat of relocating a plant abroad has had a
+substantial effect in terms of keeping a lid on wages, and preliminary econometric work
+(see Clark and Wadhwani (1999)) is also supportive of this notion.
+Evidence of increased product market competition has not just been confined to
+globalisation. Government action has also played a role here. Privatisation and/or
+regulatory changes in a whole host of industries including gas, water, telecom, electricity,
+airports, rail, the docks and broadcasting have led to rather more competitive product
+market conditions. Note that many of these regulatory changes occurred in the eighties
+or early nineties, and are another reason as to why the NAIRU might plausibly have
+fallen over this period.
+Of course, the intensification of competition does not appear to have been confined just
+to the internationally traded or deregulated sectors – in a conjunctural context we do hear
+much about the ‘price wars’ in retailing as well. In a September 1999 survey carried out
+at the MPC’s request by the Bank’s regional agents, about half of all respondents
+reported more discounting over the past 12 months compared to a year ago (Figure 2).
+Moreover, over half of the respondents cited structural rather than cyclical reasons for
+increased discounting (Figure 3).
+
+Figure 2
+
+Discounts over the past year
+Lower discounts
+5%
+
+Same
+41%
+
+Greater discounts
+54%
+
+17
+
+Figure 3
+
+Reasons for discounting
+Other
+Regulatory changes
+
+1% 4%
+
+Low demand
+20%
+
+Consumer behaviour
+21%
+
+Excess stocks
+14%
+
+New competition
+
+Lower costs
+
+17%
+
+4%
+
+Existing competition
+19%
+
+Another bit of evidence for an intensification of product market competition is in
+Figure 4 – which is suggestive of a change in the relationship between domestic capacity
+utilisation and the balance of firms who expect to increase prices, in that, in the late
+1990s, the perceived ability to increase prices seems lower, at any given level of
+utilisation, than in the 1970s or 1980s (though the 1960s look similar).
+
+Figure 4
+
+CBI survey: Capacity utilisation and
+price pressures
+100
+
+% of firms at
+full capacity
+
+80
+60
+40
+20
+0
+-20
+-40
+1959Q1
+
+% balance of firms
+expecting price rises
+
+1971Q1
+
+1983Q1
+
+1995Q1
+
+18
+
+Other factors that appear relevant to competitive considerations in the conjuncture
+include the internet and the Competition Commission, but we defer discussion of these
+factors until later.
+SECTION 6 OTHER FACTORS WHICH MIGHT HAVE ALSO
+CONTRIBUTED TO A FALL IN THE NAIRU
+We have, so far, discussed a number of labour and product market factors which might
+have plausibly contributed to a fall in the NAIRU since 1980. However, our discussion
+did not pretend to be comprehensive – in this section, I want to mention some more
+factors which might have been relevant too, though, of necessity, much of this is
+conjectural.
+It is important to remind ourselves that much of the increase in employment in recent
+years has been associated with a rise in the female participation rate – eg since 1984, the
+female employment rate has risen from around 58% to about 69% now, while the male
+employment rate has only moved modestly (77.4% then, about 79% now).
+
+Evans
+
+(1998) argues that better childcare provision might have contributed to a reduction in the
+NAIRU for females – Figure 5 shows the significant increase in daycare places for 3 and
+4 year olds that has occurred during the last 30 years. More importantly, the greater
+Figure 5
+
+Childcare provision
+No. of nursery places
+per 3 and 4 year olds
+
+0.8
+0.6
+0.4
+0.2
+0
+
+65Q1
+
+70Q1
+
+75Q1
+
+80Q1
+
+85Q1
+
+90Q1
+
+19
+
+availability of flexible and family-friendly working practices, as evidenced by surveys
+carried out by the Policy Studies Institute may also have played a role. (see Table 6).
+TABLE 6
+THE AVAILABILITY OF SELECTED WORKPLACE ARRANGEMENTS THAT
+MIGHT HELP MOTHERS WITH YOUNG CHILDREN
+
+PERCENTAGE
+OF FIRMS
+OFFERING:
+
+1979 SURVEY
+
+1988 SURVEY
+
+1996 SURVEY (a)
+
+Part-time
+
+39
+
+36
+
+79
+
+Job sharing
+
+n/a
+
+6
+
+35
+
+Flexi-time
+
+12
+
+12
+
+32
+
+Shift work
+
+11
+
+9
+
+26
+
+Some work at home
+
+3
+
+4
+
+17
+
+n/a
+
+4
+
+23
+
+3
+
+4
+
+9 (b)
+
+Career break at
+home
+Help with childcare
+n/a = not available
+
+Source: Callender et al (1997)
+
+(a) The 1996 survey asked if employers operated any of the arrangements in the table,
+and the 1988 survey asked if they operated them ‘for people doing your kind of
+work’. To the extent that respondents to the 1996 survey said that their firm
+operated an arrangement without it actually being available to that person, it will
+produce higher estimates than in 1988.
+(b) Workplace nursery or creche only.
+
+20
+
+Another factor that has plausibly contributed to a fall in the NAIRU is the greater
+decentralisation and individualisation of wage bargains. Some years ago, Calmfors and
+Driffill (1988) argued that wholly centralised and entirely decentralised wage bargaining
+systems delivered lower unemployment than intermediate degrees of centralisation. One
+can plausibly argue that the UK has moved from an intermediate degree of centralisation
+in the seventies to an increasingly decentralised and atomistic labour market. This has
+not only happened in a formal sense (given the fall in union coverage and density), but
+also in terms of perceived pay pressures. The Confederation of British Industry, as a part
+of their Pay Databank questionnaire, regularly asks respondents as to whether a particular
+factor was an important influence on the settlement. Figure 6 is consistent with a trend
+decline in the importance of the national comparisons in firm-based wage settlements,
+while Figure 7 suggests that, even intra-firm wage comparisons have become less
+important.
+Figure 6
+
+Pressures on pay settlements: National
+comparisons (manufacturing)
+30
+
+%
+
+25
+20
+15
+10
+5
+0
+1984-85
+1987-88
+1990-91
+Source: CBI Pay Databank
+
+1993-94
+
+1996-97
+
+Another factor that might have reduced the NAIRU is the decline in the number of young
+people entering the labour force. The Inflation Report (November 1999) notes that,
+between 1989 and 1999, the 16-24 year old age group fell from 19% to 14% of the over16 population. This matters because the young have above-average rates of
+unemployment. A crude way of attempting to calibrate the potential importance of this
+
+21
+
+effect is to compare the actual unemployment rate with a hypothetical value calculated
+assuming a constant age composition of the workforce. Bank work based on
+calculations of this kind (reported in the Inflation Report, November 1999), suggests that
+this demographic factor might account for a decline in the unemployment rate of about
+half a percentage point.
+
+Figure 7
+
+Pressures on pay settlements:Intrafirm comparisons (manufacturing)
+30
+
+%
+
+25
+20
+15
+10
+5
+0
+1984-85
+1987-88
+1990-91
+Source: CBI Pay Databank
+
+1993-94
+
+1996-97
+
+Hence, there are a whole host of factors which have plausibly reduced the NAIRU since
+1980, and the unemployment rate (claimant count) is now close to a record low over the
+last two decades (Figure 8).
+
+22
+
+Figure 8
+
+Claimant count unemployment
+% of workforce
+rate
+
+12
+10
+8
+
+average
+
+6
+4
+2
+0
+
+65Q1 70Q1 75Q1 80Q1 85Q1 90Q1 95Q1
+
+However, it remains well above its average in the 1950-75 period. Is it plausible that the
+NAIRU has fallen to the levels of that ‘golden age’ period?
+
+SECTION 7 HAS THE NAIRU FALLEN TO ‘GOLDEN AGE’ LEVELS?
+At first sight, one might feel that it is quite likely that the NAIRU has fallen to its
+“golden age” levels of the 1960s. First, union density is now rather lower (Figure 9),
+and working days last in stoppages have almost vanished (Figure 10).
+
+23
+
+Figure 9
+
+Union density
+% of workforce 0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+65Q1 70Q1 75Q1 80Q1 85Q1 90Q1 95Q1
+
+Figure 10
+
+Working days lost in all stoppages
+(000s)
+12000
+10000
+8000
+6000
+4000
+2000
+0
+65Q1 70Q1 75Q1 80Q1 85Q1 90Q1 95Q1
+
+Second, the ratio of out of work benefits to in work income is lower than in the sixties
+(Figure 11), and the real level of the oil price is also not much different (Figure 12).
+
+24
+
+Figure 11
+
+Replacement ratio 1 (OECD)
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+65Q1 70Q1 75Q1 80Q1 85Q1 90Q1 95Q1
+1
+
+Ratio of out of work benefits to in work income
+
+Figure 12
+
+Real oil price
+1999 prices (£) 50
+
+40
+30
+20
+10
+0
+65Q1 70Q1 75Q1 80Q1 85Q1 90Q1 95Q1
+
+In addition, as we noted above, import penetration has steadily increased over the period
+(Figure 1), as has childcare provision (Figure 5), and the extent of family-friendly
+
+25
+
+workplace practices (Table 6). Further, as we discussed above, deregulation and
+privatisation have probably helped intensify the extent of product market competition.
+However, there are several factors that have moved in the direction of increasing the
+NAIRU. Perhaps the most striking and direct evidence of the post-60s deterioration in
+the UK labour market is the fact that at any given level of vacancies, we have much
+more unemployment than we did before, ie the so-called Beveridge curve has moved out
+(Figure 13). This must have occurred either due to a reduction in the search
+effectiveness of the unemployed, or because of an increase in mismatch. 4 Note that the
+reduction in search effectiveness might arise from either firms or workers becoming
+more choosey.
+Figure 13
+
+Unemployment plotted against unfilled
+vacancies from 1965-99
+
+Unfilled jobs (000s)
+
+500
+400
+
+1965
+
+300
+
+1970
+
+200
+
+1995
+1975
+
+100
+
+1980
+
+1990
+
+1985
+
+0
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+Unemployment (000s)
+
+In his persuasive review of this question, Nickell (1999) points to several relevant
+considerations. First, perhaps encouraged by the indefinite availability of benefits for
+much of the period, the proportion of long-term unemployed has been high. Although it
+has fallen in recent years, it still remains above the average level of the sixties
+(Figure 14).
+
+4
+
+Another possible explanation is that registered vacancies may now be a smaller fraction of the stock of
+‘true’ vacancies (including newspaper advertising, headhunters, internet, etc).
+
+26
+
+Figure 14
+
+Long term unemployed (12 months)
+% 60
+50
+40
+30
+20
+10
+0
+65Q1 70Q1 75Q1 80Q1 85Q1 90Q1 95Q1
+
+Second, he points out that, in some respects, the benefit system is less job-friendly than
+in the sixties (notwithstanding the decline in the replacement ratio). In particular,
+housing benefit (which pays the rent) represents a significant fraction of total benefits for
+single persons who are unemployed, with a high implicit marginal tax rate of 65%.
+Third, the demand for unskilled workers has probably fallen (perhaps because of
+technical change and competition from the Newly Industrialised Countries) by more than
+its supply. On one index of skill mismatch, there is evidence that, on average, it is
+higher than it was in the sixties (see Figure 15).
+
+27
+
+Figure 15
+
+Skill mismatch
+Ratio of skilled shortages
+to all labour shortages
+
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+65Q1 70Q1 75Q1 80Q1 85Q1 90Q1 95Q1
+
+Fourth, the average level of UK unemployment in the 1950s and 1960s was unusually
+low by long-term historical standards and it is possible that the 1960s were an anomalous
+period. In addition to Stephen Nickell’s aforementioned arguments, there are at least
+two more considerations that are worthy of our attention. First, Andrew Oswald (1997)
+shows that over the last 30 years, countries with the fastest growth in home-ownership
+have also had the fastest growth in unemployment. In addition, countries with high
+levels of home ownership also appear to have higher unemployment. Oswald presents
+evidence suggesting that:
+(i)
+
+Unemployed home-owners are much less willing to move areas to find work than
+private renters. The latter have a notably fast outflow rate from unemployment
+into jobs.
+
+(ii)
+
+UK regions with larger proportions of private renters have higher outflows from
+unemployment and larger numbers of movers per head.
+
+Clearly, at this point, we only have a few intriguing correlations, and much more
+research is needed. However, if Oswald’s preliminary research is validated, then one
+could no longer regard the rise in owner-occupation (Figure 16) as an unmixed blessing,
+
+28
+
+because, notwithstanding other social benefits, it would be a factor that keeps the
+NAIRU higher than it need be.
+Figure 16
+
+Owner occupation rate
+0.8
+0.6
+0.4
+0.2
+0
+65Q1 70Q1 75Q1 80Q1 85Q1
+
+90Q1
+
+95Q1
+
+Another factor that might have contributed to a rise in the NAIRU since the sixties is the
+rather higher level of the tax wedge (Figure 17).
+Figure17
+
+Tax wedge
+0.40
+
+0.35
+
+0.30
+0.25
+
+0.20
+65Q1 70Q1 75Q1 80Q1 85Q1 90Q1 95Q1
+
+29
+
+Economists are fond of the notion that, in the long-run, a rise in the tax wedge has no
+consequences for the level of unemployment, with the labour market behaving as if
+labour supply is inelastic, and taxes are all shifted onto labour. However, Nickell and
+Layard (1998) record that the empirical evidence on this issue is mixed, so the rise in the
+overal1 tax burden must remain a candidate explanation for why the NAIRU might now
+be higher than in the sixties.
+SECTION 8 SETTING POLICY WITH UNCERTAINTY ABOUT THE NAIRU
+The above leaves me necessarily uncertain about the level of the NAIRU. One can be
+relatively confident that it has fallen over the last two decades, but also that it is still
+probably higher than in the sixties. Given that it is difficult to obtain a reliable estimate
+of the NAIRU, how should policy respond?
+Given that monetary policy has long and variable lags, we have to act on our inflation
+forecast, and, therefore, implicitly or otherwise, have to make a guess about the NAIRU.
+On the other hand, one has to guard against the possibility of what Palley (1999)
+describes as the “structural unemployment trap”, ie if every time unemployment rises,
+policymakers decide that the rise is structural rather then cyclical, then, by ruling out
+counter-cyclical macroeconomic policy, cyclical unemployment can get transformed into
+long-term structural unemployment through standard “hysteresis” channels like the
+possibility that the long-term unemployed become demotivated and/or are discriminated
+against. To guard against this trap, one might want to pursue a ‘testing the water’
+approach to monetary policy which appears to characterise the behaviour of the US
+Federal Reserve over the last few years. Looking at it as an outside observer, it would
+appear that the FOMC has essentially taken a “wait and see” approach under which the
+unemployment rate has been allowed to fall below the then prevailing estimates of the
+NAIRU, and has instead attempted to look at more direct indicators of inflationary
+pressure.
+The traditional view in the economics literature is that such experimentation vis-à-vis the
+NAIRU is ill-advised. There is, after all, a long tradition, dating back to at least Keynes
+(1936), of believing that the supply of output is elastic until we approach the price level
+
+30
+
+that is consistent with “full employment”, but that supply is completely inelastic for
+output prices above that level. It is this belief (in the technical jargon, the Phillips curve
+is assumed to be convex) that underlies the view that the costs of the disinflation that
+would be necessary if one overshot the NAIRU by pursuing a policy of ’wait and see’
+would be higher than the extra employment that would be generated by letting the
+expansion run on, because the higher demand would largely lead to higher prices, and
+only a relatively small employment gain.
+Of course, if the Phillips curve were not convex, but linear, then experimentation vis-àvis the NAIRU has zero expected cost and if, as Joseph Stiglitz (1997) – the former
+Chairman of the Council of Economic Advisers - suggests, the Phillips curve is concave,
+then, indeed, there might indeed be benefits to experimentation.
+Now, one must recall that the earliest formulation of the Phillips (1958) curve was
+convex, and recently, Bean (1999) reports evidence for a modest degree of convexity for
+most OECD countries. However, Stiglitz (1997) says that
+“…. Empirical research at the CEA has found that when we run Phillips curve
+regressions allowing for a kink at the NAIRU, we find that the best fit is with a concave
+function.” (Page 9)
+Hence, this is clearly an area that deserves further research, although the bulk of the
+evidence favours convexity. It is, though, worth reminding ourselves that the existence
+of hysteresis effects potentially reinforces the case for “testing the water”, as one can
+actually lower the NAIRU by holding unemployment low for a while.
+In practice, one therefore looks for direct indicators of labour supply shortages, and
+evidence that they are placing upward pressure on pay. Currently, the evidence on
+labour shortages is somewhat mixed. The BCC surveys suggest that recruitment
+difficulties are well above average (Figure 18). However, the CBI skilled labour
+shortages indicator is still below its long-term historical average.
+
+31
+
+Figure 18
+
+Skill shortages and recruitment difficulties
+
+On a variety of measures, real earnings growth is higher than it has been in recent years
+(Figure 19), though at least some of the rise is probably attributable to the fact that actual
+RPI inflation came in well below what was expected a year ago (Figure 20).
+Forthcoming developments in the labour market should, therefore, continue to deserve
+careful monitoring.
+
+32
+
+Figure 19
+
+Growth in real earnings and labour costs
+
+Figure 20
+
+Actual and expected inflation
+
+33
+
+SECTION 9 – OUTLOOK FOR THE NAIRU
+Although one is necessarily uncertain about the current level of the NAIRU, it is still
+important to incorporate any prospective changes in the NAIRU into one’s inflation
+forecast, although this is necessarily speculative.
+9.1 – FACTORS THAT MIGHT INCREASE THE NAIRU
+Minford and Haldenby (1999 – MH, hereafter) have argued that a variety of recent
+legislative changes should, over the medium-term, increase unemployment by nearly
+900,000. (Table 7)
+TABLE 7
+MINFORD-HALDENBY ESTIMATES OF THE LIKELY INCREASE IN THE
+NAIRU
+
+FACTOR :
+
+ESTIMATED IMPACT ON
+UNEMPLOYMENT (By Year 6)
+
+Higher Union Membership
+
+395,000
+
+Minimum wage
+
+217,000
+
+Increase in business costs
+
+37,000
+
+Additional impact1
+
+229,000
+
+Total
+
+878,000
+
+Source: Minford-Haldenby (1999).
+
+1 Designed to reflect ‘The Sum is Greater than the Parts’, i.e. an interaction effect which
+captures the additional impact of all these changes occurring simultaneously.
+
+34
+
+They argue that the new statutory procedure for trade union recognition will boost union
+membership by around 1 million, and using the Liverpool econometric model, this is
+postulated to increase unemployment by as much as 400,000!
+In my view, one needs to be sceptical about such estimates. Although variations in
+“union power” might have some effect on wages, it is important to emphasise that, of
+course, “power” and “membership” are not the same thing. Even though the recognition
+procedures are to be amended, a host of other pieces of legislation that reduced the
+power of unions (see Brown and Wadhwani (1990)) remain on the statute book. It
+remains more difficult to strike, and there are much fewer examples of successful
+militancy to persuade the average union member that militancy is effective. The
+Employment Relations Act 1999 need not necessarily lead to a rise in trade union
+membership – indeed, some informed observers believe that all it might do is slow the
+current decline. Moreover, the intensification of product market competition probably
+implies that there is less in the way of rents for unions to capture anyway. It is notable
+in this context to record the fact that while, in the Liverpool econometric model, wages
+depend on union membership; Layard, Nickell and Jackman (1991) found that, in the
+context of their wage equation, a measure of the union–non-union wage mark-up
+performed rather better than membership. Hence, I think that it would be wise to
+assume that the possible rise in union membership over the next decade will only have a
+very small effect on the NAIRU.
+Turning to the National Minimum Wage (NMW), I must confess that, once again, the
+MH estimates of the impact on unemployment appear to be implausibly high. MH
+estimate the effect of the NMW by assuming that it is equivalent to a 2% rise in
+unemployment benefits in the Liverpool model. This is unlikely to be a reliable way of
+capturing the true effect. In terms of the employment effects of the NMW, one would
+expect important offsetting effects from employers incorporating non-wage elements
+into the package. Further, turnover rates sometimes exceed 100% per annum in lower
+paying firms in the UK (see Brown et al (1999)), and, therefore, turnover costs can reach
+20% of the total wage costs over the expected duration of a worker with the firm. A
+NMW can help reduce turnover costs – though the offset will, of course, only be partial.
+
+35
+
+Further, there is anecdotal evidence that some employers have coped with the NMW by
+improving efficiency of labour utilisation. In addition, if monopsonistic wage-setting is
+relevant in some segments of the labour market, then, a NMW need not even reduce
+employment in those cases. The academic literature on the effect of minimum wages on
+employment produces rather mixed results (see Gregg (1999) for a review), although the
+bulk of it does suggest that youth unemployment might be affected, so that the starting
+level of the minimum wage will have to continue to be set with care.
+Survey evidence does not suggest that the NMW has been a significant factor in wage
+settlements, and, therefore, fears of pressures on wages because of differential
+restoration appear to have been misplaced. Indeed, some industries that were
+disproportionately affected by the NMW (e.g. retail, textiles) have seen a deceleration in
+the growth of wage settlements in the first half of 1999, perhaps reflective of the
+intensification of product market competition. Moreover, the CBI, on the basis of
+consulting their members, says that the NMW, at its current level, has had a little
+noticeable effect on employment. Some researchers now believe that, in any case, the
+number of employees affected by the NMW is less than early estimates had suggested.
+Although it is far too early to be confident, it does seem likely that the NMW, set at its
+current level, will only have a very small impact on the NAIRU.
+9.2 LABOUR MARKET FACTORS THAT MIGHT REDUCE THE NAIRU
+There are, on the other hand, some labour market factors that might reduce the NAIRU
+(we consider some product market factors below).
+Recall that we discussed the scarring effects of long-term unemployment, and the
+possibility that by becoming detached from the labour market, the long-term
+unemployed exert little or no downward pressure on wages. Hence, one could reduce
+long-term unemployment with little upward pressure on pay. This is what the
+‘New Deal’ was set up to do. Under the New Deal for 18-24 year olds, introduced in
+April 1998, when a young person reaches 6 months unemployed, they initially have to
+enter a Gateway of up to 4 months where they receive help with job search and careers
+
+36
+
+advice from a Personal Adviser. If they do not find unsubsidised work during this
+period, they are offered four options:(i)
+
+Subsidised employment;
+
+(ii)
+
+Education/Training;
+
+(iii)
+
+Environmental Task Force;
+
+(iv)
+
+Voluntary Sector Option.
+
+Of the around 350,000 young people who have joined the New Deal, around 145,000
+have secured jobs, and approximately 90,000 are engaged in one of the training or work
+experience options. Independent research from the National Institute of Social and
+Economic Research (see Anderton, Riley and Young (1999)) finds that:(a)
+
+About 50% of individuals leaving unemployment via the New Deal would have
+done so in the absence of the programme.
+
+(b)
+
+The programme has had a modest positive effect in that it has reduced youth
+unemployment by approximately 30,000 relative to what it would otherwise have
+been (which is equivalent to a reduction in youth long-term unemployment of
+nearly 40%).
+
+(c)
+
+Obviously, if macroeconomic conditions were to deteriorate, and unemployment
+were to rise, then the New Deal could be expected to have a bigger quantitative
+impact, as more people would be affected by it.
+
+The New Deal has, since, been extended to Lone Parents (October 1998), Partners of the
+Unemployed (April 1999) and the over 50’s (Pathfinders started in October 1999, to be
+extended nationally in April 2000). Note though that these are all voluntary
+programmes, unlike the New Deal for Young People, which is mandatory. The
+Government has, since June 1998, also operated a New Deal for 25+, but it has been
+confined to those who have been unemployed for over two years. By August 1999,
+around 172,000 people had been through the deal, of whom only 24,000 had found jobs.
+
+37
+
+TABLE 8
+UNEMPLOYMENT1 BY CATEGORY
+
+CATEGORY
+
+NUMBER
+
+% OF
+UNEMPLOYED
+
+DATE
+
+18-24 and
+unemployed over
+6 months
+
+121,300
+
+8.5%
+
+October 1997
+
+18-24 and
+unemployed over
+6 months
+
+49,400
+
+4.2%
+
+October 1999
+
+25-49 and
+unemployed over
+6 months
+
+322,500
+
+27.2%
+
+October 1999
+
+25-49 and
+unemployed over
+12 months
+
+200,800
+
+16.9%
+
+October 1999
+
+25-49 and
+unemployed over
+2 years
+
+92,600
+
+7.8%
+
+October 1999
+
+50+ and
+unemployed for
+more than 6 months
+
+106,000
+
+8.9%
+
+October 1999
+
+50+ and
+unemployed for
+more than 12
+months
+
+74,400
+
+6.2%
+
+October 1999
+
+1 Claimant count – computerised claims only.
+
+38
+
+The Government intends to intensify and extend this New Deal for 25+ from April
+2001, with the important requirement that the Personal Advisers will try to establish
+why a particular person cannot take one of a number of suitable vacancies. It is, as yet,
+not entirely clear as to who will participate in this scheme (i.e. those who have been
+unemployed 6, 12, or 24 months). This cut-off level will, obviously, be important in
+determining the empirical effects of this measure.
+In order to get a crude sense of how important each of the different New Deal schemes
+might be, Table 8 attempts a comparison of the target population in each case at a given
+moment of time. The scheme for young workers would have affected around 8½% of
+the unemployed in October 1997, and the proportion of the unemployed in that
+particular category had halved by October 1999. Similarly
+, a scheme for the 50+ could affect up to 9% of the current unemployed – although this
+scheme is only voluntary. By contrast, if the Government were ambitious enough to
+offer a scheme for all those who were 25-49 and unemployed over 6 months, that would
+affect as many as 27.2% of the current claimant unemployment count, and would,
+therefore, potentially have a rather larger effect on the NAIRU than any of the existing
+individual New Deal schemes, which have, so far, only had relatively small effects.
+A second reason for believing that a New Deal for the 25+ might have a larger impact
+than the scheme for young people is that there is a little bit of evidence (see
+Arulampalam, Booth and Taylor (1998)) that the ‘scarring’ effects of past
+unemployment experience is greater for mature men (25+) than for younger men. This
+might be because job-shopping is a mere acceptable form of behaviour among the
+young.
+In addition, under the so-called ‘ONE’ scheme, there will be a single point of contact for
+all benefits and work issues. From April 2000, it will be compulsory for all new
+claimants to attend a work-focused interview to discuss their options, and, by
+April 2001, all benefit claimants of working age will have a personal adviser to help
+
+39
+
+them find work. The tightening of the benefits system can reasonably be expected to
+have some impact in terms of reducing the NAIRU.
+In addition to the New Deal and the tightening of the benefit system, another factor that
+might help increase effective labour supply is redesigning the tax and benefit system to
+sharpen the incentives to work.
+
+Independent research by the Institute for Fiscal Studies
+
+(reported in the Inflation Report, February 1999) suggested that the Working Families’
+Tax Credit (WFTC) would boost labour supply by a small amount (a point estimate of
+around 30,000). A study by Gregg, Johnson and Reed (1999) suggested that the effect
+of the WFTC, accompanied by changes to Income Tax and NIC’s would also boost
+labour supply more significantly.
+Many of the programs that we have mentioned above might individually have a
+relatively small effect on the NAIRU – however, added together, the effect could be
+quite significant, depending, in large part, on how extensive the New Deal scheme for
+the 25+ is (and, indeed, and how effective it proves to be).
+9.3 – PRODUCT MARKET FACTORS THAT MIGHT REDUCE THE NAIRU
+Section 5 contained a discussion of a variety of factors that have led to an intensification
+of product market competitions in recent years – this included globalisation, regulatory
+changes and retailing ‘price wars’. One might reasonably expect all three factors to
+exert further downward pressure on margins. Trade and FDI flows are likely to
+continue to trend higher. Although regulatory changes have been important in the past,
+in the MPC’s best judgement, forthcoming price cuts in electricity and water warranted
+special treatment in our inflation forecast (see Inflation Report, November 1999).
+Moreover, the investigation into car prices is widely perceived to be having an effect.
+Over the next few years, though, a potentially important reason for intensified product
+market competition and/or efficiency gains is the development of the internet. As my
+colleague, DeAnne Julius (1999) has pointed out, it took 36 years to achieve 50 million
+users for radio, 13 years for TV, 16 for PCs, but, for the internet, it has taken fewer than
+5! (Figure 21).
+
+40
+
+Figure 21
+
+Years to achieve 50 million users
+Number of years
+
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+Broadcast
+radio
+
+Broadcast
+TV
+
+Personal
+computers
+
+Commercial
+internet
+
+Source: US Commerce Dept
+
+In the retail market, the main reasons for expecting lower prices included:(i)
+
+standard theory predicts that high search costs allow prices to be above marginal
+costs in equilibrium (see, e.g. Salop (1979)) so one would expect the lowering
+of search costs associated with the internet to lower prices.
+
+(ii)
+
+Lower market entry costs must limit the price premiums sustainable by existing
+market participants by increasing actual or potential competition.
+
+(iii)
+
+Lower distribution and inventory costs by shortening the supply chain.
+
+Hence, it is hardly surprising that Brynjolfsson and Smith (1999) found that the prices
+for books and CDs sold through the internet were 9%-16% lower than in conventional
+outlets, even after accounting for costs from shipping and handling, delivery, and local
+sales taxes. In the UK, internet penetration is still low by US standards (see Table 9),
+though higher than in Germany or France. BRMB Internet Monitor recently reported
+that £2 bn was spent online in the last 12 months in the UK, which was a tenfold
+
+41
+
+increase from a year ago. Verdict Research estimates that online shopping in the UK
+will rise to 2.5% of retail spending in the next three years. In any case, traditional
+bricks-and-mortar retailers will be under increasing pressure to match the prices of the
+e-tailers, so, online shopping could have a disproportionate effect on the RPI. Note
+also that, currently, four-fifths of e-commerce is business-to-business use rather than
+business-to-consumer, so the biggest impact might come through cost reduction.
+All in all, in my personal view, it seems reasonable to believe that the net impact of all
+the product and labour market changes that we discussed above will be to probably
+lower the NAIRU further.
+TABLE 9
+INTERNET USAGE
+
+Proportion of population using the
+internet
+
+US
+
+34.0%
+
+UK
+
+13.9%
+
+Germany
+
+8.7%
+
+France
+
+4.8%
+
+Source: Owen (1999).
+
+42
+
+CONCLUSIONS
+I have argued above that there are persuasive reasons for believing that the NAIRU has
+fallen significantly since 1980. Furthermore, and more speculatively, one can identify a
+variety of product and labour market factors which might plausibly lead to a further fall
+in the NAIRU over the next few years. The extent to which the NAIRU falls over the
+coming years will depend, in part, on the degree of penetration of the internet, and, also,
+on how comprehensive the New Deal becomes.
+However, a belief that the NAIRU has fallen and is likely to fall further does not, of
+course, necessarily imply that one might be complacent about inflation. As my
+colleague, Willem Buiter (1999) has reminded everyone, inflation is ultimately, a
+monetary phenomenon. A fall in the NAIRU does imply that, other things being equal,
+nominal interest rates can, in the short-term, be lower at any given level of
+unemployment than they would otherwise have been. However, once the
+unemployment rate falls to the new level of the NAIRU, interest rates must rise back to
+their original level. The unemployment rate today is already at a 20 year low though
+much higher than its average level in the 1960s. The MPC shall, of course, have to
+continue to look at a wide variety of indicators in order to assess inflation prospects.
+
+43
+
+BIBLIOGRAPHY
+Anderton, Bob; Rebecca Riley and Garry Young (1999a)”The New Deal for Young
+People: Early findings from the Pathfinder Areas”, NIESR paper presented at the
+Education and Employment Economics Group Annual Conference, Wales, July.
+Arulampalam, W, A Booth and M Taylor (1998) “Unemployment Persistence”,
+University of Essex Discussion Paper.
+Bean, Charles (1999) “The Convex Phillips Curve and Macroeconomic Policymaking
+under Uncertainty”, London School of Economics, mimeo.
+Brayton , Flint, John Roberts and John Williams (1999) “What’s happened to the Phillips
+Curve?”, Federal Reserve Board, Washington, mimeo.
+Brown, D, Dickens, R, Gregg, P, Manning, A and McIntosh, S (1999), “Everything
+Under a Fiver: Recruitment and Staff turnover in Low Pay Firms”; Joseph Rowntree
+Foundation, forthcoming.
+Brown, William, Simon Deakin, Maria Hudson, Cliff Pratten and Paul Ryan (1998) “The
+Individulisation of Employment Contracts in Britain”, Department of Applied
+Economics, University of Cambridge.
+Brown, William and Sushil Wadhwani (1990) “The Economic Effects of Industrial
+Relations Legislation since 1979”, National Institute Economic Review.
+Brynjolfsson, Erik, and Michael Smith (1999) “Frictionless Commerce? A Comparison
+of Internet and Conventional Retailers”, Working Paper, MIT Sloan School.
+Budd, Alan (1999) “The MPC and the natural rate”, New Economy, pp 69-73.
+Buiter, Willem (1999) “Monetary Misconceptions”, Bank of England, mimeo.
+Callender, C, Millward, N, Lissenburgh, S and J Forth (1997) “Maternity Rights and
+Benefits in Britain 1996”, DSS Research Report, No 67, London, The Stationery Office.
+Calmfors, L and J Driffill (1988) “Centralisation of Wage Bargaining and Macroeconomic performance”. Economic Policy, No 6, pp13-61.
+Clark, Damon and Sushil Wadhwani (1999) “Modelling Wages”, forthcoming, Bank of
+England.
+Evans, Phil (1998) “Why has the female unemployment rate in Britain fallen?”, Bank of
+England Quarterly Bulletin, August, pp 248-255.
+Gregg, Paul (1999) “The Use of Wage Floors as Policy Tools”, University of Bristol,
+mimeo.
+
+44
+
+Gregg, Paul, Paul Johnson and Howard Reed (1999) “Entering Work and the British Tax
+and Benefit System”, The Institute for Fiscal Studies, March.
+Julius, DeAnne (1999) “Back to the Future of Low Global Inflation”, the Maxwell Fry
+Global Finance Lecture, University of Birmingham.
+Katz, Lawrence F and Alan B Krueger (1999) “The High-Pressure Labor Market of the
+1990s”, Brooking, papers on Economic Activity, 1:1999.
+Keynes, J M (1936) “The General Theory of Employment, Interest and Money”,
+Macmillan: London.
+King, M A (1998) “Monetary Policy and the Labour Market”, Employment Institute
+Lecture.
+Layard, Richard, Stephen Nickell and Richard Jackman (1991) “Unemployment:
+Macroeconomic Performance and the Labour Market”, Oxford University Press.
+Minford, Patrick (1994) “Deregulation and Unemployment – The UK Experience”,
+Swedish Economic Policy Review Vol 1, No 1-2, pp 113-149.
+Minford, Patrick and Andrew Haldenby (1999) “The Price of Fairness”, Centre for
+Policy Studies.
+Nickell, Stephen (1998) “Unemployment: Questions and Some Answers”, The
+Economic Journal, 108, May, pp 802-816.
+Nickell, Stephen and Richard Layard (1998) “Labour Market Institutions and Economic
+Performance”, Centre for Economic Performance Discussion Paper No 407.
+Nickell, S, J Vainiomaki and S Wadhwani (1994) “Wages and Product Market Power”,
+Economica, Vol 61, pp 457-73.
+Nickell, Stephen (1999) “Unemployment in Britain”, Centre for Economic Performance,
+London School of Economics, mimeo.
+Oswald, Andrew (1997) “The Missing Piece of the Unemployment Puzzle”, University
+of Warwick, mimeo.
+Owen, David (1999) “The Internet and RPI Inflation”, Dresdner Kleinwort Benson.
+Palley, Thomas (1999) “The structural unemployment trap”, New Economy, pp 79-83.
+Phillips, A W E (1958) “The Relationship Between Unemployment and the Rate of
+Change of Money Wage Rates in the United Kingdom, 1861-1957”, Economica, August.
+Robinson, Peter (1997) “Is there a Pay Problem?”, in Michie, J and J G Smith (ed),
+“Employment and Economic Performance”, Oxford University Press.
+
+45
+
+Rose, N L (1987) “Labour Rent Sharing and Regulation: Evidence from the Trucking
+Industry”, Journal of Political Economy, 95(6), pp 1146-78.
+Salop, S (1979) “Monopolistic Competition with Outside Goods”, Bell Journal of
+Economics, Vol 10, pp 141-156.
+Stiglitz, Joseph (1997) “Reflections on the Natural Rate Hypothesis”, Journal of
+Economic Perspectives, Vol 11, No 1, Winter, pp 3-10.
+Stock, James H (1998) “Comment” in Brookings Papers on Economic Activity: 2, pp
+334-341.
+
+

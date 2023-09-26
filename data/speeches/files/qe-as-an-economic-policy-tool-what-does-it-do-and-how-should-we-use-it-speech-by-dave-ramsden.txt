@@ -1,0 +1,700 @@
+QE as an economic policy tool - what does it do and how
+should we use it?
+Speech given by
+Dave Ramsden, Deputy Governor for Markets and Banking
+
+Peter Sinclair Town Hall lecture, University of Birmingham
+17th February 2021
+
+With thanks to Tom Smith, Amy Lee and Jon Bridges for their assistance in preparing these remarks,
+and to Bank colleagues including Andrew Hauser, Maggie Illingworth, Mike Joyce, Nick McLaren,
+Rhys Phillips, and Beth Blowers for their many helpful comments and suggestions.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+Introduction
+It’s a pleasure to be speaking today at the University of Birmingham, and an honour to be doing so at the
+third Peter Sinclair Town Hall lecture.
+My focus today is on quantitative easing – QE for short – and its use as an economic policy tool.
+The Bank of England’s internal Independent Evaluation Office (IEO) published its own evaluation of QE
+earlier this year, where it noted that “there remain open debates about how QE works in different states of
+the world, its broader interlinkages and its potential limitations”.1 What I want to use my lecture for today is to
+set out my own views on QE as a policy tool, as well as contribute some thoughts to some of those debates.
+
+Before I do that, though, I want to start with my own recollections of Peter. Tim Harford began this lecture
+series last autumn by noting that he was an economist because of Peter, as is true, I am sure, of many
+people joining us today. I can actually take it further. I was first enthused by economics by one of Peter’s
+students, the late Ken Durham, like Peter also a great teacher and educator, who taught me economics at
+school and encouraged me to apply to Brasenose College.
+
+The only bit of the whole application process to Brasenose which went well was my economics interview with
+Peter, which I remember as much more of a friendly conversation than an interrogation. That set the tone
+and started an unbroken trend for every one of my interactions with Peter over the next 37 years, whether in
+Brasenose, or over one of his famed pastoral teas in the café in the Oxford covered market, at one of the
+seminars he would invite me to give to his students at the Bank’s CCBS while he was its Director, through to
+more recently in the Bank of England since I started working there. Everyone who knew Peter has their own
+fund of these stories and you can and should read many of them in the online Condolence Book set up by
+the University of Birmingham.
+To give one personal memory of Peter’s wonderfully warm and encouraging approach: in our final year at
+Brasenose we each had to do a long essay and present it to the rest of the class. I wrote mine on the
+European Monetary system, then in its first phase; it was my first exposure to analysing an active policy tool.
+I recall that it turned out to be rather heavy on institutional detail about the EMS and rather light on the
+economics and efficacy of exchange rate regimes. At the end of my presentation Peter, first, went out of his
+way, as he always did in response to any presentation, to compliment me on all the efforts I had put in. Only
+after that, did he then, in his characteristically gentle but incisive way, set out several avenues I might follow
+in developing my analysis of nominal versus real adjustment. In doing so Peter drew on a whole host of
+references and models that he could call on from memory, some of which I’m sure found their way into
+Modern International Economics, the textbook Peter wrote with Shelagh Heffernan, his first wife, who died in
+2010.
+
+1
+
+The IEO’s report is available on the Bank of England website, as is the Bank’s response.
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+Peter seemed to be focused on the most important and relevant policy issues of the time – he always wanted
+to learn more about the world and to suggest ways that economics and economists could improve it. And he
+conveyed that enthusiasm and ambition to each student intake and to his colleagues. Peter’s review of
+“What’s the Use of Economics”, the book of proceedings from a conference organised and edited by Diana
+Coyle, another former student who gave the second of these lectures, held at the Bank of England nearly a
+decade ago, is Peter at his kaleidoscopic best and as relevant now as when he wrote it. 2
+
+For me as an undergraduate student in the early 1980s it was incredibly stimulating to be learning from Peter
+about Keynes’, Hicks’ and Leijonhufvud’s contributions to disequilibrium economics, all framed by Peter’s
+
+own quantity rationing exposition of multiple equilibria. It was even more exciting to be taught by
+someone who was writing about the real-world economic problems of unemployment and how policy could
+help to achieve a better equilibrium – Peter penned a comprehensive overview article with Derek Morris in
+the second edition of OxRep in 19853 which is still a very good read today.4
+
+It should therefore come as no surprise that one of the many other topics that Peter turned his prodigious
+mind to was QE and monetary policy. His 2017 NIESR paper with Bill Allen examined the shift from the
+“old normal” of pre-financial crisis monetary policy to the “new normal” of QE and forward guidance, as well
+as engaging seriously with what a “future normal” for monetary policy might look like.5 That is a framing I will
+use for this lecture in setting out my own views of QE as a monetary policy tool, and then focusing on two
+other policy debates highlighted by the IEO review, the links between QE and government financing, an
+issue Peter also considered6, and the links between QE and climate change.
+
+The Bank of England and its balance sheet
+I’ll come on to the details of what exactly QE is and what uses it has as a policy tool, including over the last
+11 months in response to the Covid pandemic. But I want to start by considering a more general question,
+which is the question of what central banks are actually for. That’s because I don’t think you can answer the
+question of how to use a tool without first knowing what you want the tool to do.
+
+For the Bank of England, the answer to that question is clearly set out in the statutory objectives laid down
+for us by Parliament7: our mission is to promote the good of the people of the United Kingdom by maintaining
+monetary stability, defined by the Government as low and stable inflation with a target of 2% (and subject to
+that supporting the Government’s economic policy and growth and employment objectives); and financial
+Available on the Society of Professional Economists’ website.
+Peter was the managing editor of OxRep.
+4
+“The unemployment problem in the 1980s”, Derek Morris and Peter Sinclair, Oxford Review of Economic Policy, vol. 1 no. 2 (1985).
+5
+“Monetary policy normals, future and past”, William Allen and Peter Sinclair, National Institute Economic Review, vol. 241 no. 1 (2017)
+6
+“Quantitative easing is not as unconventional as it seems”, Peter Sinclair and Colin Ellis, Oxford Review of Economic Policy, vo. 28 no.
+4 (2012)
+7
+Specifically, in the Bank of England Charter 1694, the Bank of England Act 1998 and the Banking Act 2009.
+2
+
+3
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+stability, defined as the resilience of the UK financial system as a whole so that it can serve UK households
+and businesses in bad times as well as good.
+
+What makes the Bank of England the right institution to deliver those objectives? The answer is that our
+balance sheet is what makes us special and gives us the economic policy tools we need to be able to do
+that. Our liabilities serve unique functions at the heart of the financial system: central bank money, whether in
+the form of bank notes or central bank “reserves” – the deposits held with us by financial institutions –
+provide the ultimate means of settlement for all sterling payments in the economy. And we are the sole
+institution with the power to create sterling central bank money.
+
+That power provides us with a wide range of tools that we can deploy in pursuit of our monetary and financial
+stability objectives (as summarised in Figure 1).
+
+
+The importance of reserves to the financial system means that Bank Rate, the interest rate that we
+pay on firms’ reserve accounts, is the single most important interest rate in the UK. Changes in Bank
+Rate influence interest rates across the economy including those charged by commercial banks and
+those in financial markets. That in turn affects aggregate economic demand and ultimately inflation.
+So having reserves on our balance sheet gives us a powerful tool that we can use in support of
+monetary stability. Indeed in the years running up to the Great Financial crisis in 2007-08 this was
+the main monetary policy tool used by central banks – in Peter’s terminology, the “old normal” for
+policy.
+
+
+
+A second way we can use the balance sheet in support of monetary stability is by using reserves to
+buy or sell other financial assets in the open market; that lets us directly influence market interest
+rates. If we buy government bonds, for instance, the price of those bonds goes up which makes their
+yield – the effective interest rate earned by holders of bonds – come down. Like reserves,
+government bonds play an important role as safe assets in the financial system, and so changes in
+their yields also affect broader financial conditions, aggregate demand and inflation. It is this process
+of using reserves to buy other assets that goes by the complex-sounding and in my view slightly
+misleading name “quantitative easing” or QE. With Bank Rate having been close to its effective
+lower bound since the Global Financial Crisis, the “new normal” has been for QE to be the primary
+monetary policy tool. 8 As Peter put it in a paper with Colin Ellis titled “quantitative easing is not as
+unconventional as it seems” – it is just another way of using our balance sheet as a tool for monetary
+stability.9
+
+
+
+A third way our balance sheet can be used in support of monetary stability is by lending reserves
+directly to banks. The precise facilities used to do this vary, with different incentive structures
+supporting different policy goals. The Term Funding Scheme, for instance, launched in 2016, was
+
+I described the evolution of the monetary policy toolbox in more detail in my recent speech “The monetary policy toolbox in the UK”.
+In practice the assets we buy through QE sit on a separate balance sheet, the Bank of England’s Asset purchase Facility (the APF),
+which is indemnified by HM Treasury. This has important institutional and financial implications which I’ll come on to cover, but does not
+affect its use as a monetary policy tool.
+8
+9
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+intended to reinforce the pass-through of the August 2016 cut in Bank Rate to what was then a
+historically low level. Our current Term Funding Scheme with additional incentives for SMEs is
+intended to reinforce the transmission of the March cut in Bank Rate to 0.1% while also supporting
+Figure 1: A summary of the Bank’s balance sheet tools
+
+Taken from the Bank of England Markets and Operations Guide, which gives full detail on all our balance sheet tools.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+lending to the real economy, particularly to SMEs. More recently the Bank’s response to Covid has
+included a Covid Corporate Financing Facility, launched jointly with HM Treasury, designed to lend
+cash, funded by reserves, directly to large companies, supporting their cash flow while leaving the
+banking system to focus on lending to smaller businesses.
+
+
+Finally our balance sheet has a key role to play in supporting financial stability by providing
+insurance to banks and other financial intermediaries against liquidity risk – the risk that solvent firms
+cannot meet their financial obligations as they fall due. Of course we expect firms to self-insure
+against liquidity risk as part of prudent financial management. But it would be unrealistic and
+inefficient to expect them to insure against all shocks and so as a backstop we provide firms with the
+ability to borrow reserves (as well as dollars and euros). Liquidity insurance is very much an “old
+normal” – it goes back to Walter Bagehot in 1873 and his famous dictum to lend freely, at a high rate
+of interest and on good banking securities. But it is worth noting that, whilst liquidity insurance is an
+“old normal”, our current suite of facilities is much expanded over the last fifteen years. The Bank
+learned lessons from the GFC, launching a revised Sterling Monetary Framework in 2013 under an
+approach Mark Carney, the Bank’s former Governor and another former student of Peter’s described
+as Open for Business10. This expanded toolkit is just as much a part of the “new normal”.11
+
+Of course the financial system is constantly evolving. And our balance sheet tools must evolve alongside it
+towards a “future normal”:
+
+
+On the financial stability side, the experience of the Covid crisis, and the turbulent “dash for cash”
+that took place in financial markets in March 2020, when exceptionally high demand for cash led to a
+breakdown in the functioning of core financial markets, has raised questions of whether central
+banks need new tools for dealing with market dysfunction.12 (I will come back to this question later in
+the context of the impact that our QE purchases had).
+
+
+
+On the monetary policy side, the Bank’s Monetary Policy Committee, which is responsible for
+deciding what monetary policy actions to take, has asked us to start “internal technical preparations
+to deliver the option of a tiered system of reserve remuneration that could be ready to be
+implemented, should it be judged appropriate, alongside a negative Bank Rate”.13
+
+
+
+Looking further ahead central banks around the world are grappling with the question of whether to
+provide the public with electronic money, or Central Bank Digital Currency, and the challenges and
+opportunities that such a decision could throw up in a possible “future normal”.14
+
+Set out in Mark Carney’s speech ‘The UK at the heart of a renewed globalisation’
+I described the evolution of these tools in my 2018 speech “Finding the right balance”.
+As set out in Andrew Hauser’s speech “From Lender of Last Resort to Market Maker of Last Resort via the dash for cash”.
+13
+As noted in the Minutes of the February 2021 MPC meeting.
+14
+The Bank set out some initial thinking on this in a March 2020 Discussion Paper, and together with six other central banks and the
+Bank for International Settlements published a report in October 2020 identifying the foundational principles necessary for any publicly
+available CBDCs to help central banks meet their public policy objectives.
+10
+11
+12
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+
+
+Central banks including the Bank of England are considering what contribution they can make,
+consistent with their remits, to encourage an earlier and more orderly transition to a carbon-neutral
+economy.
+
+QE as a monetary policy tool
+I will say more about QE and climate change as part of the potential “future normal” towards the end of my
+lecture but for now I want to focus on QE in the context of the here and now.
+
+The fact that QE only came into use in the UK in March 2009 means that in practice its history, at least in the
+UK, is a short one. As Figure 2 illustrates, it has been used essentially five times in twelve years. QE1, 2 and
+3 came in response to the financial crisis and the euro area crisis that followed; QE4 followed the Brexit
+referendum; and QE5, which is still ongoing, formed part of the policy response to the Covid crisis last
+March.
+
+Figure 2: Bank of England QE programmes and selected policy interventions since 2009
+
+Taken from the IEO’s report on its evaluation of QE.
+
+Figure 3: Bank of England balance sheet as a % of GDP
+
+Source: Bank of England, available here. Dotted line extends series to end-2021, assuming completion of current asset purchase
+programme. All figures shown as a % of lagged GDP except 2021 figure which uses 2019 GDP to avoid distortions from the
+temporary Covid-related falls in 2020.
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+The headline numbers involved in those five interventions detailed in Figure 2 have been very large: in total
+once the current programme comes to an end the Bank will have purchased £875bn of government bonds
+and £20bn of corporate bonds – that is roughly 40% of annual (pre-Covid) UK GDP. Once that programme is
+complete the Bank’s balance sheet, which already stands at around 40% of GDP, will be approaching
+£1trillion, or 50% of GDP in size – an unprecedented figure in the Bank’s 327 year history (Figure 3).
+The robust operationalisation of those QE purchases has been crucial to the Bank’s mission over the past
+twelve years. The IEO’s review noted that “a common finding across successive rounds of QE is that the
+Bank has excelled at delivering at pace and under pressure, drawing on very effective staff input from
+multiple areas.” Never has that been more apparent than the response of Bank staff to the Covid crisis, with
+close to 600 balance sheet operations conducted across multiple interventions during the course of 2020,
+the vast majority of which conducted at home, including QE, where we purchased at the fastest pace ever in
+the early stages of the crisis.
+
+Figure 4: Recommendations from the IEO review of QE
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+It is understandable that a relatively new policy tool, used on such a large scale, has attracted significant
+public attention, in addition to the IEO evaluation, whose recommendations are set out in Figure 4. Indeed
+the House of Lords Economic Affairs Committee is currently taking evidence for its own QE inquiry.15 These
+evaluations and inquiries, and the broader public debates around QE, are welcome – they are an important
+part of the process by which policymakers like myself are held accountable. I see them as a key part of the
+process by which we learn more and develop our understanding of tools like QE.
+
+I should be clear at the outset, though, that I am confident that QE works as intended as a monetary policy
+tool. It’s unsurprising, as the IEO noted, that with such a small number of observations there are still open
+questions about the QE transmission mechanism and impact, and we have welcomed the IEO’s
+recommendations about how the Bank might continue to advance its understanding. To make matters more
+complex, we also recognise that the effects of QE are likely to be state contingent, meaning that there is no
+single “effect of QE” (Figure 5).16 But based on my reading of the academic evidence and my practical
+experience as a UK policy maker, and consistent with the findings of the IEO report, my central view is that
+QE achieves its goal of supporting demand and inflation. We have good evidence that it does indeed lower
+interest rates, through a combination of portfolio balancing, signalling and market liquidity channels. And
+while the specific contribution of the different channels is still uncertain and much debated, there is
+increasing evidence that the associated reductions in borrowing costs and accompanying increase in
+household wealth does feed through to increases in GDP growth and inflation.17
+
+There are, of course, other important considerations regarding the broader impact of QE. For example, as
+the IEO’s report notes, there has been significant public debate about the possible spillovers associated with
+QE, with a particular focus on the potential for distributional effects.18 While this topic is not the focus of my
+remarks today, I would emphasise that the Bank continues to take the analysis and communication of
+potential side-effects from its policy interventions extremely seriously.
+
+Further details including transcripts of the oral evidence sessions are available on the Committee’s website.
+As set out most recently by Andrew Bailey in his 2020 Jackson Hole speech and accompanying paper.
+The supporting paper for Andrew Bailey’s Jackson Hole speech, mentioned above, gives a good overview of the evidence for the UK,
+as does Box B of the IEO report, while the 2019 BIS Committee on the Global Financial System report on unconventional monetary
+policy tools summarises the cross country evidence, as does Ben Bernanke’s 2020 AEA Presidential Lecture.
+18
+The Bank has actively contributed to work on this topic, with a notable contribution, for example, by Bunn, P, Pugh, A and Yeates, C
+(2018) "The distributional impact of monetary policy easing in the UK between 2008 and 2014."
+15
+16
+17
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+Figure 5: Stylised QE transmission mechanism
+
+Taken from the supporting paper for Andrew Bailey’s Jackson Hole speech.
+
+To make the macroeconomic effects of QE more concrete: previous Bank of England analysis suggests that
+the initial £200 billion of QE during QE1 may have increased GDP by 1.5%–2% and inflation by
+0.75pp–1.5pp.19 Using similar estimates in a 2016 speech, Mark Carney, estimated that if the MPC had left
+monetary policy – Bank Rate and QE – unchanged in the financial crisis, the level of GDP would have been
+8% lower and 1.5 million more people would have been out of work.20
+
+Whether the £200bn of QE we announced last March had the same impact is a complex question, and there
+are arguments in both directions as to whether its impact will turn out to have been larger or smaller. On the
+one hand, government bond yields have been very low by historical standards and it is possible that there
+may be limits to how much more QE can do to push them down. On the other hand, our March purchases in
+particular took place as I have said against a backdrop of extreme market disorder. Our purchases,
+alongside other policy measures here and abroad, were instrumental in restoring order, and indeed we
+deliberately carried them out at an unprecedentedly fast pace to achieve that – in the words of the Governor,
+Andrew Bailey, we “went big and fast”. Had we not done this then that market disorder might, as we said at
+the time, have led to an unwarranted tightening of monetary and financial conditions, and an even sharper
+contraction in GDP.
+
+I want to emphasise this last point. Some commentary that I have seen has suggested that in addressing
+market disorder the MPC somehow broadened its objectives and used a monetary policy tool for financial
+stability purposes. I don’t see it like that at all. The MPC took action in pursuit of its objectives, because
+further market dysfunction triggered by the Covid shock would have led to even worse outcomes for GDP
+and inflation. Their action had the welcome side effect of supporting financial stability, but it was taken for
+monetary policy purposes. Indeed it is quite possible to imagine other circumstances where the MPC would
+Joyce, M, Tong, M and Woods, R (2011), “The United Kingdom’s quantitative easing policy: design, operation and impact”, Bank of
+England Quarterly Bulletin, 2011 Q3
+20
+In his 2016 speech “The spectre of monetarism”.
+19
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+not act to quell market disorder, if doing so would run counter to rather than in support of monetary stability.
+It’s for exactly this reason that the work I mentioned earlier, on whether central banks need new tools to deal
+directly with market dysfunction, is so important.
+
+QE and government financing
+One aspect of QE that has received particularly close attention has been its relationship to the Government’s
+finances. Specifically, some commentators have raised the question of whether, by buying government
+bonds at a time when the Government deficit is expanding, the Bank is somehow financing government
+spending. Again, this is a question that comes down to the objectives in pursuit of which policy is being set.
+As my colleague Ben Broadbent has said, you need to look not just at who, in terms of which policy
+institution, is doing what, but also why they are doing what they are doing in terms of policy actions.21
+
+Since the start of the Covid pandemic the priority for both the MPC and the Government has been to support
+the economy through the outbreak and to minimise the potential for long-term damage or scarring to the
+economy’s potential. And to do that, to bridge across the period of the shock, we have taken unprecedented
+fiscal and monetary actions, as well as using our financial stability tools to the full. Those actions were
+consistent and they were complementary. But – crucially – they were taken independently and in pursuit of
+each institution’s own policy objectives.
+
+This argument in principle is backed up by what has actually happened in practice. Just in terms of
+scheduling, the MPC’s decisions have largely been taken ahead of rather than in response to
+Debt Management Office (DMO) announcements. Indeed in June the MPC, acting on advice from the Bank’s
+executive, agreed, at the same time as adding to the target stock of asset purchases, to substantially slow
+the pace of purchases, from £13.5bn/week to an initial £6.9bn/week, before the DMO published its updated
+remit, which set out plans for increased issuance.
+
+As for economic outcomes, inflation has been well below our 2% target for the past year, while measures of
+inflation expectations such as those from financial markets have been stable and consistent with the target –
+not what you would expect to see if QE was being used for purposes other than our monetary stability
+objective.
+In fact it is true that there are links, as I’ll set out, between QE and the Government’s finances – as there are
+for any of our other balance sheet tools. But these are very different from the charge of “monetary financing”
+that I have been responding to so far. Instead of reflecting deliberate deviations from our monetary policy
+objectives, they come down to more prosaic and technical, though very important, and hence understandably
+a focus of the IEO report, issues of risk management and accounting.
+Ben’s recent speech “Government debt and inflation” addresses this question comprehensively, as does Andrew Bailey’s recent
+speech “Modern challenges for the modern central bank”.
+21
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+I’ll start, once again, with the Bank’s own balance sheet. Like any financial institution the Bank holds lossabsorbing capital to insulate it against unexpected losses. In the latest published accounts the Bank’s
+loss-absorbing capital stood at £3.5bn.22 That is an appropriate sum to hold against potential losses from the
+Bank’s liquidity operations and funding schemes, which are prudently backed by good quality collateral.23
+But the risks from the QE portfolio, which by its nature is necessarily uncollateralised and unhedged, are
+potentially much larger. (Figure 6) For that reason the Bank’s QE purchases are carried out from a
+subsidiary called the Asset Purchase Facility (APF) which is indemnified by HM Treasury, so that the cost of
+any net losses is met by HM Treasury rather than from the Bank’s own capital, while any gains accrue to HM
+Treasury, with net cash flows transferred once a quarter.24
+
+Figure 6: APF cash-flow arrangements
+
+Taken from the IEO’s report on its evaluation of QE.
+
+In practice the APF has made a net accounting gain over its life to date. The scale of this gain was not
+foreseen, much less intended, at the time of its creation, and has certainly never been regarded as a goal of
+QE. Instead it reflects the fact that since QE was launched interest rates have fallen and stayed low, while
+the MPC has not yet taken the decision to sell any of its bonds, which might crystallise losses. As a result
+cumulative transfers to HM Treasury have now reached over £100bn. The direction of these transfers is,
+however, likely to reverse in the future under many possible scenarios, once the economy recovers from
+Covid and yields start to rise. The potential size and timing of any such reversal is uncertain and will vary
+depending on a number of factors, such as the total size and composition of asset holdings, the future path
+of Bank Rate and the path of any asset sales. In response to one of the IEO review’s recommendations the
+
+On page 36 of the Bank’s 2019/20 Annual Report. The Bank has £5.8bn of total capital of which £3.5bn is loss-absorbing.
+Ultimately, the Bank is fully backed by HMT, who have committed to replenishing the Bank’s capital in those extreme circumstances
+where the Bank could take a material loss.
+24
+The exchanges of letters between the Chancellor and the Governor confirming the indemnity arrangements are available on the
+Government and Bank of England websites, as is the exchange of letters agreeing the cash transfer arrangements.
+22
+23
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+12
+
+Bank will publish later in 2021 updated analysis of how such factors are likely to influence the size and
+direction of future transfers.25 Certainly the transfers are material and worth highlighting – but they are a
+side-effect of QE, not its goal.
+
+QE and climate considerations
+
+A second aspect of QE that has received close external scrutiny is its relationship to climate change.
+Responding to climate change is a strategic priority for the Bank; we continue to work towards promoting
+safety and soundness by enhancing the Prudential Regulation Authority (PRA)’s approach to supervising the
+financial risks from climate change, and towards enhancing the resilience of the UK financial system by
+supporting an orderly market transition to a low-carbon economy. In particular we have supported the
+Financial Stability Board’s work on climate disclosure through the Task Force on Climate-related Financial
+Disclosures (TCFD). To show its commitment last June the Bank published a report disclosing for the first
+time its own approach to climate risk management for all its operations.26
+
+Attention, however, has understandably focused on the £20bn corporate bond purchases that form part
+(around 2%) of our QE programme, and whether more should be done to account for climate considerations
+in these holdings. Our approach to date has been to invest in sectors in proportion to the total outstanding
+eligible issuance accounted for by each sector in the UK economy.27 An important part of the design of the
+CBPS back in 2016 was to achieve the MPC’s aim of imparting monetary stimulus in a way that was
+sector-neutral, consistent with the remit given to the Committee by the Chancellor.
+
+As a result, the carbon footprint of the APF Corporate Bond Purchase Scheme (CBPS) portfolio is broadly
+representative of the sterling investment grade corporate bond market (Figure 7). Measuring the climate
+impact of this market portfolio remains a developing science, and our disclosure report shows a range of
+possible metrics, including the commonly reported weighted average carbon intensity (WACI). More
+experimental metrics under development, are “portfolio warming potential” metrics, which attempt to assess
+alignment with international climate targets. One estimate suggests this is 3.5° for the CBPS, and so not
+aligned with the long-term goals of the Paris Climate agreement (Figure 7). Again that is, unsurprisingly,
+broadly consistent with the wider market. Other approaches lead to a wide range of different results for our
+portfolio, ranging from less than 1.75° to 4°, illustrating the considerable degree of uncertainty.
+
+25
+
+A 2013 Bank of England Quarterly Bulletin article by Nick McLaren and Tom Smith sets out the factors that are likely to determine the
+size and direction of future transfers.
+26
+“The Bank of England’s climate-related financial disclosure 2020”, available on the Bank’s website.
+27
+Eligible bonds are sterling investment grade corporate bonds issued by companies which make a material contribution to economic
+activity in the UK, subject to certain restrictions which are set out on the Bank’s website. Corporate bonds issued by banks, building
+societies, insurance companies and other financial sector entities regulated by the Bank or the Financial Conduct Authority are not
+eligible.
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+13
+
+Figure 7: Climate metrics for the APF corporate bond portfolio
+
+Taken from “The Bank of England’s climate-related financial disclosure 2020”,
+
+It is worth saying that the question of how best we might incorporate climate considerations is not a
+straightforward one. Simply labelling firms as “green” or “not green” at a point in time isn’t necessarily
+enough; what is needed is an approach that would incentivise companies to make the transition from one
+state to the other. As Andrew Bailey, the Bank’s Governor, has said, including at our most recent Monetary
+Policy Report press conference in February, work on this is already under way at the Bank. But any change
+in approach, to a new “future normal” for policy, could only be made if it was consistent with the remit given
+to us by the Government.
+
+The outlook for QE
+
+I want to finish by saying a few words about how I see the outlook for monetary policy and QE as of today,
+eleven months on from our initial response to the Covid pandemic. My overall take on QE is still that it is a
+tried and tested tool; for me it is the marginal monetary policy tool at present. I said in a speech I gave in
+October that we had QE “headroom” remaining28. And although we have announced £150bn more QE since
+then, that still remains the case. As the MPC highlighted again in the Minutes of its February 2021 meeting,
+if needed the Bank could re-evaluate some of its self-imposed constraints on gilt purchases to create more
+headroom.
+
+As I noted earlier, the MPC has asked the PRA to engage with firms to ensure they could be ready to
+implement a negative Bank Rate at any point after six months, and has asked Bank staff to commence
+internal technical preparations to deliver the option of a tiered system of reserve remuneration that could be
+ready to be implemented, should it be judged appropriate, alongside a negative Bank Rate. At the same time
+the Committee also agreed to ask Bank staff to reconsider the previous guidance on the appropriate strategy
+for tightening monetary policy should that be required in the future. But none of these requests are intended
+as a signal about the future path of monetary policy – they represented transparent contingency planning for
+possible future uses of our monetary policy tools.
+28
+
+In my speech ‘The Monetary Policy Toolbox in the UK’
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+14
+
+As for the immediate future: in November 2020 the MPC voted unanimously for a further £150bn of
+government bond purchases, to be implemented throughout 2021 and to be completed at around the end of
+the year. Those purchases are currently under way at a pace of £4.4bn/week. If we continued at that pace
+the programme would be complete by the start of November 2021; for that reason, and assuming no material
+worsening in market functioning, I would envisage some further slowing in pace at some point in the
+remainder of the year.
+
+I continue to see the current stance of policy as appropriate, given the current degree of uncertainty around
+the health and economic outlook. In particular it remains appropriate for policy to lean strongly against
+downside risks to the outlook, to support the economy and act as a bridge to help to ensure that weakness in
+the economy is not amplified by an unwarranted tightening in monetary conditions. I was very conscious in
+November of the uncertainties and downside risks to the economy and the need to manage those.
+
+According to the data published by the ONS last Friday, the UK economy contracted by around 10% in
+calendar year 2020; a larger one year fall has not been seen for over three centuries (Figure 8). The
+February MPR forecasts GDP will fall by 4% in 2021Q1, the current quarter, due to the ongoing effects of the
+pandemic and the renewed lockdown in response to it. With the exception of 2020Q2, when GDP fell by
+19%, this would be the largest quarter-on-quarter fall in GDP since the general strike in 1926Q2, based on
+peacetime estimates. The vaccination programme has improved the outlook and the UK economy is forecast
+to recover rapidly thereafter with growth of 14% in the year to 2022Q1, when GDP is forecast to return to its
+pre-Covid level. But because of the structural changes and permanent scarring resulting from the pandemic
+output is assumed not to make up all of the lost ground and so doesn’t return to its pre-crisis trend29.
+
+Figure 8: Annual GDP growth since 1700
+25
+
+Annual growth in
+real GDP (%)
+
+20
+
+15
+10
+5
+0
+-5
+-10
+-15
+-20
+1700 1710 1720 1730 1740 1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 1850 1860 1870 1880 1890 1900 1910 1920 1930 1940 1950 1960 1970 1980 1990 2000 2010 2020
+
+Source: A millennium of macroeconomic data, updated with the latest ONS data from 1948.
+
+29
+
+More in my speech ‘The potential long-term effects of Covid’
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+15
+
+The very welcome progress with the vaccination programme has reduced a number of the uncertainties and
+risks, but they have by no means gone away entirely. Consistent with that, our latest GDP forecast published
+in February still features a very wide fan throughout as well as a downside skew to GDP in the near term
+(Figure 9). And while unemployment is forecast to peak at 7.8% in 2021Q3 and fall thereafter the risks
+remain skewed towards higher unemployment. The MPC has set out forward guidance that it does not intend
+to tighten monetary policy at least until there is clear evidence of significant progress being made in
+eliminating spare capacity and achieving the 2% inflation target sustainably. As time passes and the
+economy recovers the forward guidance will become more salient, providing reassurance that there is a high
+bar to any future tightening.
+
+Figure 9: February 2021 Monetary Policy Report GDP projection,
+based on market interest rate expectations
+£ bn, 2018 prices
+640
+Projection
+
+620
+600
+
+580
+ONS data
+
+560
+540
+520
+500
+480
+460
+
+440
+420
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+400
+2024
+
+Source: February 2021 Monetary Policy Report.
+
+Conclusion
+
+In conclusion, my view as I have set out in this third Peter Sinclair Town Hall lecture, is that QE is a policy
+tool that has worked: it has proved its worth in the policy response to the Global Financial Crisis and more
+recently in the response to the ongoing Covid crisis. Over the past twelve years, QE has meant an expanded
+role for the central bank balance sheet as a key feature of what Peter termed “the new normal” for monetary
+policy. Of course, public scrutiny and debate about the role of QE is also valid – it is a relatively new tool
+about which we still have much to learn. The Bank of England’s Independent Evaluation Office’s review is a
+valuable contribution to that learning, and we at the Bank have welcomed its recommendations. They will
+help guide us in our response as we continue the journey to whatever the future normal for policy looks like
+and the role of the Bank’s balance sheet within that.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+16
+
+The Condolence Book set up by the University of Birmingham stands as a wonderful memorial to Peter.
+There you can read tributes from Peter’s wife Jayne Ivimey, from his brother Michael and his cousin Lindy.
+There are many entries from colleagues and students at the University of Birmingham, from Oxford
+University and from the many other academic institutions Peter was associated with. There are also entries
+from many friends and colleagues, including from staff at the Bank of England.
+
+Peter had a strong association with the Bank of England for several decades, continuing right up to his death
+in March 2020. Peter was Director of the Bank’s Centre for Central Banking Studies from 2000 to 2008.
+When researching for this lecture I came across the quote he gave when his appointment to the CCBS was
+announced on 16 February 2000, twenty one years ago. It sums up the warmth and generosity of his
+approach to learning and depth and internationalism of his outlook and so I have shared it on the screen
+(Figure 10).
+“All Central Banks have so much to learn from each other. The Centre provides an invaluable forum for this
+to happen. Through our academic workshops, technical assistance, seminars, courses, training, and visits,
+we can help other Central Banks to keep their economies and financial systems on an even keel, from which
+everyone benefits – and also to compare notes on the challenges they face and how best to respond to
+them.”
+I know I speak for Peter’s many friends and colleagues at the Bank in saying I wish Peter was still with us to
+help us to deal with the many challenges we face and how best to respond to them in these unprecedented
+times.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+17
+
+

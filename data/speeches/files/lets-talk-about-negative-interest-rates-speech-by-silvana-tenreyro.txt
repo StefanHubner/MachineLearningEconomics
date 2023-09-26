@@ -1,0 +1,1661 @@
+Let’s talk about negative rates
+Speech given by
+Silvana Tenreyro
+External Member of the Monetary Policy Committee, Bank of England
+UWE Bristol webinar
+11 January 2021
+
+I would like to thank Lewis Kirkham, Michael McLeay and Lukas von dem Berge for superb research and
+useful discussions. I would also like to thank Andrew Bailey, Sarah Breeden, Jonathan Bridges,
+Maren Froemel, Julia Giese, Andy Haldane, Jonathan Haskel, Andrew Hauser, Silvia Miranda-Agrippino,
+Inderjit Sian, Michael Saunders, Ryland Thomas, Matt Trott and Jan Vlieghe for helpful comments,
+suggestions and assistance. The views are my own and should not be taken to represent those of the
+Bank of England or its committees.
+
+Good afternoon and thanks for having me. It is a pleasure to give this speech, virtually, at UWE Bristol.
+Over the past year, the MPC used a range of policy tools to contribute to supporting the economy and
+bringing inflation back to target. We also discussed various other tools that might be needed at some point in
+future. We always keep our toolkit under review, and given the events of 2020, I am sure it is not surprising
+that those discussions continued over the year. The MPC set out its collective view on one of those tools,
+negative interest rates, in a box in its August 2020 Monetary Policy Report.
+Following that, the Bank of England began structured engagement with firms on operational considerations
+regarding the feasibility of negative interest rates. That work is still in progress, and the Bank will report back
+when it is complete; I do not have anything new to add on this today.
+Once the Bank is satisfied that negative rates are feasible, then the MPC would face a separate decision
+over whether they are the optimal tool to use to meet the inflation target given circumstances at the time. As
+with decisions on any other monetary policy tool, each MPC member would have the option to vote on this at
+each meeting. We are individually accountable for our votes, and are required to explain their rationale to the
+public and to parliament. Today I therefore wish to set out my own current thinking on how negative interest
+rates might work in the UK. While this view will inform my future votes, my decisions on the amount of policy
+stimulus needed (and the right tool to deliver it) will depend on the outlook at the time of voting. I will make
+three main points:
+
+
+First, the ‘financial-market channels’ of monetary policy transmission have worked effectively under
+negative rates in other countries, with some of the evidence pointing to more powerful effects.
+Through standard cost of capital and exchange-rate mechanisms, as well as higher asset prices,
+these effects should lead to higher consumption and investment, and boost net exports and inflation.
+Quantitatively, these channels are an important part of monetary policy transmission.
+
+
+
+Second, the evidence from experiences of negative rates in other countries suggests that
+‘bank-lending channels’ of monetary policy transmission have also been effective at boosting lending
+and activity, though there is some variation in the size of the estimated effects. There is no clear
+evidence that negative rates have reduced bank profits overall, and a number of studies find positive
+impacts, once you take into account the boost to the economy.
+
+
+
+Third, as with any policy tool, there are differences in the structure of the economy, both across
+countries and over time, which can potentially affect how the tool works. But there is little evidence to
+suggest that many aspects of policy would operate differently from usual. It is possible that the
+current structure of the UK banking system could lead to a less positive impact on bank profitability.
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+But at worst, in my view, this could only make bank-lending channels slightly less powerful than
+otherwise, while I expect the financial-market channels to work normally.
+I will start by explaining what negative rates are and how they might work (Section 1), before touching on the
+global economic forces that have led several other central banks to implement them (Section 2). I will then
+summarise my views on the international evidence on negative interest rates (Section 3, going into more
+detail in Section 3.1). Next, I will discuss some differences across countries and over time that can affect
+how policies work (Section 4). Finally, I will update on how I see the current economic outlook (Section 5).
+1
+
+What are negative interest rates?
+
+Over 2020, there was no shortage of media coverage discussing the possibility of the MPC adopting a
+negative interest rate policy. But the concept of a negative interest rate probably sounds strange to many
+people in the UK. Even among professional economists, many of us were taught that the economy and
+monetary policy would operate very differently when interest rates were below zero. Before discussing the
+effectiveness of such a policy, I would therefore like to talk about what we mean by negative rates; how, in
+general terms, they would work; and whether they actually are so different to what we have seen before.1
+When we talk about potentially using negative interest rates, we are referring to Bank Rate, the policy rate
+set by the MPC. Bank Rate is the interest rate paid on central bank reserves, which are deposits held at the
+Bank of England by banks and building societies.2 At present, with a slightly positive Bank Rate of 0.1%,
+these institutions receive one pound per year in interest for each thousand pounds they have deposited.3
+Under a negative Bank Rate, they would instead pay an interest charge on their reserves. At a negative rate
+of 0.1% applied on all reserves, for example, a £1000 deposit would be reduced to £999 after one year.4
+Just as at positive levels of Bank Rate, the interest payments made between the Bank and commercial
+banks have little direct impact on the economy. Instead, Bank Rate matters because it influences the entire
+set of rates charged on loans and paid on deposits of households and businesses; and because it affects the
+exchange rate and a range of asset prices set by financial markets.
+Importantly, Bank Rate is only one of many influences on these asset prices and rates. A negative Bank
+Rate does not therefore imply that rates facing households and businesses will necessarily turn negative.
+With Bank Rate currently close to zero, the average rate charged on loans to UK households is 2.6% while
+the average rate paid on household deposits is 0.2% (Chart 1). Many other factors are incorporated into
+1
+
+See Bean (2013) for a clear previous explanation of negative interest rates and how they might work in the UK.
+One can think of the Bank of England as the bank of (commercial) banks and building societies.
+3
+With total reserve balances of around £770 billion, the Bank pays out a total sum of around £770 million per year at current Bank Rate.
+4
+The payment would also depend on how any negative rate scheme was implemented, which has differed across countries. If negative
+rates were implemented, the design of the scheme would be part of that decision. See Saunders (2020) for a discussion of these issues.
+2
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+these rates, including: the risk to the bank of borrowers defaulting; the value of any collateral; the cost of
+banks’ other funding sources; how Bank Rate is likely to evolve; and banks’ market share and profit
+objectives.5 These other influences are far more important for the level of many loan rates – for example, the
+average advertised rate on a £5,000 personal loan, which offers no collateral and has a relatively high risk of
+default, is currently 8.2%.
+
+Chart 1: Bank Rate and effective interest rates on household loans and deposits
+Per cent
+
+Bank Rate
+Loan (stock)
+New mortgage
+Deposit (stock)
+New time deposit
+
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+Source: Bank of England and Bank calculations
+Notes: Stock loan rates include both secured and unsecured lending.
+
+These other influences also vary over time. Loan and deposit rates fell between 2013 and 2016 when Bank
+Rate did not change (Chart 1).6 And new mortgage rates also fell over 2019, shortly after Bank Rate had
+been increased. But holding other influences constant, changes in Bank Rate do tend to feed through to
+changes in rates facing households and businesses. Because other influences are never held constant in
+reality, this ‘pass through’ is often easier to see following large changes in Bank Rate. The clearest recent
+example was the sharp fall in loan and deposit rates in 2008-09, following a 4.5 percentage point cut in Bank
+Rate.
+As with the 2008-09 reductions in positive territory, a cut to negative policy rates would aim to transmit to the
+economy through two main sets of channels: via the banking sector and via financial markets. Through
+banks, a negative rate would aim to lower rates facing households and businesses – most importantly loan
+rates – which would in turn boost consumption and investment spending, income and inflation. A modestly
+negative policy rate would not translate into negative borrowing rates for households and businesses, but
+would intend to lower them compared to a scenario with a positive policy rate. Lower loan rates increase
+
+5
+6
+
+See Button et al (2010) and Cadamagnani et al (2015).
+An important factor here was a fall in banks’ wholesale funding costs from elevated levels during the Euro Area sovereign debt crisis.
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+borrowers’ spending power and encourage them to bring forward consumption and investment, and looser
+borrowing conditions support property prices, in turn stimulating spending via wealth and collateral channels.
+These bank-lending channels would add to transmission from financial-market channels of policy, just as at
+positive policy rates. Lower market interest rates reduce yields on corporate bonds, depreciate the
+exchange-rate and boost equity prices. In turn, a lower corporate cost of capital encourages investment; a
+weaker exchange rate boosts net trade and inflation; and higher asset prices increase wealth and spending.
+When spending is weak and inflation is undershooting our target, the MPC typically lowers policy rates to
+boost jobs and growth, and ultimately return inflation to target, consistent with our remit.
+Despite the similarities, until recently, there was a widely-held view that interest rates could not turn negative.
+Generations of economists were taught in our textbooks that once policy rates fell to zero, interest-rate policy
+could no longer affect the economy.7 We have been conditioned to view zero as a hard constraint – the zero
+lower bound – on policy rates.8 Perhaps as a result, even though many central banks cut rates close to zero
+following the 2008-09 financial crisis, it was several years until any took them below zero (Chart 2).
+
+Chart 2: Advanced economy policy rates
+Per cent
+
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+
+2006
+
+2008
+
+Sweden
+
+2010
+
+Japan
+
+2012
+
+Switzerland
+
+2014
+
+Denmark
+
+2016
+
+Euro Area
+
+2018
+
+2020
+
+UK
+
+US
+
+Source: BIS, ECB and Bank calculations
+Notes. Sweden: repo rate. Japan: target for uncollateralised overnight rate until December 2015; rate on Complementary Deposit
+Facility thereafter. Switzerland: average of SNB target range until June 2019, SNB policy rate thereafter. Denmark: certificate of deposit
+rate. Euro Area: rate on main refinancing operations until May 2012, deposit facility rate thereafter. UK: Bank Rate.US: average of range
+for Fed funds rate.
+
+8
+See Mankiw’s, Principles of Macroeconomics for an example of a discussion in a well-known textbook, or Woodford (2003), for a more
+advanced text.
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+The textbook view was that interest rates could not turn negative owing to the existence of cash. Cash pays
+zero interest at all times, and banks are free to exchange their interest-bearing reserves for it.9
+Consequently, if Bank Rate was negative, banks could avoid having to pay interest by swapping all of their
+reserves for banknotes. Similarly, if bank deposits charged a negative rate – or charged a fee greater than
+any interest paid out – consumers could close their accounts and keep banknotes under the metaphorical
+mattress. In the scenario portrayed in textbooks, even a very slightly negative interest rate would lead
+everyone to demand all of their deposits to be converted into cash.
+What changed was the realisation that the costs of holding cash are significant, especially for large
+depositors or banks.10 While holding a few banknotes is little burden, holding large quantities involves costs
+related to security, storage and convenience. And while in the past cash was usually thought of as a more
+convenient means of payment than deposits, for many the reverse is now true.
+These realisations, along with real-world examples abroad, have made clear that negative policy rates are
+possible. Banks and large depositors are willing to incur interest payments on their holdings to avoid the
+costs of storing and using cash, at least in the short-term, though uncertainty remains about exactly how far
+negative rates could go before large-scale cash hoarding took place.11
+Although there are now several examples abroad, we have never before used a negative policy rate in the
+UK. To many people who remember well the high interest rates of the 1970s and 1980s, when the policy rate
+reached a high of 17%, the low interest rates we have recently experienced may seem like a dramatic
+change. But looking further back, low or even negative interest rates do not actually mark such a huge
+departure. And, I will argue, some of the seemingly high rates in the past were a nominal illusion.
+
+9
+Over the years, many authors have also noted that in principle, different policies or technologies could overcome the zero lower bound.
+See Buiter (2009), Kimball (2015) and Rognlie (2016) for discussions. Suggestions date back to Silvio Gesell’s 1916 idea to tax paper
+currency, which would be equivalent to having a negative interest rate on cash, and so would lower the rate at which people would wish
+to substitute out of interest-bearing deposits. All these solutions amount to either removing or reducing the effective lower bound. This is
+a separate proposition from the experiences we have seen so far in other countries, which have taken the cash constraint as given.
+More recently, Rogoff (2014) and Haldane (2015) have discussed the possibility that at some point in future, it is conceivable that a
+widely-used government issued digital currency could remove the lower bound by facilitating deeply negative rates on deposits.
+10
+Textbooks typically assumed that the lower bound was zero under the current monetary system, although some authors allowed that
+it may be slightly negative, given storage costs for cash, but these were often assumed to be small enough that they could be neglected,
+as in Hicks (1937). McCallum (2000), for example, speculates that interest rates could only be negative by “a few basis points”.
+11
+The answer would likely depend on how long interest rates were significantly negative. Longer periods would incentivise banks to
+invest more in storage facilities. More generally, as discussed earlier, the effective lower bound can be affected by policy decisions.
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+Chart 3: Long-run Bank Rate, sight deposit rate and (ex-post) real interest rates
+Per cent
+
+20
+15
+10
+5
+0
+-5
+-10
+-15
+-20
+-25
+
+1870
+
+1900
+
+Bank Rate
+
+1930
+
+Sight deposit rate
+
+1960
+
+Real Bank Rate
+
+1990
+
+2020
+
+Real sight deposit rate
+
+Sources: Thomas and Dimsdale (2017), Bank of England, ONS, Capie and Webber (1985) and Bank calculations.
+Notes: Bank Rate is year-end rate, sight deposit rate is calendar-year average of monthly rates. To obtain real rates year-on-year
+realised CPI inflation in the subsequent year is subtracted from the relevant nominal interest rate.
+
+Over a longer span of history, there were many previous periods when Bank Rate was set at a low positive
+level (Chart 3). The high nominal interest rates before inflation targeting was adopted were the exceptions
+rather than the rule.12 The dark blue line shows sight deposit rates actually paid to households were typically
+lower still. Moreover, real deposit rates – that is, interest rates adjusted for price inflation, which is the most
+economically meaningful measure – have been negative many times before (light blue line). But many of us
+are prone to money illusion – considering the nominal value of payments, rather than the real value of goods
+and services they can purchase.13 As a result, we may regard negative (real) deposit rates as more unusual
+than they actually are.
+2
+
+Recent trends in global interest rates
+
+An important question is what has caused the trend over the last 40 years towards low and negative interest
+rates in many advanced economies?
+Long-term real interest rates are determined by the balance between global savings and investment.14 They
+have fallen over the past 40 years (Chart 4) because a range of slow-moving factors made desired
+investment fall relative to desired saving.15 These include a fall in productivity growth; greater risk; and
+
+12
+
+Vlieghe (2017) makes the same point for real interest rates.
+For example, see Shafir et al (1997) and Darriet et al (2019).
+14
+The interest rate which balances the amount of global savings and investment over time is known as the trend equilibrium real interest
+rate. A box in the August 2018 Inflation Report discussed the factors which have influenced this in recent years.
+15
+Rachel and Summers (2019) suggest that it has fallen over 300 basis points in a generation.
+13
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+demographics – with people living longer and having fewer children, populations are ageing and need to
+save more for retirement.16
+Chart 4: Ten-year (ex post) real government bond yields
+Per cent
+
+8
+6
+4
+2
+0
+-2
+-4
+-6
+1982
+
+1986
+
+1990
+
+1994
+
+1998
+Germany
+
+2002
+US
+
+2006
+
+2010
+
+2014
+
+2018
+
+UK
+
+Source: FRED, OECD, BIS.
+Notes: Realised CPI inflation in a given year (from BIS) is subtracted from the nominal bond yield in that year (from OECD via FRED).
+
+Ultimately, although central banks can set short-run interest rates, monetary policy has little influence over
+these structural factors. The MPC, like most other monetary policy committees, is guided by its remit to meet
+the inflation target. And so it must take into account these longer-run trends in savings and investment when
+setting short-run interest rates, along with cyclical influences like changes in government spending,
+uncertainty and financial conditions. If desired investment falls persistently, for example, persistently lower
+policy rates are necessary to offset disinflationary pressure, all else equal.
+With short-term interest rates felt to be at their lower bounds, since 2009 many central banks have turned to
+alternative, ‘unconventional policies’ to reduce longer-term interest rates, or prevent them from rising. These
+include quantitative easing and forward guidance about future interest rates. However, when long rates are
+already very low as they are now, and markets are functioning smoothly, my view is that it is difficult to
+reduce long rates any further, so there is little further stimulus to be gained from these tools.17 Of course,
+other MPC members may take different views on these tools and how their effectiveness varies over time. I
+believe that quantitative easing is important in the event of market dysfunction, for example, but also that its
+power mainly lies in helping offset the disruption, rather than providing net additional stimulus to the
+economy.
+16
+
+See Vlieghe (2016) for an elaboration of these points.
+The key constraint is that long rates depend partly on market expectations of future policy interest rates. Hence, if markets think that
+policy rates have a lower bound, then long rates are also likely to be bounded. Introducing negative policy rates would relax this
+constraint.
+17
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+Many of the structural factors that have reduced interest rates are likely to persist. For example,
+demographic trends will not reverse for some time.18 And though I have been optimistic about future
+productivity growth, there has been little to suggest that it will recover to rates above 2%, seen in the thirty
+years to 2007.19 Finally, though the global rollout of a Covid vaccine should gradually lower risks to
+individuals and businesses, perceptions of tail risks – perhaps over future pandemics – are likely to remain
+heightened.20 Moreover, growing risks associated with climate change might add downward pressure to
+risk-free interest rates.21 I therefore think it is crucial that the MPC has in its toolkit other policies that are able
+to effectively boost spending and inflation when needed.
+3
+
+Are negative rates effective? International experience
+
+The debate on negative rates should hinge on whether and under what conditions they are an effective
+policy tool. To answer these questions, we must turn to the experience of advanced economies which have
+actually implemented negative interest rate policy (NIRP): Denmark (from 2012), the Euro Area (from 2014),
+Switzerland (from 2014), Sweden (from 2015-2019) and Japan (from 2016).22 My reading of the literature is
+that:
+
+
+Financial-market channels appear to be unimpeded under negative rates, and some may even be
+stronger than usual.
+
+
+
+While pass-through to household deposit rates can be constrained near zero, pass-through appears
+to be less constrained for corporate deposit rates, which may stimulate spending by firms.
+
+
+
+There is strong evidence of transmission into looser bank lending conditions, even if this is
+somewhat constrained relative to ‘normal’.
+
+
+
+There is no clear evidence that negative rates have reduced bank profits overall, and a number of
+studies find positive impacts, once you take into account the boost to the economy.
+
+
+
+Taking these points together, the evidence suggests that negative rates can provide significant
+stimulus.
+
+18
+
+Indeed, Schmelzing (2020) argues that over several centuries one can observe a gradual ‘suprasecular’ decline in global real interest
+rates of around 1-2 basis points per annum. In a contrasting view, Goodhart and Pradhan (2020) argue that a ‘great demographic
+reversal’ in the coming years will lead to upward pressure on inflation, nominal and real interest rates, for example as the share of the
+population of working age falls back.
+19
+See Tenreyro (2018) for a previous discussion of my views on productivity growth.
+20
+See Vlieghe (2017) for a discussion of the effect of risk on real interest rates.
+21
+Climate change risks might also encourage new investments in green technology, which could limit the impact on the risk-free rate.
+22
+In most cases these dates correspond to the announcement of the first cut below zero for the interest rate on deposits/excess
+reserves held at the central bank – the rate around which interbank lending rates have tended to coalesce in the post-GFC environment
+of substantial central bank liquidity provision. For Sweden the dates correspond to the repo rate.
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+I will now set out the evidence supporting these conclusions. (The casual reader may wish to skip the
+remainder of this section.)
+3.1
+
+Evidence from the literature
+
+I will first examine the financial-market channels of
+
+Chart 5: Five-year nominal government bond yields
+
+monetary policy. In countries with negative rates, a
+
+Germany
+Italy
+UK
+
+wide range of market interest rates have turned
+negative, from short-term interbank lending rates to
+
+Per cent
+
+France
+Japan
+US
+
+4
+3
+
+yields on government bonds (Chart 5) and even
+
+2
+
+23
+
+some corporate bonds. Of course, other factors are
+1
+
+at play here, including the structural forces described
+earlier. But empirical studies which attempt to strip
+
+0
+
+out other factors have found that cuts in policy rates
+into negative territory, if anything, may have a
+greater effect on longer-term yields than normal.24
+And other studies reached a similar conclusion for
+
+-1
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+Sources: Bloomberg Finance L.P and Bank calculations.
+Notes: Zero-coupon spot rates derived from government bond prices.
+
+the impact on exchange rates and equities.25
+This is perhaps unsurprising: there is no obvious reason why these channels would be impaired; the main
+questions about negative rates have related to banking sector channels. But financial-market channels are
+important and should not be overlooked. For example, estimates from the Bank’s suite of models suggest
+that financial market channels - operating via the exchange rate, firms’ cost of capital and households’
+financial wealth – account for a third to two thirds of the total medium-term impact on output from Bank Rate
+changes, and a half to three quarters of the impact on inflation.26
+Turning to the banking sector, I’ll first examine pass-through of policy rates to deposit rates.
+When deposit rates are well above 0% at the time when negative rates are implemented, pass-through of
+policy rate cuts can be material.27 But several studies document that, rather than shifting smoothly into
+
+23
+
+For example, see Arteta et al (2016).
+See Bräuning and Wu (2017) and Rostagno et al (2019). Grisse et al (2017) find evidence that transmission of rate cuts to
+international long rates is stronger the closer the proximity to the perceived lower bound, perhaps due to signalling to traders that the
+floor on policy rates is lower than they previously thought.
+25
+Bräuning and Wu (2017), results of Gräb and Mehl (2015) cited in Eisenschmidt and Smets (2019).
+26
+The range here reflects differences in how persistent the change in Bank Rate is perceived to be: the more persistent the expected
+change, the greater the role of the forward-looking financial market channels.
+27
+A box in the August 2016 Inflation Report documents a positive relationship between the starting level of deposit rates for new
+business and the pass-through of reference rates in a number of European economies over 2013-16. Eggertsson et al (2019) finds a
+similar result for the average rate on Swedish deposits, while Hong and Kandrac (2018) note that Japanese retail deposit rates were
+very low prior to the introduction of NIRP, resulting in less scope for pass-through. Klein (2020) finds no evidence of a slowdown of
+pass-through to deposit rates in the Euro Area over the 2014-18 period overall, but notes that pass-through appears to stall after 2017
+as deposit rates approached zero. Bittner et al (2020) finds that deposit rate pass-through under NIRP was stronger in Euro Area
+countries with higher starting levels of deposit rates.
+24
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+negative territory, the distribution of deposit rates instead ‘piles up’ close to zero, such that pass-through of
+policy rate cuts is reduced.28 The extent of the constraint varies across depositors. As Chart 6 shows,
+average household deposit rates appear to have been bounded below by zero. And within the distribution,
+the share of household deposits receiving negative rates is very small, albeit increasing.29
+In contrast, corporate deposit rates in Denmark and some Euro Area countries have fallen below zero
+(Chart 6), with negative rates more likely to be imposed on larger corporates.30 Banks’ decision to ‘go
+negative’ also seems to depend on the size and expected persistence of negative policy rates. There was
+little pass-through to Euro Area corporate deposits at first, but pass-through increased when policy rates
+went deeper into negative territory.31
+And the modestly negative rates seen on some deposits have not caused demand for cash to spike,
+suggesting that the old textbook model has been superseded.32
+Chart 6: Policy rates and indicative measures of household and corporate deposit rates
+4 Per cent
+3.5
+3
+2.5
+2
+1.5
+
+Policy rates and household deposit rates
+
+Euro Area range
+Sweden
+Japan
+Switzerland
+Denmark
+Euro Area
+UK
+Solid lines: deposit rates
+Dashed lines: policy rates
+
+4 Per cent
+3.5
+3
+2.5
+2
+
+Euro Area range
+Sweden
+Japan
+Switzerland
+Denmark
+Euro Area
+UK
+
+1.5
+
+1
+
+1
+
+0.5
+
+0.5
+
+0
+
+0
+
+-0.5
+
+-0.5
+
+-1
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+
+Corporate deposit rates
+
+-1
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+
+Source: Bank of England, ECB, Danmarks Nationalbank, Riksbank, Bank of Japan, Swiss National Bank and Bank calculations
+Notes: Policy rates defined in notes for Chart 2. Deposit rate definitions: Euro Area, Denmark, Sweden and UK are weighted-average
+interest rate on outstanding stock of MFI deposits. Switzerland: for households, average interest rate on domestic customer deposits, for
+corporates simple average of median interest rate for private clients on a) payment accounts without withdrawal restrictions and b) high
+value (>100,000 CHF) 1 year term deposit. Japan: simple average of a) average posted interest rate on ordinary deposits and b)
+effective rate on low value (<3m Yen) time deposits for households, effective rate on high value (>10m Yen) time deposits for
+corporates.
+
+28
+
+For example Demiralp et al (2019), Eisenschmidt and Smets (2019) and Tan (2019) for the Euro Area.
+In their November 2020 Financial Stability Review, the ECB noted that that the share of household overnight deposits with a negative
+interest rate had reached 7% by September 2020. And Krogrstrup et al (2020) note that in late 2019 Danish banks began applying
+negative rates to household deposits above a certain size.
+30
+See Turk (2016).
+31
+See Altavilla et al (2019).
+32
+See Malinovskaya and Wessel (2016) and Rognlie (2016), for example.
+29
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+Incomplete pass-through to deposit rates has limited direct consequence for households’ saving and
+spending decisions. A fall in deposit rates normally has a modest effect on spending, since while it
+encourages the depositor to bring forward spending rather than save, it also reduces her income, which
+pushes in the other direction.33 Some new studies suggest that for firms, negative rates on corporate
+deposits have even led firms to increase investment and employment.34 Interestingly, they find that charging
+firms for depositing money prompts a stronger response than changing the (positive) level of interest those
+deposits return. This suggests one aspect of the banking channel of negative rates which could be more
+powerful than usual.
+A theoretical paper by Brunnermeier and Koby (2018) has hypothesised that reduced pass-through to
+deposit rates could squeeze banks’ profits and cause a contraction in credit supply.35 Bank profits could fall if
+the return on their assets – for example central bank reserves36 – fell by more than the interest paid on their
+liabilities, which include deposits. In turn, this could affect banks’ willingness or ability to extend credit.
+In my opinion an outright contraction in credit supply in response to negative rates is a remote possibility.
+Since bank funding costs overall should fall – given the presence of significant amounts of non-deposit
+funding, for example – this should create space for banks to reduce loan rates somewhat (and hence boost
+credit supply) while preserving their margins. Competitive pressures may lead banks to cut loan rates by
+more than this, which in turn could reduce bank profits, but this would be consistent with stronger credit
+supply and more stimulus being provided. I would find it highly unlikely that we would see any combination
+where banks would simultaneously reduce their loan rates substantially – such that their profits fell materially
+– while also reducing the supply of credit. More importantly, there is actually strong evidence that
+negative rates lead to looser bank lending conditions, even if some studies find that the transmission
+is somewhat constrained relative to ‘normal’.
+In aggregate, loan rates for households and corporates in different countries have generally fallen since the
+introduction of negative interest rates (Chart 7).37 While there were many factors affecting loan rates over
+this period, the aggregate data suggests that negative rates succeeded in loosening bank lending conditions.
+To examine this more precisely, I turn to the literature.
+
+33
+These opposing income and substitution effects are present in the standard heterogeneous agent model of Kaplan et al (2014) for
+example.
+34
+See Altavilla et al (2019) on the Euro Area, and Abildgren and Kuchler (2020) on Denmark.
+35
+When policy rates go below a certain level, lower profits reduce banks’ capital, which in turn constrains bank lending. This mechanism
+features in the model of Eggertsson et al (2019) also.
+36
+Though central bank reserves tend to comprise a relatively small share of banks’ total assets – e.g. see Chart 8 below - and several
+countries have restricted the proportion of reserves that are subject to negative rates.
+37
+One counterexample is Switzerland, where certain mortgage rates rose after the introduction of negative rates. We shouldn’t
+overweight this, though, since a tightening in macroprudential policy may have contributed to the rise, and lending rates fell back later.
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+12
+
+Chart 7: Policy rates and bank lending rates in negative interest rate countries
+Per cent
+
+Euro Area: loans for house purchase
+
+Per cent
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+2003 2005 2007 2009 2011 2013 2015 2017 2019
+Euro Area range
+Germany
+Spain
+France
+Italy
+Euro Area average
+Policy rate
+Per cent
+
+-2
+2003 2005 2007 2009 2011 2013 2015 2017 2019
+Euro Area range
+Germany
+Spain
+France
+Italy
+Euro Area average
+Policy rate
+
+Denmark
+
+Per cent
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+2003 2005 2007 2009 2011 2013 2015 2017 2019
+Corporate loans
+Loans for house purchase
+Policy rate
+Per cent
+
+Japan
+
+Sweden
+
+-2
+2005 2007 2009 2011 2013 2015 2017 2019
+Corporate loans
+Loans for house purchase
+Policy rate
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+2003 2005 2007 2009 2011 2013 2015 2017 2019
+Total lending rate
+Policy rate
+Housing loans
+
+Euro Area: corporate loans
+
+Per cent
+
+Switzerland
+
+-2
+2003 2005 2007 2009 2011 2013 2015 2017 2019
+Policy rate
+10 year fixed rate mortgage
+
+Sources: ECB, Danmarks Nationalbank, Riksbank, Bank of Japan and Swiss National Bank
+Notes: Stalks show the beginning of the NIRP period in each region. In Denmark there are two periods, separated by a brief period
+of low but positive policy rates in 2014. Policy rates defined in notes to Chart 2. Lending rates are centred three month moving
+averages. Euro Area, Denmark and Sweden: Interest rates on all new MFI business to non-financial corporations and loans to
+households for house purchase (total household lending for Sweden). Using only the three-month maturity lending rate, as
+suggested by Erikson and Vestin (2019), gives similar results. Japan: average contract interest rate on discounts and loans (shortterm and long-term) and interest rate on housing loans from City banks. Switzerland: 10-year fixed mortgage rate.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+13
+
+Several euro area studies have found that negative rates lowered loan rates and stimulated credit growth.38
+There is debate over the extent: for example, some found normal levels of pass-through39 while others find
+some pass-through but less than normal. 40 All results demonstrate that there is stimulus through the banking
+sector.41 For Sweden, studies agree that the Riksbank’s initial cuts into negative territory were passed
+through to mortgage rates, but disagree on the extent of pass-through of subsequent rate cuts.42
+One identification challenge is that negative rates were implemented to combat disinflationary shocks, and it
+is difficult to control for the impact of these shocks in empirical studies.43 That might suggest putting more
+weight on certain countries’ experience. For example, negative rates were implemented in Denmark to stem
+upward pressure on the exchange rate, in keeping with the DNB’s fixed exchange rate target. Since the
+shock was largely external to Denmark44 the Danish experience is more of a ‘natural experiment’ that can
+better support causal claims. In Denmark, pass-through has been positive, providing stimulus to the
+economy, although slower than ‘normal’.45
+Another approach, carried out in a recent paper by Ulate (2021), uses a global sample of data, which allows
+the author to use countries with low but positive policy rates as a control group. It finds significant
+pass-through for loan rates even as deposit rate pass-through was constrained.46
+The most popular method has been to compare outcomes for banks that are more ‘exposed’ to negative
+rates relative to others. For example, several studies have used a bank’s reliance on deposits as a proxy for
+exposure. By comparing across banks, authors have a better chance of making causal claims about the
+impact of negative rates on bank behaviour, although the aggregate implications can be harder to interpret.
+As the green entries in Table 1 show, many studies have concluded that more exposed banks had stronger
+credit supply responses than others, both in terms of a greater quantity of lending, and by lending to riskier
+borrowers. The latter finding suggests that the stimulus provided may be similar to the ‘risk-taking channel’ of
+monetary policy also proposed at positive rates.47 In my view, these results are striking, and strongly refute
+the concerns around banking sector transmission. Other studies (shown in grey) find little difference across
+38
+
+In this context, credit growth is being used as a summary statistic. If negative rates were found to have less of an impact on aggregate
+credit growth than ‘usual’ that might suggest that some combination of lower loan rate pass-through, less loosening of non-price terms,
+or less of a response of borrower demand to easier borrowing conditions, though some studies do attempt to control for the latter.
+39
+Eisenschmidt and Smets (2019) and Horvath et al (2018). Klein (2020) found a larger impact on loan rates relative to normal, while
+Bräuning and Wu (2017) found a larger impact on loan rates and credit growth at longer maturities.
+40
+Altavilla et al (2019) found loan rate pass-through to be significant though constrained, though their focus is on deposit rates.
+41
+And the banks themselves agree. As reported in Boucinha and Burlon (2020), a net balance of respondents to the ECB’s Bank
+Lending Survey also report that in absolute terms NIRP resulted in higher credit growth and, particularly, lower loan rates.
+42
+See Eggertsson and Summers (2019) and Erikson and Vestin (2019). The debate centres around whether to attribute falls in effective
+mortgage rates between 2016H2-2018 to lagged pass-through of the cuts in the repo rate in 2015H2-2016H1.
+43
+This would bias studies against finding a boost from bank-lending channels.
+44
+For example, you might think that disinflationary shocks in the Euro Area would have little effect on Danish loan rates.
+45
+See Adolfsen and Spange (2020). One complication is that the structure of the Danish banking system is different to the UK –
+differences across countries are discussed in the next section.
+46
+In a recent blogpost, Beauregard and Spiegel (2020) use a similar approach and find that credit growth was significantly stronger in
+NIRP countries after one year, but weaker after two to three years
+47
+Borio and Zhu (2012).
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+14
+
+banks, which provides little reason to believe transmission is constrained. The picture is not completely
+uniform. A small number of studies (shown in red) find that more exposed banks are likely to have had a
+weaker credit supply response than others, at least along certain margins. Although even if more exposed
+banks do cut loan rates by slightly less, for example, it does not follow that aggregate pass-through is zero.
+Finally, some studies examine the impact on bank profits. As mentioned earlier, bank profits do not need to
+rise in order for negative rates to provide stimulus. Indeed, a reduction in banks’ net interest income – the
+difference between the interest banks earn on their assets and pay out on their liabilities - is likely to signify
+strong pass-through to loan rates, which should boost spending. However, a sharp deterioration in bank
+profits could conceivably affect financial stability, or cause credit supply to tighten later on.
+There is little clear evidence that negative rates have reduced bank profits overall,48 49 and a number of
+studies find positive impacts,50 once you take into account the boost to the economy provided by the
+stimulus.51 Banks’ profits come from a range of sources, each of which may be affected differently by
+negative rates. On the one hand, several studies find that one such component - banks’ net interest income tends to fall when policy rates go negative.52 That said, some find that even that hit is partially mitigated by
+lower non-deposit funding costs and stronger credit volumes, while increases in risk-taking may also have
+helped. Most importantly, the fall in banks’ net interest income tends to be offset elsewhere, for example by
+reduced loan losses, which is in turn consistent with looser monetary policy boosting the economy and
+raising borrowers’ incomes.53 When taken together, the evidence here suggests that banks overall are not
+harmed by negative rates, while the economy benefits.
+The way negative rates were implemented may also have helped banks to maintain profitability. For
+example, in many cases some portion of banks’ reserves was exempted from negative rates, also known as
+“tiering” (though this did not happen in the Euro Area until 2019), while the ECB’s TLTRO (similar to the
+Bank’s Term Funding Scheme) helped lower bank funding costs.54
+
+48
+Due to a formatting error, this paragraph and the subsequent one were missing from the originally published draft of this speech. They
+were added on 8 February 2021.
+49
+See Strasky & Hwang (2019) for the Euro Area, Hong & Kandrac (2018) for Japan and Lopez et al (2020) for a global sample. In a
+recent blog, Beauregard and Spiegel (2020) find little impact on profits initially, but a negative impact on profits after a few years, using a
+global sample of banks – however, these results do not control for local economic conditions.
+50
+See Rostagno et al (2019) for the Euro Area, and Basten & Mariathasan (2018) for Switzerland.
+51
+A number of other studies have investigated the impact of low interest rates, but not specifically negative rates. For example, while
+Borio et al (2017) find that low interest rates reduce bank profits, Claessens et al (2018) find no significant effect on profitability overall,
+although the effects appear to become more negative over time. Altavilla, Boucinha and Peydró (2018) find that lower rates are broadly
+neutral for total bank profits after controlling for expected future economic conditions, while a prolonged period of low rates does have a
+direct negative effect on profits but this is counterbalanced by improved macroeconomic conditions.
+52
+In addition to the papers looking at overall profitability, Klein (2020) focuses specifically on net interest margins and finds a negative
+effect from NIRP. The picture on net interest income is not uniform, however, with Basten & Mariathasan (2018) and Tan (2019) finding
+positive and insignificant effects, respectively, for banks more exposed to negative rates.
+53
+Another channel emphasised in the theoretical literature is capital gains on security holdings resulting from lower policy rates – though
+this will only flow through to banks’ accounting profits if securities are marked to market which tends to be the case only for a minority
+(Altavilla, Boucinha and Peydró 2018).
+54
+See Saunders (2020) for more discussion of these options.
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+15
+
+Interestingly, a number of studies55 – though not all56 – find that bank equities tend to fall after policy rate
+cuts below zero are announced. That seems at odds with the more sanguine results on bank profitability.
+One interpretation is that financial markets initially focussed on net interest income, but did not initially
+account for the indirect boost to profits from negative rates arising from improvements in other sources of
+income. Weakness in bank equity prices after the initial implementation of negative rates could also reflect
+an adjustment to a weaker economic outlook, if central banks were perceived to have better information
+about the state of the economy, and negative rates were seen to signal a particularly large deterioration.57
+
+55
+
+For example, Ampudia and van den Heuvel (2019) and Bats et al (2020) find that Euro Area bank equity prices have tended to fall in
+response to surprise reductions in short rates under NIRP, which wasn’t the case when interest rates were higher. Hong and Kandrac
+(2018) show that bank equity prices fell materially upon the announcement of NIRP in Japan, which they argue was largely unexpected.
+And Eggertsson et al (2019) find that Swedish bank equities tended to underperform relative to the broader stock market on the days of
+negative rate announcements.
+56
+Altavilla et al (2018) find that falls in short rates and flattening of the yield curve led to higher bank equity prices on the days when
+unconventional policy measures were announced, including but not limited to NIRP.
+57
+See, for example, Romer and Romer (2000) or Nakamura and Steinsson (2018) for evidence of the presence of central-bank
+information effects.
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+16
+
+Table 1: Micro data evidence on bank-lending channels: Response of more exposed relative to less exposed banks
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+17
+
+4
+
+What other factors might influence how negative rates work?
+
+While we now have a considerable body of evidence on negative rates from other countries, this is
+nevertheless drawn from a relatively small number of experiences compared to changes at positive policy
+rates. Hence, as it does for all policies, the MPC has discussed various factors that might affect the
+transmission of negative rates, were they to be implemented here. The MPC set out its collective view on
+some of these factors in the August 2020 Monetary Policy Report. In this section I will set out my own
+perspective.
+There are many reasons why monetary policy transmission (or policy multipliers) can vary across countries
+and over time. These differences apply to varying extents to all policies. For example, last year
+Governor Bailey discussed why the effects of quantitative easing were likely to depend on the circumstances
+under which it was used.58 And I have previously highlighted that in the UK interest rates affect inflation more
+quickly than in the past.59 So it would not be surprising if some features of the UK economy, at a given point
+in time, might influence exactly how negative rates operate here.
+Potentially relevant features include the composition of bank balance sheets; differences in openness across
+economies; the size and composition of household debt, and the quantitative relevance of market-based
+finance in the economy. Importantly, many of these features are not fixed – they can vary over time,
+including in response to policy changes.
+Most of these differences also affect policy transmission at positive rates. For example, the UK is a relatively
+small and open economy, so one would expect the exchange-rate effects of monetary policy to be stronger
+than in larger, less open economies such as Japan, but weaker than in Switzerland, for example. Compared
+to the euro area, the UK CPI basket is more import intensive, which would lead to a greater direct impact of
+exchange-rate changes on inflation, all else equal.60 And UK corporates use a relatively large share of bond
+market financing, suggesting that the cost-of-capital channel may be more powerful in the UK.61
+Another difference is that UK households have more debt, and a larger share of floating-rate and
+shorter-term fixed-rate mortgages, compared with much of Europe62 (Chart 8). On the one hand, this would
+suggest a stronger ‘cash flow’ channel of monetary policy in the UK, with more borrowers benefitting
+
+58
+
+See Bailey (2020) and Bailey et al (2020), who echoed Vlieghe (2018).
+See Tenreyro (2019), Cloyne and Hürtgen (2016) and Cesa-Bianchi et al (2020).
+60
+Differences in economies’ size may also be important, if exporters in a smaller economy are likely to have less market power over
+prices on the global market, such that more of the adjustment from a move in the exchange rate will come via volumes rather than
+prices. See Broadbent (2017) for a broader discussion of the adjustment of UK exporters to the exchange rate.
+61
+As of 2019, debt securities comprised 8% of total corporate (PNFC) liabilities in the UK, compared to 4% for corporates (NFC) in the
+Euro Area, for example.
+62
+In 2019, the UK household debt to GDP ratio was 84%, compared to 58% in the Euro Area. And as of 2020 Q3, floating rate and
+fixed-rate mortgages of five years of less together comprised 98% of the outstanding stock and 98% of the flow of new business in the
+UK, compared to 24% of the flow in the Euro Area (stocks data not published).
+59
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+18
+
+relatively quickly when interest rates are cut.63 On the other hand, the sizeable share of outstanding
+mortgages on floating rates could mean some of the costs to banks’ net interest income are more
+front-loaded than the benefits.
+Other cross-country differences may be relevant only at negative or near-zero interest rates.64 The largest
+UK banks currently fund more of their household and small business lending with household deposits than
+do banks in some other countries, including the euro area (Chart 8). The level of deposit rates at the time of
+cutting to negative rates has also differed across countries, and within countries compared to later cuts.65 If
+other funding costs were to fall in line with Bank Rate, but as in Europe, banks did not cut household deposit
+rates below zero, then this could lead to differences in transmission. All else equal, a larger share of
+household deposit funding would require that to maintain unchanged net interest income, banks would also
+have to cut lending rates by slightly less.66 With an increase in aggregate (and loan) demand and lower
+impairments from a stronger macroeconomic outlook, this could still imply a boost to bank profitability,
+relative to the counterfactual of no policy change. If banks chose to pass-through less of the cut, this would
+suggest a little less stimulus via the banking sector.
+The effects of such cross-country differences in transmission are difficult to estimate precisely, both because
+they depend on prevailing balance sheets at the time, and crucially, on how the banking system adapts in
+response. As an example of how balance sheets can change, UK banks have markedly increased their
+share of retail funding since the 2008 financial crisis.67 More recently, they have also substituted away from
+more expensive time deposits into sight deposits such as current accounts. If the introduction of negative
+rates changed the relative costs of different sources of funding, banks may be able to adjust their funding mix
+or maturity over time in a way that maximised profitability, subject to ring-fencing and other prudential
+requirements on banks to maintain stable funding bases.
+Banks have also used other strategies in the past and in other countries to maintain profitability, which they
+could potentially turn to again, although perhaps only if negative rates had to be used more often in future.
+For example, some UK banks have charged fees on some of their deposit accounts for several years –
+Chart 9 shows the interest-rate equivalent of these fees has varied over time. In Denmark, which has
+experienced negative rates for several years, some banks have chosen to set a modest negative rate on
+larger deposits. Given the skewed distribution of household deposit holdings in the UK, even charging
+
+63
+
+For example, see Calza et al (2013).
+Ramsden (2020) also highlights some of these differences.
+65
+The current level of sight deposit rates in the UK is lower than it was in the euro area when negative rates were first implemented
+there, although more similar for the most recent cut. It is higher than it was for later cuts, and it is higher than in some other countries
+when negative rates were introduced.
+66
+As pointed out in the August 2020 Monetary Policy Report, smaller banks and building societies are generally most exposed to this
+risk in the UK. See Saunders (2020) for more discussion on how banks might choose to react.
+67
+The introduction of ring-fencing for the largest UK banks has also increased the share of deposits used to fund household and small
+business lending. Chavaz and Elliot (2020) estimate that this has reduced the cost of credit for households, which in turn increased risk
+taking by some smaller banks.
+64
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+19
+
+negative rates on only a small proportion of accounts with large deposits above a certain value could enable
+banks to significantly reduce their funding costs.
+In all, there are many ways banks might respond to further cuts in policy rates other than limiting
+pass-through to lending rates. And even if they opted not to fully pass on cuts to lending rates at first, this
+would only offset part of the stimulus from lending channels, and would leave the rest of the transmission
+mechanism unaffected.
+Chart 8: Euro Area and UK bank balance sheets
+Euro Area
+Assets
+
+Liabilities
+
+Chart 9: UK current account fees
+Corporate
+
+UK (ring-fenced)
+Assets
+
+Liabilities
+
+Annualised interest
+rate equivalent,
+per cent
+0.8
+
+Household
+
+0%
+
+Household (excluding overdraft
+charges)
+
+0.7
+0.6
+
+50%
+
+0.5
+0.4
+100%
+Capital
+Other liabilities†
+Other funding including wholesale
+NFC deposits
+Household deposits
+
+0.3
+Other assets*
+NFC loans
+Consumer credit
+Mortgages
+Cash and Reserves
+
+Sources: Bank of England, ECB and Bank calculations
+* Includes interbank loans, other financial loans, external loans,
+equities, derivatives, debt securities.
+† Other liabilities include provisions and tax liabilities.
+Sources: Regulatory returns, ECB consolidated banking data.
+Notes: 2019 Q4 balance sheets. UK data for ring-fenced banks
+only.
+
+0.2
+0.1
+0
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+Sources: Bank of England and Bank calculations
+Notes: Interest rate equivalents calculated by dividing banks’
+current account fee income by total deposits from that sector (M4
+measure) and annualising. Data for corporates (private nonfinancial corporations) includes overdraft charges.
+
+More generally, the effects of any monetary policy are likely to depend on the cyclical conditions at the time
+the policy is introduced. My own research has found that US monetary policy is less powerful during
+recessions, when it is needed most, than during upswings.68 But with few experiences to go on, there is little
+evidence about the presence or otherwise of these effects for negative policy rates.
+One factor is that banks’ balance-sheet positions also vary over the cycle, which could potentially interact
+with negative interest rates. Banks are likely to be in a somewhat weaker position over the next few years
+due to the Covid-induced downturn. At the same time, the UK banking sector went into the Covid crisis
+having increased capital ratios markedly over the past decade, in large part in response to actions taken by
+the Bank’s FPC and PRC.
+To think through the potential effects, one can compare the effects of negative rates on banks with different
+initial financial positions. Some studies have found that in Europe, banks with weaker financial positions were
+68
+
+Tenreyro and Thwaites (2016).
+20
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+20
+
+more likely to restrict pass-through to deposit rates69 or tighten some non-interest terms,70 in response to
+negative rates. But others obtained opposing71 or inconclusive72 results.
+We may also be able to learn from recent experience of interest rate policy in the UK. Although there are no
+past examples of negative policy rates, the MPC voted in March 2020 to cut Bank Rate from 0.75% to 0.1%.
+Since there is no clear discontinuity at zero in the demand for cash, and since deposit rates facing
+households are typically lower than the policy rate itself, then any differences in transmission at negative
+rates should also be somewhat evident at low, positive policy rates.
+My reading is that the cut in Bank Rate has so far worked as expected. The financial-market channels of
+policy appear to be operating normally. And there has been significant pass-through to a range of
+commercial bank interest rates (Chart 10). These include rates on existing variable-rate mortgages, on new
+corporate loans, and on deposits.73 The rates on new fixed-rate mortgages at low (60%) loan-to-value (LTV)
+rates have ended the year broadly flat, though these are less directly linked to Bank Rate, and had already
+fallen around 30 basis points over 2019. Very strong demand for new mortgages, coupled with difficulties
+processing high volumes of business, have also pushed up on these rates this year.74 (Chart 11 shows the
+sharp increase in house-purchase approvals, boosted by the temporary stamp-duty holiday and pent-up
+demand following lockdown, which have triggered a thick-market effect.75) Consistent with that, low LTV
+mortgage rates rose slightly after the first lockdown ended, before falling back recently.
+Chart 10: Changes in risk-free reference rates and
+
+Chart 11: Mortgage rates and approvals
+
+bank interest rates
+Change in rate since February 2020
+-150 -100
+
+-50
+
+0
+
+50
+
+100
+
+150
+
+Thousands per month
+
+Per cent
+4
+
+200
+
+100
+Bank Rate
+2-year OIS
+
+3
+
+80
+60
+
+2
+
+New time deposits, individuals (1)
+Existing floating rate mortgage (1)
+
+40
+
+New mortgage rate: 2yr fix, 60% LTV (2)
+
+20
+
+New mortgage rate: 2yr fix, 90% LTV (2)
+New floating rate corporate loan (1, 3)
+
+Sources: Bank of England and Bank calculations
+(1) Effective interest rates, from Bankstats table G1.4
+(2) Quoted interest rates, from Bankstats table G1.3
+(3) Private non-financial corporations
+
+1
+
+0
+
+0
+2018
+
+2019
+2020
+Approvals for house purchase (left-hand scale)
+2-year fix, 60% LTV (right-hand scale)
+2-year fix, 90% LTV (right-hand scale)
+
+Sources: Bank of England and Bank calculations
+
+69
+
+See Altavilla et al (2019).
+See Arce et al (2018).
+71
+For example, see Basten and Mariathasan 2018, Grandi and Guille (2020) and Tan 2019.
+72
+Bottero et al (2020). Bittner (2020) found that banks with lower equity ratios expanded credit by more in Portugal – where the starting
+level of deposit rates was well above zero – but had no significant effect in Germany.
+73
+Rates on sight deposits such as current accounts, which were already close to zero, have fallen by somewhat less than Bank Rate.
+74
+See the November 2020 Monetary Policy Report for more details.
+75
+See Ngai and Tenreyro (2014).
+70
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+21
+
+Monetary policy has also been anticipating and acting against a Covid-related tightening in credit conditions
+for high LTV borrowers (i.e. with smaller housing deposits). These products provide lenders with less
+collateral, putting them at greater risk of losses. With uncertainty over the outlook for house prices, and a risk
+of more mortgage defaults as unemployment rises, lenders’ perceptions of likely losses on these loans have
+increased, leading them to increase rates sharply or withdraw products entirely (Chart 11). But absent looser
+policy, and the associated boost to incomes and employment, credit conditions would likely have tightened
+even more for these borrowers.
+My overall assessment is that, while we can never have complete certainty, negative interest rates
+should with high likelihood boost UK growth and inflation. Cutting Bank Rate to its record low of 0.1%
+has helped loosen lending conditions relative to the counterfactual (of no policy change), and I believe
+further cuts would continue to provide stimulus. It is possible that bank-lending channels impart slightly less
+stimulus relative to experiences in other countries, at least initially, but I would consider it as very unlikely
+that we do not see any boost to lending. There are also several ways in which banks would be able to adapt
+to mitigate any hit to net interest income, while overall profitability would be supported by the boost to
+demand and the associated falls in provisions, relative to the counterfactual of no policy stimulus. There is
+little reason to suspect that the financial-market channels of monetary policy, which our models suggest are
+quantitatively important, would operate differently to normal.
+5
+
+Economic outlook
+
+As in 2020, the economic outlook for the UK in 2021 will depend overwhelmingly on the path of the Covid-19
+pandemic, both at home and abroad. Since the last MPC forecast (published in early November), we have
+had positive news on vaccines, which has been tempered by the intensification of the current wave of Covid.
+Altogether, this will imply a worse near-term outlook than anticipated in November, before the economy
+starts a now less uncertain recovery later in 2021. Both the speed and the extent of the recovery will hinge
+crucially on how households, businesses and economic policy respond to the continued effects of the virus.
+The latest manifestation of the virus’s economic effects is the renewed national lockdown brought in last
+week in England, with similar measures also in place in Wales, Scotland and Northern Ireland. The precise
+path of output over 2020 Q4 and 2021 Q1 will be determined by the timing and extent of these lockdown
+measures. We will see headline-grabbing negative growth numbers, followed by large positive ones when
+the economy is able to reopen. Crucial for jobs, incomes and inflation will be the level of output we recover to
+later in the year, rather than the changes in the interim.
+After current restrictions are relaxed, the speed and the extent of the output recovery will depend on how
+vaccine rollout and other public health policies affect the pandemic, and on how the behaviour of households
+and companies responds to those developments. As high-risk groups are vaccinated and mortality falls,
+22
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+22
+
+there is likely to be a reduction in voluntary and mandated social distancing, which will help consumption
+recover some way towards its pre-Covid level. But there are factors that will act to slow and limit any
+recovery, which policy must take into account.
+First and foremost, until vaccination is widespread across the population at home and abroad, there is likely
+to be a limit to how far activity can recover in some sectors. Spending in high social-contact sectors is likely
+to continue to increase virus prevalence, particularly given the more transmissible new strain. Moreover,
+even if the UK continues to vaccinate more quickly than most countries, slower rollout in any of our trading
+partners will weigh on activity here, especially in sectors such as tourism.
+Further ahead, even as fear of the virus subsides, the differing effects it has had across different parts of the
+economy will constrain spending. Some households have built up a large stock of enforced savings during
+lockdowns, when they couldn’t spend on services such as hospitality. While this will create some pent-up
+demand, it is likely to be released only gradually – consuming many of these services requires time – limiting
+the speed of any rebound. And many other households, often low-income to start with, have suffered falls in
+income through unemployment or lower working hours, which will translate into lower spending. Many more
+households, as well as businesses, may choose to maintain a higher buffer of savings in future or pay down
+debt, while job and revenue uncertainty persists.
+Adding to the uncertainty, structural changes to the way we consume and work may be partly here to stay.
+Consumers have learnt that many goods and services can be purchased as easily online. Workers and firms
+have learnt that commutes and rental costs can be efficiently reduced with more remote working. With fewer
+days of office work, transport and complementary consumption will fall and, with them, employment in those
+activities will also fall. The speed of labour reallocation, and the extent of business failures, will play crucial
+roles in determining how much these effects spill over into other sectors, higher unemployment and weaker
+aggregate demand.
+
+So far, fiscal policy, especially the government’s Job Retention Scheme, has helped to prevent a much larger
+increase in unemployment. The successful development of vaccines should also have given many badly
+affected firms confidence in their viability, since where demand substitution and business closures are
+temporary, demand should at some point be able to return. But the labour market has nonetheless loosened
+significantly.76 In addition, the resurgence in the virus and related downturns are likely to mean significantly
+more job losses still to come. For some sectors, despite fiscal support schemes, the cumulative revenue loss
+is likely to lead to business failures.
+
+76
+
+The official unemployment rate had risen to 4.9% in October, ahead of the second national lockdown, and measurement difficulties
+mean these data were likely to be understating its true rate. Separate HRMC data were consistent with unemployment already being
+above 6%.
+23
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+23
+
+While fiscal policy is the main actor in this crisis, monetary policy also has a role to play in supporting the
+economy, consistent with our mandate. In the near-term, it can stimulate demand in sectors still able to
+operate during the lockdown; support cash flow and help keep borrowing costs low for businesses and
+households. These effects should help limit insolvencies and job losses, reducing scarring to the economy’s
+potential output in future.
+The policy measures that limit scarring are also essential to bring inflation back to target. At present we have
+a very large degree of spare capacity, so there is no short term trade-off between our objectives. As the
+vaccine is rolled out, we will see some pick-up in demand, which should use up some capacity and reduce
+the disinflationary pressures from the pandemic. But even as we recover ground, we should not forget that
+disinflationary pressures predated Covid – core inflation has now been below 2% for 27 consecutive months,
+and for 80% of the past seven years.
+Importantly, in my view, the speed with which we eliminate spare capacity, and the scale of the rise in
+unemployment, will depend on policy. All else equal, looser monetary policy can help the economy recover
+faster, bringing inflation back to target, while also preventing some of the job losses and business failures
+that could otherwise reduce potential output in future. The MPC has given guidance that policy will not be
+tightened before there is clear evidence that significant progress is being made in eliminating spare capacity
+and achieving the inflation target sustainably. It is possible that more stimulus be needed to do so at an
+appropriate pace. If that is the case, having negative rates in our toolbox will, in my view, be important.
+
+24
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+24
+
+References
+Abildgren, K., and A. Kuchler (2020), “Do firms behave differently when nominal interest rates are below
+zero?”, Danmarks Nationalbank Working Paper No. 164.
+Altavilla, C., M. Boucinha and J. L. Peydró (2018), “Monetary policy and bank profitability in a low interest
+rate environment”. Economic Policy, 33(96), 531-586.
+Altavilla, C., M. Boucinha, S. Holton and S. Ongena (2018), “Credit supply and demand in unconventional
+times”, ECB Working Paper No. 2202.
+Altavilla, C., L. Burlon, M. Giannetti and S. Holton (2019), “Is there a zero lower bound? The effects of
+negative policy rates on banks and firms”, ECB Working Paper No. 2289.
+Ampudia, M., and S. J. Van den Heuvel (2018), “Monetary policy and bank equity values in a time of low
+interest rates”, Finance and Economics Discussion Series 2019-064, Board of Governors of the Federal
+Reserve System.
+Amzallag, A., A. Calza, D. Georgarakos, and J. Sousa (2019), “Monetary policy transmission to mortgages
+in a negative interest rate environment, ECB Working Paper No. 2243.
+Arce, O., M. García-Posada, S. Mayordomo and S. Ongena (2018), “Adapting lending policies when
+negative interest rates hit banks’ profits”, Working Papers, No. 1832, Banco de España.
+Arteta, C., M. A. Kose and T. Taskin (2016), “Negative interest rate policies: Sources and implications”,
+Policy Research Working Paper 7791, The World Bank.
+Bailey, A. (2020), “The central bank balance sheet as a policy tool: past, present and future”, speech given
+at Jackson Hole Economic Policy Symposium, available at
+https://www.bankofengland.co.uk/speech/2020/andrew-bailey-federal-reserve-bank-of-kansas-cityseconomic-policy-symposium-2020.
+Bailey, A., J. Bridges, R. Harrison and A. Makodi (2020), “The central bank balance sheet as a policy tool:
+past, present and future”, Paper prepared for the Jackson Hole Economic Policy Symposium, available at
+https://www.bankofengland.co.uk/-/media/boe/files/paper/2020/the-central-bank-balance-sheet-as-a-policytool-past-present-and-future.pdf.
+Basten, C., and M. Mariathasan (2018), “How banks respond to negative interest rates: Evidence from the
+Swiss exemption threshold”, CESifo Working Paper Series 6901.
+Bats, J., M. Giuliodori and A. Houben (2020), “Monetary policy effects in times of negative interest rates:
+What do bank stock prices tell us?”, DNB Working Paper 694.
+Bean, C. (2013), letter to Andrew Tyrie on negative interest rates, available at
+https://www.bankofengland.co.uk/letter/2013/charles-bean-negative-interest-rates-may-2013.
+Beauregard R. and M. M. Spiegel (2020), “Commercial Banks under Persistent Negative Rates”, FRBSF
+Economic Letter.
+Bittner, C., D. Bonfim, F. Heider, G. Saidi, G. Schepens and C. Soares (2020), "Why so negative? The
+effect of monetary policy on bank credit supply across the euro area", unpublished working paper.
+Borio, C., L. Gambacorta, and B. Hofmann (2017), “The influence of monetary policy on bank
+profitability”, International Finance, 20(1), 48-63.
+
+25
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+25
+
+Borio, C. and H. Zhu (2012), “Capital regulation, risk-taking and monetary policy: a missing link in the
+transmission mechanism?” Journal of Financial Stability 8(4): 236-251..
+Bottero, M., M. C. Minoiu, J. L. Peydró, A. Polo, M. A. F. Presbitero, and E. Sette (2019), “Negative
+monetary policy rates and portfolio rebalancing: Evidence from credit register data”, IMF Working Paper No.
+19/44.
+Boucinha, M., and L. Burlon (2020), “Negative rates and the transmission of monetary policy”, ECB
+Economic Bulletin Articles, 3/2020.
+Bräuning, F., and B. Wu (2017), “ECB monetary policy transmission during normal and negative interest
+rate periods”, available at SSRN 2940553.
+Broadbent, B. (2017), “Brexit and the pound”, speech given at Imperial College, available at
+https://www.bankofengland.co.uk/speech/2017/brexit-and-the-pound.
+Brunnermeier, M. K., and Y. Koby (2018), “The reversal interest rate”, NBER Working Paper No. 25406.
+Bubeck, J., A. Maddaloni, and J. L. Peydró (2020), “Negative monetary policy rates and systemic banks’
+risk-taking: evidence from the euro area securities register”, Working Papers 1128, Barcelona Graduate
+School of Economics.
+Buiter, W. H. (2009). "Negative nominal interest rates: Three ways to overcome the zero lower bound," The
+North American Journal of Economics and Finance, vol. 20(3), pages 213-238.
+Button, R., S. Pezzini and N. Rossiter (2010), “Understanding the price of new lending to
+households”, Bank of England Quarterly Bulletin, 2010 Q3, available at
+https://www.bankofengland.co.uk/quarterly-bulletin/2010/q3/understanding-the-price-of-new-lending-tohouseholds
+Cadamagnani, F., R. Harimohan, and K. Tangri (2015), “A bank within a bank: how a commercial bank's
+treasury function affects the interest rates set for loans and deposits”, Bank of England Quarterly Bulletin,
+2015 Q2, available at https://www.bankofengland.co.uk/quarterly-bulletin/2015/q2/a-bank-within-a-bank-howa-commercial-banks-treasury-function-affects-the-interest-rates-set-for.
+Calza, A., T. Monacelli and L. Stracca (2013), “Housing finance and monetary policy”, Journal of the
+European Economic Association, 11 (Supplement 1), 101-122.
+Cesa-Bianchi, A., G. Thwaites and A. Vicondoa (2020), “Monetary policy transmission in the United
+Kingdom: A high frequency identification approach”, European Economic Review, 123, 103375.
+Claessens, S., N. Coleman, and M. Donnelly (2018), “Low-For-Long” interest rates and banks’ interest
+margins and profitability: Cross-country evidence”, Journal of Financial Intermediation, 35, 1-16.
+Cloyne, J., and P. Hürtgen (2016), “The macroeconomic effects of monetary policy: a new measure for the
+United Kingdom”, American Economic Journal: Macroeconomics, 8(4), 75-102.
+Chavaz, M., and D. Elliot (2020), “Separating retail and investment banking: evidence from the UK”, Bank of
+England Staff Working Paper No. 892.
+Darriet, E., M. Guille, J. C. Vergnaud and M. Shimizu (2020), “Money illusion, financial literacy and
+numeracy: Experimental evidence”, Journal of Economic Psychology, 76, 102211.
+Demiralp, S., J. Eisenschmidt and T. Vlassopoulos (2019), “Negative interest rates, excess liquidity and
+retail deposits: Banks’ reaction to unconventional monetary policy in the euro area”, ECB Working Paper No.
+2283.
+26
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+26
+
+ECB (2020), Financial Stability Review, November 2020.
+Eggertsson, G. B., and L. H. Summers (2019), “Negative interest rate policy and the bank lending
+channel”, VoxEU.
+Eggertsson, G. B., R. E. Juelsrud, L. H. Summers and E. G. Wold (2019), “Negative nominal interest
+rates and the bank lending channel”, NBER Working Paper. No. 25416.
+Eisenshmidt, J., and F. Smets (2019), “Negative interest rates: Lessons from the euro area”, Series on
+Central Banking Analysis and Economic Policies no. 26.
+Erikson, H., and D. Vestin (2019), “Pass-through at mildly negative policy rates: The Swedish
+case,” Sveriges Riksbank Staff Memo, 1-32.
+Gambacorta, L. (2009), “Monetary policy and the risk-taking channel”, BIS Quarterly Review December
+2009.
+Goodhart, C. and M. Pradhan (2020), “The Great Demographic Reversal: Ageing Societies, Waning
+Inequality and an Inflation Revival”, Springer Nature.
+Grandi, P., and M. Guille (2020), “The Upside Down: French Banks, Deposits and Negative Policy Rates”,
+mimeo.
+Grisse, C., S. Krogstrup and S. Schumacher (2017), “Lower bound beliefs and long-term interest rates”,
+IMF Working Paper No. 17/62.
+Haldane, A. (2015), “How Low Can You Go?”, speech given at the Portadown Chamber of Commerce,
+Northern Ireland, available at https://www.bankofengland.co.uk/speech/2015/how-low-can-you-can-go
+Heider, F., F. Saidi and G. Schepens (2019), “Life below zero: Bank lending under negative policy
+rates”, The Review of Financial Studies, 32(10), 3728-3761.
+Hicks, J. R. (1937), “Mr. Keynes and the ‘Classics’; A Suggested Interpretation.” Econometrica, vol. 5, no. 2,
+1937, pp. 147–159.
+Hong, M. G. H. and J. Kandrac (2018), “Pushed past the limit? How Japanese banks reacted to negative
+interest rates”, IMF Working Paper No. 18/131.
+Horvath, R., J. Kotlebova and M. Siranova (2018), “Interest rate pass-through in the euro area: Financial
+fragmentation, balance sheet policies and negative rates”, Journal of Financial Stability, 36, 12-21.
+Kaplan, G., B. Moll and G. L. Violante (2018), “Monetary policy according to HANK”, American Economic
+Review, 108(3), 697-743.
+Kimball, M. (2015), “Negative Interest Rate Policy as Conventional Monetary Policy”, National Institute
+Economic Review, 234(1):R5-R14.
+Klein, M. (2020), “Implications of negative interest rates for the net interest margin and lending of euro area
+banks”, Deutsche Bundesbank Discussion Paper No. 10/2020.
+Krogstrup, S., A. Kuchler and M. Spange (2020), “Negative interest rates: The Danish experience”,
+VoxEU.
+Lopez, J. A., A. K. Rose and M. M. Spiegel (2020), “Why have negative nominal interest rates had such a
+small effect on bank performance? Cross country evidence”, European Economic Review, 124, 103402.
+27
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+27
+
+Malinovskaya, A. and D. Wessel (2016), “Did negative rates in Europe trigger massive cash hoarding?”,
+The Brookings Institution blog.
+McCallum, B. T. (2000), “Theoretical Analysis Regarding a Zero Lower Bound on Nominal Interest
+Rates”, Journal of Money, Credit and Banking, vol. 32, no. 4, 2000, pp. 870–904.
+Nakamura, E., and J. Steinsson (2018), “High-Frequency Identification of Monetary Non-Neutrality: The
+Information Effect”, The Quarterly Journal of Economics, Volume 133, Issue 3, August 2018, Pages 1283–
+1330.
+Ngai, L. and S. Tenreyro (2014), “Hot and Cold Seasons in the Housing Market”, American Economic
+Review, vol. 12, December 2014, pp. 3991-4026.
+Rachel, L., and L. Summers (2019), “On Secular Stagnation in the Industrialized World”, NBER Working
+Paper No. w26198.
+Ramsden, D. (2020), “The monetary policy toolbox in the UK”, speech given at the society of professional
+economists online conference, available at https://www.bankofengland.co.uk/speech/2020/dave-ramsdensociety-of-professional-economists-online-conference-2020.
+Romer, C. D., and D. H. Romer (2000), "Federal Reserve Information and the Behavior of Interest Rates."
+American Economic Review, 90 (3): 429-457.
+Rognlie, M. (2016), “What lower bound? Monetary policy with negative interest rates”, unpublished
+manuscript.
+Rostagno, M., C. Altavilla, G. Carboni, W. Lemke, R. Motto, A. S. Guilhem and J. Yiangou (2019), “A
+Tale of Two Decades: The ECB's Monetary Policy at 20”, ECB Working Paper No. 2346.
+Saunders, M. (2020), “Some monetary policy options – if more support is needed”, speech given at online
+webinar, available at https://www.bankofengland.co.uk/speech/2020/michael-saunders-some-monetarypolicy-options-if-more-support-is-needed.
+Schelling, T., and P. Towbin (2018), “Negative interest rates, deposit funding and bank lending”, SNB
+Working Paper No. 5/2020.
+Schmelzing, P. (2020), “Eight centuries of global real interest rates, R-G, and the ‘suprasecular decline’,
+1311-2018”, Bank of England Staff Working Paper, No. 845, available at
+https://www.bankofengland.co.uk/working-paper/2020/eight-centuries-of-global-real-interest-rates-r-g-andthe-suprasecular-decline-1311-2018.
+Shafir, E., P. Diamond, and A. Tversky (1997), “Money illusion”, The Quarterly Journal of
+Economics, 112(2), 341-374.
+Stráský, J., and H. Hwang (2019), “Negative interest rates in the euro area: does it hurt banks?”, OECD
+Economics Department Working Papers, No. 1574.
+Tan, G. (2019), “Beyond the zero lower bound: negative policy rates and bank lending”, DNB Working Paper
+No. 649.
+Tenreyro, S (2019), “The elusive supply potential: monetary policy in times of uncertainty”, speech given in
+Glasgow, Scotland, available at https://www.bankofengland.co.uk/speech/2019/silvana-tenreyro-speechduring-regional-visit-to-glasgow.
+
+28
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+28
+
+Tenreyro, S. and G. Thwaites (2016), “Pushing on a string: US monetary policy is less powerful in
+recessions”, American Economic Journal: Macroeconomics, 8(4), 43-74.
+Thomas, R. and N. Dimsdale (2017), "A Millennium of UK Data". Bank of England OBRA dataset, available
+at http://www.bankofengland.co.uk/research/Pages/onebank/threecenturies.aspx.
+Turk, R. (2016), “Negative interest rates: How big a challenge for large Danish and Swedish banks?”, IMF
+Working Paper No. 16/198.
+Ulate, M. (2021), “"Going Negative at the Zero Lower Bound: The Effects of Negative Nominal Interest
+Rates." American Economic Review, 111 (1): 1-40.
+Vlieghe, G. (2016), “Debt, Demographics and the Distribution of Income: New challenges for monetary
+policy”, speech given at the London School of Economics, available at
+https://www.bankofengland.co.uk/speech/2016/debt-demographics-and-the-distribution-of-income-newchallenges-for-monetary-policy
+Vlieghe, G. (2017), “Real interest rates and risk”, speech given at the Society of Business Economists’
+Annual conference, London, available at https://www.bankofengland.co.uk/speech/2017/real-interest-ratesand-risk
+Vlieghe, G. (2018), “The yield curve and QE”, speech given at Imperial College Business School, London,
+available at https://www.bankofengland.co.uk/speech/2018/gertjan-vlieghe-imperial-college-business-schoollondon
+Woodford, M. (2003)¸ Interest and Prices: Foundations of a Theory of Monetary Policy, Princeton University
+Press.
+
+29
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+29
+
+

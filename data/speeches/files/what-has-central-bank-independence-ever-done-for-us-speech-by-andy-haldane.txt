@@ -1,0 +1,1066 @@
+What Has Central Bank Independence Ever Done for Us?
+Speech given by
+Andy Haldane
+Chief Economist and Member of the Monetary Policy Committee
+UCL Economists’ Society Economics Conference
+28 November 2020
+
+The views expressed here are not necessarily those of the Bank of England or the
+Monetary Policy Committee. I would like to thank Oliver Bush, Richard Harrison,
+Derrick Kanngiesser, Jack Meaning, Michael Salib, Caroline Sijbrandij and Rhiannon Sowerbutts for
+their help in preparing the text. I would like to thank Andrew Bailey, Ben Broadbent, Oliver Dearie,
+Nick Mclaren, Silvana Tenreyro, Tom Smith and Gertjan Vlieghe for their comments.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+I am delighted to be giving this talk at the UCL Economists’ Society conference (even though it is on a
+Saturday). Many congratulations to the organisers for assembling such an excellent array of speakers from
+around the world. I want to discuss a topic close to my own heart – central bank independence.
+In many respects, central banking came of age in the 20th century. At its start, the world had only 18 central
+banks (Chart 1). Most did not have a well-defined statutory, much less independent, role in setting monetary
+and financial stability policies. They operated, by and large, as an operational agent of government.
+
+Chart 1: Number of central banks
+Number of central banks
+Number of independent states
+Number of independent central banks
+
+200
+ECB
+
+150
+
+100
+
+50
+Sveriges
+Riksbank
+
+1668
+
+Bank of
+England
+
+1718
+
+Bank
+of Japan
+
+Banque
+de France
+
+1768
+
+1818
+
+1868
+
+US Federal
+Reserve
+
+1918
+
+1968
+
+0
+2018
+
+Source: Central Banking Directory
+
+By the end of the 20th century, the world had around 200 central banks, pretty much one for each nation
+state. The fraction of them with operational independence for the setting of policy had risen to 80-90%
+(Chart 2). Central banks and their independence had become an international norm in the space of a
+century.
+Three years ago, the Bank of England hosted an event to mark the 20th anniversary of the
+Monetary Policy Committee (MPC) and operational independence in the setting of monetary policy in the
+UK.1 The most notable, and for me surprising, feature of that event was the number of speakers who said
+they thought “peak” central bank independence had been reached.2
+
+1
+2
+
+See https://www.bankofengland.co.uk/events/2017/september/20-years-on
+For example, Balls et al (2018).
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+Chart 2: Percentage of independent central banks
+Monetary policy objectives
+
+All aspects
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+Source: Garriga (2016) using index of Cukierman et al (1992).
+Notes: Central banks with values greater or equal to 0.4 on the index are defined as independent. ‘Monetary policy objectives’
+measures whether the central bank’s objective is price stability. ‘All aspects’ includes variables related to the appointment of
+the CEO/Governor, policy formulation; and limitations on lending to the government
+
+The reasons for this included central banks’ rising role in dealing with financial stability issues in the light of
+the Global Financial Crisis; the rising populist geo-political tide; and, perhaps most significantly, the
+increased purchases of government securities by central banks, so-called Quantitative Easing (QE). At the
+time, global QE stood at around $11trillion, and global central bank balance sheets were around 55-65% of
+global GDP, their highest levels in at least a century (Chart 3).
+
+This year has seen central bank balance sheets expand further. Global QE now stands at around $17 trillion
+and is set to rise further. For some, this has blurred the distinction between monetary and fiscal policies to
+an even greater extent than in the past. It has also intensified the debates and concerns around central
+bank independence expressed at the Bank’s conference three years ago.
+
+Against that background, now is an opportune moment to ask some questions, and assemble some
+evidence, on the case for central bank independence. How has it affected monetary and financial stability?
+What challenges does it face at present? And how might it evolve in future?
+
+Those are the aims of this lecture. I start with some definitions of central bank independence, which is a
+multi-faceted and often misunderstood concept. I then discuss some of the theory and evidence on the role
+of central bank independence in supporting monetary and financial stability, as well as its links with fiscal
+policy. I will conclude with brief thoughts on central bank independence looking forward.
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+Chart 3: Central bank balance sheets relative to GDP
+
+Central bank balance
+sheet/NGDP
+Mean
+
+0.8
+0.7
+
+Median
+
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+1900
+
+1910
+
+1920
+
+1930
+
+1940
+
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+Source: Data from Ferguson, Kornejew, Schmelzing and Schularick (2020). I am grateful to the authors for sharing this data with
+me. Bank calculations.
+Notes: Countries included are: Canada, France, Germany, Italy, Japan, the Netherlands, Norway, Portugal, Spain, Switzerland ,
+the United Kingdom and the United States.
+
+As a central banker, you might expect me to extoll the virtues of central bank independence. Spoiler alert, I
+will not disappoint. As best evidence can tell, central bank independence has delivered “twin-wins” for price
+and financial stability: low inflation and stable banks at no cost to the economy’s output or efficiency.
+Equally, this is a challenging time for the economy and for central banks. They will need to adapt to these
+new challenges to boost public understanding of, and maintain democratic legitimacy in, central banks.
+
+The Definition of Central Bank Independence
+
+Independence is very rarely absolute or binary in any domain of public policy. It is almost always subject to
+constraints on actions ex-ante and accountability mechanisms for those actions ex-post. Most forms of
+delegated decision-making in democracies are accompanied by checks and balances.
+
+Central bank independence is no exception. In no country in the world is it absolute, typically being subject
+to multiple ex-ante constraints and ex-post accountabilities. The precise mix of these constraints and
+accountabilities means there are many different degrees, dimensions and models of central bank
+independence.
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+As a legal matter, independence can be framed in terms of “four pillars”:3
+a)
+
+Quasi-constitutional independence;
+
+b)
+
+Institutional independence;
+
+c)
+
+Personal independence; and
+
+d)
+
+Financial and economic independence.
+
+Taking each in turn, the legally-strongest form of independence arises when there is a quasi-constitutional
+declaration of central bank independence, for example through a Treaty. That is the case in the
+European Union where the Treaty on the Functioning of the European Union provides that the
+European Central Bank (ECB) “shall be independent in the exercise of its powers”. Significantly, this
+independence extends to the national central banks of the EU, meaning no individual EU Member State can
+unilaterally amend or repeal independence.
+With no codified constitution, there is no constitutional provision safeguarding the Bank of England from
+political interference. The Bank’s independence can be repealed by ordinary legislation. However, as
+former Chancellor Nigel Lawson observed “the mere announcement of the intention to do so would in itself
+be so damaging to market confidence that any Government would be extremely reluctant to attempt it.” 4
+This illustrates that wider (political, market and social) considerations are crucial for determining the de facto
+degree of independence, whatever the de jure position.
+Institutional independence arises from the legal remits and safeguards granted to central banks to carry out
+their tasks, without fear of interference or instruction from the executive branch of government. There are a
+range of institutional models of independence. One important design dimension is, in the language of
+Debelle and Fischer (1994), the distinction between target and instrument independence.
+In the UK, the objectives of the Bank’s three policy committees (the Monetary Policy Committee (MPC),
+Financial Policy Committee (FPC) and Prudential Regulation Committee (PRC)) are defined in primary
+legislation and set by Parliament. In other words, the Bank is target-dependent. This again differs
+elsewhere – for example, in the euro-area where the ECB is target-independent. UK legislation also requires
+HM Treasury to elaborate on these objectives periodically.
+The Bank operates with operational independence over its tools to meet its statutorily-set objectives. In
+other words, the Bank is instrument-independent for monetary policy and financial stability tools. Even these
+powers are, however, constrained. HMT has a set of statutory powers of direction over Bank decisions
+which constrain its institutional independence in pre-specified, exceptional, circumstances.5 And the Bank is
+
+3
+4
+5
+
+Lastra (2015).
+Lawson (1992).
+Salib and Skinner (2019).
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+subject to a wide range of statutory accountability devices, including publishing formal minutes and reports
+and regularly appearing before Parliament.
+A third dimension is personal independence – the appointment procedures and legal protections given to
+individuals assuming decision-making responsibilities. The Bank of England Act 1998 provides for a range
+of protections in relation to qualification for appointment, remuneration and security of tenure. Subject to
+these, most appointments to the Bank’s statutory policy committees are made by HM Treasury, with
+parliamentary oversight through the Treasury Committee.
+The final legal pillar of independence is financial and economic independence. Even if a central bank has
+the other three protections, its independence could still be compromised if it had insufficient resources to
+achieve its mandate (financial independence) or could be pressured to engage in monetary financing of the
+government (economic independence).
+For its financing, the Bank has legal powers to levy industry to recover the costs of its supervisory functions.
+Supervisory levies are set annually after public consultation. The Bank finances its monetary policy and
+financial stability operations through a Cash Ratio Deposit (CRD) Scheme which was placed on a statutory
+footing by the Bank of England Act 1998. The terms of the CRD Scheme are set by HM Treasury through a
+statutory instrument at least every five years after a public consultation process.
+Protection of the Bank’s economic independence is provided by the “prohibition on monetary financing”,
+encapsulated in Article 123 of the Treaty on the Functioning of the European Union. Some have questioned
+whether the expansion of central bank balance sheets through QE constitutes a breach of the prohibition on
+monetary financing. For example, the German Constitutional Court recently considered whether the ECB’s
+Public Sector Purchase Programme (PSPP) was in breach, concluding it was not. Nonetheless, some
+commentators continue to associate QE with monetary financing, a point to which I shall return.
+The multiple dimensions of independence mean a wide spectrum of central bank independence models
+operate in practice internationally. This is clear from central bank legal statutes and from analysis of their
+different practices. A cottage industry has emerged among academics to construct indices of central bank
+independence, weighting together different of these dimensions of independence.6
+
+Table 1 uses the indices of de jure, or legal, independence index recently constructed by Garriga (2016) for
+some of the OECD countries. This illustrates the spectrum of independence models that exist internationally.
+It also demonstrates that central bank independence is, in every case, partial. Along the international
+spectrum of central bank independence models, the Bank of England occupies an upper-quartile position.
+
+6
+
+See for example, Cukierman et al (1992).
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+Table 1: De jure measures of Central Bank Independence
+Country
+
+CBI Measure
+
+Australia
+
+0.25
+
+Austria
+
+0.86
+
+Belgium
+
+0.86
+
+Canada
+
+0.47
+
+Denmark
+
+0.50
+
+Finland
+
+0.86
+
+France
+
+0.86
+
+Germany
+
+0.86
+
+Italy
+
+0.86
+
+Japan
+
+0.44
+
+The Netherlands
+
+0.86
+
+New Zealand
+
+0.35
+
+Norway
+
+0.45
+
+Spain
+
+0.86
+
+Sweden
+
+0.30
+
+Switzerland
+
+0.77
+
+UK
+
+0.70
+
+US
+
+0.48
+
+Source: Measure based on Garriga (2016).
+
+Central Bank Independence and Monetary Stability
+
+During the 1980s, the key macro-economic concern was the so-called Great Inflation of the 1970s. Why did
+inflation prove so persistent? And what role did monetary policy play in generating this persistence? The
+time-consistency theory of Kydland and Prescott (1977), Nordhaus (1975) and Barro and Gordon (1983)
+provided an elegant answer to these questions. Governments had a natural tendency to over-inflate their
+economies, especially around election time, generating an “inflation bias”.
+To curb this inflation bias, some institutional means was needed to constrain government’s policy hand.
+Rogoff (1985) developed a model which provided such an institutional fix. Monetary policy decisions were to
+be delegated to a “conservative”, inflation-minded, central bank acting independently from government. In
+this way, central bank independence could prevent, at source, a return to the Great Inflation of the 1970s.
+
+The macro-economic benefits, in theory, did not end there. Provided inflation expectations were wellanchored and central banks were not too inflation-averse - “inflation nutters” in the language of Mervyn King -
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+monetary policy could be effective in stabilising output in the economy too.7 In other words, central bank
+independence was a potential twin-win, reducing inflation biases at no cost in increased output variability.
+
+Empirical evidence followed to test these hypotheses. During the 1980s and 1990s, a number of papers
+established a statistically significant link between the level and variability of inflation and the degree of central
+bank independence across a range of countries.8 These cross-country correlations strongly suggested
+central Independence was an important contributor to reduced inflation bias. And this evidence, in turn,
+helped spur moves towards central bank independence in the latter-part of the 20th century.
+
+Charts 4 and 5 plot the relationship with inflation and inflation variability and central bank independence in 18
+countries based on data from 1970 through to 1999. It confirms the negative, statistically significant,
+relationship between (the level and variability of inflation) and independence. Chart 6 plots independence
+against output variability over the same period; it suggests independence did not result in an increase in
+output variability. Taken together this evidence implies independence has, indeed, been a twin-win.
+
+Chart 4: Independence and
+
+Chart 5: Independence and
+
+Chart 6: Independence and
+
+Inflation
+
+Inflation Variability
+
+Output variability
+
+Source: Bank of England
+
+Source: Bank of England
+
+Source: Bank of England
+
+For the UK, Chart 7 plots a measure of inflation and output variability over a number of sample periods. In
+the period since the Bank became independent in 1997, inflation uncertainty has fallen by a factor of around
+four compared with the earlier 20-year period, while output variability has been unchanged, absenting the
+
+7
+8
+
+King (1997).
+For example, Alesina and Summers (1993).
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+financial crisis of 2009. Consistent with international evidence, central bank independence in the UK
+appears also to have been a twin-win.
+
+Chart 7: Inflation and Output Variability in the UK
+
+Source: Bank of England.
+
+Chart 8: Independence and
+
+Chart 9: Independence and
+
+Chart 10: Independence and
+
+Inflation
+
+Inflation Variability
+
+Output variability
+
+Source: Bank of England
+
+Source: Bank of England
+
+Source: Bank of England
+
+More recently, empirical evidence on the effects of independence has become less clear-cut. Charts 8-10
+plot the same cross-country relationships since 2000. The correlation between central bank independence
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+and inflation has all but disappeared. Chart 11 plots the rolling cross-country correlation coefficient between
+the two variables to illustrate this point. Meanwhile, the relationship between independence and output
+variability is now positive, if insignificant. In the UK, the outward shift in output, variability over the past
+decade is also noteworthy (Chart 7).
+
+What explains this disappearing correlation? Some have used it to question whether the earlier link between
+independence and low inflation was no more than a statistical mirage.9 It could be argued that the fall in
+inflation over this earlier period was instead the result of the benign macro-economic environment of the
+Great Moderation.10 In other words, better inflation outcomes in the late 20th century might have reflected
+good luck rather than good central bank management. There are two reasons why this alternative reading of
+the macro-economic runes is not entirely convincing.
+
+Chart 11: Correlation between Independence and Inflation through time
+
+Source: Bank of England.
+
+First, it is well-known that reduced-form correlations between variables may not accurately capture the true
+impact of policy, especially during episodes of regime change. An effective policy regime prevents a bad
+outcome, such as high inflation, emerging in the first place, eliminating any reduced-form correlation between
+the policy regime or action and the eventual macro-economic outcome. The impact of policy is, in this
+sense, unobservable from reduced-form correlations.11
+In the late-20th century, most countries moved towards a high central bank independence/low inflation
+equilibrium. This regime shift may have effectively extinguished any reduced-form correlation between the
+two. Certainly, it would be dangerous to infer from the disappearing correlation that independence did not
+contribute to the shift to a lower inflation equilibrium. And it would be more dangerous still to conclude that
+any reversal of this regime shift – away from independence – would have a no impact on inflation.
+9
+
+Benati (2008), Stock and Watson (2002).
+Bernanke (2004).
+11
+See McLeay and Tenreyro (2019) in the context of the Phillips curve.
+10
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+It is revealing to look at the behaviour of inflation expectations. They are a key diagnostic on the credibility of
+a monetary regime over time. If a regime is credible, these expectations ought to be anchored around the
+target and relatively unaffected by short-term shocks to the economy. Chart 12 plots UK inflation
+expectations, inferred from financial markets at the 3-year horizon, over the period since 1983. It also plots
+measured inflation over the same period. Three distinct periods are worth identifying.
+
+In the period prior to inflation targeting and independence, the variability of both inflation and inflation
+expectations was high. Shocks to inflation were large and the credibility of the monetary regime was low. In
+the period since independence up to the Global Financial Crisis – the Great Moderation – the variability of
+both inflation and inflation expectations fell by a factors of between 6 and 2, respectively. That is consistent
+with both the good luck (benign shocks) and good management (central bank independence) hypotheses.
+Over this period, it is difficult to identify separately their effects.
+
+Subsequent events have made identification somewhat easier. Since the Global Financial Crisis, the
+variability of inflation has roughly trebled in the UK, as the incidence of macro-economic shocks has
+increased. Yet over this period, the level and variability of inflation expectations has actually fallen.
+Expectations have remained anchored, despite the less benign environment. This suggests an important
+role for the monetary regime and central bank independence in safeguarding stable inflation.
+
+Chart 12: Inflation and Inflation Expectations in the UK
+
+Source: Bank of England
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+Before concluding on monetary stability, let me add just one small fly to the ointment. Several recent
+empirical studies have looked at the behaviour of inflation expectations across different household cohorts,
+often finding quite large and widening differences. One of the most striking of those is between young and
+older generations, with the latter tending to have higher inflation expectations, perhaps reflecting their lived
+experience during the Great Inflation of the 1970s.12
+
+Chart 13: Inflation and Inflation Expectations Across Age Cohorts in the UK
+
+Source: Bank of England
+Notes: based on 1 year ahead inflation expectations taken from the Bank’s TNS Inflation Attitudes Survey.
+
+Chart 13 plots the inflation expectations of different age cohorts in the UK. In general, and unlike in some
+other countries, these age-related differences are not especially large. Nonetheless, in general inflation
+expectations among young people are not only lower, but also appear to be more sensitive to actual inflation
+outcomes. This, too, is likely to reflect the different lived inflation experience of young people.
+
+12
+
+For example, Diamond, Watanabe and Watanabe (2019) and Malmendier and Nagel (2016).
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+12
+
+If these generational patterns were to persist, they might pose a challenge to the monetary policy regime. A
+less inflation-averse population, without experience of the costs of past high and volatile inflation, might
+mean a less strong constituency for price stability – and, potentially, central bank independence - than earlier
+generations.13 This is an interesting research question for us all. It is also a challenge central banks might
+wish themselves to reflect on, as I shall discuss at the end.
+
+Central Bank Independence and Financial Stability
+
+Until recently, neither the theory nor the practice of central bank independence was as well developed in the
+area of financial stability. That has changed since the Global Financial Crisis, with both greater amounts of
+research on the financial stability benefits of independence and greater numbers of central banks adopting
+independence in their regulatory and supervisory practices. Nonetheless, both remain in their infancy.
+
+The time-consistency problem familiar from monetary policy has a clear read-across to the world of financial
+stability. Governments have an incentive to run their financial systems, as well as their economies, hot in the
+interests of growth and electoral advantage. This generates a tendency to loosen regulation too far during
+credit booms, increasing the risk of future bouts of financial instability. In other words, there is a potential
+problem of “instability bias” in regulatory policies, to accompany the “inflation bias” in monetary policies.14
+
+In fact, I would argue this time-consistency problem is potentially greater in the financial stability sphere than
+for monetary policy, for two reasons.15 Credit cycles tend to be longer in duration, and larger in amplitude,
+than typical business cycles.16 This means wishful thinking and policy myopia (“this time is different”) are
+more likely to arise in credit booms than during typical business cycle upswings, exaggerating the timeconsistency problem of financial stability policies.
+
+The costs of financial instabilities and crises also tend to larger than the costs of inflationary surges. This
+means the temptation to act in a time-inconsistent fashion – talking tough ex-ante, but acting weak ex-post –
+also tends to be greater. That can encourage risk-taking and amplify financial cycles and crises – a doom
+loop.17 The Global Financial Crisis, a long-duration credit boom that prompted massive government support
+ex-post, was a good example of these acute financial stability time-consistency problems in practice.
+
+As with monetary policy, one institutional fix for this problem is to delegate prudential policy-making to an
+independent agency, better able to curb credit cycles and forestall financial crises. This helps explain the
+shift towards independence in the setting of regulatory and supervisory policies over the past decade. At the
+
+13
+
+Shiller (1996).
+Quintyn and Taylor (2002), Herrera et al (2020)
+15
+A point also argued by Bianchi and Mendoza (2018).
+16
+Aikman, Haldane and Nelson (2015).
+17
+Haldane (2012).
+14
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+13
+
+Bank of England, this role is played by the Financial Policy Committee (FPC) for system-wide-risks, and the
+Prudential Regulation Committee (PRC) for institution-specific risks.
+Academics have recently begun constructing indices of independence for financial stability regimes.18 For
+example, research at the Bank has developed an index of Regulatory and Supervisory Independence (RSI)
+based on legal characteristics.19 Chart 14 plots this RSI for 43 countries, alongside a monetary policy-based
+index of independence. The RSI starts lower but has increased rapidly since the Global Financial Crisis.
+The UK has a high degree of independence for its financial stability policies by international standards.
+
+Research has also begun to link these measures of RSI to financial stability outcomes as a test-bed of
+time-consistency theory, again broadly mirroring the monetary policy literature. One additional challenge
+these studies face is finding an objective and continuous measure of financial instability. Bank and other
+research has often used proxies, based on Non-Performing Loans (NPLs) and the variability of the
+Returns on Assets (ROA) in the banking system.20
+
+Chart 14: Central Bank Independence and RSI
+
+Source: Fraccaroli et al (2020)
+
+Based on the research of Fraccaroli et al (2020), Table 2 looks at the relationship between RSI and
+NPL/ROAs across a selection of countries, controlling for a range of other macro-economic and
+institution-specific factors that influence NPL/ROAs. This suggests a statistically-significant, negative
+
+18
+19
+
+For example, Dincer and Eichengreen (2013).
+Fraccaroli et al (2020).
+
+20
+
+Klomp and den Hann (2009)
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+14
+
+relationship between the two across the 43 countries.21 In line with theory, independence in financial stability
+policies is associated with a reduction in financial instabilities, as proxied by NPLs and the volatility of ROAs.
+
+Consider a rough ready-reckoner from Table 2. The average reform to increase the independence of central
+banks’ financial stability policies over the past 20 years would be expected to have reduced the incidence of
+NPLs across the global banking system by somewhere between 1.7 and 2.9 percentage points, on average.
+Given prevailing levels of bank capital, and bearing in mind the costs of financial crises, this is a sizeable
+benefit of greater independence in financial stability policy-setting.
+
+Table 2: RSI and Financial Stability
+Measures of financial stability
+
+Non-performing loans
+
+RSI Reforms
+
+[coefficient range based
+
+ROA volatility
+
+-2.8***
+
+-1.9***
+
+[-1.7 to-2.9]
+
+[-0.8 to -1.9]
+
+on robustness checks]
+An interesting supplementary question is whether independence in financial stability policies has come at
+any cost in terms of the reduced efficiency of financial intermediation, perhaps because of more stringent
+regulatory and/or supervisory practices. This is the financial stability equivalent of asking whether
+independent monetary policies have imposed macro-economic costs through increased output variability.
+
+Table 3: RSI and Bank Efficiency
+Measures of efficiency and profitability
+Net interest margin
+
+RSI Reforms
+[coefficient
+
+range
+
+Cost to income
+
+-0.6
+
+-1.2***
+
+[-1.9 to 0.4]
+
+[-1.8 to -2.4]
+
+based on robustness
+checks]
+Notes: *** means coefficient significant at the 1% level. Full list of controls for benchmark regressions and alternative
+specifications can be found in HLM (2020)
+
+21
+
+Fraccaroli et al (2020).
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+15
+
+Table 3 looks at the relationship between RSI reforms and two measure of banking system efficiency (net
+interest margins and the cost to income ratio) across banks in 43 countries.22 As with monetary policy, it
+finds no evidence of independence in financial stability policies having come at an efficiency or competitive
+cost.23 In other words RSI, like its monetary policy counterpart, appears empirically to be a twin-win, with
+reduced financial instability coming at no discernible macro-economic cost.
+
+Central Bank Independence and Fiscal Stability
+
+A final dimension of the independence debate, and one of growing interest, is the way it interacts with fiscal
+policy. With central banks globally now owning around one-fifth of the outstanding stock of government debt
+as a result of QE, this increasing interest is not surprising.
+
+Central bank balance sheet expansions have, for some people, blurred the distinction between monetary
+and fiscal policies and posed questions about central bank independence. Fortunately, there is a rich
+literature to help clarify some of these links between fiscal and monetary policies.24 Although I do not have
+time to do that justice here, one or two general lessons are worth bringing out.
+
+First, it is clear that fiscal policy actions can have significant effects on the macro-economic variables that are
+part of central banks’ mandates, such as output and inflation. In the current environment, fiscal policy is
+highly expansionary and providing considerable support to activity and inflation, in the UK and globally,
+alongside the effects of the expansion of monetary policies.
+
+Second, these macro-economic spill-over effects of monetary and fiscal policies could, in principle, lead to
+these policies acting at cross-purposes or imposing “externalities” on each other. Provided both the fiscal
+and monetary authorities have clear mandates, however, which they then pursue independently, this conflict
+will rarely arise.25 Both bodies then simply take into account the choices being made by the other body when
+determining the policies necessary to meet their mandates – they internalise the externalities. In the Bank’s
+case, this means taking account of the fiscal stance when judging the monetary policy stance necessary to
+meet the inflation target.
+
+Third, the optimal balance of monetary and fiscal policies is not necessarily fixed over time and may change
+as we approach the zero lower bound (ZLB) on interest rates. Specifically, to the extent the ZLB reduces the
+effectiveness of monetary policy relative to fiscal policy in stimulating demand, this may justify a somewhat
+larger role for fiscal policies in the face of a shock to activity.26 In the current environment, facing such a
+shock, fiscal policy has provided more of the support to demand than during the Global Financial Crisis.
+
+22
+23
+24
+25
+26
+
+The efficiency measure is taken from Barth et al (2013).
+Barth et al (2013) reach a similar empirical conclusion.
+For example, Leeper and Leith (2016).
+Bhundia and O’Donnell (2002).
+Eggertsson (2011).
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+16
+
+Fourth, as both monetary and fiscal policies both act to support demand, it is natural to see them expanding
+in lockstep through increased government spending and higher QE in the current environment. As my
+colleagues on the MPC have clearly set out, this is not a sign of one policy driving the other, much less of
+monetary financing of government deficits.27 Rather it is a reflection of both policies responding
+counter-cyclically, as they should, in the face of a very large cyclical shock to aggregate activity.
+Nor should a rise in the proportion of debt held on central banks’ balance sheets be taken as a sign of
+so-called fiscal dominance.28 The latter arises when monetary objectives, such as the inflation target, are
+subjugated for fiscal objectives, such as reducing the cost of debt. The institutional safeguards in the UK’s
+monetary regime – namely, the inflation target and the Bank’s operational independence – offer strong
+protection against such fiscal dominance, from a legal, market and political perspective.
+
+Indeed, in the current environment the situation is in some respects the very opposite of fiscal dominance. In
+the face of a huge shock, fiscal expansion has played an extremely helpful role in supporting demand and in
+helping the MPC return inflation to its target. What we have seen is better described as fiscal assistance
+than fiscal dominance when it comes to meeting the inflation target. The externalities from expansionary
+fiscal policy have in that sense been positive, rather than negative, from a monetary policy perspective.
+
+Fifth, while concerns about monetary financing and fiscal dominance can be overdone, that is not to deny
+there are challenges facing central banks in this environment. One of these is the simple scale of the
+balance sheet expansions undertaken so far. In the UK, once its current programme is complete, the Bank
+will have a balance only just shy of 50% of both GDP and the outstanding debt stock (Chart 15). This is
+materially higher than at any time in its recent or distant history.
+
+QE at these levels raises natural concerns about when, or indeed whether, these holdings will be reduced.
+These perceptions are not easily or quickly dismissed, any more than the holdings can be easily or quickly
+run down. These perceptions of permanence, and the potential ratchet in government debt holdings, have
+weighed with me as the MPC has announced £450 billion of extra QE – more than a doubling of its asset
+holdings - during the course of this year.
+
+The justification for the QE actions taken by the MPC this year, and which I have supported, is that they will
+support demand and act as an insurance policy against any premature and undesirable rise in borrowing
+costs which would otherwise risk setting back the economic recovery and put at risk hitting the inflation
+target. I think this is a coherent rationale which is entirely consistent with the MPC’s statutory mandate. It is
+not, however, without its implementation and communication challenges.
+
+27
+28
+
+See Broadbent (2020), Vlieghe (2020) and Bailey (2020).
+See King and Plosser (1985), and Leeper (1991).
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+17
+
+Chart 15: Bank of England balance sheet relative to GDP and total debt
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+1700
+
+1750
+
+1800
+
+1850
+% of Government Debt
+
+1900
+
+1950
+
+2000
+
+% of GDP
+
+Source: Bank of England
+
+One risk that might arise is if market expectations of QE are driven by fiscal financing, rather than
+macro-economic, needs. A central bank then could potentially face a dilemma. Not validating these QE
+expectations could be felt to run the risk of causing yields to rise, removing the insurance cover on borrowing
+costs and putting at risk the inflation target. But, on the other hand, validating expectations that are driven by
+fiscal financing, rather than macro-economic, considerations puts monetary policy on a potentially
+undesirable course over in the medium term.
+
+This is not a dilemma the MPC has so far faced. Nonetheless, the horns of this dilemma grow sharper, the
+larger is the stock of QE.29 Recent QE has placed central banks in deep, and uncharted, waters. My view is
+that these QE actions have been necessary to support the economy and hit the inflation target. But they
+pose rising challenges to public understanding of the purposes of QE and, ultimately, perceptions of
+independence. It is important central banks evolve their practices in response to these challenges, to which I
+now turn.
+
+Conclusion
+
+So what has central bank independence ever done for us? While no amount of theory and empirical
+evidence can ever be conclusive, it strongly suggests independence can, and has, contributed to securing
+two important twin-wins: low and stable inflation at no cost in increased output variability, and safe and
+
+29
+This is in part due to the fact that QE lowers the duration of consolidated government liabilities, adding to the sensitivity of public
+sector finances to short-term interest rate risk. See https://obr.uk/frr/fiscal-risks-report-july-2019/ for more.
+18
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+18
+
+secure banks at no cost to their efficiency. These gains were hard won. Given the uncertain environment,
+safeguarding them and the institutional regime in which they are embedded is more important now than ever.
+
+At the same time central banks, and central bank independence, are facing new challenges. Not the least of
+these arises from the rapid expansion in central banks’ balance sheets over the past decade. This has
+contributed to a loss of understanding, and perhaps some trust, in the role of monetary policy and its degree
+of separation from government actions.30 Let me conclude with three observations which would I hope help
+central banks rise to these new challenges, safeguard their independence and build trust.
+
+First, I am a supporter of central banks having a wide-angle lens on the economy and financial system when
+performing their tasks. It was blind-spots, and the absence of a sufficiently wide-angle lens, that contributed
+to the Global Financial Crisis. But central banks have been criticised by some for taking too great an interest
+in too wide a range of longer-term structural issues, such as inequality, climate and technological change,
+which often lie beyond their statutory remits.
+
+It is certainly true that the scope for central banks to meaningfully shape these factors with their monetary
+and financial stability toolkits is, at best, very limited. What is also true, however, is that these structural
+forces have a direct and growing influence on the economy and the financial system, and thus indirectly on
+central banks’ objectives. Understanding these structural forces, and their economic and financial impact, is
+essential for central banks when discharging their core responsibilities effectively.
+
+At the same time, it is important this wide-angle lens does not detract or distract from the core mandates of
+central banks – keeping inflation low and banks stable. Take the current conjuncture. With inflation low and
+the output gap large, it would be easy to assume medium-term inflation risks are a secondary concern.
+Given the massive hit the economy has taken, policy measures this year have understandably focussed on
+stabilising economic activity and jobs in the near-term.
+
+As we approach the New Year, the fantastic recent news on vaccines offers some economic light at the end
+of the long, dark tunnel of this year. Effective vaccines would be a life-saver, for businesses and jobs as well
+as lives. With luck, they will encourage a rapid economic recovery in the UK and globally. Taken together
+with the huge amounts of policy stimulus provided this year, this will in my view leave risks to the economic
+outlook more evenly balanced than for some time, including risks to inflation over the medium term.
+
+Inflation risks in the UK are well contained and inflation expectations remain well-anchored. In its latest
+Monetary Policy Report, the MPC projected that risks to inflation were evenly-balanced around the inflation
+target at the two-year horizon. The uncertainties either side of that projection are, however, unusually large.
+As the economic recovery gathers pace next year, it will be important central banks remain squarely
+focussed on their core medium-term price stability mandates.
+30
+
+Haldane (2017).
+19
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+19
+
+Second, the events of the past decade have taken central banks, and their balance sheets, into uncharted
+territory. Some of the novel instruments used by central banks, such as QE, are not well-understood. And,
+in some people’s minds, they have blurred the distinction between governments and central banks. In some
+countries, but not the UK, inflation targets have been consistently undershot. Partly reflecting these
+developments, some measures of public trust in central banks have fallen.
+
+These developments underscore the crucial importance of efforts to improve public understanding of the
+economy, financial system and build trust in central banks’ role in supporting both. The Bank, alongside
+many other central banks, has been making strenuous efforts to do so across a number of fronts: from
+simplified communications to Citizens Panels and Community Forums.31 These initiatives aim to build
+understanding and trust about central banks and their policies across a broad cross-section of the public.
+A particular focus of the Bank’s efforts has been improving understanding of the economy among children
+and young adults. As earlier research demonstrated, this is a constituency whose inflation expectations and
+attitudes are not shaped by the high inflation episodes of the past. The Bank’s new education programmes,
+EconoME (for 11-16 year olds) and Money and Me (for 8-11 year olds), together with the Bank’s new Youth
+Forum, are attempts to help build that constituency for price stability among younger people.32
+
+Third, this lecture has aimed to set out some of the research conducted so far on important issues around
+central bank independence, monetary, financial and fiscal stability. But there is plainly more that can, and
+hopefully will, be done to deepen and widen this research knowledge. There are many open questions.
+How are inflation attitudes shifting generationally? How is central bank independence shaping price and
+financial stability? And how best can central banks build a strong constituency for their policies?
+
+The Bank has set out some of the issues it wishes to explore, both in its own research and in collaboration
+with others, in its recent Bank of England Agenda for Research (BEAR). In the immortal words of George
+from the Hofmeister lager advert of the 1990s, I hope today’s lecture will encourage many of you to follow the
+BEAR and help us at this crucial time for economics, the economy and economic policy.
+
+31
+32
+
+See https://www.bankofengland.co.uk/get-involved/citizens-panels .
+See https://www.bankofengland.co.uk/education/education-resources .
+20
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+20
+
+References
+Aikman D., Haldane A. and Nelson B., (2015), ‘Curbing the Credit Cycle’, The Economic Journal,
+125(585): 1072-1109.
+Alesina A. and Summers L.H. (1993), ‘Central Bank Independence and Macroeconomic Performance:
+Some Comparative Evidence’, Journal of Money, Credit and Banking, 25, 151–162.
+Bailey, A (2020), ‘The central bank balance sheet as a policy tool: past, present and future’, speech
+available at https://www.bankofengland.co.uk/-/media/boe/files/speech/2020/the-central-bank-balance-sheetas-a-policy-tool-past-present-and-future-speech-by-andrew-bailey.pdf
+Balls, E. Howat, J. and Stansbury, A (2018), ‘Central Bank Independence Revisited: After the financial
+crisis, what should a model central bank look like?’, M-RCBG Associate Working Paper No. 87.
+Barro and Gordon (1983), ‘Rules, discretion and reputation in a model of monetary Policy’, Journal of
+Monetary Economics, 12: 101–121.
+Barth, J. Lin, C. Ma, Y. Seade, J. and Song, F (2013), ‘Do bank regulation, supervision and monitoring
+enhance or impede bank efficiency?’ Journal of Banking & Finance, 37(8):2879 – 2892.
+Benati, L (2008), ‘The “Great Moderation” in the United Kingdom’, Journal of Money, Credit and Banking,
+Vol. 40, Issue 1.
+Bernanke (2004), ‘The Great Moderation’, Speech given at the meetings of the Eastern Economic
+Association, Washington, DC, February 20, 2004
+Bianchi, J. and Mendoza, E.G., (2018), ‘Optimal time-consistent macroprudential policy’ Journal of Political
+Economy, 126(2): 588-634.
+Broadbent, B (2020), ‘Government debt and inflation’, speech available at
+https://www.bankofengland.co.uk/speech/2020/2020-annual-meeting-of-the-central-bank-researchassociation-keynote-speech-by-ben-broadbent
+Bhundia, A. and O’Donnell, A.T. (2002). ‘UK policy co-ordination: the importance of institutional design’,
+Fiscal Studies, vol. 23, (March), pp. 135–64.
+Cukierman, A., S. B. Webb, and B. Neyapti (1992), ‘Measuring the Independence of Central Banks and Its
+Effect on Policy Outcomes,’ The World Bank Economic Review 6(3): 353-398
+Debelle G and S Fischer (1994), ‘How Independent Should a Central Bank be?’ in Jeffrey C Fuhrer (ed),
+Goals, Guidelines, and Constraints Facing Monetary Policymakers, Federal Reserve Bank of Boston
+Conference Series no.38, North Falmouth, Massachusetts, pp 195–221
+Diamond J., Watanabe K. and Watanabe T. (2019), ‘The Formation of Consumer Inflation Expectations:
+New Evidence From Japan’s Deflation Experience’, International Economic Review 61(1): 241-281
+Dincer, N. and Eichengreen B. (2014), ‘Central bank transparency and independence: Updates and new
+measures’, International Journal of Central Banking, 10: 189–253.
+Ferguson, N. Kornejew, M. Schmelzing, P and Schularick, M (2020). ‘Central bank balance sheet
+expansions and the macroeconomy, 1587-2020’, mimeo
+Fraccaroli, N, Sowerbutts, R and Whitworth, A (2020), ‘Does regulatory and supervisory independence
+affect financial stability?’, mimeo.
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+21
+
+Garriga A. (2016), ‘Central Bank Independence in the World: A New Dataset’, International Interactions 42
+(5):849-868
+Haldane, A (2012), ‘The Doom Loop’, London Review of Books, Vol. 34, No. 4.
+Haldane, A (2017), ‘Everyday Economics’, speech available at
+https://www.bankofengland.co.uk/speech/2017/andy-haldane-speech-during-regional-visit
+Herrera, H. Ordoñez, G. and Trebesch, C (2020), ‘Political Booms, Financial Crises’, Journal of Political
+Economy, University of Chicago Press, vol. 128(2), pages 507-543.
+King, M (1997), ‘Changes in UK monetary policy: Rules and discretion in practice’, Journal of Monetary
+Economics 39.1 (1997): 81-97.
+King, R. G., and Plosser C. (1985), ‘Money, deficits, and inflation’, In Carnegie-Rochester conference series
+on public policy 22: 147-195. North-Holland, 1985.
+Klomp, J and den Hann, J (2009), ‘Central bank independence and financial instability’, Journal of Financial
+Stability, 5(4):321 – 338.
+Kydland and Prescott (1977), ‘Rules Rather than Discretion: The Inconsistency of
+Lastra, R. (2015), ‘International Financial and Monetary Law’, Oxford University Press, Oxford
+Lawson, N (1992), ‘The view from No.11: Memoirs of a Tory radical’, 1060
+Leeper, E. M. (1991), ‘Equilibria under ‘active’and ‘passive’monetary and fiscal policies.’ Journal of Monetary
+Economics 27(1): 129-147.
+Malmendier U. and Nagel S. (2016), ‘Learning from Inflation Experience’, The Quarterly Journal of
+Economics 131(1): 53–87
+Mcleay, M and Tenreyro, S (2019), ‘Optimal inflation and the identification of the Philips Curve’, NBER
+Macroeconomics Annual 2019, Vol. 34.
+Nordhaus, W (1975), ‘The political business cycle’, The Review of Economic Studies, Vol. 42, No. 2.
+Optimal Plans’, Journal of Political Economy 85: 473–492.
+Quintyn M. and Taylor M. (2002), ‘Regulatory and Supervisory Independence and Financial Stability’, IMF
+Working Paper No. 02/46
+Rogoff K. (1985), ‘The Optimal Degree of Commitment To an Intermediate Monetary Target’, The Quarterly
+Journal of Economics, 100: 1169–1189.
+Salib, M., Skinner, C. (2019), “Executive Override of Central Banks: A Comparison of the Legal Frameworks
+in the United States and the United Kingdom”, The Georgetown Law Journal, 2019, Vol. 108.
+Shiller, R (1996), ‘Why Do People Dislike Inflation?’ in Christina Romer and David Romer, eds., Reducing
+Inflation: Motivation and Strategy, National Bureau of Economic Research and University of Chicago Press.
+Stock, J. H., & Watson, M. W. (2002), ‘Has the business cycle changed and why?’, NBER Macroeconomics
+Annual, 17, 159-218.
+Vlieghe, G (2020), ‘Monetary policy and the Bank of England’s balance sheet ‘, speech available at
+https://www.bankofengland.co.uk/speech/2020/gertjan-vlieghe-speech-monetary-policy-and-the-boesbalance-sheet
+
+22
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+22
+
+

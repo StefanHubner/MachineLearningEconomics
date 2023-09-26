@@ -1,0 +1,973 @@
+From lockdown to recovery - the economic effects of COVID-19
+Speech given by
+Professor Jonathan Haskel, External Member of the Monetary Policy Committee
+
+Imperial Future Matters Online webinar
+23 July 2020
+
+My thanks to Nishat Anjum, Tom Belsham, Alan Castle, Gerald Cohen, Marco Garofalo, Jamie Lenney,
+Elizabeth Levett, Jack Page, Emma Rockall, Michael Saunders, Matt Swannell, James Tasker and Marilyne
+Tolle for their comments and assistance in preparation for this event. Errors and opinions are my own.
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+Good afternoon everyone and thank you for having me here today.
+Around the world we’ve experienced one of the most dramatic slowdowns in economic activity in
+recorded history. In the case of the UK, the second quarter of 2020 is almost certain to see by far the
+largest decline in output since quarterly national accounts began. This talk will try to give some insight
+into how economists have thought about and modelled the initial economic shock caused by
+COVID-19 and some of things we are thinking about when modelling the recovery. Of course, here at
+Imperial and elsewhere there are many distinguished scientists working to relieve the world of this
+disease, including modelling work, and I want to try to relate some of the work economists have done
+to their incredibly valuable work.
+I want to make two main points.1
+First, this was a huge and adverse shock to the economic system that required an unorthodox initial
+modelling approach. Usually in economics there is a crucial role for prices to absorb the effect of
+shocks and thereby trace their outcomes: a frost in Florida lowers the supply of orange juice, but
+since prices rise, that lowers demand and so absorbs the shock. But with a lockdown prices cannot
+adjust as freely, so we need a different modelling approach.
+Second, the pandemic shock is a shock to public health. The resulting government-mandated
+lockdown can be thought of as a “supply shock”: a closed restaurant for example can serve no one
+and an opened one is now only able to serve, say, half its customers due to social distancing. But
+equally important, the behavioural response of consumers can be thought of as a “demand shock”.
+Evidence is emerging that the dominant driver of activity will in fact be on the demand side. When the
+economy re-opens, customers might still fear infection and therefore stay away from consumption that
+has a social element to it (pubs, restaurants etc.). It seems likely that such demand weakness will
+therefore drag on the economy and hold back the recovery. The path of recovery crucially depends
+therefore on the fear of infection, which in turn depends on the mix of public (e.g. track and trace) and
+private (e.g. screens in shops) health measures undertaken. It also depends on the fear, or
+realisation, of unemployment, as weak activity and capacity constraints on the operation of surviving
+businesses, and insolvencies, translate into a fall in the demand for labour.
+
+Whilst this speech was in its near-final draft I read an excellent speech by my colleague Silvana Tenreyro that, whilst independently written,
+overlaps in many ways. See Tenreyro (2020).
+2
+1
+
+1. Covid-19 – modelling the initial shock
+1. Shocks to the economy
+The usual approach to modelling shocks to the economic system is to (a) identify the shock (for
+example an unexpected change in interest rates) and (b) analyse the mechanisms by which the
+economy responds to that shock. In particular, it is important to assess whether these mechanisms
+either amplify or absorb the shock’s effect on the economy.
+To most people, the most intuitive account of the economy’s response to a shock is amplification. The
+amplification effect is, many would say, a natural outcome of a network of billions of economic
+relations typical of any modern specialised and decentralised economy. A restaurant closes. How is
+that shock amplified? That restaurant stops buying food which is bad news for the farming industry.
+Nor does it have any need for accounting services or cleaners, which is bad news for the business
+services industry. And it doesn’t need staff – bad news for the local labour market.
+There is however, an offsetting, “shock-absorbing” (or self-righting) effect. Maybe there are rival
+restaurants to whom farmers can sell, accountants can audit, or workers can apply to. Or maybe the
+restaurant industry is making low returns, and higher returns can be made by converting the premises
+into a nursery which needs food, accounting, cleaning and staff.
+In this second account, prices act as shock-absorbers, reallocating the quantities in the first account.
+If the restaurant industry is making low returns, but the delivery industry is booming, prices provide
+the signal to reallocate resources away from restaurants. If wages are low in the restaurant industry,
+workers might choose to work elsewhere. Any economy is continually being hit by shocks of various
+kinds: new technology, fashions and trends and opportunities to trade. No computer could possibly
+compute the reallocation necessary and so the job is done, in this account, anonymously by the price
+system which absorbs these shocks by signalling where economic resources need to go.
+2. The COVID shock and Input-Output analysis
+The COVID shock however is unusual in that much of the reallocation mechanism (at least initially)
+was shut down through lockdowns and social distancing measures. Prices couldn’t readily adjust and
+firms couldn’t switch to other industries because the economy was locked down.
+
+3
+
+Table 1: A snapshot of the UK supply and use table (2017)
+
+Source: ONS, author calculations.
+Note: All values have been normalised by GDP. This table reports values at basic prices that excludes taxes on final goods.
+
+How then do we model the economy under these circumstances? The best model looks like the
+amplification model as the consequence of the closure of, say, restaurants, “cascades” through the
+rest of the economy. It turns out we had an ideal data set with which to assess the Covid shock,
+namely the “input-output” tables collected by the Office for National Statistics (ONS, see here). These
+tables provide a wonderful overview of the economy by mapping and quantifying industries by the
+amounts of goods and services they supply to, and demand from, each other. Table 1 provides an
+aggregated summary2 for what this looks like for the UK. The columns show supply, and the rows
+show use i.e. the columns show what inputs each industry requires to produce and rows shows the
+sources of demand for each industry.
+Let’s start with agriculture in the top row. It’s easier to look at the second cell, which tells you that
+0.9% of GDP’s worth of agricultural production goes from agriculture into production. Since production
+includes manufacturing and food processing (e.g. ready meals), this tells you that the agriculture
+sector is supplying the food processing sector, which makes sense. In the first cell, 0.3% GDP’s
+worth goes to agriculture itself, which tells you that agriculture uses some of its own output as input,
+subcontracting for example. Each row in the main body of the table gives the supply of each
+industry/product to other industries. The penultimate column gives final demand – supplies that go
+directly to consumers, not other producers. Thus the final column tells you the total demand for each
+sector, which is the supply to other producers and supply to consumers.
+
+2
+
+Practically one would use a much more granular table that divides the economy into at least 64 product or industry combinations.
+4
+
+As you will know, GDP nets out the producer/producer supplies to avoid double-counting output.
+Thus the panel on the bottom right tells you that for every £100 of GDP, the economy produces
+£227.90 of goods, of which £35.40 is imported. We can also see that the logistics, hotels and
+restaurants demand significant amounts of intermediate goods from the production industries or that
+hotels and restaurants are primarily producers of final goods, as opposed to goods produced for the
+benefit of other industries.
+More detailed versions of table 1 can be constructed and used to map3 demand shocks through the
+supply chain like the cascade we described earlier for restaurants. For example Figure 1 shows the
+impact of a 90 percent fall in demand for accommodation and food services. We see that the effect of
+this shock propagates to other sectors through the input-output linkages as the fall in demand for
+hotels moves upstream to its suppliers. I should emphasise this is only the first-order impact of the
+shock and so does not account for demand channels through lost employment or price changes. But
+as I already stated a lot of these channels have been shut down for now.
+Figure 1: Input-Output mapping of a 90 percent demand shock to accommodation and food
+services
+
+Source: ONS, author calculations
+Note: Figure displays the first order impact through the 2016 input-output table multipliers of a 90 percent shock to demand
+for accommodation and food services.
+
+By mapping the lockdown to final demand in each individual sector this input-output approach helped
+us to calibrate our estimate of the initial fall in output due to Covid-19 which we published in the May
+Monetary Policy Report. Based on a range of indicators, we thought GDP might decline by 3% in
+2020 Q1 and 25% in 2020 Q2, with the fall in Q2 representing by far the sharpest contraction since
+
+3
+
+I’ve posted a spreadsheet here if you are curious and would like to have a go yourself.
+5
+
+quarterly national accounts records began. We have now been able to observe official estimates of
+output through May 2020, which indicate the level of economic activity in May was about 25% lower
+than in 2019Q4, close to what we had anticipated. The blue bars in Figure 2 show the output falls
+across industries and indicate a broad and marked decline in output across sectors, with the sectors
+hardest hit corresponding to those most affected by social distancing rules.
+Figure 2: Decline in output and furloughed workers since 2019Q4
+
+Source: HMRC, ONS
+Note: Fall in the level of real gross value between 2019 Q4 and May 2020 as estimated by the ONS.
+Furloughed refers to cumulative claims under the JRS and SEISS relative to the level of employment in that industry in the 3
+months to December 2019.
+
+The falls in output so far have coincided with an equally dramatic fall in active employment, with a
+significant proportion of workers in each industry furloughed under the government’s schemes for
+employed (CJRS) and self-employed (SEISS) workers. We see in Figure 2 that the numbers of
+workers furloughed corresponds relatively closely to the declines in output in each industry. At this
+point in time these workers are not unemployed but temporarily absent from work which in part
+explains why the headline Figure for the unemployment rate remains 3.9 percent.
+However the labour market data and other indicators (released on 16th July 2020) point to troubling
+times ahead. Indicators such as the PAYE data from HMRC indicate employment through PAYE is
+down by around 650 thousand since March. We have also seen a significant uptick in claims for job
+seekers allowance and universal credit with ONS experimental statistics showing a rise of 1.4 million
+claims for job seekers allowance or work-related universal credit claims since the start of March.
+These numbers alone indicate the potential for the unemployment rate to rise above levels seen after
+6
+
+the financial crisis, when the official unemployment rate peaked at 8.5 percent in 2011. It would also
+seem likely that as the furlough schemes wind down, workers currently furloughed will further add to
+the numbers already unemployed. It is notable that around 30% of furloughed workers think it’s at
+least “quite likely” they will lose their job, as reported in the 2020H1 NMG survey.
+3. A disparate impact across workers
+Figure 2 highlights the disparity of the incidence of the lockdown across sectoral activity, with labourintensive sectors such as hospitality worst affected. We do not yet have the official labour market data
+to paint a picture of how different types of workers have been affected by the lockdown. But it is
+possible to get a sense of the incidence of the economic hardship on worker types by documenting
+their relative reliance on the government’s subsidy schemes.
+HMRC data on claims received for the CJRS and SEISS schemes shows that the young are
+particularly exposed to the shutdown sectors. Figure 3 shows that take-up of the furlough schemes
+has been concentrated in those aged 16 to 24, with 45% of that age group benefiting from the
+schemes, compared with only 25% of those aged 35 to 54. The disparity across men and women is
+perhaps not as stark as might be expected, with both groups experiencing furlough take-up rates of
+about 25-30%.
+Figure 3: Take-up of furlough schemes by age and gender
+
+Source: HMRC
+Note: Figure shows the percentage share of jobs furloughed under the
+Coronavirus Job Retention Scheme and Self-Employment Income Support
+Scheme relative to HMRC’s estimates of the number of eligible jobs for the
+furlough schemes. The Figure reflects claims received up until June 30th.
+
+7
+
+A great disparity also appears across income levels. About 35 percent of the lowest earners worked in
+shutdown sectors4 before Covid-19 hit, compared with only 5 percent of the highest earners. Put
+differently, workers in the bottom tenth of the earnings distribution are seven times more likely to work
+in shutdown sectors than those in the top tenth of the distribution (Figure 4).
+Figure 4: Share of employees in shutdown sectors by
+individual earnings
+Share in shutdown sectors (%)
+
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+1
+
+2
+
+3
+
+4
+5
+6
+7
+8
+Decile of individual earnings
+
+9
+
+10
+
+Source: Institute of Fiscal Studies, BN278, Figure 2, based on Quarterly Labour
+Force Survey Q1-Q4 2019, Waves 1 and 5 only. Employees only; excludes
+workers in full-time education.
+
+Figure 5: Proportion of employees who have experienced job changes since the coronavirus
+outbreak, by employee earnings quintile prior to the outbreak (6-11 May 2020)
+1 (lowest paid)
+
+25%
+
+2
+
+5%
+
+20%
+
+3
+
+2%
+
+17%
+
+4
+
+7%
+
+5 (highest paid)
+
+6%
+
+4%
+
+3% 2%
+Furloughed
+
+2% 3%
+3%
+
+3%
+
+Lost job
+
+7%
+
+Lost hours and pay
+due to coronavirus
+
+All employees
+
+15%
+0%
+
+5%
+
+3%
+10%
+
+15%
+
+4%
+20%
+
+25%
+
+30%
+
+35%
+
+Source: Resolution Foundation, A new settlement for the low paid, June 2020. Figure 2. Based on analysis of YouGov,
+Adults aged 18 to 65 and the coronavirus (COVID-19).
+Notes: Base = all UK adults aged 18-65 who had an employee job prior to the coronavirus outbreak, and provided
+information on their usual earnings prior to the coronavirus outbreak (apart from for the ‘all employees’ category).
+Earnings quintiles are based on net (take-home) usual employee pay prior to the coronavirus outbreak. ‘Furloughed’ and
+‘lost job’ relate to employees’ main job; ‘lost hours and pay due to coronavirus’ captures employees not in either of these
+first two groups who are working fewer hours than their usual hours before the coronavirus outbreak, which they state
+has happened for coronavirus-related reasons, and who have also experienced decreases in earnings.
+
+4
+
+See Sector shutdowns during the coronavirus crisis: which workers are most exposed: Institute of Fiscal Studies Briefing Note BN278.
+Shutdown sectors are: non-food, non-pharmaceutical retail; passenger transport; accommodation and food; travel; childcare; arts and
+leisure except ‘artistic creation’; personal care; ‘funeral and related activities’; domestic services.
+8
+
+And an online survey commissioned by the Resolution Foundation in early May shows that workers
+on low-pay have been hit the hardest, with 33% of the bottom fifth of earners having lost their jobs,
+been furloughed or lost hours and pay, compared with only 15% for the top-fifth of earners
+(Figure 5).5
+4. Can affected workers weather the storm?
+a. Household insurance and working from home
+How will these workers weather the storm? Some workers in shutdown sectors can rely on the
+incomes of other household members whose jobs are not affected by lockdown. For instance, over
+half of under-25s working in shutdown sectors live with their parents.6 And more than half of the
+lowest income-earners working in shutdown sectors have a spouse or parent whose job is not directly
+affected by the lockdown and who has higher earnings. In these households, a smaller fraction of total
+household earnings comes from the shutdown sectors, which helps to cushion the financial blow, but
+by no means offsets it entirely.
+We can look at other metrics of resilience. For instance, to what extent can these workers work from
+home? As you would expect from the high furloughing rates in the shutdown sectors, the answer is
+very little. Analysis by the Resolution Foundation using the distribution of weekly pay shows that being
+able to work from home is very much the prerogative of highly-paid workers (Figure 6).7
+
+See https://www.resolutionfoundation.org/app/uploads/2020/06/A-new-settlement-for-the-low-paid.pdf
+See https://www.ifs.org.uk/uploads/BN278-Sector-shutdowns-during-the-coronavirus-crisis.pdf.
+7
+See https://www.resolutionfoundation.org/app/uploads/2020/03/Doing-what-it-takes.pdf.
+5
+6
+
+9
+
+Figure 6: Share of employees who can work from home if
+needed, by gross weekly pay vigintile (2014-2018)
+50%
+40%
+30%
+20%
+10%
+0%
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Lowest paid <<< Weekly pay vigintile >>> highest
+Source: Resolution Foundation, Doing what it takes, March 2020, Figure 1.
+Note: pay vigintiles defined within each calendar year. Pay is usual gross pay.
+
+b. Financial buffers
+What about financial buffers? Can workers exposed to the shutdown sectors smooth through the
+shock by drawing down savings to support consumption?
+Before I address this question, let me give you some sense of the saving buffers of the average
+household. Data from the 2020H1 NMG survey tell us that the median household sets aside £125 a
+month, has access to £5,000 in deposits and £6,500 in total savings.
+But those headline Figures conceal a great deal of disparity across households’ employment status.
+Figure 7a shows that, setting aside retirees (the “inactive”) who have ample savings, the unemployed
+and those who have been furloughed have access to no stock of savings or half the median amount,
+respectively. Both employed and self-employed households do better than the median, with access to
+£5-7,000 and £10-12,500 of savings respectively. So self-employed households tend to have some of
+the highest savings, which affords them some measure of resilience to the Covid shock if it is shortlived.
+Another metric of household financial resilience is the share of households who report no savings at
+all, whether as a flow or a stock. By this measure, the 2020H1 NMG survey tells us that slightly less
+than one in three households reported no flow of savings, and one-fifth reported no stock of savings
+(either deposits or total savings). But, again, the unemployed were much more likely to report both no
+flow and no stock of savings, with roughly half of them doing so (Figure 7b). And furloughed workers
+were marginally more likely to report no stock of savings than the employed and self-employed
+households.
+10
+
+Figure 7a: Median deposits and total savings
+by employment status
+
+Figure 7b: Share of households with no
+savings by employment status
+
+£35,000
+Median deposits
+Median total savings
+
+£30,000
+£25,000
+£20,000
+
+60%
+Zero total savings
+
+50%
+
+Zero deposits
+Zero monthly savings
+
+40%
+30%
+
+£15,000
+£10,000
+£5,000
+£0
+
+20%
+10%
+0%
+
+Source: NMG Survey 2020H1
+Survey of 6,011 households conducted online between 6 and 28 April 2020. Total savings are deposits plus other investments.
+
+c. Savings under lockdown
+Workers are consumers and consumer spending accounts for about 70% of the UK economy. So the
+consumption and saving decisions of workers will play a crucial role in shaping the recovery and the
+response of policymakers to support it.
+The social distancing measures introduced in late March, and now being gradually unwound, have
+had dramatic effects on households’ consumption and saving behaviour. Households have been
+unable to spend on social activities – eating out, going on holiday and to museums. Work-related
+consumption, such as spending on transport and fuel, has also fallen. And households have also
+postponed spending on “delayables” such as furniture, cars and clothing. Spending on staples – food
+and drink, utilities – which make up about half of UK consumption, has not risen enough to offset
+those falls. So overall consumption spending has fallen substantially.8 At the same time, relative to the
+declines in consumer spending, incomes have been somewhat maintained, either through working
+from home or through the government’s wage subsidy scheme for those who have been furloughed.
+So one peculiarity of the Covid-19 downturn is the prevalence of “forced” or “involuntary” savings, with
+marked differences across the income distribution.
+
+8
+
+See Chart 3.2 of the May 2020 Monetary Policy Report.
+11
+
+Figure 8: Estimate of money not spent as a result of the lockdown by household income
+quintile
+£ per household per week
+
+£400
+
+Entertainment (100%); sport (75%)
+£300
+Clothing (25%); hair & beauty
+(100%); household goods (25%)
+
+£200
+
+Eating & drinking out (100%)
+
+£100
+
+Travel & transport (75%); vehicles
+(25%)
+
+£0
+Bottom fifth
+
+Second Middle fifth Second
+lowest fifth
+highest fifth
+
+Top fifth
+
+Holiday & accommodation (100%)
+
+Source: Figure 1 from ‘Excess saving’ in lockdown: a big new economic challenge”, 31 May 2020, New Policy Institute.
+Based on the authors’ analysis of the Living Costs and Food Survey, 2018-19. The percentages refer to the proportion of
+each type of spending assumed to no longer being spent during the lockdown.
+
+Figure 8 provides estimates of money not spent per household per week as a result of the lockdown,
+across quintiles of the income distribution. The top-fifth household will have “saved” roughly £320 per
+week, almost seven times as much as a household in the bottom fifth of the income distribution.
+I have put “saved” in inverted commas because a variable fraction of the money not spent on social
+activities and transport will have been spent on staples and debt repayments. That is particularly true
+for households at the bottom of the income distribution, who are more likely to have suffered income
+losses, forcing them to run down any savings and turn to the government for income support, such as
+Universal Credit.
+Evidence from the latest Bank of England/Ipsos Mori Survey shows a stark difference between the
+lowest and the highest earners in their saving response to the Covid-19 shock. The survey breaks out
+the net balance of households that increased savings, by household income. Low- and medianincome households reported their savings have decreased, while above-median and high-income
+households reported an increase (Figure 9a).
+The same survey also looks at the net balance of households that increased savings in response to
+the Covid shock, by employment status. Again, there is a marked disparity across employment
+cohorts, with a net balance of 18-28% of self-employed households reporting a decline in savings,
+compared with reports of broadly unchanged savings by full-time employees (Figure 9b).
+So, against the backdrop of their above-median saving buffers, as reported earlier in the NMG survey,
+the self-employed have been decreasing their savings in response to Covid.
+12
+
+It is not surprising. The self-employed are some of the most likely to have seen a fall in income as a
+result of the containment measures. According to the NMG survey, while a net balance of 5% of those
+in employment or inactive reported an income decline, a net balance of more than 60% of the selfemployed and furloughed employees reported a fall in income. Now, the fieldwork for the NMG survey
+pre-dated the introduction of the self-employment income support scheme (SEISS) on 13 May, so it
+could be that a slightly smaller net balance of self-employed is now reporting a fall in income.
+Figure 9a: Change in savings by low and
+high earners
+25
+
+Net balance increased savings (%)
+
+Figure 9b: Change in savings by employment
+status
+10
+
+20
+
+18-20 May
+
+5
+
+15
+
+29 May - 3 Jun
+
+0
+
+10
+
+3-6 Jul
+
+Net balance increased savings (%)
+
+-5
+
+5
+
+-10
+
+0
+
+-15
+
+-5
+
+-20
+
+-10
+
+-25
+
+-15
+
+-30
+
+18-20 May
+29 May - 3 Jun
+3-6 Jul
+
+-35
+
+Source: BoE/Ipsos Mori survey. The question asked is “As a result of the measures taken around the coronavirus pandemic,
+would you say that your household savings have increased, decreased, or stayed the same? Net balances are
+simple/unweighted, calculated as e.g. (increased a lot + increased a little) – (decreased a lot + decreased a little).
+Research for this survey was carried out by Ipsos MORI on behalf of the Bank of England. It surveyed a nationally
+representative quota sample of over 2,200 adults in the United Kingdom aged 16–75 using its online i:omnibus for each
+wave. Data have been weighted to the known offline population proportions for age, gender, government office region,
+working status and social grade.
+
+13
+
+2. Modelling the recovery
+We have seen then a model that describes the downturn and the very heterogeneous experience
+across sectors and individuals. What about the recovery?
+Those attempting to model the recovery have drawn various pictures, such as in Figure 11.
+Figure 11: Shapes of the recovery?
+
+Understandably, this has been labelled as corresponding to various letters of the alphabet. It’s worth
+reminding ourselves that the correspondence to a “V” for example depends very much on how one
+draws the scale of the x-axis. In the May MPR, we described a scenario with a very sharp downturn
+and incomplete recovery over several years like the blue line in Figure 11. This blue line is clearly not
+a V though but if you zoom out far enough then it will start to look more and more like a V. So let us
+ask: what factors may determine whether we experience the red or blue line: what forces drive GDP
+growth faster or slower and what happens to inflation?
+So far we have discussed how the input-output approach helped us forecast what would happen
+under lockdown, which as it turned out, was not such a bad approach given subsequent economic
+data. This approach worked well because the lockdown was in part a large forced shutdown in final
+demand, where many of the normal adjustment mechanisms through prices were at least temporarily
+shut down.
+If this model is right, then the release of lockdown should reverse the cascade, resulting in a full and
+V-shaped recovery. Therefore once demand is allowed to recover, according to this model, the
+economy will restore itself to the status quo ante.
+While a useful and intuitive framework, the I-O approach has some weaknesses. There is little
+account of how demand might return to the economy other than the assumption of releasing
+14
+
+lockdown. What about prices? In this I-O setup, restaurants use fixed amounts of food and
+accountancy services and hence a fall in demand cascades down via this ratio. Yet anyone with a
+working knowledge of economics will know that supply and demand are brought into balance by
+prices rising and falling, which in turn are the signals for consumers and firms to buy and sell more or
+less.
+In the light of this, economists do not tend to use these I-O models. Rather, they focus on the role of
+the price system, and the individual decisions9 of economic agents concerning consumption and
+saving.
+1. Representative Agent New Keynesian (RANK) models
+Given the focus on heterogeneity in the previous section it may surprise you that most of these
+models feature little or no heterogeneity amongst firms and workers. The textbook models of
+macroeconomics tend to rely on what is called a “representative agent” framework10.
+The dynamics in these models are driven by slow moving trends like technological progress and
+population growth around which the economy sustains ‘shocks’, unanticipated events that throw the
+economy off course and interact with frictions such as price and wage rigidity that mean the economy
+takes time to self-correct. An important element in these models is “consumption smoothing”. An
+impatient consumer planning their consumption over time prefers jam today rather than jam tomorrow.
+But equally, they are unlikely to want to consume everything today and nothing tomorrow. Rather,
+they will “smooth their consumption”: if they hit a temporary patch of low income they will try to run
+down savings and build them up again when times are better.
+2.
+
+Supply and demand shocks
+
+Economists like to broadly categorise shocks to the economy as either demand or supply shocks.
+Demand shocks are events that change households demand for goods and services relative to some
+baseline, often caused by changes in household confidence or unanticipated changes in income,
+sometimes due to fiscal or monetary policy. Supply shocks are those shocks that raise or lower the
+productive capacity of the economy.
+
+Cochrane (2020) relates this point to SIR models used by epidemiologists. The points out the simplest SIR models takes the R number as
+a given, defined by the fundamental transmissibility of the disease and deduces the spread of infection. But if economic agents respond to
+the risk of infection by working less and consuming less then the R number is driven as well by individual choices.
+10
+It should be noted that in using these models, most policy institutions are not ignoring these other frictions or heterogeneity but analysing
+those aspects alongside their main models which provide the central organising framework for policy analysis and forecasting. Furthermore
+embedded in most policy institutions’ general equilibrium models, including the Bank of England’s (Burgess et al, 2013), are usually two
+household types, constrained and unconstrained. The constrained are a fixed share of households cut off from financial markets and
+therefore must consume all their income. This helps capture more accurately the response of the modelled economy to different shocks
+(Gali, 2017).
+15
+9
+
+So what is COVID-19? In my view it is best described as a “supply shock”. That is, it is a change to
+the extent to which the economy can provide goods and services: restaurants must now be 1/2 full for
+example. I will return to exactly what type of shock it is below.
+Let us think of COVID-19 as a temporary supply shock, whereby some sectors are unable to supply
+goods and services but we know that at some point these constraints will be released. What do our
+standard models say? Remember that consumers wish to smooth consumption. If they expect to be
+better-off tomorrow than today, then now is a good time to lower saving in order to maintain
+consumption. Now, of course with a lockdown, they may simply be unable to buy what they want.
+This means a combination of increased savings (involuntarily) and increased prices as consumers try
+to buy more of what is in short supply. What happens when consumption restrictions are released?
+Consumers confident in the return to pre-lockdown conditions will resume spending. Thus these
+models would tend to predict a rather smooth recovery in line with the unwinding of the supply shock,
+like the red line in Figure 11. As social distancing measures come off we should therefore anticipate a
+quick and full recovery.
+
+Figure 12: CHAPS payments
+
+Figure 13: Consumer prices
+
+Sources: ONS and Bank calculations.
+Note: CHAPS data is based on a sample of around 100 UK
+companies payments received from their merchant
+acquirers on a daily basis. These payments reflect the
+sales that companies make through debit and credit card
+purchases, which are summed to estimate rolling sevenday revenues. Social consumption includes corporate
+revenues from hotels, restaurants, air travel and cultural
+events. Delayable consumption includes household goods,
+clothing, vehicle purchases and recreational goods. Work
+related includes travel and fuel. Staples include housing,
+food and health. Spending data shown through 16 July.
+
+Source: ONS and Bank calculations
+Note: Including the drag from fuel, prices of 'work-related
+travel' items fell 5.4% since February relative to 2018-2019
+trend. This chart excludes regulated prices such as tobacco,
+water supply, sewerage collection and education which fell
+2.4% since February relative to trend. *Delayable items
+exclude audio-visual goods and purchase of vehicles.
+
+16
+
+Thus the “supply shock plus smoothing” models suggest that (a) we restore the economy when the
+shock wears off and (b) that whilst supply is impaired there is inflation.
+At first glance high-frequency payment indicators such as in Figure 12 below give some support to
+this idea. It shows that spending on a number of consumer items has recovered (black line). That
+looks like consumption is bouncing back.
+We can get some more insight however by looking at changes in consumption and changes in price.
+That gives a different picture (Figure 13): prices appear to have fallen.
+So it doesn’t look like this supply shock is inflationary at the moment. That means that demand must
+have fallen more than supply. Thus we cannot presume that restoring supply will be sufficient. We
+have to figure out what will happen to demand.
+To do this, we have to isolate the mechanisms that might cause this supply shock to become a
+demand shock. There are at least two channels that could cause demand to be deficient as the
+productive capacity of the UK economy returns: 1) Fear of infection and (2) fear of unemployment.
+Both these channels will mean the recovery is likely to resemble more the blue than red line in the
+Figure 11.
+3. Fear of infection
+To understand the demand implications of the supply shock, it is helpful, in my view, to describe
+further the supply shock. Here’s one way of thinking about it.
+For a pub to offer a valuable service it needs four main inputs. Three of them are eminently visible:
+(1) intermediate inputs, the beer to be delivered, the sound system, lighting etc. (2) labour, such as
+bar staff, and (3) capital, such as the building and fitments.
+The fourth has only become salient with the pandemic and might be called “a healthy environment”.
+Of course pubs have always had to have such an environment in the sense of clean kitchens, cellars
+etc. But there was also the publically provided element of a safe environment, whereby one can think
+of public health as being a part of publically provided infrastructure. The pandemic has both raised
+that cost, since we need new medicines and the like, but also, in effect privatised it, by obliging private
+businesses to install Perspex screens, enforce distancing etc.
+
+17
+
+Thus the “supply shock” is not just the collapse in the production of goods and services; it’s also the
+collapse in the ability of the pub to supply “health” services, previously mostly publically provided.
+Now, part of the incidence of that shock has fallen on private business. How then does this help us
+think about how the supply shock turns into a demand shock? It does so because potential
+customers might quite reasonably worry about the health safety of their destination and so releasing
+from lockdown might not hasten demand recovery if consumers remain worried.11 Can we get a
+sense of how big this effect is?
+Let us return to the high-frequency payment data we looked at earlier.
+Figure 12 breaks down payments data by category. You can see that spending on staples, after a
+sharp uptick in late March and compensatory fall in April, rose above pre-Covid levels in May and
+June. That points to some substitution away from social spending, which now stands close to 60%
+below its pre-Covid level as people shun going out and stay home. Spending on “delayables” has
+been rising too, and is now exceeding its pre-Covid level.
+But these data don’t tell us what is driving the spending recovery. Maybe people are consuming more
+because lockdown measures have been gradually lifted. Maybe they’re consuming more because
+infection rates have come down and they feel more confident going out. Yes, lifting the lockdown is a
+necessary condition for people to resume social spending, but is it sufficient? How can we identify the
+relative effects of voluntary versus mandatory social distancing? Eyeballing Figure 12 does not allow
+us to disentangle effects.
+So what evidence do we have on voluntary and mandatory measures?
+The most obvious thing to do is simply to ask people about their worries. Figure 14 shows data from
+the latest ONS Impact survey, which asked about the fraction of individuals who are comfortable/very
+comfortable and uncomfortable/very uncomfortable about eating out, indoors and outdoors, in the
+sample week and week before. A clear majority are uncomfortable about eating inside at least.
+
+Similarly, Hacioglu et al (2020) find that the bulk of the fall in consumption in the UK started from the second week of March, before the
+imposition of the national lockdown on 23 March.
+18
+11
+
+Figure 14: Attitudes to Eating Out
+70
+60
+50
+40
+30
+20
+10
+0
+How comfortable How comfortable How comfortable How comfortable
+eating indoors at eating indoors at eating outdoors at eating outdoors at
+a restaurant this a restaurant last a restaurant this a restaurant last
+week?
+week?
+week?
+week?
+Uncomforable or very uncomfortable
+
+Comfortable or very comfortable
+
+Source: ONS survey, 8-12 July
+
+Figure 15: Recovery in social spending and the risk environment
+
+Source: Google and Bank calculations
+Note: The Google Search data is taken from Google Trends. The “social spending” indicator is a composite of a number of
+terms, including items such as “café”, “bar”, “restaurant”, etc. Our indicator is an index and the shortfall is calculated as the
+% deviation of June 2020 search volumes from June 2019 search volumes.
+
+Let us turn next to cross-country data. Figure 15 plots the shortfall of consumer interest in eating out
+(proxied by the deficit of Google searches for “restaurants” and the like relative to last year) measured
+in June against the prevalence of the virus (captured by Covid-19 deaths) in the week before
+lockdowns were eased. Notice the shape of the scatter and the timing of the data points. You can see
+that the deadlier the environment before mandatory lockdowns were lifted, the lesser consumer
+interest in social spending now. The UK is a case in point, having relaxed its official lockdown amidst
+high virus prevalence, and exhibiting the largest shortfall in social spending intent amongst all
+countries in the sample. But even in countries that had a lower death count before lifting lockdowns,
+
+19
+
+for instance South Korea, China and Japan, social spending interest remained depressed relative to
+pre-Covid. This points to a risk of persistence in consumer risk-aversion and spending activity.
+Figure 16: Eating out in Texas
+
+A second piece of evidence is in a specific location, namely Texas and Figure 16 shows the story.
+From 13 March to 2 April, the US federal government and local authorities declared a state of
+emergency and imposed lockdowns in Texas, whereupon restaurant bookings fell to zero. From
+1 May, restaurants reopened but with dining-in capacity constraints. Those were lifted from 25% on
+1 May to 75% on 12 June, which coincided with a continuous pickup in bookings until a peak in
+mid-June. From that peak, bookings started to fall consistently, concomitant with a sharp uptick in
+cumulative Covid-19 cases. On 26 June, the governor of Texas announced a reduction of indoor
+restaurant seating capacity to 50% from 75% and closed bars other than for take-away, effective
+29 June.
+Since 26-29 June, bookings have fallen further but at a slower pace than commensurate with the
+steady rise of Covid-19 cases. This suggests that patrons’ reluctance to dine out is abating, perhaps
+because of relatively greater confidence in the provision of a safe indoor environment following the
+governor’s announcement, (but also, perhaps, reflecting anecdotal evidence of increasing availability
+in outdoor seating capacity.)
+This Texan case study suggests that consumer behaviour responds not just to the prevalence of the
+virus, as measured by the number of Covid cases, but also to the provision of a safe environment by
+both the public and private sectors.
+
+20
+
+Finally, I turn to more formal econometric evidence (Goolsbee and Syverson (2020)). The authors use
+US mobile phone data to track movements of people to business locations. They exclude
+manufacturing but look at visits to, for example, shops, theatres and gyms, where location is a
+meaningful indicator of consumer activity. The US has seen widely differing experiences across
+counties of lockdowns and releases from lockdowns. Thus they can compare county A, which has
+released from lockdown, with adjacent county B, which has not, but both face the same death rate. If
+foot traffic recovered in county A, then this would suggest that exiting the lockdown, not fear of
+infection, would be driving behaviour.
+Their main finding is that of the measured 60% fall in consumer traffic, only 7% was estimated to be
+due to official lockdowns. Rather, consumer visits are strongly correlated with the number of local
+Covid deaths, which suggests that fear of infection is driving consumer behaviour (similar to the visual
+impression from the Texas data).
+4. Fear of unemployment
+I’ve discussed how our standard models are built around a single representative household, yet we
+also know this economic shock has had a highly heterogeneous impact on sectors and households.
+Some household have lost their jobs, many of whom will be on lower incomes with little savings. Many
+more fear the prospect of losing their job once the furlough schemes end or might feel insecure
+working from home. Therefore it might be important to dispense with our representative household in
+order to properly model the prospects for the recovery.
+Since the Global Financial Crisis, there has been an expansion of and innovations to another class of
+models: Heterogeneous Agent New Keynesian (HANK) models. As you might suspect, HANK models
+build on the New Keynesian assumption of price and wage rigidity, by modelling the distribution of
+household income and wealth with incomplete financial markets12. In these models individual
+households’ decisions are contingent on their wealth, income, access to financial markets, liquidity of
+their assets and government policy. Other modellers have gone on to introduce labour-market
+frictions, such as search-and-matching frictions, meaning that individuals worry about the risk of
+unemployment and finding a new job, which in turn varies with the business cycle. Finally there are
+also models that emphasise heterogeneous firms and sectors, and input-output linkages between
+them.
+
+Incomplete credit markets mean that some households cannot borrow to insure against unemployment risk. Households are constrained
+in their ability to insure themselves against individual risk e.g. there may be limit to how much they can borrow.
+21
+12
+
+This class of models tends to be quite intuitive in its description of the economy and the effects of
+macroeconomic policy relative to RANK models. For example in HANK models, contrary to RANK
+models, monetary policy works as much through its indirect, general-equilibrium effects on income
+and employment, as it does by direct spending responses to changes in interest rates (Kaplan &
+Violante, 2018; for an extension of these models into models incorporating fears of infection, see
+Kaplan, Moll & Violante 2020). The basic intuition is that credit-constrained households cannot
+smooth consumption by borrowing, so their spending decisions depend in part on current income from
+employment.
+Furthermore, these household need not be asset-poor. Wealthy households, who hold a large share
+of their wealth in illiquid assets such as housing, are also a driver in these models. HANK models also
+create a larger role for fiscal policy as credit -constrained households are likely to be more responsive
+to changes to taxes or transfers than wealthy households. In the RANK model however, wealth is
+pooled and so transfers, taxes and borrowing net out to zero within the household.
+So what can these models tell us about the risks we face as we enter the recovery?
+1. Wealth distribution
+The disproportionate exposure of the young, self-employed and low income households to the job
+losses and reduction in income related to Covid-19 gives a much more Keynesian flavour to the
+prospects for any recovery. That is to say, the fortunes of these households is going to depend upon
+aggregate demand in the economy as these households tend to have lower savings and spend a
+higher share of their incomes. Models that capture the wealth distribution and its interactions with
+consumption and labour supply will be useful for understanding the effects of monetary and fiscal
+policy on these households.
+2. Unemployment
+An important channel that these models can help describe is the interaction between job uncertainty
+and the need for precautionary savings. Job uncertainty can take two forms: the risk of job loss or the
+risk of poor job-finding prospects once unemployed. A feedback loop can develop where a rise in the
+risk of unemployment causes workers to save more for precautionary reasons. This rise in demand
+for saving amplifies the effects of the initial shock, supply or demand, and provides a mechanism for a
+supply shock to morph into a demand shock13 14.
+
+In some sense, this is also everyone’s model of the economy. In the I-O model, there is a mechanical relation whereby low demand
+cascades down to lower demand along the supply chain.
+22
+13
+
+These models capture a behavioural response whereby the fear of poor economic prospects, and
+related precautionary economic behaviour sustains low demand. When a negative shock hits, people
+worry about their own future and employment prospects, which leads to an increase in desired
+savings and lower demand. Notice that this model is in contrast to a standard approach where the
+onset of bad times, if perceived as temporary, is a time to reduce savings in order to smooth
+consumption. This stabilises the effects of the shock as opposed to amplifying it.
+Figure 17: Supply shock amplification in a heterogeneous agent model with labour market frictions
+
+Note: Graph shows the response of macroeconomic variables to a persistent supply shock. The blue line is the response in
+a model of Ravn and Sterk (2020) which includes incomplete markets, sticky wages and search and matching frictions. The
+orange line is a similar model but with complete markets and no labour market frictions, and reflects the textbook New
+Keynesian response to a supply shock. The models have been parametrized to be the same along all other dimensions and
+produce the same steady states. The output gap is output relative to what output would be in a frictionless version of the
+model i.e no price or wage rigidity or labour market frictions.
+
+To see if this makes an appreciable difference, Figure 17 illustrates the responses to a supply shock
+in a model based on that of Ravn and Sterk (2020) that includes incomplete markets and
+unemployment risk (HANK&SAM), and compares it to the more orthodox New Keynesian response to
+a supply shock. The panel shows the responses of output, unemployment and inflation following an
+illustrative negative shock to supply (Total Factor Productivity).
+
+Another related model is that of Guerrieri et al (2020) which demonstrate how sectoral heterogeneity and household heterogeneity can
+combine to produce instances of supply shocks that ultimately result in inefficiently low demand.
+23
+14
+
+Under the HANK&SAM simulation, the response of output is amplified beyond the effect of the initial
+shock due to a rise in unemployment. The persistent rise in unemployment, and crucially
+unemployment risk, pushes down on household demand, which in turn pushes down on inflation. In
+the baseline New Keynesian model the supply shock pushes down on unemployment as firms hire
+more workers to try to meet unchanged demand, which in turn pushes up on inflation through higher
+labour costs. For the monetary policymaker the difference is important. In the baseline RANK model
+the supply shock has created a positive output gap and higher inflation, whereas in the HANK&SAM
+model we have a negative output gap and lower inflation.
+3. Policy and prospects
+In recent months I have voted for more accommodative monetary policy. As I have tried to set out, in
+Haskel (2019) for example, I am concerned about the economy “getting stuck” and recovering only
+slowly and undershooting the inflation target.
+Regarding the current downturn, I believe the I-O models were very helpful in modelling the
+magnitude and incidence of the decline. As for the recovery, I would put weight on the logic that
+suggests that as a behavioural response to the supply shock, cautious consumers, worried about
+unemployment and health risks, will hold back the economy. In addition to that, the heterogeneous
+response means each individual’s economic fortunes depend strongly on the general behaviour of
+other consumers in the economy in a way that, without policy, may not be self-correcting.
+If the worries about infection are an important determinant of behaviour, then the evolution of the
+economy likely depends on the provision of “health” services, both public (e.g. track/trace) and
+privately (e.g. screens in shops).15 To the extent these services are privately provided, then I would
+expect to see a new wave of competition and innovation as firms compete by offering safe
+environments. To the extent these services are publically provided, there is a crucial link between the
+economy and such provision in at least two ways. First, the economy will crucially depend on the
+provision and understanding of high quality local information on infection by the health and statistical
+authorities. Second, the social returns to developing a cheap, fast and non-invasive test will be
+enormous. 16,17 This multiple set of interactions will be key to determining the path of the recovery.
+
+For example, in the UK, theatres are closed. In South Korea, the theatre showing Phantom of the Opera is open. Patrons are tested and
+have to wear masks, but seating is at full capacity. At the same time South Korea has strict quarantining and track and trace system,
+enforced by the civil authorities. In other words, both the theatre and public sector have supplied health services.
+16
+For example, Eichenbaum et al (2020) study a model where workers decide whether to consume and go to work but those activities
+involve human contact and hence some chance of catching the disease. Lockdown stops contacts and the disease, but stops economic
+activity. The economy recovers as herd immunity is built up and, eventually, consumption and work are restored. In an extension
+Eichenbaum (2020) considers a model where agents don’t know if they are infected and can choose to take a test. They typically show very
+large benefits from quarantining the sick relative to locking everyone down.
+17
+A third point is the social and political interactions between testing and quarantining. For example, Eichenbaum et al (2020) point out that
+with no, or ineffective quarantine policies, an agent who tests positive can still work and consume. Indeed, other things equal, they have
+every incentive to do so, since they cannot catch the disease. However, the non-infected realise this is so and thus, correctly, work out that
+24
+15
+
+References
+Bank of England (2020). Monetary Policy Report, May 2020.
+Bangham, G. and Leslie, J. (2020). Rainy Days. An audit of household wealth and the initial effects
+of the coronavirus crisis on saving and spending in Great Britain. Resolution Foundation. June 2020
+Burgess, S., Fernandez-Corugedo, E., Groth, C., Harrison, R., Monti, F., Theodoridis, K., &
+Waldron, M. (2013). The Bank of England’s forecasting platform: COMPASS, MAPS, EASE and the
+suite of models. Bank of England Working Paper No. 471.
+Cochrane, J. (2020). Reopening the economy, and aftermath. Webinar: COVID-19 and re-opening
+the economy, Stanford University, Monday, May 18.
+Debortoli, D. and Galí, J. (2017). Monetary policy with heterogeneous agents: Insights from TANK
+models. Manuscript, September.
+Eichenbaum, M.S., Rebelo, S., and Trabandt, M. (2020). The Macroeconomics of Epidemics. NBER
+Working Paper 26882, April 2020.
+Goolsbee, A. and Syverson, C. (2020). Fear, lockdown, and diversion: comparing drivers of
+pandemic economic decline. NBER Working Paper 27432.
+Guerrieri, V., Lorenzoni, G., Straub, L. and Werning, I. (2020). Macroeconomic Implications of
+Covid-19: can Negative Supply Shocks Cause Demand Shortages? NBER Working Paper 26918.
+Hacioglu, S., Känzig, D. and Surico, P. (2020). Consumption in the time of Covid-19: evidence from
+UK transaction data. Discussion Paper DP14733, CEPR Discussion Paper Series.
+Haskel, J. (2019). An end-of-year retrospective on the UK outlook and monetary policy. Speech at
+Resolution Foundation, London.
+
+those group working and consuming are predominantly infected. Thus the non-infected withdraw from activity and so economic activity is
+worsened. With a strong quarantine policy, by contrast, the non-infected do not have this fear and economic activity is improved. In their
+simulations, such containment via quarantine saves 1.7trillion US dollars. As they note, Ferguson 2006 argue that much virus transmission
+does not occur in economic activity and so, for the maximum effect there would have to be very strict confinement around economic and
+social activity. Issues around quarantine policy and testing are of course not for the monetary authorities to decide, but these models
+suggest the outcomes for the economy depend upon their effects.
+25
+
+Joyce, R. and Xu, X. (2020). Sector shutdowns during the coronavirus crisis: which workers are most
+exposed? Institute of Fiscal Studies Briefing Note BN278.
+Kaplan, G. and Violante, G.L. (2018). Microeconomic Heterogeneity and Macroeconomic Shocks.
+Journal of Economic Perspectives – Volume 32, Number 3 – Summer 2018 – Pages 167-194.
+Kaplan, G., Moll, B. and Violante, G.L. (2020). Pandemics According to HANK. Mimeo.
+Kenway, P., Barwick, S. and Corry, D. (2020). ‘Excess saving’ in lockdown: a big new economic
+challenge. New Policy Institute.
+Ravn, M.O. and Sterk, V. (2020). Macroeconomic Fluctuations with HANK & SAM: an Analytical
+Approach.
+Resolution Foundation (March 2020). “Doing what it takes. Protecting firms and families from the
+economic impact of coronavirus”. Briefing.
+Resolution Foundation (June 2020). “A new settlement for the low paid. Beyond the minimum wage
+to dignity and respect”. Briefing.
+Tenreyro, S. (2018). Models in macroeconomics. Speech given at the University of Surry, Guilford.
+Tenreyro, S. (2020). Covid-19 and the economy: what are the lessons so far? London School of
+Economics webinar, 15 July 2020.
+
+26
+
+

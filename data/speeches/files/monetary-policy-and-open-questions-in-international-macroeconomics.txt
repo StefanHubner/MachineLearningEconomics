@@ -1,0 +1,942 @@
+Monetary policy and open questions in international
+macroeconomics
+Speech given by
+
+Silvana Tenreyro
+External Member of the Monetary Policy Committee, Bank of England
+
+John Flemming Memorial Lecture
+London
+28 October 2019
+
+The views are not necessarily those of the Bank of England or the Monetary Policy Committee. I
+would like to thank Oliver Ashtari Tafti and Michael McLeay for their assistance in producing this
+speech. I would also like to thank Tommaso Aquilante, Tom Belsham, Ben Broadbent,
+Federico Di Pace, Marco Garofalo, Richard Harrison, Jonathan Haskel, Clare Macallan,
+James Talbot, Kenny Turnbull, Carlos van Hombeeck, Neeltje van Horen and Jan Vlieghe for helpful
+comments and input.
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+Introduction
+
+Thank you for the invitation to speak this evening. John Flemming was an extraordinary figure in academia
+and public policy and it is an honour to give a lecture in his memory.
+
+There is a lot going on at the moment, in economics and in politics. But in this lecture, I would like to take a
+longer-term view instead of looking at the events on the foreground, dramatic and important as they are, and
+consider some open questions in international macroeconomics. These questions, though slow-burn and
+global in nature, will also have some bearing on the UK outlook and will, directly or indirectly, have
+implications for living standards in the United Kingdom.
+
+I will focus on three ideas that have dominated the policy and academic debate in the years since the crisis.
+These are a) the role of the dollar in international trade; b) the effect of trade barriers on the economy and c)
+the so-called ‘Doom Loop’ connecting sovereign and bank risk – which has been the source of much concern
+in the euro area.
+These topics are not entirely new ground. Indeed, John Flemming’s first and final issues as editor of the
+Economic Journal both contained articles on the effect of changes in tariffs. One difference is that in those
+days, the tariff changes in question were reductions rather than increases.1 Many of the effects of the use of
+the dollar as invoice currency in international trade transactions have also been discussed before in the
+context of local currency pricing. And John Flemming himself contributed greatly to the debate on the early
+successes and failures of the euro.2
+
+Our nascent understanding of these issues has led to a number of policy proposals. Today, I want to argue
+that the ideas behind these proposals may only capture part of the picture. In doing so I will draw on some
+recent research of my own3. What links my arguments is the importance of considering general equilibrium
+effects. And in particular, of considering the role of monetary policy in influencing what we observe in the
+data. On each idea, current thinking needs to evolve before we can conclude that these issues are settled.
+
+Trade with dollar invoicing
+
+Trade is currently the key topic on the international policy agenda. And for the past 50 years, exchange rates
+have been seen as key determinants of trade flows, at least in the short term. It is no surprise therefore that
+debates over trade policy often bleed into arguments over the appropriate exchange rate. But recently, the
+
+1
+
+Effects of the Kennedy Round Tariff Concessions on the Exports of Developing Countries by J.M. Finger (1976); and General
+Equilibrium Evaluations of Tariff-Cutting Proposals in the Tokyo Round and Comparisons with More Extensive Liberalisation of World
+Trade by Fred Brown and John Whalley (1980).
+2
+In his role as the first chair of CESifo’s European Economic Advisory Group. See Corsetti et al (2002).
+3
+Ashtari Tafti and Tenreryo (forthcoming); McLeay and Tenreyro (forthcoming).
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+2
+
+conventional view that exchange rate movements affect trade flows has been called into question by a
+number of academics and by policy institutions such as the IMF.4
+
+The idea driving this change of view, is the recognition that the dollar now plays a vastly outsized role in
+international trade. While the US accounts for only 10% of global trade and 15% of world GDP, around half
+of global trade is invoiced in US dollars. Figure 1 shows that in many countries the dollar is even more
+important, being used as the invoice currency for even larger shares of non-US exports. Others have
+discussed the various trends, such as the lengthening of global value chains, which have driven this feature
+of international trade.5
+Figure 1 – Shares of exports traded with the US and invoiced in dollars, by country
+Exports invoiced in Dollars
+
+Exports to the US
+
+Algeria
+Argentina
+Australia
+Austria
+Belgium
+Brazil
+Bulgaria
+Canada
+Colombia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Iceland
+India
+Indonesia
+Ireland
+Italy
+Japan
+Latvia
+Lithuania
+Luxembourg
+Malaysia
+Netherlands
+Norway
+Pakistan
+Poland
+Portugal
+Romania
+Slovenia
+South Africa
+South Korea
+Spain
+Sweden
+Switzerland
+Thailand
+Turkey
+Ukraine
+United Kingdom
+
+100 Percentage of total exports
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Source: Gopinath (2016) and IMF Direction of Trade Statistics.
+
+The suggested upshot of dollar invoicing is that exchange-rate movements have only small effects on a
+country’s export volumes, at least in the short term.6 In the standard sticky price (New Keynesian) model, it is
+true that this is an implication of dollar pricing. If monopolistic prices are sticky in dollars, the argument goes,
+a depreciation by any (non US) country does not change the export price. If the dollar prices of exported
+goods do not change, then there may be no incentive for foreign consumers to purchase more of them. In
+the jargon of the literature, there is no expenditure switching towards that country’s exports.
+
+To give a concrete example, suppose there is a fall in the value of the Chilean peso. The majority of Chilean
+exports are priced in dollars, so if their prices are sticky (as assumed in the model), the depreciation has no
+4
+
+See IMF (2019), Carstens (2019), Gopinath et al (2019), Boz et al (2019) and Gourinchas (2019). See also the discussion of these
+ideas in Carney (2019).
+5
+See Gopinath (2015), for example. IMF (2019), Gopinath et al (2019) and others argue that the growth of global value chains also
+reduces the impact of exchange-rate movements on profitability and the response of export supply, as an increasing proportion of inputs
+are imported, and so are also priced in dollars.
+6
+Governor Carney’s remarks at the 2019 Jackson Hole Symposium discussed some of the broader implications of this and other
+developments for the international monetary and financial system (Carney, 2019).
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+3
+
+effect on the dollar price. For a country which imports Chilean products, such as Brazil, the price of these
+imports in Brazilian real only changes if the real-dollar exchange rate has changed. If prices are sticky, there
+may be little direct effect. By contrast, in the UK, around half of exports are invoiced in sterling. When the
+pound falls, these goods automatically become cheaper for foreign buyers. UK export demand is likely to
+increase on impact.
+
+This idea has led to policy recommendations on the desirability of fully floating exchange rates. Gopinath
+(2017a, 2017b) argues that there are severe limitations on the ability of exchange rates to close output gaps
+and achieve full employment. She suggests that less flexible exchange-rate regimes, such as managed
+floats, may therefore be the best framework for most countries. Following on from this view, in their 2019
+External Sector Report, the IMF warned that exchange-rate flexibility may need to be supported by other
+policies. IMF modelling even suggests that countries with a high degree of dollar pricing may require larger
+capital controls.7
+
+The debate also has important implications for the UK and for monetary policy. As a highly open economy,
+the export response to movements in sterling is a crucial margin of adjustment to various shocks hitting the
+UK. And the response of net trade to the exchange rate is also a significant part of the monetary
+transmission mechanism. Without it the transmission mechanism would be weakened, i.e. the response of
+the economy to changes in interest rates would be smaller, compared to a situation where all goods were
+priced in sterling. The share of UK exports priced in dollars may also grow over time, given the network
+effects associated with invoice currency choice, as well as the likelihood that after Brexit, a higher proportion
+of UK trade will be with countries where dollar invoicing is more prevalent.
+
+Why depreciations still benefit exporters
+
+I would argue that exchange-rate movements do affect exports, in a variety of ways. Dollar invoicing may
+affect the pricing decisions of some export goods on some occasions, but focusing too narrowly on these
+decisions misses several important channels. While the textbook New Keynesian model is a useful and
+tractable abstraction, we should be careful not to treat it too literally. As I set out in some forthcoming
+research, there are at least three important reasons why a depreciation will still expand exports, even if
+current exporters’ prices are invoiced in dollars.8
+First, a depreciation increases exports’ profitability, as export prices increase relative to labour costs.9
+(Imported inputs mitigate the increase in profitability, but to the extent that labour costs adjust more slowly,
+profitability will rise). The increased profitability opens a number of potential entry margins at different levels,
+
+7
+
+Gopinath (2019). In the presence of currency mismatches on borrower balance sheets, the modelling suggests that capital controls
+can mitigate some costs of exchange-rate fluctuations. If, as the models assume, exchange-rates have small effects on trade volumes
+under dollar pricing, then any benefits of capital controls are amplified.
+8
+McLeay and Tenreyro (forthcoming).
+9
+See Broadbent (2017), who makes a similar set of points and also stresses the effect of the exchange rate on the profitability of
+tradeable goods.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+4
+
+many of which can take place quickly. Exports expand at the extensive margin since none of these new
+margins are bound by the stylised sticky-price contract signed in our models. In particular, many products
+and services that were not exported before are now competitive in international markets; new market
+destinations become profitable.10 These margins can be filled by incumbent exporters, who are typically large
+and multi-product firms that are able to respond rapidly.11 There can also be entry of new potential export
+firms, which now find it profitable to sell abroad either directly or indirectly, by piggy-back exporting on
+existing exporters and intermediaries.1213
+
+To return to my earlier example, even if exporters of a particular Chilean wine brand, for instance, were
+unable to change dollar prices charged in Brazil, competitor wine producers would find it profitable to enter
+the market and undercut the incumbent. And producers of other products that were not previously exported,
+may also find it profitable to export at a given dollar price, since this would translate into higher peso
+revenues. Anecdotally, the effects on profits and production explain why it is easy to find examples of export
+firms (actual or potential) welcoming currency depreciations, even when dollar export pricing is widespread.14
+
+Second, while we have a wealth of evidence that goods are invoiced in dollars, this is not necessarily the
+same thing as stickiness in dollars or dollar pricing. Goods may be invoiced in dollars as this is the most
+convenient currency for financial transactions, but exporters may still translate into local currency terms when
+making pricing decisions and may still adjust their prices in the event of a depreciation. Especially for large
+movements in the exchange rate, exporters are more likely to change prices than assumed in the simple
+(Calvo) pricing framework we use in our models, which prevents some firms from changing their prices no
+matter how large is the shock.15
+
+The final reason concerns many countries covered by IMF programmes: several are commodity exporters
+that are price takers on global markets, facing perfectly flexible prices. As a result, the arguments on
+stickiness and monopolistic power above do not apply; when the Chilean peso depreciates, it becomes
+profitable to expand copper production at the unchanged dollar price. This is especially the case as the cost
+of the main input, labour, tends to be sticky in domestic prices.16 The constraints on exports’ expansion in
+this case are on supply capacity, not on the demand side (as in the New Keynesian model).17 I discuss these
+
+10
+
+These margins are important empirically. Bernard et al (2009) report that changes in the set of products and countries that US firms
+export to from accounted for an average of 31 per cent of annual changes in exports between 1993 and 2003.
+11
+Empirically, product switching is frequent. Bernard, Redding and Schott (2011) find that one half of US manufacturing firms alter their
+product mix at least every five years. Bernard and Okubo (2018), using annual data, report that 20 per cent of Japanese manufacturing
+firms change their product mix each year.
+12
+In the presence of sunk costs of entry, entry of new firms may be more likely for depreciations that are perceived to be more
+persistent.
+13
+See Dhingra and Tenreyro (2017) for evidence of piggy-back exporting in agricultural markets.
+14
+For example, see “Reeling peso to boost some Argentine companies despite debt woes” (Reuters, May 14, 2018), and conversely,
+“Peso's Rise Squeezes Chile's Exports” (Wall St Journal, Jan 28, 2004).
+15
+This point was recently made by De Gregorio (2019). Corsetti, Crowley and Han (2018) present microeconomic evidence consistent
+with the idea that the invoice currency of UK exports does match the pricing currency, but they do not explore any potential
+non-linearities in the pricing decision. They also present evidence that there is often switching between invoice currencies at a relatively
+high frequency, which is unlikely to be consistent with sticky dollar prices.
+16
+Even if input prices were set in dollars (if production used imported inputs, for example), the depreciation will make those dollar profits
+worth more in domestic currency.
+17
+In addition, these nominal effects may boost share prices and price-to-earnings ratios, as pointed out by Forbes (2014).
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+5
+
+mechanisms in some of my recent research, which also shows the advantages of flexible exchange rates for
+small commodity exporters.18
+
+Even for goods other than commodities, demand is often highly elastic on international markets. If so, it will
+be highly profitable to cut prices and boost market share following a depreciation. A small cut in export prices
+might be enough to expand sales when the demand elasticity is high. Even if we see low exchange-rate
+pass-through in the data, this is exactly what we should expect with price-elastic demand and highly
+responsive export volumes, and not necessarily a sign that exports are unaffected by the exchange rate.
+
+If the answer is not so clear-cut from the models, what do the data tell us?
+
+Proponents of the idea that exchange-rates do not affect exports have presented some empirical evidence
+that, on the face of it, might support that view. Papers by Boz et al (2018) and IMF (2019) find weak
+correlations between movements in bilateral (non-US) exchange rates and subsequent changes in bilateral
+trade volumes. They report higher correlations between trade volumes and US dollar exchange rates.
+
+But just as we know that correlation does not imply causation, nor does a lack of correlation refute a strong
+causal link.19 The correlation instead represents the combination of any number of causal links going in both
+directions between exports and the exchange rate.
+
+The key point, as previously emphasised by Broadbent (2017), is that depreciations do not come from
+nowhere. They are usually caused by bad news somewhere else in the economy, which would typically also
+be associated with a fall in exports. This negative correlation blurs any underlying positive relationship
+between depreciations and export volumes. A crucial example of such a mechanism, which I have discussed
+in other contexts before, is the response of monetary policy.20
+
+This is illustrated in Figure 2, which shows a standard export demand relation, where exports increase as
+their price falls (the real exchange rate depreciates). All else equal, a fall in export demand would shift the
+curve to the left. But this would also open up a negative output gap. A monetary policymaker who cares
+about output volatility and the resulting fall in inflation should respond by loosening policy to stimulate the
+economy. One way in which looser policy boosts aggregate demand is via a depreciation in the currency.
+This increases the quantity of exports, shifting back to the right along the same export demand curve. But
+although the depreciation itself boosts exports, in equilibrium, this is masked by the initial fall in export
+demand. The reduced-form correlation will mix the shifts of the demand curve with the shifts along it, and the
+export increase will not be clearly visible in the raw data.
+
+18
+
+Dreschel, McLeay and Tenreyro (2019).
+IMF (2019) also examines the response of trade volumes to exchange rate changes instrumented using identified monetary policy
+shocks, which has the potential to more accurately identify the causal link.
+20
+McLeay and Tenreyro (2019).
+19
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+6
+
+Figure 2 – Illustration of export demand
+
+Monetary policy is one example, but there are also lots of other mechanisms which may blur the underlying
+relationship between the exchange rate and exports. Market expectations of future monetary policy, news
+about future productivity of tradeable goods relative to non-tradeable ones, or changes in relative demand,
+will all have impacts both on current export demand, but also on the current level of the exchange rate.
+
+A recent example in the UK highlights these difficulties with teasing out cause and effect. During the 2007-08
+financial crisis and its aftermath the pound fell by over 25%. A naïve economist would perhaps have
+anticipated an extremely large boost in export volumes. But the depreciation itself was partly caused by a fall
+in demand for key UK exports such as financial services, as well as a rapidly deteriorating aggregate
+demand outlook, which necessitated an aggressive monetary policy response. Looking solely at the muted
+response of exports following the depreciation conflates the actual response with the negative effects of the
+initial fall in demand for products in which the UK specialises.
+
+To summarise, the dominance of the dollar in international trade is an important phenomenon. But unlike in
+some of our stylised models, I think that the exchange rate continues to have important effects on export
+volumes. And as a result, even in countries where dollar invoicing is widespread among exporters, I do not
+see a strong case for moving away from the well-established benefits of flexible exchange-rates.
+
+The effect of trade barriers
+
+I have argued that the evidence remains consistent with the idea that exchange rate movements are a
+crucial determinant of changes in trade flows. Over longer horizons, trade is also determined by other
+factors, including comparative advantage and barriers to trade.
+
+Perhaps even more so than exchange-rates, the role of trade policy and the impact of heightened trade
+tensions have been the most important policy topics in international economics over the past couple of years.
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+7
+
+That has been primarily due to the escalating trade war between the US and China. Successive rounds of
+tariffs levied by the US and retaliation from China mean that bilateral tariffs between the two countries are
+expected to have increased by around 20 percentage points over the past two years. And there have been
+signs that these trade tensions may spread. Trade arrangements have also been a key issue to consider
+during my two years on the MPC, which have involved assessing how the UK’s 2016 vote to leave the EU is
+likely to affect the economic outlook.
+
+There is broad agreement among economists that trade barriers are negative for global growth. Tariffs lower
+the gains from trade, although there can be winners and losers. Countries subject to trade barriers are likely
+to see negative effects on activity – as we are starting to see in China and perhaps soon in the US. And so
+too will countries that make up part of their supply chain – Germany appears to have been a casualty of
+lower demand for Chinese exports, which has in turn reduced China’s demand for capital goods imported
+from Germany. But there may also be benefits to some countries, due to trade diversion effects (and within
+some countries, there may of course be winners and losers).
+
+As well as these level effects, trade also has important effects on the volatility of output. Higher trade barriers
+lower the scope for diversification of suppliers and buyers in the event of a domestic shock.21 The pool of
+trading partners can also affect volatility. Trading with countries that are subject to large or frequent shocks
+can lead to higher volatility than trading with a more stable group.
+
+Where the evidence is less clear cut, is on how large the effects of trade barriers are. On the one hand,
+recent macroeconomic evidence for the US economy suggests that the effects are relatively small. World
+Bank Chief Economist Penny Goldberg and her co-authors estimate trade elasticities using macroeconomic
+data and find that the 2018 tariffs would have only a very small aggregate effect on the US economy,
+reducing GDP by only 0.04%.22 Similarly, large macroeconomic models, such as that used by the IMF,
+typically find small direct effects of tariffs. In part, these results are likely to reflect the standard trade theory
+prediction that barriers have smaller effects on large countries such as the US.
+
+On the other hand, some evidence from microeconomic data suggest larger effects on trade and output in
+the US. The Goldberg study finds that imports of specific product varieties fell by nearly one-third. A study by
+Flaaen et al (2019) examines the effect of US trade barriers on a specific product: washing machines. They
+find that when tariff barriers were applied to individual countries, although imports were sourced from
+different locations, aggregate imports were little changed. When barriers were applied to all imports, washing
+machine production switched to the US. These findings are consistent with significant export demand
+responses for individual products.
+
+21
+22
+
+Caselli et al. (2019).
+Fajgelbaum et al (2019).
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+8
+
+Moreover, trade tensions have also led to large decreases in measures of confidence and higher uncertainty
+across the world. Figure 3 shows that there have been sharp movements in measures of market uncertainty,
+policy uncertainty and business confidence since the US began implementing new tariffs on China in 2018.
+These increases in uncertainty and associated confidence and financial channels have likely served to
+amplify any direct effects on output. On the face of it, this suggests a puzzle – if the macroeconomic
+estimates are correct, why has uncertainty increased so much? The effect of uncertainty about small effects
+should be similarly small. One reason is that small aggregate effects may mask larger effects for individual
+firms. Uncertainty may be high even among firms who have not yet been impacted by tariffs, given the risk of
+further escalation.23
+Figure 3 – Measures of uncertainty and confidence
+Standard deviations from averages since 2003 3
+2
+1
+0
+-1
+-2
+Ifo economic climate index
+Sentix investors' sentiment
+State Street investors' confidence
+VIX (inverted)
+US trade uncertainty (inverted)
+2015
+
+2016
+
+2017
+
+2018
+
+-3
+-4
+-5
+2019
+
+Sources: Thomson Reuters Datastream and Baker, Bloom and Davis (2016) at
+www.policyuncertainty.com.
+Note: US trade uncertainty series is a quarterly average of monthly index.
+
+How to reconcile the different estimates is a key question for trade policy, as well as for monetary
+policymakers who must react to the effects of trade barriers. If the macroeconomic effects were small, then
+the imposition of new trade barriers would be less costly in economic terms. For monetary policy, the
+direction of appropriate response is likely to depend on the balance of the effects of trade barriers on supply
+and demand.24 But if the effects were small, so too would be the required policy response. I will argue that
+we can square the estimates by considering the response of other macroeconomic policies to tariffs.
+
+Trade barriers and macroeconomic policy
+
+Just as with the exchange rate, I would caution against taking the simple macroeconomic estimates of the
+effect of trade policy at face value. These estimates and calibrations based on them are probably
+underestimating the effect of tariffs. The reason, again, is that the empirical estimates likely incorporate a
+counterbalancing policy response.
+23
+24
+
+Caldara et al (2019) model how uncertainty about future tariffs can reduce investment and activity.
+See Bordo and Levy (2019) for a recent discussion of the supply-side effects of tariffs.
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+9
+
+When changes that might affect activity, such as tariff increases, are put in place, other policies are typically
+implemented in response to (or together with) tariff increases to mitigate the effect (e.g., fiscal stimulus,
+monetary policy loosening). In the extreme with a large monetary or fiscal response, the estimated trade
+elasticities will be very small. But these estimates confound the potentially larger negative effect of the tariff
+with the counterbalancing effect of policy.25
+This point is pervasive across macroeconomics, and can be illustrated in a simple diagram.26 Figure 4
+shows a simple model economy with a positively sloped aggregate supply relation between the output gap
+and inflation (also known as a structural Phillips curve). The other line gives a stylised example of how a
+monetary policymaker might seek to balance her mandated objective of achieving the inflation target, while
+avoiding undesirable volatility in output and employment. When the two goals conflict, the policymaker
+chooses to balance the objectives, so the line is negatively sloped.
+Figure 4 – Illustration of Phillips curve and monetary policy
+
+When trade barriers, such as tariffs, are increased, two key changes occur. First, there is a direct increase of
+the higher tariffs on prices and inflation. This immediately shifts the Phillips curve up – in the short run, there
+is more inflation for a given level of output. But in a short space of time, the tariff is also likely to lead to lower
+production and a fall in output. It is this second effect that we would like to estimate.
+
+However, this is only the first part of the equilibrium process. Policymakers observe (or anticipate) the fall in
+output and respond with more stimulus. In this example, that comes from looser monetary policy, but looser
+fiscal policy would have a similar effect. This shifts the economy back along the Phillips curve. The fall in
+output we actually observe is due to the policymaker’s choice to lean against inflation, rather than the direct
+25
+
+Reversals in trade policy may also mitigate the response of exports to tariffs in the data, since firms are less likely to respond less to
+tariffs that they perceive to be temporary, especially when there is the threat of foreign retaliation. See for example, Ruhl (2008) and
+Erceg, Prestipino and Raffo (2018).
+26
+As in McLeay and Tenreyro (2019), taken from Seneca (2018). See Kareken and Miller (1976) for an earlier version of a similar
+graphical exposition.
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+10
+
+effects of the tariff. At the extreme, a monetary policymaker could opt to ignore the impact of tariffs on
+inflation, if she thought they might be very short-lived. If so, we may not see any effect on output in the data
+at all.27
+
+In the example in Figure 4, the policymaker opts to partially offset the effect of the tariffs on output, so
+macroeconomic estimates of the effect may be too small. In practice, the policy response will depend on how
+much the tariffs affect demand relative to supply. If they have large effects on aggregate supply, then
+monetary policy will be more limited in its ability to offset them, and empirical estimates may be less biased.
+
+In the case of our microeconomic example of washing machines: there is no response of macroeconomic
+policy (on their own, washing machines do not often play a major role in MPC deliberations!) We can
+therefore identify the effect at the microeconomic level. When there are broader tariff increases that affect
+the aggregate economy, there is naturally a stronger offsetting response of macroeconomic policy.
+
+This also helps rationalise increases in measures of uncertainty. If the aggregate effect of tariffs was
+negligible and direct effects were limited to a small subset of producers, the effect on aggregate uncertainty
+should be small. But if the gross effects are larger and it is not clear that policy can continue to neutralise
+them indefinitely, uncertainty effects can be material. This is even more likely if there is a possibility of further
+trade-war escalation, which could create further uncertainty over whether policies could offset their effect.
+
+Given the identification difficulties, I am inclined to place more weight on the microeconomic estimates of the
+direct effects of trade barriers on the economy.28 Even for large economies such as the US, these are likely
+to be damaging to growth. If the initial effects are amplified by falls in confidence and higher uncertainty, the
+overall slowdown may be larger still. These consequences will be even more material for smaller economies.
+The ‘doom loop’: the bank-sovereign nexus
+
+Trading relationships have been the major source of uncertainty during my time on the MPC. But for much of
+the past decade, spillovers from financial sector risks were the preeminent international issue facing
+governments and monetary policymakers. The 2011-12 European debt crisis, which was the source of large
+spillovers to the UK banking system, was amplified by linkages between euro-area banks and their
+governments. During my tenure on the MPC, worries about a similar developments taking root in Italy have
+been an ongoing concern.
+
+The idea is that there are negative two-way spillovers between government and bank balance sheets, which
+combine to create a damaging feedback loop for the real economy. During the euro area crisis, there were
+27
+
+In practice, lags in the transmission mechanism and uncertainty over the effect of any tariffs would mean that policy is unlikely to be
+able to perfectly offset effects of tariffs on demand. If there are effects on supply, monetary policy will not be able to offset them without
+generating more inflation.
+28
+It is also possible that some microeconomic estimates suffer from a different type of endogeneity bias, if successful lobbying for tariffs
+depends on opportunities and returns within a sector.
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+11
+
+sharp correlated rises in measures of riskiness of euro area banks and their respective governments. Figure
+5 shows the correlated rises in credit default swap (CDS) premia, a market proxy for default risk on banks
+and on governments at the height of the crisis, and more recently in Italy. Many economists linked this
+observation to the presence of large quantities of their own government’s sovereign debt on the balance
+sheets of euro area banks. This created the sovereign-bank nexus, or so-called ‘doom loop’.29
+Figure 5 – Bank and sovereign CDS premia
+
+Italy
+
+700 Basis points
+
+1,000 Basis points
+
+600
+
+800
+
+Banks
+Sovereign
+
+500
+400
+
+Spain
+Banks
+Sovereign
+
+600
+
+300
+
+400
+
+200
+
+200
+
+100
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2008
+
+0
+
+0
+
+Source: Thomson Reuters Datastream.
+
+The proposed mechanism arises following a negative reassessment of either bank or government finances.
+For example, if domestic banks make large losses on their outstanding loans, as occurred in Spain and
+elsewhere following the crisis. Or if investors reassess governments’ ability to repay their existing debt, as
+happened in Greece. As the perceived risk of a government default increases, the price of outstanding
+government bonds falls.
+
+The doom loop posits that if government bonds make up a sizeable proportion of domestic bank assets, then
+a fall in their price will reduce banks’ net worth and their ability to lend to the real economy. The resulting
+credit crunch will lead to slower growth and lower tax receipts, further worsening the government’s fiscal
+balance. This causes another decline in bond prices, creating a negative feedback loop. Slower growth and
+higher unemployment also leads to write-downs on bank credit, further impairing bank balance sheets. If the
+banks are bailed out, the fiscal situation is likely to deteriorate again. In all, the doom loop suggests that
+banks holding their own government’s bonds can turn the initial negative shock into a catastrophic downturn.
+
+Proposed policy solutions focus on ensuring that government bond holdings do not become concentrated in
+a given country’s domestic banking system. For the euro area, these have included suggestions ranging
+from: full banking union with deposit insurance to achieve risk-sharing between banks; increasing capital risk
+weights on domestic sovereign debt to incentivise banks to diversify their holdings; or introducing a
+diversified safe asset that banks could hold without large exposures to any one sovereign, including their
+own. These suggestions aim to break the vicious circle by preventing government default probabilities from
+influencing bank lending decisions.
+29
+
+Acharya, Drechsler and Schnabl (2014), Brunnermeier et al (2016), Farhi and Tirole (2018).
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+12
+
+Strategic sovereign default
+
+The doom loop was no doubt important during the euro area crisis, but bank lending decisions are only one
+part of the story. In the extreme, the doom loop logic suggests governments who borrow from their own
+banking sector may be forced into default after a bad shock. But in many cases, governments also face
+strategic choices over if and how to default, which can be influenced by who will bear the cost. Abstracting
+from these incentives risks missing a key benefit of banks holding their own sovereign’s debt.
+Completely diversifying banks’ holdings of government assets across countries risks a strategic default loop.
+When a large share of sovereign debt is held by domestic banks, it increases the government’s incentive to
+repay. 30 If a fall in sovereign bond prices were to reduce banks’ net worth, then a strategic decision to
+default outright would be far worse. And it would lead to the same negative consequences for bank lending
+to the real economy and to economic growth. As a result, governments have strong incentives to avoid
+default if they can.
+
+In contrast, if government debt is completely diversified to foreign bondholders, then the immediate pain from
+a default may be low. This type of strategic default has more often been discussed with reference to
+emerging markets, where government borrowing from international creditors is common.31 As the cost of
+default decreases and the probability of default increases, the price of government bonds fall, feeding into a
+similar feedback loop that precipitates a default.
+
+These incentives suggest risks associated with policy solutions that involve banks holding too diversified a
+portfolio of government debt. Doing so may lead to a damaging strategic default loop. But given the doom
+loop can arise following a negative shock when banks hold too concentrated a portfolio, it may be socially
+optimal for banks to hold some intermediate share of their own government’s debt.32 I explore these
+conditions in detail in forthcoming research.33
+
+As with the previous discussions, thinking about the full set of decisions and how they interact in equilibrium
+can affect the recommended policy solution. Monetary policy can also affect the conditions determining the
+optimal share of domestic government debt, since it can affect the severity of the doom loop channel. The
+euro area crisis was brought under control by the monetary policy actions taken by the ECB. If we were
+confident that the costs of such episodes could be mitigated by monetary policy or other central bank
+actions, then this would suggest placing more weight on avoiding incentives for strategic sovereign default.
+Ongena, Popov and van Horen (2019) provide evidence that banks increase holdings of their own government’s debt in stressed
+times due to moral suasion. They suggest this may be partly due to political pressure, but that the incentives are likely increased by the
+knowledge of the feedback loop negatively impacting banks if government debt auctions are undersubscribed.
+31
+For example, Aguiar and Gopinath (2006) and Arellano (2008).
+32
+An alternative intermediate solution would be for government debt to be held domestically, but by the non-bank private sector. This
+would mean that the cost of default would be borne by the domestic economy, but negative shocks would not be amplified via credit
+supply or bank bailouts as in the doom loop. Without the amplification via the banking sector, the cost of default would probably be
+lower, however, so this solution may still reduce the incentives to repay.
+33
+Ashtari Tafti and Tenreyro (forthcoming).
+30
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+13
+
+Contagion may also negate some of the benefits of diversifying government bond holdings. If banks in
+country A hold sovereign debt issued by country B rather than their own government’s, but increases in
+sovereign credit risk in country A also transmit via contagion to country B, then the doom loop may still
+operate as before.34 Given these different possibilities, looking at the empirical evidence is one way to
+discern their relative importance.
+Figure 6 – Banks’ holdings of own sovereign
+
+Figure 7 – Banks’ holdings of own sovereign debt
+
+debt as share of total sovereign debt
+
+as a share of total assets
+25 Per cent
+
+50 Per cent
+40
+
+Core countries
+
+Periphery countries
+
+20
+
+30
+
+15
+
+20
+
+10
+
+10
+
+5
+
+0
+
+0
+
+Pre '08
+
+Pre ECB QE
+
+Today
+
+Core countries
+
+Pre '08
+
+Periphery countries
+
+Pre ECB QE
+
+Today
+
+Source: Arslanalp and Tsuda (2012) and ECB.
+Notes: Pre ’08 is Q4 2007; Pre ECB QE is Q4 2013. Today refers to latest datapoint available.
+
+While the doom loop idea initially arose from an empirical observation, my interpretation is that the evidence
+is rather mixed. Figure 6 shows banks’ holdings of own sovereign as a percentage of total debt. As the
+figure illustrates, the largest pre-crisis exposure was in Germany, rather than in ‘periphery’ countries, where
+the loop was believed to be important. Even measured as a proportion of total bank assets, periphery banks’
+holdings were small in absolute terms before the crisis (Figure 7). On the amplification mechanism itself,
+simple regressions suggest that a one percentage point increase in a euro area periphery country’s
+sovereign CDS premia are associated with a one percentage point increase in that country’s banks’ CDS
+premia. But the exact same relationship holds for ‘core’ countries. This evidence is suggestive of a larger
+initial shock in periphery countries than in core countries, rather than a stronger doom loop channel coming
+from either a stronger propagation mechanism or higher initial exposure.
+
+While the doom loop is a plausible theoretical mechanism, this indicative evidence suggests that we need to
+go further to show its empirical relevance. And since the theory is not conclusive that the costs of high levels
+
+34
+
+Popov and van Horen (2015) provide empirical evidence of a causal link between increases in sovereign risk and a fall in credit supply
+by banks (in other euro area countries) holding large quantities of those sovereigns’ debt.
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+14
+
+of domestic government debt holdings outweigh the benefits, more quantitative work on this issue would help
+quantify the relative importance of each channel and guide policy recommendations.
+
+Conclusion
+
+I have discussed three ideas in international macroeconomics. What links them, as well as being key topics
+on the international policy agenda today, is that they all highlight the need for general equilibrium thinking, as
+well as paying close attention to gathering high-quality empirical evidence to inform the policy debate.
+
+I promised "open" questions in the title. And I leave you with three wide open ones. I do not think these are
+settled issues in the literature, and hence the policy implications drawn so far are too premature.
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+15
+
+References
+Acharya, V, I Drechsler, and P Schnabl (2017), “A Pyrrhic Victory? Bank Bailouts and Sovereign Credit
+Risk,” Journal of Finance, vol. 69, no. 6, pp. 2689-2739.
+Aguiar, M and G Gopinath (2006), “Defaultable Debt, Interest Rates and the Current Account,” Journal of
+International Economics, vol. 69, no. 1, pp. 64-83.
+Arellano, C (2008), “Default Risk and Income Fluctuations in Emerging Economies,” American Economic
+Review, vol. 98, no. 3, pp. 690-712.
+Arslanalp, S and T Tsuda (2012), “Tracking Global Demand for Advanced Economy Sovereign Debt,” IMF
+Working Papers 12/284.
+Ashtari Tafti, O and S Tenreyro (forthcoming), “The Doom Loop Revisited”.
+Baker, S R, N Bloom and S J Davis (2016), “Measuring Economic Policy Uncertainty, The Quarterly
+Journal of Economics, vol. 131, issue 4, pp. 1593-1636.
+Bernard, A, J B Jensen, S J Redding and P K Schott (2009), “The Margins of US Trade,” American
+economic Review: Papers and Proceedings, vol. 99, no. 2, pp. 487-493.
+Bernard, A and T Okubo (2019), “Product Switching and the Business Cycle,” working paper.
+Bernard, A, S J Redding and P K Schott (2011), “Multiproduct Firms and Trade Liberalization,” The
+Quarterly Journal of Economics, vol. 126, issue 3, pp. 1271-1318.
+Bordo, M D and M D, Levy (2019), “Tariffs and Monetary Policy: A Toxic Mix,” Shadow Open Market
+Committee, Princeton Club, New York City, NY, 27 September 2019.
+Boz, E, G Gopinath and M Plabgorg-Møller (2019), “Global Trade and the Dollar,” IMF Working Paper.
+Broadbent, B (2017), “Brexit and interest rates,” speech given at the London School of Economics.
+Brown, F and J Whalley (1980), “General Equilibrium Evaluations of Tariff-Cutting Proposals in the Tokyo
+Round and Comparisons with More Extensive Liberalisation of World Trade,” The Economic Journal, vol. 90,
+no. 360, pp. 838-866.
+Brunnermeier, M, L Garicano, P R Lane, M, Pagano, R Reis, T Santos, D Thesmar, S Van
+Nieuwerburgh and D Vayanos (2016), “The Sovereign-Bank Diabolic Loop and ESBies,” American
+Economic Review: Papers and Proceedings, vol. 106, no. 5, pp. 508-512.
+Caldara, D, M Iacoviello, P Molligo, A Prestipino, and A Raffo, (2019), “The economic effects of trade
+policy uncertainty”. Manuscript presented at the 91st meeting of the Carnegie-Rochester-NYU Conference
+on Public Policy, held at New York University, April (pp. 12-13).
+Carney, M (2019), “The Growing Challenges for Monetary Policy in the current International Monetary and
+Financial System,” speech delivered at Jackson Hole Symposium 2019.
+Carstens, A (2019), “Exchange rates and monetary policy frameworks in emerging market economies,”
+speech delivered at The London School of Economics, 2 May 2019.
+Caselli, F, M Koren, M Lisicky and S Tenreyro (forthcoming), “Diversification through Trade,” The
+Quarterly Journal of Economics.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+16
+
+Corsetti, G, J Flemming, S Honkapohja, W Leibfritz, G Saint-Paul, H W Sinn and X Vives (2002),
+“EEAG European Economic Advisory Group at CESifo: Report on the European Economy,” 2002 CESifo
+Forum, Munich.
+Corsetti, G, M A Crowley and L Han (2018), “Invoicing and Pricing-to-Market – A Study of Price and
+Markup Elasticities of UK Exporters,” CWPE 1860.
+De Gregorio, J (2019), “Discussion on IMF, External Sector Report Exchange Rates and External
+Adjustments,” PIIE September 2019.
+Dhingra, S and S Tenreyro (2017), “Piggy-Back Exporting, Intermediation, and the Gains from Trade in
+Agricultural Markets,” working paper.
+Drechsel, T, M McLeay and S Tenreyro (2019), “Monetary policy for commodity booms and busts,”
+Jackson Hole Economic Symposium 2019.
+Erceg, C, A Prestipino, and A Raffo (2018), “The Macroeconomic Effects of Trade Policy”. International
+Finance Discussion Papers 1242.
+Farhi, E and J Tirole (2018), “Deadly Embrace: Sovereign and Financial balance Sheets Doom Loops,”
+Review of Economist Studies, vol. 85, pp. 1781-1823.
+Fajgelbaum, P D, P K Goldberg, P J, Kennedy and A K Khandelwal (2019), “The Return to
+Protectionism,” NBER Working Paper no. 25638.
+Finger, J M (1976), “Effects of the Kennedy Round Tariff Concessions on the Exports of Developing
+Countries,” The Economic Journal, vol. 86, no. 341, pp. 87-95.
+Flaaen, A B, A Hortaçsu and F Tintelnot (2019), “The Production relocation and Price Effects of U.S.
+Trade Policy: The Case of Washing Machines,” NBER Working Paper no. 25767.
+Forbes, K (2014), “The economic impact of sterling’s recent moves: more than a midsummer night’s dream,”
+speech delivered at 100 Women in Hedge Funds, Canada Imperial Bank of Commerce, London.
+Gopinath, G (2016), “The International Price System,” Jackson Hole Economic Symposium 2016.
+Gopinath, G (2017a), “Rethinking Macroeconomic Policy: International Economy Issues,” in Rethinking
+Macroeconomic Policy, Peterson Institute for International Economics.
+Gopinath, G (2017b), “The Elusive Benefits of Flexible Exchange Rates”, Project Syndicate (Dec 4, 2017),
+available at https://www.project-syndicate.org/commentary/flexible-exchange-rates-trade-impact-by-gitagopinath-2017-12.
+Gopinath, G (2019), “A Case for An Integrated Policy Framework,” Jackson Hole Economic Symposium
+2019.
+Gopinath, G, E Boz, C Casas, F J Diez, P O Gourinchas and M Plabgorg-Møller (2019), “Dominant
+Currency Paradigm,” NBER Working Paper no. 22943.
+Gourinchas, P O (2019), “The Dollar Hegemon? Evidence and Implications for Policy Makers,” prepared for
+the 6th Asian Monetary Policy Forum, Singapore.
+IMF (2019), “External Sector Report,” International Monetary Fund, July 2019.
+Kareken, J H and P J Miller (1976), “The Policy Procedure of the FOMC: A Critique.” In A Prescription for
+Monetary Policy: Proceedings from a Seminar Series, Federal Reserve Bank of Minneapolis.
+McLeay, M and S Tenreyro (2019), “Optimal Inflation and the Identification of the Phillips Curve,” in M. S.
+Eichenbaum, E. Hurst and J. A. Parker NBER Macroeconomics Annual 2019.
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+17
+
+McLeay, M and S Tenreyro (forthcoming), “Dominant currency and the effect of exchange rates on
+exports”.
+Ongena, S, A Popov and N van Horen (2019), “The invisible hand of the government: moral suasion during
+the European sovereign debt crisis,” American Economic Journal: Macroeconomics, vol. 11, no. 4, pp. 34679.
+Popov, A and N van Horen (2015), “Exporting Sovereign Stress: Evidence from Syndicated Bank Lending
+during the Euro Area Sovereign Debt Crisis,” Review of Finance, vol. 19, issue 5, pp. 1825-1866.
+Ruhl, K (2008), “The International Elasticity Puzzle,” Working Papers 08-30, New York University, Leonard
+N. Stern School of Business, Department of Economics.
+Seneca, M (2018), “A graphical illustration of optimal monetary policy in the New Keynesian framework,”
+http://seneca.dk/Seneca graphicalNKanalysis.pdf.
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+18
+
+

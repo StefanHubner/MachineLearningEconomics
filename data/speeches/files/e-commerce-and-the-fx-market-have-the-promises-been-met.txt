@@ -1,0 +1,343 @@
+“E-Commerce and the FX Market – have the promises been
+met?”
+Speech given by
+Paul Fisher, Head of Foreign Exchange Division, Bank of England and Chair of Foreign
+Exchange Joint Standing Committee
+At the 4th Annual Foreign Exchange Markets Summit
+19 January 2004
+
+I am grateful to many colleagues at the Bank for comments and suggestions. In particular I would like to
+thank Alexander Flatner for providing vital background research. Any views expressed in this speech are
+those of the speaker and not necessarily those of the Bank of England.
+.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+It’s a pleasure to be invited to address you this morning as the first keynote speaker at
+this, the 4th Annual Foreign Exchange Markets Summit. In tackling the issues
+surrounding the benefits of e-commerce this morning I am going to be wearing two
+closely related hats.
+First, as Head of the Foreign Exchange Division at the Bank of England, I am
+interested in the developments in the foreign exchange market as they impact on our
+own operations: these include management of the UK’s foreign exchange reserves,
+with assets totalling some $45bn and management of the foreign currency elements of
+the Bank of England’s balance sheet with assets totalling around $20bn. More
+importantly, as a central banker, I am interested in how developments in the foreign
+exchange market impact on the Bank’s core responsibilities for monetary and
+financial stability and our role in promoting the effectiveness of financial markets.
+My second hat – which is, as I said, closely related - is as Chairman of the Foreign
+Exchange Joint Standing Committee (or FXJSC).
+For those of you that don’t know much about the FXJSC and its work, a short history
+may be helpful. This is not a total digression from the topic of this talk – you will see
+that the impact of technology on the foreign exchange market is something that the
+FXJSC has spent a great deal of time considering in the past and that e-commerce in
+particular is very much a current topic of interest.
+The Foreign Exchange Joint Standing Committee was formed in the autumn of 1973
+as an initiative of both the banks and the broking community: specifically it was set
+up at the request of what was then called the Foreign Exchange Committee (a
+powerful group representing the banking community) and the Foreign Exchange and
+Currency Deposit Brokers Association (the FECDBA). These two organisations were
+engaged in some rather difficult negotiations over a wide range of issues, not least the
+rate of brokerage which was then negotiated centrally for the market as a whole. The
+FXJSC was established really to intermediate between the banks and the brokers, with
+the Bank taking the chair and providing the secretary.
+Throughout its 30 years of life the FXJSC has been heavily involved in drafting or
+influencing the code of conduct for transactions in the wholesale market in foreign
+exchange and that is now the bread and butter of the Committee’s work. As an overthe-counter, professional market, foreign exchange has always been regulated by a
+code of conduct rather than legally-enforced supervision. Until the late 80s these
+codes were published in the form of a letter to market participants from the chair of
+the FEC. The details of those regimes need not bother us today but I briefly offer you
+the following list covering the last 35 years or so which may jog some memories:
+1967-1975
+1975-1988
+1988-2001
+2001-to date
+
+“the (Mr) Stirling letter”
+“the O’Brien letter(s)/regime”
+“the London Code of Conduct”
+“the Non-Investment Products Code” known as the NIPs code.
+
+Today, one of the prime responsibilities of the JSC is to review and maintain the NIPs
+Code on behalf of the wholesale foreign exchange market in London. This initiative
+
+2
+
+came out of the creation of the Financial Services Authority which took on the Bank
+of England’s supervisory and regulatory functions. But it was agreed that the foreign
+exchange market should continue to be subject to a code of conduct and the foreign
+exchange part of that code would be devised, published and maintained by the FXJSC
+in consultation with other market groups (the NIPs code also covers the bullion
+market and wholesale money market).
+The Committee now comprises some 25 members including heads of foreign
+exchange trading from 16 banks (formally chosen for their market knowledge and
+experience, not to represent their institutions), 3 representatives of the broking
+community including the WMBA, trade associations such as the Association of
+Corporate Treasurers and the British Bankers Association. The Committee continues
+to be supported by the Bank through the Chair and Secretaryship and, importantly, is
+also attended by the FSA. Internationally the Committee has established good
+contacts with seven committees in other centres: New York, Tokyo, Frankfurt,
+Canada, Singapore, Hong Kong and Australia. But London remains the largest
+foreign exchange market centre in the world. In the last BIS triennial survey some
+32% of transactions in the global market were priced in London: twice the number in
+the next largest centre (New York).
+In addition to reviewing the NIPs code, the Committee has always kept a watchful eye
+on developments in the structure of the foreign exchange market, especially those
+related to technology associated with innovations in the market.
+Going back through the files the following technology-related issues have attracted
+the attention of the Committee:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Tape recording systems (1976)
+Reuters Mark I and Mark II dealing systems (1977 onward)
+‘Squawk boxes’ (1979)
+London’s Telecoms infrastructure (1980)
+Telex confirmation and automated confirmation systems (1980-84)
+Relocation of back offices overseas (1994)
+Herstatt risk (1994), the Allsopp report (1996), CLS (since)
+Internet trading (1996 and onwards)
+Y2K (1998&99)
+
+All of these issues have been considered in terms of their impact on the market and
+how it operates. E-commerce in the foreign exchange market has been a regular
+discussion topic in the past two years with two separate sub-committee reports. The
+latest can be found on the Bank’s internet site2 but a version is also available in the
+Bank of England Quarterly Bulletin3 and I believe that the conference organisers have
+kindly made that available in your packs.
+The work of the Committee has therefore been of great help, not only to me with my
+central banking hat on, but when, at events such as these, I am asked to try to answer
+
+2
+3
+
+(http://www.bankofengland.co.uk/qb/qb030208.pdf)
+Bank of England Quarterly Bulletin May 2003 (pp235-239)
+
+3
+
+the question posed in the title of my speech which I will now try to do, albeit from my
+own perspectives.
+Efficient and effective markets – for any good or service or financial product - are
+essential to the economic welfare of society. I hope I don’t need to elaborate to this
+audience that free, competitive markets are a key mechanism in ensuring that
+resources are efficiently allocated between competing ends in our society. The
+foreign exchange market is absolutely central to this process on a global scale. An
+efficient foreign exchange market allows, of course, for goods and services to be
+traded internationally. More importantly in the context of this conference, it
+facilitates the cross-border trading of other financial instruments - equities, bonds,
+credit derivatives etc - thus contributing to the efficient allocation of capital
+internationally. As a general principle, the more efficient and effective the foreign
+exchange market is in this function, the greater should be economic welfare in the
+global economy as a whole.
+The key question for this speech is whether new technology has delivered many
+benefits and, from my perspectives, that means how it has impacted on the efficiency
+and effectiveness of the market. I am going to take a pretty broad view of new
+technology to include the following: electronic broking in the inter-bank market,
+single-bank e-portals, multi-bank e-portals, and some of the related developments
+such as prime brokerage and white labelling. Although only some of these can
+strictly be called e-commerce, they are actually all intimately related. I also want to
+say something about Continuous Linked Settlement.
+To address these developments I am going to set out some of the key criteria that
+might be used to evaluate any market development. There is no unique or definitive
+approach to this that I am aware of, but my personal list certainly includes: liquidity,
+transactions costs, operational risk, market risk management, settlement risks and
+market integrity.
+First, liquidity: A key question is whether any market development improves
+liquidity. To be clear, what I mean is the ability to trade in size on demand without
+substantially moving the price against the trader.
+Transactions costs: The investment in new technology should naturally reduce cost
+per transaction. I don’t include in this the cost of ‘failed trades’ – that comes next –
+or the capital costs. What I mean is simply the physical systems cost of processing.
+That includes the cost to end-users - or the buy-side if you prefer – and for that group,
+the transactions costs include the profits being earned by the intermediary. As the
+market gets more efficient and more competitive, bid-offer spreads should narrow and
+the price for the end-user should get closer and closer to that in the inter-bank market.
+For constant risk, that should represent an improvement in economic welfare.
+Operational risk: given that the majority of foreign exchange trading is in relatively
+simple products, the ‘failure’ rates that people have mentioned to me privately can be
+surprisingly high. By a failed trade I mean, for example, disputed trades or nonmatching trade confirmations or other settlement errors. The costs of clearing up such
+problems can be significant and the FXJSC used to spend a lot of time and effort in
+
+4
+
+helping to resolve disputes. I also include under operational risk the disruption to the
+market caused by system crashes.
+Market risk management: the importance of monitoring, analysing and managing risk
+in financial markets is still very much a growth industry. Developments in trading
+and settlement systems can help make risk management more effective e.g. by
+speeding up the passing of deal information to the risk manager or providing more or
+better quality information.
+Settlement risk: in particular the so-called Herstatt risk which is the probability of a
+counterparty defaulting at a point when one leg of a foreign exchange trade has been
+paid away but the defaulting corresponding payment by the counterparty has not been
+received. Reducing this form of settlement risk has been a key objective for central
+banks for at least the past 10 years. I also include under this heading the more prosaic
+risk arising from inappropriate legal agreements. A particular problem is caused by
+the proliferation of very similar names but different legal entities within a single
+corporate structure.
+Market integrity: I mean by this the protection of confidential information about
+clients, the quoting of true market prices, the absence of fraud or other criminal
+activity etc. This is a subject which all trading operations have to be constantly alert
+to, in order to protect both themselves and their clients.
+I’m sure that many of you here could add to this list or provide me with a better
+classification scheme, but let’s see whether this one captures the benefits and risks. I
+should stress that most of what I am about to say is based on what I or colleagues hear
+in discussion with those of you in the industry.
+Considering the interbank electronic systems first, these are hardly new with Reuters
+having been around for over 20 years – but it is obvious they remain absolutely key in
+under-pinning the e-commerce platforms and so worthy of a few thoughts here. I
+think it is clear that EBS and Reuters have become very impressive liquidity ‘pools’.
+The number of transactions on both systems has been steadily rising in recent years,
+despite continued consolidation in the interbank market generally, and, although
+liquidity is sometimes concentrated e.g. around fix times, there has been little
+evidence of significant price-gapping even when trading is hectic. Overall these
+systems seem to have delivered clear benefits to the inter-bank market.
+The counterpart to the efficiency of these systems is just how dependent on them the
+industry has become. The volumes being traded every day are huge – EBS alone
+averages some $90-$100bn a day and up to 700 trades a minute. When there are
+systems or external communications problems – as happened a few times just recently
+with EBS and in autumn 2002 on Reuters – the disruption, even from a few seconds
+of broken links or a period of slow running, can be quite significant. These events
+also serve as a timely reminder of how much the market relies on the robustness of the
+surrounding telecommunications infrastructure – which was really the cause of EBS’
+problems - not just the resilience of the systems themselves. The market may be
+fortunate that it has two such systems operating in a competitive fashion with either
+able to take over the business of the other should that be necessary.
+
+5
+
+Feeds from the inter-bank systems have, of course, become the main pricing source
+for most of the e-trading portals. So the latter will be affected by any disruption in the
+inter-bank market. We have – very occasionally I would stress - heard some reports
+of banks having to shut down their pricing feeds to the e-portals because those feeds
+were generating off-market prices. Like much new technology that people come to
+depend on in everyday life, the benefits are huge, but it is when those benefits are
+made unavailable - even temporarily - that they are really appreciated!
+The single and multi-bank portals have been continuing to battle it out for market
+share. If, in 2002, the talk was all about the multi-bank portals – with the lead
+contenders benefiting from reducing numbers and each of the main platforms finding
+their niche in the market - 2003 may well come to be seen as the year that single-bank
+portals came of age. I can’t be specific because of commercial sensitivity, but we
+have had reports of single bank e-trading platforms now handling the vast majority of
+customer tickets within a firm and the largest share by value, with just the resulting
+net position and the very biggest tickets worked by dealers through the market in the
+traditional way. These systems are still developing and growing and the marketleading systems which invest in the best technology are almost certainly gaining
+market share.
+The choice between multi- and single-bank platforms is itself complicated. Some endusers who use multi-bank systems like the price transparency and the audit trail that
+they provide. Others prefer the relationship with a single bank across a wide range of
+products.
+The fineness of pricing on the e-portals means that end-users are benefiting from
+close to inter-bank market prices and this is creating a greater sense of transparency in
+the market which would generally be welcomed. Of course there is a corresponding
+risk: that very transparency and ease of access could attract the inexperienced or
+unwary user and those who offer such platforms must take some responsibility for
+how they are used and by whom.
+Both single- and multi-bank portals appear able to generate a more flexible market,
+for example opening up the door to multi-product and hence cross-market trading.
+But it is clear that there is quite a long way to go yet before the full potential is
+realised. Most of the systems, for example, are still based on ‘Request for Quote’ –
+although there are now a growing number of systems which offer prices which can be
+hit and this seems to be more popular with end-users. And the cross-market
+functionality of existing systems is usually quite limited, although gradually
+expanding.
+Another innovation made possible by these e-commerce systems is the use of
+‘intelligent’ software – a bit like on-board computers in formula one cars. Flow
+analysis has been used to generate trading signals for banks’ own accounts for a
+number of years and the next step is likely to be automating the trading process in
+response to these signals.
+Because these e-trading solutions can be implemented flexibly for individual
+customers and don’t require special terminals they have the advantage of being
+relatively easily connected to internal systems. Some well-known corporates have
+
+6
+
+used this to their advantage to enhance their straight-through-processing: reducing
+costs and operational risk and, in the process, improving management information and
+risk management more generally.
+One of the features of the current market structure is that prices are still determined
+largely in the inter-bank market. We have heard of two closely related issues here.
+The first is the potential for a circularity problem: market-makers typically offer
+prices and then lay off their risks in the inter-bank market. The growing liquidity
+available in the e-portals could perhaps start to attract some activity away from the
+inter-bank market, affecting the liquidity which feeds most of the e-portals in the first
+place. This doesn’t appear to have become a live problem as yet but it is a widely
+recognised concern. What does appear to be a live issue is the magnification of
+liquidity. We hear examples of prices on EBS or Reuters that are good for, say,
+$10mn being fed into, say, three portals for the same size at the same rate meaning
+that $40mn is potentially being quoted for. This could mean that liquidity is being
+under-priced systematically: the existence of many systems being fed from one price
+source, could be a risk for the banks while the buy-side could find liquidity somewhat
+fractured. However, I suspect that these risks will provide the motivation for change
+and possibly further natural selection and so I expect any such concerns to be
+temporary.
+My general conclusion is that, despite these risks, both single- and multi-bank portals
+have contributed substantial benefits, leading to a more efficient and effective market,
+especially for the buy-side.
+Prime brokerage and white labelling have been two of the hot topics over the past
+year, depending in large part on the growth of the e-commerce systems. Both deliver
+clear benefits to the provider and the user. White labelling allows the larger banks to
+earn revenue streams to set against the largely fixed cost of their e-trading systems –
+which must promote greater investment and further efficiency gains at least in the
+most successful systems. The smaller banks effectively out-source their technology
+getting the advantage of high quality systems at a reduced cost, the benefits of which
+they can pass on to their customers. The smaller bank can also take price feeds from
+the larger bank although I understand that an element of choice is usually available as
+to whether to take prices for all or only some currency pairs and there can be
+reciprocal arrangements in pricing e.g. for an exotic currency in which the smaller
+bank specialises.
+As long as there remain a sufficient number of systems to ensure competition, the
+advantages of economies of scale from white labelling are fairly clear. Interestingly,
+the effects on industry consolidation may be less clear cut than one first imagines –
+the smaller banks may be able to use the out-sourced systems and liquidity to help
+retain their markets with, for example, the smaller or more specialised clients.
+Prime brokerage generates a similar gain in respect of the more efficient use of
+balance sheets and credit, again earning the larger banks a revenue stream while
+reducing costs for the fund managers or smaller banks and others who are the main
+users of such arrangements. What are the risks here? In both white labelling and
+prime brokerage, there is a distancing of the end-user from the direct supplier of
+liquidity and credit respectively. The supplier banks must ask themselves – are they
+
+7
+
+pricing liquidity and credit too cheaply? Are they really sure they know what risks
+they are exposed to? If something goes wrong with white-labelled technology, who is
+going to take responsibility (think Railtrack and the carriers!) Is there a concentration
+of liquidity and credit risk which is going unnoticed? Who has the incentive to carry
+out checks to ‘know your customer’?
+The final development I want to say something about is Continuous Linked
+Settlement (CLS). A major milestone in risk reduction in the foreign exchange
+market, this initiative is fast becoming a market standard. Unlike the other
+technology improvements, CLS has slightly increased direct transactions costs in
+order to significantly reduce settlement risk. I have also heard that the use of CLS has
+quite significantly reduced the number of settlement errors and the savings from this,
+as well as the reduction of Herstatt risk, must be set against the direct costs.
+On the other hand, the rapid take-up of CLS also creates a new risk due to the possible
+single point of failure. On the one occasion when there was a significant glitch last
+year the consequences created a problem of some scale: the subsequent smooth cleanup operation however, did much to demonstrate sound contingency arrangements.
+Resilience clearly needs to be a watchword for any system which becomes part of the
+market infrastructure and I know the CLS management take this very seriously.
+Despite the residual or new risks, CLS must be regarded as a major step forward in
+the market.
+I haven’t said much about market integrity. Initial fears about internet security seem
+to have been largely overcome but I can’t help thinking that new technology of any
+sort will always have plus and minus points. On the positive side, automated systems
+allow quicker, fuller and better quality management information and more complex
+security features which should help to keep the market clean as well as efficient. On
+the other hand the opportunities to exploit technology to help wrong-doing tend to rise
+proportionately. To take me back to my starting point I see it as essential that codes
+of conduct for foreign exchange trading are kept up to speed with new technology and
+that is one reason why the FXJSC and the other market practices committees overseas
+must keep their eyes on the e-commerce ball.
+
+8
+
+

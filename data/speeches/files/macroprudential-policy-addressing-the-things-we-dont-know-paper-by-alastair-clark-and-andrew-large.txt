@@ -1,0 +1,1568 @@
+30
+
+Alastair Clark
+Andrew Large
+
+O c ca s io n a l P a p e r 83
+
+Macroprudential Policy:
+Addressing the Things
+We Don’t Know
+
+Group of Thirty, Washington, DC
+
+About the Authors
+Alastair Clark, CBE, formerly Executive Director and Adviser to the
+Governor of the Bank of England, has since 2009 been Senior Adviser to
+HM Treasury on Financial Stability and is a member of the UK’s new
+interim Financial Policy Committee. He has also acted as an independent
+adviser to overseas public authorities in relation to financial stability and
+crisis prevention issues. He has been at various times a member of many
+international groups linked to the G20, the Financial Stability Board, and
+the Bank for International Settlements. In 2005 he co-chaired, with Walter
+Kielholz, a G30 Study Group looking at the systemic impact of reinsurance.
+He holds degrees from Cambridge University and the
+London School of Economics.
+Sir Andrew Large retired in 2006 as Deputy Governor of the Bank of
+England where he had served since 2002. He now acts independently for
+central banks and governments in relation to financial stability and crisis
+prevention issues. Andrew Large’s career has covered a wide range of senior
+positions in the world of global finance, within both the private and public
+sectors. He is in addition Chairman of the Senior Advisory Board of Oliver
+Wyman, Senior Adviser to the Hedge Fund Standards Board, Chairman
+of the Advisory Committee of Marshall Wace, and Chairman of the Board
+Risk Committee of Axis, Bermuda.
+ISBN 1-56708-154-1
+Copies of this paper are available for $10 from:
+The Group of Thirty
+1726 M Street, N.W., Suite 200
+Washington, D.C. 20036
+Tel.: (202) 331-2472 Fax: (202) 785-9423
+E-mail: info@group30.org Web: http://www.group30.org
+
+Occasional Paper
+No. 83
+
+Macroprudential Policy: Addressing
+the Things We Don’t Know
+
+Alastair Clark and Andrew Large
+
+Published by
+Group of Thirty©
+Washington, DC
+2011
+
+Contents
+
+Preface
+
+5
+
+Introduction
+
+7
+
+I. The Objective of Macroprudential Policy
+II. The Issue of a Separate Policy Area
+
+11
+15
+
+III. Conflicts of Objectives
+
+19
+
+IV. Statutory Backing
+
+23
+
+V. Identification of Vulnerabilities
+VI. Data
+VII. Policy Instruments
+
+25
+29
+33
+
+VIII. Institutional Framework
+
+37
+
+IX. “Peacetime” vs. Crisis
+
+41
+
+X. International Dimension
+
+45
+
+Final Remarks
+
+47
+
+Bibliography
+
+49
+
+Group of Thirty Members 2011
+
+51
+
+Group of Thirty Publications since 1990
+
+55
+
+Preface
+The Group of Thirty’s mission is to deepen understanding of international economic and financial issues, to explore the international repercussions of decisions taken in the public and private sectors, and to
+examine the choices available to market practitioners and policymakers.
+In pursuance of this objective, the Group has been actively engaged
+in analysis of and the policy implications arising from the various facets
+of the financial crisis of 2008–2009. We have promulgated financial reform recommendations that impacted the G20 and U.S. reform process,
+and identified necessary reforms to the International Monetary Fund,
+many of which have since been addressed by the Fund’s membership.
+In 2010 the Group turned to the need for new mechanisms designed to
+address the financial stability of the system as a whole in “Enhancing
+Financial Stability and Resilience: Macroprudential Policy, Tools, and
+Systems for the Future.”
+The following paper by Alastair Clark and Andrew Large: “Macroprudential Policy: Addressing the Things We Don’t Know,” further
+develops key themes and issues and builds upon the Group’s work in
+this space. We hope that the paper provokes further debate and discussion amongst the central banking and financial communities on this
+very important topic.
+
+Jacob Frenkel
+Chairman
+Group of Thirty
+5
+
+Introduction
+In May 2010 we published a paper, “Systemic Policy and Financial
+Stability: A Framework for Delivery,” on macroprudential policy frameworks. We identified a number of issues that arise in creating such
+frameworks and some of the difficulties and uncertainties involved.
+These issues were further addressed in the major report prepared by
+the Group of Thirty, “Enhancing Financial Stability and Resilience:
+Macroprudential Policy, Tools, and Systems for the Future,” published
+in October 2010.
+Since then, the debate surrounding macroprudential policy has
+moved on.
+First, the need for a macroprudential component in financial policy
+now seems to be widely accepted. Reliance on an “un-joined up” set
+of microprudential measures will not suffice.
+Second, there is acknowledgement that the rates of economic growth
+consistent with financial stability, and therefore sustainable in the long
+term, may be lower in some countries than the rates typical of the past
+decade or more. As a result, tensions may arise between short-term
+political priorities and the objective of sustained financial stability.
+Third, it has become clear that a severe financial crisis may involve
+a significant and permanent—or at least long-term—loss of gross domestic product.
+Fourth, the lessons learned in a number of emerging markets during
+the Asian debt crisis in the late 1990s have widened the debate about
+macroprudential policy to include, for example, the potential role of
+capital controls.
+7
+
+Fifth, a number of countries—emerging markets as well as mature
+economies—are in the process of introducing more or less explicit institutional arrangements designed to integrate macroprudential policy
+into the overall economic policy framework.
+Sixth, although some countries may still prefer the historical approach of relatively informal “presumptive behavior” by the central
+bank to deliver policy in this field, many are finding that the demands
+of accountability, transparency, and governance are leading them toward a more formalized approach.
+Many initiatives are now underway in this area at both the national
+and the international level (see bibliography). Even so, some important
+issues of principle and practice remain to be definitively resolved. This
+paper identifies ten such “difficult issues” and sets out some of the main
+considerations in addressing them. The answers need to be worked out
+by each country, taking account of the local circumstances.
+
+Ten Issues of Principle and Practice
+1. It is clear that a successful framework requires the input and
+engagement of a number of institutions, with a shared
+objective of delivering financial stability.
+2. There is, nevertheless, a need for a clear institutional focus of authority with an objective, mandate, and powers
+to deliver.
+3. That institution needs to adopt an integrated approach,
+linking collection of data and market intelligence, analysis and assessment, development of policy proposals, and
+implementation.
+4. There are at least two sub-objectives, “conjunctural” and
+“resilience.” The former is to identify and address risks such
+as an undue build-up of leverage, credit, or debt; the latter
+is to monitor and enhance the resilience of the financial
+system and its capacity to weather shocks while continuing
+to provide essential financial services.
+
+8
+
+5. Given the potential cost of “excessive” financial stability (or,
+perhaps more accurately, excessive de-risking) in terms of
+economic growth, there is a political judgment to be made
+about what level of risk a country is prepared to sustain or
+conversely how safe the system should be.
+6. Given that macroprudential policy interacts with a range of
+other policy areas, some tension is probably unavoidable
+both on the substance of policy and in interinstitutional (and
+conceivably interpersonal) relationships. Ways of minimizing
+and managing this need to be found.
+7.
+
+As always, it is clear that having high-quality staff with the
+right experience and the capability and confidence to make
+difficult judgments is critical.
+
+8. The lead macroprudential authority needs to have effective
+tools at its disposal.
+9.
+
+The lead macroprudential authority needs to be subject to appropriate governance, transparency, and accountability
+arrangements.
+
+10. There needs to be recognition of the difference between
+“peacetime” and crisis, and of the different arrangements
+needed to handle these two states. The macroprudential role
+is likely to be mainly preventive, that is, in peacetime; but
+there needs to be a clearly understood mechanism for making the transition between the two states.
+
+At the same time, and as noted, many questions remain wholly or
+partially unanswered. This paper identifies ten such questions and
+sketches the arguments relevant to each one. The questions in summary are:
+I. How should the objective of macroprudential policy be framed?
+II. Is macroprudential policy a genuinely separate policy area?
+9
+
+III. How can conflicts of objectives with other policy areas be
+handled?
+IV. How much of any macroprudential regime should be set out in
+statute?
+V. How should the identifications of vulnerabilities be approached?
+VI. What data are needed?
+VII. What macroprudential policy instruments are available and will
+they work?
+VIII. How should the institutional framework be designed?
+IX. How should the transition from peacetime to crisis and crisis
+itself be handled?
+X. How can domestic and international arrangements best be fitted
+together?
+We have attempted to treat each issue in a reasonably self-contained
+way; given that the questions are in some degree overlapping, however,
+that is also true of the answers.
+
+10
+
+I. The Objective of Macroprudential Policy
+How should the objective of macroprudential policy be defined? How
+broad or narrow should it be? This section aims to create a possible
+statement of objective. However, several features, detailed below, complicate the definition.
+
+Policy gap
+The current focus on so-called macroprudential policy derives from
+a view that, in the run-up to the 2008–2009 financial crisis, the authorities in many countries were too preoccupied with price stability
+(of goods and services) and with firm-level supervision and regulation
+(microprudential policy), and paid insufficient attention to systemwide
+financial developments. The underlying objective of macroprudential
+policy is to address this weakness. It seeks to reduce, even if it cannot
+eliminate, the risk of crises and perhaps also to mitigate the effects of
+a crisis should one nevertheless occur (although some would say that
+the latter lies outside the scope of macroprudential policy per se).
+
+Conjuncture vs. resilience
+Relevant “systemwide financial developments” can be of essentially
+two kinds, one relating to risks facing the financial system at a particular time (“conjunctural”) and the other relating to the capacity of
+the system to withstand the crystallization of these risks (“resilience”).
+There can be trade-offs in terms of avoiding instability—for example,
+
+11
+
+the more resilient the system the greater may be the acceptable level
+of conjunctural risk; but “excessive” resilience may involve a penalty
+in terms of economic growth.
+Conjunctural risks might arise, for example, from the evolution over
+time of certain key variables such as credit, debt, and leverage across
+the financial system as a whole, or major parts of it.
+Resilience will reflect, for example, overall levels of capital and liquidity and the pattern of exposures among financial intermediaries as
+well as a wide range of structural issues, including such matters as the
+robustness of market infrastructure, effectiveness of microprudential
+supervision, and the form of accounting rules as they affect reporting
+and disclosure.
+There is, at present, no clear consensus on where within this territory the boundary of macroprudential policy should lie. That may not
+matter too much provided each of the different dimensions is recognized and addressed in an effective way, and if the responsibilities and
+powers of the different relevant authorities are coordinated satisfactorily. In practice, to date, the macroprudential label has typically been
+applied mainly to conjunctural issues and the objective of mitigating
+the procyclical consequences of “normal” regulatory capital rules and
+point-in-time risk weightings.
+Even then, however, different issues arise depending on the precise
+choice of “target variable(s)” and in determining an acceptable range
+for that variable. In some cases, there may also be a tension between
+desirability and deliverability.
+For example, there is a widely held view that the rapid growth of
+credit during the early and mid-2000s was a critical factor in the crisis.
+Macroprudential action to curb the growth of credit would, therefore,
+have been indicated. But it is far from clear how effective the available instruments would have been. For example, attempts in various
+jurisdictions during the 1970s and 1980s to influence or limit credit
+growth were generally ineffective. Equally, determination of an “acceptable” as opposed to a “dangerous” level of debt is difficult and probably
+both time and state dependent. Moreover, setting quantitative targets
+without having instruments to deliver them is likely to be ineffective
+and damaging to credibility.
+
+12
+
+Should policy restrict focus to resilience?
+
+These difficulties have led some to propose that macroprudential policy
+should focus on the narrower “resilience” objective, or even just the
+resilience of the banking sector, so that macroprudential policy would
+effectively be an overlay on conventional microprudential supervision.
+It would thus seek to ensure—through the setting of overall capital,
+liquidity, and other requirements—that the banking sector as a whole
+remains robust against risks arising from the wider economic and financial environment. In the terminology of Basel III, macroprudential
+policy would be a form of Pillar 2 but with the discretion being exercised
+on the basis of systemwide rather than firm-specific factors.
+In our view, the reality is that both dimensions—conjunctural risk
+and resilience—are relevant to stability. Ignoring one is likely to call
+into question the overall effectiveness of the macroprudential regime.
+
+Policy interactions
+A further critical consideration is the compatibility of the macroprudential objective with other economic and financial policy objectives.
+This is most obviously a question in relation to monetary policy where,
+for example, pursuit of a macroprudential credit growth target or
+ceiling would be likely to have a bearing on the monetary transmission mechanism and on economic growth. But it also applies to other
+policy areas such as competition, consumer protection and, indeed,
+fiscal policy. How to capture such policy interactions is discussed in
+the response to Question III.
+
+Conclusion
+For all the above reasons, there is at this stage no clear consensus on a
+definition of the objectives(s) of macroprudential policy. Perhaps the
+best that can be done is to define what we seek to prevent and outline the
+key mechanisms available to achieve that. Moreover, the “right answer”
+will depend to a degree on the characteristics of individual national
+financial systems. So a pragmatic definition of objective, applicable to a
+“lead authority” for macroprudential policy, which sets the complexity
+in a manageable framework, might be along the following lines:
+
+13
+
+To review and assess the systemic conjuncture and
+resilience of the financial system, to identify actual
+or incipient threats to financial stability, to apply the
+policy instruments available directly to the authority
+to address these threats or, where responsibility for
+relevant instruments lies elsewhere, to recommend
+policy actions to be taken by other authorities.
+The expectation would, of course, be that the objective might in
+future be refined and adapted in the light of experience.
+
+II. The Issue of a Separate Policy Area
+Should “macroprudential policy” be regarded as a genuinely distinct
+policy “silo” with its own distinct instruments, or is it just shorthand for
+other policy makers taking account of systemic financial developments
+in setting the instruments of fiscal, monetary, and other “conventional”
+policies? Debate continues on this issue.
+
+What actually failed?
+As noted in response to Question I, the recent emphasis on macroprudential policy derives from a view that the “traditional” approaches to
+macroeconomic policy and financial regulation were inadequate in the
+build-up to the 2008–2009 crisis. But several conclusions are possible.
+Specifically, did the failure:
+•
+
+Result from inappropriate or insufficient use of existing instruments?
+
+•
+
+Reflect the inability of those instruments to deliver financial
+stability?
+
+•
+
+Reflect a “targets and instruments” problem, in the sense that
+instruments were available to deliver financial stability but they
+were hypothecated to other desirable policy objectives, such as price
+stability?
+
+15
+
+Distinguishing objectives from instruments
+In this debate, it is helpful to distinguish objectives from instruments.
+With regard to objectives, it seems fair to say that—certainly in many
+mature economies—the goal of systemic financial stability and the
+avoidance of crises was not clearly articulated. It was taken for granted,
+in two senses:
+•
+
+First, as an objective, it was obviously desirable and therefore did
+not need to be spelled out.
+
+•
+
+Second, at least by implication, it was thought to be a by-product
+of pursuing sensible macroeconomic and regulatory policies, allied
+to belief in the Efficient Markets Hypothesis, and again therefore
+did not need to be separately recognized.
+
+Recent experience has called both of these propositions into question.
+It is, therefore, now widely accepted that a separate objective—a macroprudential objective—relating to the stability of the financial system
+as a whole needs to form part of the overall economic and financial
+policy framework. But, as indicated in the response to Question I, that
+leaves open the precise formulation of the objective.
+The position in relation to instruments is more difficult. The problem
+is that many of the instruments that might potentially be of value in
+delivering a macroprudential objective are already assigned to other
+policy goals. Thus, short-term interest rates are typically used in monetary policy to influence nominal demand and thence, inflation; and
+capital requirements are one of the main instruments of (microprudential) regulatory policy, designed to limit the likelihood of default
+by individual banks or other financial institutions. These instruments,
+though set to achieve other objectives, can nevertheless have an important influence on systemic stability. It has been very hard to identify a
+distinct set of “macroprudential instruments” whose sole or main effect
+is confined to systemic stability.
+Moreover, although there is some overlap, the instruments relevant
+to delivery of different formulations of a macroprudential objective
+may be different. In the case of resilience, raising capital requirements
+would go at least some of the way to achieving it. But, particularly in
+the short run, they may not be very effective in curbing credit growth
+or leverage, where margin requirements—imposed, for example, as
+loan-to-value (LTV) ceilings—may have more impact.
+
+16
+
+Overall, it may be better to think in terms not of specifically macroprudential instruments but rather instruments generally, some of
+which can be applied to macroprudential (as well as other) objectives.
+
+Separate or simultaneous?
+Perhaps the underlying issue is how far it is possible or sensible to
+“silo-ize” macroprudential policy making—to try to define precise objectives, to assign particular instruments for delivery of each one, and
+then to make a particular institution responsible for deployment of the
+instrument(s) to meet the objective. In favor of such an approach is
+clarity and accountability. The alternative, which may, however, better
+reflect economic reality, is to recognize the interactions among instruments and to set some of them simultaneously to deliver the best fit to
+a number of different objectives. The disadvantage of this approach is
+that goals and responsibilities can become blurred.
+
+Conclusion
+The approach in most countries is likely to be a pragmatic choice among
+the following alternatives:
+•
+
+Ask each policy area to “take systemic issues into account.”
+
+•
+
+Acknowledge the need for a separate policy “channel” but fuse this
+into an existing policy area (the usual candidate being monetary
+policy).
+
+•
+
+Create a separate macroprudential policy framework with responsibility for monitoring and assessing systemic risks and initiating
+action in response. It would provide for a degree of influence over
+the use of a number of instruments, some of which may be available uniquely to the lead macroprudential authority.
+
+Because of the complexities and uncertainties of implementation and
+the inertia or resistance from existing silos, the first option risks being
+ineffective and the second risks confusion through trying to meet two
+policy goals within one framework. This would seem to point toward
+the third option.
+Naturally, with experience and understanding of what the framework
+is seeking to achieve and how—at the level of both policy makers and
+
+17
+
+the public—alternative approaches may emerge. The choice made by
+an individual country is in any case likely to depend on factors such
+as the size and stage of development of its financial sector, attitudes
+to governance and accountability, and the channels of interaction between the financial system and the real economy and the extent of its
+international financial linkages.
+
+18
+
+III. Conflicts of Objectives
+What conflicts can arise between macroprudential and other policy
+objectives, notably monetary and regulatory? Can the macroprudential
+objective be made “symmetric” in relation to these other objectives, for
+example, growth and inflation? Or does there need to be an explicit ex
+ante prioritization of objectives?
+
+Potential trade-offs
+In broad terms, stability of the financial system and macroprudential
+policy designed to achieve it should be consistent with other desirable
+economic (and indeed social) goals. Instability in the financial system
+is likely to mean that the economy as a whole is unable to function
+efficiently—and, as indicated by recent experience, crises can involve
+significant social costs. At the margin, however, there may be tradeoffs. A regulatory regime that requires excessive levels of capital may
+ensure systemic stability but may at the same time unnecessarily inhibit
+the growth and risk-handling capacity of the economy. Equally, rapid
+economic growth associated with an excessive and conjuncturally
+dangerous expansion of credit, leverage, and debt may well—as again
+evidenced by recent experience—lead to financial instability.
+In practice, the conflict between systemic stability and growth may,
+however, be more apparent than real, certainly in the long term. In
+stable periods, macroprudential measures may constrain growth. The
+alternative, however, is a higher probability of financial crises, with significant periods of negative or low growth. In reality, the sustainable rate
+19
+
+of growth consistent with the maintenance of financial stability seems
+unlikely, over a long period, to be lower, and may in fact be higher,
+than it would be if the risk of financial instability were disregarded.
+In formulating the objective of macroprudential policy, an important
+consideration, therefore, is how to capture these trade-offs without
+losing a clear focus on systemic stability. Other policy domains with
+which trade-offs can arise include fiscal policy, competition policy, and
+consumer protection policy.
+There may be a useful analogy in the symmetrical target approach
+taken by some countries in relation to monetary policy and inflation.
+A target is set with a ceiling but also a floor on the level of inflation.
+In a similar way, some counterbalance is needed for macroprudential
+policy to avoid the “overcooking” of stability measures at the cost of a
+disproportionate impact on growth.
+
+The challenges of symmetry
+While, in principle, a symmetric approach may be attractive, it is much
+harder to implement in the context of systemic stability, because there
+is no quantifiable measure of stability and indeed no universally agreed
+definition. Probably the best that can be done is to require those responsible for macroprudential policy to have regard for the other policy
+objectives on which macroprudential policy might have an impact. But
+the obvious questions then are which other policy objectives? And how
+much regard? And as mentioned under Question II, any approach based
+on “have regards” is likely to dilute transparency and accountability,
+even if it is effective at all.
+An alternative would be to define ex ante a hierarchy of objectives,
+that is, to give explicit priority to, say, inflation over systemic stability.
+Even to state this, however, highlights the difficulty; in some circumstances it may be sensible to strike the balance in one place but in other
+circumstances priorities may be reversed. Furthermore, even with a
+hierarchy of objectives, there would still be the question of how to set
+the relevant instruments to respect the prioritization. With multiple
+instruments involved, this would not be straightforward.
+
+20
+
+Conclusion
+Whatever the mechanism, recent experience has demonstrated that financial stability, and macroprudential policy as an essential contributor
+to its delivery, needs to be given higher priority than in the past. But
+some flexibility to accommodate a changing environment is necessary.
+One approach would be for the mandate of the lead macroprudential
+authority to be updated periodically, say annually, with guidance being
+given, perhaps by the political authorities, on the attitude the authority
+is expected to adopt toward other policy areas.
+The question of instruments (as opposed to objectives) and their
+interactions is discussed further under Question VII.
+
+21
+
+IV. Statutory Backing
+How much of the framework for macroprudential policy should be set
+out in statute rather than handled through nonstatutory arrangements
+(for example, through memoranda of understanding)? Is it sensible to
+introduce a statutory framework at this stage given the limited practical
+experience in pursuing macroprudential objectives? Without a statutory
+framework, however, are the existing powers and “natural authority” of
+the finance ministry, central bank, and others sufficient to implement
+measures that may be unpopular but necessary?
+
+In favor of a statutory framework
+A number of considerations argue for setting out the broad framework
+of macroprudential policy in statute:
+•
+
+As a new area of policy, or at least an area that has been judged to
+require much greater emphasis than in the past, a statutory framework helps to ensure that the aims, powers, and responsibilities are
+as clear and transparent as possible.
+
+•
+
+Insofar as macroprudential policy may sometimes involve overriding or modifying actions taken by other financial authorities (for
+example, the microprudential regulator), it is important that there
+should be a clear framework for decision making.
+
+23
+
+•
+
+A statutory framework facilitates the creation of clear channels of
+accountability for the overall conduct of macroprudential policy,
+something that has come to be regarded as increasingly important
+in all policy areas in recent years.
+
+•
+
+Insofar as macroprudential policy may sometimes involve taking
+actions that would in the past have relied on “presumptive” powers,
+that is, powers based on custom and practice rather than having
+statutory backing, this may no longer be acceptable or safe.
+
+Against a statutory framework
+However, there are a few arguments against setting a broad framework,
+notably:
+•
+
+Many elements of macroprudential policy remain analytically
+uncertain, not well-defined, or both; these include, preeminently,
+definition of the objective in any quantifiable way.
+
+•
+
+Trying to carve out a distinct macroprudential policy “silo” may
+discourage recognition of interactions with other areas of economic and
+financial policy.
+
+Conclusion
+On balance, the arguments probably weigh in favor of introducing some
+form of explicit statutory framework—and probably sooner rather than
+later, while memories of the crisis are still fresh. But in the present state
+of knowledge and experience, it is probably best to keep the framework
+flexible and relatively simple.
+A possible, gradualist approach might begin by setting out the objectives and intent in legislation, perhaps with key features about which
+there is a level of confidence, but then providing for the rest of the
+framework to be filled out through secondary legislation as experience
+increases.
+
+24
+
+V. Identification of Vulnerabilities
+How can the three main sources of systemic financial vulnerability—
+unsustainable trends in financial aggregates over time, an unstable
+pattern of financial exposures, and structural weaknesses—best be
+identified? What indicators are most useful?
+
+Identification: having the right people
+Various processes can make an important contribution in identifying
+vulnerabilities and the build-up of risks in the financial system. These
+include data gathering, collecting qualitative market intelligence, inhouse analysis, and reviewing academic analysis, discussed in more
+detail in Question VI.
+Probably the most important factor, however, in a successful “radar”
+function is having a team of smart, experienced, and inquiring people.
+They need extensive knowledge of financial activity generally, (including a capacity to interpret the implications of new products and forms of
+business activity), and particular knowledge of the national (or regional)
+financial system, to be able to spot features that look as if they could
+become a threat to stability. The size of such a team obviously depends
+to some extent on the size of the relevant financial system but need not
+be very large. Quality is more important than quantity. It helps, also,
+if such teams include individuals with practical financial experience,
+notably of past crises.
+
+25
+
+Indicators
+Unsustainable trends in financial aggregates
+
+Indicators of this kind have probably attracted the most attention and
+have been subject to the most intensive analysis in the past. The analysis
+has covered certain developed economies but also, importantly, emerging economies, particularly in Asia, with experience of the 1990s crisis.
+The list of potentially useful indicators is well known and includes
+overall leverage ratios for banks and for the principal domestic sectors
+of the economy; growth rates and levels of lending and debt related to
+particular sectors; and the maturity structure of liabilities, including
+dependency on wholesale funding. In many emerging markets the size
+and form of capital flows also provide a significant set of indicators.
+Even with the long runs of data available for some of these indicators,
+however, it has proved difficult to come up with reliable (discriminantanalysis-based) procedures for identifying incipient crises. There are
+typically serious Type I or Type II errors in all such procedures.1 This
+reinforces the message that, for the time being, at least, it will remain
+necessary to rely heavily on the qualitative judgments referred to at
+the beginning of this section.
+Unstable patterns of financial exposure
+
+These may be spotted through collection and analysis of more conventional financial data (at the firm level and in the aggregate), although,
+again, market intelligence may provide useful indications of where to
+look. One difficulty here is that historical data, collected mainly for
+monetary and macroeconomic and (micro) prudential reasons, may not
+be well adapted for macroprudential analysis (see Question VI). Recent
+initiatives have begun to address some of these deficiencies, but it will
+be several years before sufficient data are available to form a reliable
+view of what is or is not relevant. (Experience with the evolution of
+shadow banking is a current case in point.)
+
+1
+
+Generally, a Type I (statistical) error signals a problem when there isn’t one, and a Type II error
+fails to signal a problem when there is.
+
+26
+
+Resilience-related structural features
+
+Many disparate issues fall under this heading, involving inputs from a
+wide variety of sources.
+Monitoring the creation and development of new instruments, and
+the emergence of new forms of business activity, can give important
+clues to potential sources of risk. Are they, for example, designed to
+arbitrage regulatory requirements? Do they involve new, perhaps
+opaque, ways of providing credit? The development of “shadow banking” is again a case in point.
+Recent experience also suggests other important structural indicators, including measures of interconnectedness within the financial
+(particularly banking) sector.
+In addition, important issues may arise in relation to market infrastructure such as payments, clearing and settlement systems, and from
+the authorities’, especially the central bank’s, own market operations,
+which may also highlight public sector financial exposures. (Such
+considerations were, for example, a principal driving force behind the
+introduction of Real Time Gross Settlement (RTGS) payment systems,
+which reduced contagion risk and at the same time central bank exposures in payments systems.)
+Finally, other matters such as trading rules, accounting standards,
+disclosure requirements, legal provisions, and aspects of the form and
+effectiveness of the regulatory system, which may be leading to perverse
+or unintended consequences, can all be relevant to an overall assessment of systemic resilience.
+
+Conclusion
+The potential indicators of systemic significance are many and varied.
+They need to be considered from the points of view both of conjunctural trends and exposures as well as resilience. Judgment as to importance—even with access to relevant data, which are further discussed
+in Question VI—is difficult and relies on individual expertise. Agility
+of thought and thinking ahead are key.
+
+27
+
+VI. Data
+What data or information are needed to support macroprudential
+analysis? In what respects do they differ from or go beyond what is
+normally collected for the purposes of monetary policy and microprudential financial regulation?
+The answer is still under debate, given that the scope of macroprudential analysis is itself not fully agreed.
+
+Existing data sources
+Much of the data collected for macroeconomic and monetary policy
+purposes and by the micro financial regulator(s) are relevant for macroprudential analysis. So, for example, information on sectoral financial balances, levels and growth of bank credit, sectoral distribution of
+exposures, individual firm capital, liquidity and risk profiles, and the
+maturity profile of debt form an essential part of the necessary information base. But it may include less detail on, for example, the pattern of
+individual banks’ counterparty exposures, on secured versus unsecured
+liabilities, and on the maturity breakdown of assets and liabilities, than
+is needed to assess systemic vulnerabilities.
+
+29
+
+Additional data for macroprudential purposes
+In broad terms, the main additional data requirements are:
+•
+
+Aggregate data that will help identify a build-up of risks in the financial system as a whole, especially where these are not evident at
+the level of individual institutions. This may seem straightforward
+in principle, but at a micro level the data currently collected from
+individual firms are often not fully compatible in terms of definitions, timing, and coverage, and are therefore difficult to aggregate.
+
+•
+
+Data on individual institutions that help to assess their likely behavior under stress (as opposed to providing a snapshot of their
+current position) and the way this behavior is likely to knock-on to
+other parts of the financial system (for example, through balance
+sheet and capital market contagion).
+
+•
+
+Data on markets as opposed to institutions, including price trends,
+measures of volatility, implied market views about future price
+movements (through, for example, option prices), and credit standing (through, for example, credit default swap prices and bond
+spreads), and so forth.
+
+Other factors
+Data need to be timely, accurate, and reliably available. At the same
+time, data overload needs to be avoided. A particular need is to identify
+trends in behavior, instances of regulatory arbitrage, new products, and
+new legal constructs (see Question V, above).
+For this reason, the approach to data and information collection needs
+to be selective and flexible, taking account of what seems relevant at
+a particular time and in particular circumstances. Moreover, it needs
+to extend beyond the regulatory boundary to identify potential risks
+arising from new institutions or markets outside the boundary (and
+may point to the possible need to adjust the boundary).
+
+Conclusion
+In all of this, a balance needs to be struck between, on the one hand,
+collecting the data that would be “ideal” and, on the other, the cost (for
+the industry) of providing them and (for the authorities) of analyzing
+
+30
+
+them. The costs for financial institutions can be reduced by allowing a
+reasonable period for phasing in new requirements so that the necessary
+system changes can be synchronized with their internal information
+technology cycles. The costs for both the authorities and the banks can
+be contained by thinking carefully about what data are really needed
+and what is the most cost-efficient way of collecting them, drawing
+especially on qualitative intelligence. This is sometimes inexpensively
+available but can be extremely helpful in focusing more formal data
+collection initiatives.
+
+31
+
+VII. Policy Instruments
+What instruments are available to pursue macroprudential policy
+objectives? How many are already assigned to other policy objectives?
+What evidence is there on their likely effectiveness in delivering macroprudential policy objectives?
+This is an area of continuing uncertainty. At least in the mature
+economies, few of the potential instruments have been used to pursue
+macroprudential objectives. Consequently, there is limited practical
+experience to call on. This is less true in relation to some Asian economies, and important lessons are available from the Asian experience.
+The choice of instruments depends partly on the definition of objective.
+The answers to Questions I, II, and III are also relevant here.
+
+Instruments relevant in addressing conjunctural risks
+•
+
+If the goal is to influence overall credit creation in the economy
+(including the shadow banking system), or by banks specifically, the
+obvious candidates are instruments that affect the price of credit or
+aim directly to constrain balance sheet growth. In this category fall
+short-term interest rates (affecting the cost of funds), overall capital
+or leverage requirements (affecting the cost of intermediation), and
+perhaps liquidity requirements (which raise the shadow price of
+illiquid loans). There are, however, considerable calibration uncertainties about how much impact these measures are likely to have
+and over what period. In addition, their effects are likely to vary
+
+33
+
+from bank to bank depending on their overall capital and liquidity
+position. There is the separate possibility of imposing quantitative
+limits on either the level or growth of credit, but experience with
+such direct controls indicates that they are ineffective beyond the
+short term and become increasingly distortionary.
+•
+
+If, instead, the goal is defined “from the borrower side” in terms of
+increases in debt, instruments that (as above) affect the supply of
+credit are again clearly relevant. However, there is the additional
+problem of “leakage”; certain categories of borrower may be able
+to borrow from outside the banking sector or at least outside the
+domestic banking sector. This might be addressed by measures that
+make borrowing generally less attractive, for example, by increasing
+collateral requirements (including, for example, LTVs) or by changing the tax treatment of interest paid. Some of these measures may,
+however, be difficult to enforce without a considerable degree of
+international harmonization and coordination (see Question X).
+Another potential policy instrument—although again carrying the
+risk of long-term distortions—is the selective use of capital controls,
+particularly in response to external macroeconomic shocks.
+
+•
+
+If the goal is to address risks associated with the pattern of exposures
+among financial intermediaries, instruments of a more “micro” nature are likely to be required, such as capital requirements against
+particular concentrations of exposure, or minimum margin requirements against particular kinds of contracts (for example, derivatives and repo). Some of the measures in the following paragraph
+may also be relevant, such as requirements for central clearing of
+derivative contracts. All such interventions would be directed at
+avoiding an excessive build-up of exposures within the financial
+sector or concentrations of exposure to particular external parties.
+
+Instruments relevant to resilience
+•
+
+To the extent that the goal is set, instead, in terms of remedying
+structural weaknesses, interventions of a rather different kind are
+likely to be necessary. In some cases, they may involve the encouragement or facilitation of infrastructure projects (for example, securities
+settlement systems) designed to reduce risk or clarify its location.
+
+34
+
+•
+
+In others, they may take the form of promoting changes in rules
+on accounting or disclosure, or the legal treatment of certain kinds
+of transactions. They may also involve reinforcing aspects of microprudential supervision.
+
+Conclusion
+The area of instruments and their associated powers requires flexibility
+as more is learned about calibration issues.
+Many of the instruments, especially those relevant to conjunctural
+risks, are already used to pursue other policy objectives—notably shortterm interest rates and inflation, and capital ratios and individual
+bank safety and soundness. How far that constrains their use for macroprudential purposes was discussed in Question III. The balance of
+instruments and powers may need to be different in different cases;
+for example, should there be reluctance to broaden the objective of
+interest rate policy, overall capital requirements may be useful as a
+macroprudential tool while still leaving some flexibility at the micro
+level to address individual bank risks.
+Equally, if the focus is on resilience, a different range of perhaps
+more qualitative instruments is likely to be needed for the successful
+delivery of policy.
+Given the potential diversity of instruments, the lead macroprudential authority needs to have correspondingly flexible powers. For some
+policy instruments, it may be given the power to direct their usage;
+in others, it could be given a power of recommendation, where the
+recipient authority is required to comply or explain; and in others, it
+may simply have a responsibility to make public recommendations for
+other authorities to “take note” without necessarily providing a formal
+response. It is in any event unlikely to be realistic to give any one body
+a formal, general overriding power of instruction; it would probably be
+too wide-ranging to be acceptable.
+
+35
+
+VIII. Institutional Framework
+What should be the role of the different financial authorities—the
+finance ministry, the central bank, the regulator(s), and the deposit
+insurance and investor compensation scheme—in relation to macroprudential policy? Who should have the principal responsibility? Who
+should act as the lead macroprudential authority? How should the different authorities engage with each other?
+
+Interrelationships of policy areas and authorities
+Macroprudential policy touches on a number of distinct though related
+policy areas and can be effected through a wide range of instruments.
+It is, therefore, hard to fit into the “one objective-one instrumentone authority” model that has been adopted in other policy areas.
+Moreover, some elements of macroprudential policy involve trade-offs
+which remain—and may always be—politically contentious and are
+not, therefore, easily delegated to an executive agency. For these and
+other reasons, a number of different financial authorities are likely to
+have an interest, even if in differing degrees, in macroprudential policy.
+
+Roles and capabilities of different authorities
+In practice, however, a large part of the technical expertise relevant
+to the conduct of macroprudential policy is likely to be found in the
+central bank and, to some extent, in the microprudential regulator
+(where that is separate). Moreover, the central bank will typically have
+
+37
+
+responsibility for the execution of monetary policy. It will for that reason
+be familiar with much of the wider context for macroprudential policy.
+The finance ministry is, of course, the interface with the political
+process, and will typically have a major say in the overall framework
+for, and in defining the precise objectives of, macroprudential policy.
+However, given the manifold operational tasks and decisions required, it
+probably does not make sense for it to be assigned the central executive
+role, notwithstanding its role in setting objectives, mandates, and context.
+As for the microprudential regulator, one of the motivations for the
+recent focus on financial stability policy generally has been a concern to
+emphasize a system-level perspective and not to focus narrowly on the
+health of individual institutions. Giving a separate authority—separate,
+that is, from the regulator—macroprudential responsibility is one way
+of trying to ensure this.
+
+Leadership
+If the central bank takes on overall responsibility, it is, nevertheless,
+likely to be dependent on other authorities—notably the finance ministry, the microprudential regulator, and the financial conduct regulator—in several respects.
+First, it will rely partly on the microprudential regulator for data
+and market intelligence.
+Second, it will need to take account of information from the finance
+ministry on other relevant government policies.
+Third, it may be dependent on one or both to take actions or give
+effect to recommendations.
+This indicates the need for close and effective engagement among
+the authorities involved.
+
+Conclusion
+Most countries seek to achieve this through some kind of formal highlevel coordinating authority, sometimes with a statutory objective as
+an incentive for proactive decision making as opposed to operating as a
+talking shop. Such “lead macroprudential authorities,” often chaired by
+and anchored at the central bank, (or in some cases the finance ministry), might also include representatives from the deposit guarantee
+or investor compensation scheme, the microprudential supervisor and,
+possibly, independent parties with requisite experience and capability.
+
+38
+
+Their efforts toward the same shared objectives would be supplemented
+by extensive and frequent contact at the working level, together with
+analytical research inputs often from the central bank.
+One important proviso is that such arrangements can work well in
+“peacetime,” when there is sufficient time for issues to be raised and
+discussed and for any tensions to be identified and resolved. Arrangements for crisis management may, however, need to be significantly
+different. This is discussed further in Question IX.
+
+39
+
+IX. “Peacetime” vs. Crisis
+How do governance arrangements and responsibilities need to change
+when moving from “peacetime” to the management of a crisis? Does
+macroprudential policy—which is intended mainly as preventive—
+continue to have a role? What procedure should govern the transition
+from “peacetime” to crisis?
+Macroprudential policy is intended to reduce the probability of systemic crises. But there is still the possibility that crises will occur. This
+raises the question of what macroprudential policy can contribute to
+the response.
+
+The lead macroprudential authority
+and crisis management
+At one level, the lead macroprudential authority is likely to be particularly well placed in terms of data and market intelligence and, assuming
+the authority is the central bank, operational involvement in markets
+to orchestrate the response to a crisis.
+But in an incipient or actual crisis, new considerations and other institutions may become increasingly important and the decision-making
+process may need to change.
+First, a significant financial crisis is likely to be a political event in
+that it will typically affect individuals and the economy generally—for
+example, through its social and regional implications—in ways that
+go beyond the boundaries of normal regulatory responsibilities or
+
+41
+
+competence. Only the government has the authority to make the choices
+that may be required in response.
+Second, although efforts are now being made to minimize the likelihood, responding to a crisis may involve using fiscal resources to restore
+stability. Since this is ultimately at the discretion of the government
+and the finance minister, the finance ministry is bound to be closely
+involved.
+Third, any deposit guarantee or investor compensation authority
+will have an important role in terms of policy, but also operationally.
+
+Models for crisis handling
+The cast in a crisis management situation is, therefore, likely to be different from that in “peacetime.” At the same time, the time scale for
+decisions is typically much shorter. There is no longer time for fully
+prepared discussions and extended arguments; the priority is to have
+in place a clear and timely mechanism for making decisions—a clear
+message about “who is in charge.”
+There is no universally ideal model of how this should be achieved.
+It may depend, to some extent, on preexisting relationships among the
+different institutions involved. However, there seems a good case for
+putting the finance ministry in clear overall charge at the “big picture”
+policy level, if only on the basis that many of the most important decisions would have to be in reference to the finance ministry in any case.
+That does not mean a wholesale substitution of finance ministry
+analysis and judgments for the possibly technically better informed
+views of the central bank and regulator, but it does mean that, where
+there are differences of views, the finance ministry unequivocally has
+the ultimate power of decision.
+The operational leadership role might, nevertheless, sensibly be assigned to the central bank, given the importance that financial and
+monetary operations are likely to have in the management of any crisis
+and that the central bank, as part of its normal role, will have the personnel and systems in place to execute them. Note, however, that the
+role is likely to lie with the central bank as central bank not—should
+it be the case—as lead macroprudential authority.
+The regulator would clearly also have to be closely involved—
+whether it is part of the central bank or separate—not only to carry out
+
+42
+
+any necessary regulatory actions but also to ensure that they respect
+international regulatory rules and commitments.
+This, obviously, represents a significant shift of approach from the
+proposed “peacetime” model.
+
+Who pulls the trigger?
+It raises, in turn, the question of what procedure should be followed in
+moving from peacetime to crisis. Again, there is no universally agreed
+answer. And it is not just a technical judgment; it also needs to take
+account of the likely motivations of the different parties involved.
+One approach would be to define a trigger in “hard” terms, based
+on thresholds for certain key variables. This has the virtue of clarity
+but could be exposed to “gaming” around the chosen variables and is
+inherently inflexible. An alternative would be to assign the responsibility on a more discretionary basis to the lead macroprudential authority.
+But there is then a risk of “forbearance” insofar as the authority may
+be reluctant to signal a crisis, implying a failure in its preventive role.
+On the other hand, it would not wish to be exposed to a charge of having unduly delayed action if the responsibility for initiating action was
+clearly signaled in its mandate.
+In practice, it may be possible to combine “hard” and “soft” triggers
+in an arrangement where a “hard” trigger initiates the transition unless it is explicitly overridden by the lead macroprudential authority.
+
+Conclusion
+It seems likely that in most jurisdictions the key role of the lead macroprudential authority will be preventive. However, it may also be well
+placed to play a role in triggering the move from peacetime to crisis
+when financial stability seems to be under threat.
+The appropriate role of the authority during a crisis is not so clear.
+Its processes may not be designed to deal well with operational and
+policy decisions in compressed timescales and under external, including
+political, pressures. But, on the other hand, it would seem unwise to
+overlook the analytical capacity and experience of the lead macroprudential authority as a valuable input in handling a crisis. Mechanisms
+need to be developed to facilitate this input in the different institutional
+context of crisis management.
+
+43
+
+X. International Dimension
+How far is it possible or sensible to develop macroprudential policy on a
+national rather than an international basis? If international consensus
+is not achievable, which elements of macroprudential policy can be
+implemented at the national level?
+Given the degree of interconnectedness among major financial centers
+and, therefore, the exposure of one national financial system to problems
+in others, the obvious ambition should be to achieve a high degree of
+convergence in relation to macroprudential (as well as other aspects of
+financial stability) policy. Without that, significant arbitrage opportunities are likely to emerge that may undermine the impact of national
+policy measures and lead to competitive distortions. This is clearly the
+case in relation, for example, to additional capital requirements.
+That is not to gainsay the need for nationally based frameworks for
+macroprudential policy, but how far it is possible or sensible to go at the
+national level depends partly on how the objective of macroprudential
+policy is defined and on a range of other disparate considerations, including a country’s relative cyclical position and how much the authorities are concerned about the competitive position of financial activity
+in the country. (Note, however, that insofar as macroprudential policy
+is concerned with reducing or eliminating the fiscal cost of potential
+government financial support in a crisis, that loss of subsidy is likely
+to be reflected in one way or another in the competitive position of
+those who enjoyed it.)
+
+45
+
+The current approach in international discussions does indeed put a
+good deal of emphasis on encouraging individual countries to develop
+effective national macroprudential policy arrangements within an overall framework being developed by the Financial Stability Board (FSB)
+and the International Monetary Fund (IMF). The as yet unanswered
+question is whether, in the absence of a substantial degree of international convergence, countries will be able to bring about significant
+improvement in national systemic stability without incurring, at least
+in the short term, seemingly unacceptable costs.
+At a practical level, perhaps the most important but intractable current issue is that of developing an effective mechanism for the resolution
+of internationally dispersed banks, so-called (globally) systemically
+important financial institutions (SIFIs or G-SIFIs), which requires of
+its nature a substantial degree of international coordination and, in
+some areas at least, convergence of practice.
+
+Conclusion
+Fiscal capacity and many aspects of statute essentially exist only at the
+national level. This seriously limits the capacity of international bodies
+to take on an operational role in crisis management, although they (for
+example, the IMF and FSB) can in principle have a valuable part to play
+in identifying risks, promoting preventive measures, setting and enforcing standards, and disseminating good practice. And the IMF clearly
+also has its historical role both in handling macroeconomic problems
+(which might lead to financial crises) and in encouraging resolution
+of longer-term issues of macroeconomic convergence.
+
+46
+
+Final Remarks
+As this paper has identified, difficult issues remain with regard to
+the creation of macroprudential policy. While all countries need to
+develop their own answers to the questions considered here, achieving international financial stability—that is stability in a system that
+is perhaps more internationally interconnected than any other part of
+the economy—is likely, nevertheless, to depend crucially on further
+progress in “joining up” the actions of different national authorities.
+
+47
+
+Bibliography
+Bank for International Settlements. 2011. “Central Bank Governance and Financial
+Stability.” Study Group for the Central Bank Governance Group, Basel, May.
+Bank of England. 2009. “The Role of Macroprudential Policy: A Discussion Paper.”
+London, November.
+de Larosière, Jacques, Chairman, and Leszek Balcerowicz, Otmar Issing, Rainer
+Masera, Callum McCarthy, Lars Nyberg, José Peréz, and Onno Ruding. 2009. “Report
+of the High-Level Group on Financial Supervision in the EU.” European Commission,
+Brussels, February.
+Group of Thirty. 2010. “Enhancing Financial Stability and Resilience:
+Macroprudential Policy, Tools, and Systems for the Future.” Group of Thirty Working
+Group on Macroprudential Policy, Washington, DC, October.
+Hoodguin, Lex, Chairman, and the Committee on the Global Financial System.
+2010. “Macroprudential Instruments and Frameworks: A Stocktaking of Issues and
+Experiences.” Bank for International Settlements, Basel, May.
+Hubbard R. Glenn, and John L. Thorton, Co-Chairmen, and the Committee on
+Capital Markets Regulation. 2009. “The Global Financial Crisis: A Plan for Regulatory
+Reform [the Squam Lake Report].” Committee on Capital Markets Regulation,
+Cambridge, MA, May.
+International Monetary Fund. 2010. “A Fair and Substantial Contribution by the
+Financial Sector: An Interim Report for the G-20.” Washington, DC, April.
+Large, Sir Andrew. 2010. “Systemic Policy and Financial Stability: A Framework for
+Delivery.” Paper presented to the Future of World Finance Group convened by the
+London School of Economics Centre for the Study of Capital Market Dysfunctionality
+and the Centre for Economic Performance, Centre for the Study of Financial
+Innovation, London, June.
+
+49
+
+Group of Thirty Members 2011*
+Paul A. Volcker
+Chairman of the Board of Trustees, Group of Thirty
+Chairman, President Barack Obama’s Economic Recovery Advisory Board
+Former Chairman, Board of Governors of the Federal Reserve System
+Jacob A. Frenkel
+Chairman and CEO, Group of Thirty
+Chairman, JPMorgan Chase International
+Former Governor, Bank of Israel
+Former Professor of Economics, University of Chicago
+Former Counselor, Director of Research, International Monetary Fund
+Geoffrey L. Bell
+Executive Secretary, Group of Thirty
+President, Geoffrey Bell & Company, Inc.
+Abdlatif Al-Hamad
+Chairman, Arab Fund for Economic and Social Development
+Former Minister of Finance and Minister of Planning, Kuwait
+Leszek Balcerowicz
+Professor, Warsaw School of Economics
+Chairman of the Board, Bruegel
+Former President, National Bank of Poland
+Former Deputy Prime Minister and Minister of Finance, Poland
+Jaime Caruana
+General Manager, Bank for International Settlements
+Former Financial Counsellor, International Monetary Fund
+Former Governor, Banco de España
+Former Chairman, Basel Committee on Banking Supervision
+Domingo Cavallo
+Chairman and CEO, DFC Associates, LLC
+Former Minister of Economy, Argentina
+E. Gerald Corrigan
+Managing Director, Goldman Sachs Group, Inc.
+Former President, Federal Reserve Bank of New York
+Guillermo de la Dehesa Romero
+Director and Member of the Executive Committee, Grupo Santander
+Former Deputy Managing Director, Banco de España
+Former Secretary of State, Ministry of Economy and Finance, Spain
+Mario Draghi
+Governor, Banca d’Italia
+Chairman, Financial Stability Board
+Member of the Governing and General Councils, European Central Bank
+Former Vice Chairman and Managing Director, Goldman Sachs International
+
+*
+
+As of August 18, 2011.
+
+51
+
+William C. Dudley
+President, Federal Reserve Bank of New York
+Martin Feldstein
+Professor of Economics, Harvard University
+President Emeritus, National Bureau of Economic Research
+Former Chairman, Council of Economic Advisers
+Roger W. Ferguson, Jr.
+President and CEO, TIAA-CREF
+Former Chairman, Swiss Re America Holding Corporation
+Former Vice Chairman, Board of Governors of the Federal Reserve System
+Stanley Fischer
+Governor, Bank of Israel
+Former First Managing Director, International Monetary Fund
+Arminio Fraga Neto
+Founding Partner, Gávea Investimentos
+Chairman of the Board, BM&F-Bovespa
+Former Governor, Banco Central do Brasil
+Gerd Häusler
+Chief Executive Officer, Bayerische Landesbank
+Member of the Board of Directors and Senior Advisor, RHJ International
+Former Managing Director and Member of the Advisory Board, Lazard & Co.
+Former Counselor and Director, International Monetary Fund
+Former Managing Director, Dresdner Bank
+Philipp Hildebrand
+Chairman of the Governing Board, Swiss National Bank
+Former Partner, Moore Capital Management
+Mervyn King
+Governor, Bank of England
+Former Professor of Economics, London School of Economics
+Paul Krugman
+Professor of Economics, Woodrow Wilson School, Princeton University
+Former Member, Council of Economic Advisors
+Guillermo Ortiz Martinez
+President and Chairman, Grupo Finaciero Banorte
+Former Governor, Banco de México
+Chairman of the Board, Bank for International Settlements
+Former Secretary of Finance and Public Credit, Mexico
+Kenneth Rogoff
+Thomas D. Cabot Professor of Public Policy and Economics, Harvard University
+Former Chief Economist and Director of Research, IMF
+Tharman Shanmugaratnam
+Deputy Prime Minister & Minister for Finance & Manpower, Singapore
+Chairman, Monetary Authority of Singapore
+Chairman of International Monetary & Financial Committee, IMF
+Former Managing Director, Monetary Authority of Singapore
+
+52
+
+Masaaki Shirakawa
+Governor, Bank of Japan
+Former Professor, Kyoto University School of Government
+Lawrence H. Summers
+Charles W. Eliot University Professor at Harvard University
+Former Director, National Economics Council for President Barack Obama
+Former President, Harvard University
+Former Secretary of the Treasury
+Jean-Claude Trichet
+President, European Central Bank
+Former Governor, Banque de France
+Lord Adair Turner
+Chairman, Financial Services Authority
+Member of the House of Lords, United Kingdom
+David Walker
+Senior Advisor, Morgan Stanley International, Inc.
+Former Chairman, Morgan Stanley International, Inc.
+Former Chairman, Securities and Investments Board, U.K.
+Yutaka Yamaguchi
+Former Deputy Governor, Bank of Japan
+Former Chairman, Euro Currency Standing Commission
+Ernesto Zedillo
+Director, Yale Center for the Study of Globalization, Yale University
+Former President of Mexico
+Zhou Xiaochuan
+Governor, People’s Bank of China
+Former President, China Construction Bank
+Former Assistant Minister of Foreign Trade
+
+Senior Members
+
+William R. Rhodes
+President and CEO, William R. Rhodes Global Advisors
+Senior Advisor, Citigroup
+Former Senior Vice Chairman, Citigroup
+Marina v N. Whitman
+Professor of Business Administration & Public Policy, University of Michigan
+Former Member, Council of Economic Advisors
+
+Emeritus Members
+
+Jacques de Larosière
+President, Eurofi
+Former Conseiller, BNP Paribas
+Former President, European Bank for Reconstruction and Development
+Former Managing Director, International Monetary Fund
+Former Governor, Banque de France
+
+53
+
+Richard A. Debs
+Advisory Director, Morgan Stanley
+Former President, Morgan Stanley International
+Former COO, Federal Reserve Bank of New York
+Gerhard Fels
+Former Director, Institut der deutschen Wirtschaft
+Toyoo Gyohten
+President, Institute for International Monetary Affairs
+Former Chairman, Bank of Tokyo
+John G. Heimann
+Senior Advisor, Financial Stability Institute
+Former U.S. Comptroller of the Currency
+Erik Hoffmeyer
+Chairman, Politiken-Fonden
+Former Chairman, Danmarks Nationalbank
+Peter B. Kenen
+Walker Professor of Economics & International Finance Emeritus, Princeton University
+Former Senior Fellow in International Economics, Council on Foreign Relations
+William McDonough
+Former Vice Chairman, Bank of America/ Merrill Lynch
+Former Chairman, Public Company Accounting Oversight Board
+Former President, Federal Reserve Bank of New York
+Ernest Stern
+Partner and Senior Advisor, The Rohatyn Group
+Former Managing Director, JPMorgan Chase
+Former Managing Director, World Bank
+Shijuro Ogata
+Deputy Chairman, Pacific Asia Region, the Trilateral Commission
+Former Deputy Governor, Bank of Japan
+Former Deputy Governor, Japan Development Bank
+Sylvia Ostry
+Distinguished Research Fellow, Munk Centre for International Studies, Toronto
+Former Ambassador for Trade Negotiations, Canada
+Former Head, OECD Economics and Statistics Department
+
+54
+
+Group of Thirty Publications since 1990
+REPORTS
+
+Sharing the Gains from Trade: Reviving the Doha
+Study Group Report. 2004
+Key Issues in Sovereign Debt Restructuring
+Study Group Report. 2002
+Reducing the Risks of International Insolvency
+A Compendium of Work in Progress. 2000
+Collapse: The Venezuelan Banking Crisis of ‘94
+Ruth de Krivoy. 2000
+The Evolving Corporation: Global Imperatives and National Responses
+Study Group Report. 1999
+International Insolvencies in the Financial Sector
+Study Group Report. 1998
+Global Institutions, National Supervision and Systemic Risk
+Study Group on Supervision and Regulation. 1997
+Latin American Capital Flows: Living with Volatility
+Latin American Capital Flows Study Group. 1994
+Defining the Roles of Accountants, Bankers
+and Regulators in the United States
+Study Group on Accountants, Bankers and Regulators. 1994
+EMU after Maastricht
+Peter B. Kenen. 1992
+Sea Changes in Latin America
+Pedro Aspe, Andres Bianchi, and Domingo Cavallo,
+with discussion by S.T. Beza and William Rhodes. 1992
+The Summit Process and Collective Security: Future Responsibility Sharing
+The Summit Reform Study Group. 1991
+Financing Eastern Europe
+Richard A. Debs, Harvey Shapiro, and Charles Taylor. 1991
+The Risks Facing the World Economy
+The Risks Facing the World Economy Study Group. 1991
+
+THE WILLIAM TAYLOR MEMORIAL LECTURES
+
+It’s Not Over ’Til It’s Over: Leadership and Financial Regulation
+Thomas M. Hoenig. 2010
+The Credit Crisis: The Quest for Stability and Reform
+E. Gerald Corrigan. 2008
+Lessons Learned from the 2008 Financial Crisis
+Eugene A. Ludwig. 2008
+
+55
+
+Two Cheers for Financial Stability
+Howard Davies. 2006
+Implications of Basel II for Emerging Market Countries
+Stanley Fischer. 2003
+Issues in Corporate Governance
+William J. McDonough. 2003
+Post Crisis Asia: The Way Forward
+Lee Hsien Loong. 2001
+Licensing Banks: Still Necessary?
+Tommaso Padoa-Schioppa. 2000
+Banking Supervision and Financial Stability
+Andrew Crockett. 1998
+Global Risk Management
+Ulrich Cartellieri and Alan Greenspan. 1996
+The Financial Disruptions of the 1980s: A Central Banker Looks Back
+E. Gerald Corrigan. 1993
+
+special REPORTS
+
+Enhancing Financial Stability and Resilience:
+Macroprudential Policy, Tools, and Systems for the Future
+Macroprudential Policy Working Group. 2010
+The Reform of the International Monetary Fund
+IMF Reform Working Group. 2009
+Financial Reform: A Framework for Financial Stability
+Financial Reform Working Group. 2009
+The Structure of Financial Supervision:
+Approaches and Challenges in a Global Marketplace
+Financial Regulatory Systems Working Group. 2008
+Global Clearing and Settlement: Final Monitoring Report
+Global Monitoring Committee. 2006
+Reinsurance and International Financial Markets
+Reinsurance Study Group. 2006
+Enhancing Public Confidence in Financial Reporting
+Steering & Working Committees on Accounting. 2004
+Global Clearing and Settlement: A Plan of Action
+Steering & Working Committees of Global Clearing & Settlements Study. 2003
+Derivatives: Practices and Principles:
+Follow-up Surveys of Industry Practice
+Global Derivatives Study Group. 1994
+Derivatives: Practices and Principles,
+Appendix III: Survey of Industry Practice
+Global Derivatives Study Group. 1994
+
+Derivatives: Practices and Principles, Appendix II:
+Legal Enforceability: Survey of Nine Jurisdictions
+Global Derivatives Study Group. 1993
+Derivatives: Practices and Principles, Appendix I: Working Papers
+Global Derivatives Study Group. 1993
+Derivatives: Practices and Principles
+Global Derivatives Study Group. 1993
+Clearance and Settlement Systems: Status Reports, Autumn 1992
+Various Authors. 1992
+Clearance and Settlement Systems: Status Reports, Year-End 1990
+Various Authors. 1991
+Conference on Clearance and Settlement Systems.
+London, March 1990: Speeches
+Various Authors. 1990
+Clearance and Settlement Systems: Status Reports, Spring 1990
+Various Authors. 1990
+
+OCCASIONAL PAPERS
+
+82. The 2008 Financial Crisis and Its Aftermath:
+Addressing the Next Debt Challenge
+Thomas A. Russo and Aaron J. Katzel. 2011
+81. Regulatory Reforms and Remaining Challenges
+Mark Carney, Paul Tucker, Philipp Hildebrand, Jacques de Larosière,
+William Dudley, Adair Turner, and Roger W. Ferguson, Jr. 2011
+80. 12 Market and Government Failures Leading
+to the 2008– 09 Financial Crisis
+Guillermo de la Dehesa. 2010
+79. Lessons Learned from Previous Banking Crises:
+Sweden, Japan, Spain, and Mexico
+Stefan Ingves, Goran Lind, Masaaki Shirakawa, Jaime Caruana,
+and Guillermo Ortiz Martinez. 2009
+78. The G30 at Thirty
+Peter Kenen. 2008
+77. Distorting the Micro to Embellish the Macro: The Case of Argentina
+Domingo Cavallo and Joaquin Cottani. 2008
+76. Credit Crunch: Where Do We Stand?
+Thomas A. Russo. 2008
+75. Banking, Financial, and Regulatory Reform
+Liu Mingkang, Roger Ferguson, and Guillermo Ortiz Martinez. 2007
+74. The Achievements and Challenges of European Union Financial
+Integration and its Implications for the United States
+Jacques de Larosière. 2007
+73. Nine Common Misconceptions about Competitiveness and Globalization
+Guillermo de la Dehesa. 2007
+
+57
+
+72. International Currencies and National Monetary Policies
+Barry Eichengreen. 2006
+71. The International Role of the Dollar and Trade Balance Adjustment
+Linda Goldberg and Cédric Tille. 2006
+70. The Critical Mission of the European Stability and Growth Pact
+Jacques de Larosière. 2005
+69. Is it Possible to Preserve the European Social Model?
+Guillermo de la Dehesa. 2005
+68. External Transparency in Trade Policy
+Sylvia Ostry. 2004
+67. American Capitalism and Global Convergence
+Marina V.N. Whitman. 2003
+66. Enron et al.: Market Forces in Disarray
+Jaime Caruana, Andrew Crockett, Douglas Flint, Trevor Harris, and Tom Jones. 2002
+65. Venture Capital in the United States and Europe
+Guillermo de la Dehesa. 2002
+64. Explaining the Euro to a Washington Audience
+Tommaso Padoa-Schioppa. 2001
+63. Exchange Rate Regimes: Some Lessons from Postwar Europe
+Charles Wyplosz. 2000
+62. Decisionmaking for European Economic and Monetary Union
+Erik Hoffmeyer. 2000
+61. Charting a Course for the Multilateral Trading System:
+The Seattle Ministerial Meeting and Beyond
+Ernest Preeg. 1999
+60. Exchange Rate Arrangements for the Emerging Market Economies
+Felipe Larraín and Andrés Velasco. 1999
+59. G3 Exchange Rate Relationships: A Recap of the
+Record and a Review of Proposals for Change
+Richard Clarida. 1999
+58. Real Estate Booms and Banking Busts: An International Perspective
+Richard Herring and Susan Wachter. 1999
+57. The Future of Global Financial Regulation
+Sir Andrew Large. 1998
+56. Reinforcing the WTO
+Sylvia Ostry. 1998
+55. Japan: The Road to Recovery
+Akio Mikuni. 1998
+54. Financial Services in the Uruguay Round and the WTO
+Sydney J. Key. 1997
+53. A New Regime for Foreign Direct Investment
+Sylvia Ostry. 1997
+
+58
+
+52. Derivatives and Monetary Policy
+Gerd Hausler. 1996
+51. The Reform of Wholesale Payment Systems
+and Impact on Financial Markets
+David Folkerts-Landau, Peter Garber, and Dirk Schoenmaker. 1996
+50. EMU Prospects
+Guillermo de la Dehesa and Peter B. Kenen. 1995
+49. New Dimensions of Market Access
+Sylvia Ostry. 1995
+48. Thirty Years in Central Banking
+Erik Hoffmeyer. 1994
+47. Capital, Asset Risk and Bank Failure
+Linda M. Hooks. 1994
+46. In Search of a Level Playing Field: The Implementation of
+the Basle Capital Accord in Japan and the United States
+Hal S. Scott and Shinsaku Iwahara. 1994
+45. The Impact of Trade on OECD Labor Markets
+Robert Z. Lawrence. 1994
+44. Global Derivatives: Public Sector Responses
+James A. Leach, William J. McDonough, David W. Mullins, and Brian Quinn. 1993
+43. The Ten Commandments of Systemic Reform
+Vaclav Klaus. 1993
+42. Tripolarism: Regional and Global Economic Cooperation
+Tommaso Padoa-Schioppa. 1993
+41. The Threat of Managed Trade to Transforming Economies
+Sylvia Ostry. 1993
+40. The New Trade Agenda
+Geza Feketekuty. 1992
+39. EMU and the Regions
+Guillermo de la Dehesa and Paul Krugman. 1992
+38. Why Now? Change and Turmoil in U.S. Banking
+Lawrence J. White. 1992
+37. Are Foreign-owned Subsidiaries Good for the United States?
+Raymond Vernon. 1992
+36. The Economic Transformation of East Germany:
+Some Preliminary Lessons
+Gerhard Fels and Claus Schnabel. 1991
+35. International Trade in Banking Services: A Conceptual Framework
+Sydney J. Key and Hal S. Scott. 1991
+34. Privatization in Eastern and Central Europe
+Guillermo de la Dehesa. 1991
+33. Foreign Direct Investment: The Neglected Twin of Trade
+DeAnne Julius. 1991
+
+59
+
+32. Interdependence of Capital Markets and Policy Implications
+Stephen H. Axilrod. 1990
+31. Two Views of German Reunification
+Hans Tietmeyer and Wilfried Guth. 1990
+30. Europe in the Nineties: Problems and Aspirations
+Wilfried Guth. 1990
+29. Implications of Increasing Corporate Indebtedness for Monetary Policy
+Benjamin M. Friedman. 1990
+28. Financial and Monetary Integration in Europe: 1990, 1992 and Beyond
+Tommaso Padoa-Schioppa. 1990
+
+60
+
+Group of Thirty
+Macroprudential Policy: Addressing the Things We Don’t Know
+		
+
+Alastair Clark
+Andrew Large
+
+Group of Thirty
+1726 M Street, N.W., Suite 200
+Washington, DC 20036
+ISBN 1-56708-154-1
+
+

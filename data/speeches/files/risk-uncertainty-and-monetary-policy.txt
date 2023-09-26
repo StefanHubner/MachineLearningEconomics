@@ -1,0 +1,486 @@
+Risk, Uncertainty and Monetary Policy
+Speech given by
+Charles Bean, Executive Director and Chief Economist of the Bank of England
+
+To Dow Jones, at City Club, Old Broad Street
+31 October 2007
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+1
+Good evening! One of former US Secretary of Defence Donald Rumsfeld’s most noted musings
+runs thus:
+“…as we know, there are known knowns; there are things we know we know. We also know
+there are known unknowns; that is to say we know there are some things we do not know.
+But there are also unknown unknowns - the ones we don't know we don't know.”
+For this rumination, Rumsfeld was awarded a ‘Foot in Mouth’ award from the Plain English
+Campaign. But in truth, it represents one of the pithier encapsulations of the economists’
+distinction between risk and uncertainty of which I am aware.
+
+Risk applies to those random events to which one can attach probabilities, such as the number of
+times a fair coin comes up heads in 100 tosses. These are the ‘known unknowns’. In contrast,
+uncertainty – or more accurately Knightian uncertainty, after the Chicago economist Frank Knight
+– applies to random events to which it is difficult to attach probabilities, say because we have no
+previous experience of them or do not understand enough about their nature. An example might be
+the number of coins in this building right now. These are the ‘unknown unknowns’. The
+Monetary Policy Committee faces both sorts of randomness when it sets interest rates each month.
+Tonight I want to discuss an example of each.
+
+Data uncertainty
+
+My first example relates not to the future but to the past. Steering the economy has sometimes been
+likened to driving along a winding road looking only in the rear-view mirror. I wish it were that
+easy. In practice, the rear window is also a little misted up (the steering is also pretty wobbly, but
+that is for another day). Not only do we not know where we are going, but we have only an
+imperfect idea of where we have been.
+
+Our primary signposts are, of course, provided by the Office for National Statistics. But the slew of
+macroeconomic indicators that we review each month ahead of our policy decision typically
+provides only an imperfect guide to the underlying reality. There are a couple of reasons for this.
+First, it may be intrinsically difficult correctly to define or measure economic concepts such as
+value added in the financial sector or the user cost of owner-occupied housing. In that case, the
+ONS has to employ a variety of proxy variables instead. Second, even if a concept can in principle
+be measured, there may nevertheless be significant sampling error. However, if more information
+accrues over time, then the data can be revised in the light of that new information and the
+measurement error will tend to shrink.
+
+2
+
+That much official data are revised is clearly not in itself a cause for concern. The MPC would
+clearly not want to wait until all the information is in and reconciled before receiving any official
+data – that would mean, for instance, the first GDP estimates appearing well after the fact. Far
+better that we receive timely, albeit inaccurate, initial estimates to factor into our decisions. But we
+do need to recognise that such early estimates may be revised in framing our interest rate decisions.
+
+Given the extensive revision history of many of the key variables, it is reasonable to try to form a
+judgement about the distribution of eventual data outturns. To accord with my earlier classification,
+we perhaps ought to call this ‘data risk’. However, the term ‘data uncertainty’ is now well
+established in the literature, so I shall retain it here.
+
+To see why data uncertainty might matter, first look at Chart 1. This plots the initial and current
+official estimates of four-quarter UK GDP growth, as well as the range of the intervening estimates.
+It is apparent that the mature data occasionally looks quite different to that provided by the initial
+estimates. For instance, the initial estimates suggested a sharp slowdown in 1998 in the wake of the
+Asia and Long-Term Capital Management crises, whereas the current estimates suggest that the
+pace of expansion barely eased at all. For more recent quarters, the initial and current estimates are
+closer together, but that may simply reflect the comparative youth of the latest estimates, as well as
+the fact that the 2007 Blue Book did not involve a full balancing of the National Accounts.
+
+Such discrepancies would be unimportant if they did not potentially translate into significant policy
+differences. But the differences between initial and mature estimates can be large enough to matter.
+For instance, if we employ a simple ‘Taylor Rule’ to evaluate policy using a ‘real-time’ measure of
+the output gap based on the initial data and on a measure based on the mature data, the difference
+quite often exceeds 50 basis points (though some of that is down to the difficulties of identifying
+potential output in real time)1. The presence of such measurement error therefore provides a reason
+for rational policy makers to partially discount early estimates of variables like GDP, particularly if
+they seem at odds with other indicators, for instance from business surveys.
+
+________________________________________________________________________________
+1
+
+The US economist John Taylor found that Federal Reserve policy could be roughly described by an interest rate
+reaction function in which the deviation of the policy rate from its long-run or neutral level was equal to half the output
+gap plus half the deviation of inflation from its target level. For the initial estimates of GDP, the output gap is
+computed by taking the deviation of those initial estimates from a measure of potential output obtained by applying a
+Hodrick-Prescott filter to the latest release then available of the previous 20 years of data. For the mature data, potential
+output is computed by HP-filtering the data in the most recent release.
+
+3
+In dealing with such data uncertainty, the policy maker is essentially faced with a set of ‘signals’ of
+the underlying state of the economy that are contaminated by ‘noise’ in the shape of measurement
+error. What the policy maker needs to do, therefore, is extract an estimate of these underlying
+signals. For some time now, Bank staff have been developing the tools to do this. Our initial work
+used simple regression analysis to forecast what the mature estimates would look like based on their
+past relationship with early estimates and with other indicators, for instance from business surveys.
+That approach has been used for some time to help the Committee form its judgements about the
+conjuncture and about the prospects for growth and inflation.
+Recently, we have completed a substantial project that applies more powerful techniques2. First,
+the approach allows for richer and more realistic models of the data revision process. For instance,
+for some series, revisions may typically result in significant changes in the quarterly profile with
+less noticeable changes to the corresponding annual figure; the new approach allows for this
+interdependence. And as the ONS improves its measurement capability, so revisions should tend to
+become smaller in absolute magnitude; if we know this, then the new approach can allow for it too.
+
+Second, as in our earlier work, other information – for instance from business surveys or the Bank’s
+regional Agents – can be introduced. But in addition the methods can exploit information in
+variables that are only indirectly related. For instance, output is by definition equal to the sum of
+the expenditure components, and this accounting identity should hold not only in the original noisy
+data but also in any estimates that are purged of that noise. A similar argument applies to the
+identity relating nominal spending, real spending and the associated price deflator.
+
+In past Inflation Reports, the fan chart showing the Committee’s best collective judgement for the
+outlook for GDP was drawn using the latest vintage of ONS data for the past, even though the
+Committee sometimes indicated that it thought the data were more likely to be revised in one
+direction or the other. Exceptionally, in our August Inflation Report this year, we also included a
+second fan chart drawn conditional on an alternative path for the past data, derived using our
+(earlier) toolkit for handling data uncertainty.
+
+In the future, in order to enhance transparency, the Committee intends to provide its growth
+projections in a fashion that reveals its best collective judgement of the past, as well as future
+prospects. In other words, it will provide a ‘backcast’ as well as a forecast. However, just as the
+________________________________________________________________________________
+2
+
+Specifically using the Kalman filter. See Alastair Cunningham and Christopher Jeffrey, ‘Extracting a better signal
+from uncertain data’, Bank of England Quarterly Bulletin, 2007 Q3.
+
+4
+forecasts describe an uncertain outlook, so too do the backcasts as the future course of revisions is
+unknown. So the fan will henceforth extend backwards as well as forwards.
+
+Chart 2 provides an example of what the fan chart will look like. This assumes the same projection
+for quarterly growth over the future as in our August projections, but uses our new technology to
+generate mechanically a probability distribution for the back data as well. For the past, the centre of
+the darkest band of the fan reflects an assessment of the most likely path for four-quarter GDP
+growth once the revisions process is complete. The fan around this path describes the degree of
+uncertainty around this path, while the width of the fan – which covers 90% of the distribution – is
+calibrated using historical information on data revisions. The fan becomes progressively narrower
+the further back in time one goes, reflecting the decreased incidence of revisions for more distant
+periods. In practice, the distribution for the back data need not be generated mechanically and, like
+the forecast, will be subject to the Committee’s judgement. For instance, the statistical
+modernisation program currently being undertaken by the ONS should lead to more accurate early
+estimates of growth and we will want to take this into account by narrowing the fan accordingly.
+
+The current vintage of official GDP growth data is shown by the black line. For the most recent
+period, the most likely path for the mature estimates of growth lies above the current vintage of
+data, reflecting the fact that other indicators and the past history of revisions suggest that recent
+official estimates are somewhat more likely to be revised up than down. But the width of the fan is
+considerable, serving to emphasise the significant degree of uncertainty about the past faced by the
+Committee.
+
+The MPC’s projection for the quarterly growth of GDP over the future is the same as in the August
+Report, so the fan looking forward looks rather similar to the one we published then. There are,
+however, a couple of minor points of note that arise from the appearance of the quarterly growth
+rates over the past year in the calculation of the projected four-quarter growth rates over the first
+year of the forecast. First, the four-quarter growth rates in the first year of the projection are now
+expressed taking on board the Bank’s assessment of the most likely path for GDP in the recent past,
+rather than the current vintage of official data That means care will be necessary in making any
+comparisons either with current estimates of the data or with the projections of other forecasters.
+Second, the fan is a little narrower during the first year of the forecast, as the central estimate of
+growth over the recent past should be less prone to revision than the official estimate itself.
+
+5
+All this relates to the Committee’s projections for GDP. The presentation of the CPI projections
+will not change as the data for CPI are almost never revised and the official statistic for CPI
+inflation represents our target measure.
+
+In concluding this part of my discussion, let me note that some recent media commentary has
+described our work on data uncertainty as indicating a loss of faith by the Bank in the ONS, which
+has led us to start producing our own independent estimates of key macroeconomic indicators. This
+represents a major misunderstanding of our respective roles and of the aims of our data uncertainty
+work. The ONS’s task is primarily one of measurement. This is a particularly difficult task in an
+evolving economy and one that they execute outstandingly well. Moreover, the data produced by
+the ONS represents far and away the single most important source of information for us. But we do
+know that early official estimates are affected by unavoidable measurement error and therefore need
+to be interpreted in the light of our economic understanding and other available sources of
+information. Just as we do not have the resources to get into serious measurement of the wide range
+of variables we care about, so it would be inappropriate for the ONS to stray too far from
+measurement into interpretation. This just represents a natural division of labour between the two
+of us.
+
+The implications of the recent developments in financial markets
+
+Let me now turn to a case where it is presently particularly difficult to form a view about the
+distribution of outcomes – Rumsfeld’s ‘unknown unknowns’, if you like. That is the impact on the
+economy of the recent turmoil in credit and money markets.
+
+Now episodes of financial market turmoil do occur from time to time and often share common
+features, such as a period of over-exuberance leading to asset price appreciation and increased
+leverage, followed by a retrenchment as asset prices fall back. And maturity mismatches between
+assets and liabilities often make an appearance when banking systems come under strain. But even
+so, each episode tends to unfold in a unique fashion, making it harder to predict the macroeconomic
+consequences.
+
+The latest episode contains some such features, though the disruption it has wrought on some of the
+largest and most liquid markets in the world has been exceptional. We and other central banks had
+warned about the risk of a sharp unwinding of the compression in risk premia across a range of
+assets that had occurred over the past three years, and the potential risks to institutions with a
+
+6
+growing dependency on wholesale funding markets of impaired market liquidity. But I do not think
+anyone quite foresaw the chain of events that would take place. To begin with, a further rise in
+defaults in a sub-sector of the US mortgage market prompted a general loss of confidence in assetbacked securities and other structured credit instruments, including those based on unrelated
+markets. Investment vehicles with exposures to these assets found it much harder to fund
+themselves in asset-backed commercial paper markets. These events led to a seizure of
+international money markets as banks hoarded liquidity in the face of a reduced ability to continue
+securitising loans and the potential activation of credit lines to their off-balance sheet vehicles. Our
+latest Financial Stability Report explores these events in some detail and I do not propose to add to
+what is said there.
+
+Instead, I want to consider the possible macroeconomic consequences of recent events. First, the
+good news is that there have been signs that conditions in some markets have been improving.
+Investors appear to be becoming more discriminating across different classes of securities, with
+more trade taking place, particularly in prime vanilla mortgage-backed securities. Asset-backed
+commercial paper spreads have fallen back from peaks in September. In the money markets, the
+excess of term US and UK interbank rates over measures of expected policy rates, though still
+elevated, are well below their early-September peaks (Chart 3). And the round of third-quarter
+earnings announcements by the major financial institutions has also revealed something about the
+distribution of losses across institutions. But it is likely to be a while before the valuation of the
+more complex securities is clarified and the financial markets return to normality. In the mean time,
+they remain vulnerable to further shocks.
+
+So what does all this mean for the real economy? Could we be heading for a significant slowdown?
+First, I should note that both the world and UK economies start from a strong position. While the
+US economy has already slowed on the back of falling house prices and weak residential
+investment, that has not so far significantly affected consumer spending and non-residential
+business investment. In the euro area, growth has been somewhat faster than trend over much of
+the past year, though there are signs that the pace of expansion has eased a little latterly. And Asia,
+led by China, has continued to grow rapidly.
+
+Here in the UK, according to the official estimates, we have seen seven consecutive quarters of
+growth in the range 0.7% to 0.8% and, in line with Chart 2 above, the Committee judges that actual
+growth is, if anything, likely to have been slightly stronger. It is true that CPI inflation at 1.8% is
+now just a little below our target 2%. But even so, we cannot afford to relax on the inflation front.
+
+7
+Business surveys suggest that the margin of spare capacity is relatively limited and that firms are
+finding it a bit easier to make price increases stick. The price of oil has just exceeded $90 per barrel
+and other commodity prices, especially food, have been rising strongly. Moreover, the best of the
+beneficial ‘tailwind’ afforded by off-shoring and outsourcing to China and the other emerging
+economies is probably behind us now.
+
+Against that background, the Committee thought in August that some slowing in UK growth was
+probably necessary to keep inflation on track to meet the target in the medium term. And at least
+some of that slowing was probably already in the pipeline before the onset of the turmoil in
+financial markets as a result of the earlier increases in Bank Rate.
+
+The recent developments in financial markets are likely to have led to a softening in the outlook for
+growth. There are a number of ways the quantity and/or price of credit supplied to households and
+businesses may be adversely affected. First, banks find themselves no longer able to securitise
+loans as expected and anticipate having to fund committed credit lines to conduits. That will reduce
+the supply of funds for new loans. But the investor funds that are not used to purchase mortgagebacked securities and asset-backed commercial paper have to go somewhere else instead, so some
+of the funds that have been lost may find their way back into the banking sector.
+
+Second, even if the funds do find their way back, they will not necessarily go to the same banks. In
+normal times, the interbank market redistributes funds within the sector at low cost. But in present
+circumstances that cost is elevated and some loan rates will reflect that. However, this should be a
+temporary effect that will only last as long as the dislocation in money markets persists. Moreover,
+it should be noted that, beyond the very near term, the rise in term interbank premia has already
+been largely offset by a decline in risk-free market interest rates as market participants anticipate a
+more accommodating monetary policy stance.
+
+Third, looking to the longer run, it is unclear how banks will respond to the weaknesses in the
+‘originate and distribute’ model that have been revealed by recent events. Some of the compression
+in risk premia over the past three years will have reflected the onward distribution of risks by banks
+which have been adopting this model. If that no longer takes place to the same extent and the risks
+instead remain on banks’ balance sheets, then the rates charged to borrowers will rise. Moreover,
+there are already signs that some lenders are exiting the riskier segments of the credit market. That
+will lead to a reduction in competition and a rise in interest rates charged, particularly to less creditworthy borrowers.
+
+8
+
+Fourth, if banks are forced to take loans back onto their balance sheets from conduits, then their
+capital ratios will, other things equal, deteriorate. British banks are generally well capitalised and
+hold well above regulatory minima – quite enough to cover all the loans that might come back onto
+their balance sheets (Chart 4). But that said, banks may be unwilling to tolerate that much erosion
+of their capital buffers because of the impact it would have on their ratings and their ability to raise
+funds. So this ‘bank capital’ channel may also lead to a reduction in the supply of credit.
+
+Fifth, the quantity of credit advanced to a borrower and the interest rate charged thereon is
+frequently related to the value of the available collateral. Past episodes of significant contractions
+in activity in the wake of financial market turmoil have often been driven by falling asset prices and
+the sharp deterioration in net worth associated with highly leveraged portfolios. So far most asset
+prices have held up. After an initial hiccup in midsummer, equity prices have been buoyant, despite
+the heightened concerns about growth prospects (Chart 5). That could reflect the expectation that
+the US Federal Reserve and other central banks will lower policy rates enough to maintain a
+reasonable rate of growth. But commercial property price inflation has slowed sharply. And
+though house prices have so far broadly held up, some of the forward-looking indicators point to a
+weaker outlook. If equity or property prices were to fall significantly, then that would probably
+affect both the quantity of credit advanced and its price.
+
+The complexity of the channels makes it difficult to judge the likely magnitude of the reduction in
+the supply of credit. For that reason, the information from the Bank’s new quarterly survey of
+lenders could prove valuable. The results for the third quarter suggested little prospective
+tightening in conditions to households (Chart 6) and, consistent with that, lending to individuals
+remained buoyant in September. However, loan approvals did fall back and anecdotal evidence
+suggests that some lenders at least are in the process of tightening standards on secured lending.
+
+The credit conditions survey did suggest that some deterioration in the availability of credit to
+businesses was in prospect (Chart 7). However, banks are likely to focus on cutting back on the
+riskier forms of lending, including for mergers and acquisitions and leveraged buy-outs. The bulk
+of lending for fixed capital formation – which is what matters most for growth prospects – is
+perhaps likely to be affected less.
+
+Changes in the supply of credit are not the only thing that matters, as the impact on spending also
+depends on the availability of alternative sources of finance. In particular, larger companies can
+
+9
+borrow on the corporate bond markets or raise equity. While the required rate of return on subinvestment grade bonds has risen, that on investment-grade bonds is little changed since early
+August (Chart 8). And so long as equity markets remain buoyant, equity finance also looks an
+attractive alternative option.
+
+Finally, recent developments in financial markets may directly affect the expectations and
+behaviour of households and businesses. Any anticipated reduction in access to consumer debt will
+encourage households to increase their precautionary saving. And any anticipation of lower
+demand growth may lead businesses to put off investment or hiring. Although most indicators
+remained fairly strong in the latest CBI Industrial Trends survey, business optimism did slip which
+might presage such an effect.
+
+Overall, it is difficult to assess with any degree of precision the impact on the economy of the recent
+developments in financial markets. That impact could be quite mild but it is also possible to
+envisage a sequence of events that generate a greater or more prolonged contractionary impact,
+particularly if some of the risks to the financial markets discussed in our latest Financial Stability
+Report were to crystallise. So this is one of the key ‘unknown unknowns’ that face us at the current
+juncture.
+
+Policymakers lie awake at night worrying about both the ‘known unknowns’ and the ‘unknown
+unknowns’. There are plenty of both around right know. But there is at least one ‘known known’
+that you should take away from my address tonight: the MPC’s absolute commitment to doing its
+best to meet the Chancellor’s 2% inflation target. And doing that is the best contribution we can
+make to the UK’s economic stability. Thank you!
+
+10
+Chart 1: Initial and current estimates of GDP
+
+Percentage change on previous year
+
+6
+
+Earliest
+5
+Range
+
+Latest
+
+4
+3
+2
+1
+
+Latest available BB2 data
+0
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+Chart 2: August 2007 Inflation Report GDP projection with ‘backcast’
+
+11
+Chart 3: Premium of term inter-bank interest rates over expected policy rates
+
+Chart 4: Major UK banks’ Tier 1 capital ratios
+
+12
+
+Chart 5: Cumulative changes in equity prices since January 2006
+
+Euro Stoxx
+FTSE All-Share
+
+Per cent
+
+S&P 500
+Topix
+
+35
+30
+25
+20
+15
+10
+5
+0
+-5
+-10
+-15
+
+Jan Mar May Jul Sep Nov Jan Mar May Jul Sep
+2006
+2007
+
+Chart 6: Credit conditions survey for households: secured credit availability
+
+Perceptions over the past three months
+Expectations over the next three months
+
+Net percentage balances
+60
+
+40
+More credit available
+20
+
+0
+
+-20
+
+Less credit available
+
+-40
+07q2
+
+07q3
+
+07q4
+
+13
+
+Chart 7: Credit conditions survey for businesses: overall credit availability
+Perceptions over the past three months
+Expectations over the next three months
+
+Net percentage balances
+60
+40
+
+More credit available
+
+20
+0
+-20
+
+Less credit available
+
+-40
+-60
+-80
+
+07q2
+
+07q3
+
+07q4
+
+Chart 8: Corporate bond rates
+
+Per cent
+12
+Non-investment
+grade yield
+
+10
+8
+
+Investment grade yield
+
+6
+4
+
+August Report
+
+2
+0
+
+Jan 06
+
+Jul 06
+
+Jan 07
+
+Jul 07
+
+

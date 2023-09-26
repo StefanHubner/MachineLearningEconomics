@@ -1,0 +1,1371 @@
+Macroeconomic Policy Rules in Theory and in Practice
+Speech given by
+Christopher Allsopp, Monetary Policy Committee, Bank of England
+
+To the Conference on ‘Policy Rules – The Next Steps’, Cambridge University, Cambridge
+19 September 2002
+
+I am extremely grateful to Amit Kara and Ed Nelson for assistance and useful discussions in the
+course of the preparation of this paper. I also thank Jagjit Chadha for useful comments on a previous
+draft. The views expressed here are personal and should not be interpreted as those of the Bank of
+England or other members of the Monetary Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+I
+
+Introduction
+
+It is a great pleasure to address this distinguished conference on policy rules. My task, as
+I understand it, is to set the scene from the standpoint of someone engaged in the
+monetary policy process—with an emphasis on the two-way interaction between policy
+and academic enquiry. Certainly, as compared with the situation a decade or so ago,
+there is a recognisable consensus, with developments in policy, in macroeconomic
+theory, and in empirical analysis pulling, so to speak, in the same direction.
+I will structure my presentation as follows. Section II is my take on the emerging
+consensus. In that context, I will outline some of the features of the current UK system
+which seem particularly important as well as indicating some areas of continuing
+difficulty. Section III goes back to consider the wider historical and theoretical debate
+over policy rules. Whilst the consensus has it that interest-rate policy reaction functions
+should be ‘rule-like’ (Taylor, 1993; Meyer, 2002), it is equally true that systems such as
+that in the UK can be described as embodying ‘constrained discretion’ (Bernanke and
+Mishkin 1997, p. 106; King, 1997a, p. 440; Balls, 2001). Where does this leave the
+‘rules versus discretion’ debates of the past? And how rule-bound should central banks
+be in practice? Section IV returns, in a highly selective way, to some of the unresolved
+issues. How, for example, should policy-makers treat fluctuations in asset prices? What
+difference does openness make? How can forecasts and policy reactions be improved in
+the face of various types of uncertainty? What is, or should be, the role of fiscal policy?
+Section V concludes.
+II The consensus
+A rough characterisation of the developing consensus on macroeconomic policy design
+would include the following:
+1. There is no long-run trade-off between nominal developments (inflation) and the real
+economy (homogeneity, degree zero, of the nominal price and wage system).
+2. It is essential to establish a credible, non-accommodating policy to control the price
+level and inflation.
+3. The primary responsibility for the control of inflation should be assigned to monetary
+policy.
+4. Monetary policy should be carried out by an independent central bank.
+1
+
+5. The principal instrument of policy is the short-term interest rate.
+6. The central bank’s responsibilities in controlling inflation in the medium term should
+be carried out at minimum cost in terms of deviations of output from potential and
+deviations of inflation from target.
+Clearly, different parts of the consensus have different status. Thus, whilst 1 and 2 may
+be regarded as fundamental, 3, 4 and 5 are instrumental and more contentious—
+alternative choices and arrangements could be made and have existed in the past. The
+important qualification, 6, requires welfare judgements or at least some scheme for
+weighting together different costs.
+Recent legislation, defining mandates for central banks, reflects these complex
+objectives. Thus, the European Central Bank (ECB) is charged with maintaining price
+stability and without prejudice to that, to support the policies of the European
+Commission as laid out in Article II of the Treaty—which include growth and
+employment. The Bank of England Act, similarly, adopts a hierarchical or lexicographic
+ordering, charging the Monetary Policy Committee with maintaining price stability and,
+subject to that, with supporting the policies of the government for employment and
+growth. In the United States, there are multiple objectives, but given the widespread
+agreement on 1 and 2 above, there has, in recent years, been a hierarchical ordering there
+too.
+In the economics literature, the monetary authority’s behaviour is typically described in
+terms of the abstract concept of its reaction function, which delineates how the
+instruments of policy are adjusted in response to (a) its targets, and (b) its assessment of
+the current and future state of the economy. Assuming that the instrument of policy is the
+short-term nominal interest rate, the interest-rate reaction function can thus be seen as an
+algorithmic rule or feedback system describing how the monetary authority attempts to
+home in on its objectives. Simple versions of such reaction functions abound, including
+the Taylor rule (where the interest rate is taken as responding to current deviations of
+inflation from target and output from potential) and that implicit in inflation forecast
+targeting regimes, where interest rates react to deviations of forecast inflation from
+target.1 In practice, the reaction function is embedded in an institution—usually the
+———————————————————————————————————————————
+1
+See Svensson (1997) for pioneering academic work on inflation forecast targeting, and Batini and
+Haldane (1999) for a discussion of incorporating inflation forecasts into policy rules with emphasis on the
+UK.
+
+2
+
+central bank together with associated constitutional and other arrangements—and may
+involve a complex set of procedures and judgements. It is unlikely to be expressible as a
+single simple rule—at the least it would involve a set of anticipated contingent
+responses.2
+The reaction function approach brings out several intertwined aspects of the current
+practice of monetary policy. The first might be termed the nominal anchor function: the
+assignment of medium-term responsibility for the control of the price level or inflation to
+the monetary authority. This function, in turn, has two dimensions. The first is the target
+itself—which may be explicitly quantified (as in the UK) or implicitly defined, e.g. as
+price stability. The practical question of how the target should be made operational and
+measured is not as straightforward as sometimes appears. The second dimension is the
+instrument of policy and the feedback system, which together must be sufficiently
+powerful to achieve the medium-term objective for prices and inflation.
+The second general aspect of current practice is the stabilisation function, capturing the
+idea that the medium-term objective should ideally be achieved at minimum cost (e.g. in
+terms of deviations of inflation from target and output from potential). The optimum
+reaction function clearly depends on the characteristics of the economy, on the shocks
+anticipated, and on the welfare judgements made. Since the optimum reaction function is
+likely to be highly sensitive to alternative models and specifications and shocks, there is
+interest in simple rules which produce reasonably good results and which appear robust.
+The practical policy analogue is the search for a set of procedures which delivers a
+sensible reaction function with desirable properties in a wide range of possible
+circumstances.
+The monetary policy reaction function is thus an extremely important part of the way in
+which the economic system as a whole functions; and for the system to function well, it
+must have, and be perceived to have, appropriate properties. With forward-looking
+behaviour, it is the credibility of policy as embodied in the reaction function that
+stabilises expectations of inflation. But there is more to it than that. Combined with a
+standard ‘natural-rate’ or ‘accelerationist’ view of inflationary pressure, an ‘appropriate’
+reaction function should lead to the anticipation of longer-term economic growth at
+———————————————————————————————————————————
+2
+In the simplest approaches involving demand shocks and price shocks (often described misleadingly as
+‘supply shocks’), policy involves offsetting demand shocks completely whilst price-level or Phillips curve
+shocks involve a trade-off between the variability of the output gap and inflation.
+
+3
+
+potential rates and the understanding that deviations of output from potential and inflation
+from target will (in some sense) be as small as possible given the shocks hitting the
+economy. This ‘two-for-one’ aspect of inflation target regimes has been stressed (in the
+context of euro area monetary policy) by, for example, Alesina et al (2001). From a
+political-economy point of view, the idea that well designed inflation-targeting regimes
+are also ‘employment-friendly’, is of the utmost importance in gaining acceptance of the
+framework. The same general line of argument points to the importance of
+transparency—on which more below.
+So far I have been speaking rather generally about a certain type of monetary policy
+regime which combines longer-term control of inflation with activist stabilisation in the
+short term. Within such a framework, one can imagine many different institutional
+arrangements—many different reaction functions, some no doubt, better than others. Like
+other matters of definition, it is hard to define exactly what is meant by an appropriate
+regime, but we mostly recognise it when we see it. (Just as we recognise cats and
+distinguish them from dogs, though most of us without a degree in biology would be hard
+pressed to define the difference.) Again from a political-economy point of view, what
+really matters is that an appropriate policy framework should be instituted with the right
+general properties. That then leads on to a second set of questions about improving or
+even optimising performance. To use another analogy, a boat without a helmsman is an
+indeterminate system. With a helmsman in place, there is a good chance that the boat
+will move across the bay in the direction desired by the operator. The big question is
+whether there is a helmsman in the boat or not. But, of course, the boat would function
+much better and more predictably with a skilled steersman than a novice. The debate
+about policy rules has now moved, it may be argued, beyond the question about how to
+pin down the rate of inflation and provide a nominal anchor to centre on how to become
+better at steering the economy.
+Characteristics of the UK system
+UK post-war history is littered with attempts to design a macroeconomic framework to
+provide a nominal anchor against inflation combined with a reasonable amount of
+stabilisation. Most ended in failure, usually with serious conflict between internal and
+external objectives. Inflation targeting was introduced in 1992 after Sterling was ejected
+from the ERM. The present regime, with monetary policy delegated to the Monetary
+Policy Committee at the Bank of England, was instituted in May 1997.
+4
+
+UK policy clearly owes much to the ‘demonstration effect’ from the perceived reaction
+function of the independent Federal Reserve in the US. US experience could not,
+however, be simply transplanted. The Federal Reserve is both goal-independent and
+instrument-independent and, in formal terms, the reaction function is hardly pinned down
+at all. One of its objectives is ‘price stability’, but the nearest anyone has come to
+defining what is meant by price stability is Greenspan’s (2002a, p. 6) famous remark that
+‘…price stability is best thought of as an environment in which inflation is so low and
+stable over time that it does not materially enter into the decisions of households and
+firms.’ Instead, the perceived reaction function is reputational—deduced from historical
+behaviour since the early/mid 1980s. The original Taylor rule was put forward as
+descriptive of Federal Reserve behaviour, though Taylor himself has argued (e.g. 1999,
+2000) that it has desirable properties across a wide variety of possible models of the
+economy. In the UK, whilst the experience of inflation targeting from 1992–97 had been
+favourable, the reputational route to the establishment of a credible reaction function was
+not really available in 1997. Not only was there a new government, but also there was a
+history of monetary failure, reflected in financial market expectations and risk premia,
+despite the relatively good inflation performance from 1992-93 onward. What was
+needed was the establishment of a credible monetary policy—a credible and appropriate
+reaction function—via institutional design. It goes without saying that academic work on
+policy rules, on credibility, and on the kinds of properties that interest-rate reaction
+functions should have (including, of course, studies of successful versus unsuccessful
+historical experiences), were crucial inputs into that process—and that they remain
+crucial in the adaptation of the MPC process over time.
+I am not going to give a long account of the UK system, the broad characteristics of
+which are well known.3 But I do want to pick out a few points which seem important
+from the point of view of system design.
+1. The target
+The general commitment to price stability (and, subject to that, to supporting the
+government’s policies for growth and employment) is defined in the Bank of England Act
+1998, where it is also laid down that it is the Chancellor of the Exchequer’s responsibility
+to set the target. A well-known feature is that the target is set as a single number (not a
+———————————————————————————————————————————
+3
+There are many accounts of the operation of the Monetary Policy Committee in the UK. See especially
+King (1997a, 2002), Balls (2001), Balls and O’Donnell (2001), and Bean and Jenkinson (2001).
+
+5
+
+range), and that it is set in a forward-looking but effectively time-independent manner.
+The target could change, but in practice has been maintained at 2.5% for the annual rate
+of change of the series RPIX since inception in 1997. An oft-cited reason for retaining
+governmental responsibility for setting and defining the target is that it is the government
+that is democratically accountable to the public. It also means that the delegation of
+responsibility for meeting the target to the MPC is particularly clear-cut.
+With a point target which defines an aspiration in a timeless way, it is obvious to all that
+it will not be exactly met, so that ideas of shocks, uncertainty, and constrained discretion
+are, arguably, built-in from the start. The symmetry of the objective, whereby shortfalls
+in inflation are treated as of equal importance to overshoots, is appropriate to a reactionfunction type of feedback system and, as already noted, has proved extremely important
+in gaining public acceptance of the inflation target regime.4
+2. Central bank independence and delegation
+Thus the Bank of England is instrument-independent not goal-independent. It has long
+been recognised in the UK that the principal instrument of monetary policy is the shortterm interest rate,5 so the task of the MPC is, in principle, very straightforward: to use its
+control of the short-term interest rate to meet, as far as possible, the externally-given
+objective. But what is the reason for delegation?
+It is tempting to see the answer in terms of the academic literature on time-inconsistency
+and the inflation bias, in particular the argument made famous by Rogoff (1985) that the
+bias would be reduced by delegation to a conservative central banker. I would not want
+to deny that this literature was, in general terms, influential, but it does not really ring
+true as the reason for the institutional change. If there were an inflation bias, it could still
+apply to the target-setters—the government—though the institutional change can be seen
+———————————————————————————————————————————
+4
+An ‘open letter’ system operates, also symmetrically, if the divergence from target in any given month
+exceeds one percentage point, and should be regarded more as an ‘enabling device’ in the event of major
+shocks (such as oil crises) than as a sanction in the event of divergence from target. Surprisingly, given
+historical experience in the UK, no open letter has been triggered since the inception of the new system.
+Even more surprisingly, the nearest it has come to being triggered was on the downside in July this year
+when annual RPIX inflation for June came in at 1.5%.
+5
+There was a brief flurry of debate in the UK over monetary base control in the early 1980s, which fizzled
+out. Monetary targeting in the UK was of the ‘indicator’ variety, with interest rates used to try to meet the
+intermediate objective. From this point of view, the chosen aggregate was unfortunate in that broad money
+was not easily controllable by the instrument (since it was interest-bearing), and the relationship between
+the monetary aggregate and the final objectives was weak, unreliable, and changing over time.
+
+6
+
+as a form of commitment technology, with costs involved in opportunistically changing
+or abolishing the target. But, as far as the monetary authority itself is concerned, it is
+widely argued that the time-inconsistency problem is not an issue. Bean (1998a) simply
+removes the temptation to ‘cheat’ or ‘renege’ from the central bank’s objective function,6
+a procedure which can be seen as supported by statements by Blinder (1998), who,
+writing about the US, sees no temptation to generate surprise inflation, and, more recently
+by Meyer (2002), who also downplays any importance of time-inconsistency issues.7
+Vickers (1998), writing as the Bank of England’s Chief Economist and a member of the
+MPC, suggested further that no Walsh (1995)-type incentives are necessary, as there is no
+incentive to want to generate inflationary surprises or to run the economy at anything
+other than at its natural rate of output/unemployment. He states that, ‘Quite apart from
+our statutory duty, we have the strongest professional and reputational incentives, which
+in my opinion are incapable of being enhanced by financial incentives, to get as close as
+we can to the inflation target.’
+What this means is that the main point of delegation is not to employ conservative
+financiers, nor to set up a system of compensating incentives, but simply to hand over
+responsibility for the ‘reaction function’ to a technically-competent authority charged
+with doing the job as well as possible. Credibility is important, but credibility here has
+little to do with the meaning derived from the inflation bias literature, and a great deal to
+do with clearly-specified objectives and with competence and trust that the job will be
+done as well as possible. This means that explanation of procedures, transparency and
+accountability are key aspects of the system.
+3. The operation of the MPC
+Arguably, the system in the UK is as transparent and accountable as any in the world.
+The nine members of the MPC (five ‘internal’ and four ‘external’) are individually
+accountable under the Act for their votes: interest-rate decisions are by simple majority:
+the votes of each member are published within the Minutes, which appear after two
+weeks. Moreover, the MPC is severally responsible for the quarterly Inflation Reports,
+and the assessments and two-year-ahead forecasts for GDP growth and inflation
+———————————————————————————————————————————
+6
+This practice does not preclude the possibility that the steady-state value of potential GDP is inefficiently
+low from society’s point of view, due to e.g. monopolistic distortions, but effectively delegates
+responsibility for eliminating the effects of these inefficiencies to microeconomic policy (as advocated by
+e.g. Meade, 1951, and Rotemberg and Woodford, 1997).
+7
+See also Posen (1993), McCallum (1995), King (1996, 1997b), and Taylor (1997) for related discussions.
+
+7
+
+published therein. (The forecasts are published as fan-charts, with probability ranges, to
+emphasise the inevitable uncertainty.) There are other checks and balances, such as
+appearances before Parliament’s Treasury Select Committee and supervision of
+procedures by the Court of Directors of the Bank of England.
+As far as the operation of policy is concerned, the process can be described as an inflation
+forecast target regime—a process which, along with the institution of the Inflation
+Report, was taken over from the system in place in 1992-97. The usual justifications for
+the focus on future inflation (e.g. Svensson, 1997, 2002) are lags in the transmission
+mechanism, and the need to take account of a potentially large number of influences on
+the inflation process. Decisions are taken at relatively high frequency on a monthly
+timetable, with procedures in place for additional meetings if necessary.8 The forecasts
+are quarterly. Pragmatically, it is sometimes useful to see the process as divided into
+two: the assessment of the current and future state of the economy on the one hand; and
+the response or reaction to that assessment on the other. Given the structure of the MPC,
+there are, in principle, nine different assessments, nine potentially different reaction
+functions, and a majority voting procedure that translates all that into an interest-rate
+decision. Despite the underlying complexity, the broad characteristics of the overall
+reaction function (using the term rather generally) are discernible and relatively
+predictable.
+A feature of the UK system with individual accountability and transparency is that it
+leads to publicly-expressed disagreements and dissent as well as, obviously, public
+knowledge of closely-split votes. Early worries that both of these would work against
+credibility and be destabilising now appear unfounded. If, as argued, the relevant
+meaning of ‘credibility’ is a reputation for competence and trust in the system, then this
+should not be surprising. Given large uncertainty, it is presumably reassuring rather than
+otherwise that disagreements and differing assessments occur, are discussed and are
+resolved as far as policy is concerned by the decision-making procedures.
+The discernibility and predictability of monetary policy in the UK have, I would argue,
+been greatly enhanced during the operation of the new system. I want to stress two
+aspects. The first is the consequence of the successful offsetting response to the Asia
+crisis and the Russian Default (the latter occurred in late August 1998). Interest rates
+———————————————————————————————————————————
+8
+This has happened once since inception—after the terrorist attacks of September 11th, 2001.
+
+8
+
+were substantially cut in stages against the developing consensus perception that a quite
+serious recession was more or less inevitable in 1999. In the event, that incipient
+recession was headed off; the reaction function worked. Perhaps even more importantly,
+it led to public understanding that the reaction function really was intended to operate
+symmetrically—and, relatedly, that inflation targeting also involved output-gap
+stabilisation. The second point is that in innumerable speeches, presentations and
+discussions by members of the MPC, it has been commonplace to stress the
+conditionality of policy. Thus, it is well understood that lower growth, should it
+eventuate, would (other things being equal) trigger a monetary easing. It is well
+understood that, should inflationary pressure arise, whether for demand-side or for
+supply-side reasons, monetary tightening would ensue—and if that proved insufficient,
+there would be further interest rises until it was sufficient. It is also understood that,
+should fiscal policy change, there would be compensating interest-rate reactions to
+maintain consistency with the inflation target. (Thus, doubts about the monetary
+response to a fiscal tightening, which have been expressed, for example, about the system
+in place in the euro area, do not seem to be problem in the UK context.) All this means
+that the broad features of the reaction function in place in the UK increasingly seem to be
+publicly-understood and built into expectations. The reaction function could not easily
+be expressed as a policy rule—but appears ‘rule-like’ in the sense of Taylor (1993), with
+the caveat that the rule-like behaviour involves contingent responses.
+Indeed, success in stabilising medium-term anticipations of growth, unemployment and
+inflation could itself be the source of problems if, as recently, offsetting strategies
+contribute to imbalances between sectors and rising prices for assets such as houses.
+4. Did it work?
+On the face of it, in terms of outcomes for inflation and growth, the UK system has
+worked well—though it is usual to qualify such remarks with the observation that it is too
+soon to tell. Chart 1.1 displays the record on annual RPIX inflation. It suggests that
+there has been a remarkable improvement in inflation since inflation targets were adopted
+in 1992 and a moderate undershoot in the last few years. If anything, the chart suggests
+that it was the adoption of an inflation-targeting regime that was important rather than the
+radically new arrangements introduced in 1997.
+
+9
+
+Chart 1.1: UK inflation performance under different monetary regimes
+Annual
+change %
+22
+20
+18
+16
+14
+12
+
+ERM
+membership
+
+10
+
+DM
+'shadowing'
+
+MTFS
+
+8
+
+Inflation
+targeting
+
+6
+
+MPC
+framework
+
+4
+2
+
+1980
+
+1982
+
+1984
+
+1986
+
+1988
+
+1990
+
+1992
+
+1994
+
+1996
+
+1998
+
+2000
+
+0
+2002
+
+Source: HM Treasury (2002), Budget 2002.
+
+Chart 2.1, taken from HM Treasury (2002), shows much more clearly the effect of the
+new arrangements. There was a marked effect on inflation expectations at the time of the
+announcement of the new regime, suggesting that institutional change had indeed had a
+substantial effect on the credibility of macroeconomic policy. Other evidence, not
+10
+
+detailed here, confirms a slower but highly favourable effect on public expectations and
+anticipations. And, as noted above, the more qualitative impression is that the reaction
+function in the UK has come to be increasingly well understood and that the regime
+change commands a degree of public support.
+5. Some issues
+All this suggests that the UK system can be seen as a monetary regime of the right sort,
+embodying a reaction function (using the term generally) of the right type. To revert to
+an earlier analogy, the boat has a helmsman and the objectives are clear. This is a very
+big change. But a caveat is again necessary. Most previous attempts at redesigning UK
+macroeconomic policy were also put forward as solutions to the problem of combining
+inflation control with economic stability—and failed. Why should the new system fare
+differently? The answer, I believe, is that the system is better-designed, since it
+incorporates not only some of the major lessons from history, but also the major insights
+that have come from theoretical and empirical research on monetary policy and monetary
+policy rules.
+None of this, of course, means that the system could not be improved or that difficulties
+have not arisen. Some difficulties concern the reaction function, such as how policy
+should react to exchange-rate movements, which have been large, or asset-price changes,
+which have also been large. Some relate to uncertainty, both regarding the data and
+about how the economy functions. Some relate to forecasting—both as to how it should
+best be done, and the relationship between the forecast process and policy formation. I
+have some remarks about all these later in this address. I also want to say something
+about the interaction between monetary policy and other policies—especially fiscal
+policy—since it would be a great mistake to think of a well-functioning monetary system
+as, in some sense, closing the debate over macroeconomic policy and the policy mix. On
+the contrary, a well-functioning monetary policy is likely to throw the spotlight onto
+other aspects of overall policy design.
+III. Rules versus discretion
+The debate over rules versus discretion has been going on for a very long time—but, for
+present purposes, a convenient starting point is Friedman’s (1968) advocacy of a fixed
+(3-5% per annum) growth for the money supply. Clearly, one aspect was the advocacy
+11
+
+of the money supply as the medium-term nominal anchor of the system. The other, more
+negative, aspect was to eschew activist short-term stabilisation via money supply
+changes. In modern (or semi-modern) dress, we would say that the policy would set up
+an interest-rate reaction function against price and output disturbances—the interest-rate
+responses depending on the demand for money function. But would it be a good reaction
+function in the sense I have been describing? There are a number of reasons, with long
+historical pedigrees, why it might not be, even if the paradigm of the money supply as the
+policy instrument is accepted. As is well known, Keynes, in the General Theory, argued
+that the ‘self-regulating’ mechanism of price flexibility may work badly, and may even
+be unstable if all that policy does to anchor the system is to fix the money supply. If
+price rises trigger increases in inflation expectations, real interest rates could even fall in
+the short run, a perverse response.9 An extreme version of this type of story is the familiar
+hyper-inflation model of Cagan (1956). If we think of the monetary base as the control
+instrument, potential instabilities could be magnified by pro-cyclical movements in the
+velocity of circulation of money or of the supply of commercial bank deposits. Patinkin
+(1969) argues that the inter-war Chicago tradition (as represented, for example, by Henry
+Simons) favoured counter-cyclical monetary policy for these reasons.10 There is a danger
+that money supply rules would fail to meet the ‘Taylor principle’: that is, expressed in the
+form of interest-rate reaction functions of the type studied empirically by Clarida, Galí,
+and Gertler (1998), the monetary policy arrangements should have the property that real
+interest rates rise with any increase in inflation.11 There is a clear danger too that the
+nominal anchor function would be compromised if the demand-for-money function was
+unstable over time—which turned out to be the case for the principal aggregates targeted.
+The Friedman paradigm was influential in the widespread adoption of monetary targets in
+the 1970s. One reason was that the central bank practice of operating on nominal interest
+rates risked producing falls in real interest rates, a perverse and destabilising response, in
+———————————————————————————————————————————
+9
+Keynes, in Chapter 19 of (1936), was more concerned with the problem of real interest rates rising during
+price deflation—a pathology now familiar in Japan.
+10
+Friedman (1967) and King (1997b, p. 85) also discuss Simons’ views on monetary policy. It should be
+noted that Simons specifically rejected a monetary policy framework based on targeting future inflation.
+He advocated targeting current values of a cyclically-sensitive price index: ‘The index must be highly
+sensitive; otherwise, the administrative authority would be compelled to postpone its actions unduly after
+significant disturbances or (Heaven forbid!) obliged to use discretion in anticipating changes.’ (Simons,
+1948, p. 329).
+11
+The idea that non-inflationary stability can be achieved by fixing the money supply is still extraordinarily
+influential. Hicks wrote in 1967: ‘We still have a Currency School, seeking in vain—but one sees why—
+for a monetary system that shall be automatic.’ (Hicks, 1967, p. viii). This is much less true now, largely
+reflecting the experience with monetary targeting.
+
+12
+
+the face of price shocks—such as occurred in the early 1970s. Switching to a fixed
+money supply rule would, it was claimed, lead to real interest rate rises—a better (though
+not necessarily optimal) response. In fact, however, the practical adoption of monetary
+targets also involved using the short-term interest rate as the instrument of control. There
+is really no dispute—nor was there in the early 1970s—that the central bank’s control
+over money in developed financial systems is indirect, via the short-term interest rate.
+With the interest rate as instrument, the reaction-function approach gives a coherent
+account of how monetary targeting works in practice. The reaction function involves the
+monetary authorities using the interest rate to meet a target for the quantity of money (the
+term ‘money supply’ is to be avoided). If the chosen aggregate really is related causally
+to the price level, this would provide an appropriate nominal anchor. But it is not
+necessary for there to be a causal link. Even if money is endogenously supplied (given
+the interest rate) by the private banking sector, the policy could work so long as the
+chosen aggregate were a good indicator of the state of the economy and so long as, in the
+longer term, the quantity of ‘money’ was closely related to the final objective (the price
+level, for example)—that is, so long as there were a reasonably stable money demand
+function. The system could even work if the monetary target were completely
+meaningless causally in determining prices (e.g., if the chosen target were notes and coins
+in the hands of the public, which are supplied on demand). The interest-rate reaction
+function would be doing the work, with the monetary aggregate performing the role of
+indicator.
+The abandonment of monetary targeting in most countries reflected the bitter experience
+that monetary aggregates turned out to be a very poor basis for a monetary policy
+reaction function designed to provide a nominal anchor and to stabilise the economy. For
+the UK, Nigel Lawson, in his autobiography, noting that the chosen target aggregate
+(Sterling M3) proved ‘treacherous’, sounds an appropriate note of regret: ‘We did not
+abandon the monetarist guiding light. It was the light that abandoned us.’ (Lawson, 1992,
+p. 987). Other reaction functions, such as those based on targeting the exchange rate,
+also failed, sometimes spectacularly as with the ejection of the pound sterling from the
+European Monetary System in 1992.
+Cecchetti (2000), amongst many others, is sceptical, even scathing, about monetary
+targets. He finds no use for them, preferring instead a policy of targeting inflation itself
+(though this does not, of course, rule out the possible statistical usefulness of various
+13
+
+monetary aggregates as part of the overall process of assessing likely future
+developments in inflation). In fact the abandonment of monetary targeting did not lead,
+as Lawson had feared, to a wholesale return to government discretion and judgement, but
+progressively to the adoption of inflation target-type regimes based on interest-rate
+reaction functions and ‘constrained discretion’ of the general type I have been discussing.
+This does not represent the abandonment of the objectives of monetary rules. On the
+contrary, the recognition of the need for a medium-term nominal anchor has, if anything,
+been strengthened. The automatic function of ‘money’ as nominal anchor has had to give
+way to policy targets for inflation itself and the instrument of policy is seen as the shortterm interest rate rather than the money supply. Automatic responses to shocks have
+been replaced by a policy-determined feedback system. Finally, with the reintroduction
+of Keynesian stabilisation concerns, there is recognition that the reaction function needs
+to be designed to provide the medium-term nominal anchor at minimum cost in terms of
+output-gap and price fluctuations.12
+I have already referred to the other main strand of the rules literature, stemming from the
+seminal article by Kydland and Prescott (1977). The problem, which applies equally to a
+strict monetary target and to inflation or price-level targets supported by reaction
+functions, is that such policies might not be ‘credible’. In practice, there are many
+reasons other than time-inconsistency why this might be so—including perceptions of
+lack of competence or lack of instruments. The huge literature on time-inconsistency
+focuses, however, on one particular problem: the possibility that if the inflation target
+were achieved, the policy-maker would face a temptation to cheat, leading, in simple
+models, to an ‘inflation bias’. One kind of solution to such a problem would be to remove
+discretion via commitment to a fixed money supply rule, with the danger, however, that
+other aspects of credibility would be compromised.13 I have already noted that it is part of
+the policy consensus that the inflation bias problem is effectively removed by the
+delegation of monetary policy to an independent central bank with clearly specified
+objectives and responsibilities.
+Assuming that this is so as far as the operation of monetary policy is concerned, the split
+UK system, with the target set by the government, is interesting. In principle, as noted
+———————————————————————————————————————————
+12
+Recall that Friedman’s argument against short-term stabilisation, or a counter-cyclical money supply
+policy, was unknown and variable lags—a form of model uncertainty.
+13
+The lack of discretion in the face of shocks might then lead to serious instabilities, lowering the
+credibility of the system. Locking the steering wheel on a vehicle is not a good way of committing to a
+destination.
+
+14
+
+above, the time-inconsistency problem could continue to apply due to the government’s
+control over the target itself, or, more generally, the government could renege and be
+seen to be likely to renege, by abandoning the system itself. I argued, above, that such
+behaviour was constrained, and can be seen to be constrained, by the reputational and
+political losses involved in opportunistically changing the target or weakening the
+system. This, however, is subject to the major caveat that such costs must actually be
+present. Arguably, they will be present and highly constraining, if the system itself is
+publicly understood and commands general support—and not otherwise. The practical
+point here is that a constituency of general support for non-accommodating policies and
+inflation control is necessary for the system to work as intended. This is another aspect
+of transparency and accountability, which needs to be taken extremely seriously by
+central banks and governments alike.
+IV Some issues
+Thus, arguably, the system in the UK is well designed, both institutionally and in terms of
+some of the main lessons from the policy rules literature. It may not have been fully
+‘tested in adversity’—though it has survived some pretty major shocks since inception.
+That said, there are a number of issues of continuing concern. The following is a
+selective account of some of them.
+A. Asset prices: the stock market and house prices
+What might be described as the prevailing central bank consensus on this issue is well set
+out by Vickers (1999). He argues that (a) asset prices should not be part of the definition
+of the target for inflation or of the loss function of the monetary authorities; (b) that asset
+prices contain considerable information relevant to forecasting the future state of the
+economy; and (c) that in an inflation forecast targeting regime, ‘it is neither necessary nor
+desirable for monetary policy to respond to changes in asset prices, except to the extent
+that they help to forecast inflationary or deflationary pressures’ (Bernanke and Gertler,
+1999, p. 115: emphasis added by Vickers).
+This baseline view, which the late Rudi Dornbusch labelled ‘the received wisdom’
+(Dornbusch, 1999, p. 129), has been challenged by Cecchetti et al (2000, 2002), who
+argue that it is consistent with inflation-forecast targeting for monetary policy to react to
+contain bubbles or other departures from the fundamentals. These authors are also
+15
+
+reasonably optimistic that such departures can be identified in practice—they suggest that
+the problem is probably no worse than the problem of identifying the natural rate or
+NAIRU. Clearly, the question of whether boom/bust cycles in asset prices should be
+headed off by monetary policy is highly topical—focussing, obviously, on the behaviour
+of the stock market in the US and, to a lesser extent, on the house price boom in the UK.
+Moreover, there have been spectacular episodes in the past where boom/bust cycles have
+been associated with major instability and economic problems—notably, as far as stockmarket prices are concerned, the Great Crash in the US in the inter-war years and, more
+recently, the asset price bubble in Japan in the late 1980s with its deflationary aftermath
+which is still continuing. (See, for example, Borio and Lowe, 2002). And as far as house
+prices are concerned, the UK boom of the late 1980s and subsequent bust is still regarded
+as an exemplar of bad macroeconomic policy.14 There is no doubt that asset-price
+movements of the boom/bust type are perceived as a problem by policy-makers and,
+unfortunately, there is no particular reason to believe that the potential problems would
+simply go away just because a successful inflation-targeting regime had been established.
+There is an issue, however, as to whether the monetary authorities should alter their
+behaviour as a result.
+Suppose we think of the problem, in stripped-down terms, as involving the anticipation of
+a large positive shock followed by a large negative shock with the negative shock
+(roughly) balancing the positive shock—so that the negative shock is larger, the larger the
+preceding positive shock. (Such a pattern would result, for example, from some
+stock/flow adjustment process.) The baseline position is that the consequences would be
+taken into account in the forward-looking procedures of the monetary authority and that
+the consequences for output and price instability would then be minimised in terms of
+some loss function. That is the end of the story as far as interest rates are concerned.
+Clearly, however, if there were some other policy instrument capable of lowering the
+magnitude of the first shock (and by construction therefore the second shock as well), it
+would be desirable that that policy should be used.15 The task of the monetary authorities
+would be eased and, of course, short of completely successful offsets by the monetary
+authorities, the instability of the economy would be reduced and welfare would be
+———————————————————————————————————————————
+14
+Similar experiences took place in several Scandinavian countries.
+15
+It is perhaps notable, that, in his newspaper column, Krugman (2002), criticising Chairman Greenspan
+for having allowed the US stock market boom to develop to the point where a destabilising bust was likely,
+suggested that margin requirements to discourage speculation should have been introduced early on in the
+boom. He did not suggest that the interest-rate instrument should have been used.
+
+16
+
+increased. The first-best response—which may of course be unrealistic or costly for
+other reasons—is that sources of instability should be tackled at source, removing or
+lowering the magnitude of the negatively correlated shocks themselves. As a practical
+example, consider the house price boom in the UK. If the rising house prices are
+regarded as a problem because they are likely to reverse and pose problems in the future,
+there are many who would argue that a first-best solution is that the factors behind such
+destabilising behaviour in the housing market should be tackled directly rather than by
+interest rates.
+From the inflation-targeting perspective, the interesting question is what should be done
+in the absence of alternative policies. As second-best, should interest-rate policy be
+diverted from its normal role, not to target an asset price, but to check some cumulative
+process early on—in effect, to lower the magnitude of the correlated shocks under
+discussion? The argument for so doing would be that the variances of inflation and
+output would be thereby reduced—which is perfectly consistent with standard
+interpretations of the loss function.16 But there is a trade-off involved (Bordo and Jeanne,
+2002). The reduction in the shocks likely to hit the economy, if it can be achieved (it is
+quite a big if), takes the monetary authorities closer to their objective. But the diversion
+of the instrument from its normal role takes them further away (effectively imposing
+additional variability on the economy). The first needs to be bigger than the second for
+the policy to be desirable.
+One can see why much of the discussion in favour of central banks using interest rates in
+this way is conducted in terms of heading off bubble-type phenomena. The presumption
+is that the longer a bubble path goes on, the bigger the bust when it comes. There is an
+easy-to-make assumption that a timely upward move in interest rates, even though not
+justified in terms of the inflation target and the normal reaction function, would prick the
+bubble, lowering both the upward and downward aspects of the shock. Typically, it is
+further assumed that the upward movement of the interest rate is not too large and that it
+is short-lived (so the costs from this aspect of the policy are small) and the benefit in
+terms of shock reduction is large. Such arguments are usually helped by 20/20 hindsight.
+In practice, the difficulties in reliably identifying bubbles or other persistent departures
+———————————————————————————————————————————
+16
+Vickers (1999, p. 434) notes that, since the variance matters, ‘expected inflation somewhat under target
+with moderate inflation uncertainty might be better than expected inflation on target with high inflation
+uncertainty’.
+
+17
+
+from the ‘fundamentals’ are acute and the risks involved in such a strategy may be
+considerable (Greenspan, 2002b).
+In my view, the most persuasive argument against using interest rates to moderate
+destabilising processes (even if they can be identified) is one of credibility and
+transparency. It is hard enough to establish a credible reaction function based on clear
+objectives with the interest rate being used to meet the inflation target and, consistent
+with that, to offset shocks—including shocks from the endogenous processes of the
+economy itself—as far as possible. If the interest rate has another role as well, being
+used to moderate the shock structure (e.g. by heading off bubbles from time to time), the
+reaction function is far less rule-like and predictable, and the system is likely to be less
+transparent and accountable. There may be cases where interest rates should be used to
+reverse some cumulative process. But the potential costs to credibility and transparency
+weigh heavily against.
+This puts me (nearly) in the baseline camp familiar from the policy rules literature that
+the direct and indirect effects of asset prices on inflation should be taken into account, but
+that otherwise they should not normally be given special significance. I am sure,
+however, that the issue will continue to be the subject of research—and I do not regard it
+as settled. I think, however, that there is a bit more to be said, and I come back to this
+topic in my closing remarks.
+B. Open economy issues and the exchange rate
+The exchange rate can be treated as an asset price—so much of the above can be thought
+to apply to exchange-rate misalignments as well (Cecchetti et al, 2002). However, the
+UK context over the past decade illustrates the difficulties regarding ‘misalignments’ and
+‘fundamentals’ rather well. In a nutshell, it is very hard to be at all sure what the
+equilibrium rate for sterling actually is, especially, it may be added, when the dollar
+versus the European currencies—since 1999, the euro—are swinging about as well.
+Chart 3 shows the sterling real effective exchange rate (unit labour cost basis) and against
+the US dollar and the DM (which, of course proxies the euro since 1999). Sterling
+declined substantially on exit from the ERM in 1992, which was widely seen as a
+reversion towards fundamental value. That hypothesis worked until about 1996, after
+which it rose very substantially—in fact to levels well above those pertaining to the ERM
+period—and, by and large, has stayed there since. Views about the ‘equilibrium’ have
+changed (perhaps as a lagged response to movements—or, perhaps more accurately,
+18
+
+19
+
+Chart 3.1: Sterling real effective exchange rate (unit labour cost based)
+USD / £
+150
+
+140
+
+130
+
+120
+
+110
+
+100
+
+90
+
+1990Q1
+
+1992Q1
+
+1994Q1
+
+1996Q1
+
+1998Q1
+
+2000Q1
+
+80
+2002Q1
+
+Source: International Financial Statistics.
+
+Chart 3.2: Sterling/US dollar nominal exchange rate
+USD / £
+2
+1.9
+1.8
+1.7
+1.6
+1.5
+1.4
+1.3
+1.2
+1990Q1
+
+1992Q1
+
+1994Q1
+
+1996Q1
+
+Source: IFS.
+
+20
+
+1998Q1
+
+2000Q1
+
+2002Q1
+
+Chart 3.3: Sterling/DM nominal exchange rate
+DM / £
+3.4
+
+3.2
+
+3
+
+2.8
+
+2.6
+
+2.4
+
+2.2
+
+1990Q1
+
+1992Q1
+
+1994Q1
+
+1996Q1
+
+1998Q1
+
+2000Q1
+
+2
+2002Q1
+
+Source: IFS.
+
+non-movements—in the actual exchange rate), but there is very little in the way of good
+explanation of the changes that have occurred, and the changes were not generally
+predicted ex ante. What is more, predictions of reversion have proved false—so far.
+What does one do, given that one of the chief transmission mechanisms from monetary
+policy to the economy is (according, for example, to the Bank of England’s
+macroeconomic forecasting model) through the exchange rate?
+In fact, forecasts and assessments are based on ‘technical assumptions’. For a start, some
+of the noise in exchange-rate movements is removed by basing the starting point of
+forecasts on the average during a 15-day window.17 Second, forecasts are now made
+using a simple average of the path predicted by Uncovered Interest Parity (UIP) and a nochange assumption (the random walk hypothesis). The possibility of reversion—
+modelled as a probability each period of a step change downwards in the exchange rate—
+has, however, been a feature of the risks and skews presented in the fan-charts published
+———————————————————————————————————————————
+17
+From time to time a different ‘window’, such as five days, has been used if the 15-day window is judged
+misleading.
+
+21
+
+in some recent Inflation Reports: per se this factor introduces an upward skew to the
+inflation forecast. All in all, this illustrates the practical point that interest-rate policy
+would be a great deal easier if we had better models of the exchange rate and a better
+handle on the elusive concept of its longer-term equilibrium value.
+The question of how interest-rate policy should react to the anticipation that there might
+be a downward ‘correction’ of the exchange rate is not simple. Suppose that interest rates
+are exactly right on the assumption that the exchange rate remains (over the forecast
+horizon) where it is. Now impose an upward skew on anticipated inflation due the
+anticipation that the exchange rate might fall. This suggests that interest rates should be
+raised. But this risks prolonging the assumed overvaluation. A ‘bubble-pricking’
+strategy would lean against the wind in the opposite direction, lowering interest rates in
+the short term against the anticipation that they would have to be raised when and if this
+caused the exchange rate to fall. All this raises the credibility issues referred to above—
+and suggests that a strategy of reacting to large exchange-rate movements only when they
+occur has considerable attractions.
+Turning to the question of how policy should react to an exchange-rate change when it
+does occur, the answer should depend, conventionally, on why it occurred and on the
+model adopted (as well as, of course, on whether the change is expected to permanent or
+transitory). That is not terribly helpful and not very transparent. And yet, contingent
+policies are important in perceptions of the reaction function. The underlying question
+also relates to the rules literature in terms of whether the rule should include a term in the
+exchange rate (e.g. Ball, 1999) and in terms of what aggregate should be targeted. (Thus,
+Clarida, Galí, and Gertler, 2001, for example, suggest targeting domestic-goods price
+inflation, thereby excluding the import price component from the CPI, whereas Engel,
+2002, suggests targeting the exchange rate.)
+A natural way of approaching the issue is in terms of the procedures followed by the
+MPC. In broad terms, it is clear that an exchange-rate depreciation (assumed persistent)
+would feed through the Bank’s forecasting procedures to import prices and thence,
+directly onto RPI inflation. The pass-through to import prices would lead (ignoring the
+dynamics) to a step-change upward in the price level. There would be further effects on
+aggregate demand—negatively in the short run because of the effect on real incomes and
+positively from expenditure switching effects. There would also be potential wage and
+price pressure as real wage falls were resisted and from effects on inflation expectations.
+22
+
+Thus, the prediction that an exchange rate fall would lead (other things being equal) to a
+compensating rise in real interest rates appears pretty safe on the basis of the target
+inflation rate set by the Chancellor and the known procedures of the MPC—including the
+characteristics of the Bank’s forecasting model, which is published.
+I have argued before (Allsopp, 2001) that, in the face of a real impact, such as the one
+described, the ideal strategy for controlling inflation is to ‘accept’ the price-level effect,
+whilst not accommodating the second-round effects via wage price pressure and via
+effects on inflation expectations. (See also Balls, 2001, and Meyer, 2002, who take a
+similar line for the UK and US respectively.) This is on the grounds that the ‘level effect’
+is not really ‘inflation’. Such a view is in line with Meltzer (1977, p. 183), who argues:
+‘a one-time change in tastes, the degree of monopoly, or other real variables changes the
+price level… [W]e require a theory that distinguishes between once-and-for-all price
+changes and maintained rates of price change.’ It is also in line with those who argue, on
+New Keynesian grounds (with the assumption that price stickiness applies to
+domestically produced goods) that monetary policy should not attempt to insulate the CPI
+from short-run fluctuations arising from terms-of-trade movements (Clarida, Galí, and
+Gertler, 2001). It needs to be recognised, however, that policy of allowing level effects,
+whilst curtailing second-round effects, would be practically difficult and would require a
+considerable degree of explanation and transparency if credibility were to be maintained.
+But are the effects as assumed? Kara and Nelson (2002), in a paper to be presented at
+this conference, demonstrate that the stylised facts for the UK are that, whilst there is
+considerable evidence that exchange-rate pass-through to import prices, there is no
+correlation with RPIX inflation. (There is much more in the paper—but they will speak
+for themselves). If this is the case, then it throws doubt on whether there would be a
+large effect on RPIX inflation from an exchange-rate fall, should it occur.
+These questions of pass-through and of the appropriate design of policy in the face of
+exchange-rate changes are of immense practical importance and are under continual
+discussion. They are already being illuminated by what Taylor (2001, p. 263) has termed
+the ‘new normative economic research’, and it is certain that the results of this ongoing
+research will feed through to the practical implementation of policy.
+
+23
+
+C. Forecasting
+Clearly, forecasts—interpreted generally to include the procedures and techniques that lie
+behind forward-looking assessments of the economy—are a key part of an inflationtargeting regime. I want to make a few brief remarks about two aspects of a very large
+subject. The first is about the consequences of non-stationarity—especially about the
+consequences of possible ‘structural shifts’ in key parameters. A number of authors in
+discussing policy rules have pointed to the large uncertainty about key parameters and
+data moments, such as trend productivity, potential GDP growth (or, in the labour
+market, the natural rate or NAIRU), and the neutral rate of interest. (See for example
+Kohn, 1999). Moreover, there is an influential and developing literature which uses
+policy rules to illuminate the consequences of (real time) errors of assessment in
+explaining past policy mistakes (including notably Orphanides, 2000, on the US, and
+Nelson and Nikolov, 2001, on the UK). The second is about procedure—how forecasting
+models and forecasts enter into the policy making process.
+Hendry and his co-authors have made the point (e.g. Hendry and Mizon, 2000) that if the
+data generating process were stationary, one would not observe systematic forecast errors
+(though poor models would, of course, generate inefficient forecasts). They trace
+systematic forecast errors, which are observed, to ‘deterministic shifts’—i.e. shifts in the
+unconditional means of key variables not accounted for by the existing forecasting
+model. They make a number of points of practical policy importance. The first, as is
+well known, is that these kinds of non-stationarities may justify ad hoc and informal
+forecasting techniques, as well as practical procedures such as intercept adjustments and
+over-differencing, which are certainly a major feature of real-world forecasting and
+assessment exercises. A second is that the forecasting performance of a model may be a
+poor and misleading criterion for selecting a policy model—and vice versa: that good
+models for policy analysis may not be good forecasting models.
+Any practical forecaster knows the potential importance of ‘deterministic shifts’. In an
+important sense, there is little that can be done about them—since they are unforecastable
+from within the model. If they do occur, forecasts will go wrong. There is, however, an
+extremely important question about how quickly they are detected and how quickly they
+are taken into account. In the MPC process, for example, a large proportion of the time is
+typically spent on the question of whether new data should be treated as ‘noise’ or ‘news’
+and, if the latter, what should be done about it. The response might be an intercept
+24
+
+adjustment, or, it might lead, over a longer time period, to the re-estimation of important
+relationships, or even to the adoption of a new model as a forecasting/policy tool. This
+means that when it comes to understanding the practice of monetary policy, one is not
+concerned just with the process of forecasting and policy formation at a moment in time
+but also with the ‘meta’ reaction function which describes how the institution adapts and
+changes as information accrues, as mistakes are made, and as learning occurs—including
+the embodiment of the results of new research as they accrue (Allsopp and Vines,
+2000).18 As with other aspects of the ‘reaction function’, it is important that this aspect be
+transparent, and as far as possible, publicly understood, as well.19
+Forecasting errors have been an important reason for major policy errors in the past – for
+example in the late 1980s in the UK,20 There is also a developing debate as to whether
+over-optimistic or, for that matter, over-pessimistic assessments of productivity
+performance have been a feature of US experience since the mid-1990s. An important
+question, however, is whether a well-functioning system should operate to moderate the
+effects of possible systematic forecasting errors. In principle it should.
+The basic point is that, with a high frequency policy-making process, targeted on future
+inflation, forecasting errors should reveal themselves, triggering appropriate reactions. In
+the ordinary course of events this means that policy errors, due to poor data or forecast
+mistakes, should not cumulate. A mistake made one month should not be repeated the
+next—and, arguably, so long as the error is not great, does not matter very much. With
+systematic errors, the process is more complicated and it is useful to illustrate what I have
+in mind in the simple case of a shift in a parameter such as the equilibrium
+unemployment rate. Suppose it has shifted down. Undetected, this leads to too high an
+interest rate, and inflation should start to undershoot. If the same error is repeated,
+systematic undershooting would be observed—whilst forecasts further out would
+indicate, period by period, that the interest rate was appropriate. It would not lead,
+however, to cumulatively expanding error—as might be expected on the basis of the misassessment of the equilibrium unemployment rate, as the starting-point is updated each
+———————————————————————————————————————————
+18
+Though formal analysis of such learning processes is difficult, it is not really that much more difficult
+conceptually than the process by which people learn to drive unfamiliar vehicles. But see Sargent (1999)
+on US monetary policy and inflation.
+19
+Adrian Pagan is in the course of preparing a report on the processes and procedures of the MPC.
+20
+Hendry and Mizon (2000) ascribe this to a ‘deterministic shift’ applying to the models of the
+consumption function then current. Of course, recognition of the problems may lead on to better models
+which ‘explain’ the deterministic shifts—e.g. in terms of previously omitted variables. Over-optimistic
+assessments of the productivity trend were another reason for policy error (Nelson and Nikolov, 2001).
+
+25
+
+month. Moreover, it should trigger responses, such as intercept adjustments and
+reassessments of model properties, which should work to curtail and eliminate the
+systematic error. The crucial point is that the forecasting system itself needs to react
+quickly and appropriately to the signals provided by the economy. The authorities are
+committed to an objective for inflation, not to a particular forecasting model or set of
+procedures (Svensson, 2002).21
+A potential difficulty is that the economy may not give good signals. It has been
+suggested, on these grounds, that with successful policies of low inflation—leading to
+rather flat Phillips curve responses—policy needs to react to other indicators, for example
+to prospects for demand or unemployment (Begg et al., 2002) A low-inflation
+environment with high inertia may also increase the likelihood of bubbles in asset prices
+and other cumulative phenomena because, with the authorities focussed on inflation,
+interest-rate responses appear unlikely to market participants.
+It is clear that forecasting needs to be seen as a process and as one that adapts through
+time. The role of forecasts in the policy process varies greatly between different systems.
+In the US, a staff forecast and assessment is available to members of the FOMC and is
+one input into the decision making process.22 In the UK, however, the MPC is
+responsible for the Inflation Report and the forecasts. The process is iterative—or back
+and forth (Vickers, 1998)—between Bank of England staff and the MPC. It is well
+recognised that nine MPC members are unlikely to agree on prospects for inflation, yet
+alone on the details, and they are intended to represent the centre of gravity of individual
+views.23 The iterative and interactive process is widely regarded as an extremely
+important part of the formation of policy in the UK. Clearly, though, it raises intricate
+issues about the exact status of forecasts as well as other difficulties—issues detailed in a
+report by Don Kohn of the Federal Reserve (now a member of the FOMC) (Kohn, 2000).
+
+———————————————————————————————————————————
+21
+Svensson goes on to argue, more contentiously, that inflation-targeting frameworks entail (or should
+entail) publicly-specified objective functions with explicit announcements of the functional form and
+numerical weights in the functions.
+22
+One disadvantage of staff forecasts is that it is, in bureaucratic terms, difficult to make them public since
+the policy-makers might be seen to be disagreeing with their own staff. In the US, the full forecasts are
+published after five years.
+23
+The explanation at the beginning of the Inflation Report reads:
+‘Although not every member will agree with every assumption on which are projections are based, the fan
+charts represent the MPC’s best collective judgement about the most likely paths for inflation and output,
+and the uncertainties surrounding those central projections.’
+
+26
+
+With an interactive process such as that in the UK the choice of models and procedures is
+particularly important. (There is an ongoing programme of model development and a new
+model with radically-improved theoretical structure is close to completion). But how
+should models be chosen and what kinds of models should be used? In practical terms,
+there may be a tension between theoretical sophistication and the needs of the interactive
+process of forecasting and assessment - which can be seen as mirroring the point made
+above that the best forecasting model may not be the best policy model—and vice versa.
+D Interaction with other policies
+The establishment of a monetary policy reaction function clearly does not mean that other
+aspects of policy are unimportant in inflation control and in stabilisation. Quite the
+contrary, it remains the overall stance of macroeconomic policy that matters. I
+concentrate here on some obvious aspects of the interaction with fiscal policy.
+First, it is now part of the consensus that there is not much hope of establishing a credible
+monetary policy reaction function if fiscal policy is out of control—e.g., in the sense of
+involving an explosive debt/GDP ratio. The Governor of the Bank of Canada argues, for
+example, that, in Canada, the new monetary arrangements only started to work as
+intended with major changes in the fiscal framework (Dodge, 2002). He also supports
+the view that, in a single country with monetary and fiscal arrangements being designed
+together, coordination difficulties should not arise—a view also put forward by the UK
+Treasury (Balls and O’Donnell, 2001). None of this means, of course, that coordination
+difficulties between monetary and fiscal policy-making institutions could not arise under
+different circumstances—and it begs the question of what an appropriate fiscal
+framework should look like.
+I would argue that, in broad terms, there is, as for monetary policy, a developing
+consensus over some aspects of fiscal policy. First, it is widely agreed that there needs to
+be some fiscal closure rule or feedback device to rule out explosive debt/GDP trajectories
+in the longer term—though the form that commitment should take is highly contentious,
+as is illustrated by the debates over the Stability and Growth Pact in the EU (Allsopp,
+2002). In the UK, the Medium Term Financial Strategy (MTFS) of the 1980s set out
+targets for public borrowing intended to be ‘consistent’ with the objectives for the growth
+in the £M3 monetary aggregate. The current fiscal framework, on the other hand,
+involves the commitment that the debt/GDP ratio should be controlled at a sustainable
+27
+
+and prudent level, which is usually interpreted as a target for the debt ratio of less than
+40%. Second, there is (in practical terms) agreement too that fiscal policy should have a
+stabilisation role in the short term, usually involving the pragmatic compromise of
+allowing the automatic stabilisers to work ‘over the cycle’; whilst discretionary fiscal
+action is frowned upon—on the grounds that it has, in the past, frequently proved to be
+destabilising. There are other aspects of fiscal policy that are important. For example,
+forecasts often embody the assumption that public expenditure is cash-limited—i.e, set in
+nominal terms—an institutional structure implying real expenditure reductions in the face
+of upward price shocks.
+Thus, whilst the ‘fiscal policy reaction function’, like the interest-rate reaction function,
+combines longer-term commitment with a role in short-term macroeconomic
+stabilisation, it remains, in policy discussions, a relatively underdeveloped concept. For
+short-term forecasting and assessment, fiscal policy is, not surprisingly, normally treated
+as an exogenous input.
+Bean (1998b) has suggested that, in a system such as that in the UK, the fiscal authorities
+are effectively in the position of a Stackelberg leader, free to set fiscal policy but
+constrained by the monetary policy reaction function (which operates at high frequency
+compared with fiscal policy). Formal coordination is not necessary so long as the
+interest-rate reaction function is predictable. This means that fiscal policy cannot
+generate surprise inflation and deals with a potential time-inconsistency problem. There
+could however, be a coordination problem relating to the policy mix—if, for example, the
+fiscal authorities saw advantage in a loose fiscal policy combined with higher interest
+rates (and a higher exchange rate) than otherwise (Allsopp and Vines, 2000).
+Clearly, the optimal monetary policy reaction function needs to take account of the fiscal
+system in operation. For example, if automatic stabilisers are allowed to operate, and if
+these help offset demand shocks, less work needs to be done by the monetary authorities.
+Formal analysis of fiscal policy rules is also relatively underdeveloped compared with
+that of monetary policy rules—reflecting the consensus referred to earlier that it is
+monetary policy that that should be assigned to the twin aims of providing a nominal
+anchor and stabilisation. It was, of course, not always so. Under the Bretton Woods
+system, with monetary policy outside the US assigned to meeting the exchange rate
+objectives, the stabilisation role was assigned to fiscal ‘fine-tuning’, which fell into
+
+28
+
+disrepute, partly because the evidence suggested, in the UK at least, that it was frequently
+destabilising (Dow, 1964), and partly because the system failed to provide a nominal
+anchor against rising inflation. Optimal fiscal policy is likely, however, to become an
+increasing concern within countries who are members of EMU. It is interesting in this
+respect that a recent Swedish report by a group of experts (Committee on Stabilisation
+Policy, 2002), studying the implications of possible EMU entry, recommends giving a
+substantial public role regarding stabilisation decisions to a fiscal policy council.24 The
+arguments used draw heavily on the monetary policy rules literature. In principle (though
+there may be strong objections in practice), fiscal instruments could be used to support a
+non-accommodating policy against inflation as well.
+All this suggests an important role for fiscal policy in stabilisation and inflation control.
+Policy in the Lawson era in the UK was, in fact, often described as ‘as much fiscalist as
+monetarist’. Does this give support to the so-called fiscal theory of the price level—the
+subject of the Bennett McCallum’s extremely interesting paper for this conference? In
+my view, it does not. The kind of model that would be used to discuss the interaction of
+fiscal and monetary policies in a practical policy setting, should, I would argue, have the
+following kinds of characteristics—as a sort of minimum kit for policy relevance. It
+needs to have an overlapping-generations structure (starting from Samuelson and
+Diamond rather than Ramsey), so that fiscal policy has potentially non-trivial effects in
+the long run. In the short run, it would need to recognise the existence of liquidity or
+cash flow effects—or, perhaps, rule-of-thumb behaviour as embodied in descendants of
+the McKibbin/Sachs (1991) model. And it should embody an interest-rate reaction
+function. In such a structure, there is no paradox at all in the existence of fiscal effects on
+the price level. The paradox in the fiscal theory of the price level is not that prices
+depend on fiscal policy, or even that the price level may follow the course of national
+debt, but that this is combined with control of another quantity such as base money—
+which, under the fiscal-theory hypothesis, does not determine prices.
+V Concluding Remarks
+I have argued that monetary policy in the UK has succeeded in setting up a reaction
+function which is recognisably of the appropriate type. I have also suggested that the
+new system should be reasonably robust, largely because its design reflects both the
+lessons of history and some of the main insights from the policy rules literature.
+———————————————————————————————————————————
+24
+For the UK, Wren-Lewis (2000) has suggested that policy could be improved in the UK if control over
+some fiscal variables was assigned to the MPC.
+
+29
+
+Performance so far has been good—indeed, remarkable by historical standards.
+However, though the system has survived some considerable shocks, there remains an
+important sense in which it has not been tested in adversity. So far, the accent has been
+on stabilisation. The MPC has not yet been called on to react to a major increase in
+inflationary pressure, threatening the nominal anchor objective, which would involve
+decisive and, presumably, unpopular action. Yet the perception that such action would be
+taken, if necessary, is a crucial part of the system. The hope, of course, is that the
+commitment to take such action if necessary makes it less likely that it will be necessary.
+I have noted that, in normal times, the perceived reaction function should stabilise
+expectations of both inflation and of growth. The confidence that policy will work in a
+particular way alters the way the economy works (including perceptions of risk). To an
+extent, ‘thinking makes it so’, and the private sector does much of the work via the effect
+of the policy framework on expectations. A rather dramatic illustration of how the
+system can function is provided by experience since the end of last year. After the
+previous cuts, policy interest rates have remained completely unchanged this year in the
+US, the euro area, and in the UK. Whilst this looks like central bank inertia of an
+extreme kind, the anticipation of policy interest rate rises—which were strongly present
+with the bounce in the US economy at the beginning of the year—has gone away
+(especially following the large stock market falls across the world, though much of that
+probably reflected the same re-evaluation of prospects). In the process, the yield curve
+has shifted, and there has been a market-induced offsetting reaction, first to improving
+and then to deteriorating prospects. Effectively, monetary policy has eased, despite no
+change in policy rates. In my view, this shows a system that is alive and well, even
+though actual policy decisions have resulted in no change in official rate settings. The
+crucial point is that the private sector can anticipate stabilising policy reactions and, in
+broad terms, believes they will work as intended.
+The system requires a high degree of credibility or trust—which could be threatened from
+several directions. Clearly, credibility would be threatened if the policy-makers were
+seen to be likely to cheat. Equally, however, it would be threatened if policy-makers
+were perceived to be incompetent, or to lack appropriate instruments. (This latter worry
+is one of the reasons why the possibility of deflation with nominal interest rates reaching
+their lower bound, as in Japan, is worrying.) The better the system functions and the
+more public understanding of how it is supposed to function, the more credible it is likely
+to become.
+
+30
+
+I have discussed a number of issues of current concern. One of these is asset prices. I
+have subscribed to the ‘received wisdom’ that generally it is neither necessary nor
+desirable for interest rates to respond to asset prices except to the extent that they
+contribute to inflationary or deflationary pressures, but with the recognition that there
+could be cases where diverting the interest-rate instrument to reducing particular kinds of
+shocks could be justified on second-best cost benefit grounds if destabilising shocks can
+thereby be reduced. Considerations of credibility—hard enough to establish anyway—
+weigh heavily against such policies. A far better strategy would be to tackle the
+destabilising dynamic processes, e.g. those involved in bubble-type phenomena, more
+directly with other policies.
+There is a worry, however, that the perception that economic policy will not react to
+phenomena such as asset-price bubbles or exchange-rate misalignments might encourage
+the phenomena themselves. This is most likely to be the case if there is a perceived
+‘disconnect’ between the phenomena and prospects for growth and inflation—since then
+the interest rate consequences implicit in the normal reaction function are, in effect,
+shorted out, making destabilising cumulative processes the more likely. There are
+historical instances, for example, where ‘benign neglect’ of the exchange rate (with the
+concentration of policy on the domestic economy) has appeared to lead to exchange-rate
+misalignments and instability. This is not to argue for giving a special role to asset prices
+in inflation targeting, still less should it be seen as an argument for altering the target. It
+should serve, however, to reinforce the point that the successful establishment of an
+inflation-targeting regime does not mean that all macroeconomic policy problems are
+dealt with. On the contrary, it is likely to highlight other aspects of the overall policy
+regime.
+This is particularly true with fiscal policy. There is consensus that a credible monetary
+policy requires a credible fiscal framework to go with it. So far, however, research on
+fiscal policy reaction functions seems relatively underdeveloped.
+Finally, if I were asked what would make the most difference to the procedures of
+practical monetary policy-making, it would be better and more reliable data and better
+understanding of key economic relationships. Given the uncertainties, the process of
+assessment and forecasting is bound to be judgemental—and in that sense, not rule-like.
+But if the goals are clear and the process is open and transparent, it is, to a large extent
+predictable, which is what matters for the stabilisation of expectations.
+
+31
+
+References
+Alesina, Alberto, Olivier Blanchard, Jordi Galí, Francesco Giavazzi, and Harald Uhlig
+(2001). ‘Defining a Macroeconomic Framework for the Euro Area’, Monitoring the
+European Central Bank 3, CEPR.
+Allsopp, Christopher (2001). ‘Economic Imbalances and UK Monetary Policy’, Bank of
+England Quarterly Bulletin, Vol. 41(3), 484-494.
+Allsopp, Christopher (2002). ‘The Future of Macroeconomic Policy in the European
+Union’. External MPC Unit Discussion Paper No. 7.
+Allsopp, Christopher, and David Vines (2000). ‘The Assessment: Macroeconomic
+Policy’, Oxford Review of Economic Policy, Vol. 16(4), 1-32.
+Ball, Laurence (1999). ‘Policy Rules for Open Economies’. In J.B. Taylor (ed.),
+Monetary Policy Rules. University of Chicago Press. 127–144.
+Balls, Edward (2001). ‘Delivering Economic Stability’. Oxford Business Alumni
+Annual Lecture, Merchant Taylors’ Hall, London. 12 June.
+Balls, Edward, and Gus O’Donnell (eds.) (2001). Reforming Britain’s Economic and
+Financial Policy. Palgrave.
+Batini, Nicoletta, and Andrew G. Haldane (1999). ‘Forward-Looking Rules for
+Monetary Policy’. In J.B. Taylor (ed.), Monetary Policy Rules. University of Chicago
+Press. 157-192.
+Bean, Charles (1998a). ‘The New UK Monetary Arrangements: A View from the
+Literature’, Economic Journal, Vol. 108(451), 1795-1809.
+Bean, Charles (1998b). ‘Monetary Policy under EMU’, Oxford Review of Economic
+Policy, Vol. 14(3), 41-53.
+Bean, Charles, and Nigel Jenkinson (2001). ‘The Formulation of Monetary Policy at the
+Bank of England’, Bank of England Quarterly Bulletin, Vol. 41(4), Winter, 434-441.
+32
+
+Begg, David, Fabio Canova, Antonio Fatas, Paul De Grauwe, and Philip R. Lane (2002).
+‘Surviving the Slowdown’, Monitoring the European Central Bank 4, CEPR, London.
+Bernanke, Ben S., and Mark Gertler (1999). ‘Monetary Policy and Asset Price
+Volatility’. In New Challenges for Monetary Policy: A Symposium Sponsored by the
+Federal Reserve Bank of Kansas City. Federal Reserve Bank of Kansas City. 77-128.
+Bernanke, Ben S., and Frederic S. Mishkin (1997). ‘Inflation Targeting: A New
+Framework for Monetary Policy?’, Journal of Economic Perspectives, Vol. 11(2), 97-116.
+Blinder, Alan S. (1998). Central Banking in Theory and Practice. MIT Press.
+Bordo, Michael D., and Olivier Jeanne (2002). ‘Boom-Busts in Asset Prices, Economic
+Instability and Monetary Policy’. CEPR Discussion Paper No. 3398.
+Borio, Claudio, and Philip Lowe (2002). ‘Asset Prices, Financial and Monetary Stability:
+Exploring the Nexus’. BIS Working Paper No. 114.
+Cagan, Philip (1956). ‘The Monetary Dynamics of Hyperinflation’. In M. Friedman
+(ed.), Studies in the Quantity Theory of Money. University of Chicago Press. 25-117.
+Cecchetti, Stephen G. (2000). ‘Making Monetary Policy: Objectives and Rules’, Oxford
+Review of Economic Policy, Vol. 16(4), 43-59.
+Cecchetti, Stephen G., Hans Genberg, John Lipsky, and Sushil Wadhwani (2000). Asset
+Prices and Central Bank Policy. Geneva Report on the World Economy 2. CEPR and
+ICMB.
+Cecchetti, Stephen G., Hans Genberg, and Sushil Wadhwani (2002). ‘Asset Prices in a
+Flexible Inflation Targeting Framework’. NBER Working Paper No. 8970.
+Clarida, Richard, Jordi Galí, and Mark Gertler (1998). ‘Monetary Policy Rules in
+Practice: Some International Evidence’, European Economic Review, 42, 1033–1067.
+
+33
+
+Clarida, Richard, Jordi Galí, and Mark Gertler (2001). ‘Optimal Monetary Policy in
+Open versus Closed Economies: An Integrated Approach’, American Economic Review
+(Papers and Proceedings), Vol. 91(2), 248–252.
+Committee on Stabilisation Policy (2002). Stabilisation Policy in the Monetary Union.
+Swedish Official Government Report, 12 March.
+Dodge, David (2002). ‘The Interaction between Monetary and Fiscal Policies’. Donald
+Gow Lecture, School of Policy Studies, Queens University, Kingston, Ontario, 26 April.
+Dornbusch, Rudiger (1999). ‘Commentary: Monetary Policy and Asset Price Volatility’.
+In New Challenges for Monetary Policy: A Symposium Sponsored by the Federal Reserve
+Bank of Kansas City. Federal Reserve Bank of Kansas City. 129-135.
+Dow, J.C.R. (1964). The Management of the British Economy, 1945-1960. Cambridge
+University Press.
+Engel, Charles (2002). ‘The Responsiveness of Consumer Prices to Exchange Rates and
+the Implications for Exchange-Rate Policy: A Survey of a Few Recent New OpenEconomy Macro Models’. NBER Working Paper No. 8725.
+Friedman, Milton (1967). ‘The Monetary Theory and Policy of Henry Simons’, Journal
+of Law and Economics, Vol. 10(2), 1-13. Reprinted in M. Friedman, The Optimum
+Quantity of Money and Other Essays. Aldine, 1969. 81-96.
+Friedman, Milton (1968). ‘The Role of Monetary Policy’, American Economic Review,
+Vol. 58(1), 1-17.
+Greenspan, Alan (2002a). ‘Chairman’s Remarks: Transparency in Monetary Policy’,
+Federal Reserve Bank of St. Louis Review, Vol. 84(4), 5-6.
+Greenspan, Alan (2002b). ‘Economic Volatility’. Speech given at the Federal Reserve
+Bank of Kansas City Symposium on ‘Rethinking Stabilization Policy’, Jackson Hole,
+Wyoming. 30 August.
+Hendry,-David-F., and Grayham E. Mizon (2000). ‘Reformulating Empirical
+Macroeconomic Modelling’, Oxford Review of Economic Policy, Vol. 16(4), 138-159.
+
+34
+
+Hicks, John R. (1967). Critical Essays in Monetary Theory. Clarendon Press.
+HM Treasury (2002). Budget 2002. Stationery Office.
+Kara, Amit, and Edward Nelson (2002). ‘The Exchange Rate and Inflation in the UK’.
+Manuscript, Bank of England.
+Keynes, J.M. (1936). The General Theory of Employment, Interest and Money.
+Macmillan.
+King, Mervyn (1996). ‘How Should Central Banks Reduce Inflation?—Conceptual
+Issues’. In Achieving Price Stability: A Symposium Sponsored by the Federal Reserve
+Bank of Kansas City. Federal Reserve Bank of Kansas City. 53-91.
+King, Mervyn (1997a). ‘The Inflation Target Five Years On’, Bank of England
+Quarterly Bulletin, Vol. 37(4), November, 434-442.
+King, Mervyn (1997b). ‘Changes in UK Monetary Policy: Rules and Discretion in
+Practice’, Journal of Monetary Economics, Vol. 39(1), 81-97.
+King, Mervyn (2002). ‘The Monetary Policy Committee Five Years On’, Bank of
+England Quarterly Bulletin, Vol. 42(2), Summer, 219-227.
+Kohn, Donald L. (1999). ‘Comment: Forward-Looking Rules for Monetary Policy’. In
+J.B. Taylor (ed.), Monetary Policy Rules. University of Chicago Press. 192-199.
+Kohn, Donald L. (2000). ‘Report to the Non-Executive Directors of the Court of the
+Bank of England on Monetary Policy Processes and the Work of Monetary Analysis’. 18
+October. Reprinted in Bank of England Quarterly Bulletin, Vol. 41(1), Spring 2001,
+35-49.
+Krugman, Paul (2002). ‘Passing the Buck’, New York Times, 3 September.
+Kydland, Finn E., and Edward C. Prescott (1977). ‘Rules Rather than Discretion: The
+Inconsistency of Optimal Plans’, Journal of Political Economy, Vol. 85(3), 473-491.
+Lawson, Nigel (1992). The View from No. 11. Bantam.
+
+35
+
+McCallum, Bennett T. (1995). ‘Two Fallacies Concerning Central-Bank Independence’,
+American Economic Review, Vol. 85(2), 207-211.
+McKibbin, Warwick J., and Jeffrey D. Sachs (1991). Global Linkages: Macroeconomic
+Interdependence and Cooperation in the World Economy. Brookings Institution Press.
+Meade, James E. (1951). The Theory of International Economic Policy, Volume 1: The
+Balance of Payments. Oxford University Press.
+Meltzer, Allan H. (1977). ‘Anticipated Inflation and Unanticipated Price Change’,
+Journal of Money, Credit, and Banking Vol. 9(1), 182–205.
+Meyer, Laurence H. (2002). ‘Rules and Discretion’. Speech at the Owen Graduate
+School of Management, Vanderbilt University, Nashville, Tennessee. January 16.
+Nelson, Edward, and Kalin Nikolov (2001). ‘UK Inflation in the 1970s and 1980s: The
+Role of Output Gap Mismeasurement’. Bank of England Working Paper No. 148 and
+CEPR Discussion Paper No. 2999.
+Orphanides, Athanasios (2000). ‘The Quest for Prosperity without Inflation’. ECB
+Working Paper No. 15.
+Patinkin, Don (1969). ‘The Chicago Tradition, the Quantity Theory, and Friedman’,
+Journal of Money, Credit, and Banking, Vol. 1(1), 46-70.
+Posen, Adam S. (1993). ‘Why Central Bank Independence Does Not Cause Low
+Inflation: There Is No Institutional Fix for Politics’. In R. O’Brien (ed.), Finance and the
+International Economy. Volume 7. The Amex Bank Review Prize Essays: In Memory of
+Richard Marjolin. Oxford University Press. 41-54.
+Rogoff, Kenneth (1985). ‘The Optimal Degree of Commitment to an Intermediate
+Monetary Target’, Quarterly Journal of Economics, Vol. 100(4), 1169-1189.
+Rotemberg, Julio J., and Michael Woodford (1997). ‘An Optimization-Based
+Econometric Framework for the Evaluation of Monetary Policy’, NBER Macroeconomics
+Annual 12, 297-346.
+Sargent, Thomas J (1999). The Conquest of American Inflation. Princeton University
+Press.
+
+36
+
+Simons, Henry C. (1948). Economic Policy for a Free Society. University of Chicago
+Press.
+Svensson, Lars E.O. (1997). ‘Inflation Forecast Targeting: Implementing and Monitoring
+Inflation Targets’, European Economic Review, Vol. 41(6), 1111-1146.
+Svensson, Lars E.O. (2002). ‘What Is Wrong with Taylor Rules? Using Judgment in
+Monetary Policy through Targeting Rules’. Manuscript, Princeton University.
+Taylor, John B. (1993). ‘Discretion versus Policy Rules in Practice’, Carnegie-Rochester
+Conference Series on Public Policy, Vol. 39(1), 195-214.
+Taylor, John B. (1997). ‘America’s Peacetime Inflation: The 1970s: Comment’. In C.D.
+Romer and D.H. Romer (eds.), Reducing Inflation: Motivation and Strategy. University
+of Chicago Press. 276-280.
+Taylor, John B. (1999). ‘The Robustness and Efficiency of Monetary Policy Rules as
+Guidelines for Interest Rate Setting by the European Central Bank’, Journal of Monetary
+Economics, Vol. 43(3), 655-679.
+Taylor, John B. (2000). ‘Alternative Views of the Monetary Transmission Mechanism:
+What Difference Do They Make for Monetary Policy?’, Oxford Review of Economic
+Policy, Vol. 16(4), 60-73.
+Taylor, John B. (2001). ‘The Role of the Exchange Rate in Monetary-Policy Rules’,
+American Economic Review (Papers and Proceedings), Vol. 91(2), 263-267.
+Vickers, John (1998). ‘Inflation Targeting in Practice: The UK Experience’, Bank of
+England Quarterly Bulletin, Vol. 38(4), November, 368-375.
+Vickers, John (1999). ‘Monetary Policy and Asset Prices’, Bank of England Quarterly
+Bulletin, Vol. 39(4), November, 428-435.
+Walsh, Carl E. (1995). ‘Optimal Contracts for Central Bankers’, American Economic
+Review, Vol. 85(1), 150-167.
+Wren-Lewis, Simon (2000). ‘The Limits to Discretionary Fiscal Stabilization Policy’,
+Oxford Review of Economic Policy, Vol. 16(4), 92-105.
+
+37
+
+

@@ -1,0 +1,1316 @@
+Lags, trade-offs and the challenges facing monetary policy
+Speech given by
+Ben Broadbent, Deputy Governor, Monetary Policy
+
+Leeds University Business School
+6 December 2021
+
+I’ve received helpful comments from colleagues at the Bank of England. I’d like to thank
+Fabrizio Cadamagnani for his help in preparing the speech. The views expressed are my own and do
+not necessarily reflect those of the Bank of England or other members of the Financial Policy
+Committee or the Monetary Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+Good morning! Thank you for asking me to speak to you today. It’s a great pleasure to do so in person,
+something I haven’t been able to do for almost two years. Virtual meetings are all very well – and were
+clearly indispensable during the worst of the pandemic – but I think there’s something missing if that’s the
+only way in which we ever talk to each other. It’s an additional pleasure to be in Leeds. As you may know,
+as part of a plan to increase our staff presence across the UK we announced earlier this year we’d be setting
+up a new hub right here in Leeds.
+I’m coming here at an extraordinary time for the economy in general and for monetary policy in particular.
+Annual CPI inflation rose to over 4% in October, with the jump in domestic energy bills the single most
+important contributor to the change on the month. The aggregate rate of inflation is likely to rise further over
+the next few months and the chances are that it will comfortably exceed 5% when the Ofgem cap on retail
+energy prices is next adjusted, in April. The cap is based on a trailing average of forward prices in wholesale
+energy markets. The relevant period for next April is between August this year and February 2022.
+Two-thirds of the way through we can already be reasonably certain (unfortunately) of a further significant
+rise in retail energy prices next spring (Chart 1).
+Chart 1. Gas bills likely to rise significantly
+again next April
+900
+
+Average bill,
+£ per year
+
+Wholesale cost
+(p/therm)
+
+Chart 2. Goods prices account fully for the
+current overshoot in inflation relative to target
+Percentage points
+
+140
+120
+
+800
+100
+700
+
+Gas bill
+(LHS)
+
+600
+Wholesale gas
+costs relevant for
+each Ofgem cap
+period (RHS)
+
+500
+400
+300
+2019
+
+CPI inflation
+(per cent)
+
+2021
+
+2022
+
+2023
+
+4
+Other goods
+(39%)
+
+3
+
+80
+
+2
+
+60
+
+1
+
+40
+
+0
+Food and non-alcoholic
+beverages (11%)
+Fuels and
+Electricity and gas (3%) lubricants (3%)
+
+20
+0
+
+2020
+
+Services
+(43%)
+
+5
+
+2024
+
+The Ofgem cap is adjusted twice a year. The figure set in month
+t, and for the following six months (t till (t+5) inclusive), is based
+on the forward price for the following year (t – (t+11)) observed
+between three and nine months earlier. The dotted line indicates
+prices relevant for the cap based on current futures contracts.
+Sources: Ofgem, Bloomberg Finance L.P. and Bank calculations.
+
+-1
+-2
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+Contributions to annual CPI inflation. Figures in parentheses are
+basket weights in 2021 and do not sum to 100 due to rounding.
+The chart was shown in the November MPR and does not include
+the latest data, for October 2021.
+Sources: Bloomberg Finance L.P., Department for Business,
+Energy and Industrial Strategy, ONS and Bank calculations.
+
+It would be wrong to say this inflation is only about energy. It’s broader than that. What we can say,
+however, is that most of it – thus far, at least – has been concentrated in tradable goods in general
+(non-energy as well as energy), much less of it in the non-traded parts of the economy. One indication of
+that is Chart 2, which plots the arithmetic contribution of various broad components to the change in the
+aggregate CPI in the UK. Just about the entire overshoot in overall inflation, relative to the MPC’s 2% target,
+reflects unusually rapid inflation in prices of (largely tradable) goods. Though it’s also been rising, price
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+inflation for (largely non-tradable) consumer services is currently close to its average during the inflation
+targeting period.
+Another indication is that we’ve seen similar surges in inflation in many other developed economies as well
+(Chart 3). This is a global phenomenon. And what’s striking is that this has happened even though global
+(UK-weighted) economic activity has only just returned – and in several individual countries has yet to return
+– to pre-pandemic levels (Chart 4). In the UK, in the third quarter of the year, output in the private sector –
+the part of the economy that actually sets prices – was still 2% lower than it had been at the end of 2019.
+More often than not higher inflation is associated with stronger, not weaker, economic activity. At least if you
+consider the last eighteen months or so as a whole, taking account not just of the resurgence this year but
+the huge contractions in 2020, that’s not what’s happened on this occasion.
+Chart 3. Inflation has risen significantly in many
+countries...
+UK
+
+Euro area
+
+US
+
+Chart 4. ...even though advanced-economy
+output is barely higher than a couple of years ago
+
+Per cent
+
+Level relative to 2019 Q4, per cent
+
+6
+
+4
+0
+
+5
+-4
+
+4
+3
+
+-8
+
+2
+
+-12
+
+1
+
+UK GDP (output estimate)
+
+0
+
+-16
+
+UK market sector output
+
+-1
+
+World GDP
+
+-20
+
+-2
+-3
+97 99 01 03 05 07 09 11 13 15 17 19 21
+Twelve-month CPI inflation. Includes November flash estimate of
+Euro Area inflation.
+Sources: Eurostat, ONS, Refinitiv Eikon from LSEG, US Bureau
+of Economic Analysis and Bank calculations.
+
+-24
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+World GDP is constructed using GDP data of 188 countries
+weighted according to their shares in UK exports. UK market
+sector output is real market sector gross value added.
+Sources: IMF World Economic Outlook (WEO), ONS, Refinitiv
+Eikon from LSEG and Bank calculations.
+
+This pattern – levels of output that are still relatively subdued but rapid and skewed price rises – has been
+evident for some time. Qualitatively, at least, nor has there been any change in the best explanation we
+have for it. Inflation in global goods prices looks to be the result of a big shift in global consumer demand,
+induced by the pandemic, away from services and towards goods. Even at the best of times it would have
+been hard for the supply sides of our economies to adapt to this. With the pandemic also affecting global
+supply chains for goods it’s proved that much harder1.
+There are still good reasons to think that this rapid inflation in tradable goods prices is likely to fade, and in
+some cases reverse, before a policy decision taken now could do much to offset it. In contrast, and although
+Many individual policy makers have discussed these points (I did so in a couple of speeches earlier this year - “Covid and the
+Composition of Spending” in January, and then “Mismatch” in July). As the MPC we’ve done so in successive Monetary Policy Reports
+this year (see, in particular, the ‘in focus’ section in the August Report).
+1
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+it’s so far contributed much less, the tightening of the domestic labour market is likely to be a more persistent
+source of inflation. That’s why the MPC has paid close attention to it, and in particular how it’s behaving now
+that the furlough scheme has ended.
+As I say, I’ll have a little more to say about these things – whether rapid goods inflation is likely to prove
+transitory, what people have actually meant by that word, and what we’ve learned about the post-furlough
+labour market – in a bit.
+Sandwiched around those points, both at the end and now, are a couple of more general points about
+monetary policy. These too are familiar but they’re particularly relevant in the current environment and are
+therefore worth reiterating.
+One is that it takes time for policy to work. A change in interest rates has its peak impact on inflation only
+after a significant delay – probably eighteen months or more2. One implication is that, fully to offset the
+inflation we’ve seen through the course of this year, monetary authorities would have to have foreseen the
+various things that have pushed it up (including, for example, the recent problems with gas supplies).
+Another is that they would have to have tightened policy pretty aggressively – by enough to push up
+unemployment materially, with the explicit aim of depressing nominal wage growth – just ahead of or during
+the first wave of the pandemic. Using the Bank’s economic model, and assuming perfect foresight of the rise
+in tradable goods prices, a simulation suggests you would have needed comfortably more than an extra 2%
+points on the rate of unemployment – something around eight hundred thousand jobs – to have kept overall
+CPI inflation at 2% in the fourth quarter of this year (Charts 5a and 5b).
+Chart 5a. Tighter monetary policy to achieve 2%
+inflation now…
+Per cent
+
+Chart 5b. …would have resulted in much higher
+unemployment
+Per cent
+
+5.0
+
+6.5
+
+4.0
+
+6.0
+
+3.0
+
+5.5
+
+2.0
+
+5.0
+
+1.0
+
+4.5
+
+2019
+
+2020
+2021
+2022
+Inflation - N21 MPR
+
+-1.0
+2023
+2024
+Inflation - Scenario
+
+CPI inflation excluding VAT. Sources: ONS and Bank calculations.
+
+7.0
+
+4.0
+2019
+
+2020
+2021
+2022
+Unemp. - N21 MPR
+
+3.5
+2023
+2024
+Unemp. - Scenario
+
+Sources: ONS and Bank calculations.
+
+In the literature estimates of the policy lag seem to vary quite a bit. In Cloyne and Hurtgen (2016, ‘The macroeconomic effects of
+monetary policy: a new measure for the United Kingdom’, American Economic Journal: Macroeconomics), the authors find that the peak
+effect of changes in UK monetary policy takes well over two years to come through. Cesa-Bianchi, Thwaites and Vicondoa (2020,
+‘Monetary policy transmission in the United Kingdom: a high frequency identification approach’, European Economic Review) provide
+evidence of material effects after barely a year.
+2
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+In other words, there would’ve been no way to control inflation in prices but, at the same time, leave nominal
+wages and nominal household incomes untouched. It’s sometimes been suggested that, had monetary
+policy acted to suppress it, consumers might have been protected from this rise in the cost of living.
+Unfortunately, that’s not true. At a fundamental level this is because monetary policy cannot, over the long
+run, offset real economic shocks. If structural productivity grows more slowly, for example – as it did after
+the financial crisis – then, ultimately, real wages will do so as well, no matter what happens to monetary
+policy. And if strong worldwide demand and impaired global supply chains raise the price of a good we buy
+on global markets, as we’ve seen over the past year, there’s no avoiding the consequences of that for real
+incomes either. One way or the other, either via lower nominal pay or higher prices, real incomes will be
+lower than they otherwise would have been. Indeed, because suppressing nominal wages itself involves a
+real cost – unemployment would need to rise – real incomes would be that much lower in the first case than
+in the second (i.e. in the simulation depicted in Charts 5a and 5b than they actually have been this year).
+What policy can do – assuming these shocks are foreseeable, or persist for long enough – is to make a
+choice between these outcomes. Again supposing all this had been predictable in advance, in the spring of
+2020, the policy maker in this simulations might have chosen not to tighten policy quite so aggressively, and
+to tolerate a degree of above-target inflation at the end of this year, in order to avoid such a steep rise in
+unemployment.
+But this obviously involves a trade-off. In the face of big increases in import prices of this sort, either you
+stick rigidly to the primary inflation objective, and suffer the greater hit to real incomes and domestic output;
+or you accommodate somewhat higher inflation and pay some attention to the secondary goal of stabilising
+the domestic economy. In these “exceptional circumstances” the MPC’s remit requires explicitly that
+Committee balance these considerations and, if necessary, that it set policy with a view to taking somewhat
+longer to return inflation to target3. For these considerations to matter, clearly, these “trade-off-inducing”
+shocks should be sufficiently persistent, or sufficiently foreseeable, to affect inflation further into the future
+than the usual policy lags.
+I’ll return to these points in the conclusion. Before then I want to look at the latest evidence on traded goods
+prices – trying to define a little more precisely what how word “transitory” should be understood in this
+context – and then the domestic labour market.
+
+“In exceptional circumstances, shocks to the economy may be particularly large or the effects of shocks may persist over an extended
+period, or both. In such circumstances, the MPC is likely to be faced with more significant trade-offs between the speed with which it
+aims to bring inflation back to the target and the consideration that should be placed on the variability of output. In forming and
+communicating its judgements the Committee should promote understanding of the trade-offs inherent in setting monetary policy to
+meet a forward-looking inflation target while giving due consideration to output volatility”.
+3
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+Will inflation in traded goods prices prove “transitory” (and what have people meant by the
+word anyway)?
+I should say up front that the split between “global” and “domestic” sources of inflation is not, strictly
+speaking, an entirely clean one4. And I don’t really buy the argument one sometimes hears that monetary
+policy can’t do anything about the first – “imported” inflation, as it’s sometimes called – purely because it’s
+unable directly to affect the source of it. As the MPC cannot affect the global supply of oil, for example – this
+is how the argument goes – then it can’t do anything about an inflation caused by rising oil prices, even if
+that were to continue for a long time.
+That’s true, of course. But it’s also true of just about everything that might otherwise affect inflation, including
+the many domestic influences. Policy has no direct control over those, either. As long as you’ve got a
+floating exchange rate there’s nothing about being an open economy (and therefore subject to swings in
+import prices) that prevents monetary policy from controlling overall inflation, at least over the medium term.
+What being an open economy might mean, in the
+
+Chart 6. Goods price inflation tends to be more
+volatile and less persistent than services inflation
+
+shorter run, is that inflation is more volatile.
+That’s because prices of traded goods tend to be
+more volatile (Chart 6). And it’s here that the
+distinction is more significant.
+Take oil prices as an example. These move
+around a lot more than those of non-traded goods
+and services and often have a significant and
+fairly immediate impact on the CPI. But that
+impact also tends to dissipate relatively quickly,
+after a year or so. And it’s for this reason, not
+because a change in interest rates can’t affect the
+supply of oil (obviously), that the orthodox
+response of monetary policy to a change in oil
+
+Volatility measured as standard deviation over the sample (annual
+data 2001-21). Persistence measured as the lagged coefficient of a
+first-order auto-regressive model.
+Sources: ONS and Bank calculations.
+
+prices is in the first instance to look through it. By the time policy could really do anything to offset such a
+rise, allowing for the delay between action and effect, the direct impact on inflation would largely have
+disappeared.
+It’s in this context that, referring to the current surge in tradable goods prices, several policy makers have
+used the word “transitory”. By that they do not mean (and never meant) that these effects will be gone in
+one, two or even twelve months. As we saw at the start, thanks to the protracted way in which developments
+in wholesale markets feed through to the Ofgem cap, the recent jump in wholesale gas prices will directly
+4
+
+My predecessor Charlie Bean explained this point very clearly in a talk in Jackson Hole in 2006.
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+boost CPI inflation in the UK for twelve months. The relevant question is whether the global factors currently
+pushing up on goods prices are still there by the time a policy decision taken today could have any
+significant effect of its own. What is their prospective contribution to inflation in eighteen, twenty-four months
+and beyond? This is the horizon that matters for policy and against which the word “transitory” should be
+measured.
+As I outlined earlier, one key contributor to the big
+acceleration in traded goods prices has been the
+
+Chart 7. Switch from services to goods has been
+a global phenomenon. Services consumption
+started recovering with the lifting of restrictions
+
+big shift in consumer spending, across the
+
+Durable Goods
+
+developed world, away from services and towards
+
+Level, 2019Q4 = 100
+125
+
+Other goods
+
+120
+
+Services
+
+115
+
+goods. Unable to spend anything like as much on
+consumer services during the pandemic –
+
+110
+
+restaurants, leisure and transport, for example –
+
+105
+
+consumers didn’t save all the proceeds; they
+
+100
+
+shifted quite a bit of them to goods. This was
+
+95
+
+already evident as early as the start of this year. In
+
+90
+
+the UK, for example, retail sales grew pretty
+
+85
+
+strongly through 2020, even as spending on
+services collapsed (if you can’t go to the cinema,
+why not spend those savings on a new TV?).
+
+Dec 19
+
+Jun 20
+
+Dec 20
+
+80
+Jun 21
+
+Sources: OECD Quarterly National Accounts, IMF World
+Economic Outlook and Bank calculations.
+
+Across the advanced economies in aggregate,
+spending on services in first quarter of the year was 5% lower than at the end of 2019; spending on goods
+was 5% higher (Chart 7).
+Shifts in demand happen all the time and, as long as supply can shift in response, they needn’t have any
+impact at the macro-economic level. But this one was far larger, more widespread and occurred much faster
+than most. And, far from shifting in response, and meeting that extra demand, the pandemic meant the
+global supply of goods was actively impaired. Local lockdowns affected production in many Asian countries
+and effective capacity in shipping and other forms of transport was also hit.
+Earlier this year my own guess was that these things would visibly start to reverse by the end of it. Because
+they were caused by the pandemic it was reasonable to expect the shifts in demand to reverse, and the
+problems in supply chains to abate, as vaccinations took effect.
+As yet it’s clear that hasn’t happened to the degree that I, at least, expected. Shipping costs remained very
+high throughout the autumn; as we’ve seen, energy (and particularly gas) prices took a huge lurch upwards;
+at the retail level there is no sign yet of any deceleration in goods prices.
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+In the case of energy markets there are probably specific factors to blame. A prolonged period of cold
+weather last winter had reduced inventories of gas in Europe. Interruptions to the supply of renewables
+further increased the demand for gas, as did efforts to shift away from coal in Asia. And there have been
+supply problems too in Norway and Russia.
+More generally, there are several possible reasons why these trends have continued, despite the worldwide
+easing of Covid restrictions.
+The substantial fiscal easing in the United States gave a renewed and significant impetus to spending on
+consumer durables, both in that country and therefore the world as a whole. In some cases – notably cars –
+supply problems meant this demand couldn’t be met. But US spending on other durables nonetheless rose
+significantly further between the first and second quarters of this year, as fiscal transfers started to come
+through, and in 2021Q2 was almost 30% higher than immediately before the pandemic (Charts 8 and 9).
+Chart 8. US accounts for much of the growth in
+global demand for durable goods
+Percentage points
+
+US
+
+Chart 9. Large increase in durables consumption
+in the US, now partly easing back
+
+24
+Consumer durables
+excl. new autos
+
+20
+
+Other G7
+
+16
+
+Total G7 (%)
+
+Level, end 2019 = 100
+140
+130
+
+New autos
+
+120
+
+12
+
+110
+
+8
+
+Dec 19
+
+Jun 20
+
+Dec 20
+
+100
+
+4
+
+90
+
+0
+
+80
+
+-4
+
+70
+
+-8
+
+60
+
+-12
+Jun 21
+
+Contributions to percentage change on 2019 Q4.
+Sources: OECD Quarterly National Accounts, Refinitiv Eikon from
+LSEG and Bank calculations.
+
+Apr 19
+
+Oct 19
+
+Apr 20
+
+Oct 20
+
+Apr 21
+
+50
+Oct 21
+
+Sources: Refinitiv Eikon from LSEG, US Bureau of Economic
+Analysis and Bank calculations.
+
+In addition, and even if the pandemic itself has receded, some of the shifts in spending it produced have
+proved more enduring. Working from home is still much more prevalent than before the crisis, reducing
+spending on travel and some other local services as well. For the same reason some of the geographical
+shifts – away from city centres and towards the suburbs and countryside – have also lasted longer.
+Third, “zero-covid” policies in some Asian countries have meant that, even though vaccination rates have
+risen significantly, restrictions continue to be imposed in response to local outbreaks of the virus5. Coupled
+with the continuing strength in demand, these have contributed to significant congestion on shipping routes,
+5
+
+There were two major port closures in the summer in China, after some workers tested positive. Outbreaks in Vietnam, an important
+producer of consumer durables for the US market, led to a significant tightening of restrictions throughout the summer. These were
+ended in early October, but have had knock-on effects on delivery times and shipping demand since then.
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+particularly those from East Asia to Europe and North America. For example, despite new shipping capacity
+coming on stream, door-to-door delivery times on the China-US route have continued to lengthen through
+the autumn (Chart 10).
+However, I still think it’s more likely than not – looking a couple of years ahead as we should – that these
+pressures on traded goods prices are more likely to subside than intensify.
+Through the autumn there have been signs that some countries in the pacific region are abandoning
+“zero-covid” policies, or at least pursuing them less stringently6. (Obviously the new Omicron variant might
+interrupt that process, depending on the effectiveness of existing vaccines against it and the severity of its
+health effects. Those we don’t yet know.)
+The easing in US fiscal policy is past its peak and the impetus it’s provided to US durables demand has
+therefore started to decline. There is probably still significant pent-up demand for cars and, as and when
+constraints on auto production are overcome, we can expect that spending to pick up again. But as far as
+other durables are concerned, the pace of new buying has meant that the stock of them, relative to income,
+has been rising and is now significantly above average. This suggests that the current pace is unlikely to be
+maintained indefinitely (there are only so many cars and cookers you need).
+Chart 10. Shipping congestion has intensified in
+recent months though cost down a bit
+80
+
+Dollars (thousands)
+
+Days
+
+75
+70
+
+Chart 11. In the UK, recovery of consumer-facing
+services output suggests demand is rotating
+back, but some sectors lag behind
+Per cent change on 2019Q4
+
+20
+
+Average number of days (lhs)
+
+18
+Average freight rate (rhs)
+
+16
+14
+
+65
+
+12
+
+60
+
+10
+
+55
+
+8
+6
+
+50
+
+Retail goods
+Hotels and restaurants
+Travel
+
+4
+45
+40
+Nov 18
+
+2
+Nov 19
+
+Nov 20
+
+Nov 21
+
+Average number of days: end-to-end (factory to warehouse)
+shipments between China and the US. Average freight rate:
+shipments from China/East Asia to North America West Coast.
+Sources: Freightos.com and Freightos Baltic Index.
+
+Jan 20
+
+Jun 20
+
+Nov 20
+
+Apr 21
+
+20
+10
+0
+-10
+-20
+-30
+-40
+-50
+-60
+-70
+-80
+-90
+-100
+
+Sep 21
+
+‘Retail goods’ series is retail sales in volumes. The other series
+are output measures.
+Sources: ONS and Bank calculations.
+
+At a deeper level there are also some signs of a rotation away from goods demand and back towards
+services. Non-auto durables spending in the US has fallen back a little in the second half of this year. And
+although trends in the UK are less important in this respect (our share of global goods demand is small), you
+6
+
+See “Asian countries are at last abandoning zero-covid strategies”, The Economist Oct 9th 2021 edition.
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+can see from Chart 11 that retail spending here has also declined since the spring. I mentioned a moment
+ago that some of the shifts in spending caused by the pandemic had persisted, even as pandemic itself
+receded. You can also see in Chart 11 that spending on transport is still a long way short of pre-pandemic
+levels, not least because many of us are still working from home (to some extent, at least). But total
+spending on services has nonetheless outgrown that on goods in the second half of this year.
+Finally, and more generally, we know that, in many
+instances, tradable goods prices exhibit a significant
+degree of mean reversion. More often than not, big
+
+Chart 12. Shipping costs have fallen in recent
+months and forward contracts suggest further
+material declines
+Jan 2017 = 100
+400
+
+rises are followed not just by slower growth but
+
+Latest
+
+outright declines. Where they exist, that’s
+
+2017-19 Average
+
+consistent with the current pattern of forward prices,
+
+350
+300
+250
+
+as you can see from both Chart 1, for wholesale
+
+200
+
+gas, and Chart 12 for shipping costs. (For what it’s
+
+150
+
+worth, the spot price of shipping containers, plotted
+
+100
+
+as the red line in Chart 10, has actually declined in
+
+50
+
+recent weeks, down nearly 30% from its peak in
+mid-September.) It’s therefore quite possible that,
+in a couple of years, the contribution of some of
+these items to UK inflation will be not only smaller
+but negative.
+
+Sources: Baltic Exchange and Bank calculations.
+Panamax is a sub-index covering mid-sized vessels travelling on 5
+of the 23 shipping routes of the full index. It co-moves closely with
+the overall Baltic Exchange Dry Index.
+
+Having said all that, there’s no doubt that the path of these global goods prices is highly uncertain. Even if
+it’s still the right judgement that recent inflation rates are “transitory”, in the sense I defined earlier, that
+doesn’t mean our central forecasts are an inevitability. In the last Monetary Policy Report the MPC produced
+two forecasts for inflation, one in which gas prices followed the full path priced into financial markets, and
+therefore fell steeply throughout the next three years, another in which they stabilised at a relatively high
+level. Even varying just this one thing, the two-year inflation forecast was half a percentage point higher in
+the second case than in the first.
+And, in the meantime, we also know that these global pressures are not the only determinant of future
+inflation. Arithmetically, domestic pressures have been less important so far. But the domestic labour
+market has also come under increasing strain through the course of this year. I now want to have a look at
+the latest evidence in this area.
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+Unemployment higher than before the pandemic but the labour market nonetheless looks very tight
+As we saw earlier, while the economic recovery this year has been predictably rapid, cumulative growth over
+the period of the pandemic as a whole – taking account of the deep trough from which the economy was
+having to recover – has not been as impressive. In the third quarter of this year private-sector output grew
+by a little less than we’d anticipated in August and was still 2% lower than at the end of 2019Q4.
+In contrast, employment growth was stronger than we’d expected and unemployment fell further (Chart 13).
+And, although in the three months to September it was still a little (0.3 percentage points) higher than just
+before the pandemic, and still slightly above the MPC’s existing estimate of the long-run “natural rate” of
+unemployment, other indicators point to a much tighter labour market. Some survey measures of labour
+availability are at their lowest level at least since inflation targeting began (Chart 14). Vacancies are at a
+record high (the official series began in 2001). Both suggest a tighter labour market than you’d normally
+expect at current levels of unemployment.
+Chart 13. Unemployment has surprised to the
+downside in recent months
+Per cent
+
+Chart 14. Survey measures point to tighter
+labour market than unemployment alone would
+suggest
+5.2
+
+0
+
+Wage growth (rhs)
+
+10
+5.0
+4.8
+4.6
+Data
+
+4.4
+
+August MPR forecast
+
+4.2
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+4.0
+Aug Sep
+
+Sources: ONS and Bank calculations.
+
+20
+
+Staff availability (lhs, inverted)
+
+90
+80
+
+30
+
+70
+
+40
+
+60
+
+50
+60
+
+50
+
+70
+
+40
+
+80
+30
+
+90
+100
+
+20
+99 01 03 05 07 09 11 13 15 17 19 21
+
+Indices: 50 = no change on the previous month.
+Wage growth series weighs together the ‘Permanent staff salaries’
+and ‘Temporary staff pay rates’ indices according to the shares of
+permanent and temporary employees in the Labour Force Survey.
+Sources: KPMG/REC UK Report on jobs, ONS and Bank calcs.
+
+Over the cycle, there tends to be a reasonably stable – and inverse – relationship between vacancies and
+unemployment, known as the “Beveridge curve”. In an upswing, vacancies rise and unemployment declines.
+But in recent months, at least relative to the pre-pandemic curve, the former has clearly outstripped the latter
+(Chart 15). The labour market looks to be having a harder time clearing – ensuring matches between
+available workers and available jobs – than it used to.
+What’s causing all this? As far as the decline in unemployment is concerned, one possibility is that a
+disproportionate number of those who’ve lost jobs (or failed to find one in the first place) have quit the labour
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+market altogether. We know that inactivity rose significantly last year. But participation in the labour market
+is typically cyclical – Chart 16 plots annual changes against those in employment – and I don’t see anything
+that unusual here. Participation has been returning alongside the recovery in the labour market.
+
+Chart 15. High vacancies suggest labour market
+is having more trouble than usual in clearing
+
+Chart 16. Behaviour of participation rate doesn’t
+look out of the ordinary
+Percentage points
+
+Per cent
+4.5
+
+1.0
+
+3.5
+0.5
+
+2.5
+1.5
+
+0.0
+
+0.5
+-0.5
+
+-0.5
+
+-1.5
+-2.5
+
+-1.0
+
+Employment growth (lhs)
+Participation change (rhs)
+
+-3.5
+-4.5
+1986
+Vacancy rate calculated as number of vacancies / active
+workforce. 2021 Q4 estimate based on October vacancy data and
+the Q4 unemployment rate projected in the November MPR.
+Sources: ONS and Bank calculations.
+
+-1.5
+1991
+
+1996
+
+2001
+
+2006
+
+2011
+
+2016
+
+2021
+
+Two-quarter averages.
+Sources: ONS and Bank calculations.
+
+A more obvious contributor is the pace of hiring in the public sector. Since the beginning of the pandemic
+employment in public services has risen by over 4% (Chart 17). Some of this could be temporary – people
+hired for “track and trace”, for example, or to administer vaccines. However, based on the spending plans in
+the November Budget, the OBR expects overall employment in the public sector to carry on growing, by a
+further 3% over the next three years. If some of the recent hires are temporary they look set to be replaced
+by others7.
+In the summer, it looked as though the remaining numbers in the furlough scheme might also be part of the
+answer. On the face of it, in July, there were still 1.6 million private-sector jobs – around 6% of the total – still
+in the CJRS. In principle, all these people were ready and able to come back fully into employment and
+quench the growing thirst for labour. But even then it was puzzling that more of them hadn’t already been
+re-employed: even when furlough costs were paid in full by the taxpayer it would presumably have been
+cheaper for firms just to pick up someone on furlough than to go looking for someone else and post a new
+vacancy. That puzzle became more acute once firms were required to contribute progressively more to
+those costs. And although the number of people in the scheme continued to decline through August and
+September, that made no visible impression on indicators of labour-market tightness.
+
+Tax-financed rises in government spending needn’t be inflationary because there is an offsetting hit to demand in the private sector.
+But the current increase has been largely deficit financed so far.
+7
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+12
+
+So far as we can tell, and although there were still 1.1 million jobs furloughed in the final week of September,
+just prior to its end, nor has there been any visible effect now that the CJRS has formally closed. There is
+obviously more to come on this: we’ll get the first post-furlough release of the Labour Force Survey, for
+October, just at the time of next week’s policy meeting. But we know already that there’s been no decline in
+vacancy numbers for that month, no tick-up in surveys of labour availability, and no sign either of any
+increase in benefit claims (Chart 18). In fact, they all went in the opposite direction: the labour market looks
+to have tightened further.
+Chart 17. Public sector employment has risen
+significantly during the pandemic
+Dec 2019 = 100
+Public services
+
+Chart 18. Claims of unemployment-related
+benefits fell further in October
+
+105
+
+Unemployment rate
+
+104
+
+Claimant count rate
+
+Per cent
+
+9
+
+103
+
+Other sectors
+
+8
+
+102
+101
+
+7
+
+100
+
+6
+
+99
+98
+
+5
+
+97
+
+4
+
+96
+
+3
+
+95
+Apr 19
+
+Oct 19
+
+Apr 20
+
+10
+
+Oct 20
+
+Apr 21
+
+94
+Oct 21
+
+‘Public services’ include public administration and defence, social
+security, education, health and social works.
+Payrolled employment data from Pay As You Earn (PAYE) Real
+Time information (TMI).
+Sources: HMRC and Bank calculations.
+
+2
+05
+
+07
+
+09
+
+11
+
+13
+
+15
+
+17
+
+19
+
+21
+
+As part of the UK government's response to COVID-19, more
+people became eligible for unemployment-related benefits, although
+still employed. As a result, changes in Claimant Count will not be
+due wholly to changes in the number of unemployed people.
+Unemployment data up to September, claimant count data up to
+October. Claimant count (CC) rate = CC / (CC + workforce jobs).
+Sources: ONS and Bank calculations.
+
+There remain two possibilities, I think, as to why the labour market looks so tight despite somewhat higher
+unemployment than before the pandemic. One, which I discussed in the summer, is that there’s a continuing
+degree of mismatch between the jobs on offer and the people looking for work. The shifts in demand during
+the pandemic – which are geographical as well as sectoral – may have introduced a degree of dislocation
+between the two.
+Another is that the sheer speed of the recovery has thrown some sand in the wheels of the labour market.
+It’s usual for actual hiring to lag changes in vacancies and, so rapid has been that increase in vacancies,
+there was bound to be a bit of friction in the process of filling them (see Chart 15). These aren’t mutually
+exclusive, but the latter would be slightly more benign because it would need only time for things to improve.
+Once those wheels start to turn, and jobs get allocated, one would expect some of this pressure to abate.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+13
+
+Whether that’s the case remains to be seen,
+however. And, in the meantime, the result is
+continuing upward pressure on pay. Chart 14
+included a survey index of wage growth for new
+
+Chart 19. Wage growth stronger than usual, given
+the rate of unemployment
+Annual nominal wage growth, per cent
+5
+2021
+
+4
+
+employees. Chart 19 plots official numbers for
+average wage (AWE) growth across the economy
+as a whole, in the years since the financial crisis,
+
+3
+2013-19
+2
+
+against the rate of unemployment. Unfortunately,
+labour market data have been subject to
+significant distortions during the pandemic. The
+latest numbers for wage growth, in 2020 and
+
+2020
+
+1
+0
+3
+
+2021, have been adjusted for the various
+distortions affecting the official data, and are below
+the headline figure. But this year’s number is still
+
+4
+
+5
+
+6
+7
+8
+Unemployment, per cent
+
+Regular-pay average weekly earnings (AWE) in the private sector.
+The chart uses a Bank staff estimate of underlying AWE that strips
+out Covid-related compositional effects.
+Sources: ONS, Bank of England, and Bank calculations.
+
+noticeably higher than would normally be the case
+at the current rate of unemployment. (And arguably, if you think that some of those on furlough have actually
+been looking for other jobs while on the scheme, and therefore helping to depress wage growth to some
+degree, perhaps a better estimate would have both the red dots somewhat to the right, making the latest
+figure for wage growth look that much stronger, compared with the pre-pandemic relationship8.)
+However long it lasts, and whatever the long-run equilibrium rate of unemployment, there looks to have been
+rise in the shorter-term equilibrium (the so-called “NAIRU”).
+
+Conclusion
+This is an extremely challenging period for monetary policy. Despite relatively weak growth over the past
+two years as a whole, domestically and globally, inflation has risen very significantly. In this country it was
+over 4% in October. In the spring of next year, when the next rise in the Ofgem cap on gas and electricity
+bills comes through, it will probably climb comfortably through 5%, a long way north of the MPC’s 2% target.
+Given the origins of this inflation – just about all the overshoot reflects unusually rapid rises in prices of
+tradable goods (including energy) – monetary policy could never have done anything about the
+consequences of the current inflation for real incomes. If global demand pushes up the price of something
+
+8
+
+Based on the Labour Force Survey, it is reasonable to assume that approximately 10% of those on the CJRS could be added to
+estimates of slack in the labour market. On that basis, the dots for 2020 and 2021 might be shifted to the right by 1.2 and
+0.9 percentage points respectively.
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+14
+
+we buy, and the price of our imports therefore goes up, that reduces real national income come what may9.
+Even assuming these shocks had been foreseeable, the only way to prevent the near-term consequences
+for inflation would have been to ensure that nominal wage growth was lower to at least the same extent. And
+because that, in turn, would have required much higher unemployment, real incomes would actually have
+been lower. This is in the nature of what’s called a “trade-off-inducing” shock, one that pushes the primary
+objective of policy (stabilising inflation) in one direction, the secondary objective (stabilising demand and
+employment) in the other.
+These things crop up all the time, to one degree or another. Prices of imports (especially energy) are
+volatile; slowdowns in productivity growth, which are common enough, can sometimes have the same
+effect10; so can rises in excise duties or VAT. But, in reality, these things rarely have much of a bearing on
+policy because, very often, their impact on inflation doesn’t last long enough. Changes in interest rates take
+time to work. And if a shock to inflation is gone before monetary policy could do anything to offset it there’s
+not much point in taking action.
+This hasn’t always been the case. After the Brexit referendum, for example, the MPC judged that the
+inflationary consequences of the big drop in sterling’s exchange rate probably would last long enough to
+matter at the “policy horizon” (as had been the case after the financial crisis). The Committee therefore had
+to balance this effect against the fact that, for much of that period, the economy was operating with a degree
+of space capacity.
+There’s a good chance that this shock too, larger though it is, will have dissipated by the time a policy
+decision taken now could take effect. Indeed it’s quite possible that, in a couple of years, some of these
+tradable goods prices will be falling, pulling down on inflation. And even if you took a different view, and
+thought it was more likely that they’ll still be rising at that point, you would also need to judge the extent to
+which that would depress domestic demand and spending (especially at a time when, on current plans,
+tighter fiscal policy will be doing the same). Persistent rises in import prices introduce a trade-off between
+the MPC’s primary and secondary objectives, complicating the appropriate response to them.
+However, this is not the only source of inflation the economy is facing. Output in the private sector was still
+quite a bit smaller, in the third quarter of this year, than it was before the pandemic. Yet unemployment is
+barely any higher, in part because of strong hiring in the public sector. And other indicators – surveys,
+vacancies and wage growth (at least in certain sectors) – all point to a labour market that’s significantly
+Strictly speaking, in this context, it’s the price of imports relative to the price of exports that matters for national income. All big net
+exporters of goods also import some of them. But, because they’re net exporters, a big rise in their price in general – imports as well as
+exports – will raise national income. It’s a gain in the “terms of trade” rather than a decline. Regarding the underlying source of a rise in
+import prices one should distinguish something driven by real forces (in this case stronger demand for goods and impairments to
+supply) from a purely monetary increase. In theory, a rise in inflation in our trading partners driven purely by looser monetary policy
+would not have the same impact because it would be offset by a strengthening of sterling’s exchange rate.
+10
+The impact on inflation of a period of slower productivity growth depends on what it does to demand and on how easily wage growth
+falls in response. If people recognise the drop in productivity growth, and demand growth falls alongside it, and/or if nominal wage
+growth is reasonably flexible and can accommodate the decline in the warranted real wage without unemployment having to rise, it
+needn’t result in higher inflation. But if demand fails to decline or if there’s resistance in real wages inflation is likely to rise.
+9
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+15
+
+tighter than the rate of unemployment alone would suggest. Though this assessment is necessarily
+preliminary, the news since the end of the furlough scheme does not look to have changed that picture. In
+October, claims for unemployment benefit fell again and survey indicators of labour market conditions
+tightened further.
+Although it’s made little contribution to higher inflation so far, the risks to future inflation from the tight labour
+market may well be more significant. Developments in domestic costs tend to be more persistent than those
+in tradable goods prices (Chart 6 is one indication of that). They’re unlikely to introduce the same degree of
+a trade-off between the MPC’s objectives: stronger labour demand narrows the output gap and raises
+inflation11. And, although it’s possible that these strains too could pass – there’s a chance these frictions are
+simply the result of the sheer speed of hiring, and will ease of their own accord – there’s also an upside risk
+to wage costs from currently high inflation. If wage earners’ expectations of future inflation rise in response,
+of if they seek compensation for the rises in the costs of living that have already occurred, wages could also
+accelerate further, even without any additional decline in unemployment.
+The paths of all these things are, of course, extremely uncertain. But that’s always the case, to one degree
+or another. Precisely because policy decisions take time to work, and because other things can intervene in
+the meantime, it isn’t possible to control inflation perfectly. What we can do – and what is the best possible
+approach – is to think at every meeting about the level of interest rates that will maximise our chances, a
+couple of years from now, of hitting the inflation target exactly. That is what we will continue to do.
+Thank you.
+
+This is a more subtle question than I’ve pretended here. Stronger demand for labour clearly doesn’t introduce a trade-off: it reduces
+slack and, at the same time, raises inflation. But a deterioration in the supply side of the labour market may do, depending on its nature.
+If (for example) the NAIRU goes up (temporarily) but the underlying “natural rate” of unemployment that maximises economic welfare,
+and that is relevant for the MPC’s secondary objective, does not, then inflation might rise for a bit but the welfare-relevant output gap
+wouldn’t, and could even widen. And I’ve argued that such a deterioration is part of the story here. However, I don’t think it’s the whole
+story: I think the strength of labour demand (including from the public sector) is also playing a part in reducing slack in the labour
+market. It’s also possible that the rise in the NAIRU will last longer than we think (and that it amounts to a rise in the longer-run natural
+rate as well). I touched on the question of potential trade-offs in the labour market in a talk some years ago (“Unemployment and the
+conduct of monetary policy in the UK”). The canonical academic reference is Blanchard and Gali (2007), ‘Real wage rigidities and the
+New Keynesian model’, Journal of Money, Credit, and Banking.
+11
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+16
+
+

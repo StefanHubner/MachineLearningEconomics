@@ -1,0 +1,381 @@
+A practical process for implementing a bail-in
+resolution power
+Speech given by
+Andrew Gracie, Director, Special Resolution Unit, Bank of England
+
+At the British Bankers’ Association, London
+17 September 2012
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Introduction
+
+In November 2011, the leaders of the G20 endorsed the Financial Stability Board’s international standards
+for resolution regimes, the Key Attributes of Effective Resolution Regimes for Financial Institutions (Key
+Attributes). These standards form part of a global solution to a global problem—that of “too-big-to fail” and
+the avoidance of state-sponsored bail-out of the biggest international banks - or G-SIFIs1 in the parlance of
+the FSB. They mandate the introduction of a set of resolution tools that should be available to all national
+authorities—tools that are expressly designed in the resolution of a G-SIFI to achieve the continuity of its
+critical economic functions, thereby avoiding systemic disruption, and in the process ensuring that public
+funds are not exposed to loss. The tools include the ability to transfer or sell assets and liabilities of G-SIFIs
+and to carry out a bail-in of creditors within resolution.
+
+Some progress towards implementing the Key Attributes has been achieved across the G20. The passing of
+the Dodd-Frank Act in 2010 provides the US with a regime that is broadly compliant with the Key Attributes.
+The development of the Recovery and Resolution Directive (RRD) should leave Europe in a similar position.
+In the UK, the proposed RRD and anticipated legislation on non-bank resolution will significantly enhance the
+existing bank resolution framework under the UK Banking Act 2009.
+
+As part of the implementation of the Key Attributes, supervisors and resolution authorities around the world
+are in the process of developing concrete resolution strategies for all G-SIFIs. These resolution strategies
+are designed to ensure that the failure of a G-SIFI should be orderly and should avoid exposing public funds
+to loss. Rather, the creditors of the failing banks should bear losses, as they would do in insolvency, but
+without the financial instability and disruption to critical functions that the sudden insolvency of a G-SIFI
+would otherwise cause.
+
+In some cases, the preferred resolution strategy may be to expose creditors to loss by transferring critical
+parts of their business to solvent entities - a private sector purchaser or some form of bridge bank - leaving
+creditors behind in an administration. In other cases, in particular for G-SIFI’s whose operations are too
+large, complex or interconnected to split without threatening the critical services that the bank provides, the
+bail-in power may be used to ensure creditors are exposed to losses without disrupting critical functions.
+
+But bail-in cannot, and should not, be used in isolation from other tools and powers. Writing down and
+converting debt into equity may help to restore solvency, but on its own it cannot restore viability. And it
+cannot and should not be used simply to keep a loss-making business artificially alive. Rather, its role,
+similar to that of a corporate restructuring under Chapter 11 of the US Bankruptcy Code, is to help keep a
+bank’s vital operations functioning, and avoid the disorder that would result from the bank suddenly ceasing
+
+1
+
+29 global systemically important financial institutions were identified by the FSB and Basel Committee on Banking Supervision in
+November 2011.
+2
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+to trade, whilst it is reorganised, replacing management and restructuring the business as necessary. A
+credible bail-in, including the necessary restructuring, should enable the firm to access market liquidity.
+
+Bail-in, like other resolution tools, involves some interference with property rights. But safeguards will apply
+which will ensure that no creditor is left worse off than they would have fared in a counterfactual insolvency.
+In keeping with that, it is important that bail-in follows the creditor hierarchy, secured claims are protected
+and netting arrangements are respected. And bail-in, like the other resolution tools, can only be used when
+it is necessary to do so in pursuit of clearly defined public interest objectives.
+
+Bail-in in practice
+
+The Bank of England, alongside other domestic and international authorities, has been working to ensure
+that bail-in can be implemented effectively. Applying it will involve overcoming legal, operational and
+financial challenges. But these challenges are surmountable and are being addressed — through legislation,
+through cross-border dialogue and resolution planning, and through changes to market practice. In the
+remainder of this presentation I shall set out in practical terms how a bail-in could work for a G-SIFI,
+highlighting some of the associated practical challenges along the way.
+
+Pre-resolution
+Well in advance of resolution, it will be necessary, to ensure that G-SIFIs have appropriate loss absorbency2.
+This would ensure that the G-SIFI has sufficient liabilities that could bear losses within resolution. Both the
+RRD and the UK’s Independent Commission on Banking (ICB) recommend that such firms be required to
+hold loss absorbing capacity beyond their Basel 3 capital requirements. This is a regulatory requirement,
+nothing to do with the bail-in power itself.
+
+Any loss absorbency requirement would need to take account of cross-border enforceability. Hence the
+desirability of including some form of minimum requirement within the RRD. But any requirement would
+need to ensure that the relevant non-EEA liabilities of an EU bank could also be subject to bail-in.
+As I have said, national authorities are also co-operating in drawing up resolution strategies and plans for
+G-SIFIs, using information provided by the firms themselves. They will also draw up firm-specific
+cross-border co-operation agreements setting out how they would co-operate to implement the plans in
+practice. This will help to establish a presumptive path for how the failure of a G-SIFI would be handled as it
+slid towards and into resolution.
+
+2
+
+RRD Articles 39 and 40 would require authorities to ensure that firms maintain a minimum amount of liabilities eligible for bail-in.
+Although their proposal does not establish a common quantitative minimum amount, the Commission suggests that 10% of total
+liabilities might be an appropriate amount.
+3
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+Should a firm encounter difficulties which potentially threaten its viability, the first line of defence is the
+actions that the firm itself may take or be required to take in an attempt to restore viability and recapitalise its
+balance sheet. During this “recovery” phase the firm might seek to reduce its balance sheet exposures and
+raise new capital, including through rights issues and divestments. The firm might attempt to restructure its
+outstanding liabilities through negotiations with creditors; and it might trigger the conversion into equity of
+contingent capital instruments (CoCos). The RRD provides supervisory authorities with a suite of early
+intervention tools—to supplement those already provided for in the European Capital Requirements
+Directives—to ensure, where necessary, that adequate action is taken.
+
+However, notwithstanding the firm’s best efforts, its attempts at “recovery” might fail. Resolution tools,
+including bail-in, would only be used if efforts to avoid the firm reaching the point of non-viability are
+unsuccessful. That point is reached when the supervisory authority identifies that the institution was failing,
+or likely to fail, and that no other solution, absent the use of resolution tools, would restore the institution to
+viability within a reasonable timeframe. Additionally, resolution powers would only be used if it was
+necessary to employ them in order to meet clearly defined public interest objectives, for example the
+maintenance of financial stability and the protection of depositors3.
+
+Following the entry of the firm into resolution, the authorities would then take a formal decision on which of
+the resolution powers at their disposal to use. Bail-in is only one of the tools that could be used and
+strategies that could be followed but, given the attention it attracts in the RRD, I will concentrate on it today.
+Neither the Key Attributes nor the RRD set out in detail the process to be followed to put a bail-in into effect.
+But work which we at the Bank of England have conducted suggests that a process for implementing a
+bail-in could consist of four key steps: 1) stabilisation; 2) valuation and exchange; 3) relaunch; and
+4) restructuring.
+
+1. Stabilisation
+
+The first stages of a bail-in should focus on stabilisation. Ideally a firm would enter resolution at
+close-of-business on a Friday evening, which would provide the authorities approximately 48 hours in which
+to stabilise the firm outside market hours. But this cannot be guaranteed. If a firm reached the point of
+non-viability during the middle of the week, it would be necessary to commence resolution proceedings at
+that point.
+
+Many of the steps during the “resolution weekend” would be operational. It is likely the listing and exchange
+trading of the firm’s shares would be suspended or cancelled4. A formal change of control process would be
+
+3
+
+Articles 26 and 27 of the RRD provide for this approach.
+Article 42(1) would require the cancellation or severe dilution of shares. This may need to be amended, to allow a share transfer to be
+effected (whilst having the same economic impact on existing shareholders).
+4
+
+4
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+required in order to affect the transfer. Debt instruments might also be suspended from listing or trading5.
+At this point, the resolution authorities would have the power to take control of the institution and exercise all
+the rights conferred upon the shareholders6. Communication with the market and other stakeholders would
+be carefully managed. The firm’s entry into resolution would be announced publicly before major financial
+markets reopen (likely Sunday evening for the purposes of meeting Asian market openings), and dialogue
+with key stakeholders may be required during the resolution weekend itself. The authorities would make the
+following public announcements:
+
+
+First, that the authorities had found that the firm had reached the point of non-viability and had met
+the conditions for resolution;
+
+
+
+Second, the broad resolution strategy that was being executed, for example bail-in without splitting
+the group structure. Under such a resolution strategy, the authorities would state that through the
+write down and conversion of the firm’s liabilities, solvency would be restored, and core functions
+would continue to be performed on a solvent, viable basis;
+
+
+
+Third, in order to make the previous statement credible the authorities would specify: a) the range of
+liabilities that would be completely written down without conversion (likely to be shareholders and
+potentially subordinated debt holders); and b) the range of liabilities that would be subject to potential
+write-down and / or fully or partial converted into equity through the use of the bail-in tool.
+
+
+
+Fourth, that the firm would be restructured but that all of the firm’s core functions would continue
+without disruption, and that any insured depositors would be fully protected — as is always the case;
+and
+
+
+
+Fifth, the proposed timing for the announcement of the final terms for the bail-in, including the final
+extent of creditor write-downs, and rates of conversion to equity.
+
+The aim of these announcements would be to stabilise the position of the firm and provide retail investors
+and market counterparties with confidence.
+
+2. Valuation and exchange
+
+Immediately following the resolution weekend, an intensive valuation period would commence in order to
+determine the extent of losses incurred or likely to be incurred by the firm and therefore the appropriate
+terms of the bail-in. This process would build on preliminary valuation work conducted prior to the resolution.
+
+The creditors identified in the announcement at the resolution weekend would be subject to write-downs
+which in aggregate covered all of the firm’s losses. These write-downs would be determined in a manner
+
+5
+6
+
+Article 48(2)(b)
+Article 56(1)(b)
+5
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+that: first, respects the creditor hierarchy7; second, stands up to proportionality requirements in order to
+minimise the risk of compensation claims8; and third, is clear and transparent to creditors9. These are all
+requirements of the RRD which we support.
+The obligation that creditors are treated equally within classes10 we do not. It is important for the resolution
+authority in deciding which liabilities to include within the scope of the bail-in to retain some discretion,
+especially within the senior creditor class, to take account of any potential adverse impact on system stability
+of bailing in particular liabilities or types of liability.
+
+The authorities, in this case the prudential supervisor, would then determine the amount of capital that would
+be necessary to help restore the firm to viability. This quantum would likely be larger than the normal
+minimum prudential capital requirements in order to ensure market confidence. This recapitalisation
+requirement would be met through converting eligible liabilities into equity, again subject to the safeguards
+and requirements outlined above.
+
+It is important to note that the valuation conducted for the purposes of determining the quantum of
+write-downs and conversions into equity should be separate from the independent valuation of a
+counterfactual insolvency, which would be conducted to determine whether and if so how much
+compensation creditors may be due. The valuation basis for the former should be closer to a fair value; and
+for the latter, liquidation value based on certain assumptions about the liquidation process would be more
+appropriate; although we do not consider it necessary to specify in advance the precise methodology to be
+employed. There may need to be some technical amendments to the RRD in order to secure this11. But the
+difference between the two valuations would serve to show the value destruction avoided by the bail-in, let
+alone any wider systemic impact averted.
+
+Valuation for the purpose of determining the extent of losses should be conducted on a broadly fair value
+basis, and the haircut on creditors should be large enough to ensure that the firm can be recapitalised and
+does not lapse back into resolution. Where junior creditors or shareholders have borne losses on the bail-in
+which are greater than the counterfactual insolvency, they could be compensated through ex post
+adjustment mechanisms in the capital stack.
+
+The extent of losses at the firm pre-resolution, and the degree to which those losses were easily identifiable
+and isolated, would have implications for the timing of the valuation process. If losses were isolated within a
+7
+
+Article 29(1) (b) establishes the principle the creditors should bear losses in accordance with the priority of their claims and
+Article 29(1) (e) the principle that creditors of the same class are treated in an equitable (but not necessarily equal) manner.
+8
+Article 65 provides for a “No Creditor Worse Off” protection for shareholders and creditors subject to the bail-in and partial transfer
+powers. Authorities are required by Article 27(2) (c) to demonstrate that action is necessary in the public interest.
+9
+Article 75
+10
+Article 43 would require that creditors in the same creditor class bear losses equally in a resolution bail-in. This provision applies
+uniquely to the bail-in tool.
+11
+Specifically, Article 65 requiring a valuation for the purposes of determining the amount, if any, of compensation required under the
+“no creditor worse off” safeguard should be decoupled from the provisions in Article 30 for making a valuation to inform the choice of
+resolution actions to be taken.
+6
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+business unit or legal entity, and limited to a single asset class, it should be possible to conduct an effective
+valuation rapidly. If losses were pervasive and difficult to identify or isolate, or the assets were complex and
+hard to value, it may take several months before exchange could be enacted12. In fact there may be cases
+where losses and problems in a firm are so thorough-going that a bail-in is not viable and a firm needs to be
+wound down instead, bridging the systemic functions that need to be preserved. The ring fencing of
+particular functions provided by the ICB may be helpful in such cases.
+
+3. Relaunch
+
+Once the valuation had been completed, and creditors written-down as appropriate, equity would need to be
+assigned to the affected creditors as a quid pro quo for their recapitalisation. This could happen in one of two
+ways: issuing new shares or transferring existing de-listed shares from the wiped-out shareholders. There
+may be some operational advantages in the latter option, although the RRD does not seem to contemplate
+it13. Once the written-down debt instruments and equity have been assigned to the bailed-in creditors,
+primary market equity and debt trading should resume.
+During this process, a number of practical considerations would likely arise14 including any regulatory
+change-of-control approvals. Equity stakes that could not be transferred directly to creditors would need to
+be distributed in the market.
+
+As mentioned, ex-post adjustment mechanisms would also likely be required as a means of distributing
+compensation value to bailed-in creditors. The specific application of such instruments would be
+case-specific and should be determined during the valuation process.
+4. Restructuring
+
+As described, recapitalisation via bail-in should be accompanied by a concrete and effective restructuring
+strategy as mandated by the RRD15. Such a restructuring strategy should prevent disruption to the provision
+of critical economic functions while directly addressing the causes of the firm’s failure. In all instances, this
+restructuring would replace culpable management and address the firm’s governance failures. The
+restructuring strategy should not focus on keeping the firm alive for the sake of continuity or on value
+preservation per se, but should instead have regard principally to the financial stability of the markets in
+which the firm operates.
+
+12
+
+For this reason, it should be clarified in the RRD that the requirement in Article 30(1) to conduct a preliminary valuation before
+resolution is taken should not prevent authorities from taking the initial steps described above to stabilise the firm before a bail-in is
+formally executed.
+13
+As noted above, Article 42(1) would require the cancellation or severe dilution of shares.
+14
+Article 49(3) provides for authorities to require that there are no procedural impediments to the conversion of liabilities to ordinary
+shares by virtue of their instruments of incorporation or statutes, including pre-emption rights and requirements to authorise increases in
+share capital. The RRD provides for amendments to Company Law Directives and the Shareholders Rights Directive to allow this.
+15
+Article 47
+7
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+The extent of the problems at the firm pre-resolution would determine the scale of the restructuring required.
+If the problems pre-resolution were isolated and contained to individual business lines – eg a “rogue trader”
+or sector-specific asset losses – and identifiable, it is conceivable that the extent and scope of the
+restructuring required would be limited. Such a restructuring would focus on unwinding selected
+loss-generating business lines and/or removing problem assets from the banks’ balance sheet. Following
+resolution and agreement of a restructuring plan, authorities should be able to exit the firm rapidly,
+privatisation or relisting should occur quickly, and counterparty relationships should remain intact.
+
+On the other hand, in the scenario in which deep losses were experienced across multiple business lines,
+and the losses themselves were difficult to identify, value or isolate, much of the group would be rendered
+non-viable. The restructuring would need to be extensive and, at the extreme, may require the controlled and
+solvent unwind of the entire group.
+
+The appropriate timeframe for the development and implementation of a restructuring plan would be
+case-specific. It may range from a matter of months in the simplest cases where problems are contained and
+easily isolated or longer in more complex scenarios16.
+
+The public authorities may need to be significantly involved in the restructuring process, particularly if the
+restructuring were extensive and critical business lines needed to be exited or unwound. The role of the
+public authorities should move from active intervention to supervisory oversight once a formal restructuring
+plan has been agreed and once new management has been installed.
+
+Implications
+
+As described above, we are moving closer to an operational bail-in regime. A number of outstanding
+challenges remain, but these challenges are largely surmountable. Inevitably, many details still need to be
+worked out, but many are case-specific and should not be set in stone within an industry-wide bail-in
+framework.
+
+The RRD, in line with the FSB Key Attributes, offers a pan European resolution toolkit that includes bail-in.
+The RRD proposals provide for a means of implementing bail-in in a coordinated and sensible manner. We
+look forward to working with our European counterparts to see the proposed RRD translated into law.
+
+Before closing, I would like to stress once again that bail-in should be considered one tool among several
+that ensures a bank can be resolved by assigning losses to shareholders and creditors rather than public
+funds. As with other tools, it can ensure continuity of critical economic functions for as long as they remain
+
+16
+
+Article 47(1) indicates that the business reorganisation plan may be required to be produced within one month of the resolution. There
+may need to be some flexibility around this to allow for complex cases.
+8
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+critical. In this way, the objectives of the Key Attributes can be met and the long-run stability of the system
+enhanced.
+
+9
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+

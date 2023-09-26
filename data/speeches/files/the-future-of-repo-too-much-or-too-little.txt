@@ -1,0 +1,692 @@
+The future of repo: ‘too much’ or ‘too little’?
+Speech given by
+Andrew Hauser, Head of Sterling Markets Division, Bank of England, and Chair of the Securities
+Lending and Repo Committee
+
+At the ICMA Conference on the Future of the Repo Market, London
+11 June 2013
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+The theme of this conference is the future of repo. But to understand the future it sometimes helps to look
+back.
+
+The very first repo is lost in the mists of time. Some suggest it was invented in China thousands of years
+ago. The Bank of England certainly used repurchase agreements to drain liquidity in the second half of the
+nineteenth century.i But the claim with the sharpest resonance today comes from America during the First
+World War. The US government, struggling with a huge increase in wartime expenditure, introduced a raft of
+new taxes through the War Revenue Act of 1917, amongst which was a Financial Transactions Tax. The tax
+included a 0.02% levy on the issuance and trading of banks’ short term paper, which stopped that market in
+its tracks. To maintain liquidity in the banking system, and to support the government’s borrowing
+programme, the Federal Reserve agreed to buy Treasury securities from its member banks and sell them
+back at a future date: in other words, it undertook a repo, which crucially lay outside the scope of the tax.
+The Fed went on to use the same tools to extend credit to a much wider set of counterparties than it usually
+dealt with, circumventing the ban on lending directly to those firms, and playing a major role in the
+development of a deep and liquid secondary market in US government debt and bank paper during the
+1920s.
+
+I don’t know about you, but this all sounds rather familiar:
+
+
+A world of highly-indebted sovereigns...
+
+
+
+Where central banks have partly taken the place of the private sector, injecting liquidity by purchasing
+government debt in secondary markets...
+
+
+
+In the shadow of a Financial Transactions Tax...
+
+
+
+But where, more positively, a repo market originally developed in the public sector helps over time to
+develop new, vibrant capital markets of value to the wider economy, but lying at least partly outside the
+traditional banking sector.
+
+The story is relevant for one further reason. Only years earlier, the US financial system had been brought to
+its knees by the Panic of 1907. That Panic had many causes. But it was greatly amplified by the procyclical
+implosion of a web of private collateralised loans, deteriorating collateral values, fire sales, rising margin calls
+and investor runs. Though it would be more than a century before anyone coined the term ‘run on repo’, the
+policy response – which included the creation of the Federal Reserve itself – was far-reaching, and
+fundamentally changed the shape of financial markets.
+
+Another profound reshaping is now underway – and the stakes are just as high. The financial markets of the
+future will revolve around collateral. Collateral to protect against counterparty risk; collateral to meet
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+regulatory requirements; and collateral to bring to central banks. And at the heart of this system will lie the
+repo and securities financing markets – linking lenders and borrowers, lubricating the market making system,
+and providing financial intermediaries and investors with liquidity, maturity and credit transformation. If that
+all sounds a bit like banking, that’s really because it is: indeed if we were seeking a functional description we
+could easily leave out the ‘shadow’ prefix altogether. Manmohan Singh and Peter Stella have styled it the
+‘modern money creation process’. Institutionally, however, this is not exclusively banking, because at least
+part of the business takes place outside the banking system, and therefore outside the regulatory framework
+designed to contain banking risk.
+
+Like banking, a well-functioning repo market is important, if not crucial, for our economic welfare. But, also
+just like banking, there can be ‘too little’ or ‘too much’ repo. ‘Too little’ provision of collateral and financing
+could leave economic growth below potential. But ‘too much’ could cause the system to overreach, straining
+asset valuations and ultimately leading to an unravelling. The very features that make repo so effective in
+reducing counterparty risk at a microprudential level – collateralization, marking to market, regular
+remargining, and short maturities – also pose potential new macroprudential risks.ii Until recently, analyses
+of these two sets of issues, both in academia and in official circles, have tended to be carried out
+independently. Those who worry about there being ‘too little’ collateral in the future have stressed the
+importance of looking for ways to improve so-called ‘collateral fluidity’. But those who worry that a
+collateralised world will be too prone to cyclical instability, have been examining ways to curb those
+perceived excesses through regulation or other means. It is easy to characterise these objectives as
+contradictory. But they are really two sides of the same policy challenge: we need repo markets that are
+both prudentially sound and sufficiently deep and liquid to perform their crucial functions.
+
+Central banks such as the Bank of England have a big stake in the answer to these questions. We rely on
+healthy, well-functioning repo markets to implement monetary policy, and to transmit that policy to the wider
+economy. That need will be particularly important when we come to exit from the current set of exceptional
+policies put in place to deal with the financial crisis.iii But we are also charged with maintaining the stability of
+the financial system as a whole. Judging the balance between ‘too little’ and ‘too much’ is the classic
+challenge of central banking, both as it applies to monetary policy, and to safeguarding financial stability. To
+make that judgment requires the best-informed, most objective analysis available. And that is what we are
+here today to discuss.
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+‘Too little’ repo? Enhancing collateral fluidity
+
+Let me turn first to the question of whether there may be ‘too little’ repo in the future.
+
+The case for the prosecution starts from the observation that the demand for high quality liquid collateral and
+‘safe’ investment assets is set to rise sharply, driven by changes in market practice, in regulation and in
+central banking – as summarised in Table 1.
+
+Nobody yet knows the scale of this extra demand with any certainty, and estimates vary widely. But the
+most comprehensive studies so far carried out, by the Financial Stability Board (FSB), the Basel Committee
+on the Global Financial System (CGFS) and the US Financial Stability Oversight Council (FSOC), suggest
+that the combined impact of liquidity regulation and new OTC margin requirements could be of the order of
+$4 trillion, phased in over the next few years.iv Of course, the increase in collateral the private markets could
+have demanded had the authorities not stepped in to restore confidence might have been orders of
+magnitude bigger than this.
+
+$4 trillion is an eye-popping figure to the man in the street. And it is a material increase relative to current
+demand: depending on the data used, $4 trillion amounts to at least a third of the collateral in active
+circulation today. But it is small relative to the global supply of assets capable of meeting this demand. As
+the CGFS has recently shown, the stock of non-cash collateral eligible for derivatives transactions is some
+$50tr, and the supply of AAA- and AA- rated government bonds alone has risen by nearly $11tr since 2007,
+as higher fiscal deficits have more than outweighed the stalling in private securitisation markets and the
+impact of credit downgrades (Chart 1).v
+
+If there is no global ‘collateral shortage’ in an absolute sense, there is certainly an important need to get that
+collateral mobilised, particularly given the much higher frequency of margin calls that both buy- and sell-side
+will experience in the future. Most of the global high-quality asset stock is not currently made available for
+use as collateral in the market, being held by long-term buy-and-hold investors in the public and private
+sector, or otherwise ‘locked away’ (eg in payments or clearing systems). To give one example, the stock of
+government bonds currently available to borrow through securities lending arrangements is currently of the
+order of $2.5trvi – a tiny proportion of the total in institutional hands. Central banks’ unconventional monetary
+policies are also sometimes blamed for having significantly reduced the stock of high quality collateral. But I
+am not sure that argument holds much water. Quantitative easing involves swapping one type of high quality
+asset (eg government bonds) for another (central bank reserves): so although it may affect the distribution of
+collateral in the system between banks and non-banks, it does not affect the total amount. And operations
+such as the UK’s Funding for Lending Scheme and the ECB’s LTROs involve a clear collateral upgrade for
+the private sector.
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+How will better collateral mobilisation come about? Economics suggests it should happen primarily through
+the normal operation of the price mechanism. Excess demand for collateral should drive the price of that
+collateral up (repo rates down), and that in turn should induce a number of supply responses:
+
+
+First, holders of high quality assets will have a stronger incentive to make those assets available to the
+market through either repo or securities loan. The potential for an explosion in ‘collateral transformation’
+has been much discussed in the industry for some time now, and many firms have been actively
+marketing new transformation services. So far the explosion in demand appears to be more talk than
+action: the utilisation rate of government bonds available to borrow has actually fallen slightly since
+2009, reflecting reduced financial market activity and the drawn-out pace of implementation of the new
+regulations.vi But, over time, prospects of higher returns will attract in more lenders, particularly if the
+rates of return available on other forms of investment remain low. At its limit, the potential scale of this
+business is enormous: Euroclear, for example, holds more than €20trn of client assets under custody,
+DTCC has $37trn and Clearstream has €11trn.
+
+
+
+Second, a higher price for collateral will incentivise the more intensive use of the existing collateral stock
+between financial intermediaries – increasing collateral velocity. The scope for velocity to rise is of
+course much debated. Manmohan Singh and others have estimated that velocity has actually fallen in
+recent years.vii And some future developments – such as the possible (though so far limited)
+proliferation of regional CCPs, new asset segregation rules, the risk of increased balkanisation of capital
+markets, and limitations on collateral re-use – could exacerbate that trend. But working against that are
+the many public and private sector initiatives, including efforts to ensure CCP interoperability, the
+‘Liquidity Alliance’, Euroclear’s ‘superhighway’ and its recently announced linkup with DTCC, and so
+forth, all seeking to break down existing barriers.
+
+
+
+Third, higher collateral prices will give financial firms a strong incentive to invest in technologies allowing
+them to optimise their use of collateral. Indeed, big investment programmes are already underway in
+many firms and infrastructure providers, to ensure that firms have real-time information on the collateral
+they have available globally across all their business lines, that the collateral they deliver is cost
+effective, and that the cost of delivering (and financing) that collateral is factored into their risk and
+business decisions. These programmes involve sometimes relatively advanced technology; indeed, as
+some of our contacts remark, somewhat alarmed, ‘for the first time in living memory, pointy heads are
+sitting on the repo desk’.
+
+
+
+Fourth, higher prices for collateral may cause the financial sector to return to the process of
+higher-quality asset creation that was unceremoniously abandoned during the financial crisis.
+
+Taking these factors together, it seems likely that the market for collateral will clear, at some price, as more
+supply is mobilised. As the main vehicle for these increased flows, repo markets are likely to grow
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+considerably over time. The main uncertainty is over how effective these collateral mobilisation mechanisms
+will be, and therefore how far collateral prices and repo rates will have to move to bring this equilibrium
+about. The larger and more persistent the movement in repo rates, the bigger the potential risks – and the
+greater the interest from the monetary authorities, since those repo rates are also important monetary policy
+transmission channels. There are many unanswered questions. Could collateral transformation trades lead
+to longer-term funds taking on new risks they are not well-placed to manage, or to the build-up of excessive
+intraday or longer-term exposures through payments, clearing and settlement systems? How far could
+collateral re-use between financial intermediaries lead to the reconstruction of some of the webs of leverage
+seen in the run-up to the crisis? How far down the credit spectrum will collateral optimisation technologies
+drive the system, and what will that do to resilience? Are financial firms, particularly on the buy-side,
+operationally ready for an increase in collateral velocity? And will the mechanisms the markets devise for
+private sector asset creation avoid the pitfalls of opacity and hidden leverage that beset the financial crisis?
+Some of these risks (summarised in Table 2) may not crystallise for some time, given the ongoing process of
+deleveraging, but they are already being actively discussed in the industry – and regulators are watching
+closely. I will have more to say on this in a moment.
+
+What is the role of central banks in all of this? First and perhaps most importantly, as the CGFS has recently
+argued, we should be encouraging or facilitating industry-led initiatives: supporting schemes to mobilise
+locked-up collateral; helping with constraints in our own infrastructure where it is safe to do so; co-ordinating
+the production of best practice standards for enhancing safe private sector asset creation; and, where
+appropriate, adopting those schemes in our own operations. With that in mind, I am looking forward to
+hearing from Francesco Papadia about the Prime Collateralised Securities initiative later today. We are also
+watching with interest other initiatives, such as ICMA’s work on developing a secondary market in credit
+claims, many of which we have studied in the Securities Lending and Repo Committee over the past year.
+Bigger questions arise, however, over suggestions that central banks use their own financial resources.viii
+One such use is relatively straightforward – the Bank of England does make the gilts we have bought
+through QE available for borrowing by the market to relieve stock-specific shortages. But of course that does
+not increase the net amount of high quality assets in the market. Central banks certainly possess the
+technology to undertake genuine collateral transformation, and indeed some have chosen to expand this
+activity as part of their crisis response. The Bank of England, for example, is now able to risk-assess raw
+loan collateral which can then be pre-positioned for use in our Discount Window Facility. And we are
+currently considering whether to extend this capacity to our regular monthly long-term repo operations, as
+stated in our official response to Bill Winters’ review of our sterling facilities.ix A few central banks in
+jurisdictions with structural shortages of government debt – including Australia and South Africa – have gone
+a stage further, and are developing so-called ‘Committed Liquidity Facilities’ which provide a quasi-automatic
+collateral transformation service, for a fee. Whether that is a route other central banks will take in the future
+depends in part of the path of high-quality debt issuance. A shortage of government debt globally doesn’t
+seem a particularly plausible near-term risk! But whatever the long-term outcome, central banks have to be
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+very conscious that their balance sheets will be determined, in size, by their monetary policy objectives, and,
+in composition, by their tolerance for credit risk, which is likely to be lower in calmer market conditions than it
+has been in recent years. Indeed a progressive withdrawal of central banks from collateral transformation is
+in the financial markets’ long-term interests too, since an excessive presence would both harm incentives for
+appropriate risk appraisal, and disintermediate one of the most important roles of the repo markets
+themselves.
+
+‘Too much’ repo? When might repo run?
+
+Having discussed the risks of there being ‘too little’ repo, I want now to turn to the opposite question:
+whether there might sometimes be ‘too much’. The debate about the extent of procyclicality of repo markets
+is a contentious one. But at one level it should not be: the repo markets allow any entity with a decent
+quality securities portfolio to behave very much like a traditional bank, lending those securities out at call and
+employing the proceeds at term maturities.x Though collateralisation is crucial in helping to reduce
+counterparty risk at a microprudential level – a key lesson of the crisis – it does potentially give rise to other
+macroprudential risks. In particular, repo – like the traditional banking flows it in some ways resembles – can
+be subject to runs. As repo moves ever closer to the centre of the financial system, there will inevitably be
+increased focus on the ways in which those risks are monitored and controlled. And that is what is currently
+underway, through the Financial Stability Board’s Workstream on Securities Lending and Repos, and other
+national and international groups.
+The FSBxi identified a number of potential sources of run risk in repo markets, including:
+
+1. The possibility that investors cannot meet sudden margin calls (for a given haircut) if the mark-to-market
+value of the underlying collateral falls sharply and/or credit downgrades require collateral substitution;
+
+2. The possibility that haircuts may be procyclical, particularly for repo against lower-quality or more
+uncertainly-priced collateral, rising from ‘too low’ in benign times to ‘too high’ in periods of heightened
+risk aversion;
+
+3. The very short maturity of some repo contracts, which allows investors to expand and unwind their
+exposures rapidly;
+
+4. The potential for collateral re-use to increase system-wide leverage (see Chart 2, based on work in the
+Bank of England by Lewis Webberxii);
+
+5. The relative opacity of repo market exposures – making it hard for regulators and firms to know where
+the risks in the system truly lie;
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+6. The potential for risk to become concentrated in vulnerable parts of the financial system, including a
+diminishing pool of unsecured creditors (as encumbrance levels rise) and/or key pieces of repo market
+infrastructure such as CCPs; and
+
+7. A variety of operational risks, including daylight exposure in triparty repo and uncertainties over
+liquidation procedures in default.
+
+To be clear, no-one is saying these all of these necessarily pose live, incremental risks to the financial
+system. Some are already caught by existing regulation; some are driven by counterparty behaviour outside
+the repo market; and others, at least in current market conditions, are subdued. To evaluate which need
+most urgent attention requires evidence-based risk assessment. And that is where things get tricky –
+because although there are many theoretical models illustrating the potential risks in qualitative terms,xiii
+there are very few reliable data with which to evaluate them. Indeed, despite excellent initiatives such as the
+ICMA repo survey, the transparency of securities financing still compares unfavourably to many other
+financial markets.xiv
+
+The behaviour of repo haircuts is a good example of this broader problem. Gary Gorton and Andrew Metrick
+found striking evidence of procyclical haircuts in bilateral US repo during the financial crisis against lowerquality, structured credit collateral.xv But their data set does not extend to other markets and collateral. Other
+studies suggest a more mixed picture. Antoine Martin and colleagues, for example, found that haircuts in US
+triparty repo barely moved at all around the time of the Lehmans crisis.xvi Perhaps the most comprehensive
+(albeit still modest) data set, from a 2010 CGFS Study Group,xvii suggests there was a fairly generalised
+pickup in haircuts between June 2007 and June 2009. The rise in haircuts was, however, much smaller for
+high quality collateral – a fact used by Richard Comotto of ICMA to argue that, in European repo markets at
+least, the impact of procyclical margins on the value of collateral over this period was insignificant relative to
+the overall scale of deleveraging.xviii
+
+What should we make of all this? There clearly is evidence that haircuts in some markets are procyclical,
+with movements being largest against collateral that is hard to value, or where counterparty risk is
+particularly severe. Even small movements in haircuts can have a big effect on collateral demand and
+margins where leverage is elevated. CCPs often operate margining rules that are based on credit ratings or
+market measures that are likely to be at least somewhat procyclical. And haircuts differ materially between
+bilateral and cleared repo – an important point at a time when market participants point to a significant shift
+of some types of repo business away from CCPs. The FSB has therefore recommendedxix that regulatory
+authorities should introduce standards for haircut methodologies that seek to minimise pro-cyclicality where it
+exists. It has also concluded that there is, in principle, a case for introducing a framework of numerical
+haircut floors for transactions where there is a material procyclicality risk. The report nevertheless
+recommends that this approach might need to vary by type of transaction and counterparty. To inform that
+assessment, the FSB is carrying out a series of Quantitative Impact Assessments to gather more robust
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+information. Indeed, more frequent granular information on haircuts can itself play an important role in
+inculcating good practice. The data now being published regularly by the Federal Reserve and ICMA, for US
+and European triparty repo respectively, are a good start in that regard.xx
+
+But perhaps the biggest point is that even Richard Comotto’s work shows that repo volumes did behave
+procyclically during the financial crisis. Indeed, the less haircuts are perceived to protect counterparties
+against risk, the more those counterparties may be inclined to run – something that is made easier by the
+typically very short maturity of many repo transactions. That is not a reassuring conclusion for repo markets
+as a whole. And it is why there is also a broader reform agenda underway in national markets (see Table 3),
+seeking ways to encourage the terming out of repo transactions through regulatory dialogue and initiatives
+such as cleared term DBV in the UK, reducing daylight exposure in US triparty repo and examining options
+for orderly firesale mechanisms.
+
+Underpinning all of this, a step-change is required in the depth and breadth of transparency in repo markets
+– to provide regulators and the markets at large with robust, regular and complete information on the scale,
+scope and nature of day-to-day business and exposures. The FSB has recommended a number of
+initiatives in this area, built around a core of trade repositories, supplemented by surveys and regulatory
+reporting. The Bank of England strongly supports these proposals – and so, I think, do most in the industry.
+It would be helpful if that support were on occasion more vocal: the risk for practitioners is that, in the
+absence of persuasive data to the contrary, policy makers take ill-advised or excessive steps to squeeze out
+risks that are not truly there.
+
+Conclusions
+
+Viewed simplistically, the global authorities might appear to be trying to pursue two contradictory goals:
+seeking both to curb the growth of repo by imposing minimum haircuts, limits on rehypothecation and other
+steps, whilst at the same time trying to boost repo in order to meet the coming demand for collateral. What is
+more, they might appear to be doing that at a time when repo revenues are already under pressure from a
+flat yield curve and historically low levels of financial market activity and leverage.
+
+In truth, however these goals are complementary, not contradictory. Well-judged policies that effectively
+reduce the risk of runs in repo markets should raise, not diminish, liquidity in the market as a wider range of
+counterparties are attracted in over time. And the raft of initiatives now underway to boost collateral fluidity
+should help to ensure that worries about a collateral crunch remain only hypothetical. It clearly is important
+we get that balance right. Central banks – the original birth-parents of repo – have no interest in crushing
+the repo markets out of existence. But they do recognise that with a bigger role comes bigger
+responsibilities. Building more robust repo markets is not just in our interests – it is in the markets’ interest
+too. Against a backdrop of generally depressed prospects for profits in the financial system, the handling
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+and provision of collateral and financing seems likely to be one of the higher revenue earners in the financial
+system in the years ahead.xxi
+
+Will central banks eventually need to take a more active role in determining the balance between ‘too much’
+and ‘too little’ across the cycle? The Financial Policy Committee of the Bank of England concluded last
+Spring that the power to vary minimum margin requirements on collateralised transactions was a potentially
+important macroprudential policy tool, but a final evaluation needed to await completion of the international
+microprudential regime .xxii Such questions are for the future – but they do in a sense mark a coming of age
+for the repo markets. I look forward to our discussion today.
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+TABLE 1: DEMAND & SUPPLY TRENDS FOR HIGH QUALITY COLLATERAL
+
+DEMAND FACTORS
+
+SUPPLY FACTORS
+
+Market
+trends
+
+Move away from unsecured
+Flight to safer investments/collateral
+Demographic shifts in longer term
+investment demand
+
+Sovereigns
+
+Fewer AAA, but...
+...much higher issuance
+
+Regulation
+
+Basel LCR
+Mandatory OTC clearing
+Margins for non-cleared OTC
+Solvency 2
+Restrictions on collateral re-use
+
+Private
+Sector
+
+Packaging ‘safe’ assets
+Large corporate shifting from banks
+to capital markets
+Collateral management efficiency
+
+Central
+banks
+
+QE / Large Scale Asset Purchases
+
+Central banks
+
+Higher reserves creation (combined
+with wider eligibility criteria)
+
+Chart 1: CGFS estimates of high-quality debt securities ($ trillions)
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+TABLE 2: POTENTIAL SOLUTIONS TO COLLATERAL SCARCITY
+
+OPTIONS
+
+First best: higher
+prices for collateral
+induce...
+
+Fall-back: public
+authorities provide
+backstop
+
+POTENTIAL RISKS
+
+Greater collateral supply (transformation) by
+buy/hold funds
+
+Are risks properly understood?
+Reinvestment of cash collateral?
+
+More collateral re-use/re-hypothecation
+
+Concerns about leverage/opacity
+
+Collateral optimisation both outside (triparty,
+CCP netting) and inside (enterprise
+management) financial firms
+
+Collateral quality pushed to lower
+limits of mandates; cushions
+eliminated
+
+More creation of private sector safe assets
+
+Opacity/credibility issues seen in last
+crisis
+
+Guide market reform – transparency,
+infrastructure development (netting) etc
+
+Interoperability increases system
+node risk?
+
+Re-lending of central bank HQLA stocks
+
+Stocks quite modest – and may not
+increase net HQLA
+
+Central bank collateral transformation –
+swapping illiquid assets (including loans) for
+reserves/other HQLA. CLFs a limiting case.
+
+Disintermediates market, affects
+monetary policy stance, and may
+induce moral hazard if over-done
+
+Chart 2: Collateral chains and system leverage
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+TABLE 3: SYSTEMIC CONSEQUENCES OF GREATER COLLATERALISATION
+
+TYPE OF RISK
+
+RISK FACTORS
+
+POLICY RESPONSES
+
+Total quantum of
+financing
+
+Cost of collateralising causes some to pull back, but
+greater confidence over counterparty risk induces others in
+
+Adjust calibration of
+collateral requirements
+
+Procyclicality /
+proneness to runs
+
+Real-time margining with MTM: cushion or amplifier?
+Are haircuts procyclical?
+How quickly do (can) investors run?
+
+Minimum standards for
+haircuts and valuations
+Terming out
+Stays/orderly default
+procedures
+
+Network
+interlinkages
+
+Re-use/re-hypthecation hard to trace, potential for
+leverage
+Greater encumbrance of balance sheets creates more
+balkanised pools of protection, increases exposure on
+unsecured creditors
+More concentration of risk in nodes – CCPs, triparty etc
+
+Limits on rehypothecation
+Better disclosure of
+encumbrance risks
+Close supervision of MFIs –
+default funds etc
+
+Opacity
+
+At least parts of the repo markets remain highly
+untransparent
+
+Better supervisory and
+market reporting
+Trade repositories
+
+Operational risks
+
+Daylight exposure
+Risk of disorderly firesales in default
+
+Triparty reform (US)
+Term DBV (UK)
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+Endnotes
+
+i
+
+The Bank of England, 1891-1944’, Richard S Sayers, page 38.
+
+ii
+
+A point recently re-emphasised by Federal Reserve Governor Daniel Tarullo in ‘Evaluating Progress in
+Regulatory Reforms to Promote Financial Stability’, 3 May 2013.
+
+iii
+
+See for instance ‘Challenges for banking regulation and supervision in the monetary union’ by
+Jens Weidmann, Dresden, 24 April 2013.
+
+iv
+
+‘Asset encumbrance, financial reform and the demand for collateral assets’, CGFS Publication No.49,
+May 2013. FSOC 2013 Annual Report, pages 108-9. The impact of OTC reforms on collateral demand is
+also tackled in the Bank of England’s Financial Stability Paper No.18 ‘OTC derivatives reform and collateral
+demand impact’, October 2012.
+
+v
+
+It should be noted that Ricardo Caballero has argued for many years that there has been a global shortage
+of ‘safe’ assets dating back to well before the financial crisis (see for instance ‘On the Macroeconomics of
+asset shortages’, NBER working paper 12753, December 2006).
+vi
+
+Source: Markit, as of May 2013.
+
+vii
+
+See Table 1 in ‘Shadow Banking: Economics and policy’, IMF staff discussion note, 4 December 2012.
+
+viii
+
+These issues are also covered in ‘The repertoire of official sector interventions in the financial system: last
+resort lending, market-making, and capital’, speech by Paul Tucker at the Bank of Japan, 27-28 May 2009.
+
+ix
+
+http://www.bankofengland.co.uk/publications/Documents/news/2013/nr051_courtreviews.pdf
+
+x
+
+See ‘shadow banking: thoughts for a possible policy agenda,’ speech by Paul Tucker, Brussels,
+27 April 2012.
+xi
+
+‘Securities Lending and Repos: Market Overview and Financial Stability Issues: Interim Report of the FSB
+Workstream on Securities Lending and Repos’, 27 April 2012.
+
+xii
+
+For further details on this work, see ‘Securities financing markets: managing the risks’, the Banker,
+Spring 2013.
+
+xiii
+
+For example, ‘Complexity, Concentration and Contagion’, Journal of Monetary Economics, Prasanna Gai,
+Andrew Haldane and Sujit Kapadia; and ‘Market Liquidity and Funding Liquidity’ by Markus Brunnermeier
+and Lasse Pedersen.
+
+xiv
+
+See for instance the discussion in the June 2012 Bank of England Financial Stability Report.
+
+xv
+
+See, for instance, ‘Securitised banking and the run on repo’, Journal of Financial Economics, 2012.
+
+xvi
+
+‘Repo runs: evidence from the Tri-Party Repo Market’ by Adam Copeland, Antoine Martin and Michael
+Walker, FRBNY Staff Report, July 2011.
+xvii
+
+‘The role of margin requirements and haircuts in procyclicality’, CGFS paper No.36 (2010).
+
+xviii
+
+‘Haircuts and initial margins in the repo market’, European Repo Council (8 February 2012).
+
+xix
+
+‘Strengthening oversight and regulation of shadow banking’, FSB, 18 November 2012.
+The Federal Reserve data are available at http://www.newyorkfed.org/banking/tpr_infr_reform.html; the
+ICMA data at http://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/short-term-markets/RepoMarkets/repo/
+xx
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+xxi
+
+See for instance ‘Global Banking Fractures: the implications’ by Morgan Stanley and Oliver Wyman,
+11 April 2013.
+
+xxii
+
+See Financial Policy Committee policy statement, 16 March 2012; and ‘Instruments of macroprudential
+policy: a discussion paper’, Bank of England, December 2011.
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+

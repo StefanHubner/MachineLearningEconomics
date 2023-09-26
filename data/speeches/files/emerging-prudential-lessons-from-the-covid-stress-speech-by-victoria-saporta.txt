@@ -1,0 +1,605 @@
+Emerging prudential lessons from the Covid stress
+Speech given by
+Victoria Saporta, Executive Director of Prudential Policy
+
+Bank of England Webinar
+21 July 2021
+
+Many thanks to Hannah Burnett, Damien Lynch, Katie Low, Aakriti Mathur, Matthew Naylor,
+David Murphy and Aniruddha Rajan for help in preparing this speech. And thanks also to
+Andrew Bailey, Sarah Breeden, David Curry, Ronnie Driver, Simon Hall, Paul Hawkins, Simon Khong,
+Paul Nahai-Williamson, Alison Scott, Gareth Truran and Michelle Uhrick for comments. Errors and
+opinions are my own.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+Good morning ladies and gentlemen.
+It’s a pleasure to be able to speak to you today on some emerging prudential lessons that I draw from our
+experience so far in managing the economic consequences of this terrible pandemic. I say “so far” because
+of course the tragic human consequences of the pandemic are ongoing, as is the economic fallout that
+followed it. And while we are not out of the woods yet, the progress made to date affords us space for
+reflection on how the prudential framework we put in place following the 2008 financial crisis has served us.
+And, to observe if there are parts of it that may not have worked as we expected. As the American
+philosopher and educational reformer John Dewey said: “We do not learn from experience…we learn from
+reflecting on experience”.
+Let me start by recalling the nature of the shock unleashed following the onset of the pandemic.
+Context: the post-crisis reforms and the Covid stress
+The turmoil caused by the Covid-19 global pandemic has been the toughest test of the financial system since
+the 2008 Global Financial Crisis. In a few weeks in early 2020, levels of economic activity and expectations
+of future economic prospects fell dramatically. Investors, corporates, banks and many households stockpiled
+cash and reduced their risk appetite. As a result, both risky asset prices and yields on safe assets fell (Chart
+1), bank lending to businesses soared, as did provisions for expected credit losses.
+
+From Seven Moments in Spring, Speech, Andrew Hauser, June 2020.
+
+Authorities took swift and decisive actions to stabilise the system and increase the supply of cash. These
+included measures to enhance the availability of bank funding and liquidity, including central bank term
+funding; and measures to conserve capital, including strong recommendations that banks limit distributions
+such as dividends.
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+In the UK, the Monetary Policy Committee initially increased the stock of asset purchases by £200 billion to a
+total of £645 billion, and bought gilts at the fastest rate operationally possible.
+Similar to other jurisdictions, the Financial Policy Committee (FPC) and the Prudential Regulation Authority
+(PRA) also took steps to free up existing bank resources to enable banks to continue lending, by releasing
+the countercyclical buffer, freezing systemic buffer rates and by implementing an extension of the transition
+for new accounting provisions for expected loss to flow through to the capital framework. Some reporting
+and disclosure requirements were extended, reducing the operational burden on banks; and some market
+risk-based capital requirements that were deemed to have moved excessively during the episode were
+offset.1
+At the same time, fiscal authorities began to provide support to economies entering lockdown. In the UK,
+that included government guarantees for lending to the corporate sector as well as income support schemes
+for employees furloughed as businesses shut or scaled back their activities.
+The size of the policy response was huge.
+Across the US, Euro Area, UK and Japan, central bank assets increased by around $7 trillion in 2020, more
+than twice their increase in the year following the collapse of Lehman Brothers.
+And, according to the IMF, by mid-March 2021, global pandemic-related fiscal support measures totalled $16
+trillion (around 19% of world GDP).2 This is at least twice as large as the fiscal response observed during
+the Global Financial Crisis. In 2020 alone, average overall fiscal deficits reached 11.7% of GDP for advanced
+economies, the largest measure the IMF has recorded since they began gathering data.
+As a result of all of these interventions, conditions stabilised. There was no credit crunch: credit provision to
+businesses increased by more than 10% during 2020. Indeed, due in part to capital conservation measures
+– and the extension of transitionals to recognise, for capital purposes, the new accounting framework for
+provisions – many banks’ capital ratios improved during 2020.3
+The stress created by the pandemic is far from over and it is important that we only reflect on its full impact at
+that stage.
+There are various projects underway to distil the lessons that emerge from it. The Basel Committee (BCBS)
+has started to assess the impact of the ongoing pandemic on the banking system and published a report on
+
+For example the exceptional levels of market volatility in Q1 and Q2 2020 led to an elevated level of so-called Value-atRisk (VAR) back-testing exceptions across the industry. In order to mitigate the possibility of excessively pro-cyclical
+market risk capital requirements through the automatic application of a higher VAR multiplier, the PRA allowed firms – on
+a temporary basis – to offset increases due to new exceptions through a commensurate reduction in risks-not-in-VAR
+(RNIV) capital requirements.
+2 Broken down into direct budget support of $10 trillion; and additional public sector loans and equity injections,
+guarantees, and other quasi-fiscal operations of $6 trillion.
+3
+The aggregate CET1 capital ratio for major UK banks increased from 14.8% at end-2019 to 15.8% at end-September
+2020.
+1
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+preliminary lessons learned earlier this month.4 Also this month, the Financial Stability Board submitted an
+interim report to the G20 on lessons learned for the financial system as a whole.5
+A major lesson that has emerged so far is that the banking system has remained resilient through the Covid19 pandemic while continuing to provide credit to the real economy. This is, in part, due to the substantial
+increases in capital and liquidity held by banks as a result of the adoption of the post-Global Financial Crisis
+reforms, and represents a major vindication of those reforms.
+If I can use the analogy of a fire, one did break out in the banking system following the onset of the
+pandemic, but because the locus was well fire-proofed – with capital and liquidity – and because both the
+monetary and fiscal firefighters were alert and acted quickly and decisively, the fire was put out before it
+could take hold.
+But it was not obvious that this would have been the case at the outset.
+In particular, it was by no means certain that the regulatory capital buffers built up ex ante by banks as a
+result of those reforms, and designed to allow them to lend to the real economy whilst absorbing losses,
+would actually be used in that way. This concern was at the forefront of UK and international prudential
+regulators’ minds and motivated the various interventions they made at the time to make clear that regulatory
+buffers could and should be used.6
+So today and in the spirit of John Dewey, I want to reflect on the lessons from the Covid stress so far for the
+prudential framework for banks and in particular for the regulatory buffers within it.
+What we worried about during the early Covid stress
+With hindsight, this banking system resilience is evident. But during the stress of March and April 2020, we
+were concerned that it was, to use the words of the Chair of Financial Stability Board, Randal Quarles, “a
+close run thing”.7
+One concern was a potential decline in capital ratios at the time. There were two effects in play. First, banks
+were increasing provisions as their expectations about the state of economy and credit quality declined. This
+affected capital resources.
+Second, capital requirements were increasing. This was because risk weights in some parts of the capital
+framework are sensitive to current market conditions, which had worsened; and total assets were increasing,
+as firms drew down pre-existing credit facilities.
+Third, liquidity requirements and resources were sensitive to market conditions too. Mechanisms designed
+to capture potential liquidity needs related to derivatives activity produced estimates that were too low going
+into the shock and then increased rapidly after the shock had crystallised. That put excess upward pressure
+BCBS report on “Early lessons from the Covid-19 pandemic on the Basel reforms”.
+FSB report on “Lessons learnt from the Covid-19 pandemic from a financial stability perspective: Interim report”.
+6 See statements made by the PRA, FPC, European Central Bank (ECB) and BCBS early on during the Covid-19 pandemic.
+7 See October 2020 speech by Randal Quarles: “Lessons from Covid-19 stress on the financial system”.
+4
+5
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+on requirements. And firms’ liquidity positions were initially worsening, including as they fulfilled debt buyback requests whilst supporting an increase in credit facility drawdowns.
+We were worried that the combined effect of these concerns would mean that banks either did not have
+enough resources to support the economy through the Covid period and the recovery from it; and/or that,
+even if banks did have enough resources, they would nevertheless act in a procyclical way by hoarding
+liquidity and restricting lending for precautionary reasons, amplifying the standard cyclical effects of the
+shock. This underpins the prudential actions I noted earlier.
+Recap on buffers
+As indicated earlier, an important feature here is the presence of various regulatory buffers in the framework
+that the Basel Committee introduced after the financial crisis. These are intended to absorb the effects of
+stress and ensure that banks can continue to lend to support households and businesses: it is our
+expectation that they will be used as necessary to support the economy.
+The Capital Conservation Buffer (CCoB) was introduced to ensure that banks have an additional layer of
+usable capital that could be drawn down when losses are incurred (Chart 2).8 It is established above the
+regulatory minimum as a fixed, common amount across firms. When a firm dips into its CCoB, it incurs a far
+less significant regulatory consequence than breach of the minimum: automatic restrictions on distributions,
+including dividends and share buybacks, are imposed and a capital restoration plan must be submitted to its
+supervisors.
+The Countercyclical Capital Buffer (CCyB) is a time-varying capital requirement determined by domestic
+authorities. It is built up during periods where the authorities think that system-wide risk-taking is elevated
+and may threaten banking stability. Some authorities, including the FPC, set a non-zero resting rate of the
+CCyB in normal times – those are times where risks are neither elevated nor subdued – being conscious that
+it takes time for banks to build up capital buffers. During stress, authorities can reduce the CCyB to support
+banks in maintaining their supply of credit or other critical financial services to the economy.9
+Management buffers are amounts that firms keep above regulatory buffers and are entirely under the
+discretion of their management.
+
+The Capital Conservation buffer is extended by buffers based on a firm’s global or domestic systemic importance, and
+by the Countercyclical Capital buffer when it is non-zero.
+9 In this speech I am concentrating on the CCyB and the CCoB, but there are other buffers too. These include buffers for
+banks with global or domestic systemic importance; and buffers in the discretionary component of capital requirements,
+Pillar 2, such as the PRA’s firm-specific buffer. In the liquidity framework, the liquid asset buffer (LAB) is a reserve of high
+quality liquid assets which banks hold in normal times to manage a 30-day period of liquidity stress. Using its LAB in a
+stress can thus give a bank breathing space to meet extraordinary demands for cash without taking actions that may be
+damaging to the wider financial system and real economy.
+8
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+Chart 2 Illustration of different capital requirements and buffers
+
+Releasability and usability
+It is important that all of the buffers outlined above play their role, if necessary, in allowing banks to maintain
+lending whilst absorbing losses. Whether and how that is enabled rests on two key concepts: releasability
+and usability.
+A regulatory buffer is releasable when the authorities can reduce it – including down to zero if need be –
+freeing up additional resources. The CCyB is a good example of this. In the UK, the FPC released it during
+the early Covid period, increasing the size of firms’ management buffers. The FPC was able to do so
+because of its policy I mentioned a moment ago: it maintained a non-zero UK CCyB resting rate in normal
+times, which was its assessment of the financial system before the pandemic struck.10
+A regulatory buffer is said to be usable if banks will dip into it when faced with shocks – that is, they will
+willingly allow their capital (or liquidity) ratios to decline below it – without taking actions that could have
+undesirable consequences either for micro-prudential resilience or for macro-prudential stability, including
+restricting lending to the real economy in a way that amplifies the initial adverse shock.
+In practice, there is an observable spectrum of usability (Chart 3).
+
+10
+
+See Bank of England’s December 2019 Financial Stability Report (pg 8)
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+Chart 3: Spectrum of usable and releasable buffers
+
+At the more usable end are management buffers: firms can dip into these with no regulatory consequences,
+although even here they may be reluctant to do so. That reluctance may stem from their internal risk
+appetite and/or because the market judges that regulatory buffers are insufficient to absorb losses.
+At the other end is the Capital Conservation Buffer (CCoB): use of this regulatory buffer triggers distribution
+restrictions which firms may prefer to avoid if they believe reductions in dividends (for example) are viewed
+as a sign of weakness by investors. This is especially the case if no other firm in their peer group is subject
+to these measures, creating a collective action problem: firms, acting out of perceived individual interest, may
+choose to restrict their lending to the real economy rather than dip into their CCoB.
+But actions that can seem rational for each firm individually can prove damaging in aggregate for the
+economy and banking system as a whole. By way of illustration: stress tests carried out by the Bank of
+England in the early phases of the Covid crisis suggested that the direct gain to banks of preserving capital
+by not lending were small – adding c. 0.1 percentage points in capital ratio terms. In contrast, they showed
+that the costs to the wider economy, and ultimately the banking system, from not lending could be very large:
+reducing aggregate bank capital ratios by as much as 0.8 percentage points due to negative feedback to
+banks’ credit exposures from worse unemployment and corporate insolvency outturns over time when
+lending is restricted.11
+Finally, just before management buffers are Countercyclical Capital Buffers (CCyB) which, when non-zero,
+operate as an extension of the Capital Conservation Buffer and can be released during generalised
+stresses.12
+The key issue here is that there may be stigma associated with use of a regulatory buffer. The cost of this
+stigma increases as we move from management buffers, to releasable regulatory buffers, to usable
+regulatory buffers with no consequences, and finally to regulatory buffers with consequences – and use is
+See Bank of England’s May 2020 interim Financial Stability Report (chart B.14).
+And, in our liquidity frameworks, banks’ liquid asset buffer requirements are intended to be usable in stress and do not
+trigger any explicit regulatory consequences if dipped into.
+11
+12
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+often disclosed. Moreover, firms might believe that ratings agencies or supervisors would take a negative
+view of a firm which dipped into its regulatory buffer. All of these factors can limit practical buffer usability.
+Another problem is that, in stress, firms may be particularly cautious and prefer to conserve capital or
+liquidity to meet uncertain future needs. There may be a tension between conserving capital to provide
+additional individual bank resilience, and supporting the economy – especially if there is uncertainty about
+the timeline for the restoration of buffer levels after a recovery – even though supporting the economy would
+provide a better outcome for banks as illustrated a moment ago.
+The policy question and the opportunity to explore it
+If a regulatory buffer is not practically usable in the sense that banks do not want to dip into it, then it has little
+value in helping firms to absorb shocks in ways that keep lending going in bad times. It ties up resources
+without providing the extra capacity in stress that regulators wanted them to provide, and had assumed they
+would when determining how to prepare the system to absorb shocks. If a regulatory buffer is instead
+perceived as similar to a minimum requirement and firms take actions to avoid dipping into it, these actions
+might be harmful to the real economy and, as last year’s Bank analysis showed, to the banking system.
+Thus it is essential to have a well-designed regulatory buffer framework which can make fresh resources
+available when they are most needed.
+The early Covid stress gives us an opportunity to investigate how the current framework behaves and how
+practically usable regulatory buffers may be. Given the effectiveness of the fire-fighting I mentioned at the
+outset, bank capital ratios did not approach their Capital Conservation Buffers, so we cannot probe directly
+how banks would have behaved had capital ratios fallen inside that regulatory buffer. However, there are at
+least three approaches we can look at.
+Approaches to analysing capital buffer usage
+Approach 1 – What do banks and investors say about buffers?
+The first approach involves asking banks what constraints they face in practice in dipping into buffers and
+how they manage their capital positions.
+In broad terms, they told us that expectations of capital instrument and debt investors and concerns about
+the actions of credit ratings agencies are a major constraint. In order to avoid investor and ratings agency
+opprobrium, banks will consider a range of actions, including cutting lending, rather than go beyond their
+capital risk appetite – which is typically well above regulatory buffers. Conversations with investors and
+rating agencies were largely consistent with this view.
+Banks also face internal risk appetite constraints which may be higher than regulatory requirements and
+buffers, especially given that capital is often managed on a forward looking, rather than a ‘spot’, basis.
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+Together, this suggests that banks may be unwilling to use all of their capital headroom, let alone dip into
+regulatory buffers. This underlines the point I made earlier about even management buffers not necessarily
+being fully usable.
+Approach 2 – the impact of countercyclical buffer releases
+The second approach looks at whether there’s any empirical evidence that releasable regulatory buffers
+provided effective support for firms to support lending, as intended. Reducing CCyB rates lowers the level at
+which distribution restrictions and requirements for capital conservation kick in. The release effectively
+increases the management buffer while reducing the regulatory buffer by the same amount.
+At the onset of the pandemic, eight of the 27 Basel member jurisdictions had a CCyB rate above zero; during
+the pandemic, six of these fully released it, and one partially released. This gives us a good evidence base
+to look at whether firms which benefited from a CCyB release lent more than firms not benefitting from such
+release, after controlling for other firm- and country-specific factors.
+The short answer, as the Basel Committee’s work found, is that they did. A regression analysis found a
+positive and statistically significant coefficient between buffer release and loan growth.13
+The effect of the countercyclical buffer release in the UK: using pass-through rates
+What about the UK evidence?
+In the UK, the FPC cut the UK CCyB rate to zero in March 2020. It had been increased from 1 percent to 2
+percent in December 2019 with firms having one year to implement the increase.14 All firms in the UK got
+some relief in capital requirements – but the amount of relief varies across firms, driven by their relative
+exposure to UK credit risk-weighted assets (RWAs).15 By exploiting this cross-sectional variation across
+firms, colleagues in the Bank16 have examined whether firms that got more benefit from the release
+maintained lower capital ratios and lent more following the cut to the CCyB, as compared to their peers.
+The findings, reported in Table 1, support this hypothesis. Firms with higher exposure to the UK CCyB ratecut increased CET1 ratios by less during the pandemic as compared to their peers, and this result is
+statistically significant. This enabled them to support mortgage and corporate lending growth to a slightly
+greater extent, as can be seen in the last two columns of Table 1, though these differences in lending
+outcomes are not statistically significant.
+Taken together, these international and UK results are striking.
+
+Table 6, Basel report on “Early lessons from the Covid-19 pandemic on the Basel reforms”.
+Record of the Financial Policy Committee - 13 December 2019 (bankofengland.co.uk) (pg. 4)
+15 The UK CCyB rate is set with respect to banks’ UK credit exposures and therefore has a greater quantitative impact
+when raised and reduced for banks with a high proportion of UK credit risk-weighted assets relative to total riskweighted assets.
+16
+The analysis was carried out by a team including Aakriti Mathur, Matthew Naylor, Aniruddha Rajan, Katie Low, and
+Damien Lynch.
+13
+14
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+The fact that the release of the CCyB has such a positive effect globally, and to a degree in the UK, seems
+like good news.
+But recall that the CCyB is itself an extension of the Capital Conservation Buffer. So when we take a step
+back it suggests something less positive about the non-releasable Capital Conservation Buffer: it indicates
+that, to be treated as practically useable, regulatory capital buffers may first need to be released into
+management buffers; and suggests that, despite their purpose, non-releasable regulatory buffers such as the
+Capital Conservation Buffer may well be unusable in practice.
+Approach 3 – banks’ ‘headroom’ over their regulatory requirements
+A third way to approach the question of buffer usability is through the concept of ‘headroom’, that is the
+surplus a bank has over its regulatory buffers. Firms entered the crisis with varying amounts of headroom.
+So a key question is whether those that had less headroom ahead of the pandemic tended to lend less than
+their peers through the crisis. If they did, that could signal a strong desire not to use capital to support
+lending, likely because of fears about the consequences of breaching the regulatory buffer. If this was the
+case, then it would suggest that non-releasable regulatory buffers are not practically usable.
+The Basel Committee’s work on this includes an empirical analysis of this question. This work evaluates the
+link between headroom and lending across more than 200 banks.17 It shows a positive and significant
+relationship: banks with larger headroom to total (public) regulatory buffers tended to lend more than those
+that were closer to their regulatory buffers.
+In addition, the ECB has published analysis that evaluates the link between headroom and lending across
+banks under their supervision.18 It shows that firms’ lending and capital management choices varied during
+the pandemic based on their proximity to their buffer requirements. With their granular data, the ECB were
+also able to show that this remained the case when controlling for credit demand from borrowers. In
+particular, banks with less headroom to regulatory requirements lent less to non-financial companies in the
+euro area during the pandemic.
+These results suggest that firms which were closer to their regulatory buffers were more likely to constrain
+lending during the Covid stress. The implication must be that they did not act as if regulatory buffers were
+practically usable.
+The effect of headroom in the UK
+Turning to the analysis the Bank team carried out on UK data. The team used data on 158 PRA-regulated
+firms and separated them into two groups: those with low and high pre-pandemic headroom. Their approach
+
+Two regressions were used here: one looking at how the cumulative change in bank loans relative to Q1 2019
+depended on headroom while controlling for country-time and bank fixed effects; the other looking at quarterly lending
+growth in relation to capital headroom in the preceding quarter. Table 5, Basel report on “Early lessons from the Covid-19
+pandemic on the Basel reforms”.
+18 See Section 5.1 of the ECB May 2021 Financial Stability Review
+17
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+was to compare how these two groups of firms behaved to understand whether headroom was a factor in
+different behaviour.19
+In absolute terms, capital surpluses increased by similar amounts for both of these groups – by about 1
+percentage point of risk-weighted assets on average. However, for low surplus banks, this amounted to
+growth of over 80% compared to pre-Covid surplus levels, and only around 30% for high surplus banks
+(Chart 4).
+This additional capital could have supported more lending. The team’s analysis shows lower lending growth
+for low headroom firms on average, though statistical significance across specifications is mixed. They
+analyse possible effects on mortgage lending, credit card lending and non-government guaranteed corporate
+lending separately.20 They find statistically significant evidence that low surplus banks constrained nonguaranteed corporate lending and credit card lending more than their peers during Covid-19, though the
+latter is based on a small number of observations. The effects on credit card and non-guaranteed corporate
+lending strike me as an important result. Table 2 shows the full results.
+
+Chart 4: Evolution of effective surpluses
+
+Notes: The graph plots the growth of effective CET1 capital surpluses, calculated from public requirements. The series are indexed
+to 100 in 2019 Q4. The sample is divided into different quartiles based on banks’ 2019 average effective surpluses. There are 40
+“low surplus” banks (i.e. those in the bottom quartile), and 79 “high surplus” banks, (i.e. those in the second and third quartiles).
+Banks in the top quartile are excluded for comparability purposes. In the rest of the analysis, the “pre-pandemic” period is defined
+as that from 2019 Q1 to 2019 Q4, and the “post-pandemic” period is from 2020 Q1 till 2020 Q4.
+
+This was based on a difference-in-differences econometric strategy. With more detailed data available to them for our
+domestic banks, the calculation of headroom was based on granular information on surpluses to the full range of
+regulatory requirements – their effective surplus. They took banks at their highest level of consolidation. Due to the use
+of regulatory data, the effective CET1 surplus takes into account CET1 resources (calculated from the public requirements)
+used, where applicable, to meet leverage ratio requirements, MREL requirements and lower quality capital requirements
+(i.e. where AT1 and Tier 2 instruments are allowed but not utilised).
+20 We exclude corporate lending supported by government-provided relief schemes during the pandemic given the zero
+risk-weights attributable to that lending during Covid-19.
+19
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+Is it stigma or is it uncertainty?
+One possible challenge to these findings is that they may reflect firms’ concerns about breaching regulatory
+minimum requirements during the pandemic, and/or about their ability to rebuild depleted buffers going
+forward; and may have nothing to do with the stigma of breaching regulatory buffers.
+The arguments go as follows: a firm entering the crisis with lower headroom would naturally be more
+cautious than a firm with higher headroom and hence, when the uncertainty about the economic environment
+is large, it would naturally increase its capital ratios by more to prevent it breaching minima. Alternatively or
+in addition, banks may have entered the crisis with low headroom because they faced profitability
+challenges, restricting their capacity to grow capital organically. If so, then they may be averse to capital
+ratios declining, fearful that if conditions subsequently swung around quickly, they could languish inside
+regulatory buffers for longer than their competitors if their profitability challenges were to persist.
+So is it fear of stigma about breaching buffers, or is it precautionary capital raising in the face of uncertainty
+and/or concerns about capacity to rebuild depleted capital?
+For the UK, we can disentangle these effects in two ways. First, unlike some other studies, the Bank team’s
+analysis controls both for banks entering the pandemic with differing levels of headroom to minimum
+requirements, and for the profitability of banks when entering the crisis. Each of these should go some way
+to mitigating this concern.
+Second, the stress tests run by the Bank in May 2020 projected major UK banks’ CET1 ratios to fall but
+remain well in excess of minimum capital requirements. And, ‘reverse stress tests’ carried out by the FPC in
+August 2020 showed that the economic outcome from Covid-19 would need to be much worse than the
+central projection in order for it to deplete regulatory capital buffers.21 So while uncertainty was high, banks
+appeared resilient against scenarios that were materially more adverse.
+Moreover, the empirical results reported under the second approach on the value of releasing the CCyB,
+both from the UK and abroad, should not be affected by this challenge as this action converts a regulatory
+buffer into a management buffer. This would not have altered banks’ concerns about breaching minimum
+requirements.
+Taken together, these all point more to fear of stigma from breaching regulatory buffers being the main
+driving factor.
+Policy implications
+Effective regulators are forward looking, looking ahead to the next crisis.
+
+The August 2020 Financial Stability Report (FSR) showed that the cumulative loss of UK economic output associated
+with the outbreak of Covid-19 would need to be around twice as big as the Monetary Policy Committee’s central
+projection.
+21
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+12
+
+The post-crisis capital framework has proved resilient so far and we need to wait out the Covid stress before
+we can complete our evaluation.
+In the meantime, it is imperative that Basel jurisdictions implement the last part of the post-crisis reforms –
+what in the UK we call Basel 3.1 and elsewhere is sometimes referred to as ‘endgame Basel 3’. These
+reforms have nothing to do with the design of regulatory buffers and the overall Basel 3 capital resource
+framework built in the aftermath of the Global Financial Crisis, which was in large part all about the
+numerator of the capital ratio. By contrast, Basel 3.1 is about how to ensure risk weights, especially
+internally-modelled risk weights, are measured robustly – it’s about the robustness of measuring the
+denominator of the capital ratio. We should be getting on to implementing these measures consistent with
+the agreements we made when sitting around the Basel table.
+At the same time, we should not ignore the evidence that points towards issues with the original Basel 3
+vision on buffer usability. As prudent regulators we cannot bank on the monetary and fiscal firefighters
+always being able to deploy as many resources to douse the flames of a future crisis. Rather we should
+follow John Dewey’s maxim to reflect on the experience we gleaned from this fire before the next one starts.
+Otherwise, we may live to regret it.
+
+Thank you.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+13
+
+Annex
+Table 1: Baseline results on CCYB releasability
+CET1 ratio Mortgage lending
+(%)
+flows (%)
+(1)
+(2)
+Post-Covid x Dummy if bank has high CCyB
+pass through rate
+Post-Covid x Dummy if bank has low prepandemic effective surplus
+Bank controls
+Bank FE
+Time FE
+No. of observations
+R2 (Within)
+
+Non govt. guaranteed
+lending flows (%)
+(3)
+
+-0.946**
+
+0.574
+
+0.767
+
+(0.047)
+
+(0.848)
+
+(0.818)
+
+0.377
+
+-1.331
+
+-14.369*
+
+(0.345)
+Yes
+Yes
+Yes
+795
+0.433
+
+(0.440)
+Yes
+Yes
+Yes
+212
+0.082
+
+(0.070)
+Yes
+Yes
+Yes
+228
+0.084
+
+Notes: A “high CCyB pass through rate” bank is one with more than 50% pass-through rate in 2019. ***/**/* indicate significance at the
+1%, 5%, and 10% level respectively. P-values reported in brackets are based on bank clustered standard errors. All columns contain
+bank and time fixed effects.
+
+Table 2: Baseline results on CET1 ratios (column 1) and lending (columns 2-4)
+
+(1)
+
+Mortgage
+lending flows
+(%)
+(2)
+
+Credit card
+lending flows
+(%)
+(3)
+
+0.066
+
+-1.290
+
+-2.530**
+
+-14.310*
+
+(0.867)
+Yes
+Yes
+Yes
+794
+0.324
+
+(0.481)
+Yes
+Yes
+Yes
+212
+0.081
+
+(0.013)
+Yes
+No
+Yes
+75
+0.336
+
+(0.070)
+Yes
+Yes
+Yes
+228
+0.084
+
+CET1
+ratio (%)
+
+Post-Covid x Dummy if below
+bottom quartile effective surplus
+Bank controls
+Bank FE
+Time FE
+No. of observations
+R2 (Within)
+
+Non govt. guaranteed
+PNFC lending flows (%)
+(4)
+
+Notes: ***/**/* indicate significance at the 1%, 5%, and 10% level respectively. P-values reported in brackets are based on bank
+clustered standard errors. All columns contain bank and time fixed effects, except column (3) which contains only time fixed effects
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+14
+
+

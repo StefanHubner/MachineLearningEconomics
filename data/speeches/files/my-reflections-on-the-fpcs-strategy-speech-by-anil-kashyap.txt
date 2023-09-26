@@ -1,0 +1,613 @@
+My reflections on the FPC’s strategy
+Speech given by
+Anil Kashyap, Member of the Financial Policy Committee, Bank of England
+
+50th Anniversary of the Journal of Money, Credit and Banking, Frankfurt
+28 March 2019
+
+I thank Caspar Siegert, Andy Walters and other FPC members for numerous helpful conversations
+about these issues. The views expressed are my own and do not necessarily reflect those of the
+Bank of England or other members of the Financial Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Thanks for inviting me to be part of this conference. The JMCB has been an important journal in our field
+and it is an honor to be on this panel.
+
+Today I want to talk about the UK Financial Policy Committee, which is the group that was created after the
+last financial crisis to try to make sure that the UK financial system is resilient to, and prepared for, the wide
+range of risks it could face. I am one of the external members of the committee and our tag line is that we
+want the financial system to be able to serve UK households and businesses in bad times as well as good.
+
+The FPC is on the cusp of entering its seventh year of official operation (we had an interim group for two
+years before that) and we have done some stock taking to assess where we stand. My goal today is try to
+share my views on this question. Importantly, because I only joined the committee 2.5 years ago, I have not
+been present for all of the discussions, what follows are obviously my own views. In fact, part of my
+motivation for talking about this subject is to challenge myself to see if I can articulate clearly what we are
+doing.
+
+You will see that in some ways the FPC is wrestling with questions that have not received much attention
+either from academics, or from the policy community outside of the UK. So the chance to engage the many
+experts in this audience is a great opportunity. I look forward to the ensuing discussion.
+
+A second motivation behind the talk is to improve public understanding of the FPC, so that people can better
+anticipate what we do as events unfold and appreciate why we think that is reasonable. Ideally, this will make
+the public more confident that the job of delivering financial stability is in good hands. I am not going to talk
+about the nitty gritty of how our meetings work because I have previously described that.1
+
+My plan is to cover 5 topics. I will start with a brief summary of our remit, just so you all can see what we are
+and are not supposed to be doing. Then I will give you my view of how we make that remit operational. For
+me that amounts to trying to deduce the implicit model we have for how financial instability can arise. That
+leads to the third issue, which is what tools have we developed and how do I think about using them? Then
+I will give my summary of a few of the lessons I think we have learned so far. Lastly, I will identify some of
+the challenges that I think we face in moving forward.
+
+I.
+
+Statutory Objectives
+
+The FPC takes its direction from the founding legislation that was passed by Parliament, coming into force in
+2013, and from an annual letter sent by the Chancellor to the Governor of the Bank of England (who chairs
+the FPC) that gives some specific guidance on government objectives.2
+
+1
+2
+
+Kashyap (2018)
+HMT (2018)
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+The law charges us with the responsibility for the identification of, monitoring of, and taking of action to
+remove or reduce, systemic risks with a view to protecting and enhancing the resilience of the UK financial
+system.
+
+Those systemic risks include, in particular -
+
+(a) systemic risks attributable to structural features of financial markets, such as connections between
+financial institutions,
+
+(b) systemic risks attributable to the distribution of risk within the financial sector, and
+
+(c) unsustainable levels of leverage, debt or credit growth.
+
+The Act empowers us to publish our views about systemic risks, to make recommendations or directions to
+others, such as the Financial Conduct Authority and the Prudential Regulation Authority, and to request
+additional authority from Parliament, via the Treasury. We have acted often, making 47 formal or informal
+interventions, all of which have been accepted and carried out.3
+
+We have taken these instructions and made them operational by identifying a number of recurring issues that
+we discuss and report on. I would like to highlight three examples that are indicative (though far from
+exhaustive) of what we do.
+
+The first concerns the resilience of the banking sector. We are responsible for overseeing the overall capital
+framework for banks and indeed this took up much of the committee’s time in the early days. Recall that
+equity financing is required by banks so that they can absorb losses without defaulting on their obligations.
+The post-crisis international framework sets different levels of required capital based on the riskiness of
+banks’ activities, as well as a risk-insensitive ‘leverage ratio’, which puts a floor on the size of the banks’
+equity base. Most of these guidelines are tied to the riskiness and scale of individual banks’ activities.
+But there is one capital standard that is different. Every quarter we are also obliged to set the level of the “UK
+counter cyclical capital buffer rate”, affectionately known as the CCyB. It is set based on aggregate market
+conditions and is varied depending on those conditions. When credit conditions become excessively loose,
+the risks to all banks rise and so we can increase the CCyB to make sure that the banks’ resilience to risks
+also increases. Conversely, when risks crystalize we can release the buffer so that the equity can absorb
+losses as they are realized, without banks having to breach their minimum capital requirements. That allows
+banks to keep lending during periods of stress. The idea that total capital requirements should fluctuate in
+
+3
+
+This figure includes formal and informal FPC recommendations to HMT, the PRA and FCA, statements supporting other regulatory
+initiatives, communications to other regulatory bodies, and changes to pre-existing FPC policies.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+this way is an example of an explicitly macroprudential idea that has been put into practice. Taking the
+decision on how to calibrate the level of the CCyB raises practical issues that I will describe momentarily.
+
+A second example of recurring focus and action relates to the rest of the financial system that is outside the
+banking system. The so-called “shadow banking system” in the U.S. was at the center of the last financial
+crisis. Part of the reason why that trouble emerged is that there were many parts of the system that were
+unregulated or very lightly regulated. Once a year we undertake an exercise to review the regulatory
+boundaries to make sure that threats are not emerging in areas that are not being carefully monitored and
+supervised. Again the idea of looking at the system as a whole and taking responsibility to make sure
+everything is appropriately covered is a fundamentally different mindset to what prevailed prior to the crisis.
+
+Finally, in 2015 the FPC was given additional powers by the Treasury to guard against financial stability risks
+arising from the UK housing market. In fact, the FPC had already acted in 2014 Q2 to address risks in the
+housing market by making recommendations to the PRA and FCA. When the FPC was subsequently asked
+which tools might be needed to guard against financial stability risks from the housing market, the committee
+concluded that it required powers of direction (i.e. not just recommendation) over loan to value ratios and
+debt to income levels. Along with these powers came the responsibility to review the guidance that was
+given and potentially adjust the calibration of the tools’ settings. These interventions that are aimed at
+ensuring the resilience of borrowers is a third, new dimension to regulatory power.
+
+II.
+
+Making it operational
+
+There are a variety of ways you could try to characterize how we put this remit into practice. I find it helpful
+to lump the risks and the committee’s associated actions into four categories.
+
+Obviously from the remit we have to be concerned with the resilience of the banking system. The system
+failed in the last crisis and we are determined that will not happen again. There is abundant evidence that
+our actions back up this promise.
+
+Between our stress tests, our policies on capital buffers related to systemic risks, and the decisions we take
+every quarter on the CCyB, it is clear that we are actively trying to ensure that the banking system is in a
+position to support the economy in bad times as well as good.
+
+The legislation also makes clear that we have to consider the role that the financial sector plays in supporting
+the economy. If you read our financial stability reports that come out twice a year, large parts of them relate
+to market risks. For example, the June 2018 FSR identified our concerns that compensation for risk-taking
+was unusually low.4 We always comment on aggregate credit growth, which includes both bank and market
+
+4
+
+Bank of England (2018)
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+supplied credit. When you read the summary of our deliberations, which is now released simultaneously with
+our policy statement, you can see that there are lots of discussions of other market risks.5
+
+So our words are also clearly aligned with this part of the remit. Looking at our recommendations and other
+actions you can also see that this is not just a case of talking. At various points we have taken steps to
+address issues related to market based finance risks. The aforementioned review of the risks that could arise
+from outside the core banking system is one example. By prodding the committee to consider these kinds of
+risks, the legislation forces us to think about scary scenarios and be vigilant about them.
+
+One important thing to keep in mind is that financial stability is not the same as market stability. We want
+markets to function well and that includes times when assets need to be repriced. So we are not trying to
+suppress volatility. Indeed, we frequently comment on times when we fear markets are overly complacent
+about risks and may be under-pricing them.
+The third kind of financial stability risk that we consider regards threats to what I will call “infrastructure”. By
+this I mean the supporting structures that lie beneath the financial system. Some of these are familiar, like
+the payment system that allows people to move money or the exchanges that facilitate trading. However,
+there are other things that also matter such as the integrity of contracts. A good example of this is the
+integrity of reference rates, such as LIBOR, that can be embedded inside contracts. Hopefully you all know
+that we are trying to move away from LIBOR towards a new benchmark that will be more robust.6
+
+The fourth risk that the FPC worries about is the aforementioned resilience of borrowers. The primary area
+where the FPC has acted on this concern is in the housing market. In the UK, mortgages are made with
+recourse and consequently default rates are much lower than in some US states where there is no recourse.
+However, the mortgage market can still be a possible source of risk. A great deal of recent research shows
+that when borrowers begin having trouble repaying their mortgage (whether because of an increase in
+interest rates or a drop in income, or decline in property values that prevents refinancing), they cut other
+spending. This decline in spending can amplify downturns and the FPC tries to mitigate this risk in ways I
+will describe more below.
+
+Ideally we would have a full economic model (and an associated econometric version) that could be used to
+guide our decisions. We are not quite there yet, so perhaps someone in the audience will help us come up
+with one.7 For today, I will describe my own partial, implicit model with a simple diagram (Figure 1).
+
+The purpose of a model is to help us think about threats to stability and how to manage them. Our objective
+is to make sure that the financial system does not amplify shocks that occur elsewhere in the economy, or
+
+5
+
+Bank of England (2019)
+Bailey (2018)
+7
+See Kashyap and Lorenzoni (2019) for one attempt in this direction.
+6
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+worse still become a source of shocks, that would put the economy in a worse position. So where can
+threats come from?
+
+The model supposes that a thriving real economy depends on borrowers being healthy and having access to
+a reliable supply of credit. If either the supply of credit is materially impaired or a significant proportion of
+borrowers are over-extended, then the economy will suffer and the FPC will not have done its job. So
+stability requires paying attention to both credit supply and borrower resilience.
+
+The model further presumes that households steer their savings through markets and banks. So credit
+supply can become compromised if either of these channels is weakened. Hence policymakers need to pay
+attention to the strength and resilience of both of these channels.
+
+Finally, the model recognizes that there are feedbacks from the condition of the real economy to borrowers,
+markets and the banking system. These feedbacks cannot be fully prevented. The economy is hit with
+shocks all the time and the FPC does not try to eliminate all volatility. What the committee is trying to ensure
+is that the financial system and borrowers are strong enough to withstand those shocks so that they do not
+amplify them.
+
+III.
+
+What tools do we have and how do we think about using them?
+
+Table 1 shows examples of the main policy levers that the FPC has employed to date. I think about them
+falling into 3 categories that align with the categorization of threats in Figure 1. First, there are many familiar
+tools that pertain to the banking system. Two in particular stand out. The first is the annual stress test that
+is used to assess the resilience of the UK banking system. The second is the setting of the CCyB. Together
+these are two main levers that the committee uses to ensure that the banking system is resilient.
+
+These two tools work well together. When we finish the stress test evaluation we compare the overall level
+of capital that banks would be expected to have in stressed conditions with the hurdle rate that we believe is
+necessary for the system to function. If the tests reveal a shortfall, then the CCyB can be adjusted to build
+up further resilience. Of course, we do not just look at the stress tests in setting the CCyB. We review it
+every quarter and also move it based on our judgment about the risks in the economy.
+
+I do not want to falsely imply that these are the only important banking tools. The FPC has also taken other
+actions to shore up the banking system in the past, including the introduction of the UK leverage ratio
+framework in June 2015. The framework is made up of a minimum equity-to-assets ratio of 3.25%, a
+countercyclical leverage ratio buffer rate (closely linked to the CCyB) and an additional leverage buffer for
+globally systemic banks. It also includes a recommendation that banks’ ‘CoCo’ bonds (i.e. bonds that
+convert to equity in times of stress) should have a higher trigger level of capital in order to count towards
+their minimum leverage ratio requirements.
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+The second category is policies that are made regarding financial markets. This covers the other side of
+credit supply. Examples here include addressing data gaps in shadow banking, asking banks to contingency
+plan for LIBOR and other benchmark rates becoming unavailable, and designing cyber stress tests, including
+for financial market infrastructure providers. Our Financial Stability Report also often includes warnings to
+market participants about the risk environment that can promote stability.
+
+The third category is the housing tools that are aimed at ensuring that borrowers do not get too over
+extended. These tools are probably those least familiar to people outside the UK. The two housing tools
+that the FPC has used to date are: (1) ensuring mortgage lenders limit the proportion of mortgages at loan to
+income (LTI) multiples of 4.5 and above to no more than 15% of their new mortgages; and (2) ensuring
+mortgage lenders apply an interest rate stress to borrowers of 3 percentage points, on top of the reversion
+rate specified in their mortgage contract.8 We call these tools the “LTI flow limit” and the “affordability test”.
+
+The logic for using these tools is that when mortgage payments become too onerous in a downturn, people
+begin cutting back on their other spending. This will weaken the economy. So these tools can be thought of
+as trying to limit how many people might encounter difficulties in meeting their mortgage payments.
+
+Past empirical work suggests that borrowers with higher LTI mortgages cut their expenditure during the crisis
+by more than those with lower LTIs.9 Logically, this is because more of their available income has to be
+diverted to paying for housing. Similarly, other evidence indicates that when people find themselves having
+to commit more than 40% of their available income to paying for housing, they are more likely to fall into
+arrears.10 For some people, being temporarily in a position of having a high debt service ratio is a safe and
+wise decision. For example, if a family knows that future income is set to rise, stretching to buy a big house
+makes sense. So that is why the tools do not constitute an outright ban on mortgage options for people who
+could wind up with a DSR above 40%. However, if too many people are in this situation, there is a risk that
+aggregate spending could decline in a downturn.
+
+Figure 2 gives one way to summarize this risk. The picture shows the fraction of households that we have
+estimated to have more than 40% of their income committed to mortgage payments. The solid line
+represents data from the British Housing Panel Survey, which is published with a significant lag, so the figure
+includes a comparable, more timely series from 2011. For the most recent observation, we have added a
+red dot. That dot shows the percentage of households who’s DSRs would exceed 40% if interest rates were
+to jump by 3 percentage points, as per the FPC’s affordability test.
+
+Loosely speaking, I think of the housing tools as being designed so that we limit the percentage of people
+that would wind up in this situation. You can see how the tools contribute to this objective. The DSR
+8
+
+The FPC also has powers to set loan-to-value limits on new owner-occupied lending, and powers to set affordability tests and loan-tovalue limits on new buy-to-let lending, but to date hasn’t deployed these tools.
+9
+Bunn and Rostom (2015)
+10
+Bank of England (2017)
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+depends on three factors: the amount borrowed, the interest rate on the borrowing and the income level.
+The LTI tool limits the ratio of borrowing to income. Unless income drops, say because of job loss, this will
+help prevent excessive DSRs. The affordability test checks what happens were interest rates to jump up.
+This could happen because of a general rise in the level of interest rates or because a borrower’s contracted
+rate rose when the fixed rate period expired and the rate was not refinanced (say because the value of the
+house had fallen).
+
+How do we calibrate the exact setting of the tools? That obviously differs depending on which is being
+considered, but I think we are using three guiding principles. Let me describe each principle and use the
+housing tools to illustrate them.
+
+First, the tool needs to be set in such a way that it will fix a problem that the private sector will not attend to
+on its own. Economists would say that there must be an “externality” that needs to be remedied.11 In the
+case of the housing tools, the problem to be addressed is that individual borrowers and lenders do not worry
+about the macroeconomic consequences of the fact that the borrower might need to scramble to continue
+paying the mortgage by cutting spending.12 So the LTI limit and affordability test can be thought of as trying
+to make sure that the fraction of households in this condition does not become too large.
+
+Second, we rely heavily on cost-benefit analysis. Our mandate does not say we should take all possible
+steps to prevent instability. We would not want to stifle credit extension to such an extent that we have the
+stability of the graveyard. In the case of housing, this is exactly why we do not try to limit all borrowers to
+have low DSRs or limit all banks to have only low LTI loans.
+
+Figure 3 shows how the distribution of LTIs has evolved. You can see that the fraction of LTIs above our
+limit of 4.5 has stayed roughly constant, at around 10%. However, the fraction of loans that are between 4
+and 4.5 has ticked up since the implementation of the policy. This is a program feature, not a bug! The
+whole point of the policy was not to deny borrowers access to credit, but merely to limit the set of people who
+might wind up with an excessive burden. Looking back at Figure 2, you can see that there has not been a
+surge in households with DSRs above 40%. So the bunching of people whose mortgage choices are just
+below the cut-off seems to be having the desired effect. This is a great example of the cost-benefit
+considerations that guide us.
+
+Finally, we constantly ask whether the tools we are considering are well suited to solving whatever problem
+we are trying to fix. Many of our tools are “structural” in the sense that they rarely need to be recalibrated
+even as the economy evolves. Others, most obviously the CCyB, are cyclical and need to be adjusted more
+regularly. I think of the housing tools as a hybrid. On the one hand, we want to use them to guard against
+
+11
+
+See Kashyap and Wetherilt (2019) for an application of this principle in the context of managing cyber risk.
+The same logic could apply to corporate borrowing and it might also be natural to monitor the deleveraging risk in the corporate
+sector. See Greenwald (2019) and Lian and Ma (2018) for important work in this area.
+12
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+the risk of too many high DSRs arising. So that objective is clear and not really subject to re-assessment.
+On the other hand, we could conclude that either the setting of the LTI limit or the stress level in the
+affordability test needs to be adjusted to keep the deleveraging risk at an acceptable level. We have seen
+since the policy was put in place that the chosen settings have been adequate for a number of years, but
+that does not mean that they will prove to be completely time-invariant.
+
+IV.
+
+What lessons have we learned from operating so far?
+
+I would point to 4 main lessons that I think we now have recognized and try to incorporate into decision
+making.
+
+One humble observation is that the period since the GFC may not be terribly representative. The recovery
+was slow and the financial system took a long time to heal. The FPC has yet to judge that the risk
+environment associated with overall financial conditions is elevated above the standard level. So we do not
+know how the committee will fare in setting policy and making judgments when we reach that situation.13 We
+should not take too much comfort from having prevented a crisis so far.
+
+A second lesson is that the committee is balancing several considerations in making its decisions. We need
+to be forward-looking to prevent risks. Yet, we also want to be transparent and predictable in our actions. If
+the private sector can anticipate our actions that helps financial stability. For instance, in designing our
+stress tests the banks know that our stresses will be deeper if the level of risk is higher. That creates an
+incentive for the banks to have a prudent dividend and repurchase policy, so that they retain sufficient
+earnings to operate in the event of a stress.
+
+A third lesson is that the committee needs a portfolio of skills among the members. The internal members
+bring some diversity by design. The deputy governors have different responsibilities which keeps them alert
+to a range of factors. We also need the breadth of the backgrounds and expertise of the external members.
+Our conversations are richer because we have people with experience as private sector participants, in
+regulating and in doing research on the financial system.
+
+Finally, I think we have learned from the dogs that did not bark. Some observers worried that there would
+be fights between the FPC and the other main bank policy committees (the PRC or the MPC). Others
+worried about cooperation with the FCA. In my experience, there has been none of that (admittedly it helps
+that there is overlapping membership). We meet regularly in joint sessions with the PRC and MPC and
+there are many informal conversations too. The committees have cooperated quite well. FCA staff routinely
+brief us and we share information back and forth regularly. Subject to the first lesson about the
+
+13
+
+Perhaps the most relevant experience here has been dealing with pockets of risk that the committee felt were elevated. Recent
+examples would be concerns over rapid growth in consumer credit and leveraged lending.
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+representativeness of this sample period, these concerns have not been a problem. I think in other
+jurisdictions that are still designing macroprudential regimes, the fact that this kind of cooperation has been
+achieved should be noted.
+
+Likewise, the public pushback against the committee has been minimal. No one knew what the reaction
+would be once we started taking decisions in areas that had been ignored previously. For instance, the
+housing tool actions were unprecedented. Yet, they have generated little criticism and in fact have lots
+of support.14
+
+V.
+
+Challenges
+
+There are a variety of challenges that remain. Let me close by pointing to three of them.
+
+First, we are still learning how to communicate effectively. The MPC was the model for many aspects of the
+way the FPC was set up. One important difference between the two is that the MPC is managing proximate
+risks that relate to the central forecast for the economy. The FPC has to worry about tail risks. Explaining
+counterfactuals that are rare is very difficult. None of the tools we use are nearly as widely followed as
+bank rate. This has also meant that our committee is still not very visible to the public. The Bank is taking
+steps to simplify all of its public communications through its Vision 2020 initiative.15 The FPC is working hard
+on this front, for example by ‘layering’ its communications so that main points from key documents are
+summarized with simple words and images that should be widely accessible, while the documents
+themselves still include enough details for experts to be able to follow the decisions and deliberations more
+closely. But we still have a way to go.
+
+Second, it is hard to know how to define success. Suppose we had moved the risk of a crisis from a one in
+20 year event to one in 50. How would we know that had happened? How would we know that met
+parliament’s definition of success? And how could we begin to convince the public of that? These are
+well-trodden questions for macroprudential authorities but they’re fundamental to the FPC’s legitimacy and
+so worth revisiting to see if progress can be made.16
+
+Finally, we have yet to be able to come up with a summary measure of financial stability risk. One of our
+central judgments each quarter is the assessment of the overall risk environment. It is hard to explain in
+simple terms to non-experts why we reach that judgment. One potentially promising development on this
+front is the recent research on “GDP at risk”.17 This work is too early to fully judge, but it does appear to offer
+one way to summarize overall risk levels.
+See for example Guardian (2014) “Bank of England now has the right tools to take on housing bubbles”
+https://www.theguardian.com/business/economics-blog/2014/oct/02/bank-of-england-tools-housing-bubbles
+15
+Bank of England Annual Report 2018
+16
+For example Goodhart (2011), Tucker(2011), ESRB (2011), Broadbent (2018) and others
+17
+See for example Aikman et al (2018), Adrian et al (2018), Adrian et al (2017), IMF (2018) and ECB (2019)
+14
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+Thank you for your attention and I welcome any questions or comments.
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+References
+Bailey, A. (2018) ‘Interest rate benchmark reform: transition to a world without LIBOR’, Speech at
+Bloomberg, 12 July 2018.
+Bank of England (2015) ‘The Financial Policy Committee’s powers over housing tools’, Policy Statement,
+July 2015
+Bank of England (2017) Financial Stability Report, June 2017.
+Bank of England (2018) Financial Stability Report, June 2018.
+Bank of England (2019) ‘Financial Policy Summary and Record – March 2019’
+Broadbent, B. (2018) “Monetary and macro-prudential policies: The case for a separation of powers”,
+speech, 12 April 2018.
+Bunn, P and Rostom, M (2015), ‘Household debt and spending in the United Kingdom’, Bank of England
+Staff Working Paper No. 554
+ESRB (2011) “Recommendation Of The European Systemic Risk Board Of 22 December 2011 On The
+Macro-Prudential Mandate Of National Authorities”, ESRB/2011/3
+Goodhart, C (2011) “The Macro-Prudential Authority: Powers, Scope And Accountability”, OECD Journal:
+Financial Market Trends, Volume 2011, Issue 2
+Greenwald D (2019) “Firm Debt Covenants and the Macroeconomy: The Interest Coverage Channel”, MIT
+working paper.
+Her Majesty’s Treasury (2018) ‘Remit and recommendations for the Financial Policy Committee: Budget
+2018’
+Kashyap, A. (2018) ‘Come with me to the FPC’, Speech given at the Official Monetary and Financial
+Institutions Forum, 13 June 2018.
+Kashyap, A and Lorenzoni, G. (2019) “Borrower and Lender Resilience” (work in progress).
+Kashyap, A. and Wetherilt, A. (2019) “Some Principles for Regulating Cyber Risk”, AEA Papers and
+Proceedings, forthcoming
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+Lian C and Ma Y (2018): “Anatomy of Corporate Borrowing Constraints,” University of Chicago Working
+Paper.
+Tucker, P. (2011), “Macroprudential policy: building financial stability institutions”, speech, Thursday 14 April
+2011
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+Figure 1: Threats to Financial Stability
+
+Figure 2: Proportion of households with mortgage DSRs of 40% or greater(a)(b)(c)
+
+Source: November 2018 Financial Stability Report. Data from British Housing Panel
+Survey/Understanding Society (BHPS/US), NMG, Consulting survey and Bank calculations.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+Figure 3: Loan to Income Ratios for Newly Originated Loans(a)
+
+Source: November 2017 Financial Stability Report, updated for the latest data from FCA Product Sales Database.
+
+Table 1: Prominent Examples of FPC Tools and Decisions
+Tool type
+
+Date
+
+Description
+
+Borrower Resilience
+
+June 2014
+
+15% LTI flow limit for owner-occupier mortgages
+
+Borrower Resilience
+
+June 2014
+
+Affordability tests for mortgages
+
+Borrower Resilience
+
+June 2017
+
+Update affordability tests for mortgages
+
+Bank Resilience
+
+Annual since 2014
+
+Stress test scenario design
+
+Bank Resilience
+
+Quarterly
+
+Set CCyB
+
+Bank Resilience
+
+June 2015
+
+Introduction of a UK leverage ratio framework
+
+Market Resilience
+
+June 2013
+
+Contingency planning for LIBOR and other benchmark
+rates disappearing
+
+Market Resilience
+
+March 2015
+
+Asked the Bank and FCA address data gaps and build a
+common understanding of vulnerabilities in capital markets
+and asset management activities; report back by
+September
+
+Market Resilience
+
+June 2015
+
+Asked the Bank, PRA and FCA to ensure firms at the core
+of the UK financial system, including financial market
+infrastructure, completed their cyber vulnerability tests and
+adopted resilience action plans.
+
+Market Resilience
+
+Semi-Annual
+
+Financial stability report risk identification chapters
+
+Brexit mitigants
+
+Quarterly since
+
+Checklist laying out risks to banks, borrowers and markets
+
+2017
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+

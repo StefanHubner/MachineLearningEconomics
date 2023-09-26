@@ -1,0 +1,310 @@
+Bank of England
+
+Page 1
+
+Old dogs, new tricks:
+adapting central bank
+balance sheets to a world of
+digital currencies − remarks
+by Andrew Hauser
+Given at Federal Reserve Bank of New York and Columbia SIPA
+Workshop on ‘Monetary Policy Implementation and Digital Innovation’,
+New York
+01 June 2022
+
+Bank of England
+
+Page 2
+
+Speech
+Introduction
+The explosion of interest in digital currencies poses deep and challenging policy questions
+on everything from monetary and financial stability, to privacy, competition, money
+laundering and social inclusion. Public authorities are evaluating the arguments for and
+against introducing their own Central Bank Digital Currencies (CBDCs).1 And in the
+private sector there’s a lively debate about what it might take to make so-called
+‘stablecoins’ genuinely stable.
+Up to now, though, there’s been less discussion about how central bank balance sheets
+might need to adjust to support the safe and effective provision of fiat-based digital
+currencies. This workshop is therefore well timed.
+I will focus my remarks today around five main messages.
+1. Retail CBDCs could be a big deal for central bank balance sheets
+Let’s start with retail CBDC – a central bank liability, in digital form, held directly by
+individuals, and used to make day to day payments. Many of the raw ingredients of a
+CBDC are already familiar to central banks: individuals can already hold our liabilities, in
+the form of physical banknotes; and we already provide digital liabilities, albeit to only a
+few depositors (predominantly banks).
+The new thing would be to combine those ingredients together, at scale.
+The question of whether to do so is complex, and beyond the scope of my remarks today.
+The UK will publish a consultation on this issue later this year. But the implications for
+central bank balance sheets will also depend heavily on how any CBDC is designed: on
+who can hold it, where it can be used, how much can be held, and whether it is
+interest-bearing (Table 1).
+
+The Bank of England’s work in this area is available at: UK central bank digital currency |
+Bank of England.
+1
+
+Bank of England
+
+Page 3
+
+Source: Bank of England
+
+Design choices that placed the economic features of CBDC close to today’s banknotes
+might have relatively limited implications for central bank balance sheets, at least in normal
+economic conditions. Choices that positioned the economic features of CBDC closer to
+today’s retail commercial bank deposits could have a more material impact.
+To give some sense of potential scale, Chart 1 compares two stylised benchmarks – the
+stock of banknotes; and 20% of retail commercial bank deposits2 – to the size of central
+bank balance sheets between the period before the Global Financial Crisis and today. In
+the UK, the upper end of that benchmark range is nearly half the size of the
+Bank of England’s balance sheet today, and six times that in 2007.
+
+This is the assumption used in the illustrative scenario in Section 3 of the Bank’s 2021 discussion paper
+New forms of digital money | Bank of England, and reflects the share of UK deposits that is non interest
+bearing.
+2
+
+Bank of England
+
+Page 4
+
+Sources: Individual central banks’ published data, IMF, Bank calculations.
+
+Those are big numbers.
+But they aren’t unprecedented in the history of central banking. In the UK, even the top
+end of the range in Chart 1 would still leave the stock of publicly-provided means of
+payment at around the levels seen in the mid-20th century (Chart 2). This underscores the
+point that, while the technology for any future CBDC may be new, the use of the central
+bank balance sheet to provide state-backed transactional money would not be: indeed, it
+is one of the oldest functions of central banks.
+
+Bank of England
+
+Page 5
+
+Sources: Bank of England, IMF.
+
+2. Stablecoins that are truly stable may have much the same impact
+As public authorities reflect on the case for CBDCs, private sector providers have been
+developing so-called ‘stablecoins’, which claim to be pegged to the value of fiat currencies.
+I say ‘claim’, because recent weeks have suggested such promises may be less than fully
+credible. The value of TerraUSD – once one of the larger ‘stablecoins’ by market
+capitalisation – fell to zero in just a few days. And Tether, sometimes asserted to be the
+backbone of the cryptocurrency ecosystem, lurched precariously below parity for a period
+(Chart 3). These gyrations have multiple causes. But ‘stable’ they are not. And the lack of
+complete, real time, information on the assets backing the promise of convertibility,3
+means that holders of such coins must accept at least the possibility of finding themselves
+badly out of pocket.
+Such ‘buyer beware’ warnings may be sufficient for coins that are only in niche use. But
+they cannot be enough for any that reach systemic scale. And that is why the
+Bank of England’s Financial Policy Committee has recommended that, in the UK, any
+stablecoin that reaches systemic size should also meet standards equivalent to those
+
+See eg Crypto industry shaken as Tether’s dollar peg snaps | Financial Times (ft.com); ‘We’re Not
+Revealing Our Secret Recipe’, Tether’s CTO Says (bloomberglinea.com); and Whereabouts of Terra’s
+Bitcoin Reserve a Mystery After Transfers - Bloomberg
+3
+
+Bank of England
+
+Page 6
+
+expected of commercial bank money.4 In practice that is likely to mean being issued by a
+bank, or by a non-bank that: is subject to rigorous central bank regulation and
+supervision;5 provides coinholders with a robust legal claim; is insolvency remote; and
+transparently backs its coins with a precisely defined set of high quality and liquid assets.
+
+Source: Bloomberg Finance L.P. Digital Asset Research, Inc.
+
+It’s too soon to say what those assets should be. But, to take one example proposed by
+some, if a systemic stablecoin were required to be fully backed by deposits at the central
+bank, the implications for central bank balance sheets could be very similar to CBDC
+(Chart 4). This would also be the case if a ‘narrow bank’ chose to issue its own tokenised
+deposits and put all the proceeds into holdings at the central bank. Indeed, arguably any
+stablecoin with a credible link to fiat currency relies ultimately on settlement in central bank
+money. Of course, that does not mean that it is central bank money: even fully-backed,
+regulated stablecoins would remain the liabilities of private sector companies, and hence
+pose a range of risks not associated with CBDCs.
+
+4
+
+See Record of the Financial Policy Committee - 13 December 2019 (bankofengland.co.uk) and
+https://www.bankofengland.co.uk/financial-policy-summary-and-record/2022/march-2022
+5
+As proposed by the UK Treasury in O-S_Stablecoins_consultation_response.pdf
+(publishing.service.gov.uk).
+
+Bank of England
+
+Page 7
+
+3. Digital currencies may alter the transmission mechanism for monetary policy
+A key unknown in assessing the impact of digital currencies lies in judging the extent to
+which they may affect the flow, and pricing, of money and credit in the economy – which in
+turn has implications for the transmission mechanism for monetary policy. When a bank
+creates a new loan, it must retain or attract sufficient deposits to fund it.6 Digital currencies
+do not fund credit creation, but they do increase the competition for, and hence the cost of,
+deposits, with knock-on implications for the price and availability of credit.
+The size of these effects will depend heavily on the eventual design of any systemic digital
+currencies, their attractiveness relative to bank deposits, the availability and price of
+alternative funding sources for banks, and borrowers’ ability to substitute between types of
+credit. It is not a foregone conclusion that these effects will necessarily be large. Indeed,
+an illustrative scenario published by the Bank of England in 2021 suggested that the
+steady state impact could be quite modest, with lending rates rising only slightly, and credit
+provision falling by a little over 1% – though varying the assumptions can generate
+somewhat larger results (Chart 5).
+
+6
+
+See for example, ‘Money creation in the modern economy’, Bank of England Quarterly Bulletin 2014 Q1.
+
+Bank of England
+
+Page 8
+
+Source: Bank of England Discussion Paper: “New Forms of Digital Money”
+
+More serious disruption to credit supply could occur if deposits transferred into digital
+currencies in an unexpectedly rapid or disorderly way, for example during a stress event.
+But a range of design choices, including potential holding limits, could in principle be
+deployed to deal with such situations. And banks suffering sudden deposit outflows may
+also, as now, draw on market-wide central bank liquidity insurance facilities7 – though the
+pricing of such facilities, and their implications for encumbrance, make them less well
+suited to providing long-term structural support.
+A particularly sensitive question is whether central banks may seek to use CBDCs, or
+other forms of digital currency, to enhance monetary policy implementation – e.g. by
+overcoming the effective lower bound to interest rates, or injecting liquidity directly into the
+retail sector.8 But there is no sign that central banks are thinking of digital currencies in
+this way. The Bank of England, for example, has stressed that any CBDC would
+complement, not substitute for, physical cash.9
+
+The Bank’s Index Linked Term Repo facility, for example, operates weekly, and allows all eligible
+counterparties to bid for six month liquidity against the full range of eligible collateral (see Bank of England
+Market Operations Guide: Our tools | Bank of England).
+8
+See, for example Securing macroeconomic and monetary stability with a Federal Reserve–backed
+digital currency | PIIE
+9
+See for instance Innovation to serve the public interest - speech by Andrew Bailey | Bank of England
+7
+
+Bank of England
+
+Page 9
+
+4. Digital currencies may affect the way central banks deliver monetary control
+Over and above any impact that digital currencies may have on the transmission
+mechanism, they could also have implications for how central banks achieve ‘monetary
+control’: i.e. ensuring that short term market rates are aligned with official rates chosen by
+policy makers.10
+Today, most central banks achieve this control by ensuring they at least meet banks’
+demand for central bank reserves, and remunerate those reserves such that market rates
+trade near or at the official rate. Other things equal, flows into digital currencies issued or
+backed by the central bank, will drain reserves from the system. That could complicate
+monetary control if it causes banks to bid up for reserves, pushing up on short term market
+rates relative to official levels.
+Such effects – ingloriously known as ‘autonomous factors’ in central banking jargon – are
+nothing new. Increases in physical banknotes or government deposits, for example, also
+drain reserves – and scaling that historical variation by the sort of estimates for CBDC size
+shown in Chart 2 suggests that day to day variation in CBDC demand would not pose
+materially greater uncertainty (the orange bars in Chart 6). Sharper and less predictable
+inflows, e.g. during a period of stress – proxied in the purple bar in Chart 6 using the
+extreme tail of existing autonomous flows – could however drive rather larger volatility.
+
+Source: Bank of England, Bank calculations.
+
+10
+
+This issue, and others discussed in my remarks, are also well covered in this 2018 report by the Bank for
+International Settlements’ Committees on Markets and Payment and Market Infrastructures: Central bank
+digital currencies (bis.org).
+
+Bank of England
+
+Page 10
+
+Whether this matters for monetary control depends on the level of reserves at the point
+digital currencies are introduced, and the type of monetary control regime being operated.
+As of today, most major central banks use so-called ‘floor’ systems, with a level of
+reserves (injected via QE) that far exceeds most estimates of aggregate demand from the
+banking system. With such abundant reserves, even quite large unexpected variations in
+reserves holdings need not threaten monetary control (‘Zone A’ in Chart 7).
+
+That may change as central banks unwind their QE holdings.11 As the aggregate level of
+reserves falls, the chances of a sudden reserves drain pushing up on market rates
+increase (‘Zone B’ in Chart 7). Of course no-one knows with any certainty where this
+inflection point lies. So central banks must either aim to stop asset unwind well before that
+point is reached (the approach announced by the FOMC), or have tools in place ready to
+allow banks to replace the reserves depleted by asset sales/redemptions as and when
+they need to (the approach we expect to take in the UK).12
+
+In the UK, the Bank’s Monetary Policy Committee (MPC) voted to begin balance sheet unwind in February
+2022 – see Monetary Policy Report - February 2022 | Bank of England – and gave further detail on its
+approach in its May Report: Monetary Policy Report - May 2022 | Bank of England.
+12
+See Waiting for the exit: QT and the Bank of England’s long-term balance sheet - speech by
+Andrew Hauser | Bank of England
+11
+
+Bank of England
+
+Page 11
+
+None of this fundamentally changes the nature of the challenges facing central banks in
+maintaining monetary control. But it does underscore the importance of reflecting
+operational needs in the design of potential future digital currency frameworks.13
+5. Digital currencies may alter the size and composition of central bank assets
+Most of my remarks today have focused on the potential implications of digital currencies
+for central bank liabilities. But of course, for every liability, there also has to be an asset.
+Whether those assets are, in total, any larger than today depends, in part, on whether new
+digital currencies cause a net increase in demand for central bank liabilities, or simply
+substitute for reserves or banknotes. A narrow digital currency that largely cannibalised
+banknote demand, for example, might have little or no impact. By contrast, a broad digital
+currency with many attractive payments features could materially increase the demand for
+central bank liabilities.
+The impact of any increase in demand on the size and composition of central bank assets
+depends on whether, and how, central banks choose to accommodate that demand. I’ve
+already noted that, in systems like the UK’s, digital currencies may cause some banks
+whose deposit bases have been partially disintermediated to increase their borrowing from
+market-wide facilities. A more interesting case could arise if the central bank chooses
+instead to back persistently higher demand with more long-lasting assets, for example to
+reduce rollover risk. At modest size, that may look little different to today’s banknote
+programmes. But if digital currencies took off at scale, careful thought would be needed
+as to how best to structure such asset holdings to manage balance sheet risks, and
+minimise any unintentional interference with other policy uses of the balance sheet.14
+Conclusion
+CBDCs, if adopted, would be the first new type of central bank liability for centuries. They
+could have important implications for the size, composition and risk profile of our balance
+sheets; for the monetary policy transmission mechanism, and for monetary control. We
+need to understand these effects, and build them into the design of CBDCs and our
+operational toolkits. But, by themselves, balance sheet considerations do not obviously
+present any ‘redline’ arguments against CBDC adoption, if that is the chosen way forward.
+Indeed, while the technologies for such currencies would be new, the use of the central
+
+13
+
+It is worth noting that, if digital currencies are not limited to primarily retail use, they could provide a conduit
+for wholesale market participants to disintermediate money markets, driving rather more profound changes in
+market functioning and bank funding.
+14
+This is just one aspect of a much wider set of questions about how to manage the touchpoints between
+the much wider set of uses to which our future balance sheets will be put that central banks will face in the
+years ahead, as discussed in: Bigger, broader, faster, stronger? How much should tomorrow’s central
+bank balance sheets do - speech by Andrew Hauser | Bank of England
+
+Bank of England
+
+Page 12
+
+bank balance sheet to provide state-backed transactional money is one of our most
+longstanding functions. The dog may be old, but it can still perform new tricks!
+
+I am very grateful to Joshua Jones and India Rimmer for their assistance in preparing
+these remarks; and to Andrew Bailey, Sarah Breeden, Shiv Chowla, Rohan Churm,
+Jon Cunliffe, Rafael Kinston, Jeremy Leake, Amber McAlone, Ali Moussavi, Huw Pill,
+Dave Ramsden, Francine Robb, Christina Segal-Knowles and Cormac Sullivan for their
+advice and comments.
+
+

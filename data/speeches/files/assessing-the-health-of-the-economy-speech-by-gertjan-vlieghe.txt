@@ -1,0 +1,899 @@
+Assessing the Health of the Economy
+
+Speech given by
+Gertjan Vlieghe, External Member of the Monetary Policy Committee
+
+Bank of England
+20 October 2020
+
+I would like to thank Lennart Brandt, Rodrigo Guimaraes, Andrew Bailey, Ben Broadbent,
+Jon Cunliffe, Pavandeep Dhami, Andy Haldane, Jonathan Haskel, Jamie Lenney, Michael Saunders,
+Martin Seneca, Matt Swannell, and Silvana Tenreyro for comments and help with data and analysis.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+1. Where are we? The current state of the economy
+Let me start with a bit of simple arithmetic to illustrate what is happening to the UK economy.
+If something drops by a quarter and then increases by a quarter, it ends up a little more than 6% short of
+where it started.
+It turns out that this is, approximately, what has happened to the UK economy during the pandemic so far.
+It’s actually a little bit worse. Between February and April, GDP fell by 25%. Since then, between April and
+August, GDP has risen by 22%. In August, GDP was about 9% below its February level.
+Rather than trying to figure out what letter of the alphabet this looks like, I would like to give you some
+context of what it means to be 9% short of where you started, in GDP terms.
+In the global financial crisis, UK GDP declined by 6% relative to its pre-crisis peak. Since we are 9% short of
+the pre-pandemic peak, in GDP terms, we are therefore not even at the bottom of the financial crisis, as
+shown in Chart 1.
+Chart 1: Monthly GDP indexed to cycle peak
+2008-2009 recession
+2020 Covid recession
+
+100
+95
+90
+85
+80
+75
+70
+0
+
+6
+
+12
+
+18
+
+24
+30
+Months since cycle peak
+
+36
+
+42
+
+48
+
+54
+
+Source: ONS. Latest observation: August 2020.
+
+Even if you want to argue that August GDP is already out of date, and the economy has recovered some
+more since then, we are currently - at best - at the trough of a normal to large recession. My point is that it is
+easy to be baffled by “largest ever rates of decline” followed by “largest ever rates of growth”, and lose track
+of where we are. There is quite a way to go before we can say we have recovered.
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+The labour market tells a similar story. Even though the headline rate of unemployment has moved up only
+moderately so far, evaluating unemployment accurately during the pandemic is a phenomenal challenge. At
+the height of the pandemic earlier this year, according to the ONS BICS survey (Chart 2), over 30% of the
+private sector workforce was on furlough. Since then, we have made tremendous progress, and more than
+two thirds of those workers are back at work. But that still leaves 9% of the private sector workforce, or just
+over 2m, who are not back at work.
+Chart 2: Number of furloughed workers
+
+Chart 3: Redundancies
+
+HMRC (thousands)
+BICS (thousands)
+
+Redundancies (thousands)
+250
+
+10000
+9000
+
+200
+
+8000
+7000
+
+150
+
+6000
+5000
+
+100
+
+4000
+3000
+
+50
+
+2000
+1000
+
+0
+
+0
+Mar
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Source: HMRC, ONS, Bank calculations. Latest
+
+1995 1998 2001 2004 2007 2010 2013 2016 2019
+
+Source: ONS. Latest observation: August 2020.
+
+observation: 04 October 2020 (BICS wave 15 preliminary).
+
+To put that into context, in the global financial crisis a net 3.3% of the workforce lost their job.1 In the 1990s
+recession, that number was 3.8%, and in the 1980s recession, it was 6.6%.
+To be clear, we do not expect the 9% of private sector workers who are currently on furlough to lose their
+jobs. We expect many of them to either be re-employed by their current employer, or to find new work
+relatively quickly. But our August central forecast was for unemployment to reach a peak2 of 7½%, implying
+aggregate net job losses on the same scale as in the global financial crisis. The fact that redundancies are
+rising sharply (Chart 3) and the number of vacancies is only at around 60% of its level at the start of this year
+(Chart 4) makes it difficult to see a scenario where all of the remaining furloughed workers are reintegrated
+seamlessly into the labour force. There is huge uncertainty about the scale of job losses, in both directions,
+but in my view, the risks are skewed towards even larger losses, implying even more slack in the economy
+than in our central projection.
+1
+
+To be precise, the unemployment rate rose by 3.3 percentage points, which is the net result of an even larger percentage of the
+workforce losing their jobs, but some of those finding a job again over the period.
+2
+The August modal forecast for the unemployment rate, conditioned on market rates peaked at 7.5%, the mean forecast peaked at
+8.0%, reflecting the downside skew to the economic outlook
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+Chart 4: Labour market slack
+Adzuna index of online job adverts (RHS)
+Vacancies (thousands, LHS)
+
+900
+
+100
+
+800
+
+90
+
+700
+
+80
+
+600
+
+70
+
+500
+
+60
+
+50
+
+400
+
+40
+
+300
+
+30
+
+200
+
+20
+
+100
+0
+January
+
+10
+0
+March
+
+May
+
+July
+
+September
+
+Source: ONS. Latest observation: September 2020 for vacancies, 09 October 2020 for Adzuna index.
+
+To get some insight into where we might go from here, I would like to spend some time discussing the
+interaction between the economy and the path of the virus.
+
+2. Is there a trade-off between the economy and public health?
+Some argue that there is a simple trade-off between the economy and public health. The argument goes: if
+the government imposes fewer restrictions, the economy will be in a better state, but public health will be in a
+worse state. It is the job of politicians to find an acceptable trade-off.
+The point I want to make is that this trade-off is much less severe than you might think. To a large extent,
+measures to contain the spread of the virus can help both the economy and public health.
+How can this be? Even though no country has actually tried this, imagine a hypothetical country that has a
+virus outbreak, but where the government imposes no restrictions on movement or economic activity at all.3
+Under the trade-off view, one would argue that, although such a policy would be very bad for public health,
+the economy would basically be fine, it would be unaffected as there are no restrictions imposed.
+However, we have accumulated a lot of evidence in the past months that this argument is not correct at all.
+The hypothetical country that ignores public health but saves the economy does not and cannot exist. This is
+
+3
+
+This is not a reference to Sweden. Contrary to popular perception, Sweden imposed several restrictions. Secondary schools and
+universities were closed, care homes visits were banned, working from home was encouraged, non-essential travel was discouraged,
+large gatherings were banned, and the hospitality industry had to implement a range of Covid-related safety measures.
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+because the majority of the damage to the economy arises from restrictions that people voluntarily impose
+on themselves in order to protect their health, not from restrictions that the government imposes. In a country
+where the virus is more widespread, people will cut their spending more as they avoid crowded places,
+cutting back on travel, hospitality, leisure, culture, i.e. what we have started to call “social spending”. On the
+other hand, a country that puts in place a range of measures to contain the spread of the virus, will
+experience less of an economic hit, as people are relatively more willing to engage in “social spending” if it is
+associated with much lower health risks.
+Of course, the trade-off between the economy and public health does become starker at the extremes. One
+way to minimise the damage to public health is to keep everyone at home until a vaccine is found. That
+would come at an enormous cost to the economy. Instead, the government could impose measures that
+have a similar benefit to public health but less of an economic cost. My point is that, away from the extremes,
+there is a region where measures to contain the virus actually help both public health and the economy, and
+it is misleading to think that, without government restrictions, the economy would have continued to function
+as normal.
+What evidence do we have to support this claim? I will show you three different approaches to analyse this
+question. First, it is instructive to look at the precise timing of when the virus started spreading, when
+spending was starting to fall, and when government restrictions were imposed. Second, I will discuss
+evidence from neighbouring regions or countries that are quite similar to each other, but had very different
+restrictions imposed, and show that their economic outcomes did not differ that much. Third, I will present
+evidence from a cross-country analysis that I have carried out, taking into account both virus prevalence and
+government restrictions, and show the extent to which each of these affected economic outcomes.
+Several studies (e.g. Chen at al, 2020) have shown that, in the US and across many European countries,
+there was a substantial reduction in mobility and economic activity even before lockdowns took effect. In
+other words, people had already changed their own behaviour in ways that materially affected the economy
+before the government imposed a lockdown. The point is that, attributing all of the decline in economic
+activity to government restrictions is likely to be wrong if some of the decline took place before the
+restrictions were there.
+The second category of evidence that the economy-health trade-off is not that stark comes from a number of
+studies that have compared countries or areas that are similar in as many respects as possible, but have
+different government restrictions imposed on them, to tease out the direct impact of government restrictions.
+The reason this is not straightforward is because the government restrictions are not random. They are
+typically imposed after the virus starts to spread, and the more prevalent the virus, the more stringent the
+restrictions tend to be. Therefore, after the fact, it is difficult to disentangle how much of the reduction in
+aggregate spending was the result of people voluntarily restricting their own activities due to concerns about
+the virus, as opposed to the result of the government imposing restrictions.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+A study of the 1918 flu pandemic by Correia et al (2020) tackles the question by comparing economic
+outcomes in US cities that took very different approaches to imposing official restrictions, also known as
+non-pharmaceutical interventions (NPIs). The authors find that those cities that imposed more restrictions
+actually saw better economic outcomes. Lilley et al (2020) question these results, but even they do not argue
+that there is a negative relationship between restrictions and the economy, just that the impact is zero. In
+other words, restrictions that improved public health also improved economic health, or they improved public
+health and did not worsen the economy. Either way, there was no evidence of a trade-off in that period.
+Other studies have focused on the current pandemic. Fernandez-Villaverde and Jones (2020) document that
+most countries in the current pandemic fall either in a “high virus prevalence, high economic cost” or “low
+virus prevalence, low economic cost” category, which again argues against a simple trade-off where looser
+restrictions could achieve a better economy at the expense of worse public health. Baek et al (2020)
+examine the variation of unemployment claims and spending across US states that implemented restrictions
+at different times. They find that three quarters of the decline in spending or the rise in unemployment is due
+to people’s voluntary changes in spending, with only one quarter due to the additional effect of government
+restrictions. Goolsbee and Syverson (2020) examine consumer traffic using mobile phone data, and
+compare nearby areas with and without legal restrictions. They find that almost 90% of the decline in traffic is
+due to people’s voluntary response to higher virus prevalence, and a little over 10% is due to the restrictions
+themselves. Andersen et al (2020) compare spending patterns in Sweden and Denmark, and find that
+despite much milder restrictions in Sweden, consumer spending fell by nearly as much as in Denmark
+(Sweden’s fall was 85% as large as Denmark’s fall). Brzezinski et al (2020) use location data from mobile
+phones and compare it across US counties, and also find that most of the reduction in mobility is voluntary
+rather than mandated. Focusing on the ending of restrictions, rather than the start, Balla-Elliott et al (2020)
+document that firms do not immediately re-open when restrictions are lifted, also consistent with reductions
+in demand not being primarily driven by the restrictions themselves.
+The overall conclusion that I take away from this rapidly growing literature is that the bulk of spending
+reductions are due to restrictions that people voluntarily impose on themselves, not due to governmentimposed restrictions.4 People react strongly to actual or perceived virus risk, and government measures that
+reduce the spread of the virus are good for public health as well as for the economy, relative to a
+counterfactual where the virus is allowed to spread more widely.
+The third category of evidence that I want to present is some new data analysis across a large number of
+countries, taking into account both different virus prevalence and different government restrictions.
+When you look at data that only compares government restrictions and economic performance across
+countries, there appears to be a negative relationship. Tighter restrictions are associated with weaker
+economic performance. But that does not tell the full story. Correlation is not causation. We are ignoring that
+4
+
+I make this point only in relation to aggregate spending. Government restrictions can have a large effect on how that aggregate
+spending is distributed across sectors. If activities A and B are equally risky from a public health point of view, but the government
+restricts A and not B, this will cause sector A to suffer a larger economic cost than sector B.
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+the government restrictions are not random: to a large extent, governments are responding to the severity of
+the virus outbreak. More virus prevalence, measured by cases or deaths, typically leads to tighter
+government restrictions. What I am trying to uncover is to what extent the weaker economic performance is
+linked to the virus prevalence, and to what extent it is linked to government restrictions.
+This is not something that can be shown in a simple chart, since it involves more than two variables. The
+table below shows a cross-country analysis where we allow economic performance to depend on both virus
+prevalence and government restrictions. The first column in Table 1 just replicates the result that many have
+documented: in countries with tighter restrictions (NPI), the economy appears to have suffered more. But that
+analysis is only partial, in the second column we add virus prevalence (Covid) as an explanatory variable.
+The results show that virus prevalence has significant explanatory power: higher virus prevalence is
+associated with weaker economic performance. But tighter government restrictions do not appear to have a
+clear additional effect on the economy: the coefficient on government restrictions is not significantly different
+from zero.
+
+Table 1: Results of instrumental variables estimation
+
+Notes: For all columns, the dependent variable is the change in real GDP from 2019 Q4 to 2020 Q2. The sample
+comprises 53 countries for which Q2 GDP growth was available on Refinitiv Datastream at the time of estimation. The
+implementation of non-pharmaceutical interventions (NPI) in each country is measured by the average of the Oxford
+Stringency Index (Hale et al. 2020) over the quarter; the outbreak severity variable Covid denotes new Covid-19 deaths
+per 1 million pop within the quarter as reported on Refinitiv Datastream. For the instrumental variables (IV) specifications,
+the instrument set includes lags of all endogenous variables as well as outbreak severity within the country’s UN M49
+intermediate region but excluding its own outbreak. The IV2 specification adds also average stringency within the region
+(excluding own) and the number of days in 2020 until the country first crossed 3 deaths per million to the instrument set.
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+However, the simple estimation method (OLS) in the first two columns might be biased.5 The third and fourth
+columns aims to reduce the bias from endogeneity by allowing for the possibility that consumer choices,
+virus prevalence and government restrictions affect each other, which seems likely. When we do this we find
+higher coefficients on both variables. However, while the estimated impact of the prevalence of the virus
+remains statistically significant, the estimated impact of government restrictions on economic performance is
+still not statistically significant. Experimenting with a third specification to include a richer set of instruments,
+we still find that the impact of government restrictions in explaining cross-country economic differences is not
+statistically significant, while the estimated impact of the prevalence of the virus remains statistically
+significant.6
+This is not the final word on this issue. Many more studies will be carried out in the future, using more and
+better data, and in particular using the additional variation from subsequent recoveries and from second
+waves of the virus. So I urge you to take my results as imprecise and preliminary. Moreover, governments,
+households and firms are learning as the pandemic progresses, and may make different decisions in the
+current (second) wave than they did in the first wave.
+Nevertheless, the findings from this preliminary cross-country data analysis are consistent with the other
+evidence I have considered. Virus prevalence has a clear direct impact on aggregate economic performance.
+Government restrictions, on the other hand, have had a much smaller additional direct impact on aggregate
+economic performance so far, once we account for the prevalence of the virus.
+It is important to be quite clear about what I am saying here. I am not saying that government restrictions do
+not matter. They matter a lot. They help suppress the virus7, and suppressing the virus is good for public
+health and good for the economy. But good for the economy is a subtle concept here, because it means
+good relative to a scenario where the virus is not suppressed, which would result in a lot of economic
+damage. I am also not saying that there is no health/economy trade-off at all. Governments are carefully
+trying to implement measures that have a large impact on the spread of the virus while minimising the
+adverse impact on the economy.
+What I am saying is that, so far, the differing economic performance across countries does not appear to be
+primarily explained by governments making different choices along a health/economy trade-off. And it is
+striking that this is a repeat of the patterns we also observed in the 1918 pandemic.
+
+5
+
+Because economic performance depends on social consumption choices, virus prevalence and government restrictions, but
+government restrictions and virus prevalence also affect each other and are affected by social consumption choices, the estimates
+might suffer from endogeneity bias. We therefore need to use instrumental variables to capture only plausibly exogenous variation in
+government restrictions and virus prevalence to estimate the impact on economic activity.
+6
+Casselli et al (2020) in an IMF study run a similar cross-country regression, but use cases rather than deaths as the Covid variable,
+and do not use IV estimation. They find that restrictions do have a significant effect on the economy, over and above Covid, but for
+advanced economies the majority of the economic differences across countries are explained by Covid effects rather than the effects of
+restrictions, broadly consistent with all the other evidence that I have cited.
+7
+Multiple studies have established the efficacy of non-pharmaceutical interventions in suppressing the spread of the virus relying on
+various statistical methods (e.g. Hsiang et al. 2020). Islam et al. (2020) and Ali et al. (2020) use interrupted time series methods to
+evaluate the effect of lockdown orders across countries. Using a synthetic control approach, Born, Dietrich and Müller (2020) study the
+Swedish experience compared to its neighbours.
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+3. The outlook for the economy: temporary or persistent sectoral change?
+When thinking about how the economy might evolve next, this analysis has important implications. It
+suggests that, as long as there is enough virus prevalence to cause people to worry about risks to their own
+health, it is likely to cause a drag on economic activity.
+The increase in virus prevalence since the summer as shown in Chart 5 is therefore both a public health
+concern and an economic concern. In terms of the economic outlook, it represents to some extent a
+crystallisation of the downside risks that the MPC has highlighted in our communications in the past six
+months. The speed of the recovery is likely to be slower while the virus prevalence remains a concern, with
+risks of a higher and/or more prolonged trajectory of job losses.
+Chart 5: Virus prevalence in England
+95% credibility interval
+Estimated percentage of population testing positive
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+
+0.2
+0.1
+0
+May
+
+June
+
+July
+
+August
+
+September
+
+October
+
+Source: ONS. Latest observation: 08 October 2020.
+
+What to make then, of the fact that so far, the economy has recovered rapidly? For example, retail sales
+have already returned to the levels seen at the start of year. Does that not suggest that the economy is
+returning to “normal”?
+There are two points I want to make here.
+First, looking into the detail of consumer spending, it seems there have been large reallocations across time
+and across sectors, changes which are not entirely reassuring.
+Second, even though retail sales are back to the levels seen at the start of the year, indicators related to
+investment remain very weak indeed.
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+Chart 6: High-frequency spending indicators
+Social
+Delayable
+
+Work-related
+Staples
+
+Aggregate
+40
+20
+0
+-20
+-40
+-60
+-80
+-100
+
+March
+
+April
+
+May
+
+June
+
+July
+
+August
+
+September October
+
+Source: Bank of England and Bank calculations. Notes: Based on the CHAPS payments that a sample of around 90 UK
+companies receive from their merchant acquirers on a daily basis. These payments reflect the sales that companies
+make through debit and credit card purchases, which are summed to estimate rolling seven-day revenues. Latest
+observation: 07 October 2020.
+
+Chart 6 shows the evolution of consumer spending in a range of categories. It shows that while some
+categories of spending fell sharply and recovered little, other categories are now above their levels of the
+start of the year.
+This strong substitution across categories of spending is in some respects reassuring. It shows that, when
+consumers cut back social spending, they increased spending in other categories. That is a positive
+development, because the economy would have suffered even more if consumers had not made these
+substitutions.
+But it is not only a positive development. These substitutions also imply risks to the future.
+Some of the rapid increases in spending in recent months reflect pent-up demand. For example, those
+consumers who did not buy a car in April or May ended up buying a car in July. But customers who were
+planning to buy a car in July all along still bought a car in July. So July was an unusually strong month for car
+sales, as it partly reflected postponed sales from earlier in the year (Chart 7). Consumers have substituted
+demand across time: less in the second quarter, more in the third quarter. The strength of car sales during
+such a period of pent-up demand is not a good indicator of underlying demand. In the subsequent months,
+we should expect car sales to ease back, and indeed the data already show this pattern of easing back.
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+Chart 7: SMMT car registrations
+SMMT registrations private (% change over 2019Q4)
+SMMT registrations business & fleet (% change over 2019Q4)
+40
+20
+0
+-20
+-40
+-60
+
+-80
+
+January February
+
+March
+
+April
+
+May
+
+June
+
+July
+
+-100
+August September
+
+Source: Society of Motor Manufacturers and Traders. Latest observation: September 2020.
+
+Cars is just one example, but the principle applies to other durable goods as well, such as housing and
+housing-related goods. So to the extent that total consumer spending is being supported by pent-up
+demand, we should not take too much comfort from it, as this is expected to be a temporary boost that is
+either already fading, or is expected to fade in the coming months and quarters.
+There is also a different type of substitution, not across time, but across sectors. For example, if consumers
+spend less on hospitality and travel, they might spend more on food and drink at home, or buy a nicer
+television, or subscribe to more TV streaming services. Again, these are useful and welcome substitutions,
+because without them, the economy would have been worse off.
+But these substitutions across sectors also add great uncertainty to the outlook.
+The scale of the substitution, or reallocation, is absolutely remarkable, as Chart 8 shows. This chart needs a
+few words of explanation. What I have done is to take each sector of the economy, measure how its share in
+GDP has changed from one period to the next, and then measure how wide the distribution of changes is. If
+all sectors decline or rise by the same amount, the indicator will be zero. The more there is a wide dispersion
+between some sectors that are suffering declines and others that are rising, the higher the indicator. What
+the chart show is that, before the pandemic, the share of each sector in the economy changed little from
+quarter to quarter, by around 0.05 percentage points. In other words, most sectors in the economy rose and
+fell by similar amounts. But during the pandemic, the changes were around 0.5 percentage point, an order of
+magnitude larger. So some sectors declined by very large amounts while other remained little changed or
+even increased. And this has happened on a completely different scale to, for example, the experience of the
+global financial crisis. We are really not all in this together. It is far, far worse for some than for others.
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+Chart 8: Dispersion of changes in GDP weights (percentage points quarter-on-quarter)
+Dispersion - change in GDP weights (74 sectors)
+
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020
+
+Source: Refinitiv Datastream, Bank calculations. Latest observation: 2020 Q2. Data series shows the cross-sectional
+standard deviation, period by period, of changes in each sector’s GDP weights.
+
+If this reallocation across sectors is temporary, it need not necessarily have macroeconomic consequences
+that are different from a downturn where all sectors fall by a similar amount. If the sectors that have been hit
+hardest experience a rapid normalisation in output and employment, there is no lasting reallocation of
+resources: each sector returns to its pre-Covid level of activity.
+However, some of the reallocation is likely to persist. People might have persistently lower appetite for
+business travel, with all the related airline, hotel, restaurant, conference facility spending that this is normally
+associated with. People might have persistently lower appetite for spending five days per week in the office,
+with a related reduction in spending on office space, on commuter travel, on food and drink consumed near
+the workplace. And on-line shopping, which in any case was already growing more rapidly than bricks-andmortar retail, is likely to become even more prevalent in the future.
+These persistent reallocations will require workers in declining sectors to find work in expanding sectors. It
+will require disinvestment by firms in declining sectors and new investment in expanding sectors. To some
+extent, the economy goes through such reallocations all the time. Think of the decline in farming as share of
+employment, a trend which has been in place for several centuries. Or the decline in the manufacturing
+share of employment, offset by the rise in the share of services employment, a trend which has been in place
+for half a century. The question is, can the economy cope with a potentially large reallocation in a short
+space of time without causing some temporary unemployment?
+A related challenge is uncertainty: I do not know which of the very large reallocations that we have just
+experienced will be temporary, and which will persist. Neither does anyone else. And that uncertainty has
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+12
+
+macroeconomic consequences. Firms in expanding sectors will be less willing to invest and hire if they do
+not know to what extent the strong demand in their sector is temporary or permanent. That in turn means
+that new employment and new investment in expanding sectors might not be strong enough to offset a
+reduction in employment and investment in declining sectors. Given enough time, the economy will
+eventually adjust. But a concern for monetary policy is whether that adjustment involves a longer period of
+slack, of higher unemployment, so that demand falls short of potential supply.
+Potential supply itself is likely to be affected as well, although the direction is unclear. The fact that workers
+that newly enter a sector need some time to learn and adjust generally acts as a drag on potential supply,
+but the batting average effect of workers joining higher productivity sectors would push in the other direction.
+This uncertainty about the scale and persistence of reallocation of activity across sectors, comes at a time
+when the transition period agreed to in the UK Withdrawal Agreement is coming to an end, and new trading
+arrangements with the EU and other countries come into effect from 1 January 2021. The MPC has
+previously discussed, at length, the evidence that this uncertainty that firms face about how the economy will
+adjust to future trading arrangements has been weighing on investment (Bank of England 2019, see also
+Bloom et al. 2019) Given time, the economy will adjust, but the concern for monetary policy is whether and to
+what extent there is a shortfall of demand relative to supply in the intervening period.
+For now, it is striking that, although indicators related to aggregate consumer spending have returned to
+levels seen at the start of the year (even if some of that strength is temporary), indicators related to
+investment (Chart 9) and employment intentions (Chart 10) have remained quite weak.
+Chart 9: BCC investment intentions
+
+Chart 10: BCC employment intentions
+
+BCC manufacturing investment intentions
+BCC services investment intentions
+
+BCC manufacturing employment expectations
+BCC services employment expectations
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+
+-10
+
+-10
+
+-20
+
+-20
+
+-30
+
+-30
+
+-40
+
+-40
+
+-50
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+-50
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+Source: British Chambers of Commerce. Latest
+
+Source: British Chambers of Commerce. Latest
+
+observation: 2020 Q3.
+
+observation: 2020 Q3.
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+13
+
+4. The outlook for monetary policy
+The economy is going through a process of unprecedented reallocation across sectors. Some sectors of the
+economy have suffered tremendously, others have been less affected and some have seen increased
+demand. The fact that the economic hit has been so unevenly distributed has meant that fiscal policy has
+appropriately made a far larger contribution to the economy than monetary policy. Unlike monetary policy,
+which can generally only stimulate aggregate demand and inflation, fiscal policy can directly reach those who
+are suffering most.8
+But monetary policy has also played a role and is continuing to play a role, contributing to attenuating the
+impact of the health crisis, in both scale and duration, on jobs and income. Monetary policy will continue to
+ensure that financing for households and businesses remains available at low cost, and will continue to act
+against any unwarranted rise in borrowing cost due to financial market instability, in order to support demand
+and, ultimately, to return inflation to target and keep inflation expectations anchored.
+Policy rates and long-term interest rates are very low. But despite this monetary policy stance, investment is
+weak, vacancies are low, and around 9% of the private sector workforce has yet to be reintegrated into the
+labour market from their current furloughed status. The scale and persistence of the economy’s reallocation
+across sectors, associated with both the pandemic and with Brexit, is likely to weigh on employment and
+investment.
+The risks to the economic outlook are skewed towards a longer period of labour market slack with weak
+inflationary pressure. The risks to the monetary policy stance are therefore skewed towards additional
+monetary stimulus.
+Additional asset purchases remain an available policy tool. They have served us well so far. However, I
+continue9 to stress that the effects of QE are state-dependent, and that a key channel through which QE
+works is by affecting expected future real interest rates, which are already very low. These arguments
+suggest QE is probably less potent now than in March, at the height of market disruption and uncertainty.
+The MPC has also been discussing the possibility of further interest rate cuts in the future, into negative
+territory. Let me reflect briefly on this. On several occasions in the past decade, the MPC has discussed the
+effective lower bound, i.e. how low interest rates can go before they become counterproductive to the aims of
+monetary policy. In 2016, the MPC concluded that the effective lower bound was “close to, but above 0%”.
+Over the past few years, several countries have cut interest rates into negative territory. We have now
+accumulated a range of evidence about how effective negative rates have been in terms of stimulating
+
+8
+
+In a highly stylised model, Woodford (2020) shows that the highly uneven sectoral nature of the economic shock from Covid means
+that monetary policy cannot eliminate some of the “effective demand” shortfall. This is not because of any limits to our toolkit, but
+because monetary stimulus is incapable of providing the right stimulus needed (similar to La’O and Tahbez-Salehi, 2020). For example,
+if sector A needs to be closed for public health reasons, there is no way for monetary policy to redirect income back towards sector A to
+allow sector A workers to maintain their income levels. Only fiscal policy can address this particular misallocation problem.
+9
+I first made this point in Vlieghe (2018).
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+14
+
+demand and inflation in other countries. There is some debate about the scale of the stimulus that negative
+rates have imparted on these economies, but the growing empirical literature finds that the effect has
+generally been positive, i.e. negative rates have not been counterproductive to the aims of monetary policy.10
+The question the MPC is currently tackling is whether there is any reason to think that the UK experience
+might be different, either because of differences in the structure of the UK’s financial system, or because of
+the different circumstances in which negative interest rates are now being contemplated. A move to negative
+rates, if it happens, would require three conditions to be met: it must be feasible, effective and appropriate.
+Feasible refers to the financial system being able to cope, operationally, with negative rates.11 Effective
+refers to the benefits of negative rates outweighing the costs by a sufficient margin, i.e. negative rates should
+not be counterproductive to the aims of monetary policy. Appropriate refers to the economy actually requiring
+more monetary stimulus in order to meet the inflation target.12
+My own view is that the risk that negative rates end up being counterproductive to the aims of monetary
+policy is low. Since it has not been tried in the UK, there is uncertainty about this judgement, and the MPC is
+not at a point yet when it can reach a conclusion on this issue. But given how low short term and long term
+interest rates already are, headroom for monetary policy is limited, and we must consider ways to extend that
+headroom.
+To conclude: I have made the case that, while the economy so far has grown quickly, we must not lose track
+of where we are. There is a tremendous challenge ahead. GDP and labour market indicators stand at levels
+that are below what has historically been the trough of a recession. Given that virus prevalence has been
+increasing again recently, it is likely to weigh more heavily on economic activity. Indeed, it appears that the
+downside risks to the economic outlook are starting to materialise. In my view, the outlook for monetary
+policy is skewed towards adding further stimulus.
+
+10
+
+A number of papers document the beneficial effects of negative policy rates on bank lending and the wider macroeconomy (e.g.
+Rostagno et al. 2019, Boucinha & Burlon 2020, Demiralp et al. 2019, Altavilla et al. 2019). For certain caveats, see Heider et al. (2019).
+For theoretical papers that suggest negative rates can be counterproductive under certain circumstances see Brunnermeier and Koby
+(2019) and Eggertsson et al. (2019).
+11
+To assess operational readiness, the Bank and PRA have commenced structural engagement with financial institutions. See
+https://www.bankofengland.co.uk/prudential-regulation/letter/2020/info-request-operational-readiness-policy-rates
+12
+These criteria are likely to evolve gradually over time, as the structure of the financial system is never fixed, and specifically as the
+financial system adjust further to a low interest rate environment.
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+15
+
+References
+Ali, M., Y. Samhouri, M. Sabha, and L. Alnimer (2020), ‘England's Lockdown vs. Sweden's Herd Immunity:
+A Comparison of the Daily New COVID-19 Cases and Related Deaths Using Comparative Interrupted Time
+Series Analysis’, unpublished working paper available at
+https://www.medrxiv.org/content/10.1101/2020.08.13.20174706v1
+Altavilla, C., L. Burlon, M. Giannetti, and S. Holton (2019), ‘Is there a zero lower bound? The effects of
+negative policy rates on banks and firms’, ECB Working Paper No. 2289.
+Andersen, A., E. Hansen, N Johannesen, and A. Sheridan (2020), ‘Pandemic, Shutdown and Consumer
+Spending: Lessons from Scandinavian Policy Responses to COVID-19’, unpublished working paper
+available at https://arxiv.org/abs/2005.04630
+Baek, C., P. McCrory, T. Messer, and P. Mui (2020), ‘Unemployment Effects of Stay-at-Home Orders:
+Evidence from High Frequency Claims Data’, IRLE Working Papers.
+Balla-Elliott, D., Z. Cullen, E. Glaeser, M. Luca, and C. Stanton (2020), ‘Business Reopening Decisions
+and Demand Forecasts During the COVID-19 Pandemic’, NBER Working Paper No. 27362.
+Bank of England Monetary Policy Committee (2019), ‘Monetary Policy Report - November 2019’,
+available at https://www.bankofengland.co.uk/monetary-policy-report/2019/november-2019
+Bloom, N., P. Bunn, S. Chen, P. Mizen, P. Smietanka, and G. Thwaites (2019), ‘The Impact of Brexit on
+UK Firms’, Bank of England Staff Working Paper No. 818.
+Born, B., A. Dietrich, and G. Müller (2020), ‘The Lockdown Effect: A Counterfactual for Sweden’. CEPR
+Discussion Paper DP14744.
+Brunnermeier, M. and Y. Koby (2018), ‘The Reversal Interest Rate’, NBER Working Paper No. 25406.
+Brzezinski, A., D. Van Dijcke, and V. Kecht (2020), ‘The Cost of Staying Open: Voluntary Social Distancing
+and Lockdowns in the US’, University of Oxford Economics Series Working Papers.
+Boucinha, M. and L. Burlon (2020), ‘Negative rates and the transmission of monetary policy’, ECB
+Economic Bulletin 3/2020.
+Caselli, F., F. Grigoli, W. Lian, and D. Sandri (2020), ‘The Great Lockdown: Dissecting the Economic
+Effects’, in IMF World Economic Outlook October 2020.
+Chen, S., D. Igan, N. Pierri, and A. Presbitero (2020), ‘Tracking the Economic Impact of COVID-19 and
+Mitigation Policies in Europe and the United States’. IMF Working Papers.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+16
+
+Correia, S., S. Luck, and E. Verner (2020), ‘Pandemics Depress the Economy, Public Health Interventions
+Do Not: Evidence from the 1918 Flu’, unpublished working paper available at
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3561560
+Demiralp, S., J. Eisenschmidt, and T. Vlassopoulos (2019), ‘Negative Interest Rates, Excess Liquidity
+and Retail Deposits: Banks' Reaction to Unconventional Monetary Policy in the Euro Area’, ECB Working
+Paper No. 2283.
+Eggertsson, G., R. Juelsrud, L. Summers, and E. Wold (2019), ‘Negative Nominal Interest Rates and the
+Bank Lending Channel’, NBER Working Paper No. 25416.
+Fernández-Villaverde, J., and C. Jones (2020), ‘Macroeconomic Outcomes and COVID-19: A Progress
+Report’, BPEA Conference Drafts.
+Goolsbee, A. and C. Syverson (2020), ‘Fear, Lockdown, and Diversion: Comparing Drivers of Pandemic
+Economic Decline 2020’, NBER Working Paper No. 27432.
+Hale, T., N. Angrist, E. Cameron-Blake, L. Hallas, B. Kira, S. Majumdar, A. Petherick, T. Phillips, H.
+Tatlow, and S. Webster (2020), ‘Oxford COVID-19 Government Response Tracker’, available at
+https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
+Heider, F., F. Saidi, and G. Schepens (2019), ‘Life below zero: Bank lending under negative policy rates’,
+Review of Financial Studies, 32(10), 3728-3761.
+Hsiang, S., D. Allen, S. Annan-Phan, K. Bell, I. Bolliger, T. Chong, H. Druckenmiller, L. Yue Huang, A.
+Hultgren, E. Krasovich, P. Lau, J. Lee, E. Rolf, J. Tseng, and T. Wu (2020), ‘The Effect of Large-Scale
+Anti-Contagion Policies on the COVID-19 Pandemic’, Nature 584: 262-267.
+Islam, N., S. Sharp, G. Chowell, S. Shabnam, I. Kawachi, B. Lacey, J. Massaro, R. D'Agostino Sr., and
+M. White (2020), ‘Physical Distancing Interventions and Incidence of Coronavirus Disease 2019: Natural
+Experiment in 149 Countries’, BMJ 370.
+La'O, J. and A. Tahbez-Salehi (2020), ‘Optimal Monetary Policy in Production Networks’, NBER Working
+Paper No. 27464.
+Lilley, A., M. Lilley, and G. Rinaldi (2020), ‘Public Health Interventions and Economic Growth: Revisiting
+the Spanish Flu Evidence’, unpublished working paper available at
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3590008
+Rostagno, M., C. Altavilla, G. Carboni, W. Lemke, R. Motto, A. Saint Guilhem, and J. Yiangou (2019),
+‘A tale of two decades: the ECB’s monetary policy at 20’, ECB Working Paper No. 2346.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+17
+
+Vlieghe, G. (2018), ‘The Yield Curve and QE’, speech available at:
+https://www.bankofengland.co.uk/speech/2018/gertjan-vlieghe-imperial-college-business-school-london
+Woodford, M. (2020), ‘Effective Demand Failures and the Limits of Monetary Stabilization Policy’, NBER
+Working Paper No. 27768.
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+18
+
+

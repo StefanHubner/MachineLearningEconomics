@@ -1,0 +1,445 @@
+The Dash for Cash and the Liquidity Multiplier: Lessons from
+March 2020
+Speech given by
+Anil Kashyap, External member of the Financial Policy Committee
+
+London Business School, AQR Asset Management Institute Virtual Summit
+17 November 2020
+
+I thank members of the FPC for ongoing conversations on these issues, as well as Lee Foulger,
+Andrew Hauser, and especially Imane Bakkar, Bernat Gual-Ricart, Nick Jackson, Grainne McGread,
+and Matt Roberts-Sklar for comments on this speech. The views here are my own and not
+necessarily those of other members of any of Bank of England’s policy committees.
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+Introduction
+Thanks for having me. I was hoping to be here in person and look forward to seeing everyone face to face as
+soon as that is safe to do.
+I am especially pleased to be speaking at the event organised by London Business School’s AQR Asset
+Management Institute. AQR Capital Management was founded by several alumni of my home academic
+institution and I actually interviewed
+Cliff Asness (the A in AQR) at a conference last week. Cliff and his colleagues are super thoughtful and I am
+sure that the interaction with the LBS faculty is rewarding for you and them.
+Today, I am here in my capacity as an external member of the UK Financial Policy Committee.
+Our Committee was created after the last financial crisis to try to make sure that the UK financial system is
+resilient to, and prepared for, the wide range of risks it could face. Our Committee mantra is that we want
+the financial system to be able to serve UK households and businesses in bad times as well as good.1 I
+would like to share my thinking about some of the lessons about financial stability risks that became evident
+after the market disruptions in March of this year.
+The financial system plays three critical roles for society: it funnels savings to people who want to borrow, it
+helps people and businesses share risks, and it supports economic exchange by facilitating payments. I
+want to start by noting that more and more of these functions are being conducted outside of what you’d
+traditionally think of as the banking system (Figure 1). The landscape of the market-based finance (MBF)
+system is quite diverse and includes securities and derivatives dealers, asset managers, pension funds,
+insurers, and a wide range of investment funds and money market funds (MMF). More important than the
+exact numbers in the chart is the direction of travel, I expect the growth of MBF to continue for the
+foreseeable future.
+
+For more background on how the FPC operates see ‘Come with me to the FPC’, Speech by Anil Kashyap given at the Official
+Monetary and Financial Institutions Forum, 13 June 2018 and ‘My Reflections on the FPC’s Strategy” Speech by Anil Kashyap at the
+“50th Anniversary of the Journal of Money, Credit and Banking, Frankfurt, 28th March 2019.
+1
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+Figure 1: The share of non-bank UK financial sector assets has grown over the past decade
+
+Sources: The Association for Financial Markets in Europe, Bank of England, Bloomberg Finance L.P, FCA, Morningstar, ONS,
+published accounts and Bank calculations.
+
+In March, the news about the pandemic led investors to revise their views about risks and many asset prices
+needed to adjust. There are now lots of narratives about what happened – I particularly recommend two
+accounts by Jon Cunliffe and Andrew Hauser given in June2. I want to home in on one important part of the
+story, how the chains of entities that exist in the MBF system can contribute to problems during periods of
+stress.
+This leads me to focus on funding flows between different parts of the system. I will introduce the concept of
+a liquidity multiplier that is created by the presence of the chains and give some first thoughts on how this
+multiplier can create fragility. This analysis draws heavily on ongoing work that you will be hearing more
+about from the Financial Policy Committee in the coming year. So my comments today should be viewed as
+an opening of a conversation rather than a final word.
+I will split the rest of my remarks up into four parts. First, I will describe a funding chain that is typical of those
+in the MBF system. We will see that these chains can create five types of funding linkages. Next, I will
+briefly review the events of March that are relevant for these linkages. Third, I will give some illustrative
+calculations about how the liquidity multiplier can operate. Finally, I will pose some of the policy questions
+that arise because of these chains and the liquidity multiplier.
+
+2
+
+Seven Moments in Spring (Andrew Hauser, 4 June 2020); Financial System Resilience (Jon Cunliffe, 9 June 2020).
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+Funding chains in market-based finance
+As I already noted the financial system serves many purposes. Let’s start by reviewing an illustrative chain
+that is motivated by US patterns. I pick this one, precisely because I do not want to open a debate about the
+structure of the UK market based financial system. Put differently, my goal today is to make some analytic
+points rather than to present a map of the UK financial system with realistic estimates of funding flows.
+So consider a defined benefit pension fund manager (PF) who needs to keep some liquid assets to pay out
+upcoming pension payments and meet margin calls on derivatives. Suppose the PF wants to diversify her
+counterparty risk, improve her cash management, and perhaps improve her returns. She can take some of
+her bank deposits that she holds to meet immediate outflows, and place some of them into a money market
+fund (MMF). This holding is redeemable and may offer a better yield than a bank account.3 The MMF can
+do many things with the cash. The options include: on-depositing it at a bank; purchasing short-term paper,
+typically of other financial institutions; purchasing government debt; or lending the cash out via reverse repo,
+receiving a bond as collateral. Suppose the last choice is made, with a broker-dealer (BD) borrowing the
+cash. The contract might be for one night so as to ensure the MMF can get the money back if it faces
+redemptions. The broker-dealer can then lend the cash on to a client, say a hedge fund (HF), often in a
+term-reverse repo transaction (so the broker dealer faces a maturity mismatch by delivering its client some
+funding stability). The HF can then use the loan to invest (for instance, in government bonds).
+One common hedge fund investment strategy is the so called cash-futures basis trade that Jon Cunliffe
+talked about last week.4 Jon described this in detail, so I will be brief here. This trade is usually described as
+a convergence trade where the hedge fund attempts to correct perceived mispricing between futures and
+cash prices of sovereign bonds. It is worth thinking a bit about why this opportunity exists. My view is that it is
+a consequence of other actors in the MBF system trying to enhance their returns.
+For example, an asset manager of a long-term government bond fund who seeks to boost returns may
+choose to buy futures contracts to meet its investment mandate, and then take funds that would otherwise
+have been used on government bonds to buy higher yielding securities. This decision has several knock-on
+effects. First, the asset manager has to make some margin payments against the futures contract. Second,
+if this strategy is done in scale, the futures price will be slightly distorted relative to the underlying bonds, and
+will trade at a higher price than otherwise. Third, someone has to be selling the futures contract to the asset
+manager (via the exchange). If the price is distorted, it’s likely to be hedge funds stepping in to correct the
+mispricing. Whoever is performing the arbitrage will also post margin.5 The hedge fund then buys bonds
+and pockets the differences in the prices. These deviations are small, and as Jon explained in his speech,
+3
+
+For simplicity, here, I am ignoring the fact that many assets owned by the MMF invests are not liquid, so that the actual ability to meet
+redemptions can be another source of problems (see the August 2020 Financial Stability Report).
+4
+The impact of leveraged investors on market liquidity and financial stability (Jon Cunliffe, 12 November 2020)
+5
+Margin payments are also needed to support other common trading arrangements in the MBF system. For example a typical liability
+driven investment strategy involves hedging, in whole or in part, the fund's exposure to changes in interest rates and inflation using
+swaps and other derivatives. In March, large margin calls on derivatives positions such as these, as well as currency swaps, forced
+pension funds, insurers and investment funds to raise cash through repo or asset sales of bonds.
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+that means the hedge funds would use considerable leverage to boost the returns. We will see shortly why
+this leverage can matter.
+Notice that the individual firms in these examples have good reasons to conduct these transactions. They all
+are motivated by improving returns and recycling collateral in efficient ways. In particular, when a pension
+fund manager boosts returns by borrowing to fund a position, the better returns for the pension fund will
+mean less pressure on corporate sponsors to fill deficits. Collateralised borrowing and lending is a relatively
+safe and cheap way to organise loans. The arbitrage trade reduces discrepancies in price between
+securities and in this case lowers borrowing costs for the government and ultimately the taxpayer.
+Nonetheless, these chains create interconnections and can create contagion in liquidity demands.
+Generically, there are five ways that they can create funding needs for the various parties in the transactions.
+First, any derivatives trading involves margin payments that protect both parties in the contract from future
+price movements. There are two different types of margin payments, the initial amount posted that accounts
+for typical price fluctuations that might occur (initial margin), which may need to be topped up when volatility
+increases, and the so-called variation margin that reflects changes in the mark-to-market value of the
+derivatives positions, shifting money from losers to winners.
+Next, there is the possibility of a redemption. Any investor in the money market fund may need their funds
+back and so could make a withdrawal. In this case, the money market fund must find a way to meet the
+redemption.
+Finally, access to repo funding can change in two potentially offsetting ways. Many repurchase agreements
+are relatively short maturity and lenders may choose not to roll over the funding, or to charge a much higher
+price. On the other hand, broker dealers are providing an essential service to their clients by offering funding
+in the repo market, if a client requests additional funding, a broker that refuses to provide it risks losing the
+client.6 So a BD could have to extend additional funding, even if it would prefer not to. So observed repo
+volumes will reflect the balance of loans that were not rolled over and loans that were reluctantly granted.7
+We will see in a moment how all this fits together, however, before turning to any hypothetical examples, let
+me relate all this to what we saw happening at the outset of the pandemic.
+
+6
+
+One of the lessons from the financial crisis is that having only a single broker dealer was risky and most firms that rely on brokers now
+split their business across several brokers.
+7
+A similar issue can arise in other versions of the chain. For instance, if MMF refuses to continue to buy commercial paper, the paper
+issuer may draw on a backup line of credit to roll over its funding.
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+The March ‘dash for cash’
+March saw the deterioration of economic prospects and heightened uncertainty due to Covid. Loosely
+speaking, investors moved out of risky assets into safe assets as a result. There was also a heightened
+concern that the situation could deteriorate further so it is likely that some actors became more cautious
+about lending and retained funds on a precautionary basis. The asset price moves and increased volatility
+also led to large variation margin payments and higher initial margin requirements.
+As I already said, there are now many detailed accounts of the sequence of events in March both in
+Bank of England speeches and in staff analyses. 8 So I am not going to recount this part of the episode.
+Instead, I want to highlight what we know about changes in liquidity positions through the five channels I just
+mentioned. One of my punchlines is that our measurement of liquidity positions and funding flows is poor
+and is where much more work, including international cooperation is needed. So what I will describe is partly
+a reflection of what we can measure, which is not necessarily what we would like to measure.
+First, asset prices in March became much more volatile. Figure 2 shows market liquidity deteriorating in
+March as a result, which then fed back through to price volatility (Figure 3). This mechanically means that
+both types of margins will rise. Market data such as prices, volumes, and even liquidity metrics are
+reasonably easy to measure, margin increases are generally more opaque. There is good data on margins
+for cleared derivatives via supervisors of central counterparties.9 However, data on margins for non-cleared
+derivatives are patchy at best, obtained either from firms via supervisory intelligence or estimated from
+derivatives positions data.
+
+Figure 2: Bid-offer spreads in selected gilts
+
+Figure 3: Year-to-date changes in 10-year nominal
+yields
+
+Source: Eikon from Refinitiv and Bank calculations.
+
+Source: Bloomberg Finance L.P. and Bank calculations.
+
+8
+
+In addition to the speeches outlined in footnote 1 please see the Bank of England May 2020 Interim Financial Stability Report.
+However, these cleared margin data only allow us to see whether margin was paid/received by clearing members or their clients, not
+which type of entity the clients were.
+9
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+Figures 4 and 5 show the levels of initial margin and variation margin that were posted during the stress for
+UK centralized counterparties (CCPs). There were significant increases in initial and variation margin calls,
+on both cleared and uncleared derivatives. At the peak in March, daily gross variation margin calls — which
+mirror moves in underlying markets — by CCPs were five times higher than the average in January–
+February, at around £30 billion, and for initial margin the January to March trough to peak increase is around
+£75bn.
+Figure 4: Variation margin on centrally cleared
+derivatives
+
+Figure 5: Total initial margin requirements across
+all UK CCPs
+
+Source: Bank of England supervisory returns.
+Source: Bank of England supervisory returns.
+
+Next consider redemptions from MMFs. Here again, historical data is not readily available so we have few
+periods of stress for comparison. Figure 6 shows the outflows over the last few years, and you can see that
+March was an outlier.
+Figure 6: GBP MMFs weekly outflows
+
+Source: Crane data and Bank calculations
+Note: Large inflows that occurred as a result of new funds being introduced to the sample have been removed.
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+Finally, we have very detailed transaction data on the gilt repo market.10. We can see transaction volumes
+(Figure 7), and prices and who traded with who. But we have no direct way to observe whether there was
+rationing or whether dealers were being asked by clients to extend funding that they would have rather not
+granted. For that, we can supplement our data analysis with market and supervisory intelligence. In March,
+lending to clients in repo went up quite a bit, while lending by clients actually contracted. The disruption in
+prices confirms that repo borrowing outstripped repo lending
+Figure 7: Changes in repo stock from January 2020 average
+
+Source: Bank of England Sterling Money Market data collection and Bank calculations
+Note: For all gilt repo and reverse gilt repo maturities up to one year. Non-banks include: Hedge Funds, Pension Funds, Liability
+Driven Investment Asset Managers, and Insurers
+
+As we all observed, central banks responded to the market turmoil with massive force. For instance, the
+Bank of England’s purchases of gilts were increased by £200bn in March 2020 and will total £875bn. The
+Federal Reserve’s response also was enormous, and came via the introduction of multiple programs.
+Ultimately, markets did calm down. However, the large central bank responses seem to far exceed the need
+for funding. Understanding the full palliative effects of the interventions is an area of active research. In the
+meantime, can we understand why the amount deployed might have needed to be so large?
+A liquidity multiplier model can help us understand risks to financial stability.
+To assess magnitudes, I believe we need to understand how the actors in the chains I described earlier
+interact. The key insight is that interactions create a cumulative need for liquidity that can far exceed the
+liquidity needs of any one party in the chain. As an analogy, recall the money multiplier that many of you
+were taught in your basic macro class at University.
+
+10
+
+See “Sterling money markets: beneath the surface”
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+In the case of the money multiplier, the question asked is what happens when the central bank makes an
+open market purchase (of say £1000) and pays for the securities it acquires with reserves. Textbooks
+suppose that the initial £1000 becomes available to the banking system to lend. So some fraction of the
+reserves will be lent to a borrower. That borrower will choose how much of the loan to hold in currency and
+how much to redeposit. We then explain that the money will be redeposited and this allows the bank to lend
+another fraction of that redeposit to a new borrower. The new borrower will retain some of the loan and
+redeposit the remainder. The public in this examples views both currency and deposits as “money”.
+The ultimate size of the increase in money in the example will far exceed the £1000 because of the relending
+and redepositing. The gap in the simple example depends on just two behavioural choices: the fraction of
+deposits that banks opt to re-lend and the fraction of each loan that borrowers opt to re-deposit. If each
+borrower redeposited half of the money it received and the banks always retained half of what they got and
+lent the other half, the total size of the increase in the money supply would be £1500.11
+As we will now see, the chain I have described is one example of how funds are recycled in the market
+based financial system. In this case, at each link in the chain, one party’s perceived liquid asset is another
+party’s (runnable) liability. The exception to this rule is when a party accesses the banking system either to
+make a payment or draw down a deposit account rather than getting funding from another counterparty in
+the chain. In that case, bank liquidity rules and access to central bank facilities ameliorate the run risk for the
+bank.
+To see this more concretely let’s return to our hypothetical chain. I will again make assumptions so that the
+math is easy to follow (rather than being realistic).
+Suppose our PF manager initially had £1000 in idle cash that was available for paying out to pensions or
+margin calls and chose to place £500 with the MMF. The MMF is required to retain some of that cash as a
+precaution in case the PF makes a redemption request. Suppose again that the MMF lends half, £250, in a
+repo transaction to the BD (and deposits the rest at a bank). The BD then can use cash it receives to assist
+clients. Assume again it takes half of its cash and makes a loan via term purchase agreement to the hedge
+fund, and deposits the other half in a bank. This means that the HF receives £125 through the long-term
+repo agreement. If it deposits half of that, it can invest the other half to acquire £62.50 in government bonds.
+(See Figure 8 for the full chain.)12
+
+11
+
+Of course, reality is more complicated and when reserves are abundant this reasoning is incomplete.
+https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy
+12
+I have truncated the chain so that we do not keep track of the remaining money that flowed to the entity that sold the securities to the
+hedge fund. Followed to the full conclusion of the chain, all the initial deposits will wind up back in the banking system.
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+Figure 8: Stylised example of pension fund cash chain
+
+This recycling is the market version of the money multiplier. Here we started with £1000 which could have
+simply been deposited in the bank. By the end of the chain, we have deposits of £937.50
+(=500+250+125+62.5) and £62.50 of government bonds, as well as £500 of MMF shares and £375 in
+government bond repo. As far as the entities in this chain are concerned the total amount of liquid assets is
+the sum of the deposits, repos, MMF shares and the invested assets of the hedge fund: £1875.
+Essentially the size of the multiplier reflects a race between two forces: the number of links in the chain in
+which funds are passed along and the dampening from interactions with the banking system when funds are
+placed there. I don’t want to imply banks themselves cannot get into trouble with the deposits they receive.
+Likewise, they are connected to the MBF system in other ways too that create important interactions and with
+these interactions, potential risks. In the context of the liquidity multiplier, though, they do tend to limit
+amplification, partly because of their direct access to central bank liquidity support.
+Our interest in these chains is not just what happens in normal times, but also what might happen in a period
+of stress when funding flows begin to reverse direction. The shocks that create the stress might well lead
+some actors in the system to become more cautious, so that they pull back from normal practices to
+accumulate extra liquidity. This behaviour can mean that actors in the chain might go beyond just reversing
+their normal patterns and actually withdraw even more liquidity than is normally present in the system.
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+To see how this can work, suppose the pension fund withdraws its funds from the MMF, say due to margin
+calls (though the reason is irrelevant). The MMF can meet some of the redemption from the cash it holds,
+however, it may not want to run down that buffer too much and may choose to refuse to roll over its repo loan
+to the BD. If the MMF becomes concerned that other redemptions are coming, it may cut back on other repo
+loans it has made and/or it might try to sell some of its other securities as a precaution so that it can have
+more cash to meet redemptions. Absent constraints, the MMF would initially want to sell the assets that will
+have the least price impact from selling.13 If it happens to have a large enough buffer of such securities, the
+selling need not exacerbate any of the problems in the market. If it does not, then it could be forced to sell
+securities for which there is not an active, deep market. In this sense, the surge in trading volumes that we
+saw in the US in March, is not surprising (see Figure 9).
+Figure 9: Defensive actions taken by parties in the chain
+
+Next, the BD must find a way to fund its loan to the HF, recall that was a term repo so it will remain in place
+for some time. It is could sell some assets to receive the funds it needs to replace the repo that disappears,
+or reduce the overnight repo it offers, especially to smaller clients. In addition, the BD may worry that the HF
+is going to request additional funding because market conditions are now choppier and the HF may be
+needing to pay margin calls on its trades, and expects to have other repo loans recalled.
+As indicated earlier, the business of a broker dealer involves helping clients receive funding. This can mean
+that in times of stress the BD is forced to extend credit that it might prefer not to offer, but failing to do so will
+lead clients to move to a competitor. So at the same time the BD is seeing its own repo funding decline,
+13
+
+In practice, things are more complicated. The MMF has liquidity requirements that must be maintained. Also, if they fear some
+securities may become illiquid (or more illiquid), they might sell them while they can.
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+it might be forced to expand its repo lending. If it has to do this, it will likely be selling assets to obtain cash
+that it can lend.
+In our chain, we had the HF buying government bonds so if it loses funding it would potentially sell those
+bonds. If instead it had a leveraged position to undertake a basis trade, then it would face margin calls from
+the price volatility. The high degree of leverage underlying the basis trade means that even small price
+movements can create big losses (or gains) for the hedge fund. If the trade is moving against the HF, its risk
+managers may conclude that it should exit the trade. This would contribute to further selling and price
+pressure. So in this case, the ultimate adjustment by the HF can be much larger than one might expect from
+the normal flows in the chain.
+The critical observation is that because some parties are taking steps to build buffers against further stress,
+and because selling can move prices against the seller, the ultimate drain on the system can easily exceed
+the normal amount of liquidity that was being passed within the chain. Put differently, in stress, if the
+multiplier begins working in reverse the needed adjustment can be larger than what might be expected
+based on business as usual flows.
+This discussion identifies another problem. We have essentially a 20th century measurement system that is
+being used to monitor the 21st century financial system.14 So when it comes to putting realistic numbers into
+this kind of calculation we find that some critical pieces of the chains are not well covered. We do have good
+coverage in several areas such as gilts, repo, and derivatives, but the challenge even with this data is to
+piece it all together. Furthermore, it is hard to tell the difference between forced actions where someone on
+the chain must immediately replace lost funding and where someone might just be anticipating future
+problems and taking precautionary actions that cause problems for others.
+The staff at the Bank of England are working intensively on filling in as much of the landscape as we can
+over the next year. Importantly some of the critical linkages go across borders, so some of the measurement
+challenges require international cooperation. This is why the Bank of England is also helping lead the work
+by the Financial Stability Board to coordinate efforts across the globe.
+Conclusions and next steps
+Even with the caveats I just gave you, the examples I just shared allow us to reach a few conclusions and to
+identify some obviously important questions that deserve further analysis.
+First, the MBF system is built on chains for many good reasons. Yet, these chains create liquidity multipliers.
+What one party sees as a liquid asset someone else in the chain sees as a runnable liability. Mechanically,
+this means that when certain actors pull back funding, and/or markets become illiquid, the shock ripples
+
+14
+
+This is despite the fact that the FSB has been calling attention to these issues for some time, see e.g. 2020 Progress Report on Data
+Gaps Initiative
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+12
+
+through the financial system. During periods of stress the amplification can be especially large as parties in
+the chain take various defensive actions.15
+Second, one of the major factors that dampens amplification is the recourse of various parties to banks. A
+bank deposit is essentially always sufficient to make a payment. So every time an entity in a payment chain
+sets money aside in the form of a deposit that can help reduce this amplification.
+Hopefully, we will not face a shock anywhere near as large as the Covid one in the near future. However, the
+recent experience can still teach us about the system we have in place and the risks that reside within it. Let
+me close with three questions that I am thinking about and perhaps some others will come up in the question
+and answer period.
+One is whether the regulatory system addresses these challenges adequately? We do have some
+protections in place that require liquidity buffers for some sectors. Are these sufficient? We can also ask
+whether the post GFC regulatory reforms we have enacted might have inadvertently created incentives to
+organise funding through chains that are particularly vulnerable?
+Another question is what will be expected of central banks in future stress episodes? In March, the stress
+was ended by a host of new programs and a large expansion of central bank balance sheets. Should central
+banks be expected to repeat these actions? If so, is there a way to charge the beneficiaries of the support
+for the liquidity insurance that central banks are providing ex-post?
+Finally, can we make a map of the most important funding chains so that we can monitor them and
+potentially catch problems before they appear? Armed with a map we could then try to identify the links that
+are most fragile and begin trying to understand what can be done to strengthen them or move away from
+them.
+Thanks for your attention, I would be glad to take a few questions.
+
+15
+
+For an individual actor, the precautions are likely to be prudent. The point, however, is the cumulative impact of the combined
+decisions throughout the chain can lead to a large system-wide effect on liquidity needs.
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+13
+
+

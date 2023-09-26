@@ -1,0 +1,393 @@
+Comments on
+“Methods of Policy Accommodation
+at the Interest-Rate Lower Bound” by Michael Woodford
+FRBKC Economic Policy Symposium on the Changing Policy Landscape
+Jackson Hole, WY, August 31, 2012
+Adam S. Posen1
+
+If Michael Woodford says it is daunting to present his paper in front of this distinguished
+audience, you can imagine how daunting it is to be the discussant of his paper, which is probably the
+longest paper at this conference – but a paper, typically for Mike, dense with insight. I am grateful to
+have this opportunity, not just to discuss this paper, but to be a participant at this year‟s Federal Reserve
+Bank of Kansas City conference.
+Perhaps fittingly, today is my last day as a central banker. I think Charlie Bean will attest that I
+have 4-1/2 hours remaining as a member of the Bank of England‟s Monetary Policy Committee [MPC].
+And having spent my entire three years on the MPC with interest rates have been at the effective zero
+lower bound, the subject of this paper is obviously something I have been living and breathing. While I
+agree with some of the conclusions that the paper comes to, I find it unpersuasive how the paper comes to
+them. Furthermore, the paper seems to stop short of spelling out the policy implication that it does
+justify. So, let me try to talk that through a bit and then draw out where I think this paper leads us to, but
+seems to be afraid to go, in policy terms.
+On even a light reading, this is clearly a paper of two halves. The first half talks about the issue
+of forward guidance, the work in the spirit of the original Eggertsson and Woodford (2003) paper on the
+lower bound, and all of the things that Lars Svensson, among others, in the past had advocated about
+central bank transparency with regard to interest rate paths. Then in the second half, the paper discusses
+the empirical side of asset purchases, such as balance sheet effects, the portfolio balance channel,
+1
+
+At the time these comments were delivered, the author was a member of the Monetary Policy Committee of the
+Bank of England. None of the views expressed here should be attributed to the Bank, the Committee, its members,
+or to any of its staff, nor to PIIE. I remain solely responsible for these views and any errors oversights herein.
+
+1
+
+preferred habitats for investors (although I do not think the author used that term directly), and so on, as
+though these are all distinct channels, separable from each other, and very distinct from the expectation
+effects through forward-guidance. And as we heard the existing empirical literature summarized in
+Chairman Bernanke‟s remarks earlier this morning, you can list the likely channels of QE‟s discernible
+impact in that way.
+I worry that this dichotomy between forward guidance and asset purchases, while perhaps useful
+for research purposes, is much exaggerated in practice. There is some sense in which if a central bank
+policy committee is going to commit to doing something, it kind of helps to be actually doing something.
+And if you are going to do something, it kind of helps to explain what it is that you are doing. And so I
+am not sure in practical policy terms, let alone in some of the complex econometric evidence Mike goes
+through, that disentangling these aspects is entirely a useful exercise. In particular, what I would argue is
+that we always think there are multiple channels through which any monetary policy affects the
+economy.2 That is part of the reason why Sims and Sargent recently received a Nobel Prize, for their
+insights into identifying monetary policy shocks, because it is always complicated to do so, the impact
+being always multi-faceted. And so to be saying that we are going to disentangle the impact of central
+bank communications from purchases, is to me, I am worried, a step backwards.
+But, the almost spoken premise of the paper, as well as more explicit statements emerging from
+some of the public discussion of the paper and related themes, seems to be that the major central banks
+today must choose between further asset purchases and more explicit forward guidance for reasons of
+political credibility, not because of the underlying economics. It is as though there is a taboo of some sort
+that does not exist in the available data, or even in legal mandates, but in some people‟s perceptions of
+what is an acceptable means of implementing monetary policy. As I will explain, the second half of the
+
+2
+
+Like Mike, I am a consumer not a producer of this econometric evidence, but if you look at the relevant papers,
+including the Campbell et al. (2012) paper he cites at length, as well as some of the things that Chairman Bernanke
+mentioned, like the papers by my colleagues Gagnon, et al (2010) and Joyce, et al (2011), what you find is this work
+wrestles with the identification of monetary policy‟s impact as much as any past applied monetary economics did.
+
+2
+
+paper seems to point towards the potential effectiveness of certain kinds of asset purchases. The paper‟s
+conclusion, however, reads as though central bankers are forced to choose between breaching either some
+sort of boundary for political economy reasons on the nature of your forward guidance, or a more
+frightening boundary for political economy reasons on the nature of what asset to purchase.
+If I had to choose (and up until today I did have to make such a choice on the record), I would be
+much more inclined to buy assets that are “non-standard” or “unconventional” than to engage verbal
+commitments that extend beyond established norms for the duration and specificity of monetary policy
+announcements. And I think, actually, that is the point that the reader should take away from this paper
+(especially but not only from its second half). What monetary policy through QE is acting upon, the
+source of whatever traction on the economy that you get, is in large part due to the imperfect
+substitutability of financial assets.3
+So, just to go back through the empirical evidence for a moment, I think there are some really
+important and beneficial things in this rich paper. I love the way Mike takes apart the misguided claims
+by some that, if we would just expand the monetary base, so doing would be enough to stabilize the
+economy and prices. My first speech as a member of the MPC (Posen (2009)) was a cry against such
+what I termed “mechanistic monetarism,” and if we have not successfully killed that mistaken idea by
+now, I am glad to have this paper doing so. I also think it is crucially important that Mike brings out the
+idea that one reason for policy committees to make a commitment to a longer-term target is to prevent
+monetary policy from reinforcing self-fulfilling negative expectations. I commend Mike for formalizing
+that insight in some of his earlier papers.
+Another key point that the paper makes, which I will come back to, is the idea that sometimes the
+impact of a central bank operation is going to be higher when the markets are impaired. Now, that may
+go without saying for a number of people here, but I think that is truly important in operational terms.
+3
+
+That is certainly what the majority of the Bank of England MPC members have argued based on our experience
+and investigations of the available data in real time. See Joyce (2012) and Posen (2010a, 2011, 2012).
+
+3
+
+And part of why we have defeatism about policy is because people are too quick to judge markets being
+unimpaired. And I fear that too many people in the current policy debate in the major economies are
+leaping too quickly to the idea that financial markets are beautifully functioning, and therefore QE does
+not have traction anymore.
+It is the empirical argument and interpretation in this paper, however, with which I am quite
+uncomfortable. Not because the particular papers cited are wrong in any specific sense, it is more about
+their results are marshaled as arguments. So, much of what is said in the second half of the paper seems
+to be to the effect of, „well, look, all these impacts that look like they were balance sheet effects, really
+when you look at them are solely forward guidance.‟ Yet, if you go back to the claims made in the first
+half of the paper regarding the impact of forward guidance, you run into worse problems trying to
+disentangle guidance‟s from purchases‟ impact. So look back at the Swedish case that the paper discusses
+in great detail, based primarily on some very interesting work by Svensson (2010, 2011). It becomes
+clear that the central bank employing forward guidance most explicitly and consciously as a policy
+instrument was subject to repeated market and public misinterpretation and even provoked reverse effects
+from those intended at times.
+Another example is that we all know that the Federal Reserve engaged in a variant of Operation
+Twist, which inherently has to be acting through balance sheet composition and not anything directly
+about forward guidance (It would be stretching the concept beyond reasonable meaning to say it was
+„forward guidance‟ in terms of the relative importance of long-term assets versus short-term assets rather
+than the transactions that mattered). And all of the empirical estimates are that the recent Operation Twist
+as occurred did have a meaningful effect in the ways that event studies pick up. Studies of short-term
+interest rates and OIS spreads and all those things that the paper cites as indicators of monetary policy‟s
+effect on expectations show that they moved as expected in this case - that seems to contradict the idea
+that you need the forward guidance to have an impact.
+
+4
+
+It is also very revealing to correct the omission from the paper of the evidence on the Bank of
+England‟s experience with QE since 2009 (and not just for parochial reasons). The norm or more of the
+MPC, at least while I have served on it (and longer as I believe Charlie Bean will attest), is that we do not
+give explicit forward guidance from meeting to meeting. We treat each meeting as completely ab initio.
+We do not give promises of how our policies will unfold in future. When we publish our infamous „rivers
+of blood‟ fan charts for inflation and GDP growth projections in our Inflation Report, we display them
+based on constant interest rate projections and on market interest rate projections, but not on our own
+interest rate projections. Yet all the empirical work that has been done, as Chairman Bernanke cited in his
+talk, estimates qualitatively and in fact, to a first order, quantitatively equivalent the impacts of MPC and
+FOMC policies undertaken, as best can be discerned. And, to repeat, the MPC offers nothing of the type
+of explicit forward guidance in the sense that I understand paper advocating. So it is kind of a glaring
+omission not to have the Bank of England in there if one is making these kinds of inferences.
+Similarly, I would interpret somewhat differently the monetary policy experience in Japan in the
+1990s and 2000s that the paper touches upon (of course, I will defer to Governor Shirakawa to correct us
+both during the general discussion). The paper seems to characterize the Bank of Japan as pursuing
+mechanistic monetarism by ineffectively expanding monetary base, without any announced forward
+guidance, and asserts that is why the policy did not seem to work. Yet, there actually was forward
+guidance given by the BoJ during this period. Successive Governors from the Bank of Japan stated, “we
+are not going to raise rates until the rate of price increase rises sustainably above zero.” There was an
+explicit threshold guidance of the sort that is being advocated in the paper. Governor Shirakawa is
+nodding, we both remember then Governor Toshihiko Fukui in 2003 explicitly making this commitment,
+for example. The Japanese experience with QE does clearly disabuse one of the notion that forward
+guidance can be easily disentangled from asset purchases or policy actions, let alone substitute for them.
+In summary, by the time that one considers fairly the impact of the FOMC‟s twist operation, of
+the MPC‟s QE done explicitly without forward guidance, and of the BoJ‟s limited policy traction with
+5
+
+forward guidance, as well as of the unintended consequences of the Swedish Riksbank forward guidance
+case discussed in the paper, the evidence marshaled leads one very much to the opposite conclusion from
+that offered in the first half of the paper.
+That said, the Japanese experience of the early 2000s may not bode well for the effectiveness of
+QE policies under all circumstances. Some have argued, rightly to my mind, that part of the shortfall in
+expansionary policy‟s impact in Japan was because of the emphasis of BoJ bond purchases on solely
+short-duration JGBs, that is due to the composition of asset purchases (McCauley and Ueda (2009)); other
+factors contributing to the BoJ‟s popularly perceived ineffectiveness in countering deflation include
+conflicting communications from central bank officials, offsetting fiscal and financial policies, and an
+underestimation of the impact of the monetary policy when pursued in 2003-06 more consistently in
+communications and in sync with financial and fiscal policies. (Kuttner and Posen (2001, 2004); Posen
+(2010c)).
+But, whatever the explanation for Japan specifically, why do we have the perceived to be small
+response to the vast asset purchases undertaken to date by the major central banks? In a sense, that is the
+interesting next question, because, as the work by Bauer and Rudebusch (2011), Campbell, et al (2012),
+and Swanson and Williams (2012) cited in the paper demonstrates, we know that these monetary
+operations do have impacts through the various expected channels: the exchange rate, the OIS spread,
+anything an event study can tell you to look for, we find it is there. The big ticket question, the pushing
+on a string question, is why when we have all these immediate impacts, and on market measures of
+expectations, from QE in the way we would expect, does it not seem to be making the economy go, go,
+go? That gets you into a very different set of analyses. It gets you into the question of counterfactuals,
+how bad would things have been had we not done this, which is always a tricky thing to do. But that is
+where I think the intellectual effort of empirical research now has to be, on the understanding of why
+these market reates and expectations that seem to be moving in line with the desired short run or forward
+
+6
+
+looking effects of QE are not having as big an impact on the macroeconomy as we might have hoped they
+would. And there is legitimate debate about that.
+Let me return to the second half of the paper to pick up a bit more about this issue of the
+imperfect substitute ability of assets, and the importance of that for QE. In his verbal presentation today,
+Mike said that central banks can be more effective by acting on less perfectly substitutable assets, which I
+think is a very important insight.4 (Posen 2011) Now, there is an extended passage in the paper which
+goes through the implication of if we are living in something that looks like a Modigliani-Miller world,
+where capital structure is neutral, of course none of the preferred habitat aspects of QE matter. And then
+the paper goes on to argue that, even if you allow for some safety reason for some investors to be in
+government bills as opposed to other financial assets, that constitutes such a small deviation from the
+perfect substitutability world, that there is little room to think QE would have traction on this basis alone.
+Since it was unclear whether the paper is setting out this argument as a straw man or advocating it, let us
+just take that argument as it is and evaluate it empirically.
+If there is one thing I would hope that this global financial crisis has taught central bankers and
+macroeconomics, it is that financial assets are far more imperfectly substitutable than we ever thought
+they would be. This is true if more hidden in times of booms and bubbles as well as in times of busts and
+panics. Now this does not in any sense contradict Kristin Forbes‟ interesting results presented at this
+conference about co-movements of asset prices under the heading of contagion. In fact, what she
+presented concerned the differences for transmission across borders between different types of equity
+investment, of portfolio holdings, of investments via banks. Imperfect substitutability being important to
+the transmission mechanism of QE I think is consistent with this view. Similarly, what Governor
+Shirakawa said during that paper‟s discussion about the degree of an economy‟s international
+
+4
+
+I am delighted the author stated that he believes that this is a conclusion to take from the paper, because on my
+reading that was a clear implication, but not explicitly stated, and somewhat obscured – and some outside readers of
+the paper have apparently misinterpreted the paper, and should now be corrected.
+
+7
+
+vulnerability to global contagion being dependent upon how finance dependent is your trade is a
+statement about imperfectly substitutable assets.
+Differentiation of financial assets matters. One of the most foolish mistakes of the last 15 years,
+both economically and in policy terms, I would argue was that we actively assumed this fact away. We
+imagined that because of what looked like beneficial financial innovation, the ability to create liquid
+exchanges between very differing forms of assets, and to get in and out of them under all circumstances,
+was vastly exaggerated. And this not only goes to behavioral issues of the sort that my colleague Andy
+Haldane was just talking about in his paper today.
+This mistaken underestimation stems from an ill-advised and partly ideological replacement of
+the older preferred habitat view of finance from Tobin and others with the efficient financial markets
+hypothesis write excessively large. The preferred habitat is not just one aspect of QE‟s traction, in the
+way that my colleagues at the Bank of England and I have invoked it – i.e., the MPC goes to a pension
+fund, and says, “We know that you really like long gilts for planning and regulatory reasons. We‟re
+going to make you an offer you can‟t refuse on long gilts and you will have to reallocate your portfolio as
+a result.” That is the quintessential archetype of the preferred habitat view.
+But upon reflection, I have come to believe that all kinds of financial actors have preferred
+habitats in very narrow context specific senses – senses that were resolutely ignored in our models and
+policies of the last 15 to 20 years. If I am a bank manager in a bank with imperiled capital, my preferred
+habitat is one where I never have to admit that my current assets are under water. If I am a homeowner
+with a special kind of literal habitat in a particular region or even a particular house, I have very little that
+can be easily or willingly substituted for that asset. Moreover, if we think about the insights that Ben
+Bernanke and others gave us with the whole credit channel literature (starting with Bernanke (1983) on
+the non-monetary transmission of the Great Depression), there frequently is no substitute for banks for
+certain kinds of borrowers. We all had high hopes for securitization ex ante, myself included, and we
+
+8
+
+found that the reality of its utility was more limited (even though its retreat has been excessive now). As
+a result, we have seen nothing but inefficient credit rationing for small to medium-sized businesses, for
+most households, and even for many financial institutions, since this crisis began.
+One key lesson that I think we should take away is that there simply is not one real interest rate
+for the economy. Households are facing one set of highly differentiated interest rates, small and medium
+enterprises are facing another set of far from smoothly distributed interest rates, as is the construction
+sector, and so on. So this may complicate modeling to go down this road. The work being discussed later
+at this conference by Brunnermeier and Sannikov (2012) and Sufi (2012) regarding the distributional
+impact of monetary policy, and its relationship to the extent of financial frictions, is a promising field.
+We have to get away from searching under the lamppost if that is the way of the world, rather than
+settling for the models we have to work with. It was politically convenient to have pretended for the last
+twenty years that assuming the combination of a vertical Phillips Curve, forward-looking economic
+agents, and easilby tradeable financial assets meant that monetary policy had only secondary
+distributional effects at most – that convenience must not blind us to the reality we face.
+But finally, please let me conclude about monetary policy and the effectiveness of QE. If the
+persistence of financial fragility and of weak recovery are in large part due to the preferred habitats of
+asset holders with imperfectly substitutable assets, these problems are not easily addressable by moving
+the price of one financial asset or the level of one interest rate. As I said initially, I think we are running
+up against two self-imposed taboos when central bank committees could and should be buying alternative
+assets to government paper in order to maximize the traction of QE. The first taboo is against challenging
+the notion that a lot of the financial markets and institutions seem to be back to largely normal, so we
+would be interfering with a good market allocation of credit if we intervened further. The second taboo
+is the contention that, from a political economy view, we would be compromising the central bank‟s
+authority, credibility, independence, whatever abstract ideal claim you wish to put in that space, by doing
+
+9
+
+something that can be labeled fiscal policy because it chooses an asset to buy or sell. I will address both
+of these really quickly.
+On the first point, I think looking around this world, you can see many, many markets that remain
+heavily impaired (above and beyond lowering our expectations for what degree of substitutability of
+assets should pertain in normal times). And I think you can come up with general criteria, standards
+announced ex-ante which can be monitored, that help you determine which financial assets and markets
+merit intervention in a given situation. That would mean that the central bank committee is not pandering
+to any particular lobby group with its purchases (or sales), either in reality or in fair perception, even if
+such a policy did inevitably have distributional impact. What matters for the central banks‟ mandates is
+not that you do something that has no distributive effects because that‟s nonsense to hope for. Everything
+the central bank does has some amount of distributive effects. What matters is that the committee is
+pursuing a policy that is not clearly motivated or traced to a distributive effect as a goal - monetary policy
+can still be motivated by aggregate welfare in design.5
+That should be done upfront when proposing a targeted QE policy. And so central bank
+committees can identify that, for example, in the U.K. the small business market for lending is the most
+impaired and therefore, the new FLS should be acting on that. You can identify that in the Euro area, in
+my view, the key issue was the semi-panic in sovereign debt markets for Italy and Spain, and that is
+where the ECB has now committed to conditionally intervening. You can identify in the U.S. that the
+mortgage market remains in many ways impaired, though has been some progress, and that is where the
+FOMC has since chosen to intervene further. For all the reasons Mike sets out in the second half of the
+paper, and that I have tried to develop in my remarks, such targeted QE policies should lead to bigger
+bang for the central banks‟ created bucks. We should find out over the next year or two.
+
+5
+
+In fact, this is accepted in the discussion over the impact on some savers‟ interest income from cuts in the central
+banks‟ instrument interest rates to zero. It may be the right or wrong policy (though I am quite certain it is the right
+one), but the justification for it is in terms of risks and outcomes for the economy as a whole rather than denying the
+existence of savers with such portfolios and therefore interests.
+
+10
+
+So last but critically, on to addressing the political economy taboo that some want to impose on a
+potentially effective policy instrument of targeted asset purchases. Why would pursuing the policy I
+advocate not cause the temple walls to fall nor central banks‟ foundations to collapse? One cannot say it
+would never happen. There are obviously people in this room and much more scarily, people outside this
+room, who would say a central bank intervening in a given financial market is a betrayal, is entering into
+fiscal policy, whatever reasonable arguments exist. But you only need to look back at monetary history to
+see the obvious: central banks have engaged in extended periods of administrative guidance, of doing
+very active directed lending in particular sectors, and especially of engaging in market operations on
+financial assets other than government securities. And although these periods of central bank activism
+may not have been uniformly golden ages – in fact, they were often times of policies in response to
+periods with echoes of our situation today - these periods certainly were not associated regularly or even
+often with episodes of hyperinflation or currency collapses. That does not mean that there were not
+instances of abuse of such interventions, of course there were.
+It is, however, quite literally a prehistoric argument in monetary terms to assert that central banks
+are engaged in experimental, unprecedented, or somehow scandalous and dangerous policy maneuvers
+today – we should stop giving such trumped up rhetoric any credence. The idea that there are somehow
+pristine virgin central banks, expected by the public to be like a vestal priesthood, that will be tainted
+forever by intervening in a given financial market, is, as I‟ve remarked before, a truly primitive and antirational way of thinking about both economics and the beliefs of the general public. (Posen 2010b) I
+believe that central banks can and should go forward from here, and based on much of the analysis that
+Michael Woodford pulls together in the second half of this paper, continue simultaneously doing more
+and saying more, in the spirit of, say, Charlie Evans‟ threshold framework for setting policy on the basis
+of outcomes.6 Doing more, and doing it in a targeted way on the assets for a given economy that are most
+
+6
+
+See Evans (2011). As I put it in Posen (2010a), “We will only know we will have done enough with QE or other
+monetary stimulus when we have clear indications that our policies are moving the desired variables – market
+interest rates, wages, output, employment, and inflation expectations – sufficiently and in the right directions
+
+11
+
+likely to have a beneficial effect, is the most important thing monetary policy can do under the present
+circumstances, both for the general welfare and for the maintenance of their political credibility. (Posen
+(2012)
+
+on a sustained basis…We can only gauge the success of our efforts by our results, and until we achieve those results,
+there is no danger from our heavy use of the available instruments. This is not a normal situation with finely
+balanced risks on both sides or with monetary policy able to finely calibrate to an outcome.”
+
+12
+
+References Bauer, Michael D., and Glenn D. Rudebusch (2011), “The Signaling Channel for Federal Reserve Bond
+Purchases,” Federal Reserve Bank of San Francisco working paper, no. 2011-21, December.
+Bernanke, Ben S. (1983), “Nonmonetary Effects of the Financial Crisis in the Propagation of the Great
+Depression,” American Economic Review, 73(3): 257-276, June
+Brunnermeier, Markus and Sannikov, Yuliy (2012), “Redistributive Monetary Policy,” this volume
+Campbell, Jeﬀrey R., Charles L. Evans, Jonas D.M. Fisher, and Alejandro Justiniano (2012),
+“Macroeconomic Eﬀects of FOMC Forward Guidance,” unpublished, Federal Reserve Bank of Chicago,
+May.
+Eggertsson, Gauti B., and Michael Woodford (2003), “The Zero Bound on Interest Rates and Optimal
+Monetary Policy,” Brookings Papers on Economic Activity, 2003(1): 139-211.
+Evans, Charles L. (2011), “The Fed‟s Dual Mandate Responsibilities and Challenges Facing US
+Monetary Policy,” remarks delivered at the European Economics and Financial Centre Distinguished
+Speaker Seminar, London, September 7.
+Gagnon, Joseph, Matthew Raskin, Julie Remache, and Brian Sack (2011), “The Financial Market Eﬀects
+of the Federal Reserve‟s Large-Scale Asset Purchases,” International Journal of Central Banking, 7(1):343.
+Joyce, Michael (2012), “Quantitative easing and other unconventional monetary policies: Bank of
+England conference summary,” Bank of England Quarterly Bulletin, Q1: 48-56
+Joyce, Michael, Tong, Matthew, and Woods, Robert (2011), “The United Kingdom‟s quantitative easing
+policy: design, operation, and impact,” Bank of England Quarterly Bulletin, Q3: 200-212
+
+13
+
+Kuttner, Kenneth and Posen, Adam (2004), “The difficulty of discerning what‟s too tight: Taylor rules
+and Japanese monetary policy,” North American Journal of Economics and Finance, 15: 53-74
+Kuttner, Kenneth and Posen, Adam (2001), “The Great Recession: Lessons for Macroeconomic Policy
+from Japan,” Brookings Papers on Economic Activity, 2:94-186
+McCauley, Robert N. and Ueda, Kazuo (2009), “Government Debt Management at Low Interest Rates,”
+BIS Quarterly Review, June
+Posen, Adam (2012), “Making the most of doing more,” speech at the Barclays „Short-end rates seminar,”
+London, 11 June, http://www.bankofengland.co.uk/publications/Pages/speeches/2012/585.aspx
+Posen, Adam (2011), “How to Do More,” Speech at Wotton-under-Edge, Gloucestershire, 13 September,
+http://www.bankofengland.co.uk/publications/Pages/speeches/2011/517.aspx
+Posen, Adam (2010a), “The Case for Doing More,” speech given at the Hull and Humber Chamber of
+Commerce, 28 September, http://www.bankofengland.co.uk/publications/Pages/speeches/2010/449.aspx
+Posen, Adam (2010b), “When Central Banks buy Bonds - Independence and the Power to say No,”
+speech given at the Barclays Capital 14th Annual Global Inflation-Linked Conference, New York, 14
+June, http://www.bankofengland.co.uk/publications/Pages/speeches/2010/436.aspx
+Posen, Adam (2010c), “The Realities and Relevance of Japan's Great Recession - Neither Ran nor
+Rashomon,” lecture at the London School of Economics, 24 May,
+http://www.bankofengland.co.uk/publications/Pages/speeches/2010/434.aspx
+Posen, Adam (2009), “Getting Credit Flowing: A Non-Monetarist Approach to Quantitative Easing,”
+speech at Cass Business School, London, 26 October,
+http://www.bankofengland.co.uk/publications/Pages/speeches/2009/408.aspx
+
+14
+
+Sufi, Amir (2012), “Discussion of „Redistributive Monetary Policy‟ by Brunnermeier and Sannikov,” this
+volume.
+Svensson, Lars (2010), “Policy Expectations and Policy Evaluations: The Role of Transparency and
+Communication,” Sveriges Riksbank Economic Review, 2010(1): 43-78.
+Svensson, Lars (2011), “Practical Monetary Policy: Examples from Sweden and the United States,”
+Brookings Papers on Economic Activity, 2011(2): 289-332.
+Swanson, Eric T., and John C. Williams (2012), “Measuring the Eﬀect of the Zero Lower Bound on
+Medium- and Longer-Term Interest Rates,” Federal Reserve Bank of San Francisco Working Paper no,
+2012-02, May.
+
+15
+
+

@@ -1,0 +1,59 @@
+Annex: Charts
+Chart 1: The social loss associated with different monetary policy rules under different
+calibrations of lambda
+
+Source: Bank calculations
+
+Chart 2: The relative performance of level-based and difference-based rules under different
+relative importance of persistent vs temporary shocks
+
+Source: Bank calculations
+
+Chart 3: Impact of a persistent risk premium shock that is misjudged to be temporary
+
+Source: Bank calculation
+
+Chart 4: Impact of simultaneous persistent and temporary risk premium shocks (relative
+weight 2.3 times)
+
+Source: Bank calculations
+
+Annex: Model specification
+
+This model is based on a variant of a model developed by Harrison, Seneca and Waldron. It consists
+of 5 basic equations.
+IS curve:
+Phillips curve:
+
+𝑦𝑦�𝑡𝑡 = 𝐴𝐴𝑦𝑦�𝑡𝑡−1 + 𝐵𝐵𝔼𝔼𝑡𝑡 𝑦𝑦�𝑡𝑡+1 − 𝐶𝐶(𝑖𝑖𝑡𝑡 − 𝔼𝔼𝑡𝑡 𝜋𝜋𝑡𝑡+1 − 𝑟𝑟𝑡𝑡∗ )
+
+∗
+) − 𝐾𝐾𝑧𝑧𝑡𝑡 ] + 𝑢𝑢𝑡𝑡
+𝜋𝜋𝑡𝑡 = 𝐷𝐷𝜋𝜋𝑡𝑡−1 + 𝐹𝐹𝔼𝔼𝑡𝑡 𝜋𝜋𝑡𝑡+1 + 𝐺𝐺[𝐻𝐻(𝑦𝑦�𝑡𝑡 + 𝑦𝑦𝑡𝑡∗ ) + 𝐽𝐽(𝑦𝑦�𝑡𝑡−1 + 𝑦𝑦𝑡𝑡−1
+
+Potential output 𝑦𝑦𝑡𝑡∗ :
+Natural rate 𝑟𝑟𝑡𝑡∗ :
+
+∗
+𝑦𝑦𝑡𝑡∗ = 𝐿𝐿𝑧𝑧𝑡𝑡 + 𝑀𝑀𝑦𝑦𝑡𝑡−1
+
+∗
+∗
++ 𝑄𝑄𝑦𝑦𝑡𝑡∗ + 𝑆𝑆𝔼𝔼𝑡𝑡 𝑦𝑦𝑡𝑡+1
+− 𝜈𝜈𝑡𝑡
+𝑟𝑟𝑡𝑡∗ = 𝑁𝑁𝑦𝑦𝑡𝑡−1
+
+where all capital letters denote functions of underlying parameters, 𝑦𝑦�𝑡𝑡 is the output gap, and the risk
+premium 𝜈𝜈𝑡𝑡 , the cost-push disturbance 𝑢𝑢𝑡𝑡 and productivity 𝑧𝑧𝑡𝑡 follow exogenous autoregressive
+
+processes.
+
+The model is closed by either a level rule
+
+or a difference rule
+
+𝑖𝑖𝑡𝑡 = 𝜌𝜌𝑖𝑖 𝑖𝑖𝑡𝑡−1 + 𝜑𝜑𝜋𝜋 𝜋𝜋𝑡𝑡 + 𝜑𝜑𝑦𝑦 𝑦𝑦�𝑡𝑡
+
+∆𝑖𝑖𝑡𝑡 = 𝜑𝜑𝜋𝜋 𝜋𝜋𝑡𝑡 + 𝜑𝜑∆𝑦𝑦 (𝑦𝑦�𝑡𝑡 − 𝑦𝑦�𝑡𝑡−1 )
+
+

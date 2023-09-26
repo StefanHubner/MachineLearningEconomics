@@ -1,0 +1,878 @@
+Bank of England
+
+Page 1
+
+Price and Monetary Policy
+Transmission in a Globalised
+Economy − speech by Swati
+Dhingra
+Given at Manchester Metropolitan University
+13 June 2023
+
+Bank of England
+
+Page 2
+
+Speech
+Introduction
+It is a pleasure to be here at MMU. Manchester is a focus area for our Economy 2030
+Inquiry, a collaboration between the Centre for Economic Performance at LSE where I am
+based and the Resolution Foundation, to develop a new economic strategy for cities to
+lead growth in the country.
+Speaking in Manchester, I guess there are huge congratulations due to some for the blue
+treble, but I suppose there’s a red corner that may not be as happy! From football to the
+cotton mills of Gaskell and the heritage of the many music landmarks, Britain’s ability to
+punch above its weight in the world owes much to this vibrant city. It also makes it a
+suitable place to review the UK’s interaction with the global economy, and its
+consequences for individuals and families across the country.
+This afternoon I am going to argue that advances in our analytic toolkit, together with data
+innovations, are the vital route to a clearer and timelier understanding of the economy.
+These changes are needed – both at the micro and macro level – to facilitate better
+evidence-based policymaking. They are necessary for measuring the nature, scale and
+duration of UK economic outcomes, and so they are important for accurately calibrating
+monetary policy.
+There is no doubt that inflation, whilst beginning to ease off its peak last year, is still far too
+high relative to our two per cent target. We are committed to returning inflation to target
+sustainably in the medium-term. An agenda to develop our statistics and analytic
+techniques, building upon efforts to date, will help us answer why inflation is currently
+above target and how monetary policy should respond. Given the economic challenges
+and technological advances we are currently experiencing, including the growth of data
+collection methods and the emergence of more robust modelling techniques, now is a
+decisive time to drive forward these changes.
+We are in a globalised economy
+One fundamental development since the last high inflation episodes of the 1970s and
+1980s has been the fragmentation of production and supply in an increasingly globalised
+world. Central banking toolkits and economic statistics across the world simply have not
+kept pace with this development. Right now, we therefore have at best an imprecise
+understanding of the dynamics of product markets and supply chains and their role in
+determining price inflation. This presents data challenges that have been compounded by
+the growth of services, which are dominant in the UK economy. It is far harder to measure
+
+Bank of England
+
+Page 3
+
+price and productivity dynamics in services than in the traditional manufacturing sector,
+which we know a lot more about. As a small open economy that is highly reliant on global
+value chains for consumption and services for production, these developments are
+particularly relevant for us.
+The value of the UK’s international trade is over 60 per cent of UK GDP. This compares to
+25 per cent in the United States that has a much larger domestic market and is closer to
+Germany’s trade of about 50 per cent outside the European Union.1 Together with the
+UK’s large exposure to gas, this means that the terms of trade shocks that have arisen
+since the pandemic and the Ukraine war have resulted in very big impacts and
+adjustments in the UK economy.
+In fact, it has generated sizable differences in UK economic performance relative to some
+other advanced economies. A direct loss greater than 2 per cent of GDP from the trade in
+goods deficit has had widespread repercussions across the economy. It is hard to
+overstate the importance of this for monetary policy and inflation targeting.
+Why? Well one big consequence that we see all over the country is a significant reduction
+in living standards. Real pay has been falling for almost all the workforce since last year.
+This has had profound implications for many. Some are having to skip meals due to the
+cost-of-living crisis, and food banks have reported more than a one-third increase in food
+parcels since last year.
+The operation of global supply chains and their impact on prices is critical to understanding
+the evolution of the cost-of-living crisis. We need to look at what has happened to price
+setting for firms, alongside what consumers are spending their money on.
+Producer and consumer price inflation
+I find it striking that, amidst all the recent commentary over inflation surprises, there has
+been so little discussion of the degree to which headline producer price inflation has
+dropped. Bank researchers and I have recently been looking at what has happened in this
+sphere.
+What have we found? We know from standard economic principles that producer price
+inflation measures the growth in prices that domestic producers charge in the UK.
+Consider an example, for tomato ketchup. PPI measures the price paid by UK ketchup
+distributors to ketchup producers. We would typically expect that if the price charged by
+producers is dropping, then consumers would also see the shop price of tomato ketchup
+fall, albeit with some delay. Unfortunately, we do not currently know much about the
+11
+
+Germany’s non-EU trade was 48 per cent of GDP in 2018 (before the pandemic) and 53 per cent in 2021,
+and EU trade is about 50 to 60 percent higher. See Martin and Reynolds (forthcoming) for a discussion of
+aggregate intra and extra-EU trade.
+
+Bank of England
+
+Page 4
+
+precise nature of this lag structure and how it operates. But by looking at data on the
+evolution of producer and consumer prices over time, we can learn more.
+Figure 1 gives the long term picture. It shows producer price inflation (PPI) and consumer
+price inflation (CPI) since the 1950s, when data collection on them began. The chart
+shows that PPI and the CPI inflation have mostly co-moved tightly throughout the past
+70 years. Closer inspection however reveals some important observations. The two series
+co-move closely in many years, but when sizable shocks occur there are disparities in the
+rate of change and in their timing. These disparities are clear in three episodes of large
+shocks: the early to mid- 1970s (when the big oil price shocks occurred); the global
+financial crisis (when shocks to many commodity prices occurred); and the current period
+(in which the war has triggered large movements in the price of energy and other
+commodities).
+In each of these periods, the chart makes it clear that increases in consumer price inflation
+lag increases in producer price inflation. The same occurs on the way down too. And these
+patterns of PPI leading CPI are evident in the United States historical series too, though
+possibly with shorter lags recently (Figure A1 in the Appendix). This must surely have
+implications for where we are now, and where we are going.
+The latest shift is a sharp drop in producer price inflation, but not an equivalent drop in
+consumer price inflation. Looking ahead, therefore, the key question is whether this sharp
+drop in producer price inflation will manifest in reduced consumer price inflation as it did in
+previous inflationary episodes, albeit with a lag.
+
+Bank of England
+
+Page 5
+
+Figure 1: Co-Movement in the Annual Rate of Producer Price Inflation (PPI) and Consumer
+Price Inflation (CPI) in the United Kingdom, 1958 to 2023
+
+30
+
+Annual Inflation Rate (% change)
+
+20
+
+10
+
+0
+
+‐10
+1958 1963 1968 1973 1978 1983 1988 1993 1998 2003 2008 2013 2018 2023
+Output PPI
+
+CPI
+
+Notes: Consumer Price Inflation, (Domestic) Output Producer Price Inflation each month relative to the same month a year ago.
+
+Before exploring this further, let me highlight some issues. Lower response rates by firms
+and a general decline in the manufacturing sector could reduce the reliability of producer
+price figures, which has been an issue in certain firm and worker surveys recently. This
+does not seem to be a key driving factor in the recent divergence because producer price
+inflation measures in the European Union show similar episodic patterns, providing some
+reassurance that UK PPI figures are not unusual. That being said, direct cross-checks with
+EU data will become more difficult in the future because Eurostat is no longer reporting
+harmonised statistics for the UK following our departure from the EU. For now, the PPI
+data aligns with EU data sources and with real-time price indicators for the UK that come
+from alternative sources, such as PMI indices.
+I am now going to look in more detail at the current inflationary episode. Figure 2 shows
+PPI and CPI inflation from December 2019 to April 2023. I have already noted the
+increased importance of supply chains and services in today’s globalised economy, and so
+have added services inflation and input price inflation – which includes the price of inputs
+imported and produced domestically -- to the Figure.
+What does it show? Output producer price inflation has closely tracked the rise in input
+price inflation that UK producers have faced in the period after the pandemic. Moreover, as
+input price inflation has fallen since June 2022, so too has output price inflation, from its
+peak rate of 19.8 per cent in July 2022 to 5.4 per cent in April 2023. Moving beyond
+physical goods that are measured in input and output PPIs, producer price inflation in
+services provided by UK businesses is also falling.
+
+Bank of England
+
+Page 6
+
+Goods and services have imported content embedded in them, and in many cases, their
+prices are set in global markets. The global dimension is closely connected to, and
+strongly correlated with, the evolution of input prices and domestic producer prices. Easing
+of global price pressures is starting to show up in a slowdown in domestic producer price
+inflation.
+Let’s go back to the timing. Should we expect consumer price inflation to start to fall in tandem with
+producer price inflation and, if yes, with how much of a lag? Or are there costs or margin increases
+at the retail stage of the supply chain that might prevent consumer prices from following the drop in
+producer price inflation? With our current knowledge set, these are not the easiest questions to
+definitively answer. But they are important, and again central to monetary policy, and so we should
+try.
+In terms of the earlier tomato ketchup example, if producers are charging less for their ketchup, it
+should show up as reduced ketchup prices for consumers. But this could take some time if the
+supply chain is sequential. If it does not, then either retailers are keeping the cost savings to build
+their profit margins. Or, they may be incurring some other cost increases which are offsetting the
+producer price reductions and hence consumers are not seeing the grocery price for tomato
+ketchup falling.
+Figure 2: Trends in Input, Output and Services Producer Price Inflation and Headline
+Consumer Price Inflation
+
+30.0
+
+Annual inflation rate (% change)
+
+25.0
+20.0
+15.0
+10.0
+5.0
+0.0
+‐5.0
+‐10.0
+Dec‐19
+
+Jun‐20
+
+Dec‐20
+CPI
+
+Jun‐21
+
+Input PPI
+
+Dec‐21
+Output PPI
+
+Jun‐22
+
+Dec‐22
+
+Services PPI
+
+Notes: Consumer Price Inflation, (Domestic) Output Producer Price Inflation and Input Producer Price Inflation month on the same
+month a year ago. Services PPI inflation quarter on the same quarter a year ago.
+
+More generally, but in the same vein as the ketchup example, the dramatic rise in
+production fragmentation, supply chains and services in the domestic and global economy
+has fundamentally changed the transmission of international supply shocks to consumer
+prices. For example, price-setting is more complex when there are multiple stages and
+
+Bank of England
+
+Page 7
+
+firms involved in the journey of a product from the producer to the consumer. And even
+more so when inputs and services are tailored to the supply chain and governed by many
+underlying buyer-seller contracts, explicit or implicit. Each stage of supply chain
+fragmentation comes with some bargaining between buyers and sellers and the final price
+faced by consumers is an outcome of several layers of negotiations and price-setting
+between different firms (see Antras and Chor 2022, Antras and Staiger 2012). This chain
+of intermediate price-setting forms a wedge between producer and consumer prices and
+could be behind the current divergence of PPI and CPI inflation. Or it could be the notion
+that has been appearing in more discussions that firms are making profits from the
+situation (in media circles, termed as “greedflation”).
+A starting point to try and understand this better is to account for differences in the
+consumption and production basket of goods and services that are used to compute the
+indexes. They are not the same and this composition matters: the goods and services that
+we consume are very different from those that we produce.
+To be clearer, the consumption basket used to compute the CPI relies heavily on imports,
+which have experienced sharp price increases since the pandemic - particularly for
+essential commodities. The PPI does not capture this direct import dynamic, as its basket
+is only domestic goods and services. This might not have mattered fifty years ago, but in
+today’s global world, it surely could.
+So, how might this change if we standardise the PPI and CPI to the same set of goods and
+services? Figure 3 plots consumer price inflation together with (domestic) producer price
+inflation for all items in the consumption basket, weighted by CPI consumption basket
+shares for each item. Producer price inflation for items in the consumption basket has not
+fallen as sharply as the aggregate output producer price inflation shown in Figure 2.
+Keeping the composition of items the same for consumer and producer price inflation
+shows that there is still largely a tight relationship between them, with the turning point in
+producer price inflation occurring about 6 months before that in consumer price inflation.
+The divergence in producer and consumer price inflation in the aggregate statistics
+overstates the difference between items that are in the consumption basket. Moreover,
+headline CPI inflation is co-moving with its counterpart PPI inflation on both the way up
+and down, but with some lag. Although PPI inflation remains considerably elevated, its
+steep decline across goods and services indicates easing external price pressures. This
+supports wider evidence, such as lower energy price growth and some unwinding of global
+supply constraints.
+
+Bank of England
+
+Page 8
+
+Figure 3: Co-movement of CPI and Consumption-Weighted PPI of All Items in the CPI
+Basket, 2012 to 2023
+Annual inflation rate (% change)
+14.0
+12.0
+10.0
+8.0
+6.0
+4.0
+2.0
+0.0
+‐2.0
+‐4.0
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+CPI
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+CPI‐weighted PPI
+
+Notes: Consumer Price Inflation month on month a year ago (red) and Producer Price Inflation month on month a year ago (blue) for all
+items in the CPI basket and weighted by CPI weights for each month-year. Services PPI inflation statistics are quarterly and assigned
+the same value for each month within a quarter. They are not available for April 2023.
+
+Micro foundations of macro changes
+Going further, we can conduct a like-for-like comparison for every item in the consumption
+basket. This provides some promising news. For 72 out of the 83 items in the consumption
+basket – 88 per cent of consumption in value terms – both producer and consumer price
+inflation has begun to fall.2 The tight co-movement in consumer and producer price
+inflation in Figure 3 is therefore broad-based across the consumption basket, though there
+are delays in the turn in consumer price inflation.
+The transmission of price changes through a supply chain occurs with variable lags. Over
+the past thirty years or so, research has attempted to understand the relationship between
+producer and consumer prices (Jones 1986, Clark 1995). Factors such as the raw
+commodities of interest, the structure of the economy in question and the nature of the
+shock – is it driven primarily by demand or supply, externally or domestically, and so on –
+have a crucial bearing on the interaction between these prices. The growth of supply
+chains and services, which are harder to measure than goods, have made this task of
+pinning down the transmission process even more difficult. Statistics on supply chains and
+the buying and selling prices along the stages are almost non-existent, and this poses
+
+2
+In order to map items from CPA to COICOP, we have slightly modified the number of categories. All
+information from the official CPI basket are captured in our approach.
+
+Bank of England
+
+Page 9
+
+considerable challenges for understanding inflation dynamics and calibrating to the optimal
+monetary policy stance.
+Recent estimates for the United States that account for input-output linkages suggest that
+the effects of an oil shock on US consumer inflation can take over two years to build fully
+(Minton and Wheaton, 2023). Turning to the UK, a simple error-correction model that
+expresses consumer price inflation as a function of producer price inflation, suggests than
+in “normal” times, around 60-70% of increases in producer output prices are passed
+through to consumers, with the majority being passed on one to two quarters after the
+shock. This would be consistent with an earlier fall in headline producer price inflation. But
+given the present high inflation environment and the unique structure of the UK energy and
+food markets, many of these estimates from more normal times are less likely to apply
+precisely to the current experience.
+Let’s now look at the 10 items in the consumption basket which have consumer price
+inflation continuing to rise even as producer price inflation has fallen back.3 Table 1 shows
+those items that have experienced a turning point – downwards – in producer price
+inflation but not for consumer price inflation through the latest month – April 2023 – for
+which data are available. Most of them are food and food-related items, and they form the
+bulk of the divergence in consumer and producer price inflation. While producer price
+inflation rates of fruit, vegetables and other food products have come down substantially
+from their peaks, there has been a tiny drop in producer price inflation from its peak in
+alcoholic beverages and tobacco. The global energy shock was followed by a global food
+price shock, which has been critical for consumer food prices in the UK. We can therefore
+focus on food items to examine whether the divergence in consumer and producer prices
+is driven by imported food items, lags in transmission of international price dynamics, or by
+other cost pressures and profit margins of food retailers.
+
+3
+One remainder item has not seen either producer or consumer price inflation fall back, but it makes up a
+very small share of the consumption basket. Cleaning, repair, tailoring and hire of clothing makes up 0.1 per
+cent (1 out of 1000 parts) of the consumption basket and the latest quarterly data is not yet available.
+
+Bank of England
+
+Page 10
+
+Table 1: Ten Items in the Consumption Basket where Producer Price Inflation and
+Consumer Price Inflation Have Not Fallen, April 2023
+Item Code and Name
+
+Item
+Weight
+%
+
+CPI
+Inflation
+%
+
+PPI
+Inflation
+%
+
+Peak
+PPI
+Inflation
+%
+
+Month of Peak
+PPI Inflation
+
+01.1.6 Fruit
+
+1.0
+
+10.8
+
+3.9
+
+27.5
+
+July 2022
+
+01.1.7 Vegetables
+including potatoes
+and tubers
+
+1.5
+
+19.9
+
+7.1
+
+19.5
+
+October 2022
+
+01.1.9 Food products,
+not elsewhere
+classified
+
+0.5
+
+30.0
+
+11.1
+
+16.0
+
+October 2022
+
+02.1.2 Wine
+
+0.9
+
+5.7
+
+13.3
+
+13.5
+
+March 2023
+
+02.1.3 Beer
+
+0.6
+
+10.0
+
+13.3
+
+13.5
+
+March 2023
+
+02.2 Tobacco
+
+2.1
+
+11.0
+
+13.3
+
+13.5
+
+March 2023
+
+06.1.1 Pharmaceutical
+products
+
+0.7
+
+9.8
+
+4.1
+
+4.9
+
+March 2023
+
+09.1.3 Data
+processing equipment
+
+0.4
+
+4.4
+
+6.3
+
+8.3
+
+February 2023
+
+09.2.1 Major durables
+for in/outdoor
+recreation and
+maintenance
+
+0.8
+
+5.5
+
+2.5
+
+9.4
+
+May 2022
+
+09.3.4 Pets and
+related products and
+services
+
+1.3
+
+16.0
+
+13.7
+
+20.3
+
+October 2022
+
+Notes: Due to small numbers of producers, alcoholic beverages and tobacco are combined in producer prices data. CPI and PPI
+inflation are month on month a year ago.
+
+Food inflation and “greedflation”
+Honing in on food items, Figure 4 plots the time series of consumer price inflation together
+with producer price inflation for items that belong to Food, Beverages and Tobacco,
+
+Bank of England
+
+Page 11
+
+weighted by CPI consumption basket shares for each item within the category. Have they
+diverged recently because imported food prices are rising more than domestic food
+prices? Or, is it because of downstream cost pressures or oligopoly price-setting
+generating higher profits for retailers? Or is it to do with the staggered nature of energy
+and import contracts that have delayed the transmission of sharp increases in prices in the
+past?
+Possibly the biggest constraint in answering this question is a lack of price data on
+imported consumer items. The ONS is quite unique among statistics authorities in
+providing consumer price quotes for all items underlying headline consumer price inflation.
+This has enriched our understanding of price dynamics and has provided high-quality and
+timely inputs into decision-making. But because the price statistics do not identify the
+country of origin, the policy-relevant distinction between the extent to which imports for
+final consumption are driving a wedge between consumer price inflation and producer
+price inflation cannot be fully understood. In other words, because a lot of the tomato
+ketchup we consume come from abroad, the price charged by UK producers for their
+ketchup is an insufficient metric for assessing the evolution of consumer prices of ketchup.
+The distinction between domestic and imported prices is important for calibrating monetary
+policy.
+A partial answer can be inferred by comparing the evolution of consumer price inflation
+with producer price inflation and imported inputs price inflation for the same item. To fix
+ideas, we see the price of tomato ketchup that consumers pay and the price of ketchup
+that UK suppliers charge to groceries and other businesses. These are respectively
+recorded in the consumer price and producer price inflation numbers. But we only see the
+price of imported ketchup that is bought and used by groceries for their own consumption,
+such as to put in sandwiches and burgers. We do not see the price of imported ketchup
+that consumers buy from the grocery. Consumer prices do not make a distinction between
+domestic and imported items, which can be important for many products that are reliant on
+global price-setting.
+In the absence of data on imported consumer items, only imported input prices of the
+grocery are available to us. We will need to use this as a proxy for the price of imported
+tomato ketchup that the consumer pays for and that may be driving a wedge between
+consumer price inflation and domestic producer price inflation. The proxy seems
+reasonable in this example of ketchup, but in other contexts this is not an accurate
+depiction because items for business and household consumption can be very different or
+operate in highly segmented markets. Then both domestic and imported producer price
+inflation figures are needed to understand price dynamics.
+
+Bank of England
+
+Page 12
+
+Figure 4: Divergence of PPI and CPI Inflation in Food, Beverages and Tobacco
+Annual inflation rate (%
+80.0
+60.0
+40.0
+20.0
+0.0
+‐20.0
+‐40.0
+2012
+
+2013
+CPI
+
+2014
+
+2015
+
+CPI‐weighted PPI
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+CPI‐weighted import price
+
+2021
+
+2022
+
+2023
+
+Total energy costs
+
+Notes: Consumer Price Inflation month on month a year ago (red), Domestic Output Producer Price Inflation month on month a year ago
+(blue) and Imported Price inflation month on month a year ago (pink) for all items in Food, Beverages and Tobacco (Coicop 01 and 02)
+and weighted by CPI weights for each month-year. Total energy cost inflation month on month a year ago (orange) from Input-Output
+Tables and weighted by the share of total energy in each sector and the GVA weight of the sector based on calculations in Dhingra and
+Page (2023).
+
+Figure 4 shows that upstream cost pressures have generally eased with the fall in energy
+and imported food input price inflation, suggesting that contemporaneous energy and
+imported food prices are not a driving factor for the wedge between consumer and
+producer food price inflation. But there could be additional domestic cost pressures that
+food retailers are incurring that might be offsetting the drop in producer price inflation. For
+example, labour cost pressures in the food retailing sector have increased as some
+retailers have taken measures – such as one-off payments – to support their staff during
+the cost-of-living crisis.4 Wages are lower than average in these sectors, and wage growth
+is expected to ease over the year, according to Agency intelligence and faster-moving
+indicators (REC Report on Jobs, May 2023).
+Profitability in the retail food sector has come under close scrutiny. Unfortunately we have
+little direct information on margins of domestic suppliers and sellers, which severely limits
+the ability to assess whether margin building or rebuilding in retail is driving a wedge
+between consumer and producer food price inflation.
+Profitability statistics are notoriously poorly measured and report accounting profits rather
+than pure margins (Van Reenen 2018). The profitability and rate of return on capital
+
+4
+
+Also see Haskel (2023) for a discussion of nominal accruals to workers and firms during this period.
+
+Bank of England
+
+Page 13
+
+statistics published by the ONS for three categories of firms – manufacturing, services and
+continental shelf companies – do not show a sharp rise in aggregate profitability, except in
+the third category. Services firms differ a lot from each other, so average profitability of the
+services sector could be hiding relevant heterogeneity across retailers and other firms
+within the services sector.
+Company accounts – in the UK and overseas – provide an imperfect picture, especially
+because they are often collected for large domestically listed companies that also report
+their profits from all activities and from earnings in other countries. This severely limits the
+ability to assess whether margin building in retail is driving a wedge between consumer
+and producer food price inflation.
+We can examine balance sheet information available through analytics providers.
+However, the coverage turns out to be too spotty to make representative statements in
+real time or over long periods of time (due to changes in reporting standards and data
+collection practices).
+The accounts of the main supermarkets in the UK can be downloaded from their
+mandatory filings of company accounts. We have been able to obtain profitability
+information from the accounts of six major supermarket brands, which make up about
+three-quarters of grocery sales in the country (Table 2 in the Appendix). Some operate in
+multiple segments such as finance and property. We have therefore examined the profits
+they report for their retail or food sales, which is closest to our focus on consumer food
+price inflation here. The definitions of profits that are reported differ somewhat across
+supermarkets, but we can obtain a consistent picture for each supermarket.
+Despite all the caveats with profits from company accounts, as long as companies use the
+same accounting standards over time, their reported profits contain valuable information
+on trends in margins. This data indicates that profits and profit margins are not rising as
+might be expected in the event of margin rebuilding by supermarkets. This differs from the
+United States where there has been some reported increase in company profitability,
+which has been interpreted as a factor contributing to inflationary pressures (Weber and
+Wasner 2023).
+The balance of evidence suggests that the large cost pressures are slowing and profit
+margins are not rising in the UK. Transmission of producer prices takes time. It is likely
+that the same is true for the transmission of prices of imported consumer items that we do
+not observe directly, but which possibly peaked later than energy price inflation. A more
+likely explanation for food price inflation is the lagged transmission of the big international
+supply shocks. The initial global energy price shock and the concomitant rise in food prices
+are still likely to be at work in this inflationary period.
+
+Bank of England
+
+Page 14
+
+Data for inflation targeting
+Transmission of international shocks and monetary policy works with lags. Policymakers therefore
+need to understand price dynamics to gauge the evolution of future inflationary pressures.
+Information on product markets and their working are essential if we want to get more precision
+when taking crucial decisions to meet the inflation target on a narrow path. Microdata on consumer
+prices is providing much needed information to help rule in or rule out theoretical explanations for
+inflation dynamics (Davies 2022). It is also helping us understand that with food and housing rental
+costs rising, the burden of inflation is falling disproportionately on poorer households.
+The example of food prices highlights the micro foundations of the macro inflationary pressure that
+we are seeing now. Price statistics along the supply chain and profitability data for firms are
+needed across the entire economy to accurately pin down the nature, scale and duration of these
+outcomes. Aggregating from the micro to the macroeconomy is important for accurately calibrating
+monetary policy.
+The Bank’s Agency intelligence and various industry experts already provide insights into specific
+sectors. These timely tools bridge information gaps as they arise. But they are a complement
+rather than a substitute for better data collection along the supply chain specifically, and on the
+UK’s interaction with the world economy more generally.
+This highlights the importance of improving our data – something I am aware the ONS is working
+hard to deliver. The international dimension of our economy needs to be on the agenda for future
+progress on data and statistics. Data advances are also a subject of debate in other areas of public
+policy such as migration and economic activity (see Bell and Johnson 2023, Hall, Manning and
+Sumption 2023 and Machin and Wadsworth 2023).
+Analytical methodologies from the global value chain literature are also helping us to understand
+the indirect spillovers of the terms of trade shock. Supply-use tables show that energy use extends
+to most sectors of the economy, including those goods and services that are otherwise often
+classified as “non-tradable.” For example, services such as residential and care homes need
+electricity to keep them warm. These supply-use methods also reveal that measures such as core
+inflation, which may be useful to gauge underlying inflation during periods of demand-related
+booms, are not particularly good measures of domestically-generated inflation during an
+
+energy crisis. The consumption items that make up core inflation, such as clothing, durable
+household products, and trips to the cinema, are highly reliant on energy and imported
+inputs (Dhingra and Page 2023). Services and core services, which have been
+emphasised by the MPC, have relatively lower shares of energy and imported content.
+Developing better measures of underlying inflation, that stand the test of limited indirect
+effects, offers a promising yardstick to ascertain future inflationary pressures from
+domestic sources.
+
+Bank of England
+
+Page 15
+
+Figure 5: Proximate Sources of Headline and Core Inflation During the Cost-of-Living Crisis
+25.0 Pp. contribution to % change, 2019 Q4 to 2023
+Q1
+20.0
+
+Energy
+Imports exc energy
+Final use imports
+
+15.0
+
+Unit labour costs
+10.0
+
+Taxes
+
+5.0
+
+Gross operating
+surplus
+Error
+
+0.0
+
+CPI
+‐5.0
+Headline
+
+Core
+
+Services
+
+Core serivces
+
+The economic environment has become more uncertain due to more polarised geopolitics
+and more extreme weather events. Therefore, investment in the analytical infrastructure
+will provide large rewards in terms of managing impacts and targeting policy to where it is
+needed most.
+The imprecision of forecasting medium term outcomes means investing in the data and
+analytical infrastructure can help us prepare for future uncertainties. Granular data and
+techniques from the credibility revolution in economics – leveraging quasi and “natural”
+experiments to estimate policy impacts -- can overcome some of the challenges posed by
+short time series during large shocks (Angrist and Pischke 2009, see Card 2023 for
+applications to minimum wage policies). Leveraging the cross-sectional variation in price
+movements across many commodities enables an assessment of the sources, scale and
+timing of the pass-through of shocks to consumer prices. Data innovations can make this
+more achievable, including for example, through analytics companies and big data (such
+as energy contracts data and shipping data), developments in national statistics (such as
+availability of scanner data and online collections) and mandatory data collection (such as
+tax records, value added transactions and detailed company accounts).
+Outlook for the monetary policy horizon
+The lags in monetary policy transmission imply that there is little we can do to affect
+inflation in the immediate future, and we will always need to monitor the progress of the
+economy closely to calibrate the monetary policy stance over the medium term. The
+progress in collection of mortgage data from banks is already helping to quantify the
+transmission of monetary policy through the housing market.
+
+Bank of England
+
+Page 16
+
+Staff analysis indicates that monetary policy transmission to retail borrowing rates is
+happening as expected. Average quoted interest rates on mortgage lending were over
+300bps higher than November 2021, before this tightening cycle started (Monetary Policy
+Report, May 2023). And yet there are reasons to suspect that policy transmission will be
+slower than previous cycles. The large stock of fixed-rate mortgages delays the
+pass-through of a higher Bank Rate to households, but it is already starting to add to
+ongoing pressures for families that are renting or negotiating in the mortgage market.
+Agency reports indicate that firms also anticipate further pass-through of monetary policy.
+Today's labour market data release underlines how these effects take time to transmit to
+wage growth, and reiterates the need to illuminate these complex relationships with an
+improved analytic toolkit. Overall, data outturns indicate that the economy is starting to
+recover from the large supply shocks – albeit with ongoing hardship for some of the most
+disadvantaged individuals and families in our society.
+While the effects of our steep tightening cycle are building, further micro and macro
+analysis of profit margins and inflation in salient consumer items such as food will be
+particularly informative. But international factors are more uncertain, and we will need to
+update our understanding of the transmission of global shocks to UK consumer price
+growth.
+I have focussed in this talk on the importance of global factors for the episode of high
+inflation that UK businesses and families are struggling with. The cost-of-living crisis is not
+over. Although monetary policy cannot directly address underlying structural and
+distributional issues, it can return inflation to target sustainably in the medium-term. Indeed
+we are committed to ensuring this happens. Low and stable inflation is the best
+contribution that monetary policy can make to macroeconomic outcomes and welfare. The
+past few years have highlighted how important it is for policymakers to understand the
+transmission of shocks. Insofar as the evolving realities of geopolitics and climate change
+leave us more exposed to global uncertainties, we need to proactively develop the data
+and analytic infrastructure to address the past, current and forthcoming challenges.
+
+I would like to thank Andrew Bailey, James Bell, Ben Broadbent, Oliver Davies, Chris
+Duffy, Edward Hall, Jonathan Haskel, Zaar Khan, Josh Martin, Jake Mulcahy, Jack Page,
+Huw Pill, Dave Ramsden, Martin Seneca, Fergal Shortall, Silvana Tenreyro, and Carleton
+Webb for their helpful comments and input.
+
+Bank of England
+
+Page 17
+
+References
+Angrist, J and S Pischke (2009), Mostly harmless econometrics: An empiricist's
+companion. Princeton university press.
+Antràs, P and D Chor (2022), “Global value chains”, Handbook of international
+economics, 5, 297-376.
+Antràs, P and R Staiger (2012), "Trade agreements and the nature of price
+determination", American Economic Review 102:3, 470-476.
+Bell, B and P Johnson (2023), “Immigrant downgrading: New evidence from UK panel
+data”, Migration Advisory Committee.
+Card, D (2023), Prize lecture, NobelPrize.org. Nobel Prize Outreach AB 2023, 13 June
+2023.
+Clark, T (1995), “Do producer prices lead consumer prices?”, Economic Review, Federal
+Reserve Bank of Kansas City, 80:3, 25-29.
+Davies, R (2021), “Prices and Inflation in the UK – A New Dataset”, CEP Occasional
+Paper, 55.
+Dhingra, S and J Page (2023), “A cost-of-living crisis: Inflation during an unprecedented
+terms of trade shock”, Bank of England, Speech delivered on 8 March, 2023.
+Hall, T, A Manning and M Sumption (2023), “Projecting UK Net Migration”, Working Paper.
+Haskel, J (2023), “What’s driving inflation: wages, profits, or energy prices?”,
+Bank of England, Speech delivered on 25 May, 2023.
+Jones, J (1986), “Consumer prices, wholesale prices, and causality”, Empirical Economics,
+11, 45-55.
+Machin, S and J Wadsworth (2023), “The Troubble with Inactivity”, Working Paper.
+Martin, J and J Reynolds (forthcoming), “Has the import price shock been worse in the UK
+or Euro area?”, Working Paper.
+Minton, R and B Wheaton (2023), “Delayed Inflation in Supply Chains: Theory and
+Evidence”, Available at SSRN 4470302.
+Monetary Policy Report (2023), Bank of England, May.
+UK Report on Jobs (2023), KPMG and REC, May.
+
+Bank of England
+
+Page 18
+
+Van Reenen, J (2018), “Increasing differences between Firms: Market Power and the
+Macro-Economy”, CEP Discussion Paper No 1576.
+Weber, I and E Wasner (2023), "Sellers’ Inflation, Profits and Conflict: Why can Large
+Firms Hike Prices in an Emergency?", Economics Department Working Paper Series, 343.
+
+

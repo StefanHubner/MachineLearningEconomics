@@ -1,0 +1,1607 @@
+Monetary policy expectations and long term interest rates
+Speech given by
+Gertjan Vlieghe, External MPC member, Bank of England
+
+London Business School
+19 May 2016
+
+I would like to thank Rodrigo Guimaraes for his substantial contribution to this speech. Many of the
+ideas are based on his earlier and current research. I would also like to thank Bank of England
+colleagues for detailed and helpful comments.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+1. Introduction
+1
+
+My talk today is about long-term interest rates. Long-term interest rates play an important role in monetary
+policy. They are a key part of the transmission mechanism, via which monetary policy affects the wider
+economy. And they contain useful information about expected future policy rates and expected future
+inflation.
+
+I will decompose long-term interest rates into real and nominal components, as well as expectations and risk
+premia components, with particular emphasis on the UK experience.
+
+I will argue that the most important factor behind the fall in long-term interest rates since the financial crisis
+has been a downward revision in the expected path of policy rates, with inflation expectations relatively
+stable, thus reflecting lower expected future real rates. The fall in term premia accounts for a relatively small
+part of the decline in long-term interest rates.
+
+I will argue that the reason expected future real rates are low is that monetary policy has responded, and is
+expected to continue to respond, appropriately to persistent forces weighing on demand and inflation.
+Interest rates are low because that is what the economy needs in order to keep inflation expectations
+anchored.
+
+The natural rate of interest is expected to remain low for many years. Candidate explanations for a
+persistently low natural rate of interest across a wide range of countries include debt deleveraging,
+demographic shifts and changes in the distribution of income, which I discussed earlier in the year. The
+expectations-driven decline in long-term interest rates is apparent across a wide range of countries,
+suggesting that these forces are global, not unique to the UK.
+
+Viewed in this light, there is nothing anomalous about the low level of long-term interest rates, nor is there
+any evidence that government bond yields are “distorted” by central banks’ asset purchases. None of this
+should be taken to imply that low long-term interest will not change. They are based on expectations of
+future policy, which have changed, and will continue to change, as the economy evolves.
+
+I will also present some thoughts on the near-term economic outlook, and the associated challenges for
+monetary policy.
+
+1
+
+My colleagues on the MPC have recently addressed related issues; see, for example, Shafik (2015) and Broadbent (2014).
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+2. Why do Central Banks care about yield curves?
+
+Setting conventional monetary policy means setting the policy rate, called Bank Rate, at the appropriate level
+to ensure that inflation is close to its 2% target.
+
+Even though Bank Rate has been the main tool of monetary policy, it directly affects only a small part of the
+economy: Bank Rate is the interest paid on reserves that banks hold at the Bank of England.
+
+The real impact of monetary policy is indirect: Bank Rate affects many other interest rates, which have a
+much larger economic impact. For households, it is the interest rates on deposits, mortgages, personal
+loans, credit cards and car loans that matter. For businesses, it is the interest rates on deposits, business
+loans and corporate bonds that matter. For the government, it is the interest rate on government bonds, or
+gilts, that matters.
+
+Bank Rate is an overnight rate, a rate paid on a deposit made today that you can get back tomorrow. But
+most of the rates that I just listed that directly affect economic activity are not overnight interest rates, they
+apply over longer time periods. For example, the bulk of new mortgages have a rate that is fixed for 2 or
+3 years, corporate bonds have rates that are fixed for around 14 years (but just 5-7 years before the crisis).
+The government on average borrows at rates fixed for around 15 years, and issues some bonds with rates
+that are fixed for over 50 years.
+The interest rates that matter for many parts of the economy are longer term than just overnight. In today’s
+talk I want to delve into what drives those longer-term interest rates. The range of interest rates from short to
+long term is described by the yield curve, which is simply a list of interest rates over different time horizons
+that apply at a particular point in time. I will focus primarily on the yield curve on government debt. Other
+interest rates are typically described as a spread, or margin, above or below the government yield curve.
+
+As I will discuss, a crucial way in which policy affects these longer term rates and spreads is by affecting the
+expectations of future policy. Indeed, as summarised in Woodford (2003), the prevailing academic
+consensus before the crisis was that expectations of future policy were what mattered most, far more than
+just setting overnight rates. This consensus lay behind the global drive toward greater transparency from
+central banks and the adoption of inflation targets by a large (and increasing) number of countries.
+
+Yield curves matter for monetary policy in two respects. First, as I have just explained, they are a key part of
+how monetary policy gets transmitted to the rest of the economy. Second, yield curves contain useful
+2
+
+information about what market participants expect in the future. Monetary policy responds to economic
+developments, and in turn aims to influence the economy to achieve the inflation target. Yield curves, as I
+2
+
+See Bank of England (1999) and Woodford (2003) for a discussion of the role of market rates in the transmission mechanism of
+monetary policy, and Bernanke (2004) for discussion of the information value for policymakers.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+will explain, contain information about the path for policy rates and inflation that market participants expect to
+prevail in the future. This can tell us, for example, whether market participants are optimistic or pessimistic
+about future economic developments, and it can also tell us whether market participants expect the central
+bank to be successful in meeting its inflation target.
+
+3. Yield curves: what do the data say?
+
+To describe the evolution of long-term interest rates over time, it is useful to introduce the concept of forward
+rates. For those unfamiliar with the concept, consider a one-year loan and a two-year loan. The two-year
+loan can be thought of as a one-year loan, which is then renewed after a year with another one-year loan.
+The rate for the second year of the two-year loan, which is implicit in the two year loan rate, is called the
+forward rate. We can calculate forward rates at all horizons.
+
+The benefit of doing this is that any long-term interest rate can then be decomposed into a sum of forward
+rates. This is a useful descriptive device, because it allows us to distinguish whether long term interest rates
+change because of a change in the near-term forward rates, or the longer-term forward rates, or both.
+
+A second calculation that will turn out to be useful is to split nominal yield curves into an inflation component
+and a real yield component. The existence of inflation-linked bonds allows us to measure the yield curve for
+each component separately. The inflation component of the yield curve, also known as “break-even
+inflation”, is the component of the return on nominal bonds that investors demand for taking inflation risk.
+
+3
+
+There is yet a third split, which I will return to later, into expectations of future short rates and a risk premia
+component.
+
+With those tools in hand, we can now examine the history of long-term yields (or long-term interest rates,
+which is the same thing).
+
+Figure 1 shows the evolution of 10 year government bond yields in in the UK since 1972. Long term interest
+rates rose sharply from 6% to 16% in the 1970s, generally stayed above 10% until the early 1980s, and have
+come down gradually and significantly since then, with the exception of a brief spike in the early 1990s.
+Currently, the 10 year yield is about 1.5%.
+
+Figure 2 decomposes long-term rates into an inflation and real yield component. The decomposition starts
+only in the early 1980s, when index-linked government bonds were first issued in the UK.
+
+3
+
+Note that break-even inflation rate in the UK is measured in terms of the RPI inflation, because that is the inflation measure
+index-linked bonds are indexed too. The measure of inflation that the MPC targets, on the other hand, is CPI inflation. There is a large
+and time-varying wedge between the two measures, reflecting differences in coverage and methodology. See, for example, Liu et al
+(2015).
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+Initially, long-term interest rates were high because the inflation component was high, and up to Bank of
+England independence in 1997 the decline in long-term interest rates was primarily due to a decline in the
+inflation component. Between 1997 and 1999, both the inflation and real yield component fell back. After
+1999, the inflation component has been broadly stable and the entire decline in long term interest rates since
+then has been due to the real component.
+
+This evolution is consistent with a narrative, familiar to many, of the UK struggling with high and variable
+inflation in the 1970s through early 1990s, suffering from a lack of a consistent framework for monetary
+policy. This was brought under control only from 1992 with the introduction of inflation targeting, and further
+solidified in 1997 with Bank of England operational independence.
+
+4
+
+Monetary policy went from being a source of disturbances to the economy, to being an inflation-stabilising
+force.
+
+But stabilising inflation did not result in stable long-term rates. The real component of long-term rates kept
+falling, gently initially, then more sharply after the financial crisis.
+
+Figure 3 shows the evolution of Bank Rate since 2005, as well as a series of forward curves at different
+dates. In response to the financial crisis, Bank Rate was cut from 5.5% in 2008 to 0.5% by March 2009.
+
+Short-term forwards, which follow Bank Rate closely, fell sharply, but still implied a return to pre-crisis levels
+over the subsequent years. In other words, initially, long term rates fell largely because the short-term rates
+fell.
+
+As we progressed through the post-crisis years, two further developments emerged: forwards remained low
+over increasingly long horizons, and longer term forwards were much less steep. We might call the pattern a
+“lying down” of the forwards.
+
+Figure 4 presents a different way to make the same point: initially, most of the fall in long-term interest rates
+was due to the near-term forwards, here summarised by the 5 year rate (the average of forward rates up to
+the 5 year horizon). Thereafter, the longer-term forwards also started to decline, as summarised by the
+average forwards between years 5 and 10, called the 5 year, 5 year rate.
+
+4. UK vs US
+
+To get a sense of the extent to which UK interest rates were driven by domestic or international factors, it is
+useful to compare the evolution of UK and US long-term interest rates, shown in Figure 5.
+
+4
+
+See Nelson (2000) for a description of the evolution of monetary policy in the UK from 1972 to 1997.
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+The pattern that emerges is “similar but not the same”. In the 1970s, US long-term yields rose more gently,
+as the US’s inflation experience in the 1970s was not quite as bad as the UK’s. Both countries reached
+similar levels of long-term yields in the in the early 1980s. Since then, the declines have been of a similar
+magnitude.
+
+Figure 6 compares short-term interest rates, in this case the 1 year rate which tends to follow the policy rate
+fairly closely. Here too we see a pattern of “similar but not the same”. Both countries experienced very high
+short-term interest rates in the early 1980s as monetary policy aimed to reduce inflation sharply. UK rates
+spiked to similar levels again in the early 1990s, but this was associated with the UK’s membership and
+subsequent exit of the European Exchange Rate Mechanism, so the US did not have the same experience.
+
+More recently, we can see that US rates came down slightly earlier in the financial crisis, as the US economy
+started its slowdown slightly before the UK, but short-term interest rates soon reached similar levels.
+
+With short-term interest rates clearly responding to some specific domestic developments, but long-term
+rates seemingly more correlated, a view has sometimes been expressed that short-term rates are under the
+central bank’s control but long-term rates are driven by other “global factors” beyond the control of central
+banks. This is reinforced by findings such as those in figure 7, showing that 10 year rates have a higher
+correlation than 2 year rates.
+
+I think that is somewhat misleading. A more apt description is that central banks in the UK and US are both
+responding to domestic circumstances, which tend to be somewhat but not perfectly correlated.
+
+As shown in figure 8, the correlation of 2 year forward rates is more often than not higher than the correlation
+of 10 year forward rates. So the high correlation of long-term interest rates is also driven by the forward
+rates that prevail at shorter horizons, over the first few years of the yield curve.
+
+To be more precise about what drives short-term and longer-term forward rates, we need some more tools
+and some theory, to which I turn next.
+
+5
+
+5. Robust and sensible decompositions
+
+Economic theory tells us that forward rates are driven by two components: expectations of future short rates,
+and risk premia, also referred to as term premia, the premium demanded by investors for holding “term risk”.
+In order to distinguish the two, we need a model.
+
+5
+
+Using a model to decompose yields into expectations and term premia, as explained in the next section, we find that the correlation of
+the 10 year rate is just as much about the expectations component as about the term premium component. In other words, it is not the
+case that the high correlation is driven only by risk premia.
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+It is often instructive to start with the simplest first. The two rather extreme assumptions that allow a
+decomposition of forward rates into expectations and risk premia are the “Expectations Hypothesis” and the
+“Random Walk Hypothesis”, both shown in figure 9.
+The “Expectations Hypothesis” simply states that forwards are entirely driven by expectations, i.e. that there
+are no risk premia. So observed forward rates are taken to be the expectations of future rates.
+The “Random Walk Hypothesis” takes the opposite approach. It assumes that expectations of future short
+rates are the current (or spot) short rate. Any deviation of forward rates from that flat expected path must
+therefore be due to risk premia.
+The advantage of these two approaches, which we might call “0% premia” and “100% premia” is that they
+are robust, they always give the same decomposition of the yield curve. But are they sensible?
+6
+
+Nobody actually believes that risk premia are zero at all times on all assets. This is a simplification used by
+economists who want to make their models tractable by making them linear, which precludes the existence
+of risk premia.
+
+What about the assumption of a random walk? A simple clue as to whether this is sensible is given by figure
+10, which shows the paths of interest rates that are expected by professional forecasters at different points in
+time. If forecasters believed in a random walk, this picture should show only horizontal lines. But it does
+not.
+
+7
+
+If we accept that neither of these two extreme assumptions is sensible, how do we progress? We need a
+model that allows for non-trivial risk premia, i.e. somewhere in between 0% and 100%.
+
+A standard class of models used in the academic literature and in central banks is the affine dynamic term
+structure model (ADTSM). This model specifies a familiar VAR process for yields, which describes the
+8
+
+expectations component, and a similar process for the risk-adjustment.
+
+The problem with this class of models, as with many highly parametrized economic models estimated from
+persistent time series data, is that their estimation is not robust. As shown in Guimarães (2016), changing
+6
+
+See Cochrane (2011) for a summary of the consensus for a large role for time-varying risk premia in explaining asset price
+movements. There is a long literature documenting the failure of the “Expectation Hypothesis” with significant time-varying risk in bond
+markets, see Piazzesi (2009) for a summary focusing on ADTSM, the class of models we use below.
+7
+A similar picture arises for the US, using the Survey of Professional Forecasters, or the FOMC’s own projections (made available since
+2012).
+8
+A full specification of an ADTSM involves specifying the determinants (factors) of the risk-free rate, how risk premia depend on these
+factors and how these factors evolve. The Gaussian ADTSM is the simplest class of such models, where the factors are assumed to
+evolve according to a standard VAR, and the prices of risk are linear on the factors, so the risk-adjusted dynamics also evolve according
+to a VAR, though with different parameters for the drift (mean and persistence). See Guimarães (2016) for more details.
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+the sample period or the number of factors can change the results wildly, with important consequences for
+not just the size but even the sign of risk premia. Figure 11 shows the range of 10 year spot term premia
+obtained by this class of models.
+
+9
+
+One proposed improvement (suggested by Kim & Orphanides (2005, 2012)),
+
+10
+
+is to put some weight on
+
+surveys of forecasters. Even without assuming that forecasters are right, or that surveys are in any way a
+clean measure of market participants’ expectations, putting some weight on surveys has been shown
+(Guimarães (2016)) to drastically improve the robustness with which risk premia can be estimated from
+yields, shown in figure 12.
+
+11
+
+6. Analysing risk premia and monetary policy expectations since the crisis
+
+A robust and plausible decomposition of long-term interest rates into a risk premium component and an
+expectations component allows us to examine the impact of monetary policy since the start of the financial
+crisis, including the impact of unconventional monetary policy.
+
+First, let us recall that monetary policy always works by affecting a wide range of interest rates and risk
+premia. Expectations of future policy rates have an impact on longer term interest rates. But the expectation
+of better economic outcomes as a result of monetary stimulus also changes the distribution of risk, and
+therefore can reasonably be expected to affect risk premia on a wide range of assets, including government
+bonds.
+
+12
+
+Note also that there is not necessarily a sharp conceptual distinction between the transmission of
+
+monetary stimulus executed by a reduction in the policy rate, compared to the one executed via the
+purchases of government bonds. It is only a few decades ago that monetary policy in the UK and elsewhere
+was routinely executed by purchasing assets as the primary instrument, with changes in various interest
+rates as an intermediate target. Carrying out monetary stimulus via asset purchases from 2009 was more
+remarkable for its sheer speed and size than its change of tools.
+
+13
+
+9
+
+The figures show a total of 72 estimates which result from combinations of number of factors (3, 4 and 5 factors driving the interest
+rate and risk premia) and 24 different data samples for each (8 samples starting in Jan 72, 77, 82, 87, 92, 97, 02, 07 and ending in Dec
+2015 and 16 samples starting in Jan 72 but ending in Dec 00, 01, 02,…,14,15). These are estimated using the 3-step regression
+approach proposed by Adrian et al (2013). The addition of surveys using this method is explained in Guimarães (2016). Guimarães
+(2016) also shows that the estimation method is not particularly important, what matters is including surveys or not (i.e. same results
+when estimating the models by Maximum Likelihood with different assumptions about factors).
+10
+See Kim & Wright (2005) for an early application to US data (model estimates continuously updated by Fed staff) and Joyce et al
+(2010) for an early application to the government yield curve in the UK.
+11
+Importantly, Guimarães (2016) shows that this is purely a statistical identification problem (estimation of parameters), not about
+changing the information contained in bond prices to fit surveys, and that assuming survey forecasts are more or less noisy is not
+important (i.e. the results are insensitive to increasing the assumed volatility of errors of survey forecasts).
+12
+For evidence and theory of risk premia effects of conventional monetary policy see among others Bernanke & Kuttner (2005),
+Gurkaynak et al (2005), Palomino (2012), Bekaert et al (2013), Hanson & Stein (2015), Fawley & Neely (2014), Gertler & Karadi (2015),
+Buraschi & Whelan (2015), Boyarchenko et al (2016) ), Cesa-Bianchi et al (2016), Gorodnicheno &Weber (2016) and Schmeling &
+Wagner (2016).
+13
+Since 2007, the Bank of England expanded its balance sheet nearly five-fold, or by 20 percentage points of GDP. The Bank of
+England (http://www.bankofengland.co.uk/education/Documents/resources/postcards/qecomp.pdf) still describes QE as injecting money
+in the economy. See also Mervyn King’s 2009 Mansion House speech. Bernanke & Reinhart (2004), before the financial crisis, argued
+QE could be seen as a continuation of standard open market operations, simply as “switching its focus from the price of reserves to the
+quantity or growth of reserves” (pg 87).
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+In March 2009, the MPC cut Bank Rate to 0.5% and announced that this was, at the time, seen to be the
+effective lower bound on interest rates. In other words, any further reduction of Bank Rate was seen as
+potentially counterproductive, as the adverse impact on the balance sheets of certain lenders might more
+than offset the stimulative impact via a range of interest rates and possibly the exchange rate.
+
+14
+
+Because the monetary stimulus provided by a 0.5% policy rate was judged to be insufficient at the time, the
+Bank also announced it would start a programme of asset purchases (also known as “quantitative easing”, or
+QE), and the purchases were primarily of government bonds.
+
+15
+
+We can now look at the evolution of interest rate expectations and risk premia since the start of the financial
+crisis, including over the period when asset purchases were carried out.
+
+First, by simple inspection of the time series in Fig 13, we can see that risk premia in UK long-term interest
+rates were generally rising in the period when asset purchases began. Risk premia did not stabilise until
+2010, when asset purchase programmes were well underway. And risk premia did not start falling until
+summer of 2011, and fell further from 2014 when UK asset purchases had already ended. The US showed a
+similar pattern, as can be seen in Figure 14.
+Expectations, on the other hand, fell throughout this period, in a way that I described earlier as “lying down”.
+Initially, it was near-term expectations of future policy rates that fell, but policy rates were expected to rise
+back to the pre-crisis levels fairly swiftly. Then, the point at which rates were expected to rise started being
+pushed out further in time, and the pace at which rates were expected to rise thereafter was being revised
+down.
+
+Figure 15 summarises the evolution of term premia and expectations over the entire period from 2007 to
+2016. It shows that well over half of the movement in yields was accounted for by changes in expectations,
+not changes in risk premia. At short horizons, 100% of movement was accounted for by expectations. But
+even at the 10 year horizon, more than 80% of the movement in the UK yield curve was due to expectations
+(just under 70% in the US).
+
+So far, we have just described what happened on average over the period, without trying to pin down
+specific causality from the asset purchase programme to yields. But I am already finding it hard to tell a
+convincing story of asset purchases working primarily through term premia when term premia moved the
+wrong way initially, and when movements in the yield curve were primarily due to changes in the
+expectations of future short-term rates.
+
+14
+
+Since then, lender balance sheets have improved, and the MPC announced in February 2015 that interest rates could be cut further if
+necessary.
+15
+In the US, Fed funds (policy rate) reached the ELB in December 2008, establishing a band of 0% to 0.25% for its target rate, and
+purchases of mortgage backed securities began in November 2008 and government bonds in March 2009.
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+Moreover, let us consider for a moment the broad thrust of the argument that asset purchases reduced term
+premia primarily by removing bond supply or interest rate risk from the private sector.
+
+16
+
+As pointed out by
+
+Greenwood et al (2016), net supply of government bonds in the US increased over the post-crisis period, as
+the issuance requirements to fund the deficit rose much more sharply than the Fed’s purchases. A similar
+pattern was observed in the UK, where net issuance of government bonds was far larger than the amounts
+17
+
+bought by the Bank of England . To explain why long-term interest rates declined throughout the post-crisis
+period, we have to resort to interest rate expectations, we cannot plausibly invoke the mechanical impact of
+asset purchases.
+
+One approach often used to assess the impact of asset purchases on yields is to carry out an event study,
+for example by only looking at the movement in yield curves on the day of significant announcements related
+to asset purchases. That isolates the effect of asset purchases on the yield curve from the effect of other
+changes in the economy.
+
+Figure 16 shows that the results still stand: even at longer maturities, roughly 60% of the movement in the
+yield curve is due to changes in expectations. And at shorter maturities, the share due to expectations is
+even larger. Results are similar for the US (just under 50%), as shown in figure 16.
+
+However, I am only showing these event study results for comparability to many other studies in the
+literature. I would like to emphasise that I do not find event studies convincing for the purpose of analysing
+the impact of central bank asset purchases. These studies do not allow for the fact that some part of asset
+purchase announcements were anticipated by financial markets, nor do they allow for a gradual impact over
+time as market participants adjust their positions or learn about the new policy. Finally, event studies
+over-emphasise temporary effects that could be driven by low market liquidity and fade quickly.
+
+18
+
+The picture that emerges is one where asset purchases have an effect on term premia, but also work by
+changing expectations of the future path of policy and future economic outcomes. This should not be too
+19
+
+surprising . Asset purchases were a powerful signal about central banks’ reaction functions: central banks
+demonstrated they were willing and able to provide further stimulus even when the policy rate had reached
+
+16
+
+For an overview of the various papers investigating the portfolio balance channel, see e.g. Joyce et al (2012).
+Since the start of the 2009 fiscal year, which coincided approximately with the start of UK asset purchases, net issuance of gilts has
+been GBP 800bn, while asset purchases have only been GBP 375bn. As in the US, it is very hard to reconcile net issuance with term
+premia dynamics: the period of decrease in net issuance (early 2009) corresponds to stable long term forwards and higher term premia
+estimates, while term premia fell most at the end of the sample, when there was large net issuance. This either suggests these effects
+are small or that they are temporary, matching the fact there were large fall in yields on announcement days even though over the whole
+of US QE1 period yields increased, which is what Wright (2012) finds.
+18
+For a detailed treatment of the potential flaws in event studies, see Gurkaynak & Wright (2013). Greenwood et al (2016) emphasise
+the possibility of slow adjustment, and temporary effects due to lack of liquidity.
+19
+Not too surprising, but stands in contrast with some papers in the literature that ascribe most of the effect of QE as working via term
+premia. See Williams (2014) for a review of the large number of studies on the impact of QE. Studies include the impact on the
+government yield curve (e.g. Doh (2010), Gagnon et al (2011), Bauer & Rudebusch (2014), Cahill et al (2013), Christensen &
+Rudebusch (2012), D’Amico & King (2013), Joyce et al (2010, 2011), Krishnamurthy & Vissing-Jorgensen (2011), Buraschi & Whelan
+(2015b)), on different asset classes (e.g. Bauer & Neely (2014), Glick & Leduc (2012), Gilchrist & Zakrajsek (2013), Hattori et al (2016)),
+on expectations (e.g. Carvalho et al (2011), Altavilla & Giannone (2015)) and on the macroeconomy (e.g. Bridges & Thomas (2012),
+Baumeister & Benati (2013), Kapetanios et al (2012), Weale & Wieladeck (2016)). We discuss these in Guimarães & Vlieghe (2016).
+17
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+20
+
+its effective lower bound . Moreover, by carrying out further asset purchases even when the policy rate had
+been at its effective lower bound for several years, the action was also a signal that either the economy was
+even weaker than previously thought, or that low interest rates were providing less of a stimulus than
+previously thought (i.e. the natural rate was lower). Both mechanisms are likely to have contributed to a
+downward revision of the expected future rate path.
+
+Why is it important to assign the impact of asset purchases to expectations or to term premia? Because it
+enhances our understanding of how the policy has worked in the past, and therefore how it might work in the
+future, should we need to use it again. It also sheds light on the likely impact of unwinding asset purchases
+one day.
+
+Relatedly, if one thought that asset purchases work primarily through term premia, this might give credence
+to the idea that central bank bond purchases are “distorting” long-term interest rates. But, as the data show,
+most of the fall in long-term interest rates was not due to risk premia, but due to expectations of the future
+path of policy rates. Estimates of UK term premia are only slightly lower than their average levels in the
+decade before 2007, and most of the reduction has happened after QE had ended, with a reduction
+measured in tens of basis points, not hundreds of basis points.
+
+Turning then to the expectations of the future path of policy rates, what do these say about how monetary
+policy behaved and is expected to behave?
+
+We know from surveys and from formal models
+
+21
+
+that the relative stability of break-even inflation since the
+
+late 1990s is due to the stability of the expectations component of break-even inflation. This is important for
+our interpretation of the expectation of future short-term interest rates.
+
+The fact that inflation expectations have been broadly stable suggests that monetary policy has been
+appropriately responding to persistent forces weighing on demand and inflation.
+
+22
+
+If inflation expectations
+
+had been declining, that would be indicative of monetary policy providing insufficient stimulus. If inflation
+expectations had been increasing, it would indicate too much monetary stimulus. But yield curve patterns
+suggest that market participants on average consider that the monetary stimulus in the UK has been “about
+right” to achieve the inflation target, and will continue to be “about right”.
+
+20
+
+Bernanke (2015) provides a detailed account of policy at the Fed during the crisis periods. He stresses how, even though there were
+doubts about how it would work and potential side effects, decisions on QE programmes were often driven more by the desire to send a
+clear signal about the FOMC’s commitment to provide monetary easing (see pages 420-21 describing the decision to extend MBS
+purchases and start buying treasuries announced on March 18 2009, or page 484 for the decision to reinvest maturing MBS) than the
+specific mechanisms through which the policy might work.
+21
+See Joyce et al (2010) and Guimarães (2016).
+22
+For the initial deflation scare, see Smith (2012) for evidence from inflation options in the UK, and Guimarães (2012) for discussion of
+survey evidence and estimates of model-implied inflation risk premia and expectations consistent with a large deflation scare at the time
+of the Lehman collapse. See also Garcia & Werner (2011) for similar Euro-area evidence and Christensen et al (2012) for the US.
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+The interest rate that is appropriate in order to keep inflation close to target is referred to as the natural
+interest rate. The evolution of policy since the crisis and the expected future path of policy show that the
+MPC has been tracking the natural rate, and is expected to continue tracking the natural rate.
+
+23
+
+Of course the expected path of future policy changes frequently as it adapts to new information about the
+economy and the MPC’s reaction function. But the key point is that the expected path of interest rates is in
+line with the expected path of the natural rate: the MPC is not expected to overheat the economy or to stifle
+it. Rates are expected to be low because that is what the economy is thought to require in order to return
+inflation to target and keep it there.
+
+That leaves us with the question of why the expected path of the natural rate is so low. Earlier this year I
+offered my own views on this, namely persistent effects from debt deleveraging, demographic shifts and
+changes in the distribution of income have created an environment where a given level of growth might be
+consistent with substantially lower interest rates than in the past. This environment might persist for years,
+even decades.
+
+24
+
+7. Other countries
+
+What about countries other than the US and the UK? The same decomposition between the expected path
+of interest rates and term premia can be estimated for a range of countries using the Consensus Forecasts
+survey of professional forecasters.
+
+Using this decomposition, we see from figure 17 that there was no systematic movement in risk premia
+across a wide range of countries in the post-crisis period. For some, risk premia went up, for others, they
+fell, and for some they were unchanged.
+
+What all countries did have in common, however, is a substantial fall in the expected path of future interest
+rates, shown in figure 18. The path of future policy rates was revised down by several percentage points on
+average.
+
+Note that this sample includes countries that carried out asset purchases as well as those who did not. And
+it includes countries that reached their effective lower bound on interest rates as well as those who did not.
+
+I interpret this pattern as significant further support for the idea that what is driving long-term interest rates
+lower is not asset purchases or otherwise distortive monetary policies, but rather global economic
+circumstances that are expected to require very low policy rates for many years. Without such low policy
+23
+
+See Woodford (2003) for textbook description of desirability of tracking the natural rate as optimal policy. See Barsky et al (2014),
+Curdia (2015), and Curdia et al (2015) for US estimates of the natural rate, and Bank Underground blog post by Goldby et al (2015) for
+the UK.
+24
+See Vlieghe (2016) for general discussion and references.
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+rates, we risk an unanchoring of inflation expectations to the downside, which in turn makes any level of
+policy rates less stimulative by increasing real interest rates, and can create a vicious cycle of growth and
+inflation disappointments, as seen in Japan since the early 1990s.
+
+25
+
+8. Current UK outlook
+
+Before concluding, I will make a few comments on the current outlook for the UK economy and recent data
+developments.
+
+Despite repeated forecasts of stabilisation, UK GDP growth has continued to slow, from around 3% in 2014,
+to around 2% in 2015, to less than 2% in 2016 so far. This slowing has taken place against a background of
+persistently disappointing global growth, domestic fiscal consolidation, weaker than expected productivity
+growth, and, more recently, uncertainty about the upcoming referendum on the UK’s membership of the EU.
+Inflation pressures remain subdued, although the inflation data have, on balance, not continued to surprise
+us to the downside over the past few months. Headline inflation is well below target at 0.3% on the most
+recent data, although most of that reflects past falls in energy and food prices, an effect which is expected to
+fade. Core inflation remains subdued at 1.2%. Wage inflation at around 2% continues to be weak despite
+the past declines in the unemployment rate to just above 5%.
+The upcoming referendum on the UK’s membership of the EU poses particular challenges for monetary
+policy.
+
+First, it makes the data less informative than usual about the underlying state of the economy. Uncertainty
+ahead of such a major event is bound to lead some firms and households to postpone important spending
+decision until after the event. Should the vote be to remain in the EU, I would expect to see an improvement
+in growth as the delayed spending is actually carried out.
+
+The challenge for the Committee is that we do not know how much of the slowing in growth is due to the
+referendum, an effect which should be short-lived, and how much of it reflects a more fundamental loss of
+underlying momentum, which might be more persistent.
+
+The loss of UK growth momentum and absence of a meaningful pick-up in inflationary pressures has been a
+rather gradual process over the past few years, but, cumulatively, it adds up to a significant downward
+revision in growth and inflation, to which monetary policy has not responded so far. Instead, a significant
+downward move in the market path of interest rates over the past two years has provided the stimulus the
+economy needs to return inflation to the target over the forecast horizon.
+
+25
+
+As discussed in, e.g. Bernanke (2003, 2015) and Ahearne et al (2002).
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+Following a vote to remain, I would like to see convincing evidence of an improvement in the economic
+outlook, in line with the forecasts in the May Inflation Report. If such improvement is not apparent soon, this
+will reduce my confidence that inflation is likely to return to the target within an acceptable time horizon
+without additional monetary stimulus.
+
+If the vote is to leave, the MPC will be faced with an entirely different set of policy challenges. Given
+significant uncertainty about the future of the UK’s trading relationships, a meaningful drop in domestic
+demand and in the exchange rate is possible. For some time, the productive potential of the UK economy
+might also decline as the economy adjusts to new trading relationships and investment patterns. The UK is
+therefore likely to experience lower growth, and higher inflation for a period as a weaker exchange rate
+pushes up import prices.
+
+The response of monetary policy will depend on the relative magnitudes of the adjustment in demand, supply
+and the exchange rate. In any case, the MPC will take whatever action is needed to ensure inflation
+expectations remain anchored, and to return inflation to the target over an appropriate horizon.
+
+9. Conclusion
+
+Long-term interest rates play an important role in monetary policy. They are a key part of the transmission
+mechanism, via which monetary policy affects the wider economy. And they contain useful information about
+expected future policy rates and expected future inflation.
+
+I have decomposed long-term interest rates into real and nominal components, as well as expectations and
+risk premia components, with particular emphasis on the UK experience.
+
+I have argued that the most important factor behind the fall in long-term interest rates since the financial
+crisis has been a downward revision in the expected path of policy rates, with inflation expectations relatively
+stable, thus reflecting lower expected future real rates. The fall in term premia accounts for a relatively small
+part of the decline in long-term interest rates. In this respect, the evolution of the yield curve since the crisis
+is still consistent with the notion that central banks’ main effect on the economy is through expectations. As
+summarized by Woodford, “Not only do expectations about policy matter, but, […] very little else matters”.
+
+26
+
+I have argued that the reason why expected future real rates are low is that monetary policy has responded,
+and is expected to continue to respond, appropriately to persistent forces weighing on demand and inflation.
+Interest rates are low because that is what the economy needs in order to keep inflation expectations
+anchored. The natural rate of interest is expected to remain low for many years.
+
+26
+
+See Woodford (2003), p15. Woodford’s argument is that the control of overnight rates per se is of negligible importance for the
+economy compared to expectations of future policy, i.e. if changing overnight rates were thought to be unrelated to future overnight
+interest rates they would have very little effect on the economy.
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+Viewed in this light, there is nothing anomalous about the low level of long-term interest rates, nor is there
+any evidence that government bond yields are “distorted” by central banks’ asset purchases. None of this
+should be taken to imply that long-term interest rates will not change. They reflect expectations of future
+policy, which have changed, and will continue to change, as the economy evolves.
+
+The expectations-driven decline in long-term interest rates is apparent across a wide range of countries,
+suggesting that the disinflationary forces are global, not unique to the UK. Candidate explanations for a
+persistently low natural rate of interest across a wide range of countries include debt deleveraging,
+demographic shifts and changes in the distribution of income, which I discussed earlier in the year.
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+References
+Adrian, T., R. Crump and E. Moench (2013). "Pricing the Term Structure with Linear Regressions", Journal of
+Financial Economics, vol. 110 (1).
+Ahearne, A., J. Gagnon, J. Haltmaier, S Kamin and others (2002), “Preventing deflation: Lessons from
+Japan’s experiences in the 1990s”, Board of Governors, International Finance. Discussion Paper No. 729
+Altavilla, C. and D. Giannone (2015), “The Effectiveness of Nonstandard Monetary Policy Measures:
+Evidence from Survey Data”, Federal Reserve Bank of New York Staff Reports No. 752.
+Bank of England (1999), ‘The transmission mechanism of monetary policy’, by Monetary Policy Committee.
+Barsky, R., A. Justiniano and L. Melosi (2014), “The Natural Rate of Interest and Its Usefulness for Monetary
+Policy”, American Economic Review, vol. 104 (5).
+Bauer, M. and C. Neely (2014), “International channels of the Fed’s unconventional monetary policy”, Journal
+of International Money and Finance, vol 44.
+Bauer, M. and G. Rudebusch (2014). “The Signalling Channel for Federal Reserve Bond Purchases”,
+International Journal of Central Banking.
+Baumeister, C. and L. Benati (2013), “Unconventional monetary policy and the great recession: estimating
+the macroeconomic effects of a spread compression at the zero lower bound”, International Journal of
+Central Banking, vol. 9, June.
+Bekaert, G., M. Hoerova and M. Duca (2013), “Risk, Uncertainty and Monetary Policy”, Journal of Monetary
+Economics, vol 60.
+Bernanke, B. (2003), “Some Thoughts on Monetary Policy in Japan”, speech at Japan Society of Monetary
+Economics: http://www.federalreserve.gov/boarddocs/speeches/2003/20030531/
+Bernanke, B (2004), “What Policymakers Can Learn from Asset Prices”, speech available at
+http://www.federalreserve.gov/boarddocs/speeches/2004/20040415/default.htm
+Bernanke, B. (2015), The Courage to Act: A memoir of a crisis and its aftermath, Norton.
+Bernanke, B and Reinhart, V R (2004). “Conducting Monetary Policy at Very Low Short-Term Interest
+Rates”, American Economic Review, Vol. 94, No. 2.
+Bernanke, B., and K. Kuttner (2005), “What Explains the Stock Market’s Reaction to Federal Reserve
+Policy?”, Journal of Finance, vol. 60 (3).
+Boyarchenko, N., V. Haddad and M. Plosser (2016), “The Federal Reserve and Market Confidence”, Federal
+Reserve Bank of New York Staff Reports No. 773.
+Bridges, J. and R. Thomas (2012), “The impact of QE on the UK economy - some supportive monetarist
+arithmetic”, Bank of England Working Paper No. 442.
+Broadbent, B. (2014), “Monetary policy, asset prices and distribution”, speech available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2014/speech770.pdf
+Buraschi, A. and P. Whelan (2015a), “Bond Markets and Monetary Policy”, in Handbook of Fixed-Income
+Securities, edited by Pietro Veronesi.
+Buraschi, A. and P. Whelan (2015b), “Bond Markets and Unconventional Monetary Policy”, in Handbook of
+Fixed-Income Securities, edited by Pietro Veronesi
+Cahill, M., S. D’Amico, C. Li and J. Sears (2013), “Duration Risk versus Local Supply Channel in Treasury
+Yields: Evidence from the Federal Reserve’s Asset Purchase Announcements”, Federal Reserve Board
+Finance and Economics Discussion Series 2013-35
+Carvalho, C., S. Eusepi and C. Grisse (2011). “Unconventional policies during the crisis and expectations of
+inflation and growth: a cross‐country analysis”, Federal Reserve Bank of New York working paper.
+Cesa-Bianchi, A., G Thwaites and A. Vicondoa (2016), “Monetary Policy Transmission in an Open Economy:
+New Data and Evidence from the United Kingdom”, unpublished working paper Bank of England.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+16
+
+Christensen, J. and G. Rudebusch (2012), “The response of interest rates to US and UK Quantitative
+Easing”, Economic Journal, vol. 122.
+Christensen, J., J. Lopez and G. Rudebusch (2012), “Extracting Deflation Probability Forecasts from
+Treasury Yields”, International Journal of Central Banking.
+Cochrane, J. (2011), ‘Discount rates’, Journal of Finance, vol. 66, 1047-1109.
+Curdia, V. (2015). “Why So Slow? A Gradual Return for Interest Rates”, FRBSF Economic Letter, 13
+October.
+Curdia, V., A. Ferrero, G. Ng and A. Tambalotti (2015). “Has US Monetary Policy Tracked the Efficient
+Interest Rate?”, Journal of Monetary Economics, 72-83.
+D’Amico, S. and T. King (2013), “Flow and stock effects of large-scale treasury purchases: Evidence on the
+importance of local supply”, Journal of Financial Economics, vol. 108.
+Doh, T. (2010). “The Efficacy of Large-Scale Asset Purchases at the Zero Lower Bound”, Federal Reserve
+Bank of Kansas City Economic Review.
+Fawley, B. and C. Neely (2014), “The Evolution of Federal Reserve Policy and the Impact of Monetary Policy
+Surprises on Asset Prices”, Federal Reserve Bank of St. Louis Review, Q1.
+Gagnon, J., M. Raskin, J. Remache and B. Sack (2011), “The Financial Market Effects of the Federal
+Reserve’s Large-Scale Asset Purchases”, International Journal of Central Banking.
+Garcia, J. and Werner, T., “Inflation risks and inflation risk premia”, working paper, ECB, 2011.
+Gertler, M. and P. Karadi (2013), “QE 1 vs. 2 vs. 3. . . : A Framework for Analyzing Large-Scale Asset
+Purchases as a Monetary Policy Tool”, International Journal of Central Banking, January.
+Gertler, M. and P. Karadi (2015), “Monetary Policy Surprises, Credit Costs, and Economic Activity”,
+American Economic Journal: Macroeconomics, vol. 7 (1).
+Gilchrist, S. and E. Zakrajsek (2013), “The Impact of the Federal Reserve’s Large-Scale Asset Purchase
+Programs on Corporate Credit Risk”, Journal of Money, Credit and Banking, vol 45 (2).
+Glick, R. and S. Leduc (2012). “Central Bank Announcements of Asset Purchases and the Impact on Global
+Financial and Commodity Markets”, ”, Journal of International Money and Finance, vol 31.
+Goldby, M., L. Laureys and K. Reinold (2015), “An estimate of the UK’s natural rate of interest”, Bank
+Underground post 11 August https://bankunderground.co.uk/2015/08/11/an-estimate-of-the-uks-natural-rateof-interest/
+Gorodnichenko, Y. and M. Weber (2016), “Are Sticky Prices Costly? Evidence From The Stock Market”,
+American Economic Review, forthcoming.
+Greenwood, R., S. Hanson, J. Rudolph, and L. Summers (2015), "Debt Management Conflicts between the
+U.S. Treasury and the Federal Reserve.", Chap. 2 in The $13 Trillion Question: How America Manages Its
+Debt, edited by David Wessel, 43–89. Brookings Institution Press.
+Guimarães, R. (2012), “What accounts for the fall in UK ten-year government bond yields?", Bank of England
+Quarterly Bulletin, vol. 52 (3).
+Guimarães, R. (2016), “Fool’s Errand? Robust Identification of risk premia and expectations in asset prices”,
+update of Bank of England Working Paper No 489 (March 2014) available at SSRN.
+Guimarães, R. and G. Vlieghe (2016), “Monetary Policy Expectations and Long Term Interest Rates”,
+unpublished working paper.
+Gurkaynak, R., B. Sack and E. Swanson (2005), “Do Actions Speak Louder Than Words? The Response of
+Asset Prices to Monetary Policy Actions and Statements”, International Journal of Central Banking.
+Gurkaynak, R. and J. Wright (2013), “Identification and Inference Using Event Studies”, Manchester School.
+Hanson, S. and J. Stein (2015), “Monetary Policy and Long-Term Real Rates," Journal of Financial
+Economics, 115.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+17
+
+Hattori, M., A. Schrimpf and V. Sushko (2016), “The Response of Tail Risk Perceptions to Unconventional
+Monetary Policy”, American Economic Journal: Macroeconomics, vol. 8(2)
+Joyce, M., Lildholdt, P. and Sorensen, S. (2010),“Extracting Inflation Expectations and Inflation Risk Premia
+from the Term Structure: A Joint Model of the UK Nominal and Real Yield Curves”, Journal of Banking and
+Finance, vol. 34, p. 281-294.
+Joyce, M., A. Lasaosa, I. Stevens and M. Tong (2010). “The Financial Market Impact of Quantitative Easing,”
+Bank of England Working Paper No.393
+Joyce, M, Tong, M and Woods, R (2011), “The United Kingdom’s quantitative easing policy: design,
+operation and impact”, Bank of England Quarterly Bulletin, Vol. 51 No. 3, pages 200-12
+Joyce, M, D. Miles, A. Scott and D. Vayanos (2012), “Quantitative Easing and Unconventional Monetary
+Policy - An Introduction”, Economic Journal, vol. 122.
+Kapetanios, G., H. Mumtaz, I. Stevens and K. Theodoridis (2012). “Assessing the economy-wide effects of
+quantitative easing”, Economic Journal, vol 122.
+Kiley, M (2012). “The Aggregate Demand Effects of Short- and Long-Term Interest Rates”, Federal Reserve
+Board of Governors Finance and Economics Discussion Series working paper 2012-54.
+Kim, D., and Orphanides, A. (2005), “Term Structure Estimation with Survey Data on Interest Rate
+Forecasts”, Finance and Economics Discussion Series, no. 2005-48, Federal Reserve Board
+Kim, D. and A. Orphanides (2012). "Term structure estimation with survey data on interest rate forecasts",
+Journal of Financial and Quantitative Analysis, vol. 47 (1).
+Kim, D. and J. Wright (2005), “An Arbitrage-Free Three-Factor Term Structure Model and the Recent
+Behavior of Long-Term Yields and Distant-Horizon Forward Rates”, Finance and Economics Discussion
+Series, no. 2005-33, Federal Reserve Board.
+King, M. (2009), Mansion House Speech, 17 June
+http://www.bankofengland.co.uk/archive/Documents/historicpubs/speeches/2009/speech394.pdf
+Krishnamurthy, A., and A. Vissing-Jorgensen (2011), “The Effects of Quantitative Easing on Interest Rates:
+Channels and Implications for Policy," Brookings Papers on Economic Activity, 2011.
+Liu, Z., E. Vangelista, I. Kaminska and J. Relleen (2015), “The informational content of market-based
+measures of inflation expectations derived from government bonds and inflation swaps in the United
+Kingdom”, Bank of England Staff Working Paper No. 551.
+Nelson, E. (2000), “UK monetary policy 1972- 97: a guide using Taylor rules”, Bank of England working
+paper
+Palomino, F. (2012), “Bond Risk Premiums and Optimal Monetary Policy”, Review of Economic Dynamics,
+vol 15.
+Piazzesi, M., “Affine Term Structure Models”, Chapter 12 in Handbook of Financial Econometrics, eds. Y. AitSahalia and L. Hansen, North-Holland. 2009.
+Shafik, M. (2014), “Interpreting the yield curve: warning or opportunity?”, speech available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2015/speech818.pdf
+Smith, T (2012), ‘Option-implied probability distributions for future inflation’, Bank of England Quarterly
+Bulletin, Vol. 52, No. 3.
+Vlieghe, G. (2016), “Debt, Demographics and the Distribution of Income: New challenges for monetary
+policy”, speech available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech872.pdf
+Weale, M. and T. Wieladeck (2016), “What are the macroeconomic effects of asset purchases?”, Journal of
+Monetary Economics, vol. 79.
+Williams, J. (2014), “Monetary Policy at the Zero Lower Bound: Putting Theory into Practice.” The Brookings
+Institution, Hutchins Center Working Paper no. 3
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+18
+
+Woodford M. (2003), “Interest and prices”, Princeton University Press.
+Wright, J. (2012), ‘What does Monetary Policy do to Long-term Interest Rates at the Zero Lower Bound?’,
+Economic Journal, vol. 122.
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+19
+
+Figure 1: Nominal 10 year zero-coupon spot yield on UK
+government bonds
+
+Figure 2: Real and inflation breakeven 10 year zero-coupon
+spot yields on UK government bonds
+18
+
+Nominal
+
+Real
+
+18
+
+Inflation BE
+
+16
+
+16
+
+14
+
+14
+
+12
+
+12
+
+10
+
+10
+
+8
+
+8
+
+6
+4
+
+6
+
+2
+4
+
+0
+
+2
+
+-2
+
+0
+1972
+
+1977
+
+1982
+
+1987
+
+1992
+
+1997
+
+2002
+
+2007
+
+2012
+
+-4
+1972
+
+1977
+
+1982
+
+1987
+
+1992
+
+1997
+
+2002
+
+2007
+
+2012
+
+Source: Bank of England
+
+Source: Bank of England
+
+Figure 3: History of Bank rate and OIS instantaneous
+forward curves
+
+Figure 4: Nominal 5 year zero-coupon spot and 5 year,5
+year forward yields on UK government bonds
+
+1mth
+Dec-11
+Dec-14
+
+Dec-09
+Dec-12
+Dec-15
+
+7
+
+Dec-10
+Dec-13
+
+5 yr spot
+
+20
+
+5y,5y fwd
+
+18
+
+6
+
+16
+5
+
+14
+12
+
+4
+
+10
+3
+
+8
+6
+
+2
+
+4
+1
+
+Dec-05
+
+Dec-08
+
+Dec-11
+
+Dec-14
+
+Dec-20
+
+Dec-17
+
+2
+0
+1972
+
+1977
+
+1982
+
+1987
+
+1992
+
+1997
+
+2002
+
+2007
+
+2012
+
+Source: Bank of England
+
+Source: Bank of England
+
+Figure 5: Nominal US and UK 10 year zero-coupon spot
+yields on government bonds
+
+Figure 6: Nominal US and UK 1 year zero-coupon spot
+yields on government bonds
+
+UK
+
+18
+
+US
+
+UK
+
+18
+
+US
+
+16
+
+16
+
+14
+
+14
+
+12
+
+12
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+1972
+
+1977
+
+1982
+
+1987
+
+1992
+
+1997
+
+2002
+
+Source: Bank of England, Federal Reserve Board
+
+2007
+
+2012
+
+0
+1972
+
+1977
+
+1982
+
+1987
+
+1992
+
+1997
+
+2002
+
+2007
+
+2012
+
+Source: Bank of England, Federal Reserve Board
+
+20
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+20
+
+Figure 7: Correlation between UK and US zero-coupon spot
+rates, 2 year and 10 year maturities
+2 yr
+
+Figure 8: Correlation between UK and US (instantaneous)
+forward rates, 2 year and 10 year horizons
+
+1.0
+
+10 yr
+
+2 yr
+
+1.0
+
+10 yr
+
+0.9
+0.8
+
+0.8
+0.7
+
+0.6
+
+0.6
+0.4
+
+0.5
+0.4
+
+0.2
+
+0.3
+0.2
+
+0.0
+
+0.1
+0.0
+1982
+
+1986
+
+1990
+
+1994
+
+1998
+
+2002
+
+2006
+
+2010
+
+2014
+
+-0.2
+1982
+
+1987
+
+1992
+
+1997
+
+2002
+
+2007
+
+2012
+
+Source: Bank of England, Federal Reserve Board, author calculations
+
+Source: Bank of England, Federal Reserve Board, author calculations
+
+Figure 9: Example of “Random Walk Hypothesis”and
+“Expectations Hypothesis” (with Dec’10 forward curve)
+
+Figure 10: Bank rate forecasts from HMT survey of private
+professional forecasters
+
+data
+EH expectations
+EH term premia
+
+RW expectations
+RW term premia
+
+Data
+Feb-11
+Feb-15
+
+7
+6
+
+Feb-08
+Feb-12
+Feb-16
+
+Feb-09
+Feb-13
+
+Feb-10
+Feb-14
+
+7
+6
+
+5
+
+5
+
+4
+4
+3
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+Dec-05
+
+Dec-08
+
+Dec-11
+
+Dec-14
+
+Dec-17
+
+-1
+Dec-20
+
+Dec-05
+
+Dec-08
+
+Dec-11
+
+Dec-14
+
+Dec-20
+
+Dec-17
+
+Source: Bank of England, author calculations
+
+Source: Bank of England, HMT
+
+Figure 11: Range of nominal 10 year spot term premia from
+1
+72 unrestricted model estimates of ADTSM
+
+Figure 12: Range of nominal 10 year spot term premia from
+1
+72 model estimates of ADTSM including survey forecasts
+
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+
+6
+
+Jan-72
+
+Jan-79
+
+Jan-86
+
+Jan-93
+
+Jan-00
+
+Jan-07
+
+Jan-14
+
+Source: Guimarães & Vlieghe (2016), 1:combination of different number of
+factors (3) and samples (24)
+
+5
+4
+3
+2
+1
+0
+-1
+-2
+Jan-72
+
+Jan-79
+
+Jan-86
+
+Jan-93
+
+Jan-00
+
+Jan-07
+
+Jan-14
+
+Source: Guimarães & Vlieghe (2016), 1:combination of different number of
+factors (3) and samples (24)
+21
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+21
+
+Figure 13: Decomposition of UK 10 year nominal spot rate
+into expectations and term premia (5year and 5year,5year)
+5y exp
+
+5y tp
+
+5y,5y exp
+
+5y,5y tp
+
+Figure 14: Decomposition of US 10 year nominal spot rate
+into expectations and term premia (5year and 5year,5year)
+
+15
+
+5y exp
+
+5y tp
+
+5y,5y exp
+
+14
+
+5y,5y tp
+
+12
+10
+
+10
+8
+
+5
+
+6
+4
+
+0
+
+2
+0
+
+-5
+Jan-72
+
+Jan-79
+
+Jan-86
+
+Jan-93
+
+Jan-00
+
+Jan-07
+
+Jan-14
+
+-2
+Jan-72
+
+Jan-79
+
+Jan-86
+
+Jan-93
+
+Jan-00
+
+Jan-07
+
+Jan-14
+
+Source: Guimarães & Vlieghe (2016)
+
+Source: Guimarães & Vlieghe (2016)
+
+Figure 15: Share of change in yield curve from Jan 2007 to
+March 2016 due to change in expectations (by maturity)
+
+Figure 16: Share of 1-day change in yield curve in response
+to QE announcements
+
+US
+
+100%
+
+UK
+
+US
+
+100%
+
+UK
+
+95%
+
+90%
+
+90%
+80%
+
+85%
+80%
+
+70%
+
+75%
+
+60%
+
+70%
+50%
+
+65%
+60%
+0
+
+24
+
+48
+
+72
+
+96
+
+120
+
+40%
+0
+
+24
+
+48
+
+72
+
+96
+
+120
+
+Source: Guimarães & Vlieghe (2016)
+
+Source: Guimarães & Vlieghe (2016)
+
+Figure 17: Change in 10 year spot term premia relative to
+2007 H1 average
+
+Figure 18: Change in 10 year spot expected short rate
+relative to 2007 H1 average
+
+AUS
+NET
+SWI
+
+CAN
+NZD
+UK
+
+FRA
+NOR
+US
+
+GER
+SWE
+
+6
+
+AUS
+NET
+SWI
+
+CAN
+NZD
+UK
+
+FRA
+NOR
+US
+
+4
+
+GER
+SWE
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+Jan-95 Jan-98 Jan-01 Jan-04 Jan-07 Jan-10 Jan-13
+Source: Guimarães & Vlieghe (2016)
+
+-4
+Jan-95 Jan-98 Jan-01 Jan-04 Jan-07 Jan-10 Jan-13
+Source: Guimarães & Vlieghe (2016)
+
+22
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+22
+
+

@@ -1,0 +1,684 @@
+Macroprudential Policy for Insurers
+Paper by
+Vicky Saporta, Chair of the Executive Committee of the International Association of
+Insurance Supervisors
+
+Association of British Insurers Annual Conference 2016
+22 November 2016
+
+A version of this paper was given as a speech at the IIF Colloquium on International Insurance
+Regulatory Issues, Basel, 22 September 2016. The author would like to thank David Humphry for his
+help in writing the paper and Paolo Cadoni, David Murphy, Stephen Hogge, Matt Jones,
+Catherine Lezon, John Maroney, Bernhard Mayr, Andreas Viljoen, Matthieu Vital, Sam Woods and
+Mark Zelmer for comments. The views expressed in this paper do not necessarily represent the
+views of the Bank of England, where Vicky Saporta is Executive Director, Prudential Policy.
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Introduction
+
+1. Aspects of what we now term microprudential regulation of insurance have existed for well over
+100 years in a number of countries. For example, New Hampshire established the first state agency
+for the supervision of insurance in the United Stated in 1851. In the UK, the first Act of Parliament
+on Life Assurance in the UK was enacted in 1870.
+
+1
+
+2. Microprudential insurance regulators have continually adapted their approaches as financial markets
+and products have become more complex and understanding of risk improves. Risk-based
+regulation is the latest development in this process of improvement. But even risk-based regulation
+has now been around for about the last 25 years or so in some jurisdictions.
+3. Turning to macroprudential regulation – the concept has been around since the 1970s, with central
+bank financial stability reports becoming common from mid-1990s onwards. Statutory-based
+macroprudential regulation, with explicit statutory objectives, policy tools and operational decision
+making frameworks, however, has largely been a post-crisis development.
+4. There is no question in my mind that microprudential regulation to protect companies’ safety and
+soundness and to protect policyholders is the key foundation of all insurance prudential regulation.
+And I know that this is not a controversial statement. What is more controversial is whether
+macroprudential regulation has a role to play in insurance regulation.
+5. In what follows, I will explain why I believe that microprudential regulation – the key plank of
+prudential regulation in insurance - needs to be complemented with macroprudential overlays to be
+comprehensive and fully effective.
+
+Macroprudential Regulation
+
+6. Part of the challenge of understanding the implications of macroprudential regulation is setting out
+what we mean by it.
+2
+
+7. Back in 2003, Claudio Borio, the BIS’s Head of the Monetary and Economic Department and an
+influential thinker in this area, described the objective of microprudential regulation as limiting the
+likelihood of distress at an individual institution. In insurance this objective tends to be aligned to an
+objective about the safety and soundness of regulated firms. By contrast, Borio saw the objective of
+
+1
+
+These aspects include, for instance, separation of assets for the management of life and non-life policies. In Germany, the Insurance
+Supervisory Law was introduced in 1901; in France, the first state controller of insurance was appointed in 1899 and in Japan the
+Insurance Business Law Act was enacted in 1900. Sources: Cummins and Venard (2007), Handbook of International Insurance,
+Burling and Lazarus (2011), Research Handbook on International Insurance Law and Regulation.
+2
+Borio (2003), Towards a macroprudential framework for financial supervision and regulation, BIS working paper 128
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+macroprudential policy as limiting the risk of losses to income in the economy arising through the
+endogenous behaviour of financial firms and capital markets.
+
+8. According to this view, microprudential regulation is about protecting the firm and its policyholders
+from external shocks beyond its control (e.g. a longevity shock, a shock from interest rates, or a
+cyber attack) or from risks in the way it manages itself (e.g. because of its business strategy or
+3
+
+governance). Macroprudential regulation is about protecting others from the way a firm or a set of
+firms contributes to the build-up of risks and to the propagation of amplification of risks.
+
+Lessons from history
+9. Looking back at recent financial crises and asking: “what role did insurers play?” can be a helpful
+way to assess the limits of microprudential regulation (if any). It also helps in identifying the
+channels through which the behaviour of an individual insurance firm or set of firms can propagate
+and amplify shocks, with adverse consequences for the macroeconomy.
+
+10. In my reading of history, two amplification channels involving insurers appear to be common to
+crises: interconnectedness, including (i) exposure to potentially systemic counterparties or (ii)
+common exposures to macro risks and asset liquidation risk stemming from liquidity mismatches
+between assets and liabilities. On occasion, we see a third channel at work– lack of substitutability
+of critical functions or services. Let me try to illustrate these channels more specifically through a
+few historical examples.
+
+11. No paper on systemic risk and insurance can be complete without mentioning AIG and the recent
+financial crisis. So, I am afraid, this is the time for it!
+12. AIG’s problems stemmed from it being exposed to Mortgage-Backed Securities (MBS) - the
+common exposure which was central to the global financial crisis. First, AIG Financial Products
+issued credit-default swaps providing protection against the default of MBS and Collateralised Debt
+Obligations containing portfolios of MBS. Second, AIG Securities Lending Corporation took the cash
+generated by loaning life insurance company assets and invested it in MBS which offered higher
+yields.
+
+4
+
+13. When MBS fell in value AIG’s counterparties saw the potential risk from the firm’s business model.
+Concomitant falls in AIG’s credit ratings allowed its CDS counterparties to demand more collateral
+and they did, leading to severe liquidity strain on the firm. In response to falling market values of the
+MBS AIG had acquired via securities lending and this liquidity stress, the firm attempted to liquidate
+3
+
+Economists refer to costs imposed on “others” that an agent or set of agents would have no incentive to take into account as negative
+externalities. In the context of macroprudential regulation, these “others” are often referred to as the system as a whole.
+4
+Federal Reserve Bank of Chicago (2014) AIG in Hindsight
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+its MBS, into what was, by then, an illiquid market – making it even more illiquid. This is the asset
+liquidation channel at work. The exposures of AIG to its CDS and securities lending counterparties
+led to fears that, should AIG collapse, the resulting losses would ripple across the financial system,
+potentially triggering a wave of further defaults. This is the broader interconnectedness channel at
+work (McDonald and Paulson (2015)).
+
+14. The monoline insurers were another example of these channels at work. First, they had a common
+exposure to the default of the assets underlying the mortgage-backed securities. Second, they
+were significantly interconnected with some potentially systemic counterparties being materially
+exposed to their performance. When the major monolines were downgraded in 2008 the securities
+they insured were also downgraded, contributing to falling demand for MBS and prices.
+15. There are other examples of insurers’ behaviour propagating and amplifying shocks through the
+common exposure and the asset liquidation channels in particular. Research has shown that US life
+insurers that were suffering strains on their capital sold MBS and other insurers were less willing to
+buy them because of concerns about weakening their own capital positions, contributing to falling
+values of MBS – the asset liquidation channel at work, once again.
+
+5
+
+16. And in the Netherlands, during the financial crisis, Government support was provided to
+bancassurance conglomerates because of concerns that exposure of the banks in the group to MBS
+could have a knock-on effect on the insurers of the group – another form of interconnectedness.
+
+6
+
+The Government indicated it was concerned about the ‘pivotal role’ of these insurers, which could be
+undermined by a loss of confidence – an example of the substitutability of critical functions and
+services channel at work.
+
+7
+
+17. The global financial crisis was the most recent illustration of distressed insurers propagating and
+amplifying shocks that impact on others, but there have been others in not so distant history.
+
+18. One example occurred during the Asian crisis. The Republic of Korea experienced a currency crisis
+8
+
+in 1997 which led to a sharp rise in interest rates from 12% to 30%. Korean life insurers had
+developed a banking type business model, with loans accounting for 40-50% of assets and limited
+9
+
+penalties for surrenders of savings policies. When interest rates rose Korean insurers suffered the
+opposite common exposure problem of interest rates that a number of firms in various countries
+
+5
+
+Ellul, Jotikasthira, and Lundblad (2011) Regulatory pressure and fire sales in the corporate bond market, Journal of Financial
+Economics; Merrill, Nadauld, Stulz, and Sherland (2012) Did capital requirements and fair value accounting spark fire sales in
+distressed mortgage-backed securities, Working Paper, Ohio State University.
+6
+ESRB (2015) Report on systemic risks in the EU insurance sector (Annex 3). In addition, the Netherlands did not have an Insurance
+Guarantee Scheme in 2008.
+7
+Another example of the lack of substitutability channel is the failure of the Australian firm HIH in 2001, see French, Vital, and Minot
+(2015) “Insurance and Financial Stability”, Bank of England Quarterly Bulletin, 2015 Q3.
+8
+French, Vital and Minot (2015) ibid pp. 249
+9
+IMF (2003) Insurance and Issues in Financial Soundness pp. 20
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+are currently experiencing (IMF (2016)).
+
+10
+
+Insurers were hit by a sharp increase in non-performing
+
+loans and a liquidity mismatch, when policyholders surrendered their policies in favour of savings
+products offering higher interest rates, and sales of new policies fell. Sales of assets by insurers
+because of liquidity problems led to contagion through falling asset prices in already weak financial
+11
+
+markets - the asset liquidation channel at work again. The Korean regulator extended the
+deposit guarantee schemes to insurance companies to halt the wave of surrenders and liquidity
+problems affecting the life insurance sector.
+
+12
+
+19. Another example is the failure of seven mid-size life insurers in Japan during the period 1997-2001.
+These insurers had a common exposure to interest rate risk. This is because they issued
+guarantees that they were unable to meet as interest rates fell and other assets saw lower returns in
+the face of recessionary pressures. These failures did not lead to the need for taxpayer support,
+since other firms contributed $7 billion to a policyholder protection fund. However, policyholders for
+five of the firms experienced cuts to the values of their own policies, and at the time the IMF was
+concerned that the failure of these firms could be systemic. This is because they spilt-over to a
+banking sector already weakened by impaired loans through interconnectedness from
+cross-ownership.
+
+13
+
+20. Would an effective microprudential regulatory regime have been sufficient to deal with these
+problems counterfactually?
+
+21. A microprudential framework that capitalises individual firms ex ante against stresses in interest
+rates and other adverse asset price developments can go a long way to deal with problems of
+common exposure to macro-risks. In addition, a microprudential capital framework that
+encourages firms to match the liquidity of their liabilities with the liquidity of their assets can play a
+crucial role in reducing risks from the asset liquidation channel. This can in part be achieved
+through an approach to valuation of assets and liabilities that makes a distinction in the structure of
+liabilities between those that allow assets to be held long-term and those that might require
+immediate sale of assets. If this distinction is not made there is a risk that the value of insurers’
+assets and liabilities becomes unnecessarily volatile, which itself can become a source of asset
+14
+
+liquidation risk.
+
+A number of extant regimes draw this distinction in the valuation of liabilities in
+
+their microprudential regimes, departing from full market-consistency (or fair value), which also
+serves to meet macroprudential objectives (Geneva Association (2016)).
+
+10
+
+IMF (2016) The insurance sector – trends and systemic risks implications, chapter 3, Global Financial Stability Report
+Lee (2001) Korean Experiences in Life Insurance Sector Reforms After the Financial Crisis, The Geneva Papers on Risk and
+Insurance Vol 26 No 3, pp. 483
+12
+IMF (2003) ibid, pp. 20
+13
+IMF (2003) Japan: Financial System Stability Assessment and Supplementary Information
+14
+This is the type of risk that Borio saw as endogenous, with sales of assets triggering further volatility that market participants react to.
+Conversely, making the distinction does not imply that valuation should not be reflective of current economic conditions. Otherwise
+market confidence can be put at risk.
+11
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+22. In conclusion, a stress-based microprudential capital adequacy framework focussed on protecting
+the soundness of the sector as a whole from macro-stresses and from liquidity mismatches while
+avoiding excessive balance sheet volatility is a necessary condition to delivering macroprudential
+stability. But it is not a sufficient condition. Macroprudential overlays are needed to deal with
+macroprudential risks such as interconnections with systemic counterparties and lack of
+substitutability. It is also clear, that in the past, and most notably in the great financial crisis, the
+failure of individual companies has proved systemic suggesting the need for macroprudential
+overlays tailored to these individual companies as well. In a recent article, Felix Hufeld, my
+predecessor as Chair of IAIS ExCo and current President of Bafin, has raised similar points.
+
+15
+
+The IAIS is taking forward a broad range of initiatives to develop exactly such a framework.
+
+23. First and foremost, the IAIS is making progress in developing a robust stress-based microprudential
+framework. For internationally active insurance groups (IAIGs) this framework will include a
+risk-based consolidated group capital requirement – the Insurance Capital Standard (ICS), which is
+scheduled for agreement in 2019. But it will also deliver a range of other qualitative standards
+designed to address a host of microprudential risks arising from the way a firm is governed and
+manages its own risks (ComFrame). At the same time, the IAIS is modernising and developing its
+Insurance Core Principles which apply to insurance companies regardless of size and international
+exposures.
+24. The ICS, ComFrame, and the ICPs are the foundational pillars of the IAIS’s work. But as I have
+already said, in my view, they need to be complemented by macroprudential overlays. On that front
+as well, the IAIS is making progress, delivering to a mandate requested by the Financial Stability
+Board (FSB).
+
+16
+
+25. Earlier this week, the FSB identified 9 Global Systemically Important Insurers (G-SIIs), based on the
+IAIS’s recommendation and using end-2015 data.
+
+17
+
+G-SIIs are subject to more intensive supervision
+
+than other IAIGs, which is aimed at managing and mitigating the activities that led to their
+18
+
+identification , such as those creating interconnectedness or asset liquidation risks. They are due to
+be subject to Higher Loss Absorbency (HLA) capital standards which have been developed in line
+with the FSB’s recommendation.
+
+19
+
+The final element of the IAIS’s macroprudential framework for
+
+G-SIIs is recovery and resolution planning policy measures.
+
+20
+
+15
+
+Hufeld (2016) describes the need for a hybrid regulatory approach to address ‘direct’ risks from the behaviour of Global Systemically
+Important Insurers and ‘indirect’ risks from collective or sectoral behaviour (as well as to protect policyholders).
+16
+FSB (2013) Global Systemically Important Insurers (G-SIIs) and the policy measures that will apply to them
+17
+FSB (2016) 2016 list of global systemically important insurers (G-SIIs)
+18
+IAIS (2013) Guidance for Systemic Risk Management Plans
+19
+HLA aims to reduce the probability and impact of a G-SII’s distress or failure on the financial system, see IAIS (2015) Higher Loss
+Absorbency Requirements for Global Systemically Important Insurers
+20
+FSB (2014) Key attributes of effective resolution regimes for financial institutions
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+26. The IAIS’s approach to assessing macroprudential risk and developing macroprudential policy is
+evolving as we gain new insights.
+
+27. One of the insights we can draw from the examples I cite is that some of the macroprudential risks
+stemmed from insurance companies pushing the boundaries of product design or asset-liability
+management, with business models becoming more like those of banks or hedge funds, including so
+called Non-traditional, Non-Insurance (NTNI) activities. In June 2016 the IAIS clarified the concept
+of NTNI activities, an important factor in the identification of G-SIIs, and updated its methodology for
+assessing G-SIIs.
+
+21 22
+
+The IAIS now terms NTNI as Systemic Risk from Insurance Product Features.
+
+Most commentators agreed that business models which incorporated NTNI could play a role in
+crises, but it was difficult to create a universal, but precise definition of such activity. The IAIS made
+progress by linking the non-traditional part of the definition to the amplification channels of common
+exposure to macro risks and asset liquidation. At the same time, in June this year, the IAIS
+published its updated G-SII assessment methodology which incorporated these improvements and
+made a number of others.
+
+23
+
+28. Overall, the current G-SII identification framework is now closely aligned with the
+amplification channels that create the need for macroprudential regulation that I described
+above.
+29. And the IAIS’s work on improving its framework will not stop here. In both of these June
+2016 publications, the IAIS committed to review its framework for defining traditional
+activities that give rise to systemic risk to ensure that they are dealt with in a comprehensive
+and proportionate manner. In June this year, the IAIS commenced some exploratory work on
+an activities-based approach to systemic risk. In October, the IAIS Executive Committee
+considered the initial work and agreed to further exploration, including in looking at
+interactions with the rest of the IAIS’s workstreams.
+
+24
+
+And earlier this week, the FSB
+
+welcomed the IAIS’s exploration of a complementary activities-based approach to address
+systemic risk.
+
+25
+
+30. In my view, the first and probably most crucial step in delivering an activities-based approach is to
+ensure that the microprudential framework has the key design features to protect the system against
+common exposures to asset prices shocks, asset liquidation risks, excessive volatility in balance
+sheets and asset concentration risk from exposure to default by systemic counterparties.
+
+21
+
+IAIS (2016) Systemic risk from insurance product features
+IAIS (2016) Global Systemically Important Insurers: Updated Assessment Methodology
+The updated G-SII assessment methodology also included a reinsurance supplemental assessment to allow the IAIS to conduct a
+more in-depth analysis of third-party reinsurance activities
+24
+The IAIS’s work is intended to go beyond considering macroprudential risks as they have materialised, and became evident, in past
+crises, by exploring a range of behaviour or activities that could contribute to the build-up of systemic risk.
+25
+FSB (2016) FSB publishes 2016 G-SII list, Press release
+22
+23
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+31. The examples from recent financial crises demonstrate it is appropriate for the IAIS to consider the
+balance between macroprudential tools that apply to the sector and those that apply only to G-SIIs.
+The examples suggest, for instance, that had G-SII identification existed at the time of these crises it
+may not have been sufficient to prevent asset liquidation risk. For instance, we can see this in the
+case of the behaviour of the insurance sector in Korea during the Asian crisis and the reactions of a
+number of firms selling MBS during the global financial crisis. Put differently, a set of companies
+acting collectively could have a material effect on asset markets and the financial system as a whole,
+without necessarily being individually identified as systemic.
+
+32. Standard setters for other financial sectors besides insurance, have considered, and are considering
+the appropriate balance between an entity-based approach and a sectoral or activities-based
+approach to mitigating macroprudential risks. For banking, the financial crisis revealed that a
+number of banks were too highly levered and had insufficient liquidity buffers to absorb the effects of
+credit and trading losses, and the re-intermediation of off-balance sheet exposures. These problems
+were amplified through procyclical asset liquidation and counterparty interconnectedness.
+
+26
+
+33. The FSB, in consultation with the Basel Committee on Banking Supervision, has therefore adopted
+an entity-based approach, with Higher-Loss-Absorbency capital applied to banking groups
+designated as Global Systemically Important Banks (G-SIBs). The Basel Committee on Banking
+Supervision has, however, also developed a number of macroprudential tools that apply within the
+design of the microprudential framework. These tools include higher risk weights for inter-financial
+exposures adopted under Basel 3 in 2010
+
+27
+
+and tighter large exposure limits between G-SIBs to
+28
+
+address interconnectedness adopted in 2014 ; higher capital requirements for illiquid trading book
+exposures through the fundamental review of the trading book adopted in 2015, aimed at guarding
+29
+
+against asset liquidation costs and the associated fire-sale externalities ; a leverage ratio in 2014
+that guards against leverage in the banking system exceeding a certain amount, irrespective of
+banks’ internal assessment of risks;
+
+30
+
+and liquidity regulation under the LCR (Liquidity Coverage
+
+Ratio) and NSFR (Net Stable Funding Ratio) adopted respectively in 2013 and 2014 that provides
+incentives to reduce excessive maturity mismatch and the associated asset liquidation
+macroprudential costs.
+
+31
+
+The collection of such tools comprise in effect an activities-based approach
+
+to systemic risk in the banking sector because they apply to all internationally-active banks that carry
+out these activities, despite the fact that the approach is not explicitly labelled this way.
+
+26
+
+BIS, FSB, and IMF (2011) Macroprudential policy tools and frameworks, update to G20 finance ministers and central bank governors
+Basel Committee on Banking Supervision (2010, updated 2011) Basel III: A global regulatory framework for more resilient banks and
+banking systems (pp7/8).
+28
+Basel Committee on Banking Standards (2014) Supervisory framework for measuring and controlling large exposures (pp16)
+29
+Basel Committee on Banking Supervision (2016) Minimum capital requirements for market risk
+27
+
+30
+31
+
+Basel Committee on Banking Supervision (2014) Basel III leverage ratio framework and disclosure requirements.
+
+Basel Committee on Banking Standards (2013) Basel III: the liquidity coverage ratio and liquidity risk monitoring tools; and Basel
+Committee on Banking Standards (2014) Basel III: the net stable funding ratio
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+34. For asset managers, the FSB launched a consultation in June 2016 on an activities-based approach
+to mitigating the amplification of systemic risk from activities specific to asset management business
+models, namely leverage within funds; mismatches between the liquidity of invested assets and
+redemption terms; operational risk in transferring investment mandates and clients; and securities
+lending.
+
+32
+
+The FSB plans to wait for this work to be completed before finalising its entity-based
+
+assessment of non-bank, non-insurance systemically important financial institutions.
+
+35. These comparisons with other sectors show how they are considering the balance between an
+activities-based approach and an entity-based approach to mitigating macroprudential risks. They
+do not necessarily imply, however, that the tools developed for the other sectors should be exactly
+replicated for the insurance sector, although there may be instances where the economic nature of
+the risks are very similar, and tools can readily be adapted to the insurance sector (for example
+between life insurers’ unit linked business and the business of open-ended investment funds).
+
+36. One reason why tools developed for other sectors might not be directly applicable is that the
+likelihood, timing and effect of the macroprudential risk being propagated and amplified may not
+operate in an identical way across sectors because of differences in business models. The business
+model of insurers tends to be less susceptible (although as some of the examples illustrate, not
+immune) to the type of runs experienced in banking because of solvency concerns, suggesting a
+lesser likelihood of insurers needing to liquidate assets. First, insurers are funded to a large extent
+by policyholder liabilities with premiums being paid in advance of benefits. Second, redemptions by
+policyholders can incur penalties or tax implications. Hence, in general, insurers have less need
+than banks to secure funding at times of crisis. At the same time, insurers, unlike asset managers
+and more similar to banks, make promises about payoffs to their policyholders that can only be
+fulfilled with any confidence if they are partly funded by equity. As a result, insurers with common
+exposures to the rest of the financial system - either individually or collectively- can suffer equity
+shortfalls at the same time as the rest of the financial system, propagating and amplifying
+macroprudential risk through interconnectedness and asset liquidation channels.
+
+37. The second reason is that a macroprudential set of tools builds on the foundations of microprudential
+regulations that are tailored to specific activities-based risks. Regulators need to take into account
+the combined effect of micro- and macroprudential regulation on firms’ risk-taking behaviour. For
+instance, in banking, the macroprudential overlays to minimum capital requirements not only include
+the macroprudential considerations affecting the design of the microprudential framework described
+in paragraph 33, but also include a countercyclical capital buffer. This buffer is designed to build up
+capital in upswings of the financial cycle which can be released to absorb losses in downswings,
+bolstering solvency when banks are in most need to maintain funding, while preventing excessive
+balance sheet volatility through excessive leveraging followed by excessive deleveraging. Put
+32
+
+FSB (2016) Proposed policy recommendations to address structural vulnerabilities from asset management activities
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+differently, in banking, the macroprudential overlays contain an explicit macroprudential add-on to
+capital requirements that goes beyond the features built into the microprudential framework. By
+contrast, as part of the development of the microprudential ICS for insurers, the IAIS is
+contemplating a countercyclical adjustment by adjusting insurance liability values to avoid creating
+incentives for asset liquidation because of falling asset values driven by market illiquidity that could
+unduly affect insurers’ solvency.
+
+33
+
+This explicit countercyclical feature is contemplated to be an
+
+integral part of the microprudential framework because it’s linked to the microprudential valuation
+framework and the liquidity characteristics of different liabilities.
+
+38. It follows that in insurance the exploration of an activities-based approach to address
+systemic risk across the sector should be considered in tandem with the design of a
+microprudential framework that provides protection against macro-stresses and from
+liquidity mismatches while avoiding excessive balance sheet volatility.
+
+Stakeholder engagement remains important to develop the micro and macro framework
+
+39. As the IAIS continues to develop its range of microprudential and macroprudential tools, and
+implements them, engagement with stakeholders remains vital. Stakeholder participation ensures
+greater decision-making transparency, better, more proportionate outcomes, and more successful
+implementation of IAIS supervisory material.
+
+40. Since its reorganisation over a year ago, the IAIS has engaged more robustly with stakeholders and
+is continuing to pursue additional opportunities.
+
+41. In this regard, in January 2016, the IAIS Executive Committee (ExCo) created a Stakeholder
+Engagement Task Force (SETF) to identify ways to better achieve its engagement goals. ExCo has
+already acted on several recommendations. Firstly, it has opened up the Annual Conference to
+stakeholder participants. It was held earlier this month in Asuncion, Paraguay. Secondly, it
+expanded the scope of the 2016 Global Seminar held in Budapest, in June, to a two-day event with
+significant involvement of diverse stakeholders including some consumer representatives. Thirdly, it
+has also sought opportunities to invite stakeholder representatives to speak in its Annual Conference
+and Global seminar panels, and invited their contributions to identifying topics for events, particularly
+for the ExCo Dialogue held in conjunction with the 2016 Global Seminar. The SETF reported to the
+IAIS Executive Committee earlier this month on options for further enhancing stakeholder
+
+33
+
+The IAIS consulted on a market-adjusted valuation approach and a GAAP with adjustments approach in its 2016 consultation on the
+ICS. IAIS (2016) Risk-based global insurance capital standard version 1.0, public consultation document
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+engagement and got approval for engagement on specific proposals with stakeholders later this year
+ahead of finalising and publishing a stakeholder engagement plan at the ExCo meeting in early
+2017.
+
+42. The strength of engagement has, and continues to be, vital to the IAIS for developing effective and
+proportionate policy. The IAIS has much to do in the period before the end of 2019, including
+finalising the development of the ICS and Higher Loss Absorbency for G-SIIs, while also reviewing
+its framework for identification of activities that give rise to systemic risk. Both will go some way to
+achieving the balance of microprudential regulation with macroprudential overlays, which, I believe,
+will leave the insurance sector better placed to limit the likelihood and effects of future financial
+crises, as well as continuing to deliver safety and soundness by meeting obligations to policyholders.
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+References
+Basel Committee on Banking Supervision (2010, updated 2011) Basel III: A global regulatory framework for
+more resilient banks and banking systems
+
+Basel Committee on Banking Standards (2013) Basel III: the liquidity coverage ratio and liquidity risk
+monitoring tools;
+
+Basel Committee on Banking Supervision (2014) Basel III leverage ratio framework and disclosure
+requirements
+
+Basel Committee on Banking Standards (2014) Basel III: the net stable funding ratio
+
+Basel Committee on Banking Standards (2014) Supervisory framework for measuring and controlling large
+exposures
+
+Basel Committee on Banking Supervision (2016) Minimum capital requirements for market risk
+
+BIS, FSB, and IMF (2011) Macroprudential policy tools and frameworks, update to G20 finance ministers and
+central bank governors
+Borio (2003) “Towards a macroprudential framework for financial supervision and regulation”, BIS working
+paper 128
+
+Burling and Lazarus (2011) Research Handbook on International Insurance Law and Regulation
+
+Cummins and Venard (2007) Handbook of International Insurance
+
+Ellul, Jotikasthira, and Lundblad (2011) Regulatory pressure and fire sales in the corporate bond market,
+Journal of Financial Economics
+
+ESRB (2015) Report on systemic risks in the EU insurance sector (Annex 3)
+
+Federal Reserve Bank of Chicago (2014) AIG in Hindsight
+French, Vital, and Minot (2015) “Insurance and Financial Stability”, Bank of England Quarterly Bulletin, 2015
+Q3.
+
+FSB (2013) Global Systemically Important Insurers (G-SIIs) and the policy measures that will apply to them
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+FSB (2014) Key attributes of effective resolution regimes for financial institutions
+
+FSB (2016) Proposed policy recommendations to address structural vulnerabilities from asset management
+activities
+
+FSB (2016) 2016 list of global systemically important insurers (G-SIIs)
+
+FSB (2016) FSB publishes 2016 G-SII list, Press release
+Geneva Association (2016) Modernising insurance solvency regimes – key features of selected markets
+
+Hufeld (2016) A regulatory framework for systemic risk in the insurance industry, in The Economics,
+Regulation, and Systemic Risk of Insurance Markets, Hufeld, Koijen, and Thimann eds, Oxford University
+Press
+
+IAIS (2013) Guidance for Systemic Risk Management Plans
+
+IAIS (2015) Higher Loss Absorbency Requirements for Global Systemically Important Insurers
+
+IAIS (2016) Risk-based global insurance capital standard version 1.0, public consultation document
+
+IAIS (2016) Global Systemically Important Insurers: Updated Assessment Methodology
+
+IAIS (2016) Systemic risk from insurance product features
+
+IMF (2003) Insurance and Issues in Financial Soundness
+
+IMF (2003) Japan: Financial System Stability Assessment and Supplementary Information
+IMF (2016) The insurance sector – trends and systemic risks implications, Chapter 3, Global Financial
+Stability Report
+Lee (2001) “Korean Experiences in Life Insurance Sector Reforms After the Financial Crisis”, The Geneva
+Papers on Risk and Insurance Vol 26 No 3
+McDonald and Paulson (2015) “AIG in Hindsight”, NBER Working Paper No 21108
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+Merrill, Nadauld, Stulz, and Sherland (2012) “Did capital requirements and fair value accounting spark fire
+sales in distressed mortgage-backed securities”, Working Paper, Ohio State University
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+

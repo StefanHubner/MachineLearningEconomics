@@ -1,0 +1,1612 @@
+The Second Quarter
+Speech given by
+
+Andrew G Haldane
+Chief Economist
+Bank of England
+
+30 June 2020
+
+The views expressed here are not necessarily those of the Bank of England or the Monetary Policy
+Committee. I would like to thank Shiv Chowla and Andre Moreira for their help in preparing the text. I
+would like to thank Andrew Bailey, Daniel Gray, Jonathan Haskel, Gregory Kidd, Sevim Kosem,
+Clare Macallan, Becky Maule, Michael Saunders, Michal Stelmach, James Tasker, Silvana Tenreyro,
+Ryland Thomas, Jan Vlieghe and Tugrul Vehbi for their comments and contributions.
+1
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+I would like to discuss today the economic outlook in the UK in the light of the Covid crisis and the way
+monetary policy is responding to this crisis. There is a debate about which letter of the alphabet will best
+describe the path of the economy, with some scepticism about the V-shaped scenario path in the Bank’s
+May Monetary Policy Report (MPR). It is early days, but my reading of the evidence is so far, so V.
+
+Covid-19 is, first and foremost, a global public health crisis. The measures put in place to contain the spread
+of this terrible disease have been necessary, but have had severe economic and financial consequences.
+As a result, most countries around the world are facing a twin crisis of public and economic health.
+
+The economy in the period ahead will continue to be shaped by the virus and policy responses to it. The
+economy will also, though, be shaped by the behavioural responses of households and businesses, and the
+policy responses of Governments and central banks, to these shocks. Understanding those responses is the
+purpose of my comments today.
+I will partition my assessment of the economic impact of the Covid crisis into four phases, or “quarters”,
+covering the past, present and near and distant future. The first “quarter” covers the initial impact of the
+virus; the second, the immediate recovery following these shocks; the third, the second-round effects on
+spending and employment; and the fourth, the longer-run impact on households and businesses.
+Both the UK and the global economies are already well into the “second quarter” – the recovery phase. The
+UK’s recovery is more than two months old, while the global economy is perhaps three months into its
+recovery, in both cases from an exceptionally low starting point. Let me say a little about each of the phases,
+before concluding on the role of policy in supporting the economy during the Covid crisis.
+“The First Quarter”
+
+The Covid-19 crisis has dramatically affected public health in every country in the world. There have been
+over 9 million reported cases of Covid globally and over half a million reported deaths, around 0.01% of the
+global population.1 As a point of comparison, the Spanish flu of 1918 recorded 33 million deaths or close to
+2% of the global population back then.2
+
+During the first few months of the year, and unlike in 1918, most countries put in place social distancing
+measures to contain the spread of the virus, albeit at different times and with differing degrees of stringency
+(Chart 1). Predictably – indeed, intentionally – these measures severely curtailed movement of goods,
+services and peoples, constricting economic activity across a very wide range of sectors and countries.
+
+1
+
+Data from European Centre for Disease Prevention and Control.
+Estimates of the death toll are uncertain. The number quoted here averages the mid-range of estimates in Patterson and Pyle (1991),
+Johnson and Mueller (2002) and Spreeuwenberg et al (2018).
+2
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+2
+
+Chart 1: Stringency of lockdown measures for selected countries
+China
+
+Index
+
+France
+
+100
+
+Germany
+
+90
+
+Italy
+
+80
+70
+
+Japan
+
+60
+South Korea
+
+50
+
+Spain
+
+40
+
+United States
+
+30
+
+Sweden
+
+20
+10
+
+United
+Kingdom
+
+0
+Jan-20
+
+Feb-20
+
+Mar-20
+
+Apr-20
+
+May-20
+
+Jun-20
+
+Sources: University of Oxford, Blavatnik School of Government
+
+As official data have come on stream, the speed and severity of that contraction during the early months of
+the year has become clear. In fact this was apparent in close to real time, courtesy of a range of unofficial
+“fast indicators” of activity and employment tracked by the Bank and others. The Covid crisis has seen an
+explosion of interest internationally in developing fast indicators to track the economy in a timely fashion.3
+
+The fast indicators used by the Bank have included data on payments and credit card transactions; Google
+searches of key economic and financial terms; measures of traffic flow, including around ports; measures of
+footfall on the high street; mobility and transport use metrics; bespoke surveys of households and
+businesses; and measures of energy demand. In some cases, such as payments data, these indicators can
+be mapped into the different components of consumption.
+For example, Table 1 shows the peak-to-trough fall in a proxy for “social consumption” – spending in pubs,
+restaurants, cinemas etc – based on Google searches across a range of countries. This is one of the
+categories of spending likely to have been hit hardest by social distancing measures. It suggests peak-totrough falls of 50-90% in social spending, across a wide range of countries, in the early months of the year.
+
+Fast indicators for the UK point to a similarly precipitous fall over the same period. Table 2 looks at the
+peak-to-trough falls in household spending using CHAPS payments data.4 These lie anywhere between
+
+3
+
+For example, Hacioglu, Känzig and Surico (2020), Carvalho et al (2020), Chetty et al (2020) and Aaronson et al (2020).
+CHAPS is a sterling same-day payment system that is used to settle high-value wholesale payments as well as time-critical, lowervalue payments like buying or paying a deposit on a property. Further detail on how these data can be used to track the economy can
+be found below in Chart 8.
+4
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+3
+
+50% and 80% for all spending other than on staples (such as food and rent). Social spending fell as much
+as 80% while delayable spending, which includes clothing, household goods and cars, fell by around 50%.
+
+Table 1: Google searches related to social
+consumption
+
+Country
+
+Peak YoY change, %
+
+Italy
+
+-67
+
+Spain
+
+-75
+
+France
+
+-73
+
+Germany
+
+-70
+
+US
+
+-58
+
+Japan
+
+-82
+
+China
+
+-73
+
+UK
+
+-69
+
+Sources: Google and Bank calculations.
+
+Table 2: UK “fast indicators” of consumption
+categories
+
+Category
+
+Peak change, %
+
+Social
+
+-80
+
+Work-related
+
+-65
+
+Delayable
+
+-50
+
+Staple
+
+-5
+
+Total
+
+-30
+
+Source: Bank of England and Bank calculations.
+
+GDP data so far broadly corroborates the message from these fast indicators. Compared with the fourth
+quarter of 2019, UK GDP fell by around 25% during the first four months of this year. The fall in
+UK-weighted world GDP is likely to have been similarly unprecedented. Unsurprisingly, these would be the
+sharpest four-month falls in GDP on record, in both the UK and globally.
+
+This contraction has affected almost every sector, if to differing degrees (Chart 2). The largest falls have
+been in the accommodation and dining sectors (over 90%). But sectors such as arts and recreation,
+construction and education have fallen by more than 40%. Utilities, food production and real estate have
+been among the least affected. Generally speaking, the greater a sector’s reliance on personal contact, the
+larger its fall.
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+4
+
+Chart 2: Falls in output by sector
+Industry output, hit to level, %
+Accomm. & food
+Other service
+Arts & recreation
+Construction
+Education
+Transp. & storage
+Admin. & support
+Distribution
+Manufacturing
+Extraction
+Health
+Professional, etc
+Info. & comms
+Electricity
+Agriculture
+Water
+Financial
+Real estate
+Public admin. & def.
+0
+
+-20
+
+-40
+
+-60
+
+-80
+
+-100
+
+Sources: ONS and Bank calculations.
+Note: Data to April 2020.
+
+This sharp contraction in economic activity has been accompanied, unsurprisingly, by a sharp fall in working
+hours. Globally, it is estimated that hours worked in Q2 were almost 11% lower than prior to the crisis,
+equivalent to over 300 million full-time workers.5 The IMF forecast that the advanced economy
+unemployment rate will double this year to over 8%. And the ILO estimate that the crisis could increase
+unemployment globally by anywhere between 5.3 and 24.7 million people.6
+
+In the UK, employment data to April from the Labour Force Survey (LFS) does not point to a sharp
+contraction so far. But other, more timely, labour market indicators suggest a sharp fall in employment.
+Claims for Universal Credit have risen by 2½ million since mid-March and administrative data from HMRC
+point to a large rise in joblessness. Claimant count measures of unemployment have risen by around
+1½ million since the start of the year.
+In addition, over 9 million jobs are estimated to have been furloughed as part of the Government’s Job
+Retention Scheme.7 A further more than 2.5 million self-employed workers are claiming income support.
+And perhaps as many as 8 million employees are working fewer hours for a variety of reasons.8 Taken
+together, this means that perhaps as much as half the UK workforce is currently either unemployed or
+underemployed. This, too, has no historical precedent.
+5
+
+ILO (2020a).
+ILO (2020b).
+7
+The total number of jobs furloughed may not equate to the number of employees still under furlough. For example, some workers
+may have more than one job. And some jobs may only have been furloughed temporarily.
+8
+May MPR: “Those that remain in work may be working fewer hours than normal. This could be because of reduced demand for their
+services, in which case they will have spare capacity. But they may also work fewer hours because they fall ill, are required to
+self-isolate, or have extra non-work responsibilities, such as caring for relatives or home-schooling children.” The Ipsos Mori survey in
+the May MPR suggested around 25% of employees are working fewer hours.
+6
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+5
+
+In its May Monetary Policy Report (MPR), the MPC produced an illustrative but plausible scenario for the UK
+and global economies. In this scenario, UK-weighted global GDP was expected to contract by 26% between
+the fourth quarter of 2019 and the second quarter of 2020 and by 13% over the course of 2020. For the UK,
+the equivalent numbers were a peak-to-trough contraction of 27% and an annual contraction of 14%.
+
+Charts 3 and 4 plot the distribution of quarterly (since 1955) and annual (since 1700) GDP growth rates in
+the UK, with the Bank’s May MPR scenario highlighted. By any conceivable metric, the Covid crisis has
+generated an extraordinary left-tail shock to the economy, with few if any historical precedents.
+
+Chart 3: Distribution of quarterly GDP growth
+since 1955
+
+Chart 4: Distribution of annual GDP growth since
+1700
+Number of observations
+
+Number of observations
+160
+
+50
+
+140
+
+45
+40
+
+120
+
+35
+100
+80
+
+May
+MPR
+2020 Q2
+
+60
+
+30
+May
+MPR
+2020
+
+25
+20
+15
+
+40
+
+10
+
+20
+
+5
+0
+
+0
+
+-15
+-13
+-11
+-9
+-7
+-5
+-3
+-1
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+
+-24-22-20-18-16-14-12-10 -8 -6 -4 -2 0 2 4
+
+Annual GDP growth (%)
+
+Quarterly GDP growth (%)
+
+Sources: ONS and Bank calculations.
+
+Sources: Bank of England Millennium of Data, ONS and
+Bank calculations.
+
+“The Second Quarter”
+
+The same fast indicators used to track the collapse in activity in the first part of this year can also be used to
+track its recovery. Generally speaking, these indicators suggest the recovery in both the UK and global
+economies has come somewhat sooner, and has been materially faster, than in the MPC’s May MPR
+scenario – indeed, sooner and faster than any other mainstream macroeconomic forecaster.
+Globally, fast indicators point towards the trough in activity in the UK’s main trading partners having come
+during, or just after the end of, the first three months of the year: in China in February and in the US and
+euro area in early April. That means UK-weighted global GDP has perhaps been recovering for around three
+months. Chart 5 plots PMIs for a range of the UK’s major trading partners. Although the PMIs are a less
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+6
+
+good guide than usual to GDP outturns, they have bounced back sharply, as have some other business
+surveys.9
+
+Chart 5: PMIs in selected countries
+
+Index, 50 = no change
+70
+France
+
+Germany
+
+US
+60
+50
+
+Euro
+area
+
+40
+China
+30
+20
+10
+0
+
+2006
+
+2009
+
+2012
+
+2015
+
+2018
+
+Sources: Thomson Reuters Datastream.
+Notes: Composite output PMIs. Solid red line shows ISM PMIs for US, dashed red line shows Markit PMIs.
+
+Chart 6a plots the Google-based proxy for social spending in a range of countries since the start of the year,
+most likely the slowest of the consumption categories to recover. This measure troughed in Q1 for most
+countries and has since recovered across the board, albeit to different degrees. For some countries, it is
+already close to pre-Covid levels. The country divergence is even larger in Chart 6b, showing restaurant
+bookings across countries, but the extent of the recovery is nonetheless similar.
+
+The May MPR noted that “These surveys record net balances of respondents, so they provide an indication of how widespread falls in
+output and expectations are, but are less informative about the magnitude of the falls. So, at a time when the contractions are likely to
+be very large, it is difficult to use these data to predict the size of the change in output.”
+9
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+7
+
+Chart 6a: Google searches for social spending
+Per cent
+change on
+a year ago
+
+Chart 6b: Restaurant bookings
+Australia Per cent change
+on a year ago
+Germany
+50
+Mexico
+United States
+25
+
+Global
+Canada
+Ireland
+United Kingdom
+
+50
+30
+10
+-10
+
+0
+
+-30
+
+-25
+
+-50
+-50
+
+-70
+
+-75
+
+-90
+Jan
+
+Feb
+Italy
+UK
+
+Mar
+
+Apr
+
+Germany
+US
+
+May
+France
+Japan
+
+Sources: Google and Bank calculations.
+
+Jun
+
+-100
+
+Spain
+China
+
+18-Feb
+
+18-Mar
+
+18-Apr
+
+18-May
+
+18-Jun
+
+Sources: Open Table and Bank calculations.
+
+In the light of this news, Bank staff’s nowcasts for world GDP growth in Q2 have been revised up, by 13
+percentage points to around -10%. Even relative to the scale of the fall, this is a large upward revision. One
+reason is because social distancing measures have been loosened more rapidly than expected (Chart 1), as
+we would expect the stringency of lockdown to affect GDP.
+
+We can use a model to explain GDP across a range of countries using the stringency of their lockdowns in
+that quarter, as well as a range of other country-specific factors (Chart 7).10 That model suggests world GDP
+will be 15% lower in Q2 than at the turn of the year, compared to 26% in the May MPR scenario.
+
+Chart 7: Lockdown stringency against GDP growth over 2020 H1
+GDP change
+from 19Q4 to
+20Q2, %
+
+10
+5
+0
+-5
+-10
+-15
+-20
+-25
+
+UK
+
+-30
+-35
+
+0
+
+20
+
+40
+60
+80
+100
+Average Oxford stringency index over quarter
+
+120
+
+Sources: Apple, University of Oxford and various national data sources.
+Notes: See Footnote 10.
+10
+
+For a panel of 55 countries, we employ a forecast combination analysis of around 20 different regression models, each of which uses
+different sets of explanatory variables and the final forecast is a root mean square error weighted average of forecasts from all our
+specifications. The variables we use are containment, economic and health policy response indices, which are calculated in-house
+using the Oxford University Covid monitoring database, Apple mobility trends and country characteristics, e.g. share of exports in GDP,
+dummies for income level and geographic region and average GDP growth between 2014 and 2018. We also include containment
+policy characteristics such as the maximum containment policy response and the time spent at this maximum response in a quarter.
+8
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+8
+
+For the UK the picture is broadly similar. Fast indicators suggest the trough in activity was reached in the
+middle of April, with a steady recovery thereafter. Chart 8 plots payments-based fast indicators for the UK
+mapped into four convenient categories of consumer spending. By late-June, these spending components
+had recovered at least a third, and in some cases all, of their prior fall. They have risen both sooner and
+materially faster than in the May MPR scenario.
+
+Chart 8: Fast indicators for the UK
+% change from Jan-Feb level
+
+60
+40
+
+Staples
+
+20
+0
+-20
+
+Aggregate
+
+-40
+Delayable
+
+-60
+
+Work-related
+
+Social
+
+-80
+-100
+
+Mar-20
+
+Apr-20
+
+May-20
+
+Jun-20
+
+Sources: Bank of England and Bank calculations.
+Notes: Based on the CHAPS payments that a sample of around 90 UK companies receive from their merchant acquirers
+on a daily basis. These payments reflect the sales that companies make through debit and credit card purchases, which
+are summed to estimate rolling seven-day revenues. Definitions of the different consumption groups are discussed in
+the May MPR.
+
+Among the negatively-affected components of spending – social, work-related and delayable – the fastest
+recovery has been in delayable expenditure such as DIY and household goods.11 There has also been a
+sharp up-tick in the car and housing markets, albeit from stagnant levels. Some elements of consumer
+confidence have bounced back too, in particular consumers’ appetite for major purchases.
+
+Official data on retail sales have confirmed this recovery in spending, rising 12% in May to leave spending
+13% below its pre-Covid level. In part this may reflect the partial opening-up of a larger number of shops.
+But a larger part appears to have reflected a shift towards online purchases. As a fraction of total retail
+spending, online sales has risen from around a fifth prior to the Covid crisis to around a third now.
+
+Reflecting these trends, many business surveys have also bounced back from their April lows. UK PMIs for
+May and June rose back to levels only a little below the 50 (no change) mark (Chart 9), as in our major
+trading partners, although the precise signal to take from these balances at present is unclear.
+
+11
+
+The May MPR discusses what these different categories of household spending represent.
+9
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+9
+
+Chart 9: UK PMIs
+Diffusion Index
+
+70
+
+Services Business Activity
+60
+50
+Manufacturing Output
+
+40
+
+Composite Output
+
+30
+20
+10
+0
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+Sources: IHS Markit.
+Notes: Output balances.
+
+The UK’s faster recovery might simply reflect an earlier relaxation of lockdown than was assumed in May, as
+in other countries. But there is less evidence to support that hypothesis in the UK, with the pace of relaxation
+broadly in line with the May MPR scenario (Chart 10a). On the face of it, this suggests some greater than
+expected degree of underlying strength in consumer spending in the UK economy.
+
+Chart 10a: Lockdown stringency (actual and May
+
+Chart 10b: Share of consumption basket that is
+
+MPR-consistent)
+
+unavailable
+
+Stringency of government measures
+
+Restricted consumption share
+
+0.5
+
+80
+70
+
+0.4
+
+60
+50
+
+0.3
+
+40
+30
+
+0.2
+
+20
+10
+
+0.1
+
+0
+Jan
+
+Mar
+
+May
+May MPR-consistent
+
+Jul
+
+Sep
+Index
+
+0.0
+Mar
+
+Apr
+
+May
+
+Jun
+
+Sources: University of Oxford, ONS and Bank calculations.
+Note: Blue line simply in Chart 10a takes Stringency Index as of early-May, and extrapolates it based on May MPR
+assumption that “The illustrative scenario is conditioned on social distancing measures and government support
+schemes remaining as they are until early June, before being gradually unwound by the end of Q3.”
+
+Taking this evidence together, Bank staff now expect consumer spending to be around 20% lower in Q2,
+relative to nearly 30% in the MPR scenario. By the end of Q2, spending is likely to be around 10% lower
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+10
+
+than at the start of the year. Or, put differently, consumer spending in the UK is probably already above the
+level projected to prevail in Q3 in the May MPR scenario.
+
+Some of these data cover the opening-up of non-essential retail stores on 15 June. That opening-up was
+quantitatively significant, representing around 13% of consumption spending and halving the share of goods
+and services consumers which were previously unavailable (Chart 10b). Initial indications from payments
+and footfall figures suggest this opening-up has accelerated, perhaps significantly, consumer spending. In
+particular, CHAPS data suggests spending on delayable goods has now returned to pre-Covid levels (Chart
+8), well ahead of the corresponding May scenario profile.
+
+Looking ahead, the opening of pubs, restaurants, hotels, cinemas and other hospitality outlets on 4 July will
+provide further impetus to spending. My own market intelligence suggests considerable pent-up demand.
+Together, these categories represent around another 10% of consumer spending. Initial reports from
+businesses in these sectors, including from the Bank’s Agents, suggest advance bookings are brisk.
+
+There is less evidence on which to base an updated judgement on the other components of GDP. For net
+trade, the May MPR scenario suggested around a 40% peak-to-trough fall in gross export and import
+volumes. Trade and port traffic data suggest a somewhat smaller contraction. With the world economy
+recovering sooner than in the UK, this implies a slightly larger boost to UK GDP growth from net trade in Q2.
+
+For housing and business investment, there are even less data on which to make an assessment. The May
+MPR scenario suggested peak-to-trough falls of 60% and 40% respectively, based in part on results from the
+Bank’s Decision Maker Panel (DMP). The latest results from the DMP appear broadly consistent with this.
+Updating Staff’s nowcasts for these high-frequency data gives an estimated fall in Q2 GDP of around 20%
+relative to its pre-Covid peak. While this is an exceptionally weak number, that is not in itself news. The
+news is that it is 7 percentage points less than in the May MPR scenario. By comparison, an estimate based
+on the stringency-based model implies a broadly similar contraction in UK GDP in Q2 of 19% (Chart 7).
+
+It could be argued that, while these are large upward revisions in an absolute sense, they are still relatively
+modest by comparison with the falls already seen. And of course, some of this rise in spending might simply
+be the release of pent-up demand, which could dissipate subsequently.
+
+Against that, the evidence so far suggests the recovery is not simply the bringing-forward of spending. Were
+this higher level of spending maintained, it would put GDP on a different path than in the May MPR scenario.
+The cumulative loss of annual GDP in the May scenario, relative to the January MPR forecast, was around
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+11
+
+17%. If the higher starting level of GDP were maintained, the cumulative loss of GDP would more than halve
+to around 8%.12
+“The Third Quarter”
+Looking to the second half of the year, what might we expect? In the May MPR, the MPC’s scenario foresaw
+a sharp pick-up in activity, with quarterly growth rates of 12-13% in each of Q3 and Q4. These increases
+were driven, in large measure, by the assumption of a phased relaxation of lockdown measures, and
+accompanying policy support, between July and September.
+
+To my mind, two paths are possible in the second half of the year. One involves a negative feedback loop
+from higher unemployment to lower spending, the other a positive feedback loop from higher spending to
+lower unemployment. The first poses a downside risk to the outlook, the second an upside risk. As things
+stand, it is unclear which of these scenarios, or feedback loops, will prove the more potent.
+
+The negative loop has its roots in the labour market. So far, levels of employment appear to have fallen less
+rapidly than output. Against that, the number of furloughed workers has exceeded expectations, perhaps by
+in excess of a million people. This is good news for household incomes in the short run, as the income loss
+from furlough is far lower than from unemployment. Indeed, this might help explain some of the greater than
+expected strength in demand in Q2.
+
+As the furlough scheme tapers from August, however, there is a risk this greater number of furloughed
+workers are not hired back by employers, adding to the unemployment pool. The May MPR scenario had
+unemployment rising to 9%, but assumed the risk of workers not being re-hired was small. Recent survey
+evidence, from both households and companies, suggests this risk could be larger. For example, survey
+evidence of companies by the DMP suggests private sector employment could be almost 10% lower by the
+end of 2020, implying an unemployment path somewhat higher than in the May MPR scenario.
+
+If unemployment was to rise more than expected, it increases the risk of a negative feedback loop.
+Joblessness, or fears of it, have historically been a key driver of household savings. Higher unemployment,
+as well as lowering incomes, could cause households to increase precautionary savings. That higher saving
+would lower demand and negatively affect company revenues and employment, in a vicious cycle.
+John Maynard Keynes described this dynamic in the 1930s as the “paradox of thrift”.13 A paradox because
+prudent decisions by households, given the risks they face, have the perverse collective consequence of
+increasing risks to the economy and those same individuals. These dynamics might be particularly potent at
+
+12
+
+Cumulative loss calculated as the percentage difference in the four-quarter sum of quarterly GDP at the Year 1, 2 and 3 points of the
+January MPR, summed together.
+13
+Keynes (1936) described this pattern and Samuelson (1948) used the term ‘paradox of thrift’.
+12
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+12
+
+present because households face double jeopardy – risks to their lives and their livelihoods. Elsewhere, I
+have called this dread risk.14 At present, dread is double-barrelled.
+
+Yet this is not the only path possible for the economy. The willingness of companies to take back furloughed
+workers will depend importantly on their expectations about future demand for their goods and services. The
+stronger those expectations, the lower the likelihood of job losses. Firms will not make workers redundant if
+they need to rehire them, at a cost, soon afterwards. This lowers unemployment risk, raises household
+incomes, confidence and spending and thereby boosts firm revenues and employment, in a virtuous cycle.
+Back in the 1950s John Hicks called this dynamic a “super-multiplier” – “super” because the cumulative
+effects are amplified when emerging from recession.15 There is survey evidence to support this dynamic.
+The British Chambers of Commerce’s (BCC) weekly survey suggests firms’ demand and employment
+intentions have moved upwards in lockstep since April (Chart 11). Indeed, employment was close to balance
+by mid-May. Surveys of employment intentions and vacancies have also recently recovered from low levels.
+
+Chart 11: BCC survey
+Balance
+60
+Composite output
+40
+20
+0
+Reported employment
+
+-20
+-40
+-60
+-80
+-100
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+Sources: BCC and Bank calculations.
+Notes: Chart shows BCC Quarterly Survey and dashed lines show more recent weekly survey after Covid-19 crisis
+began.
+
+A further mitigating factor is that household savings rates appear to have risen, involuntarily and significantly,
+due to social distancing policies. A Bank of England survey in conjunction with Ipsos Mori suggests the
+aggregate saving ratio is broadly unchanged, although with considerable heterogeneity across income
+cohorts (Chart 12). But it is possible these survey respondents did not capture the involuntary increase in
+households’ cash balances when they answered questions about their savings behaviour.
+14
+15
+
+Haldane (2020).
+Hicks (1950).
+13
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+13
+
+For example, sterling deposits held by households and companies in banks have increased sharply over the
+past few months, by around £120 billion (Chart 13). That is consistent with a significant rise in the saving
+ratio. These higher involuntary savings could be drawn down to finance future spending, at least by some
+households. In aggregate, they potentially dwarf any voluntary rise in savings for precautionary purposes.
+
+Chart 12: Saving rates by income (net balance)
+Net balance increased savings (%)
+25
+20
+15
+10
+5
+0
+-5
+-10
+-15
+Up to £19,999
+
+£20,000-£34,999
+
+£35,000 - £54,999
+
+£55,000+
+
+Sources: Ipsos Mori and Bank calculations.
+Notes: Research was carried out by Ipsos MORI on behalf of The Bank of England. It surveyed a nationally
+representative quota sample of 2,243 adults in the United Kingdom aged 16-75 using its online i:omnibus on 29 May to
+3 June. Data has been weighted to the known offline population proportions for age, gender, government office region,
+working status and social grade. Respondents were asked, “as a result of the coronavirus pandemic, would you say
+that your household savings have increased, decreased, or stayed the same?”
+
+Chart 13: Sterling deposits held by households and PNFCs (monthly flows into M4ex)
+Households
+
+£ billion
+
+PNFCs
+
+60
+50
+40
+30
+20
+10
+0
+-10
+
+Jan - 19
+
+Apr - 19
+
+Jul - 19
+
+Oct - 19
+
+Jan - 20
+
+Apr - 20
+
+Sources: Bank of England and Bank calculations.
+Note: Chart does not include flows into non-intermediate OFCs’ M4.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+14
+
+Which of these two paths will play out in practice? Back in May, the MPC observed that the balance of risks
+to the outlook was skewed to the downside. Subsequent positive news on demand has, in my opinion, more
+than counterbalanced the rise in downside risks to employment. To my mind, this leaves risks to the outlook
+slightly more evenly balanced than in May, if still with a downside skew.
+“The Fourth Quarter”
+
+Looking beyond 2020, there is plainly a high degree of uncertainty about the economy. That in part reflects
+uncertainty about the virus and the policy responses to it. But it also reflects uncertainties about the path of
+the economy itself. Given the depth of the recession, there is likely to be a greater than usual degree of
+history-dependence, or hysteresis, in this path. The deeper and longer the recession, the greater the
+scarring effects on physical and human capital and hence the economy’s productive potential.
+
+The May MPR scenario captured some of these scarring effects. In particular, it assumed that lower
+investment as a result of the Covid crisis was not recovered, leaving the capital stock 4% lower. Combined
+with some drag on total factor productivity (TFP) growth, the level of output ended 1½% lower. That scenario
+assumed no scarring effect on human capital, however, with unemployment returning to pre-Covid levels and
+the long-run rate of unemployment unchanged at around 4¼%.
+
+At the same time, it was recognised that this was just one of many possible paths for the economy. Other
+paths would give rise to differing degrees of scarring to physical and human capital and losses to the
+long-run productive potential of the economy. On 14 July, the Office of Budget Responsibility (OBR) will
+publish three possible scenarios for the economy involving different degrees of depth and length of the
+downturn.
+
+Perhaps the key uncertainty, from a scarring perspective, concerns the labour market. As Chart 2 illustrates,
+the Covid crisis has had markedly different effects on different sectors and, most likely, will continue to do so.
+Chart 14 compares different sectors’ contribution to the pre-Covid employment boom and its subsequent
+output contraction. There is a negative correlation, suggesting it might be difficult for the sectors which
+absorbed most workers pre-Covid to repeat this feat post-Covid.
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+15
+
+Chart 14: Falls in output by sector against post-GFC employment growth
+Covid-19 sectoral output hits, %
+40
+20
+
+Contribution to post-GFC
+employment growth, pp
+
+0
+-20
+-40
+-60
+Accommodation & food
+
+-80
+-100
+-1
+
+0
+
+1
+
+2
+
+3
+
+Sources: ONS and Bank calculations.
+Notes: Sectoral output hits on y-axis are from Chart 2. Numbers on x-axis are the percentage point contribution of each
+sector to total growth in UK employment from its post-global financial crisis trough to end-2019.
+
+Other, structural, factors may further complicate the labour market picture. The Covid crisis has shifted
+relative prices in ways which could encourage companies to invest in machines rather than people during the
+recovery. The price of capital goods has fallen while the price of labour has increased because of the need
+for Covid-secure premises and practices. This shift in the relative price of capital versus labour will provide a
+headwind to the re-absorption of workers.
+
+A second structural headwind concerns the skills mix of those losing their jobs. Research suggests this is
+likely to be skewed towards those with fewest skills and least experience, especially the young. The
+Resolution Foundation estimates that high unemployment will result in a 13% lower probability of a new
+graduate being in employment three years after completing education. For those without a university
+qualification, the probability of being in work three years from now might be 27-37% lower.16
+
+During jobs recessions, many workers choose to move down the skills spectrum to regain a foothold on the
+jobs ladder.17 But if many displaced workers have low levels of skill and experience, the option of moving
+down the skills spectrum may not be available or may at least have lower value. Skilling or re-skilling will
+then be needed. This adds to the time it takes workers to re-enter the jobs market, prolonging high
+unemployment.
+16
+17
+
+Henahan (2020).
+Haldane (2019), Moscarini and Postel-Vinay (2016) and Moscarini and Postel-Vinay (2018).
+16
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+16
+
+The possibility of labour market mismatches, whether by sector or skill, increases the chances of high
+unemployment proving persistent, with scarring effects on the economy’s supply potential. Put differently,
+labour market mismatches raise the economy’s NAIRU – the level of unemployment at which supply
+bottlenecks and wage pressures re-emerge. The higher the NAIRU, the smaller the degree of slack in the
+economy.
+Historically, pandemics have not tended to have a persistent upward impact on prices.18 But a higher NAIRU
+would be one reason to be cautious before jumping to that conclusion. A second is that the policy response
+to the Covid crisis, both monetary and fiscal, has been significantly more expansionary than any previous
+pandemic. A third factor is that the fracturing of supply chains during the Covid crisis, national and
+international, would tend to increase the cost of goods and services, if it proves durable.
+
+Against these inflationary forces of course needs to be weighed the disinflationary effects of much higher
+degrees of (double jeopardy) uncertainty, weaker demand and potentially higher saving rates in the
+economy. With heavy weights on either end of the inflationary see-saw, it is unclear at this stage which will
+tip the balance.
+Those uncertainties are, to some extent, reflected in the differing responses of agents’ inflation expectations.
+Since the crisis, households’ expectations have tended to drift up, companies’ expectations have drifted
+down and financial markets’ expectations are relatively unchanged. Given the strong forces acting on
+inflation in either direction, the MPC is being especially vigilant in monitoring trends in inflation expectations.
+
+Perhaps the long-range forecast about which I have greatest confidence concerns the data and statistics
+used, by the Bank and others, to monitor the economy. The emergence of a new suite of fast indicators,
+including from the UK Office for National Statistics, has significantly shifted the technological frontier when
+monitoring the economy. That shift is likely to be permanent, improving the granularity and the timeliness of
+both our statistics and our understanding of economic trends.
+
+The Policy Response
+
+Let me conclude by discussing the policy response to these searing developments in the global economy.
+Like the crisis itself, these responses have been unprecedented in speed and scale. As importantly, they
+have typically involved fiscal and monetary policies acting in tandem to cushion the effects of the crisis on
+jobs and incomes.
+
+The first line of defence against the crisis has come from fiscal policy. Fiscal tools act directly on the source
+of the problems caused by the Covid crisis – cash-flow shortfalls for companies and jobs risks for workers.
+
+18
+
+For example, Barro, Ursúa and Weng (2020).
+17
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+17
+
+To those ends, a wide variety of fiscal measures have been put in place over recent months, including job
+support schemes, tax rebates and holidays, grants to certain sectors and loan guarantee programmes.19
+
+For the major economies, these programmes has been as large as any since the Great Depression, often
+double-digit percentages of GDP (Chart 15). Additional support will come from the automatic stabilisers built
+into tax and spending rules. All in, the IMF estimate that announced fiscal stimulus measures from the Covid
+crisis are near $11 trillion globally, equivalent to around 8% of world GDP in 2019.
+Chart 15: Fiscal measures to counter Covid-19 (% of each country’s GDP)
+40
+
+12
+Right scale
+
+Left scale
+
+35
+
+10
+
+30
+8
+
+25
+20
+
+6
+
+15
+
+4
+
+10
+2
+
+5
+
+Additional spending and forgone revenue
+
+AEs
+
+G20
+
+EMs
+
+LIDCs
+
+United States
+
+Japan
+
+Germany
+
+Brazil
+
+Australia
+
+United Kingdom
+
+Canada
+
+South Africa
+
+Italy
+
+China
+
+Spain
+
+Korea
+
+Argentina
+
+France
+
+Indonesia
+
+Russia
+
+Saudi Arabia
+
+India
+
+Turkey
+
+0
+
+Mexico
+
+0
+
+Loans, equity, and guarantees
+
+Sources: IMF WEO, June 2020.
+
+Accompanying these fiscal measures have been equally extensive measures by central banks, including
+lower interest rates, large-scale liquidity provision and purchases of assets across the risk spectrum. Among
+the world’s major central banks, there has so far been an expansion of asset purchases to end-May of
+around $2.8 trillion, with a further $2.2 trillion planned by the end of this year. Taken together, the growth in
+major central bank asset purchases since the crisis already amounts to around 5% of (pre-Covid) global
+GDP.
+
+In the UK, the pattern has been similar. The MPC increased the stock of asset purchases by £200 billion in
+March, alongside a cut in Bank Rate by 65 basis points and the introduction of a new Term Funding scheme
+for Small and Medium-sized Enterprises (TFSME). At its meeting in June, the MPC voted to increase the
+stock of asset purchases by a further £100 billion, to £745 billion, with the programme expected to be
+completed around the turn of the year.
+19
+
+IMF (2020).
+18
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+18
+
+Through these policies, the Bank of England’s balance sheet has so far expanded by close to £200 billion,
+with a further £200 billion expected during the remainder of this year due to additional asset purchases and
+TFSME drawings.20 This would take the Bank’s balance sheet to around 45% of (2019) UK GDP by the
+year-end, more than double its previous high-water mark (Chart 16). It would take the Bank’s balance sheet
+to almost double its highest-ever previous level relative to the Government’s net debt stock (Chart 17).
+
+Chart 16: Bank of England balance sheet relative to GDP
+Per cent
+50
+Banknote convertibility
+to gold reinstated
+Banknote
+convertibility
+to gold
+suspended
+
+South Sea
+bubble
+
+Amalgamation of
+Treasury
+and Bank
+note issues
+
+Covid-19
+crisis
+Failure of
+Lehman
+Brothers
+
+45
+40
+35
+30
+25
+
+WW1
+
+WW2
+
+20
+15
+10
+5
+0
+
+1700
+
+1750
+
+1800
+
+1850
+
+1900
+
+1950
+
+2000
+
+Sources: Bank of England (available here), ONS and Bank calculations.
+Notes: Chart from Hauser (2020) but updated to reflect most recent MPC announcement of further asset purchases and
+TFSME. GDP over 2020 held fixed at end-2019 level to prevent fall in output leading to denominator effect. Dotted line
+extends series to mid-2020, assuming completion of current asset purchase programme and further TFSME drawings.
+
+These figures reflect the June MPC minutes, which noted that lending under TFSME “was likely to exceed £100 billion over the
+coming year.” For simplicity we assume the TFSME reaches £100bn at end-2020.
+20
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+19
+
+Chart 17: Bank of England balance sheet relative to government net debt
+Per cent
+60
+Banknote convertibility
+to gold reinstated
+Banknote
+convertibility
+to gold
+suspended
+
+South Sea
+bubble
+
+Amalgamation of
+Treasury
+and Bank
+note issues
+
+Covid-19
+crisis
+
+50
+Failure of
+Lehman
+Brothers
+
+40
+WW1
+
+WW2
+
+30
+
+20
+
+10
+
+0
+1700
+
+1750
+
+1800
+
+1850
+
+1900
+
+1950
+
+2000
+
+Sources: Bank of England (available here), OBR, ONS and Bank calculations.
+Note: Debt figures calculated on a fiscal year end basis. Red diamond shows end-2020 Bank of England balance sheet
+(consistent with Chart 14), relative to OBR projection for government net debt (excluding public sector banks) for FY
+2020/21.
+
+These balance sheet actions by central banks globally have had their intended effect, improving financial
+and credit conditions to support households and businesses (Chart 18). Despite being tighter than at the
+start of the year, financial conditions have loosened significantly since mid-March. Yields on government
+securities are at their lowest-ever levels (Chart 19), as are yields on investment-grade corporate bonds.
+
+Borrowing costs for households and smaller businesses have not fallen as far as for governments or larger
+companies. That explains why, despite monetary easing, overall credit conditions are somewhat tighter than
+at the start of the year. Nonetheless, the overall monetary stance, in the UK and globally, remains highly
+accommodative by any historical metric. For example, real interest rates in the UK have fallen into even
+more deeply negative territory since the Covid crisis (Chart 20).
+
+20
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+20
+
+Chart 18: Global financial conditions index
+Standard
+deviations from
+historic average
+
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+
+1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019
+Sources: Bloomberg Finance L.P., Eikon by Refinitiv and Bank calculations.
+Notes: Financial conditions indices (FCIs) estimated for 43 economies using principal component analysis. The FCIs summarise
+information from the following financial series: term spreads, interbank spreads, corporate spreads, sovereign spreads, long-term
+interest rates, equity price returns, equity return volatility and relative financial market capitalisation. An increase in the index indicates a
+tightening in conditions. Series shows the average of all country FCIs, weighted according to their shares in world GDP using the IMF’s
+purchasing power parity (PPP) weights.
+
+Chart 19: UK government bond yields (10-year gilt yield)
+Per cent
+
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Sources: Bloomberg Finance L.P, TradeWeb and Bank calculations.
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+21
+
+Chart 20: UK real rates
+Per cent
+26/06/2020
+
+06/01/2020
+
+0
+-0.5
+
+08/01/2018
+
+-1
+-1.5
+-2
+-2.5
+-3
+-3.5
+
+0
+
+2
+
+4
+
+6
+
+8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40
+Maturity (Years)
+
+Sources: Bloomberg Finance L.P., TradeWeb and Bank calculations.
+Notes: Chart shows UK instantaneous implied real forward curve.
+
+At its June meeting, the MPC weighed the upside news on demand against the downside news from
+employment when deciding to expand asset purchases by a further £100 billion. My judgement on the
+balance of these risks led me to vote to maintain the monetary stance rather than loosen it further. I judged
+the upside news in demand since our previous meeting in May to have outweighed the negative news to the
+UK’s economic outlook. Let me illustrate my thinking with a simple thought-experiment.
+
+In the May MPR scenario, inflation and output fell sharply in the first year before recovering, with the output
+gap closed by year 2 and inflation back to target by year 3. Since then, positive demand news has lifted the
+starting level of UK output. If this level was maintained along the same growth trajectory, the average output
+gap over the next three years would be 3 percentage points smaller than in May. With a Phillips curve slope
+of a third, inflation at years 2 and 3 would be around 1 percentage point higher than expected in May.
+
+Another significant piece of news since May has been in asset prices. Since then, shorter-term interest rates
+have fallen by around 25 basis points, risky asset prices such as equities have risen by almost 7% and the
+sterling exchange rate has fallen by around 2¼%. Taken together, these asset prices movements represent
+a material loosening in UK monetary conditions. On standard ready-reckoners, they would boost output by
+around ½%, and inflation by around 0.2 percentage points, at the policy horizon relative to the May scenario.
+
+Finally, imagine we plugged this news about the expected output gap and inflation into a standard Taylor
+Rule, in which interest rates are mechanically set in line with these two factors. Assuming weights on the
+22
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+22
+
+two terms of 0.5 and 1.5 respectively, the Taylor Rule implied path of interest rates would, on average, be
+around 1 percentage point higher over the policy horizon as a result of the news about asset prices and
+demand, relative to the May-implied scenario path.
+
+This is of course not the only news about the UK economy since May. And nor am I inviting too literal an
+interpretation of my thought-experiment. I offer it simply as a means of sizing the upside news to the
+economy since May, illustrating its presumptive implications for monetary policy and providing a baseline
+against which downside risks to the economy can be judged, including from higher unemployment. It was
+this judgement that lay behind my decision to leave the monetary stance unchanged at the June meeting.
+
+Looking ahead, risks to the economy remain considerable and two-sided. Although these risks are in my
+view slightly more evenly balanced than in May, they remain skewed to the downside. Of these risks, the
+most important to avoid is a repeat of the high and long-duration unemployment rates of the 1980s,
+especially among young people. Like the rest of the MPC, I stand ready to adjust monetary policy, at speed,
+if needed to support the economy and return inflation to its target on a sustainable basis.
+
+At the same time, it is important to recognise the limits to what monetary policy can achieve. Monetary policy
+can help to deliver the monetary and financial conditions necessary to support households and businesses –
+and is doing so. But monetary policy can do relatively little to avoid problems caused by structural or
+sectoral shifts in the economy, such as structurally high rates of unemployment. With interest rates along the
+yield curve close to zero, there is also simply less room for monetary manoeuvre than in the past.
+Before the Covid crisis, I expressed concerns about the growing “dependency culture” around monetary
+policy.21 Recent events have done nothing to allay those concerns. Price stability is an anchor on which all
+societies and economies depend for their stability and success. At this time of momentous uncertainty about
+the health of our societies and economies, it is more important than ever that central banks are not
+over-burdened and that the anchor of price stability is not disturbed.
+
+Thank you.
+
+21
+
+Haldane (2019).
+23
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+23
+
+References
+Aaronson, D, Brave, S, Butters, R, Sacks, D and Seo, B (2020), ‘Using the Eye of the Storm to Predict the Wave of
+Covid-19 UI Claims’, Federal Reserve Bank of Chicago Working Paper, No. 2020-10.
+Barro, R, Ursúa, J and Weng, J (2020), ‘The Coronavirus and the Great Influenza Pandemic: Lessons from the
+“Spanish Flu” for the Coronavirus’s Potential Effects on Mortality and Economic Activity’, NBER Working Paper, No.
+26866.
+Carvalho, V, Garcia, J, Hansen, S, Ortiz, Á, Rodrigo, T, Rodriguez Mora, J and Ruiz, J (2020), ‘Tracking the Covid19 Crisis with High-Resolution Transaction Data’, Cambridge-INET Institute Working Paper, No: 2020/16.
+Chetty, R, Friedman, J, Hendren, N, Stepner, M and Opportunity Insights Team (2020), ‘How Did Covid-19 and
+Stabilization Policies Affect Spending and Employment? A New Real-Time economic Tracker Based on Private Sector
+Data’, Opportunity Insights Working Paper, May 2020.
+Hacioglu, S, Känzig, D and Surico, P (2020), ‘Consumption in the time of Covid-19: Evidence from UK transaction
+data’, CEPR Discussion Paper, DP14733.
+Haldane, A (2019), ‘Climbing the Jobs Ladder’, Bank of England, speech available at:
+https://www.bankofengland.co.uk/speech/2019/andy-haldane-speech-regional-visit-to-yorkshire-and-humber
+Haldane, A (2020), ‘Strategy and Investment for a Strong and Sustainable Recovery’, RES Webinar, available at:
+https://www.res.org.uk/resources-page/strategy-and-investment-for-a-strong-and-sustainable-recovery-1-of-3.html
+Hauser, A (2020), ‘Seven moments in Spring: Covid-19, financial markets and the Bank of England’s operations’, Bank
+of England, speech available at:
+https://www.bankofengland.co.uk/speech/2020/andrew-hauser-speech-hosted-by-bloomberg-via-webinar
+Henahan, K (2020), ‘Class of 2020: Education leavers in the current crisis’, Resolution Foundation, May 2020.
+Hicks, J (1950), A Contribution to the Theory of the Trade Cycle, Clarendon Press.
+IMF (2020), ‘Fiscal Monitor: Policies to Support People During the Covid-19 Pandemic’, International Monetary Fund,
+April 2020.
+International Labour Organization (2020a), ‘Covid-19 and the world of work’, ILO Monitor, 27 May 2020.
+International Labour Organization (2020b), ‘Covid-19 and the world of work: Impact and policy responses’, ILO
+Monitor, 18 March 2020.
+Johnson, N and Mueller, J (2002), ‘Updating the Accounts: Global Mortality of the 1918-20 “Spanish” Influenza
+Pandemic’, Bulletin of the History of Medicine, Vol. 76, No. 1, pp. 105-115.
+Keynes, J M (1936), The General Theory of Employment, Interest and Money, Palgrave Macmillan.
+Moscarini, G and Postel-Vinay (2016), ‘Wage Posting and Business Cycles’, American Economic Review, Vol. 106,
+No. 5, pp. 208-213.
+Moscarini, G and Postel-Vinay (2018), ‘The Cyclical Job Ladder’, Annual Review of Economics, Vol. 10, pp. 165-188.
+Patterson, K and Pyle, G (1991), ‘The Geography and Mortality of the 1918 Influenza Pandemic’, Bulletin of the History
+of Medicine, Vol. 65, No. 1, pp. 4-21.
+Samuelson, P (1948), Economics, McGraw-Hill
+Spreeuwenberg, P, Kroneman, M and Paget, J (2018), ‘Reassessing the Global Mortality Burden of the 1918 Influenza
+Pandemic’, American Journal of Epidemiology, Vol. 187. No. 12, pp. 2561-2567.
+
+24
+
+All speeches are available online at www.bankofengland.co.uk/speeches
+
+24
+
+

@@ -1,0 +1,262 @@
+Why we need a leverage ratio, and how bank boards might take
+charge
+Speech given by
+Martin Taylor, External Member of the Financial Policy Committee, Bank of England
+
+At the Oliver Wyman Institute annual conference, London
+20 November 2014
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+It is indeed an honour to be speaking at an Oliver Wyman event. I was lucky enough to work over many
+years with Alex Oliver, who always seemed to me the personification of the inquiring mind, something we
+need more than ever in finance.
+
+For the last 18 months I’ve been privileged to serve as an external member of the Financial Policy
+Committee, the Bank of England’s recently-established macroprudential body. We are charged with
+ensuring financial stability in the United Kingdom; we’re also required to consider the costs and
+consequences for the real economy of actions we may take. The structure of the banking sector and the
+behaviour of bankers are thus extremely important for us.
+
+I want to talk today about aspects of both these subjects – two quite distinct matters, although there is a
+not-so-tenuous connection between them. One is the leverage ratio, about which the FPC published its
+proposals, with the Bank’s usual fine sense of theatre, at sunset on Hallowe’en. The other is the contentious
+question of how the boards of directors of banks might most productively carry out their duties. The views I
+shall express on these topics are entirely personal: on the second in particular I can claim no possible
+authority. I speak for no one but myself.
+
+Let’s start with the leverage ratio. I intend briefly to consider four questions. Why have a leverage ratio at all,
+when we have a risk-weighted capital ratio already? What determines the calibration proposed by the
+Committee? Why are the FPC’s proposals not simpler? And what kinds of capital is it appropriate to allow
+into the numerator of the ratio?
+
+We need a leverage ratio – that is, a capital-to-assets ratio in which the assets are not risk-weighted –
+because the risk-weighted capital ratio, though admirable in theory, is not infallible in practice. It
+incorporates a number of conventional assumptions, some of them contentious – for example, that domestic
+sovereign debt is riskless. It relies on widespread use of models, which are inherently incomplete and
+imperfect in the way they describe the working of the system. (It’s also the case that those who design them
+may have an incentive to understate risk, and if we know one thing for sure, it is that bankers respond to
+incentives).
+
+The models may also be inherently pro-cyclical, as risk weights tend to rise as economic circumstances
+deteriorate. And they may not capture the extent to which very large concentrations of supposedly low-risk
+assets – in a mortgage portfolio, for example – may be highly correlated with each other. This means that
+models can give a rosy view of the world in good times, which can quickly deteriorate as times turn bad.
+
+The denominator of the risk-weighted capital ratio starts from the gross assets of a bank’s balance sheet and
+adjusts them for risk, less by increasing the weight of high-risk items than by reducing the weight of
+supposedly low-risk items. It thus produces a smaller number. Over time, and as firms – assisted no doubt
+by Oliver Wyman – have honed their risk weights, in particular as mortgages have taken a larger share of
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+the banking business for many banks, the denominator has departed very considerably from its unadjusted
+state. When we say, for instance, that total loss-absorbing capital needs to be some 20% of risk-weighted
+assets, we no longer mean anything resembling 20% of the bank’s balance sheet. We mean in many cases
+20% of something like 40% of the bank’s balance sheet.1 As professionals, you all know this, of course, but
+lots of people don’t.
+
+In other words, the denominator of the risk-weighted capital ratio is a conceptual number – a sophisticated
+concept, but a concept all the same. In contrast, the denominator of the gross leverage ratio represents
+something closer (allowing for inevitable defects of valuation) to a reality – a primitive reality, as the
+Building Societies Association authoritatively reminded us, but something nearer reality nonetheless. And if
+a bank’s gross assets, however valued, fall below what is owed to debt-holders and depositors, the bank is
+bust.
+
+By keeping an eye on both ratios at once we can avoid making the kind of mistake made by investment
+analysts who look only at corporate profits but not cash-flow (or vice versa). Of course we now also have
+stress tests to complete the triangulation – a very important subject on which I don’t intend to say more
+today. We’re trying to give ourselves more ways of reading the financial weather. Come to think of it, wasn’t
+it always very strange to believe that all that is known about the risk characteristics of an immensely complex
+bank could be boiled down to a single ratio?
+
+Second question: calibration. A rather arid debate, reminiscent of Swift’s Big-Endians and Little-Endians –
+you will recall the bloody Lilliputian arguments over which end one should break open a boiled egg – has
+been simmering over whether the leverage ratio should be a back-stop or a front-stop; that is to say, whether
+it should provide a remote piece of capital insurance or be a binding constraint on financial firms. The FPC
+has aimed as far as possible for a position of complementary neutrality between the two ratios. Which will
+bind first ought then to depend on the business models individual firms pursue. Thus judgements that the
+committee has been “lenient”, as some have said, are really beside the point.
+
+But if the two ratios are to be genuinely complementary, and if the risk-weighted capital ratio is to vary over
+time as envisaged in the new international regulatory architecture, it is necessary that the leverage ratio
+should vary as well, or the complementarity will be lost. For this reason the FPC has rejected the perfect
+simplicity – glorious but spurious – of an unvarying leverage ratio, and has proposed that it should vary over
+time, with a countercyclical leverage ratio buffer, just as the risk-weighted capital ratio will, thanks to the
+countercyclical capital buffer: indeed, we expect the two ratios as a general rule to move in proportion. In
+addition, systemically important firms should have a higher leverage ratio: here too we are mimicking the
+risk-weighted capital architecture. If we don’t do this, all sorts of perverse incentives will come into play as
+the risk-weighted capital ratio is varied. And I think it’s fair to say that without this principle of time variance
+
+1
+
+Major UK banks’ average risk weight (aggregate peer group risk-weighted assets divided by aggregate peer group assets) was 39.9%
+at H1 2014 (http://www.bankofengland.co.uk/financialstability/Pages/fpc/coreindicators.aspx).
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+the Committee would be looking to set a much higher – less lenient, if you like – base leverage ratio. I hope
+that answers question three.
+
+Finally, what capital should be allowed to count for leverage ratio purposes? Common equity tier one is
+clearly the gold standard. But how about Additional Tier One (AT1), as pretty much all bankers have
+proposed?
+
+AT1 has become more or less a euphemism for CoCos, contingent convertible capital instruments, and
+CoCos are a characteristic product of modern finance – clever, profitable for the issuers, untested in
+adversity, and reliant on a structural asymmetry, in this case a productive disagreement between two
+presumably incorruptible sets of public officials. The tax authorities accept that CoCos are debt, while the
+bank supervisors deem them equity in that state of the world that most concerns bank supervisors. (Note that
+disagreement is a necessary but not sufficient condition for CoCo issuance to flourish – if the taxman called
+them equity and the PRA said they were debt, I don’t suppose we’d be on our way to a trillion dollar global
+market).
+
+We are certainly trusting CoCos will work in the next crisis, because they play a big role in the international
+post-2008 financial architecture. But they carry a real structural disadvantage where the leverage ratio is
+concerned. They only trigger – i.e. turn into equity – as a consequence of declines in the risk-weighted
+capital ratio, not the leverage ratio, and it is possible for these two ratios to diverge, sometimes quite sharply,
+if risk weights change. So we could reach a situation in which the leverage ratio is falling, and the FPC might
+want to take action from a financial stability point of view, but banks are still meeting their risk-weighted
+requirements, and CoCos are not triggered. So I worry that CoCos may not be a suitable instrument to
+accept into the leverage ratio calculations. The point about divergent readings is not a remote theoretical
+possibility: between 2004 and 2008 average risk weights in the major UK banks fell by over 20%, and
+risk-weighted capital ratios as a whole increased slightly. At the same time, though, gross leverage
+increased by more than 60% – that is, the leverage ratio fell by around 40%, much more in some firms.2 No
+one now seriously believes that the system was getting less risky at that time, but that was the signal
+broadcast by risk-weighted asset readings.
+
+The FPC has taken here what seems to me, given that so much AT1 has already been issued, a pragmatic
+view: CoCos will be accepted for up to 25% of the minimum leverage ratio (that is 75 basis points out of the
+3%) provided they have a high conversion trigger – 7% or more on a risk-weighted capital ratio basis. This
+again mirrors the approach taken in the risk-weighted capital framework. But add-ons above the 3% need to
+be proper equity. I am perfectly comfortable with the soundness of the position that we have reached, and
+hope that it may eventually form the basis of an international standard.
+
+2
+
+Calculated using data on the major UK banks from the FPC’s Core Indicators set
+(http://www.bankofengland.co.uk/financialstability/Pages/fpc/coreindicators.aspx).
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+Now to the more serious of my two subjects – how can bank boards be more effective? To hear what
+directors have been saying recently, you’d almost think the exam question was “How can board members
+stay out of jail?” That seems to me too modest an objective for financial titans to set themselves, as well as
+being less novel than people would have you believe. There was plenty of legislation that could theoretically
+catch negligent management in the past; as a bank director in the mid-1990s I certainly worried about the
+potential consequences for me of misdemeanours by unknown colleagues. But let’s start with the idea that a
+board has higher aims than just keeping out of trouble: let’s suppose it wants to do a good job.
+
+There is no doubt that directors of banks, more especially since the crisis, are working enormously hard. If
+any of them has been able to take time off – most unlikely – to visit the wonderful exhibition on the early Ming
+dynasty at the British Museum, she may have smiled wryly at a prominent quotation from the
+Emperor Yong Le, who wrote to his son at the beginning of the 15th century: “Even though the secretaries
+handle the documents, you must read them all yourself. Thus you may know the hardship of the official so
+you may one day be a leader of men.” Directors, like those poor officials in Nanjing, seem to be drowning in
+information. But we can scarcely pretend that confidence abounds in the governance of the financial sector;
+indeed, it’s just been dealt another blow by the ghastly revelations about the rigging of foreign exchange
+markets. The over-confidence that was rife before the crisis has given way to profound institutional unease.
+
+Some difficulties are structural: they do not yield easily to mere diligence. I sense that one of the solutions
+we have developed to address the thorny problems of corporate governance has turned into a large,
+looming, silent problem itself. I refer to the over-development of board committees, and – as a consequence
+– the reduced space for boards as a whole to operate in. (This observation, by the way, goes well beyond
+the banking sector, though the phenomenon may be most acute there).
+
+Now committees are self-evidently a good thing. Not only modern corporate norms approve of them – the
+great Walter Bagehot did too: he argued that a board could not run a bank (I don’t disagree); instead, the
+bank should effectively be governed by a “real working committee”, a group of experienced and more or less
+full-time directors whose job consisted of active supervision of the general manager, what we would now call
+the CEO, lest he “glide into dangerous and insecure transactions”. How eloquent that “glide” is, with its
+prefiguring of the slippery slope.
+
+What Bagehot described was very much the way merchant banks used to be run, or partnerships in London
+and on Wall Street. But our modern committee structures speak to something quite different: the technical
+issues of running very large corporations. It is no exaggeration to say that nearly every accident in corporate
+governance in the last quarter-century in the UK has spawned a new board committee.
+
+I’m ashamed to tell you that I’ve been around for so long that I can remember sitting on the main board of a
+big industrial group before there was an Audit Committee (we didn’t have computers, either, or bonuses,
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+come to that). We may have been less professional than boards are today, but let me tell you: we all paid
+attention when it came to signing off on the accounts.
+
+These days, of course, boards have committees to cover not only audit but also remuneration, risk,
+nominations, social responsibility, and in some cases capital allocation and many other matters. The
+committees are subordinate to the main board – powers are delegated to them. They make the board more
+efficient in the sense that they allow it to take on a greater workload – indeed it’s hard to imagine how a
+board today might function without a slew of committees, never mind what the governance rules require. But
+I believe this efficiency has been bought at a high price in reduced board cohesion. It has got harder –
+perhaps because some organisations are ungovernably large – for boards to see any sort of big picture.
+Unable to encompass the blurred outlines of a sometimes ugly reality, individuals take refuge in trivial detail.
+
+Two powerful effects seem to be in play – entirely understandable, quite subtle, and in the end perverse.
+First, a director who is not on the remuneration committee or the audit committee thanks her lucky stars and
+removes these crucial topics from her personal list of concerns. Second, the committees themselves take on
+a fundamentally technical aspect, where the members, drawing heavily on consulting advice and inter-firm
+comparisons, tend to behave more as experts, and less as broadly responsible directors. In the end the
+committees usurp the power of the board – after all, they perform three quarters of the board’s role – but they
+do not really behave like boards.
+
+TS Eliot famously wrote of the “dissociation of sensibility” that he claimed had infected English poetry in the
+seventeenth century, when intellect became divorced from feeling. Few directors of banks would see
+themselves as the heirs to Milton, but in a strange way they experience the same distancing.
+
+I believe there are some matters that the board of a bank absolutely has to have collective understanding of
+and take collective responsibility for. One is the risk framework. In particular, does the board really
+understand the model that determines how much capital the bank believes it requires? The entire business
+rests on this judgement. It is far too important to be left to the risk committee.
+
+Does the board understand the incentives that underlie the remuneration system? The question here is not –
+or at least not just – how much money individual bankers are paid, but what behaviours are likely to be
+encouraged by the way in which they are paid. This is far too important to be left to the remuneration
+committee, so anxious to achieve the mathematical impossibility of paying top quartile packages to all that it
+ends up institutionalising rapacity.
+
+How is capital allocated in the business? Directors with industrial training often find it difficult to catch the
+numerous mini-cycles in banking markets: it is often not wise to pile more capital into last year’s successful
+area – returns, in a business where capital is so fungible, may be about to plunge there. Equally, too keen
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+an emphasis on micro-segments – a characteristic failing of bankers, not boards – can obscure the larger
+cycles than can prove so devastating.
+
+Is the board capable of understanding all the different activities in which the organisation is engaged? If not,
+it should either acquire this understanding, and quickly, or reduce the breadth of its ambitions.
+
+Every one of these considerations is too big to delegate. They are quintessentially matters for the whole
+board, and a board that applied itself to them all properly would not have to worry about spending its next
+awayday in Pentonville.
+
+Let me sum up. The board committees, in banking and elsewhere, need to be the obedient servants of the
+board, not its masters. And be careful how much CoCo you consume.
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+

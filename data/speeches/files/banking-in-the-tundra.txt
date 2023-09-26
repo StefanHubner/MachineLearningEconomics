@@ -1,0 +1,511 @@
+Banking in the tundra
+Speech given by
+Martin Taylor, External Member of the Financial Policy Committee, Bank of England
+
+Official Monetary and Financial Institutions Forum City Lecture, London
+Wednesday 25 May 2016
+
+For their help in preparing these remarks I am indebted to many colleagues at the Bank of England,
+especially David Aikman, Martin Brooke, Will Dison, Ruth Hendon and Rhys Phillips. Responsibility
+for all errors and misjudgements, however, rests entirely with me.
+
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+It is a great pleasure to speak at an event organised by OMFIF. David Marsh is an old colleague and friend,
+whom I have known and admired for an implausibly long time. And OMFIF itself one hears spoken of with
+awe, especially by people who are not quite sure what it is. I like to think of it as a private-sector rival to the
+IMF, but without the inconvenience of a large balance sheet.
+
+OMFIF takes central banks and their problems very seriously, for which we are grateful. As a member of the
+Bank of England’s Financial Policy Committee, charged primarily with protecting and enhancing financial
+stability, I am required to take commercial banks and their problems equally seriously. Periods of anaemia
+among banks can cause damage to the economy as a whole just as surely, if less dramatically, than periods
+of mania. I want to talk today about two kinds of difficulties facing banks at the moment. One concerns the
+struggle for financial returns, the other – perhaps in the end more chronic – relates to the structural problems
+banks face in rebuilding a relationship of trust with their customers.
+When pressed to find a title for this talk, I came up with ‘Banking in the tundra’: it’s quite cold out there, the
+landscape is very flat, and trees do not even pretend to grow to the sky. Luckily the bankers are wrapped up
+warm, in highly resilient anoraks with contingent-convertible hoods, but the huskies have not been fed for a
+while, and are getting tired and rebellious. We are in Siberia, where many people feel bankers belong, so
+perhaps there is hidden treasure under the permafrost.
+Before coming to my main points I’d like to address in passing a troubling peculiarity of the financial
+policymaking landscape over the last year or so. Many observers somehow formed an impression that the
+authorities, including the FPC, had abandoned a regime of what had been characterised – in my view quite
+wrongly – as stringent, even oppressive policies towards the banking sector and had begun to march off in a
+much more accommodative direction. This has been so widely reported as to be considered pretty much a
+matter of fact. It sometimes feels as though we on the FPC are being door-stepped and challenged: ‘Admit it
+– have you stopped bashing your banks?’
+
+Students of logic and rhetoric will know that there is no good answer to this question. But I want to put on
+record that these atmospherics have not affected the FPC’s discussions or decision-making. In our work on
+bank capital requirements we feel to have been trudging for some years, in a more or less straight line,
+towards the proposals that are now in the public domain. The emerging settlement on bank capital is
+intended to correct the chronic undercapitalisation of the banking sector at the time of the financial crisis and
+achieve resilience without imposing unreasonable transitional costs at a time of weak global growth. In
+forming our views, we made a number of assumptions about risk weights, and about the effectiveness of
+resolution, and we have undertaken to keep these under review.
+
+It has been strange for me as an FPC member to have our work judged according to criteria that I do not
+recognise. And it is uncomfortable to be tempted, viewing decisions in the light of how they may be judged
+under such criteria, to tweak them accordingly. I believe so far we’ve avoided this temptation. It is possible,
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+too, that some of the concerns raised about recent FPC proposals, most prominently by Sir John Vickers,
+with whom I served on the Independent Commission on Banking that he chaired a few years ago, may have
+been influenced by the persistent drip of allegations of institutional wimpishness. For what it’s worth, I
+believe that the difference between Sir John’s ICB version and the FPC on the construction of the capital
+stack is more or less invisible to the naked eye. If these judgements on the capital that banks require turn
+out to be too low, it will not be because they’re a tiny bit too low.
+
+One particularly bizarre instance of what I have called these atmospherics was the breathless proclamation
+some months back in a newspaper story that the Bank of England had caved in to pressure to the extent of
+allowing ring-fenced banks to pay dividends. Now at no time in the previous four years, as far as I am
+aware, had there ever been a suggestion that ring-fenced banks might not be allowed to pay dividends:
+indeed, it’s hard to construct a model in which such a proscription could be made to work. The story was
+complete tripe, but like many other such stories, it has been re-tweeted and reheated until anyone
+consuming it risks poisoning by internet salmonella.
+
+I said a moment ago that the banking landscape was flat, and it was of course of the yield curve that I was
+thinking. To mix metaphors, it looks like the heartbeat of a deep-frozen mammoth. That crucial banking
+standby, maturity transformation, doesn’t work well under these circumstances; if they persist, the banks will
+be obliged to widen spreads in order to get some oxygen back into their business (there are tentative signs
+that this is happening). But this isn’t the element that worries me the most.
+
+When our colleagues on the Monetary Policy Committee, rather over seven years ago, reduced official
+interest rates to their present stunted level, and when their counterparts in other jurisdictions did the same,
+one may suppose they were not only out to influence the cost of debt. They must surely have hoped and
+expected that as the risk-free interest rate came down, the cost of equity would follow in step.
+
+Those of us who remember the great inflationary wars of the 1970s and 1980s may recall the British
+conviction that the big problem ailing our economy was a combination of high and volatile inflation and high
+interest rates, which led to very high discount rates for investment proposals. Payback periods were
+necessarily short, and business people looked with envy at companies in Germany or Japan with low
+inflation, low interest rates and a low cost of capital. In Switzerland, an all-in cost of capital around 6% was
+even before the crisis a standard objective for corporations. Get UK inflation and interest rates down, we
+thought, and an investment bonanza in Britain was sure to follow.
+
+Well, the first bit has happened. Yet the post-crisis fall in interest rates has not been accompanied by
+anything like the same reduction, it appears, in the cost of equity. The Bank’s calculations show that the
+equity risk premium (ERP) may have roughly doubled from its perhaps unsustainably low level at the turn of
+the century during the dot-com boom. This rise in the ERP has been working vigorously against the fall in
+the risk-free rate.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+Measuring equity risk premia and thus the cost of equity capital is a slippery business. But here are four
+ways you might think of coming at it.
+
+First, you could measure the average return above the risk-free rate that equity-holders have actually
+received in the past. They may not always have got what they hoped for, but there are real numbers here,
+even if they are hugely sensitive to the investment time periods selected.
+Second, you could generate instant readings by taking current share prices and current analysts’ forecasts of
+future dividends, and solving – using the dividend discount model – for the implied discount rate and thus,
+because the risk-free rate is known, the equity risk premium. Since published dividend forecasts are much
+less volatile than share prices, you get a very jumpy series for the residual ERP (which precisely because it
+is the residual picks up all the ‘noise’), suggesting that short-run changes in the level of equity prices reflect
+changes in the ERP rather than changes in expected cash flows. Further evidence that the cost of equity
+has not fallen alongside interest rates is given by the widening gap between government bond yields and the
+earnings yield on equities (the reciprocal of the price/earnings ratio) [see Chart 1]. The results derived from
+these methods correspond rather well with the twitchy risk-on/risk-off markets we have seen in recent years;
+not so well, perhaps, with earlier equity markets dominated by long-only investors who prided themselves on
+taking a steadier view of the world.
+
+Chart 1: Gap between earnings yield on UK equities and 10-year government bond yield
+
+(a)
+
+Per cent
+16
+
+UK earnings yield
+UK 10-year government bond yield
+
+14
+12
+10
+8
+6
+4
+2
+0
+93
+
+96
+
+99
+
+02
+
+05
+
+08
+
+11
+
+14
+
+(a) Earnings yield is the reciprocal of the price-earnings ratio.
+Source: Datastream, Bloomberg and Bank calculations
+
+Third, you could ask those long-only investors, if you can still find any, what returns they demand.
+
+And fourth, you could ask companies what returns they feel they need to generate, and thus feed into their
+budgeting and their investment proposals.
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+Taking these together by means of heroic anecdotal sampling gives answers that are consistently higher
+than one might expect, and this gives rise to much difficulty.
+
+The ERP and the cost of equity are slippery because they appear to occupy a space that is part-objective,
+part-emotional. (The financial markets are on one level a place where emotion is objectified). A number of
+observations may be made about the recent rise in the ERP, and thus the failure of the cost of equity to
+come down by anything like the same extent as interest rates have fallen (these observations are by no
+means confined to the UK):
+
+1. Although it is commonplace to say that quantitative easing and loose monetary policy in general
+have supercharged the prices of financial assets, it may not be entirely true. Equity markets would
+be very much higher if the ERP had fallen back to previous average levels.
+
+2. It is curious, to put it no more strongly, that investors should be content to hold sovereign bonds on
+near-zero or indeed negative yields while demanding in some cases double-figure percentage
+returns on equities.
+
+3. It is not surprising that corporate investment intentions lack vitality when so much pressure is on to
+sustain very high returns. Marginal investments in a successful company characteristically earn
+more than the cost of capital but less than the core business is earning. If the cost of capital is too
+high, they will not be undertaken and long-term growth will suffer. Andrew Smithers has written
+powerfully about the perverse role played by management incentives in reinforcing reluctance to
+invest.
+
+1
+
+4. If this situation is difficult for companies, it is deadly for banks. If banks seek unsustainably high
+returns, whether as a result of a genuine market constraint or an imagined hurdle, they can do a lot
+of damage to the rest of us. And late last year the major UK banks were mostly publishing
+medium-term targets for return on equity of between 10 and 13 per cent, with some target ranges
+stretching as high as 15 per cent.
+Banks do generally have a higher cost of equity than the market as a whole, because their beta is higher –
+they are, that is to say, because of their leverage and lack of transparency, more volatile than the market
+average. That leverage, though still elevated, has come down a lot since the crisis, and bank betas have
+come down a fair bit too [see Chart 2].
+
+1
+
+See for example Smithers (2016).
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+Chart 2: Historical bank betas from 1989 to 2016
+HSBC
+Barclays
+RBS
+
+(a)
+
+Beta
+3
+
+Lloyds
+Standard Chartered
+
+2.5
+2
+1.5
+1
+0.5
+0
+89
+
+91
+
+93
+
+95
+
+97
+
+99
+
+01
+
+03
+
+05
+
+07
+
+09
+
+11
+
+13
+
+15
+
+Source: Datastream and Bank calculations
+(a)
+
+Betas are estimated from a rolling least-squares regression of daily returns of each bank’s equity price against daily returns of the
+FTSE All-Share index, using the prior 2 years of data.
+
+Within a bank, different activities have different levels of risk and volatility and it is reasonable to suppose
+that the cost of equity varies by activity. This can directly affect the cost of capital: one would expect a
+diversified bank to have a lower cost of equity overall than the arithmetic mean of its constituents. Against
+this, I can tell you from personal experience that there are diseconomies of scale involved in running a large
+diverse group, and at some stage the financial markets might conclude that management was unable to
+handle the complexity inherent in diversification: that would push the cost of equity back up again. And
+banks have a lot more equity to service than they had before the crisis; each unit of equity is cheaper than it
+was, but dearer than it might be.
+
+All that said, if the banking system has a very high real cost of capital, a number of dire consequences are
+likely to follow:
+
+1. The banks will tend to under-invest in infrastructure and development, like the non-bank corporates
+discussed above.
+
+2. They will look to increase the risk at the margin of their book, like the investors discussed above.
+
+3. They will fail to provide credit to the economy on terms that would make perfect sense if the cost of
+equity were a little lower.
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+4. They will be unable to perform intermediation services profitably with the increasing number of
+clients who enjoy a lower cost of capital than they do.
+
+5. Since as a result of all this they are unlikely to exceed the high hurdles they have set themselves,
+they will come under pressure to shrink. Insofar as this reflects a reduction in low margin business
+which has little to do with real economy lending, this may not do much harm, but shrinkage often
+turns out to be merely a short-term palliative. At a time when everyone wants to see the banking
+system supporting economic recovery, this is quite unhelpful. By demanding too much, we risk
+ending up with too little.
+
+The brief panic in bank share prices earlier this year, when many institutions found their stock trading at half
+book value or even less, displayed the problem nakedly. At half book, investors are positively instructing
+management to withdraw capital from a business. And capital ratios do not look healthy if you recalculate
+them with numerators at market value.
+
+What is behind the strange rise in the ERP? Does it result from investor pessimism about productivity
+trends? Is it a symptom of investor exasperation, a belated recognition, in the case of the banks at least, that
+these institutions are riskier than was previously understood – perversely, perhaps, given all the work that is
+going on to stabilise them and reduce their chance of failure? Is it a tendency to look through the present
+monetary policy stance as something artificial, and to demand compensation elsewhere? Is the attrition
+among long-only money managers, as defined benefit pension schemes shrink and insurance companies
+bow the knee to Solvency 2, part of the problem? Or have we misdiagnosed as a rise in the ERP an
+expectation, perhaps not yet fully captured in forecasts, of much lower future profitability in the trek across
+the tundra? Members of the Bank’s Monetary Policy Committee have argued that interest rates are as low
+as they are not because of coordinated central bank whim but because there is so much caution in the
+2
+
+system. People seem to think some catastrophic outcome is possible, and this in turn pushes up the ERP.
+Whatever is going on, it hangs over the economy as well as the banks, and it should not be underestimated.
+The banks are at last – nearly nine years since the financial crisis began in the summer of 2007 – showing
+signs of recognising that their business models need fundamental redesign. The length of time it has taken
+for this penny to drop has proved very costly.
+
+Cultural questions are now coming vividly into play too, questions of concern both to supervisors and to
+macroprudential policy makers. I am not just considering how to stamp out evidently unacceptable
+behaviour (for which ‘culture’ has become a curious euphemism) but of the broader issue which the industry
+
+2
+
+See for example Broadbent (2014) or Vlieghe (2016).
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+is now beginning to address of rebuilding customer trust – indeed, trust across society as a whole. Recent
+initiatives such as the BankingFutures report suggest a promising desire to get to grips with all this.
+
+3
+
+These efforts are more likely to be successful if the industry confronts some of the structural questions which
+make trust so elusive now, and did so even before the horrors of the financial crisis and its aftermath. Banks
+th
+
+were never supposed to be popular; we know from reading Theodore Zeldin that in 19 century France the
+financial institutions founded after a particularly bloody slump avoided using the word ‘Banque’ in their title,
+preferring Crédit or Caisse. Some of the new challengers in Britain today show a similar aversion to the
+B-word.
+Yet bankers are human – I know, I used to be one – and generally do not relish being detested. Advertising
+campaigns going back to the Midland’s ‘listening bank’ slogan provide eloquent evidence of a profound
+desire among banks and their retail customers for a different kind of relationship.
+
+That this has proved so difficult to achieve, however, is neither accidental nor mysterious. The customers of
+a bank do not stand in quite the same relation to it as the customers of a retailer or a car manufacturer do to
+th
+
+those firms. For a start, in the credit business, the golden rule of 20 century capitalism, ‘the customer is
+always right’, just does not apply. A customer nearing or in default cannot be said to be right in any sense.
+More generally, borrowers and depositors are more like counterparties of the bank than clients in the true
+sense.
+
+In the corporate world this is perhaps more easily understood. The CEO of Amalgamated Assets may
+genuinely be a client of the Gigabank mergers and acquisitions team, who will do everything for him
+devotedly. But that same CEO’s treasurer deals with Gigabank as a pure counterparty. The bank does not
+owe the treasurer a duty of care. He and they are fellow professionals facing off, and ten basis points more
+to one is ten basis points less to the other. No doubt the proprieties and courtesies will be observed, as
+among the Aleppo merchants described by the historian Philip Mansel, who followed the rule: ‘If you do
+business with a dog, call him “Sir”.’
+
+Slowly and silently retail banking has gone the same way. The relationship with the customer is highly
+instrumental, behind that improbably glossy surface. Buyer beware, backed up with 200 pages of small print,
+makes an unlikely foundation for trust. (In saying this I do not in the least mean to criticise the conduct
+regulator, which has worked hard and thanklessly to order and codify the thorny underbrush of the financial
+jungle).
+
+Things used to be different, perhaps, in mutual organisations such as building societies where the
+intermediation margin never changed and the same customer went from being depositor to borrower to
+3
+
+See BankingFutures Working Group (2016).
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+depositor again over the course of a lifetime. They were certainly different in the pre-Big Bang Stock
+Exchange, for which it is unfashionable to feel nostalgia, where the broker had a duty of care to the customer
+and the jobber (or market-maker) traded on a counterparty basis. You knew who was on your side, and you
+knew who never pretended to be on your side. Now we have grown lazy about this distinction, and we
+probably get the results we deserve. Sermons won’t fix it, and nor will advertising.
+At the BankingFutures launch, the chairman of one major firm talked of his bank’s desire to offer customers
+‘a fair proposition’. That may not be a slogan to have people dancing in the streets, but it is perhaps the best
+we can hope for at present. For many, it would be a big improvement.
+
+The banking industry has a tendency, driven perhaps by its combination of oligopoly, leverage and
+cyclicality, to get itself into ghastly collective jams from which extrication is very difficult. Four examples –
+none of them original – come to mind at once:
+
+1. The free-in-credit current account. In the 1970s, bank customers (much fewer in number than
+today) paid for transactions unless they kept a minimum of £100 on average in their account – say
+£1,000 in today’s money. As interest rates rose, and unremunerated liabilities became very valuable
+to the banks, this fell to £50, and then the Midland (even before it had started listening) dropped the
+requirement altogether. The whole industry followed suit. Bank rate was 17% at the time; had you
+suggested then that three and a half decades later bank rate would be 0.5% – would have stood at
+0.5% for seven years, indeed – and current accounts would still be free, you would have been
+catapulted into early retirement. The contortions the industry has put itself through to maintain this
+over-riding of the price mechanism have been very damaging, not only to the most vulnerable
+consumers who through penalty charges subsidise the better-off (they used to be known,
+revealingly, as ‘delinquents’), but also, I believe, to banking in general. Perceived necessity has
+been the mother of mis-selling.
+2. Teaser rates. In the mid-1990s the idea emerged – a novel idea to those of us raised in more
+conventional industries – that you should treat people who were not your customers better than
+those who were. These were not the familiar special offers used in consumer goods industries to
+persuade someone to try a new kind of shampoo, since the product in question was not a new kind
+of anything – it was usually an old kind of mortgage. The habit of giving what are effectively
+disloyalty discounts has turned into a cynical and corrosive negative-sum game. Many recipients of
+pre-crisis teaser mortgage rates are now marooned on the standard variable rate and unable to
+refinance.
+
+4
+
+4
+
+See Bank of England (2014) for the analysis that supported the FPC’s June 2014 Recommendation on mortgage affordability tests.
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+3. Over-paying investment bankers. City pay was always high relative to professional pay in general,
+but it really took off in the late 1990s, accompanied and facilitated by sharply increasing leverage in
+the industry. Numbers are hard to get hold of, but I suspect pay rose even faster than leverage and
+has come down a good deal more slowly. Keynes’ dictum that wages are ‘sticky downwards’ seems
+to apply to salary-plus-bonus too. It appears to be easier to fire people than to pay them less; it may
+even be easier to go out of business altogether.
+4. Regulatory arbitrage. The practice of ‘optimising’ returns on risk-weighted capital by exploiting the
+gap between regulatory risk weights and underlying risk has become more difficult now that banks
+have rules for both risk weighted capital and gross leverage to contend with: the noughts-andcrosses game has become three-dimensional. (The banks’ first impulse seems to be to combine
+very low risk-weighted assets on the one hand with very much riskier ones on the other – the kind of
+barbell portfolio construction eerily reminiscent of investors’ response to the higher ERP. Barbell
+portfolios do not have a glorious history). The habit of arbitrage has encouraged forms of balance
+sheet construction that overlay financial engineering on whatever mix of assets and liabilities
+naturally arises – and the word ‘naturally’ feels almost unnatural in this context – from the banks’
+day-to-day business operations. The firm might almost as well be run by an algorithm.
+
+All four practices have two things in common. First, however uncomfortable the distortions they produce,
+bankers fear to abandon them, since first-mover disadvantage can be severe; collusion, meanwhile, is
+forbidden. Secondly, in different and sometimes subtle ways, they are all mechanisms that promote
+customer alienation. I have no easy solutions to offer, but feel that until issues like these are confronted,
+customer trust will continue to elude the industry.
+
+I referred earlier to the improbably glossy façade that retail banks present to the public. FinTech solutions
+increasingly permit the illusion of real customer intimacy, in stark contrast with the early use of computing in
+mass market banking, which permitted a step-change in operating scale but was widely felt to be
+de-humanising. Some applications of FinTech will threaten the big banks; others may enable them to
+entrench their positions. Much may turn on whether the intimacy produced is genuine or specious; whether it
+serves a collaborative or exploitative relationship with customers.
+
+Bob Jenkins, an engaged and trenchant member of our predecessor committee, the Interim FPC, called in a
+Financial Times article earlier this year for what he referred to as ‘statesmanlike’ bankers. He then had fun
+measuring some of the industry’s more prominent individuals against the yardstick he had designed (they
+didn’t, as it happened, come off all that badly).
+‘Statesmanlike’ is a high bar, and one that even statesmen have been known to undershoot. I’d settle for
+having public-spirited bankers. They used to exist: think of Jeremy Morse and Tim Bevan, both sadly lost to
+us recently. Or David Rockefeller, who used to tell every recruit at Chase Manhattan that banking was all
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+about character. And it is. The rot set in, I suppose, when people decided it was about what they curiously
+called talent. A banker with character but moderate talent can go a long way; a talented banker without
+character is a public menace.
+There are encouraging signs here and there that the good guys are getting back in charge. But it’s cold out
+there on the tundra.
+
+Thank you for your kind attention.
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+References
+Bank of England (2014), ‘Financial Stability Report, June 2014’, available at
+http://www.bankofengland.co.uk/publications/Documents/fsr/2014/fsrfull1406.pdf
+BankingFutures Working Group (2016), ‘Banking on Trust: Engaging to Rebuild a Healthy Banking Sector’,
+available at: http://www.meteos.co.uk/resources/banking-on-trust-engaging-to-rebuild-a-healthy-bankingsector/
+Broadbent, B (2014), ‘Monetary policy, asset prices and distribution’, speech given at the Society of Business
+Economists Annual Conference, available at:
+http://www.bankofengland.co.uk/publications/Documents/speeches/2014/speech770.pdf
+Smithers, A (2016), ‘How Managerial Incentives Affect Economic Performance’, World Economics, available
+at: http://www.world-economicsjournal.com/How%20Managerial%20Incentives%20Affect%20Economic%20Performance.details?AID=636
+Vlieghe, G (2016), ‘Monetary policy expectations and long term interest rates’, speech given at the London
+Business School, available at: http://www.bankofengland.co.uk/publications/Pages/speeches/2016/909.aspx
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+

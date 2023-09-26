@@ -1,0 +1,847 @@
+Monetary policy in the intangible economy
+Speech given by Professor Jonathan Haskel, External Member of the Monetary Policy
+Committee
+University of Nottingham
+11 February 2020
+
+I am grateful to Marco Garofalo and Jamie Lenney for their invaluable comments and assistance with the
+speech. My thanks also go to Saleem Bahaj, Ben Broadbent, Alan Castle, Ambrogio Cesa-Bianchi, Angus
+Foulis, Maren Froemel, Clare Macallan, Marko Melolinna, Jitendra Patil, Gabor Pinter, Sophie Piton, Lukasz
+Rachel, Marek Rojicek, Michael Saunders, Michal Stelmach and Silvana Tenreyro, for their work and helpful
+suggestions. Much of the thinking in this speech was developed with Stian Westlake and the macro intangibles
+data draws on my work with Carol Corrado and Cecilia Jona-Lasinio. Errors and opinions are my own.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+Introduction
+It is an honour to give this lecture at the University of Nottingham. I am an intensive user of the excellent
+research from the Economics department. In my time as a member of the Monetary Policy Committee (MPC) I
+have greatly benefited from the insights of the Decision Maker Panel 1 Survey (DMP), an ongoing joint initiative
+by the University of Nottingham, together with Stanford University and the Bank of England set up in 2016. This
+innovative survey monitors developments in the UK economy, businesses’ expectations and the uncertainties
+surrounding them. In particular, the DMP has been invaluable to policymakers analysing the effect of uncertainty
+created by the Brexit process on the everyday decisions businesses face.
+As you may know, my research has focused on intangible capital and investment. This is a type of capital that
+one cannot easily touch or measure, for example investments in software, databases, research and
+organisational processes, as opposed to tangible investment in things like machines and equipment2. The
+economies of Europe and US have shifted significantly towards these type of investments over the last
+decades3 (chart 1).
+Chart 1: Intangible and tangible investment shares of adjusted market sector
+gross value added for advanced economies
+
+Source: www.INTANinvest.net
+Note: Shares are of nominal market sector GVA adjusted for intangibles, PPP weighted across countries.
+For more information on the data source, see Corrado et al (2017).
+
+Since September 2018, I have the privilege to serve as one of the external members of the MPC of the Bank of
+England, the committee that sets, among other things, short-term UK interest rates to deliver price stability.
+The DMP is a large online representative survey of the UK business population, covering large, medium and small firms from across the
+economy. The size of the panel has grown rapidly since its inception, reaching 8,000 firms that employ 26% of the labour force.
+2
+For non-economists an example might help. When you fly somewhere, you (1) book on the airline’s website, (2) go to the airport terminal,
+(3) pass through a security scan and (4) fly on the plane. So you are being provided a service from a sequence of business capital assets:
+(1) software and databases (intangible) (2) building (tangible) (3) machines (tangible) and (4) vehicle (tangible). Additional intangible assets
+that the airline has likely invested in would be: market research/branding, organisational efficiency and design. Additional inputs to that
+service might be labour (e.g. cabin crew, security guards) and raw materials (electricity, jet fuel). “Working capital” refers, confusingly, not to
+an asset but the company’s cash used during the process. A non-business capital asset would be your home (i.e. a non-business building).
+Your savings are financial assets, not capital assets.
+3
+The original macro work on the knowledge economy was due to Machlup (1962) and Lev (2001) from a micro/accounting standpoint.
+Nakamura (2001) produced some partial estimates for the US and Corrado, Hulten and Sichel (2005) provided a comprehensive data and
+analytical treatment. See Corrado et al (2013) for a multi-country study, and Haskel and Westlake (2017) for a broad summary.
+1
+
+2
+
+Therefore, what I would like to do today is to discuss some ideas around how this trend may affect central banks
+and their monetary policy. I feel we are still a long way from having a clear picture about this, so I hope with this
+lecture to foster further thought and research on the topic.
+Let me try to summarise my views.
+Monetary policy, that is, setting of interest rates and asset purchases by an independent Central Bank to
+stabilise prices and output, takes place against the background of (a) changing transmission mechanisms by
+which short-term policy influences the economy and (b) a trending long run “natural” real interest rate (called R*
+for short). Today I would like to think about the implications of the movement to an economy with more
+intangible investment, for both the short-run transmission mechanisms and the long-run natural rate.
+The main mechanism is through what Cecchetti and Schoenholtz (2018) call the “tyranny of collateral”:
+intangibles are much harder to value and secure loans against. Contrast a firm borrowing to develop a building
+versus one borrowing to develop software: buildings are readily traded and can be sold on, software
+development is a sunk cost with little or no independent market. The difficulty of posting collateral could make
+borrowing constraints more likely to bind for intangible-intensive firms and thus increase the sensitivity of their
+investment and employment decisions to the tightening or loosening of financial conditions. Pushing against this
+effect would be the expectation that more established firms will look to insure themselves against more costly
+and possibly less reliable external finance through increased saving.
+In the longer-run these collateral difficulties that arise from sunken intangible investment alongside other factors
+that make intangibles riskier4 to invest in, may have made borrowing more difficult and costly on average. If so,
+this will have reduced the demand for investment at a given safe interest rate and ultimately pushed down on
+the equilibrium interest rate, with all the resulting implications for monetary policy.
+I shall now consider the above in more detail.
+How intangibles may affect monetary policy: the short-run
+Firm financing and monetary transmission
+Let us now focus on firm financing and monetary transmission. 5
+Monetary transmission
+Amongst other channels6, monetary policy affects the “real” economy through business investment. Consider a
+firm who has a number of projects. Define the marginal project as that project which is just profitable at the
+prevailing real interest rate. In order to invest in marginal and other profitable projects firms need to raise funds
+Intangible investments have unusually high spillovers, that is to say, it is relatively easy for other businesses to take advantage of
+intangible investments they do not themselves make, e.g. R&D. Copying other people’s ideas is relatively easy, unless the law prevents it by
+means of patents or copyrights.
+5
+See Bean et al (2002) for an excellent review of the transmission mechanism. For a more recent survey addressing their evolution over
+time, see Boivin et al (2010).
+6
+For example household saving and borrowing, and adjustments in the exchange rate and asset prices.
+3
+4
+
+in advance. They might do so via access to their own internal sources of finance, such as cash saved from
+retained earnings, or funds provided by the owners of the firms (equity holders). The real interest rate is the
+appropriate price at which to discount the series of future cash flows from such projects. If the firm does not
+have access to enough or any internal funds, they need to raise them externally through a loan from a bank or
+other outside provider of capital. And if such providers supply such loans with no extra conditions (I explain this
+below), then the real interest rate is also the appropriate price.
+In this set up, if the central bank raises its interest rate, and if that increase raises the real interest rate faced by
+firms, the marginal project becomes unprofitable. So monetary policy affects the real economy by making the
+implicit or explicit cost of financing projects higher and in so doing reduces investment.
+If this were the whole transmission mechanism, the presence of intangibles makes no difference: firms should
+just line up their projects and identify the marginal one. However, there is more to it than that.
+Bean et al (2002) describe at least two additional channels arising from frictions in the lending process, the
+“bank lending” channel and the “broad credit” channel. The essential feature of the bank lending channel is that
+monetary policy affects bank balance sheets which in turn affects their appetite for lending. For example, a rise
+in interest rates may reduce the value of a bank’s assets which in turn may bring them closer to regulatory
+capital adequacy ratios and in so doing restrict their ability to engage in further lending without first raising new
+capital. Monetary policy can also influence banks’ funding channels. For example a monetary expansion, such
+as a cut to interest rates or asset purchases through QE, should expand the total volume of reserves and
+deposits. If deposits are a cheaper source of finance for banks than external wholesale funding, then more
+reserves and deposits should make banks more willing to lend at a given interest rate. The larger the pool of
+bank dependent borrowers the greater the effect of the bank lending channel.
+The broad credit channel focuses on information frictions between borrowers and lenders, and how the
+mechanisms created to overcome these frictions can lead to amplification of financial shocks. Suppose lenders
+in general face problems getting information from borrowers, in particular the likelihood of success of the project
+or default on the loan. Because of this, they demand a premium for lending and impose conditions on their
+loans. The oldest and most well-known condition is a collateral requirement, whereby the lender has a right to
+liquidate a specified asset of the borrower in order to recoup any losses. The total amount of debt in these
+instances is a function of the amount of collateralisable capital a firm has to offer. This is usually a tangible asset
+such as a building (real estate) or a safe liquid financial asset like a government bond. Lenders will also lend on
+the basis of a firms’ earnings (revenues minus costs). The two most popular of these loan covenants are to cap
+lending at a maximum of a firm’s earnings or to cap interest payments at a certain percent of a firm’s earnings
+(interest coverage ratio); usually both are applied simultaneously to the same loan. For example, suppose a firm
+with no debt is projected to earn £100 profit in a year. Suppose further it wants to take out a loan, and say the
+loan is capped at 4 times that profit with an interest coverage ratio of 2.5, and the lender charges an interest
+rate of 3 percent. Under these conditions, the firm can borrow up to the cap of (£400 = 4 × £100,£1333 =
+£100
+
+). The idea behind these covenants is that in the event of firm bankruptcy the lender has some stronger
+
+0.03(2.5)
+
+4
+
+legal claim on the value of the restructured firm that emerges from the bankruptcy proceedings (Gilson, 2010),
+and to help prevent bankruptcy in the first place.
+A monetary contraction tends to reduce asset prices and firm cash flows, and raise interest payments. In this
+scenario we see how the mechanisms detailed above could result in borrowing becoming constrained, above
+and beyond the effect of the initial change in monetary conditions i.e. it has been amplified7. More generally, the
+“broad credit channel” is a source of amplification because in downturns, just when firms need to borrow, their
+collateral and prospects have declined, making it harder to borrow.
+How do these additional channels then affect a more intangible-based economy? Intangible capital is less easy
+to pledge as collateral with creditors and young intangible firms may be more likely to have little or no earnings.
+This may result in an intangible economy that becomes disconnected from debt markets and (traditional)
+banks8. Instead, investments could be funded more through retained earnings and equity. All else being equal,
+this suggests reduced potency of monetary policy via the broad credit channel in an intangible economy.
+Against this, it might be that the “broad credit” channel might be stronger. If screening is harder for intangible
+firms, those that do try to borrow to make intangible investments may face more stringent conditions on their
+borrowing and hence might be more sensitive to changes in borrowing costs. Furthermore, through their very
+intangible nature they may find it more difficult to meet the terms placed on their debt, e.g. through lack of
+collateral, and so be more likely to be close to and constrained by the limits on those terms.
+Thus, the overall impact of monetary policy in an intangible economy is a matter of empirical investigation. What
+is the evidence regarding borrowing conditions and intangibles?
+Some evidence
+Lending and features of debt contracts
+Recent studies e.g. Lian & Ma (2019), Greenwald (2019) and Drechsel (2019) have highlighted the pervasive
+use of loan covenants related to earnings. Lian and Ma (2019) document that amongst US non-financial listed
+firms, 80 percent of the volume of debt is based predominantly on cash flows. Of these covenants, the most
+commonly in place was a cap on the level of debt to earnings and a cap on interest payments to earnings
+(interest coverage). This is, however, a result for the US and driven by the largest of these firms; the smaller
+firms in their sample still borrow predominantly on a collateral basis (61% of lending was asset based).
+Furthermore, these studies investigated listed firms, which are typically larger firms to begin with. It is also worth
+noting a finding from Greenwald (2019) that most earnings-based loans use both interest and debt coverage
+covenants simultaneously.
+
+In Kyotaki and Moore (1997) for example, farmers borrow and have to pledge land as collateral. If real estate values decline, then farmers
+can raise less debt. This further damages the real estate market, meaning less debt, i.e. an amplifying mechanism.
+8
+The growth of venture capital and crowd funding is a source of funding for intangible-intensive firms outside what we may think of as the
+“traditional” banking sector. For more information, see a report from the Intellectual Property Office (IPO, 2013) for a series of case studies
+setting out how UK companies have difficulty raising loans against their IP.
+5
+7
+
+What about smaller and medium firms? In 2015, the Bank conducted a survey of major UK banks’ (MUKB)
+lending to UK SMEs and mid corporates with revenues less than £500mn excluding CRE. This survey found
+that over 90% of lending was secured against some sort of collateral. Over 60% of exposures were
+collateralised by property and/or debentures including charges over plant, equipment and vehicles (Chart 2).
+While the survey did not explicitly interrogate respondents about intangibles, to the extent that these are difficult
+to use as collateral for the reasons described above, it is reasonable to think that this large reliance of banks on
+collateralised lending may make access to credit more difficult for intangible-intensive firms.9
+Chart 2: Proportion of major UK banks’ exposures to SMEs and mid corporates secured
+by collateral
+
+Source: 2015 Survey of the MUKB on their SME and mid corporate lending.
+Note: SMEs and mid corporates are defined as businesses with turnover less than £500mn.
+
+Dell'Ariccia et al. (2018) examine the composition of commercial Bank lending in the US using comprehensive
+data from 1977 to 2010, a period over which the ratio of intangible to tangible capital in their sample of US firms
+has risen from below 40% to just over 100%. They document that the fraction of total bank loans going to
+commercial and industrial lending (C&I) has fallen: in 1977 C&I loans were 22% of US commercial bank balance
+sheets, falling to 15% in 2010, whereas real estate loans went from around 35% to 75%. Further, they show that
+it has fallen more in areas where intangible assets have grown. 10 Thus, they argue that the move to the
+intangible economy has contributed to the (substantial) change in commercial bank balance sheets towards real
+estate loans.11
+
+As already pointed out by Carney (2019), growth in bank lending to SMEs did not recover as strongly following the crisis and recently has
+flattened. One possible reason for this is that they are increasingly intangible intensive and thus may lack tangible capital to use as
+collateral.
+10
+Using loan-firm-level data and controlling for a range of other factors, they find that a one standard deviation increase in intangible capital
+for a firm is associated with close to 10% lower loan volumes and 5 basis points higher loan spreads (their sample mean of loan spreads is
+about 100bps).
+11
+These are data for the fraction of bank balance sheets, raising the question of whether the overall amount of lending has gone up or
+down: in fact they find that banks exposed to a higher growth rate of corporate intangible capital “…respond with a higher growth rate of
+non-C&I assets, especially residential real estate loans and liquid assets. This result suggests that banks respond to fewer opportunities in
+corporate lending by reallocating their lending capacity to different types of assets rather than by contracting their balance sheets.”
+6
+9
+
+All this then suggests the shift towards intangibles may have indeed made borrowing more difficult and/or costly,
+particularly for small firms.
+Firm financing
+To gather some additional evidence, we look at some UK firm-level data. Whilst company accounts are
+informative regarding debt, earnings and the like, they have very little information on intangibles since
+accounting conventions list only a partial measure of intangibles on firm-balance sheets, namely goodwill12. To
+gain some further insights, we use UK data on listed non-financial firms from the Worldscope financial accounts.
+For each of these firms we construct an (admittedly imperfect) measure of intangible capital that follows
+approaches by other economists e.g. Peters and Taylor (2017) or Falato et al (2013). This adds reported
+intangible capital to the capitalisation of R&D spending and a share of general and administrative expense (see
+the appendix). Table 1 sets out our results.
+Table 1: UK firm characteristics by intangible intensity in 2017
+Within quintile medians
+Quintile
+
+Intangible
+intensity
+
+Age Employees
+
+Revenue
+(m)
+
+Assets
+(m)
+
+Debt
+ratio
+
+Cash
+ratio
+
+Earnings
+ratio
+
+Pays
+dividend
+
+Q1
+
+0.21
+
+33
+
+2,432
+
+438
+
+952
+
+0.22
+
+0.06
+
+0.18
+
+90%
+
+Q2
+
+0.66
+
+31
+
+2,522
+
+457
+
+430
+
+0.17
+
+0.08
+
+0.11
+
+71%
+
+Q3
+
+0.83
+
+30
+
+2,121
+
+342
+
+278
+
+0.15
+
+0.11
+
+0.13
+
+81%
+
+Q4
+
+0.92
+
+23
+
+1,238
+
+225
+
+211
+
+0.12
+
+0.10
+
+0.09
+
+68%
+
+Q5
+
+0.98
+
+19
+
+481
+
+81
+
+73
+
+0.06
+
+0.10
+
+0.10
+
+62%
+
+Source: Eikon from Refinitiv and author calculations.
+Note: Intangible intensity defined as capitalised intangible assets divided by capitalised intangible assets plus property, plant
+and machinery. Debt ratio is the ratio of total debt to total booked assets. Cash ratio is the ratio of cash and short term liquid
+assets to total booked assets. Earnings ratio is EBITDA to revenue. Pays dividend is the share of firms within each quintile that
+paid a dividend in 2017. Sample contains 470 UK listed firms in 2017.
+
+Table 1 organises these firms by ascending quintiles of intangible intensity and illustrates how some selected
+firm characteristics co-vary. Firstly, column 2, shows most of these UK listed firms in 2017 appear to have
+significant intangible assets relative to their fixed tangible assets. Table 1 also indicates that the most
+intangible-intensive firms tend to be younger and smaller. Finally, we see some evidence that intangible firms, at
+least listed ones, may finance themselves differently. Intangibly intense firms seem to hold less debt and more
+cash, and are less likely to pay dividends. Therefore, as hypothesized, we see some suggestive evidence of
+firms (at least for listed firms) pivoting their financing channels towards internal funds. This has been more
+rigorously explored on US data by others such as Falato et al (2013), who have linked rising levels of US
+corporate cash holding to intangible capital. In their study, they show that intangible capital is the most important
+
+Goodwill in accounting is an intangible asset that arises when a buyer acquires an existing business. This is the difference between the
+price paid to purchase that business and the price value as represented by the sum of its net assets. It would include, for example, the value
+of the brand of that company.
+7
+12
+
+firm-level determinant for corporate cash holdings and explain this through firms’ desire to save cash to avoid
+costly external finance.
+Sensitivity to financial conditions
+We turn now to whether intangible-intensive firms are more or less sensitive to changes in monetary policy. As
+we have seen, the move to an intangible economy, without financial innovation, may raise borrowing costs and
+give rise to less borrowing and more internal funding. Thus, we might imagine that (relatively) older, cash-rich,
+intangible intensive firms such as Microsoft, Apple, would have no need for external financing (these particular
+superstar firms, who are incredibly cash rich, are perhaps extreme examples). On the other hand, perhaps
+young intangible-intensive firms without cash reserves might be more constrained by more onerous borrowing
+conditions and/or might have to borrow proportionately more against whatever tangible assets they possess.
+To look further into this I asked Bank of England economists to repeat some of their previous exercises (Bahaj
+et al (2017) & (2019)) on the response of employment and investment to monetary policy and the collateral
+channel, and asked how their results differed for firms with intangible assets. The data13 they use represents the
+universe of firms (listed and non-listed) in the UK courtesy of Bureau van Dijk (BVD), and so crucially includes
+all the small firms.
+They have kindly built on two broad streams of previous work. The first is based on the idea that the homes of
+directors of firms can be an important source of collateral for that firm. Bahaj et al (2017) examine the response
+of investment to changes in the value of director homes. Controlling for a range of other factors, they find that on
+average when the value of the residence of a firms’ director rises, the firms’ investment also rises (and the effect
+is statistically significant).
+The importance of housing is consistent with the idea that firms are indeed constrained in what they can borrow.
+One might additionally ask: is this effect more important when the firm has more intangible assets? Perhaps
+because in this case the firm is even more reliant on the (tangible) collateral? To explore this, they run the
+following regression relating firm investment to real estate values:
+2
+
+𝐼𝑛𝑣𝑒𝑠𝑡𝑚𝑒𝑛𝑡𝑖,𝑡 = 𝛼𝑖 + 𝛿𝑗,𝑡 + 𝜇𝐼,𝑡 + ∑ 𝜃 × 1𝑤 + 𝜂𝑤 × 1𝑤 × 𝑅𝑒𝑠𝑖𝑑𝑒𝑛𝑡𝑖𝑎𝑙 𝑅𝐸𝑖,𝑡
+𝑤=1
+2
+
++ ∑ 𝛽𝑤 × 1𝑤 × 𝐶𝑜𝑟𝑝𝑜𝑟𝑎𝑡𝑒 𝑅𝐸𝑖,𝑡 + 𝛾 × 𝑐𝑜𝑛𝑡𝑟𝑜𝑙𝑠 + 𝜖𝑖,𝑡
+
+(1)
+
+𝑤=1
+
+Where 𝑖 is firm, 𝑡 is time, 𝑗 is region, I is industry and 𝑤 separates firms into those with ratios of intangible to
+tangible assets of less than or more than 25 percent 14; controls are cash and profits. Residential RE is the value
+of the directors’ homes and Corporate RE is the value of the firms’ commercial real estate. For more details on
+this specification, see Bahaj et al (2017).
+
+This full dataset covers 1.5 million firms per year for the period 1997-2016. For exact sample sizes, see Bahaj et al (2017) & (2019).
+Firms are intangible based if they reported intangible assets in their financial statements: intangible intensity is the ratio of reported
+intangibles to fixed assets.
+13
+14
+
+8
+
+It turns out that the investment of intangible-intensive firms is more sensitive15 to an increase in the house value
+of their directors. This falls in line with the hypothesis that the more intangible intensive firms may have to rely
+more on outside tangible assets to overcome lending frictions. Whilst this interaction is not statistically
+significant at conventional levels (p=0.08), intangibles are poorly measured in company accounts, likely biasing
+down the effect. Further, the effect is economically significant, with the point estimate of the response of
+investment twice as large for intangible-intensive firms. Along the same lines, there is also twice the response to
+appreciations in the value of corporate real estate (see appendix table A1 for more details). Undoubtedly, there
+is more to discover in this area, but the findings are suggestive.
+A second exercise is inspired by a second stream of work on these data reported in Bahaj et al (2019). They
+establish that the employment of younger and more levered firms in the UK respond more to changes in interest
+rates. We expand this analysis to ask whether employment responds to monetary policy differently for more
+intangible-intensive firms. The regressions are of the following form:
+
+ℎ
+ln(𝐸𝑚𝑝𝑙𝑜𝑦𝑚𝑒𝑛𝑡𝑡+ℎ,𝑖 ) − ln(𝐸𝑚𝑝𝑙𝑜𝑦𝑚𝑒𝑛𝑡𝑡−1,𝑖 ) = ∑ 𝜃𝑔ℎ × 1𝑔 + 𝛽𝑔ℎ × 1𝑔,𝑡−1 × Δ𝑟𝑡 + 𝜖𝑖,𝑡
+
+(2)
+
+𝑔
+
+Where h is the number of periods after the change in interest rate r at time t, and g denotes the firms
+group/type, e.g. tangible or intangible firm. For more details see Bahaj et al (2019).
+Chart 3 shows the response of employment of firms to an unexpected 25 basis point decrease in interest rates.
+Panel A shows the results for the whole sample and indicates a peak response of employment to a 25 basis
+point decrease in interest rates of around 1 percent after two years (that is statistically significantly different from
+zero). Panel B divides the sample by intangible intensity: those firms reporting no intangibles (intangible
+intensity=0), those reported intangible/tangible asset ratio between 0 and 25% and those above 25%.
+
+A £1 increase in house value increases investment by 4.5 pence versus 2.3 pence for firms with high versus low intangible/fixed assets
+ratios. The difference has a p value of 0.08 and so is statistically significant at the 10% level.
+15
+
+9
+
+Chart 3: Employment response of firms to an unexpected decrease in interest rates
+
+Note: Both panels show the average cumulative percentage change in firm employment to an unexpected 25 basis point
+decrease in interest rates in the year preceding Year 0. The shaded areas correspond to 90 percent confidence intervals. For
+more details, see Bahaj et al (2019). Intangible intensity is the ratio of reported intangible to fixed assets. The response of
+employment to an unexpected decrease in interest rates is identified using a high frequency identification strategy; see Gerko
+and Rey (2017).
+
+As the panel shows, the year 0 and year 1 response of all firm types is similar. However, by year 2 the ordering
+of the firm responses is consistent: the most intangible-intensive firms have the biggest response. There is,
+however, considerable uncertainty around these estimates, as indicated by the wide confidence intervals, and
+so future work will need to investigate if there is genuinely no difference between firms’ types, or if the
+uncertainty over the measure of intangibles is widening the error bands.
+In other work, we further divided in the firms into old and young. As the appendix chart A1 shows, the error
+bands around these subgroups were wide, but we did find the same ordering: the largest response for the old
+and young intangible-intensive groups; followed by the response for the young tangible intensive firms. The old
+tangible-intensive firms reacted the least.
+Future work is clearly needed. For the moment, our point estimates at least are consistent: the largest response
+of investment and employment to the three sets of results on house price and interest rate changes is from the
+most intangible-intensive firms. This is consistent with the idea that intangibles may indeed interact with
+collateral constraints, so that with more intangibles in the economy there is heightened sensitivity of firms to
+monetary policy16.
+
+Chart A.1 in the appendix raises somewhat of a puzzle in that the older, intangible-intensive firms are more sensitive to monetary policy
+than younger tangible ones. When one thinks of older intangible-intensive firms one thinks of Apple and Microsoft who, being so cash rich,
+would seem to have little need for borrowing and hence little exposure to the types of bank and credit channels described in the monetary
+transmission literature. Therefore, this finding is perhaps a puzzle, unless such examples are unrepresentative: after all, if intangibles are
+properly accounted for, pharmaceutical and high-tech engineering companies are intangible rich as well.
+10
+16
+
+How intangibles may affect monetary policy: the long-run
+Regardless of these short-run effects, policy has all taken place in the context of a declining longer run
+equilibrium interest rate that poses a possible constraint on conventional monetary policy. I believe intangibles
+are part of this story as well.
+Setting the scene: interest rates and investment trends
+Before moving to the long-run effects on monetary policy from the rise of intangibles, let us first consider two
+long-run trends.
+Chart 4: Yields on safe assets and capital
+(average across 11 countries)
+
+Source: www.INTANInvest.net and Jorda et al (2019).
+Note: Lines are exchange rate adjusted nominal GDP weighted averages of the available
+countries: Austria, Czech Republic, Germany, Denmark, Finland, France, Italy, Netherlands,
+Sweden, UK and US. Yield on capital is the ex-post yield on the market sector invested
+capital stock based on the approach of Hall and Jorgenson (1967).The capital stocks
+includes a broader measure of intangible assets. The residential sector has been excluded.
+For more details, see Corrado et al (2016). Safe rates are nominal sovereign bond yields.
+The solid lines are smoothed representations of the data points (dots).
+
+Diverging safe and risky returns
+Chart 4 shows two types of yield for advanced economies (weighted averages across a sample of countries).
+The lower lines are the yields on short and long safe government securities, which we shall call a “safe rate”.
+As can be seen, these safe rates have fallen consistently over the period by about 4 percentage points. The
+figure also shows an average rate of return 17 for the business sector. Interestingly, this has not really been
+falling and so the wedge between these rates, meaning the gap between the rates an investor would make in a
+safe government bond and the return on investing in a unit of capital in the business sector has been increasing.
+Other measures such as the spread between bank deposit and lending rates, corporate bond spreads and
+equity risk premia have also been measured as increasing over this period, see for example Rachel and Smith
+(2015).18
+
+This is measured as the rate of return in the Hall-Jorgenson capital rental price formula, calculated as the rate of return to make post-tax
+capital rental rates equal value added less labour payments for the business sector.
+18
+Rachel and Smith (2015) consider the IMF’s weighted indicator of spread for the world as a whole (Chart D28). This spans across
+different measures, such as bank credit spreads (the difference between bank deposit and lending rates), fixed income spreads (the
+11
+17
+
+Stable or falling investment
+Chart 4 shows changes in yields on capital. But what has happened to investment quantities? As chart 5
+shows, they have remained flat or declined depending on whether one measures on a nominal or real basis.
+Therefore, despite a potential fall in the user cost of capital at least calculated using the safe rate, investment
+has not taken off.19
+Chart 5: Combined Investment shares in advanced economies
+
+Source: OECD
+Note: Lines are GDP (at PPP) weighted averages of the INTANInvest countries: Austria, Czech
+Republic, Germany, Denmark, Finland, France, Italy, Netherlands, Sweden, UK and US. The dashed
+lines is the linear trend over the illustrated period.
+
+Intangibles and the equilibrium or neutral real interest rate
+With these trends in mind, in this section I would like to discuss the possible role played by the rise of
+intangibles in the decline of the equilibrium real interest rate estimated across several economies over the last
+decades.20
+But first, what is the equilibrium real interest rate of an economy?
+A framework for R*
+The equilibrium interest rate is the real interest rate that is consistent with the economy at target inflation and
+with zero output gap (BoE, 2018).This is illustrated in chart 6.
+
+difference between yields on corporate and government bonds), and equity market spreads (earning yields minus government bond yield).
+According to the IMF measure, the rate of return on capital has fallen since the early 1990s, but not by as much as the risk free rate – the
+spread has increased by around 100bps, in line but substantial smaller than our results in Chart 4.
+19
+Some caveats to this include the following. Investment in these data is business investment plus government investment plus residential
+housing, so the appropriate return for this investment is not, strictly speaking, the business rate of return as used above. Nor do these
+investment data include a more comprehensive measure of intangibles. Also, investment has fallen in developed countries but risen in
+developing countries, but overall it does not look like it has risen.
+20
+See for example, among many others, Del Negro et al. (2018).
+12
+
+Chart 6: Determinations of real interest rates (r), wealth and capital
+
+The upward-sloping blue lines in chart 6 show that the quantity of wealth individuals want to hold tends to
+increase as real interest rates rise. Thus if we put the “safe” real interest rate r on the vertical axis, then the blue
+lines trace out the increased willingness to save when safe rates rise.
+In contrast, the demand for capital (shown in the maroon lines) tends to be downward sloping: as the quantity of
+capital rises, its marginal product falls and so each extra unit of wealth will earn a lower return. The intersection
+of the demand for capital and supply of savings determine the safe interest rate, e.g. at r0 point E0 in chart 6.
+The equilibrium should be thought of as being determined by slow-moving structural factors that affect the
+balance between the demand for capital and the stock of wealth available to finance it. For an open economy
+like the UK, those factors will reflect global influences as well as domestic ones.
+How intangibles may influence R*
+We have three facts to explain:
+a. the trend safe rate has fallen.
+b. the wedge between the safe rate of return and the average rate of return earned by companies has
+risen.
+c.
+
+Investment as a share of national income has hardly changed.
+
+How can the graph explain this? Let us start at E0, where the real rate of interest is r0 and capital is at k0 and
+consider a shift in desired saving for the given interest rate r0. In the graph that is the shift of supply of savings
+from s1 to s2 and a new lower equilibrium interest rate of r1 at E1. Such a shift has been widely discussed (e.g.
+Rachel and Smith (2015)) as being due to increased population longevity, lower expected future incomes (lower
+productivity growth) and a rise in inequality (which raises savings due to a compositional effect if the rich save
+more).
+This however does not explain the fact that capital/investment demand has not increased in response to this
+lower interest rate as is the case at E1. Nor does it explain the growing wedge between safe and risky rates.
+13
+
+What would explain this is an inward shift in capital demand for a given safe rate (think of firm’s demand for
+capital as depending on the risky rate and so a rise in this wedge shifts the demand curve inwards with the safe
+rate on the vertical axis). In chart 6 this would be a movement in demand from d1 to d2 and a further decrease
+in the equilibrium interest rate to r2 at E2, leaving capital unchanged at k0.
+It has been documented and we have seen evidence in chart 4 that the spread between the risk free rate and
+return on capital has increased. This means that for a given risk free rate, firms are paying more for capital and
+hence we would expect a decline in demand for a given risk free rate. This is our inward shift in from d1 to d2 in
+chart 6. But why have these spreads grown?
+It seems reasonable that at least part of the rise in the risk premium might have been driven by the trend
+towards intangible investment. As we have discussed, the “sunkeness” of intangible assets makes them much
+more difficult to use as a collateral, at least through traditional channels like a loan. This shortage of collateral
+will drive risk spreads higher in a more intangible economy. Over and above the issue of collateral, intangibles
+may just be generally more risky to invest in. For example, spillovers create a risk that the returns generated by
+an intangible investment may be reaped by a free-riding third party. This will also—all else equal—drive spreads
+higher. This rise in spreads has the effect of lowering d1 to d2 in chart 6.
+If the above is a mechanism by which growing intangible intensity lowers R*, how can we test it? We have
+documented rising intangibles and a falling R* over recent decades, but many other things might be going on,
+so this is not very strong evidence. A slightly better way is to look at how the wedge documented in chart 4
+co-varies by countries’ intangible intensity. If the trend towards intangibles is raising risk spreads, then there
+should be a positive correlation between spreads and intangible intensity.
+Chart 7: Intangible intensity and the return on capital spread
+
+Source: www.INTANInvest.net and Jorda et al (2019).
+Note: Chart plots the spread between the return on capital and long run safe rates for the period
+1995-2015. Returns on capital are adjusted for tax rate differences. The safe rate is the nominal
+return on 10 year sovereign bonds. Due to the significant variance in sovereign yields in the euro
+area, the German 10 year was used across the euro area in each year. Intangible intensity is the
+ratio of intangible investment to total investment. Intangible intensity is significantly correlated
+with the spread after controlling for year fixed effects (coef: 0.042, se: 0.015). After controlling for
+country and time fixed effects it was positive but insignificant (coef: 0.076, se: 0.049). Spain was
+excluded, as an outlier.
+14
+
+To test this, chart 7 plots the wedge between returns to capital and risk free bonds (i.e. the gap for each country
+between the upper black line and darker blue line in chart 4) against intangible intensity for our sample of
+countries. The line of best fit is positive and statistically significant when including year fixed effects, suggesting
+that those countries with higher intangible intensity have on average a larger wedge. This is, of course, only
+tentative evidence based on a small sample of countries and there will be other confounding factors21.
+Furthermore some individual countries wedges (e.g. Finland), have declined as they have become more
+intangible. Overall, it is suggestive that the positive correlation is in line with our hypothesis.
+Other avenues for intangibles to affect R*
+Compositional effects, lower trend productivity and inequality are three other routes that have been documented
+as lowering the equilibrium safe interest rate. But they in turn may be affected by the shift towards intangibles.
+First, if intangible assets can be scaled more readily than tangibles, a shift towards intangibles might lower the
+demand for capital as a matter of composition. This argument has been made by economist Lawrence
+Summers using the example of WhatsApp, an intangible intensive firm.
+“Ponder the fact that WhatsApp has a greater market value than Sony, with next to no capital investment
+required to achieve it. Ponder the fact that it used to require tens of millions of dollars to start a significant new
+venture, and significant new ventures today are seeded with hundreds of thousands of dollars. All of this means
+reduced demand for investment, with consequences for equilibrium levels of interest rates.” (Summers, 2014)
+Overall, this compositional shift towards intangibles reduces demand for investment and the availability of
+investable assets, which results in downward pressure on interest rates. This argument is spelled out in more
+detail and modelled by Dottling and Perotti (2019).
+Second, lower productivity growth drives R* downward as capital becomes less productive (reducing demand
+for it) and people are induced to save more when they expect their future incomes to be lower. Intangibles might
+have contributed to this in at least two ways. First, much of lower productivity is lower TFP growth. As chart 1
+shows intangible accumulation has slowed since the financial crisis; TFP growth may have slowed through a
+reduction in the positive externalities associated with intangible investment via spillovers.22
+Another mechanism might be that while intangibles adoption may initially boost productivity in an economy, in
+the long-run it may actually drag on productivity23. This is because large intangible-intensive incumbents through
+their scale and networks can undercut and prevent the entry of innovative new firms. Think of a young firm with
+a better search engine algorithm trying to compete with Google.
+Third, scale and synergies might have raised inequality, as large firms scale up and better capture the synergies
+of intangibles working together. Crouzet and Eberly (2018) argue these features have enabled the rise in
+21
+
+A rise in mark-ups for example, but of course such a rise, if it exists, might be due to intangibles themselves; see Barkai (2019) and
+Caballero et al (2020).
+22
+See for example Garcia-Macia (2017). For more on intangibles and spillovers see Haskel and Westlake (2017).
+23
+This mechanism is discussed and modelled by de Ridder (2019).
+15
+
+industry concentration over the last two decades in the United States. Now, as the society becomes more
+unequal, with more and more of national income concentrated in the hands of few, this may have also contribute
+to the decline in R*. This happens as richer segments of the populations have lower marginal propensities to
+consume and thus save more. In this case, intangibles shift the supply of capital curve 24.
+Concluding thoughts
+We have explored some ideas and seen some evidence for the implications of intangibles on monetary
+transmission and the natural rate of interest. We have two main findings:
+1. The shift to intangibles might affect the monetary transmission mechanisms if intangibles are harder to
+borrow against and so firms seeking external finance find it harder to do so. Our point estimates
+consistently indicate that intangible-intensive firms are more affected by changes in financial conditions
+than tangible-intensive firms.
+2. If the conventional financial system finds it hard to value and so lend against intangible assets, then
+over the long-run risk spreads will rise as the economy becomes more intangible-based. This
+depresses the safe rate of interest and so contributes to a lower R*.
+In terms of monetary transmission, firms and the financial system are in a constant state of evolution and need
+to continue to adapt25 to a more intangible world. These forces, including increased cash holdings, lower debt
+levels, and a smaller role for traditional banking, may all reduce the potency of monetary policy in the intangible
+world. Pushing in the opposite direction, recent studies such as (Cloyne et al, 2018) and (Bahaj et al, 2019)
+have shown young financially constrained firms are more responsive to monetary policy, experience larger
+increases in the cost of external finance (Anderson & Cesa-Bianchi (2020)), and explain a large share of the
+aggregate dynamic response despite accounting for a small share of overall investment and employment. We
+have seen above some evidence that intangibles are a part of this story. Overall, we need more work to fully
+understand and quantify the balance of these two forces on the aggregate response of the economy to
+monetary policy.
+The falling natural rate of interest has been extensively studied. As it is well acknowledged, explanations of
+falling R* have also to explain the divergence between risky and safe rates and the related decline in the
+demand for capital. I think the inability to finance intangible investment is a part of this story. Given that, it is
+important that the financial system evolves and innovates to meet the trend towards intangibles.26 A failure to do
+so could see a continuing low neutral rate of interest.
+This much-discussed low interest rate environment we find ourselves in, reinforced by the trend towards
+intangible assets that I have discussed today, in part informs my recent votes on the MPC, where limited
+
+Vlieghe (2016) neatly summarises the drives of lower interest rates into three D’s: Debt, Demographics and Distribution of income. To
+which we might like to add a fourth “D”: disembodied knowledge.
+25
+There are perhaps some limits on the scope for adaption. For example, the expertise around successful venture capital firms takes many
+years to build up and is difficult to scale, unlike the ideas they invest in.
+26
+Relatedly, the Bank is working closely with HM Treasury, BEIS, FCA and industry to explore how a common set of standards and
+protocols could enable permissioned data portability throughout the economy and improve access to finance for SMEs in the UK. This
+should partly help to overcome some of the issues many SMEs may face from a lack of tangible collateral when trying to access finance, as
+illustrated in this speech.
+16
+24
+
+conventional monetary policy space means I continue to prefer to move now in order to ensure we achieve a
+sustainable return of inflation to target.
+Finally, today I have not touched on all the possible interactions between intangibles and monetary policy.
+Alongside a declining natural rate of interest, monetary policymakers across advanced economies are also
+grappling with below target inflation despite tight labour markets and what we think is accommodative monetary
+policy. Are intangibles playing a role here? Perhaps one angle is that intangible investments—directly through
+investment in process and indirectly through increased scalability—have brought about an increased scope for
+variable capacity utilisation and in so doing have flattened the short run relationship between aggregate demand
+and inflation. This, alongside the other points we have discussed today, would benefit from further research and
+analysis.
+
+17
+
+References
+Anderson, G. & Cesa-Bianchi (2020). Firm Heterogeneity, Credit Spreads, and Monetary Policy. Bank of
+England. Mimeo.
+Bahaj, S. A., Foulis, A., & Pinter, G. (2017). Home values and firm behaviour. Bank of England. Staff Working
+Paper No. 679.
+Bahaj, S., Pinter, G., Foulis, A., & Surico, P. (2019). Employment and the collateral channel of monetary
+policy. Bank of England. Staff Working Paper No. 827.
+Barkai, S. (2019). Declining labor and capital shares. Journal of Finance, Forthcoming.
+Bean, C. R., Larsen, J. D., & Nikolov, K. (2002). Financial frictions and the monetary transmission mechanism:
+theory, evidence and policy implications. Evidence and Policy Implications (January 2002). ECB Working Paper,
+(113).
+Bank of England (2018). Inflation Report, August 2018.
+Boivin, J., Kiley, M. T., & Mishkin, F. S. (2010). How has the monetary transmission mechanism evolved over
+time?. In Handbook of monetary economics (Vol. 3, pp. 369-422). Elsevier.
+Caballero, R. J., Farhi, E., & Gourinchas, P. O. (2017). Rents, technical change, and risk premia accounting
+for secular trends in interest rates, returns on capital, earning yields, and factor shares. American Economic
+Review, 107(5), 614-20.
+Carney, M. (2019). Enable, Empower, Ensure: A New Finance for the New Economy. Speech at the Lord
+Mayor’s Banquet for Bankers and Merchants of the City of London at the Mansion House, London, 20 June
+2019.
+Cecchetti, S., & Schoenholtz, K. (2018). Financing intangible capital. CEPR Policy Portal.
+Corrado, C., Haskel, J., Jona-Lasinio, C., & Iommi, M. (2013). Innovation and intangible investment in
+Europe, Japan, and the United States. Oxford Review of Economic Policy, 29(2), 261-286.
+Corrado, C., Hulten, C., & Sichel, D. (2005). Measuring capital and technology: an expanded framework
+in Measuring capital in the new economy (pp. 11-46). University of Chicago Press.
+Corrado, C., Haskel, J., Jona-Lasinio, C., & Iommi, M. (2016). Intangible investment in the EU and US before
+and since the Great Recession and its contribution to productivity growth (No. 2016/08). EIB Working Papers.
+Cloyne, J., Ferreira, C., Froemel, M., & Surico, P. (2018). Monetary policy, corporate finance and investment
+(No. w25366). National Bureau of Economic Research.
+Crouzet, N., & Eberly, J. C. (2019). Understanding weak capital investment: The role of market concentration
+and intangibles (No. w25869). National Bureau of Economic Research.
+Dell’Ariccia, G., Kadyrzhanova, D., Minoiu, C. and Ratnovski, L. (2018). Bank Lending in the Knowledge
+Economy. IMF Working Papers. International Monetary Fund.
+Del Negro, M., Giannone, D., Giannoni, M. P. and Tambalotti, A. (2019). Global trends in interest rates.
+Journal of International Economics, Elsevier, vol. 118(C), pages 248-262.
+De Ridder, M. (2019). Market Power and Innovation in the Intangible Economy. Cambridge Working Papers in
+Economics 1931, Faculty of Economics, University of Cambridge.
+Döttling, R., & Perotti, E. C. (2019). Redistributive Growth. Centre for Economic Policy Research. Discussion
+Paper DP13984.
+Drechsel, T. (2018). Earnings-based borrowing constraints and macroeconomic fluctuations (No. pdr141). Job
+Market Papers.
+18
+
+Falato, A., Kadyrzhanova, D., & Sim, J. (2013). Rising intangible capital, shrinking debt capacity, and the US
+corporate savings glut.
+Garcia-Macia, D. (2017). The Financing of Ideas and the Great Deviation, IMF Working Papers 17/176,
+International Monetary Fund.
+Gerko, E., & Rey, H. (2017). Monetary policy in the capitals of capital. Journal of the European Economic
+Association, 15(4), 721-745.
+Greenwald, D. (2019, February). Firm debt covenants and the macroeconomy: The interest coverage channel.
+In 2019 Meeting Papers (No. 520). Society for Economic Dynamics.
+Gilson, S. C. (2010). Creating value through corporate restructuring: Case studies in bankruptcies, buyouts,
+and breakups. Vol. 544. John Wiley & Sons, 2010.
+Haskel (2019). An end-of-year retrospective on the UK outlook and monetary policy. Speech given at
+Resolution Foundation, London, 20 December 2019.
+Haskel, J., & Westlake, S. (2017). Capitalism without capital: The rise of the intangible economy. Princeton
+University Press.
+Hall, R. E., & Jorgenson, D. W. (1967). Tax policy and investment behaviour. American economic review,
+57(3), 391-414.
+IPP (2013). Banking on IP? The role of intellectual property and intangible assets in facilitating business finance.
+Intellectual property office.
+Jordà, Ò., Knoll, K., Kuvshinov, D., Schularick, M., & Taylor, A. M. (2019). The rate of return on everything,
+1870–2015. The Quarterly Journal of Economics, 134(3), 1225-1298.
+Moore, J., & Kiyotaki, N. (1997). Credit cycles. Journal of Political Economy, 105(2).
+Lev, B. (2001). Intangibles: Management, Measurement, and Reporting. The Brookings Institution. Washington
+DC, USA.
+Lian, C., & Ma, Y. (2018). Anatomy of corporate borrowing constraints. Unpublished working paper.
+Machlup, F. (1962). The production and distribution of knowledge in the United States (Vol. 278). Princeton
+university press.
+Nakamura, L. I. (2001). What is the US Gross Investment in Intangibles? (at Least) One Trillion Dollars a Year!.
+Economic Research Division, Federal Reserve Bank of Philadelphia.
+Peters, R. H., & Taylor, L. A. (2017). Intangible capital and the investment-q relation. Journal of Financial
+Economics, 123(2), 251-272.
+Rachel, L. & Smith, T. (2015). Secular drivers of the global real interest rate. Bank of England Staff Working
+Paper, (571).
+Summers, L. H. (2014). US economic prospects: Secular stagnation, hysteresis, and the zero lower
+bound. Business economics, 49(2), 65-73.
+Vlieghe, G. (2016). Debt, Demographics and the Distribution of Income: New challenges for monetary policy.
+Speech at London School of Economics, 18 January 2016
+
+19
+
+Appendix: Capitalising intangibles
+To conduct our analysis we add to firm-level reported intangible assets by following the approach of
+Peters and Taylor (2017) amongst others and capitalising their R&D spending and a share of their
+sales, general and administrative (SGA) spending such that the intangible capital stock (𝐾𝑖𝑡𝑖𝑛𝑡 ) is
+defined as:
+𝐾𝑖𝑡𝑖𝑛𝑡 = 𝐼𝑁𝑇𝑖𝑡 + 𝐴𝑖𝑡 + 𝐵𝑖𝑡
+Where 𝐼𝑁𝑇𝑖𝑡 is intangible assets in the balance sheet for firm i at time t, 𝐴𝑖𝑡 is accumulated R&D (RD)
+spending (defined below) and 𝐵𝑖𝑡 is accumulated SGA spending (defined below).
+𝐴𝑖𝑡 = (1 − 𝑑𝑟𝑑 )𝐴𝑖,𝑡−1 + 𝑅𝐷𝑖𝑡
+Where 𝑑𝑟𝑑 is the R&D depreciation rate (assumed to be 15% economy-wide, following previous
+literature).
+𝐵𝑖𝑡 = (1 − 𝑑𝑠𝑔𝑎 )𝐵𝑖,𝑡−1 + 0.3 ∗ 𝑆𝐺𝐴𝑖𝑡
+Where 𝑑𝑠𝑔𝑎 is the SGA depreciation rate, assumed to be 20%, and 30% of SGA is assumed to be
+related to intangible investment, following Peters and Taylor (2017).
+A choice needs to be made on what to do about starting RD and SGA stocks (𝐴𝑖0 and 𝐵𝑖0 ), as the
+firms are not usually observed from the year they were formed. We assume these to be zero and
+focus on the final year of our sample 2017. There is also a small number of cases, where a firm exits
+the dataset and then re-enters n number of years later. For the accumulation of RD (and analogously
+for SGA), we use the following proxy formula to calculate the accumulated stocks in the year of reentry:
+(1 − 𝑑𝑟𝑑 )𝑛 𝑅𝐷𝑖,𝑡−𝑛 + 𝑅𝐷𝑖𝑡
+𝐴𝑖𝑡 = (1 − 𝑑𝑟𝑑 )𝑛 𝐴𝑖,𝑡−𝑛 + (𝑛 − 1) [
+]
+2
+Our data source is the Worldscope financial account database for UK (listed) firms (excl. finance and
+oil and gas firms); sample 2000-2018. We start the accumulation of capital in 2000.
+
+20
+
+Table A1: Investment response to collateral based on intangible intensity
+
+Chart A1: Employment response of firms to a decrease in interest rates
+
+Note: Chart show the average cumulative percentage change in firm employment to an unexpected 25 basis point decrease in
+interest rates in the year preceding Year 0. The shaded areas correspond to 90 percent confidence intervals. For more details,
+see Bahaj et al (2019). Intangible intensity is the ratio of reported intangible to fixed assets. Intangible firms are those with
+intangible intensity greater than 25%. Tangible firms are those with intangible intensity of 0%. Young firms are firms less than
+15 years old. The response of employment to an unexpected decrease in interest rates is identified using a high frequency
+identification strategy; see Gerko and Rey (2017).
+
+21
+
+

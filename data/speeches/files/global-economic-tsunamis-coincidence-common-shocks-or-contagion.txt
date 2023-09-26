@@ -1,0 +1,3463 @@
+Global economic tsunamis: Coincidence, common shocks or
+contagion?
+Speech given by
+Kristin Forbes, External MPC Member, Bank of England
+
+Imperial College, London
+22 September 2016
+
+Thanks to Ida Hjortsoe and Tsveti Nenova for playing key roles in putting together the analysis
+discussed in these comments. Special thanks to Jack Marston as well. Further thanks to
+Ambrogio Cesa-Bianchi, Will Dison, Glenn Hoggarth, Gareth Ramsay, Marek Razcko,
+Matt Roberts-Sklar, James Smith, Alex Tuckett, and Sebastian Walsh for helpful comments.
+The views expressed here are my own and do not necessarily reflect those of the Bank of England or
+other members of the Monetary Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Many countries regularly feel like the hapless fisherman in this iconic print by Katsushika Hokusai (Figure 1).
+Just as ‘The Great Wave’ in the print suddenly comes out of nowhere to present imposing challenges,
+countries often feel that they are inundated by surprises coming from other realms. Just as the fishermen feel
+impotent in the face of the surge of water, policymakers can feel impotent in the face of surges in capital
+flows and sharp movements in global financial markets. And just as any fisherman will ponder whether there
+is more they can do to strengthen their boats to better withstand rogue waves, countries must continually
+consider how they can increase their resilience to surprises that originate elsewhere.
+These concerns should be first hand for anyone living in the UK – with the UK having played the role of both
+the hapless fishermen and the rogue wave over the past decade. In 2008 the UK was overwhelmed by the
+Global Financial Crisis; challenges in the US housing market and mortgage market quickly spread to the
+core of the UK financial system and contributed to the sharpest recession since the Great Depression. From
+2010 to 2012, the UK was again constantly buffeted by different phases of the euro-area crisis. Periods of
+stress in the euro area corresponded to declines and volatility in UK equity markets, falls in UK exports to the
+euro area, tighter credit conditions and heightened uncertainty – all contributing to weakness in consumer
+spending, investment, and the labour market.
+
+1
+
+More recently, positions reversed. The UK fishermen created the wave. Figure 2 shows that as the UK
+prepared for a referendum on EU membership, the Eurozone stock market began to more closely mirror the
+UK market. The sharp increase in UK equities just before the vote (when most commentators increased the
+odds of a ‘remain’ result), and then the sharp fall in UK equities (when the surprise outcome to ‘leave’ was
+announced), were both quickly reflected across the channel. But then the wave seemed to lose energy.
+Equity markets in the UK and euro area began to diverge in a pattern more typical before the run-up to the
+referendum. Why did the ‘Great Wave’ emanating from the UK referendum turn into more of a small boat
+wake that quickly dissipates?
+
+This talk will explore why countries are sometimes highly vulnerable to major events that occur outside their
+borders, while at other times seem fairly immune. Why do some negative events turn into global tsunamis –
+while others are just local ripples?
+For example – consider 2 major periods of stress in the global economy: the Asian Crisis (1997-98) and the
+Global Financial Crisis (2008-2009). Figure 3 shows equity indices during these events for the region/country
+where the stress originated (in red), plus other major country groups. The Asian Crisis corresponded to sharp
+falls in equity indices for the Asian economies under stress (not surprisingly). These falls were mirrored
+1
+
+For a detailed description of the channels through which the euro-area crisis affected the UK, see
+‘EU membership and the Bank of England‘ (October 2015), pp. 64-67. See also the speech
+‘A Tale of Two Labour Markets: the UK and the US‘ (January 2016) which discusses how the euro-area crisis may have contributed to
+the stop-start recovery in the UK labour market from 2010 through 2012.
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+(albeit to a lesser extent) in the advanced economies outside the euro area, but seemed to have minimal
+effect on other emerging markets. The euro area seemed immune to the Asian wave, with sharply higher –
+instead of lower – returns. In contrast, the Global Financial Crisis sharply affected equity indices not only in
+the US, but in all country groups. The equity indices for all groups are basically on top of each other for
+almost a year from June 2008; the Global Financial Crisis is aptly named and was clearly a global tsunami.
+
+Did these disparate spillovers in equity markets correspond to similar patterns for what people in these
+countries care about most – real incomes and growth? Figure 4 shows GDP growth to answer this question.
+The Global Financial Crisis continues to merit its name – corresponding to precipitous and simultaneous
+declines in growth in each region, followed by simultaneous rebounds. Patterns during the Asian Crisis,
+however, are quite different than for equity markets. GDP growth in the advanced economies is stronger and
+more stable than implied by the falls in this group’s equities. GDP growth in the other emerging markets is
+more negatively affected than implied by the relative stability in their equity markets. And growth in the euro
+area is middle of the pack – showing none of the outperformance suggested by the region’s strong equity
+returns.
+This lecture attempts to better understand these different patterns of global spillovers – especially during
+periods of economic stress. It addresses a number of questions. Why do economic tremors in one country
+sometimes evolve into devastating tsunamis in others – and sometimes fade into small ripples? When do
+international spillovers in financial markets also harm incomes and economic growth? How have these
+relationships evolved over time? And perhaps most important, how can countries create ‘tidal breaks’ against
+these powerful waves originating outside their borders?
+The results have important implications for investors and policymakers. I’ll start with investors as many of
+you in this room are considering careers in finance and should be aware of what you may be up against. I’ll
+show you that equity markets around the world move together much more closely now than in the past. This
+makes it more difficult for investors to diversify their portfolios and to generate returns through ‘alpha’
+(differentiating oneself from average market movements). I will also provide some insights on why this has
+been happening and what to watch to predict when these patterns change. A common, global factor has
+been playing a more important role in causing markets to move together. This is affected by changes in
+global risk sentiment, commodity prices, and changes in US monetary policy, with events in China recently
+playing a more important role. Particularly striking, equity markets around the world seem to all respond in
+more similar ways than in the past to these global factors. It is as if they are all now sailing in the same type
+of boat.
+
+This analysis also has important implications for policymakers. Policymakers are continually concerned that
+negative shocks originating abroad will spread to their own shores. This analysis helps understand when this
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+concern is more likely to become a reality – and exactly what to be concerned about. It shows that sharp
+reactions in financial markets should be put into context. These movements certainly matter – but the
+international spillovers to growth and incomes tend to be much smaller than in financial markets. For
+policymakers concerned about supporting and stabilizing domestic incomes in the face of these external
+waves, this is good news. The waves emanating from abroad in financial markets can be imposing – and do
+have important domestic effects – but these effects on the real economy are usually more muted.
+
+Finally, and perhaps most important, although policymakers can usually do little to stop the events that
+generate waves abroad, they should not despair. Certain policies can make a country more resilient. Steps
+such as reducing leverage and strengthening banking systems can mitigate the effects of dangerous
+international waves. Even though fishermen are unable to affect the weather, and unable to completely avoid
+large waves, they can strengthen their ships and thereby better withstand choppy waters.
+The remainder of my comments are divided into four parts. First, I’ll look at how country comovement and
+spillovers have changed over time. Second, I’ll try to explain these changes by looking at three possible
+explanations: coincidence (a statistical issue related to how comovement is calculated), common shocks
+(when the tsunami has a widespread global impact), and contagion (when the wave originates in one country
+or region and then spreads to others). Third, I’ll explore how countries can mitigate the negative impact of
+these waves that originate abroad. Finally, I’ll summarize key results and discuss implications for UK
+monetary policy – especially in light of the vote to leave the European Union. Is there a chance that the ripple
+effects associated with leaving the EU turn into a larger wave that causes other countries to wobble – or
+even capsize – resulting in spillbacks to the UK?
+
+1. The Basics: Understanding the Waves over Time
+
+We just looked at how equity markets and GDP growth moved together during two crisis periods. How do
+these relationships compare to those we observe over longer periods of time? Are the ‘waves’ leading to
+more or less comovement over time?
+To begin, it’s useful to start by looking at the correlations in equity returns and GDP growth for pairs of
+countries at different points in time. This is a colourful way to capture a substantial amount of information –
+but takes a bit of explaining. Let’s start with Figure 5a, which shows the correlations in equity returns for pairs
+2
+
+of countries around the world from 1985 through 1994. Equity returns are a useful place to start as they
+should incorporate all available information on the expected future profitability of companies in a country –
+2
+
+Equity returns are calculated based on local currency returns on a weekly basis for 48 countries. Data is from Global Financial Data for
+the period 1980-July 2016. The indices used are the broadest equity benchmarks available for each country, with the exception of the
+UK, where the mid-cap FTSE 250 is used to avoid issues related to the inclusion of large multinational companies in the broader FTSE
+All-Share index.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+and therefore capture expected changes in real indicators. Each cell in the chart shows the correlation in
+equity returns between the country on the x-axis and the country on the y-axis. A redder colour denotes a
+higher correlation (i.e. tighter comovement); yellow is lower; green is close to zero; and blues are negative
+correlations (with the exact numerical definitions to the right). Countries are also grouped by region, with
+12 euro area markets closer to the origin, 20 emerging markets at the top and far right, and the 16 other
+advanced economies in the middle. To take a concrete example, the top right corner is dark red – as it
+shows 100% correlation between the Venezuelan market with itself. This is expected for all values on the 45
+degree axis. Just to the left of this is the correlation of Venezuela’s equity returns with Turkey’s over this
+period; this is light green, indicating very little comovement between these two markets over this period. The
+white is areas without enough data to calculate the correlations.
+Don’t worry – I don’t expect you to read the details on the graphs or focus on any individual, microscopic cell.
+Instead, the main purpose of these graphs is to capture broad trends over time. What do they tell us? Figure
+5a has a lot of light green and yellow, suggesting little comovement between most countries’ equity returns –
+especially for emerging markets around the edges. There is some orange and a few red cells in the section
+for the euro area and other advanced economies, suggesting somewhat higher comovement between some
+countries in these groups. Most of the red cells are intuitive as they show countries that are closely linked –
+such as the cell showing the comovement between the US and Canadian markets.
+Now, let’s look at how the diagram changes over time. Figure 5b shows the same correlations over the
+following decade – from 1995 through 2004. There is now more red and orange scattered throughout the
+graph, especially in the bottom block with countries from the euro area. This suggests comovement in equity
+markets has increased, especially in the euro area. This increased comovement in the euro area during this
+period is not surprising; it is when the common currency was introduced and trade and financial flows within
+the region increased rapidly.
+
+Continuing our travel through time, Figure 5c shows the same correlations during the Global Financial Crisis,
+from 2008 through 2010. It is as if we just jumped through hyperspace to another, much hotter, universe. The
+graph is almost entirely red—even across most emerging markets. Equity markets around the world moved
+together extremely tightly over this period.
+Finally, Figure 5d shows what the world looks like today – or at least from 2010 through to July 2016. Equity
+returns still move together tightly around the world – and much more so than before 2005. Even though this
+comovement is not quite as strong as during the Global Financial Crisis, countries’ equity markets appear to
+be more tightly linked than they have been historically. The euro area (in the bottom left) continues to show
+the highest degree of comovement, and the emerging markets (on the top and right) the least – albeit still
+substantially more than before the crisis.
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+Do the same patterns hold for GDP growth? Figure 6 shows the same bilateral correlations over the same
+periods, except now for GDP growth. The comovement in GDP growth from 1985-1994 is very low, and the
+heat map gets only slightly ‘warmer’ from 1995-2004. Then Figure 6c shows a jump to a very hot universe
+during the Global Financial Crisis – with the map largely turning red as seen for equities. But then, in
+contrast, the graph for growth correlations over the most recent period shows a sharp cooling since 2010 – to
+an overall colouring that looks quite similar to that observed from 1995-2004. GDP growth rates around the
+world have not been moving together tightly. In fact, all of the GDP graphs tend to be less ‘hot’ than the
+corresponding graphs for equities. The tight comovement in equity markets does not correspond to tight
+comovement in growth rates – except during the Global Financial Crisis. Although the comovement in equity
+markets has been increasing over time, this has not occurred for GDP growth, where the comovement is
+instead at low levels.
+These graphs are always fun to look at – and good at capturing general trends – but can be hard to interpret
+concisely. The sharp changes seen during the short window around the Global Financial Crisis also suggest
+that looking at these average correlations over a decade could mask important changes within these long
+windows. Therefore, it’s also useful to distill these multiple correlations between all the country pairs into
+rolling averages of these bilateral correlations. The resulting trends are shown in Figure 7, for both equity
+returns and GDP growth, using the same countries and data and calculated over five-year rolling windows.
+These average correlations are reported for the full sample (black) and various groups of countries.
+
+These graphs largely confirm the patterns in the colourful charts. Panel a shows a fairly steady increase in
+equity correlations over time – especially during the Global Financial Crisis when the average correlation
+increased to more than 60% for the full sample. Correlations have fallen back some since, but are still
+elevated relative to pre-crisis levels. In fact, if you drew a trend line reflecting the upward movement in the
+correlations since 1980 and ignored the temporary spike during the crisis, the trend line would have
+predicted the high levels of comovement that we see today for the full sample. Investors complaining about
+the increased comovement in equity markets are justified; equity markets are moving together more tightly
+than in the 1980s, 1990s, and early 2000s.
+In contrast, Panel b shows that this complaint does not apply to countries’ growth rates. The comovement in
+GDP growth rates increased sharply during the crisis – albeit to lower levels than for equity markets. There
+is, however, no apparent trend over time. The small increase in average correlations in the early 2000s has
+reversed, and instead growth correlations in all countries except the euro area have recently fallen back to
+levels not seen for at least 15 years. In fact, for the full sample of countries, these correlations are now close
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+to zero – suggesting little comovement in growth rates around the world recently. This low degree of growth
+3
+
+comovement provides a sharp contrast to the nearly 50% correlation currently observed in equity markets.
+
+To summarize, the two approaches to measuring country comovement yield the same conclusions.
+Countries’ equity markets are increasingly in the same boat. Movements in equity returns in one nation
+correspond to similar movements in others – and these links have been growing over time.
+
+In contrast, changes in GDP growth in one nation are much less likely to correspond to similar movements in
+others. Other than during the Global Financial Crisis, and in the euro area today, countries’ GDP growth
+rates are sailing in different directions and seem to be buffeted by different winds.
+
+2. Why are we all in the same boat?
+Why do equity markets seem to be affected by the same wind today – but not growth rates?
+Why did growth rates suddenly start to capsize together during the Global Financial Crisis?
+Why do equity markets seem to be sailing in tighter and tighter formation over time?
+There are a number of possible explanations. I’ll focus on three today: coincidence, common shocks, and
+contagion. By coincidence, I mean a statistical issue in how comovement is measured, which can cause
+correlation coefficients to increase and heat maps to look ‘hotter’– without actually corresponding to tighter
+comovement. By common shocks, I mean changes in the global environment that affect all countries
+simultaneously – such as changes in oil prices. Returning to the nautical analogy, have the global waves
+gotten bigger and/or do they wash over more countries than in the past? By contagion, I mean bad news in
+one country (or region) that spreads to others. If one ship goes down, is it more likely to drag others with it?
+There are also other, related explanations for the higher cross-country equity comovement, such as the
+inclusion of more multinational companies in local indices, the growing international exposure of
+multinationals, or the listing of some companies in international financial centres rather than on their national
+exchanges. Although these factors have undoubtedly played some role, especially in markets that are
+attractive for international listings, I will not focus on these explanations today as they are unlikely by
+themselves to explain the increased comovement between the range of markets in the wider sample of
+countries considered.
+
+Separating out these potential explanations is extremely difficult. There have been many heated debates in
+the academic world over how to define and measure ‘common shock’ versus ‘contagion’ versus
+
+3
+
+The different magnitudes of the correlations between equity returns and GDP growth rates do not result from the fact that the equity
+correlations are calculated based on weekly data, while the growth correlations are based on quarterly data. Estimating the equity
+correlations with quarterly data yields similar numbers.
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+4
+
+‘comovement’. And the ‘coincidence’ that I’ve added is my rather unimpressive attempt to continue with the
+‘c’ alliteration. Policymakers frequently remind academics that if their country is doing everything
+more-or-less right, and then they are swept off course by events that originate elsewhere, they don’t care
+whether it is ‘normal comovement’ with a close partner, or ‘contagion’ from a country half-way around the
+world, or a ‘common shock’ that affects everyone. I will not pretend to resolve these debates tonight. Instead,
+I’ll show you some different approaches and evidence to get a sense of what is going on in the heat maps.
+This will go some way to understanding these trends over time and the differences in comovement between
+financial markets and GDP growth.
+
+A. Coincidence (of statistics)
+One reason why markets may appear to move together more tightly now than in the past is a ‘coincidence’
+that results from a statistical property. Straightforward algebra shows that when volatility increases,
+5
+
+correlation coefficients and comovement automatically seem to increase. Hopefully all of you in this room
+who are studying finance are already aware of this statistical relationship caused by heteroscedasticity. It is
+too late in the evening to put you through the algebra, so instead I’ll use a simple coin example to illustrate
+this point.
+
+To begin, suppose that there are two rounds to a game. In the first round you flip one coin. If it is heads, you
+win, and if it is tails, you lose. This round can be played with either a penny or a special £100 coin. In the
+second round, you also flip a coin and win with heads and lose with tails, but now the coin doesn’t change
+and is always a 20-pence coin. What you win or lose depends on what you toss in both rounds; you get (or
+owe) ten percent of the outcome of the first round plus the entire outcome of the second round. The outcome
+of the game when you play with a penny is shown below.
+
+Coin Scenario 1
+ROUND 1
+
+ROUND 2
+
+PAYOFF
+
+(pence)
+
+(twenty pence)
+
+(in pence)
+
+Heads (+1)
+
+Heads (+20)
+
++20.1
+
+Heads (+1)
+
+Tails (-20)
+
+-19.9
+
+Tails (-1)
+
+Heads (+20)
+
++19.9
+
+Tails (-1)
+
+Tails (-20)
+
+-20.1
+
+Payoff is (10% x outcome of round 1) + outcome of round 2
+
+4
+
+See Forbes (2013).
+This general result is known as the Normal Correlation Theorem. To the best of my knowledge, the first person to highlight this result
+was Rob Stambaugh in a discussion of Karolyi and Stulz (1996). This coin example and a more extensive discussion of the implications
+for measuring contagion are in Forbes and Rigobon (2001, 2002).
+5
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+Since the payoff is equal to the outcome of the second round (plus or minus 20 pence) plus or minus a tenth
+of a penny, the outcome of the first coin toss has a negligible impact on the payoff. Therefore, when the first
+round is played with a penny, the correlation between the first round and the payoff is close to zero (0.5% to
+be exact) and the outcomes of the first round and payoff are almost independent.
+
+On the other hand, when the first round is played with a £100 coin instead of a penny, the possible scenarios
+are (again in pence):
+
+Coin Scenario 2
+ROUND 1
+
+ROUND 2
+
+PAYOFF
+
+(£100 coin)
+
+(20 pence)
+
+(in pence)
+
+Heads (+10,000)
+
+Heads (+20)
+
++1020
+
+Heads (+10,000)
+
+Tails (-20)
+
++980
+
+Tails (-10,000)
+
+Heads (+20)
+
+-980
+
+Tails (-10,000)
+
+Tails (-20)
+
+-1020
+
+Payoff is (10% x outcome of round 1) + outcome of round 2
+
+The payoff is now equal to the 20-pence outcome of the second round plus or minus ten pounds. In this
+case, the outcome of the second toss, instead of the first, has a negligible impact on the payoff. The
+correlation between the first round and the payoff is now almost one (99.98% to be exact).
+
+The critical point of this exercise is that in both the penny and the £100 scenario, the effect of the result or
+‘shocks’ from the first toss to the payoff is always ten percent. The correlation coefficient, however, increases
+from almost zero in the penny scenario to almost one in the £100 scenario.
+
+This coin example is directly applicable to measuring the transmission of shocks across countries. The first
+coin toss represents a country which goes through periods of low volatility in its returns or growth (when the
+first toss is with the penny) or high volatility (when the first toss is with the £100 coin). You can think of the
+low volatility game with the penny as a stable period, while getting a tails in the high-volatility game with a
+£100 coin is when a crisis occurs. The second toss represents the second country; this round is always
+played with a 20-pence coin, but the payoff (i.e. the final equity return in the second country) depends on the
+outcome in the first country. As the coin example clearly shows, even though the underlying transmission
+mechanism from the first country to the second country remains constant (at 10 percent) in both scenarios,
+the correlation in returns increases significantly after the crisis outcome. Correlation coefficients increase –
+but there is no fundamental change in how the countries commove or how the shocks from the first country
+are propagated to the second.
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+This statistical fact that greater volatility automatically causes correlations to increase – and heat maps to get
+hotter – is undoubtedly a factor driving the sharp increase in both equity and growth correlations during the
+Global Financial Crisis. Markets were extremely volatile during this period.
+
+But could greater volatility and this statistical property also be driving the broader increase in equity market
+comovement since the 1980s? Could it be driving the increase in growth comovement in the euro area?
+A quick way to test if this could be a factor is to simply look at the volatility in equity markets, GDP growth
+and the euro area over time. If volatilities did not increase when correlations increased, then this statistical
+‘coincidence’ is not the main story.
+
+Figure 8 therefore graphs the volatility in equity returns and GDP growth (measured by 5-year rolling
+standard deviations) for the full sample and different country groups. It confirms that the volatility in each of
+these measures increased during the Global Financial Crisis, and that this drove at least some of the
+‘warming’ in the heat maps and increase in the correlations over this period. Volatility in the euro area is
+slightly higher than in the other country groups – suggesting this may play a small role in explaining the
+higher correlations in equity and GDP growth in this region recently.
+
+Most striking about these graphs, however, is the low levels of volatility since the Crisis for both equities and
+GDP growth. In fact, volatility has recently been no greater than typically observed from 1985 through 2005.
+This suggests that increased volatility is not driving the longer term trend of equity markets moving together
+more tightly over time. It does not even seem to closely mirror the changes in correlations in GDP growth
+within the euro area. Deeper economic currents seem to be at play.
+
+B. Common Shocks
+
+Another potential explanation for the changes in comovement in equity markets and GDP growth over time is
+changes in the role of common shocks. Are there global events (such as swings in oil prices, changes in
+global risk aversion, adjustments in US monetary policy, or changes in China’s economic outlook), that
+simultaneously affect many countries around the world and cause their equity markets to move in sync? Are
+these waves affecting countries around the world getting bigger? Or do these types of events simply have
+more of a global impact on equity markets than in the past? For example, has China’s rapid development
+and progress to become the second largest economy in the world caused it to have greater global effects
+than in the past? Or are more countries’ equities being affected by these global events in the same way? In
+other words, does the global tsunami now travel further and catch more countries in its wake?
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+To better understand these potential roles of common shocks in explaining some of the patterns we saw
+earlier, I will use a methodology called rolling principal component analysis. Don’t worry, the name is more
+intimidating than the concept. What this basically involves is estimating how much of the movement in
+countries’ equity returns (or growth rates) can be explained by some ‘common’ or shared factors at each
+point in time. You can estimate the role of the single most influential common factor, or of all common factors
+that are judged to be important (setting a threshold for what qualifies as important). Then, after estimating
+this common factor (or factors) – it is straightforward to estimate not only the average country sensitivity to
+this factor(s), but also the dispersion of sensitivities across countries. This is a rough way of measuring
+whether greater comovement is driven by bigger common shocks, by greater sensitivity of countries to these
+shocks that originate elsewhere, or by more similar responses to the global shocks.
+Figure 9 shows the result. It shows the share of the variance in countries’ equity returns (panel a) and GDP
+growth (panel b) that can be explained by shared common factors (principal components). These include all
+common factors that play an important role – based on a standard statistical threshold used in this type of
+6
+
+analysis. More and more of the movement in countries’ equity markets correspond to these shared, global
+components over time. In fact, the upward trend in the graph of the common components roughly mirrors
+that for the correlation in equity markets over time. For GDP growth, there is less upward trend in the
+common components (except in the euro area). But the role of these common components spikes for all the
+country groups during the Global Financial Crisis. Therefore, the patterns in the common components for
+both equities and GDP growth roughly mirror the patterns seen for the changes in cross-country correlations
+over time and between the different country groups.
+
+This suggests that shared global or common factors play an important role in explaining the increased
+comovement in global equity markets over time, as well as the increased comovement in GDP growth rates
+during the Crisis and in the euro area. This agrees with results obtained in a series of academic papers using
+7
+
+a range of different methodologies. But it still leaves important questions. When the role of the common
+factors increases, is it due to larger common shocks (i.e. larger waves), a greater sensitivity of countries to
+these common waves, or a more similar response to the common waves? And what is driving these common
+waves?
+
+Starting with the first of these questions, the magnitude of the common shocks appears to be a significant
+contributor to the higher degree of cross-country comovement. Figure 10a shows that the volatility of
+6
+
+Common factors are defined as principal components that affect more than one country for the full period from 1980-2016, with an
+eigenvalue greater than 1. This definition is standard, see Cesa-Bianchi et al. (2016) for a recent application. For further details, see the
+notes to Figure 9.
+7
+For example, papers which find that global factors explain an important part of the variance in asset market returns include: Forbes
+and Warnock (2012), Bruno and Shin (2015), and Miranda-Agrippino and Rey (2015). Fratzscher (2012) and
+Milesi-Ferretti and Tille (2011) also find that global ‘push’ factors (basically common factors) were the dominant factor driving portfolio
+flows during the Global Financial Crisis, but other country-specific factors have been more important since.
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+common factors behind equity returns has increased since the 1980s and can explain some of the larger
+share of variance explained in Figure 9.a. Figure 10b shows that the volatility of the common factors driving
+GDP growth is much more stable, except for a large increase during the Global Financial Crisis.
+
+Figure 11 tackles the other possible explanations for the increased role of the common factors, focusing on
+results for the full sample (with results for the different country groups in the Appendix). The black lines show
+the average sensitivity of countries’ equity returns (panel a) and GDP growth rates (panel b) to the most
+important common factors. In technical terms, this is the average absolute loading on the principal
+components. The magnitude of this sensitivity to common factors has increased somewhat over time for
+equities, and more sharply for GDP growth during the crisis, but the movements overall have been fairly
+small – especially when compared to the changes seen in the other graphs. This implies that the impact of
+the common shocks has been fairly constant or only changed moderately.
+
+More striking is the movements in the red lines. These capture the extent to which these common factors
+affect the different countries in different ways. In technical terms, this is the standard deviation of the loading
+of the principal components. The steady decline in this line for equities indicates that the common factors are
+affecting more and more countries in a similar way. In other words, an event such as changes in oil prices is
+now having more similar effects on equity markets around the world. In the past, the effect of a given change
+in oil prices used to be more differentiated across countries. The corresponding graph for GDP growth (in
+panel b), shows that these common factors also had more similar impacts on countries’ GDP growth rates
+during the crisis than before – but this seems to have just been a temporary increase. (The graphs in the
+Appendix also show that countries in the euro area are affected in a more similar way by common shocks
+than in the past.)
+
+To summarize, common shocks appear to be an important part of the story explaining the patterns I started
+with today. The common waves affecting equity markets around the world have gotten larger, and these
+waves seem to be reaching out further than in the past to wash over more countries in similar ways. The
+common waves affecting GDP growth have been more stable in size, and continue to reach different
+countries in different ways (except during the Crisis and in the euro area, when the waves seemed to catch
+more countries in their wake.)
+
+But what is behind these common waves? Although economists have a clear idea of what they view as a
+common shock, it is much harder to actually identify, isolate, and estimate in practice. For example – does a
+sharp fall in oil prices (which tends to affect many countries simultaneously) reflect some sort of change in oil
+supply (such as from increased US shale production)? Or increased energy efficiency? Or slower growth in
+China? The latter is more of a country-specific shock in one country (China) – which then spreads to others
+and is often called ‘contagion’ (and is discussed in the next section).
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+Despite these challenges, I’ll extend the analysis we just did to try to get a better sense of what is behind
+these common shocks (or principal components). I’ll estimate a simple regression of the most important
+common factor (the first principal component) for the full sample period and the full set of countries as a
+function of several possible factors that could be driving it: commodity prices, global risk, US interest rates,
+surprises to expected global growth, and surprises to China’s growth.
+
+8
+
+Figure 12 shows the results. Column 1 uses data from 1985 through July-2016, but only includes the first
+three global variables. Column 2 includes all five variables, but only starts in 2004 (which is the earliest date
+for the two economic surprise indices). Both columns yield the same results: changes in commodity prices,
+global risk, and US interest rates all seem to be significant and important factors driving common shocks to
+equity markets over this long period of time.
+
+What is perhaps more interesting, however, is how these estimates of the common factors affecting equity
+markets change over time. This is shown in the last three columns of Figure 12. Changes in US interest rates
+seems to have played a less important role recently – although this may reflect the long period during which
+US interest rates have been fairly stable and may not persist. In contrast, the role of economic surprises in
+China has become more important in the most recent window (from 2012 to 2016). This suggests that the
+main forces driving the common factors affecting global equity markets have been changing over time.
+
+What about for GDP growth? A similar analysis attempting to explain the single most important common
+factor driving GDP growth in the sample finds no consistently significant factors – over the full period or for
+shorter windows. This is not surprising. There is much less comovement in GDP growth than in equities. The
+variance of countries growth rates that can be explained by the most important common factor (the first
+principal component) is also much lower for GDP growth than equities (as shown in Figure 13). Regression
+results suggest that the role of the common factor increased during the Global Financial Crisis, and this is
+correlated with sharply higher global risk aversion and a greater impact of this common factor on countries
+around the world. During other periods, however, since there is much less comovement in global GDP
+growth rates, it is not surprising that common global factors play little consistently significant role.
+To summarize, common global factors – which are highly correlated with changes in commodity prices,
+global risk measures, US interest rates, and China’s economic growth – have all played some role in
+explaining the high levels of comovement in equity prices. The role of China has increased recently.
+
+8
+
+These variables were selected based on the academic evidence, such as: Forbes and Warnock (2012), Forbes (2013), Koepke
+(2015), and Miranda-Agrippino and Rey (2015). They capture the idea that common factors driving equity returns across countries might
+include expectations of monetary policy and economic growth in large economies, as well as changes in investor risk aversion (or, more
+formally, time-varying equity risk premia).
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+Changes in these global variables are affecting more countries around the world in similar ways than in the
+past. The global wave is catching more and more fishermen.
+
+C. Contagion
+
+In addition to common shocks, contagion may also play a role in explaining increased comovement in equity
+markets around the world, as well as increased comovement in GDP growth during the Crisis and in the euro
+area more recently. Economists have argued extensively about how to define contagion, but the latest
+9
+
+working definition is when bad news in one country spreads to others. This is the same idea as the use of
+the term contagion in the medical literature; when a disease spreads from one person to others. In the
+context of the tsunami example, this is basically when a big wave starts in one country (instead of in a
+common ocean) and then hits others. Since good news lifts all boats – but the bad news of a disease or
+tsunami can be deadly – policymakers usually only use the term contagion to explain the spread of bad
+economic news.
+
+Contagion has always been a concern globally.
+
+10
+
+For example, in 1825 a banking crisis started in Britain and
+
+quickly spread to continental Europe and then to Latin America. In 1857 the direction of transmission
+reversed, when a banking panic in the United States spread to the United Kingdom, continental Europe, and
+then regions as far away as South America, South Africa and the Far East. But has this tendency for bad
+news to spread globally increased over time? Could this explain some of the comovement patterns
+documented earlier?
+To better understand if bad news tends to spread more widely than in the past, a useful measure is the ‘joint
+coincidence of extreme negative returns’.
+
+11
+
+Yes – that is a mouthful. Yes – it sounds as bad as what it is
+
+trying to capture. But the actual statistic it represents is less complicated than the name. To calculate this
+statistic, you need to first decide what you think qualifies as a ‘very bad’ event, i.e. an extreme negative
+return. I typically use the definition of events in the bottom 5% of the distribution, i.e. the 5 worst episodes of
+whatever you are looking at out of every 100. Then you calculate what percent of the countries in your
+sample have this ‘very bad event’ at the same time. That’s all. It’s a succinct way of capturing what fraction of
+countries are all being hit by the tsunami at the same time.
+Figure 14 shows this measure – the share of the sample that has an extreme negative equity return or
+growth rate –in each week since 1980 for equity markets (panel a) and each quarter for GDP growth (panel
+9
+
+See Forbes (2013) for a discussion of different definitions of contagion and a shift towards this working definition.
+Other papers providing analysis of financial market contagion include: Allen and Gale (2000), Claessens and Forbes (2001),
+Karolyi (2003), Forbes (2004), and Dungey et al. (2010).
+10
+See Kindleberger (1989) and Bordo and Murshid (2001) for historic examples of financial panics spreading globally.
+11
+For additional work developing this framework of using the joint coincidence of extreme negative returns to measure contagion, see:
+Bae et al. (2003), Forbes (2013), and Londono (2016).
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+b). I’ll just focus on results for the full sample, as results are similar for the different subgroups (albeit with
+slightly more extreme negative returns recently in the euro area). If countries’ extreme negative returns are
+purely independent (i.e. they result purely from idiosyncratic shocks and are not related to events in other
+countries or global shocks), then about 5 percent of the sample should experience extreme negative returns
+in each period.
+
+That is clearly not the case. There is nothing close to a steady line of bars equal to 5 percent. Instead, there
+is substantial volatility in the bars and several spikes when a large percentage of the sample has extreme
+negative returns. For example, during the Global Financial Crisis, about 90% of the countries in the full
+sample had an extreme negative equity return and about 70% had an extreme negative quarter of growth.
+When countries experience bad economic news, they are often not alone.
+
+A closer look also suggests some subtleties. The bars are larger for equities than GDP growth, suggesting
+that bad news is more likely to occur simultaneously in equity markets than in growth rates. The large bars
+also seem to be more common later in the sample than earlier for equity returns – suggesting bad news is
+more likely to occur simultaneously now than in the past. In contrast, for GDP growth there does not appear
+to be an increase in extreme negative returns later in the sample, except for the period around the Global
+Financial Crisis. During bad times, equity markets seem to move together more tightly than GDP growth
+rates – just as occurs during longer periods that include both good and bad times.
+
+But the bars also bounce around so much that it is difficult to draw strong conclusions; it is also difficult to
+compare results for equity markets and growth rates as the first is based on weekly data, while the latter is
+based on quarterly data. Therefore, Figure 15 tries to make these comparisons more precise by reporting the
+five-year rolling average of extreme negative returns for as long as the data is available. The percent of the
+full sample experiencing extreme negative equity returns increased steadily over the 1980s, then again at
+the end of the 1990s, and then even higher at the end of the 2000s. It has since fallen back to below the
+level of the 1990s – and even lower for emerging markets. The same graph for GDP growth (panel b) shows
+the expected increase in the number of extreme negative returns in the late 2000s around the Global
+Financial Crisis, but then an even sharper decline to below the levels of the 1980’s – for the full sample and
+each subgroup (except the euro area). There have recently been an unusually low number of countries
+simultaneously experiencing extremely low equity returns or growth rates. The waters have recently been
+fairly calm.
+
+This evidence that contagion has recently been more moderate than in the past could reflect a number of
+different factors. It could simply be the ‘calm before the storm’ – with a round of contagion coming soon. It
+also could reflect the fact that there has been less ‘very bad news’ that originates in individual countries and
+spreads or is driven by the common, global variables. Or countries could be more resilient to bad news that
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+originates elsewhere (something we will explore in more detail below). Overall, the evidence that contagion
+has not recently increased in equity markets suggests that it has played a less important role than common
+factors in explaining the trend of increased equity market comovement over time. The higher levels of
+contagion in both equities and GDP growth in the euro area and during the Global Financial Crisis, however,
+suggest that contagion has played some role in explaining the higher levels of comovement in these
+countries and during this crisis period.
+To better understand what drives these extreme negative events – and therefore better understand when
+and how contagion occurs – I will build on the regression analysis I just showed you attempting to explain the
+factors behind the common shocks. Now, however, I will attempt to explain the probability that a country has
+an extreme negative return. Table 16, column 1, shows the results for equity markets.
+
+12
+
+It finds that the three
+
+variables driving the common shocks (changes in commodity prices, global risk, and US interest rates) also
+play a role in explaining whether a country has a sharp fall in its equity market. The results also include a
+new variable – the percent of the rest of the sample with an extreme negative equity return at the same time.
+This variable is a measure of contagion and is consistently important – suggesting that a country is more
+likely to have a sharp fall in its equity markets if a higher share of other countries are also experiencing sharp
+falls. Contagion is estimated to be important even after controlling for the variables driving global, common
+shocks. The importance of contagion holds when the estimates are repeated for different time periods –
+although the importance of the different global variables tends to change over time.
+If I repeat the analysis for growth rates, results are more mixed – as occurred when analysing the common
+shocks driving GDP growth around the world. The contagion variable is significant in explaining periods of
+sharply lower GDP growth during the Global Financial Crisis, but often not in other periods. This is not
+surprising given the earlier graphs of the extreme negative returns. There are few periods when a large
+number of countries have sharp falls in growth simultaneously, and a low comovement in GDP growth rates
+during all periods except during the Global Financial Crisis. One would not have expected to see strong
+contagion effects outside of this window.
+To summarize, the evidence in this section suggests that contagion – when bad news in one country (or
+region) affects others – has played some role in explaining the increased comovement in GDP growth rates
+during the crisis, and higher levels of comovement in equity markets during all periods. Although contagion
+does not appear to explain the increased comovement in equity markets over time, it is still important after
+controlling for the effects of common shocks. Large waves – whether they start in the global ocean or in a
+specific country – can play powerful roles in causing sharp falls in equity markets and GDP growth. It is no
+
+12
+
+Because extreme negative returns occur irregularly (95 percent of the sample is zeros), these equations are estimated using the
+complementary logarithmic (or cloglog) framework, which uses the cumulative distribution function (cdf) of the extreme value
+distribution. Standard errors are also clustered by country.
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+16
+
+surprise that countries often feel as powerless against these forces as the fishermen in Hokusai’s famous
+print.
+
+3. How do Countries Strengthen their Boats against Contagion and Common Shocks?
+
+What can countries do to protect themselves against these large waves that originate elsewhere? What
+characteristics make a country’s boat more resilient to these forces?
+There are many country characteristics and policies that might make a country more or less vulnerable. I’ll
+just focus on three that have received substantial attention in the academic literature and the policy world:
+openness to trade, openness to capital flows, and bank regulation. More specifically, are countries more
+vulnerable to shocks that originate outside their borders if they are more open to trade or capital flows? Or if
+they have more leveraged and less well capitalized banking systems? Since countries tend to worry more
+about how common shocks and contagion negatively affect them (and less so when they benefit), I’ll focus
+on how these three characteristics make countries more likely to have sharp falls in their equity markets or
+sharp slowdowns in growth.
+13
+
+Columns 2 through 5 of Figure 16 show the results for equity markets. This uses the same framework used
+to predict when a country has a sharp negative equity return, but now includes interaction variables to see if
+trade, financial openness, or banking leverage make a country more vulnerable to sharp negative equity
+returns that occur elsewhere. I continue to control for the common shocks. The results are intuitive and agree
+with the findings in the academic literature. Each of the three country characteristics matter and can affect
+how vulnerable countries are to events that originate elsewhere.
+
+14
+
+Countries that trade more and that are
+
+more financially open are more affected by bad news in other countries. Other work has shown that these
+effects tend to be larger if the bad news originates in countries which are more closely linked through trade
+flows, export competition in third markets, or banking flows.
+
+15
+
+Countries with more leveraged financial
+
+systems are also significantly more vulnerable to bad news from abroad.
+
+This last result is worth highlighting. Over the last few years, evidence has been accumulating that countries
+with rapid domestic credit growth and higher leverage are more vulnerable to sharp economic slowdowns
+and financial crises. Although rapid credit growth and leverage can initially contribute to economic booms
+13
+
+The equation estimated is:
+p𝑟𝑜𝑏(𝐸𝑁𝑅𝑖𝑡 = 1) = 𝐹(𝛽 ∗ 𝐺𝑙𝑜𝑏𝑎𝑙𝑡 + 𝛾1 ∗ 𝐸𝑁𝑅𝑡𝐴𝑙𝑙 𝑇𝑟𝑎𝑑𝑒𝑖𝑡 + 𝛾2 ∗ 𝐸𝑁𝑅𝑡𝐴𝑙𝑙 𝐵𝑎𝑛𝑘𝐿𝑒𝑣𝑒𝑟𝑎𝑔𝑒𝑖𝑡 + 𝛾3 ∗ 𝐸𝑁𝑅𝑡𝐴𝑙𝑙 𝐹𝑖𝑛𝑂𝑝𝑒𝑛𝑛𝑒𝑠𝑠𝑖𝑡 ) , where 𝐸𝑁𝑅 is a
+dummy equal to one if country i has an extreme negative return in equities or GDP growth in period t. This is estimated using the
+complementary logarithmic (cloglog) framework, with standard errors clustered by country. 𝑇𝑟𝑎𝑑𝑒 is measured as
+(exports+imports)/GDP. 𝐹𝑖𝑛𝑂𝑝𝑒𝑛𝑛𝑒𝑠𝑠 is measured using the normalized Chinn-Ito measure of capital account openness. 𝐵𝑎𝑛𝑘𝐿𝑒𝑣𝑒𝑟𝑎𝑔𝑒
+is the ratio of domestic banks’ claims on the private sector to the value of demand, time, savings and foreign currency deposits, using
+data from the IMF International Financial Statistics database.
+14
+See Forbes (2013).
+15
+See Van Rijckeghem and Weder (2001), Forbes (2004), Forbes and Warnock (2012) and Cesa-Bianchi et al. (2016).
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+17
+
+and faster growth, they also make a country more vulnerable to bad news.
+
+16
+
+Even if the bad news does not
+
+seem important enough to have macroeconomic effects, it can be amplified by highly-leveraged banks that
+need to cut back lending and unwind positions elsewhere.
+
+17
+
+The more leveraged a financial institution, the
+
+greater reductions it needs to make in its other loans and positions, leading to what has been called
+‘liquidation spirals’ or a ‘diabolic loop’. Allen et al. (2012) show how this can, in turn, aggravate contagion and
+increase systemic risk. The bottom line is that when a period of unsustainable credit growth ends and this
+deleveraging begins, it is magnified in countries with less well capitalized financial systems and can
+correspond to painful adjustments in consumption, investment, and overall demand and growth.
+
+What does all of this imply for countries hoping to reduce their vulnerability to contagion and common
+shocks? This is far from the detailed analysis that would be required to support major policy changes – but it
+does raise three areas that countries could consider: trade, financial openness and banking leverage.
+
+It might be tempting to interpret these results as suggesting that countries should limit their openness to
+trade or financial flows in an effort to reduce their vulnerability to contagion. Such a leap of logic, however,
+would ignore the many benefits that trade and capital flows bring to a country.
+
+A long literature has documented the substantial benefits of trade, and it is unlikely that the potential
+reduction in future contagion through trade would outweigh these substantial benefits. Moreover, contagion
+through trade is usually more moderate, predictable, and gradual than other forms of contagion; exports
+generally adjust slowly to changes in relative prices and incomes. Policymakers therefore have more time to
+respond to contagion through trade using traditional macroeconomic tools to facilitate any necessary
+adjustment.
+
+There is more disagreement on the benefits of open capital accounts and free capital flows. Although capital
+flows can bring substantial benefits, their volatility and tendency to swing from ‘surges’ to ‘stops’ can also
+create substantial economic challenges, especially in countries with less developed and more leveraged
+financial systems.
+
+18
+
+The costs and benefits of capital flows also depend on a number of factors that are not
+
+included in this analysis – such as the type of flow (with foreign direct investment having greater net benefits
+than debt flows), the duration of the flow (with longer term flows being less vulnerable to sudden swings),
+and the currency composition of the flow (with domestic currency flows presenting less risk related to
+exchange rate movements). Therefore, any full assessment of the desirability of limiting capital account
+
+16
+
+For risks related to rapid credit growth, see Gourinchas and Obstfeld (2012) and Schularick and Taylor (2012). For banks and
+contagion, see: Van Rijckeghem and Weder (2001), Cetorelli and Goldberg (2011, 2012), Allen et al. (2009), and Shin (2012).
+17
+Greenwood et al. (2011), Van Wincoop (2011), and Shin (2012) show how negative shocks to banks are magnified in the presence of
+leverage, causing an even greater reduction in loans and unwinding of positions.
+18
+See Forbes (2007) and an excellent discussion of the issues in Coeuré (2016).
+18
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+18
+
+openness in order to reduce a country’s vulnerability to contagion needs to go much deeper than the simple
+analysis presented here.
+
+19
+
+The final policy result, however, appears more straightforward. Reducing bank leverage and strengthening
+banking systems can significantly limit a country’s vulnerability to contagion and shocks that originate
+elsewhere. These steps can not only reduce contagion, but also reduce domestic risks and risks related to
+international capital flows. Simulations suggest that the impact of stronger bank regulation and tighter
+leverage requirements on reducing the likelihood of banking crises and the negative effects when banks do
+get into difficulty can be substantial.
+
+20
+
+Granted, this policy would also have costs, such as restricting the
+
+availability of credit and the profitability of the banking system.
+
+But for moderate levels of leverage, these costs are unlikely to be outweighed by the substantial benefits,
+including reducing country vulnerability to contagion.
+
+4. Conclusions and implications for the UK monetary captains
+
+These comments have covered a lot of ground—a rapid voyage through country comovement, common
+shocks, contagion and coincidence. Hopefully this voyage has left you with a few memories – even if not
+photos. Although countries are constantly buffeted by events outside their shores, these effects are greater
+for financial markets than incomes and growth. Countries’ equity markets move together much more tightly
+than in the past – but this is not true for GDP growth. In fact, it is quite striking that despite the high levels of
+global integration through trade and capital flows, and despite the strong comovement in many financial
+markets, GDP growth rates generally seem to be driven by different winds.
+
+There are some periods and regions where GDP growth rates do move more in sync, however, such as
+during the Global Financial Crisis and today in the euro area. Moreover, movements in financial markets will
+have important effects on incomes and growth over time, especially if they persist. When do countries
+become more synchronized? The analysis here suggests that common shocks play an important role,
+especially changes in global risk measures, global commodity prices, US monetary policy, and more recently
+changes in China’s economic outlook. Contagion (when the bad news originates in a specific country or
+countries) has also played a role, but has been less important than global events in driving the increased
+synchronization in equity markets over time. Perhaps most important, countries worried about the effects of
+these common shocks and contagion need not despair. Steps such as reducing bank leverage and
+strengthening financial systems appear to be powerful in terms of increasing their resilience to these adverse
+winds blowing from abroad.
+19
+20
+
+For example, see Hoggarth, Jung and Reinhardt (2016).
+Greenwood et al. (2011), Brooke et al., (2015) or Haldane and Madouros (2012).
+19
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+19
+
+These results have a number of implications for the United Kingdom and UK monetary policy. Recent steps
+to strengthen the UK financial system, such as measures to tighten capital requirements, leverage ratios,
+and liquidity buffers, should make the UK more resilient to shocks that originate elsewhere. Global events will
+continue to affect the UK, but they should be less likely to translate into ‘extreme negative events’, especially
+in terms of sharply lower growth rates. This will be particularly important over the next few years as the UK
+manages its transition to a new trade regime and new relationship with the European Union. UK monetary
+policy will have more flexibility to focus on the domestic effects of this transition and worry less about the
+amplification of negative events abroad.
+
+Moreover, the initial effect on the UK economy of the referendum has been less stormy than many expected.
+Uncertainty in the run-up to the vote created less drag, meaning that the UK went into the summer with more
+underlying momentum in domestic demand in Q2 than previously believed. The survey data has been
+extremely volatile – volatility that makes capital flow volatility look mild – and may continue to ebb and flow
+based more on political than economic news. The commercial property market and housing market are
+weaker (although some of this softening preceded the vote). There is some evidence that companies are
+delaying major investments – which could lead to weaker employment, wages, output, and productivity
+growth in the future. But these forces have been partially balanced by strong consumer spending. Net
+exports are also poised to pick up and provide some support to the economy.
+
+The aggregate impact of all of these forces appears to be a modest slowing in the economy to date, one
+which I believed merited a modest easing in monetary policy this August. I felt that a decrease in Bank Rate,
+combined with a new Term Funding Scheme to deliver lower borrowing costs, would provide sufficient
+stimulus based on the data available at that time. I felt that the costs of additional easing through asset
+purchases were greater than the benefits, and therefore did not support additional programs of government
+and asset purchases. Now that these new asset purchase programs have been announced, however, I will
+not be voting against them each month. This is not because I have changed my assessment of these
+programs, but rather that I believe the Monetary Policy Committee should not reverse a programme where
+purchases are already underway and agreed on by the majority, barring a substantial change in economic
+circumstances.
+
+Looking forward, I am not yet convinced that additional monetary easing will be necessary to support the
+economy. The behaviour of UK consumers and businesses, and evolution of prices, will be critically
+important in determining the appropriate action. Will consumers continue to be as resilient to the clouds of
+uncertainty about their relationship with the EU as they are to the frequent clouds and light rain outside? Will
+businesses continue to hire and avoid reducing their workforces? Will wages and domestic costs continue
+their gradual increase towards levels consistent with the 2% inflation target? How much and for how long will
+inflation be pushed up by the increase in import prices arising from sterling’s depreciation? And even if the
+20
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+20
+
+UK manages modest growth and a restrained increase in domestic prices over the next few quarters, will
+there be any negative events originating abroad that present risks?
+Which way these winds blow will determine the appropriate stance of monetary policy in the future. For now,
+however, the economy is experiencing some chop, but no tsunami. The adverse winds could quickly pick up
+– and merit a stronger policy response. But recently they have shifted to a more favourable direction.
+Returning to Hokusai’s famous series of prints, although there is no “Great Wave”, there is also unlikely to be
+a period of calm as in his “Under Mannen Bridge at Fukagawa”. (Figure 17a). Instead, a more likely outcome
+is his “Shore of Tago Bay” (Figure 17b). The fishermen in the boat need to stay vigilant, and may already be
+a bit seasick from the chop they have already encountered, but if the current weather continues, they should
+be able to sail home without more aid.
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+21
+
+References
+
+Franklin Allen, Babus, Ana and Elena Carletti. (2009). "Financial Crises: Theory and Evidence," Annual
+Review of Financial Economics, vol. 1(1), pp. 97-116.
+Allen, Franklin, and Douglas Gale. (2000). ‘Financial Contagion.’ Journal of Political Economy 108 (1),
+pp. 1-33.
+Bae, Kee-Hong, G. Andrew Karolyi, and René Stulz. (2003). ‘A New Approach to Measuring Financial
+Contagion.’ Review of Financial Studies 16, pp. 717–763.
+Bordo, Michael, and Antu Murshid. (2001). ‘Are Financial Crises Becoming More Contagious?: What is the
+Historical Evidence on Contagion.’ In International Financial Contagion, edited by Stijn Claessens and Kristin
+Forbes. Boston, MA: Kluwer Academic Publishers, pp. 367-406.
+Brooke, Martin, Oliver Bush, Robert Edwards, Jas Ellis, Bill Francis, Rashmi Harimohan, Katharine Neiss,
+and Caspar Siegert. (2015). ‘Measuring the Macroeconomic Costs and Benefits of Higher UK Bank Capital
+Requirements.’ Bank of England Financial Stability Paper No. 35.
+Bruno, Valentina and Hyun Song Shin. (2015). ‘Cross-Border Banking and Global Liquidity.’
+Review of Economic Studies 82(2), pp. 535–564.
+Cesa-Bianchi, Ambrogio, Jean Imbs and Jumana Saleheen. (2016). ‘Finance and Synchronization’,
+Bank of England Staff Working Paper No. 612.
+Cetorelli, Nicola and Linda S Goldberg. (2011). "Global Banks and International Shock Transmission:
+Evidence from the Crisis," IMF Economic Review, vol. 59(1), pp. 41-76.
+Cetorelli, Nicola and Linda S. Goldberg. (2012). "Liquidity Management of U.S. Global Banks: Internal
+Capital Markets in the Great Recession.” Journal of International Economics, vol. 88(2).
+Claessens, Stijn, and Kristin Forbes, eds. (2001). International Financial Contagion. Boston: MA: Kluwer
+Academic Publishers.
+Coeuré, Benoit. (2016). ‘The Case for Rethinking International Capital Flows.’ Speech given at the
+ECB/SUERF/PSE/CEPII conference on ‘Rethinking Capital Controls and Capital Flows,’ Sept. 15.
+Dungey, Mardi, Renée A. Fry, Brenda González-Hermosillo, and Vance Martin. (2010). Transmission of
+Financial Crises and Contagion: A Latent Factor Approach. New York: Oxford University Press.
+Forbes, Kristin. (2013). ‘The ‘Big C’: Identifying and Mitigating Contagion.’ The Changing Policy Landscape.
+2012 Jackson Hole Symposium hosted by the Federal Reserve Bank of Kansas City, pp. 23-87.
+Forbes, Kristin. (2007). ‘The Microeconomic Evidence on Capital Controls: No Free Lunch.’ In Sebastian
+Edwards, ed. Capital Controls and Capital Flows in Emerging Economics: Policies, Practices, and
+Consequences. Chicago: University of Chicago Press, pp. 171-199.
+Forbes, Kristin. (2004). ‘The Asian Flu and Russian Virus: The International Transmission of Crises in
+Firm-Level Data.’ Journal of International Economics 63 (1), pp. 59-92.
+Forbes, Kristin, and Roberto Rigobon. (2002). ‘No Contagion, Only Interdependence: Measuring Stock
+Market Co-Movements.’ Journal of Finance 57(5), pp. 2223–2261.
+
+22
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+22
+
+Forbes, Kristin, and Roberto Rigobon. (2001). ‘Measuring Contagion: Conceptual and Empirical Issues.’ In
+International Financial Contagion, edited by Stijn Claessens, and Kristin Forbes. Boston, MA: Kluwer
+Academic Publishers, pp. 43-66.
+Forbes, Kristin and Francis Warnock. (2012). ‘Capital Flow Waves: Surges, Stops, Flight, and
+Retrenchment.’ Journal of International Economics 88(2), pp. 235–251.
+Fratzscher, Marcel. (2012). ‘Capital Flows, Push versus Pull Factors and the Global Financial Crisis.’ Journal
+of International Economics 88(2), pp. 341–356.
+Gourinchas, Pierre-Olivier and Maurice Obstfeld. (2012). ‘Stories of the Twentieth Century for the
+Twenty-First’. American Economic Journal: Macroeconomics 4(1), pp. 226-265.
+Greenwood, Robin, Augustin Landier, and David Thesmar. “Vulnerable Banks.” TSE Working Paper 11-280,
+Toulouse School of Economics, November 2011.
+Haldane, Andy and Vasileios Madouros. (2012). ‘The Dog and the Frisbee’, The Changing Policy
+Landscape. 2012 Jackson Hole Symposium hosted by the Federal Reserve Bank of Kansas City,
+pp. 109-159.
+Hoggarth, Gelnn, Carsten Jung, and Dennis Reinhardt. (2016). “Capital Inflows - The Good, the Bad, and the
+Bubbly.” Bank of England Financial Stability Working Paper. Forthcoming.
+Karolyi, G. Andrew. (2003). ‘Does International Finance Contagion Really Exist?’ International Finance 6(2),
+pp. 179-199.
+Karolyi, G. Andrew, and René M. Stulz. (1996). ‘Why do markets move together? An investigation of U.S.Japan Stock Return Comovements.’ The Journal of Finance 51, pp. 9510986.
+Kindleberger, Charles. 1989. Manias, Panics and Crashes: A History of Financial Crises. New York, NY:
+Basic Books.
+Koepke, Robin. (2015). ‘What Drives Capital Flows to Emerging Markets? A Survey of the Empirical
+Literature.’ Institute of International Finance, mimeo.
+Londono, Juan. (2016). ‘Bad Bad Contagion.’ International Finance Discussion Papers No. 1178, Board of
+Governors of the Federal Reserve System (Sept).
+Milesi-Ferretti, Gian-Maria and Cédric Tille. (2011). ‘The Great Retrenchment: International Capital Flows
+during the Global Financial Crisis.’ Economic Policy 66, pp. 389-346.
+Miranda-Agrippino, Silvia and Hélène Rey. (2015). ‘World Asset Markets and the Global Financial Cycle.’
+Working paper.
+Schularick, Moritz and Alan Taylor. (2012). ‘Credit Booms Gone Bust: Monetary Policy, Leverage Cycles and
+Financial Crises, 1870-2008’. American Economic Review 102(April), pp. 1029-61.
+Shin, Hyun Song. “Global Banking Glut and Loan Risk Premium.” IMF Economic Review 60, no. 2 (2012):
+155-192
+Van Rijckeghem, Caroline, and Beatrice Weder. (2001). ‘Sources of Contagion, is it Finance or trade?’
+Journal of International Economics 54(2), pp. 293-308.
+Van Wincoop, Eric. (2011). ‘International Financial Contagion Through Leveraged Financial Institutions.’
+NBER Working Paper No. 17686, National Bureau of Economic Research.
+23
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+23
+
+Figure 1. The Great Wave off Kanagawa by Katsushika Hokusai
+
+Figure 2. FTSE 250 index and Euro Stoxx index
+FTSE 250 (LHS)
+20000
+
+DJ EURO STOXX (RHS)
+
+19000
+
+400
+
+EU referendum
+date
+announcement
+
+EU
+referendum
+
+380
+360
+
+18000
+340
+17000
+320
+16000
+300
+
+07/2016
+
+05/2016
+
+03/2016
+
+01/2016
+
+11/2015
+
+09/2015
+
+07/2015
+
+260
+05/2015
+
+14000
+03/2015
+
+280
+
+01/2015
+
+15000
+
+24
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+24
+
+Figure 3. Changes in equity indices during periods of stress
+b. Global Financial Crisis
+
+-60%
+
+Note: ‘Asian crisis countries’ include: Thailand, Philippines,
+Indonesia, Malaysia, Hong Kong, South Korea, and Taiwan.
+‘Other AEs’ excludes AEs in the EA and Asian crisis AEs.
+‘Other EMEs’ excludes Asian crisis EMEs.
+
+07/06/2008
+
+09/05/2009
+
+-60%
+
+28/03/2009
+
+-40%
+14/02/2009
+
+-40%
+
+11/10/2008
+
+-20%
+
+16/05/1998
+
+-20%
+
+04/04/1998
+
+0%
+
+21/02/1998
+
+0%
+
+10/01/1998
+
+20%
+
+29/11/1997
+
+20%
+
+18/10/1997
+
+40%
+
+06/09/1997
+
+40%
+
+26/07/1997
+
+60%
+
+14/06/1997
+
+60%
+
+30/08/2008
+
+80%
+
+19/07/2008
+
+80%
+
+US
+Euro area
+Other AEs
+EMEs
+
+03/01/2009
+
+Asian crisis countries
+Euro area
+Other AEs
+Other EMEs
+
+22/11/2008
+
+a. Asian Crisis
+
+Note: ‘Other AEs’ excludes AEs in the euro area and the US.
+
+Figure 4. GDP growth during periods of stress
+b. Global Financial Crisis
+
+-1
+
+-2
+
+-2
+
+-3
+
+-3
+
+-4
+
+-4
+
+Q1 2011
+
+-1
+
+Q4 2010
+
+0
+
+Q3 2010
+
+0
+
+Q2 2010
+
+1
+
+Q1 2010
+
+1
+
+Q4 2009
+
+2
+
+Q1 1997
+Q2 1997
+Q3 1997
+Q4 1997
+Q1 1998
+Q2 1998
+Q3 1998
+Q4 1998
+Q1 1999
+Q2 1999
+Q3 1999
+Q4 1999
+Q1 2000
+
+2
+
+Q4 2008
+
+%qoq
+3
+
+Q3 2008
+
+Other AEs
+
+Q2 2008
+
+Euro area
+
+Q1 2008
+
+%qoq
+3
+
+Q3 2009
+
+Other EMEs
+
+Q2 2009
+
+US
+Euro area
+Other AEs
+EMEs
+
+Asian crisis countries
+
+Q1 2009
+
+a. Asian Crisis
+
+25
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+25
+
+Figure 5. Bilateral equity correlations
+a.
+
+Equity Market Correlations: 1985-1994
+
+Euro area
+
+other AEs
+
+EMEs
+
+1985-1994
+1
+
+VE
+TK
+TH
+SA
+SI
+RS
+PO
+PH
+PE
+PK
+MX
+MY
+ID
+IN
+HN
+CB
+CH
+CL
+BR
+AG
+US
+UK
+TW
+SW
+SD
+SP
+NW
+NZ
+KO
+JP
+IS
+HK
+DK
+CZ
+CN
+AU
+ES
+PT
+NL
+LX
+IT
+IR
+GR
+BD
+FR
+FN
+BG
+OE
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+-0.2
+
+-0.4
+
+-0.6
+
+-0.8
+
+OE BG FN FR BD GR IR
+
+IT
+
+LX NL PT ES AU CN CZ DK HK IS
+
+JP KO NZ NW SP SD SW TW UK US AG BR CL CH CB HN IN
+
+ID MY MX PK PE PH PO RS SI SA TH TK VE
+
+-1
+
+Euro area
+other AEs
+EMEs
+Note: white cells refer to countries without data for the period considered.
+
+b.
+
+Equity Market Correlations: 1995-2004
+
+Euro area
+
+other AEs
+
+EMEs
+
+1995-2004
+1
+
+VE
+TK
+TH
+SA
+SI
+RS
+PO
+PH
+PE
+PK
+MX
+MY
+ID
+IN
+HN
+CB
+CH
+CL
+BR
+AG
+US
+UK
+TW
+SW
+SD
+SP
+NW
+NZ
+KO
+JP
+IS
+HK
+DK
+CZ
+CN
+AU
+ES
+PT
+NL
+LX
+IT
+IR
+GR
+BD
+FR
+FN
+BG
+OE
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+-0.2
+
+-0.4
+
+-0.6
+
+-0.8
+
+OE BG FN FR BD GR IR
+
+IT
+
+LX NL PT ES AU CN CZ DK HK IS
+
+Euro area
+
+JP KO NZ NW SP SD SW TW UK US AG BR CL CH CB HN IN
+
+other AEs
+
+ID MY MX PK PE PH PO RS SI SA TH TK VE
+
+-1
+
+EMEs
+26
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+26
+
+c.
+
+Equity Market Correlations: 2008-2010
+
+Euro area
+
+other AEs
+
+EMEs
+
+2008-2010
+1
+
+VE
+TK
+TH
+SA
+SI
+RS
+PO
+PH
+PE
+PK
+MX
+MY
+ID
+IN
+HN
+CB
+CH
+CL
+BR
+AG
+US
+UK
+TW
+SW
+SD
+SP
+NW
+NZ
+KO
+JP
+IS
+HK
+DK
+CZ
+CN
+AU
+ES
+PT
+NL
+LX
+IT
+IR
+GR
+BD
+FR
+FN
+BG
+OE
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+-0.2
+
+-0.4
+
+-0.6
+
+-0.8
+
+OE BG FN FR BD GR IR
+
+IT
+
+LX NL PT ES AU CN CZ DK HK IS
+
+Euro area
+d.
+
+JP KO NZ NW SP SD SW TW UK US AG BR CL CH CB HN IN
+
+other AEs
+
+ID MY MX PK PE PH PO RS SI SA TH TK VE
+
+-1
+
+EMEs
+
+Equity Market Correlations: 2010-2016
+
+Euro area
+
+other AEs
+
+EMEs
+
+2010-2016
+1
+
+VE
+TK
+TH
+SA
+SI
+RS
+PO
+PH
+PE
+PK
+MX
+MY
+ID
+IN
+HN
+CB
+CH
+CL
+BR
+AG
+US
+UK
+TW
+SW
+SD
+SP
+NW
+NZ
+KO
+JP
+IS
+HK
+DK
+CZ
+CN
+AU
+ES
+PT
+NL
+LX
+IT
+IR
+GR
+BD
+FR
+FN
+BG
+OE
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+-0.2
+
+-0.4
+
+-0.6
+
+-0.8
+
+OE BG FN FR BD GR IR
+
+IT
+
+LX NL PT ES AU CN CZ DK HK IS
+
+Euro area
+
+JP KO NZ NW SP SD SW TW UK US AG BR CL CH CB HN IN
+
+other AEs
+
+ID MY MX PK PE PH PO RS SI SA TH TK VE
+
+-1
+
+EMEs
+
+27
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+27
+
+Figure 6. Bilateral GDP Correlations
+a.
+
+GDP Growth Correlations: 1985-1994
+
+Euro area
+
+other AEs
+
+EMEs
+
+1985Q1-1994Q4
+1
+
+TK
+TH
+SA
+RS
+PO
+PH
+MX
+MY
+ID
+IN
+HN
+CB
+CL
+BR
+AG
+US
+UK
+TW
+SW
+SD
+SP
+NW
+NZ
+KO
+JP
+IS
+HK
+DK
+CZ
+CN
+AU
+ES
+PT
+NL
+LX
+IT
+IR
+GR
+BD
+FR
+FN
+BG
+OE
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+-0.2
+
+-0.4
+
+-0.6
+
+-0.8
+
+OE
+
+BG
+
+FN
+
+FR
+
+BD
+
+GR
+
+IR
+
+IT
+
+LX
+
+NL
+
+PT
+
+ES
+
+AU
+
+CN
+
+CZ
+
+DK
+
+HK
+
+IS
+
+JP
+
+KO
+
+NZ
+
+NW SP
+
+SD SW TW
+
+UK
+
+US
+
+AG
+
+BR
+
+CL
+
+CB
+
+HN
+
+other AEs
+
+Euro area
+
+IN
+
+ID
+
+MY
+
+MX
+
+PH
+
+PO
+
+RS
+
+SA
+
+TH
+
+TK
+
+-1
+
+EMEs
+
+Note: white cells refer to countries without data for the period considered.
+
+b.
+
+GDP Growth Correlations: 1995-2004
+
+Euro area
+
+other AEs
+
+EMEs
+
+1995Q1-2004Q4
+1
+
+VE
+TK
+TH
+SA
+RS
+PO
+PH
+MX
+MY
+ID
+IN
+HN
+CB
+CL
+BR
+AG
+US
+UK
+TW
+SW
+SD
+SP
+NW
+NZ
+KO
+JP
+IS
+HK
+DK
+CZ
+CN
+AU
+ES
+PT
+NL
+LX
+IT
+IR
+GR
+BD
+FR
+FN
+BG
+OE
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+-0.2
+
+-0.4
+
+-0.6
+
+-0.8
+
+OE
+
+BG
+
+FN
+
+FR
+
+BD
+
+GR
+
+IR
+
+IT
+
+LX
+
+Euro area
+
+NL
+
+PT
+
+ES
+
+AU
+
+CN
+
+CZ
+
+DK
+
+HK
+
+IS
+
+JP
+
+KO
+
+NZ NW
+
+SP
+
+other AEs
+
+SD SW TW
+
+UK
+
+US
+
+AG BR
+
+CL
+
+CB
+
+HN
+
+IN
+
+ID
+
+MY
+
+MX PH
+
+PO RS
+
+SA
+
+TH
+
+TK
+
+VE
+
+-1
+
+EMEs
+
+28
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+28
+
+c.
+
+GDP Growth Correlations: 2008-2011
+
+Euro area
+
+other AEs
+
+EMEs
+
+2008Q1-2011Q1
+1
+
+VE
+TK
+TH
+SA
+RS
+PO
+PH
+MX
+MY
+ID
+IN
+HN
+CB
+CL
+BR
+AG
+US
+UK
+TW
+SW
+SD
+SP
+NW
+NZ
+KO
+JP
+IS
+HK
+DK
+CZ
+CN
+AU
+ES
+PT
+NL
+LX
+IT
+IR
+GR
+BD
+FR
+FN
+BG
+OE
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+-0.2
+
+-0.4
+
+-0.6
+
+-0.8
+
+OE
+
+BG
+
+FN
+
+FR
+
+BD
+
+GR
+
+IR
+
+IT
+
+LX
+
+NL
+
+PT
+
+ES
+
+AU
+
+CN
+
+CZ
+
+DK
+
+HK
+
+JP
+
+KO
+
+NZ NW
+
+SP
+
+SD SW TW
+
+UK
+
+US
+
+AG BR
+
+CL
+
+CB
+
+HN
+
+IN
+
+other AEs
+
+Euro area
+
+d.
+
+IS
+
+ID
+
+MY
+
+MX PH
+
+PO RS
+
+SA
+
+TH
+
+TK
+
+VE
+
+-1
+
+EMEs
+
+GDP Growth Correlations: 2010-2016
+
+Euro area
+
+other AEs
+
+EMEs
+
+2010Q1-2016Q1
+1
+
+VE
+TK
+TH
+SA
+RS
+PO
+PH
+MX
+MY
+ID
+IN
+HN
+CB
+CL
+BR
+AG
+US
+UK
+TW
+SW
+SD
+SP
+NW
+NZ
+KO
+JP
+IS
+HK
+DK
+CZ
+CN
+AU
+ES
+PT
+NL
+LX
+IT
+IR
+GR
+BD
+FR
+FN
+BG
+OE
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+-0.2
+
+-0.4
+
+-0.6
+
+-0.8
+
+OE
+
+BG
+
+FN
+
+FR
+
+BD
+
+GR
+
+IR
+
+IT
+
+LX
+
+Euro area
+
+NL
+
+PT
+
+ES
+
+AU
+
+CN
+
+CZ
+
+DK
+
+HK
+
+IS
+
+JP
+
+KO
+
+NZ NW
+
+SP
+
+other AEs
+
+SD SW TW
+
+UK
+
+US
+
+AG BR
+
+CL
+
+CB
+
+HN
+
+IN
+
+ID
+
+MY
+
+MX PH
+
+PO RS
+
+SA
+
+TH
+
+TK
+
+VE
+
+-1
+
+EMEs
+
+29
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+29
+
+Figure 7. Five-year rolling correlations in equity returns and GDP growth rates
+a. Equity returns
+
+b. GDP growth
+
+Euro area
+
+1
+
+Full sample
+
+Full sample
+
+0.9
+
+Euro area
+
+Other Advanced
+
+0.8
+
+Emerging
+
+0.7
+
+0.8
+0.7
+
+Other Advanced
+
+0.6
+
+Emerging Markets
+
+0.5
+
+0.6
+0.5
+
+0.4
+
+0.4
+
+0.3
+
+0.3
+
+0.2
+
+0.2
+
+0.1
+
+2015
+
+2012
+
+2009
+
+2006
+
+2003
+
+2000
+
+1985
+
+1997
+
+-0.1
+1994
+
+-0.1
+1991
+
+0
+1988
+
+0
+
+2015
+
+2010
+
+2005
+
+2000
+
+1995
+
+1990
+
+1985
+
+1980
+
+0.1
+
+Figure 8. Five-year rolling standard deviations of equity returns and GDP growth rates
+a. Equity returns
+
+b. GDP growth
+
+Euro area
+Full sample
+Other advanced
+Emerging markets
+
+Full sample
+Euro area
+Other advanced
+Emerging markets
+
+8
+7
+
+2.4
+2
+
+6
+
+1.6
+
+5
+1.2
+4
+0.8
+
+2014
+
+2011
+
+2008
+
+2005
+
+2002
+
+1999
+
+1996
+
+0
+1993
+
+1
+1990
+
+0.4
+1987
+
+2
+1984
+
+2015
+
+2010
+
+2005
+
+2000
+
+1995
+
+1990
+
+1985
+
+1980
+
+3
+
+30
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+30
+
+Figure 9. Share of variance explained by set of principal components
+a. Equity returns
+
+b. GDP growth
+
+Full sample
+EA
+Other advanced
+Emerging markets
+
+Full sample
+Euro area
+Other advanced
+Emerging markets
+
+1
+
+0.9
+
+0.8
+0.6
+
+0.7
+
+0.4
+0.5
+0.2
+
+Note: The full sample includes 23 countries with weekly equity
+market data from 1980; of these, 5 are in the euro area, 5 are
+emerging markets and 13 are other advanced economies. A
+different number of principal components is selected for each
+country group by using the components which have an
+eigenvalue greater than 1 for the full sample period 19802016. As a result, the full sample line shows the share of
+variance explained over time by the first 3 principal
+components; the euro area sample - by the first component;
+the other advanced group - by the first two principal
+components; and the emerging markets group - by the first
+principal component only.
+
+2014
+
+2011
+
+2008
+
+2005
+
+2002
+
+1999
+
+1996
+
+1993
+
+1990
+
+1987
+
+1984
+
+0.3
+
+2015
+
+2012
+
+2009
+
+2006
+
+2003
+
+2000
+
+1997
+
+1994
+
+1991
+
+1988
+
+1985
+
+0
+
+Note: The full sample includes 31 countries with quarterly GDP
+growth data from 1980; of these, 12 are in the euro area, 5 are
+emerging markets and 14 are other advanced economies. A
+different number of principal components is selected for each
+country group by using the components which have an
+eigenvalue greater than 1 for the full sample period 1980-2016.
+As a result, the full sample line shows the share of variance
+explained over time by the first 5 principal components; the euro
+area sample - by the first 2 components; the other advanced
+group - by the first 5 principal components; and the emerging
+markets group - by the first 3 principal components.
+
+Figure 10. Weighted average of five-year rolling standard deviation of principal components
+b. GDP growth
+
+Note: Average is of first three principal components and the
+weights reflect the share of variance explained by those. See
+note on Figure 9 for further detail on the full country sample.
+
+2014
+
+2011
+
+2008
+
+2005
+
+2002
+
+1999
+
+1996
+
+1993
+
+0.0
+1990
+
+0.0
+
+1987
+
+1.0
+1984
+
+1.0
+
+2015
+
+2.0
+
+2012
+
+2.0
+
+2009
+
+3.0
+
+2006
+
+3.0
+
+2003
+
+4.0
+
+2000
+
+4.0
+
+1997
+
+Weighted average of rolling standard
+5.0
+deviations of common factors
+
+1994
+
+Weighted average rolling standard
+deviation of common factors
+5.0
+
+1991
+
+1988
+
+1985
+
+a. Equity returns
+
+Note: Average is of first five principal components and the weights
+reflect the share of variance explained by those. See note on Figure
+9 for further detail on the full country sample.
+31
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+31
+
+Figure 11. Average absolute loading and standard deviation of loadings on common factors
+from rolling principal component analysis (5-year rolling window)
+a. Equity returns
+
+b. GDP growth
+
+Avg abs loading
+Stdev loading
+
+Avg abs loading
+Stdev loading
+
+0.25
+
+0.18
+0.16
+0.14
+0.12
+0.10
+0.08
+0.06
+0.04
+0.02
+0.00
+
+0.20
+0.15
+0.10
+
+Weighted loadings on first 3 components; full sample includes
+23 countries with data from 1980 (France, Germany, Italy,
+Netherlands, Spain, Argentina, Chile, India, Malaysia,
+Thailand, Australia, Canada, Denmark, Hong Kong, Japan,
+South Korea, New Zealand, Singapore, Sweden, Switzerland,
+Taiwan, UK and US).
+
+2014
+
+2011
+
+2008
+
+2005
+
+2002
+
+1999
+
+1996
+
+1993
+
+1990
+
+1987
+
+2015
+
+2012
+
+2009
+
+2006
+
+2003
+
+2000
+
+1997
+
+1994
+
+1991
+
+1988
+
+1985
+
+0.00
+
+1984
+
+0.05
+
+Weighted loadings on first 5 components; full sample
+includes 32 countries with data from 1980 (Austria, Belgium,
+Finland, France, Germany, Greece, Ireland, Italy,
+Luxemburg, Netherlands, Portugal, Spain, Malaysia, Mexico,
+Philippines, South Africa, Thailand, Australia, Canada,
+Denmark, Hong Kong, Japan, South Korea, New Zealand,
+Norway, Singapore, Sweden, Switzerland, Taiwan, UK and
+US).
+
+32
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+32
+
+Figure 13. Share of variance explained by first principal component
+a. Equity
+
+b. GDP
+Full sample
+Euro area
+Other advanced
+Emerging markets
+
+1
+
+Note: Country samples are the same as in Figure 9.
+
+2014
+
+2011
+
+0
+2008
+
+0
+2005
+
+0.2
+
+2002
+
+0.2
+
+1999
+
+0.4
+
+1996
+
+0.4
+
+1993
+
+0.6
+
+1990
+
+0.6
+
+1987
+
+0.8
+
+1984
+
+0.8
+
+2015
+
+2012
+
+2009
+
+1
+
+2006
+
+2003
+
+2000
+
+1997
+
+1994
+
+1991
+
+1988
+
+1985
+
+Full sample
+Euro area
+Other advanced
+Emerging markets
+
+Note: Country samples are the same as in Figure 9.
+
+Figure 14. Extreme Negative Returns for equities GDP growth
+b. GDP growth
+100
+
+100
+
+90
+
+90
+
+80
+
+80
+
+70
+
+70
+
+60
+
+60
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+1980
+1983
+1986
+1989
+1992
+1995
+1998
+2001
+2004
+2007
+2010
+2013
+2016
+
+1980
+1982
+1985
+1988
+1991
+1994
+1997
+2000
+2003
+2006
+2009
+2012
+2015
+
+a. Equity returns
+
+33
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+33
+
+Figure 15. Average % of sample with Extreme Negative Return (ENR) in equity and growth
+a. Equity ENR (5-year rolling averages)
+Full sample
+
+b. GDP ENR (5-year rolling averages)
+Full sample
+
+12
+
+Euro area
+
+20
+
+Euro Area
+10
+
+Other advanced
+Emerging markets
+
+Other advanced
+
+15
+
+Emerging markets
+
+8
+6
+
+10
+
+4
+5
+2
+
+2014
+
+2011
+
+2008
+
+2005
+
+2002
+
+1999
+
+1996
+
+1993
+
+1990
+
+1987
+
+0
+1984
+
+1974
+1977
+1980
+1983
+1986
+1989
+1992
+1995
+1998
+2001
+2004
+2007
+2010
+2013
+
+0
+
+Figure 16. Extreme Negative Return (ENR) regressions for equity with openness interactions
+----------------------------------------------------------------------------------------------(1)
+(2)
+(3)
+(4)
+(5)
+ENR
+ENR
+ENR
+ENR
+ENR
+----------------------------------------------------------------------------------------------Commodity prices
+0.0158**
+0.0295***
+0.0280***
+0.0136
+0.0184*
+(0.00770)
+(0.00774)
+(0.00681)
+(0.00905)
+(0.0107)
+VIX
+US interest rate
+ENRAll
+ENRAll _Leverage
+ENRAll _Trade
+ENRAll _FinOpennes
+
+0.00594**
+(0.00286)
+0.396**
+(0.163)
+
+0.0158***
+(0.00203)
+0.309**
+(0.150)
+
+0.0219***
+(0.00162)
+
+0.00874***
+(0.00278)
+
+0.0107***
+(0.00297)
+
+0.561***
+(0.136)
+
+0.547***
+(0.165)
+
+0.632***
+(0.200)
+
+0.0582***
+(0.00225)
+0.0248***
+(0.00345)
+
+0.0129***
+(0.00315)
+0.000603***
+(0.0000892)
+
+0.000456***
+(0.0000388)
+0.0648***
+(0.00284)
+
+0.0473***
+(0.00500)
+
+_cons
+
+-3.726***
+-3.533***
+-3.402***
+-3.644***
+-3.692***
+(0.0709)
+(0.0630)
+(0.0429)
+(0.0699)
+(0.0755)
+----------------------------------------------------------------------------------------------N
+71534
+59000
+55216
+67023
+47278
+----------------------------------------------------------------------------------------------Standard errors in parentheses
+* p<0.10, ** p<0.05, *** p<0.01
+Notes: See the notes to Figure 12 for a description of the first three global variables. 𝑇𝑟𝑎𝑑𝑒 is measured as (exports+imports)/GDP.
+𝐹𝑖𝑛𝑂𝑝𝑒𝑛𝑛𝑒𝑠𝑠 is measured using the normalized Chinn-Ito measure of capital account openness. 𝐵𝑎𝑛𝑘𝐿𝑒𝑣𝑒𝑟𝑎𝑔𝑒 is measured using the
+ratio of domestic banks’ claims on the private sector to the value of demand, time, savings and foreign currency deposits, using data from
+the IMF International Financial Statistics database.
+
+34
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+34
+
+Figure 17a. Under Mannen Bridge at Fukagawa by Katsushika Hokusai
+
+Figure 17b. Shore of Tago Bay by Katsushika Hokusai
+
+35
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+35
+
+Appendix
+Average absolute loading and standard deviation of loadings on common factors from rolling
+principal component analysis (with 5-year rolling window)
+a. Equities, Euro area countries
+
+Weighted loadings on first 1 component; sample includes 5
+countries with data from 1980 (France, Germany, Italy,
+Netherlands and Spain).
+
+c. Equities, Other advanced economies
+Avg abs loading
+Stdev loading
+
+Avg abs loading
+Stdev loading
+
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+
+0.50
+0.45
+0.40
+0.35
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+
+Avg abs loading
+Stdev loading
+
+b. GDP, Euro area countries
+
+0.30
+
+Weighted loadings on first 2 components; sample includes 12
+countries with data from 1980 (Austria, Belgium, Finland,
+France, Germany, Greece, Ireland, Italy, Luxemburg,
+Netherlands, Portugal and Spain).
+
+d. GDP, Other advanced economies
+Avg abs loading
+Stdev loading
+
+0.35
+0.30
+
+0.25
+
+0.25
+
+0.20
+
+0.20
+
+0.15
+
+0.15
+
+0.10
+
+0.10
+
+0.00
+
+0.00
+
+Weighted loadings on first 2 components; sample includes 14
+countries with data from 1980 (Australia, Canada, Denmark,
+Hong Kong, Japan, South Korea, New Zealand, Singapore,
+Sweden, Switzerland, Taiwan, UK and US).
+
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+
+0.05
+
+1985
+1987
+1989
+1991
+1993
+1995
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+
+0.05
+
+Weighted loadings on first 5 components; sample includes 13
+countries with data from 1980 (Australia, Canada, Denmark,
+Hong Kong, Japan, South Korea, New Zealand, Norway,
+Singapore, Sweden, Switzerland, Taiwan, UK and US).
+
+36
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+36
+
+e. Equities, Emerging markets
+
+f.
+
+Avg abs loading
+0.60
+
+Avg abs loading
+Stdev loading
+
+0.60
+0.50
+
+0.40
+
+0.40
+
+0.30
+
+0.30
+
+0.20
+
+0.20
+
+0.10
+
+0.10
+
+0.00
+
+0.00
+
+Weighted loadings on first 1 component; sample includes 5
+countries with data from 1980 (Argentina, Chile, India,
+Malaysia and Thailand).
+
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+
+0.50
+
+1985
+1987
+1989
+1991
+1993
+1995
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+
+Stdev loading
+
+GDP, Emerging markets
+
+Weighted loadings on first 3 components; sample includes 5
+countries with date from 1980 (Malaysia, Mexico, Philippines,
+South Africa and Thailand).
+
+37
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+37
+
+

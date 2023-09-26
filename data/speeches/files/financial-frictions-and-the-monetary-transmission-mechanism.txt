@@ -1,0 +1,3175 @@
+Financial Frictions and the Monetary Transmission
+Mechanism: Theory, Evidence and Policy Implications
+Speech given by
+Charles Bean, Chief Economist and Member of the Monetary Policy Committee, Bank of
+England
+
+Jens Larsen, Monetary Assessment and Strategy Division, Bank of England
+
+Kalin Nikolov, Monetary Assessment and Strategy Division, Bank of England
+
+At the Monetary Transmission Network conference, European Central Bank, Frankfurt
+18 December 2001
+
+We are grateful to Peter Andrews, David England, Simon Hall, Anil Kashyap, Vincent Labhard, Lavan
+Mahadeva, Steven Millard, Katharine Neiss, Laura Piscitelli, James Proudman, Rachel Reeves,
+Gabriel Sterne, and Peter Westaway for comments on previous versions of this paper, and to Kosuke
+Aoki, Luca Benati and Jan Vlieghe in particular for help with the estimation and simulation work. We
+thank Anna-Maria Agresti, Benoit Mojon, Gert Peersman and Frank Smets for letting us use their
+results. Thanks are also due to Ed Dew and Richard Geare for research assistance. The views
+expressed are those of the authors and do not reflect the views of either the Bank of England or the
+Monetary Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Abstract
+This paper provides a brief survey of the role of financial frictions in the monetary
+transmission mechanism. After noting some of the key stylised facts that any model of
+the transmission mechanism must be consistent with, we discuss both the classical
+interest rate channel and the credit and bank lending channels of monetary
+transmission. We then review the empirical evidence relating to the relative
+importance of these channels. Finally we consider what impact the presence of
+significant financial frictions might have on the conduct of monetary policy.
+
+2
+
+1
+
+Introduction
+
+There is little doubt that central banks pay considerable attention to commercial banks
+and financial intermediaries more generally. In a recent survey of 89 central banks
+Fry, Julius, Mahadeva, Roger and Sterne (2000) found that ‘analysis of the banking
+sector’ was ranked on average the seventh most important ingredient of the monetary
+framework, above ‘analysis of the real sector’.1 Of course, this need not imply that
+central banks consider that the behaviour of financial intermediaries constitutes a key
+part of the monetary transmission mechanism, as they have objectives other than price
+stability, specifically financial stability. Thus in the same survey, ‘analysis of
+domestic financial stability’ was ranked fifth on average, indicating a concern for
+financial markets in their own right. But even for the 16 central banks that ranked an
+inflation target as the single most important ingredient and for whom understanding
+the transmission mechanism is presumably key, the categories concerning the banking
+sector received high ranking.
+Traditional textbook models that are routinely used in the analysis of monetary policy,
+such as IS-LM, usually do not spell out the assumptions that underpin the
+transmission mechanism. And in so far as they do, they pay little attention to financial
+frictions. The New Keynesian framework set out in Clarida, Gali and Gertler (1999)
+does describe the foundations more explicitly, yet in the basic framework, capital
+markets are assumed to be free of frictions and complete. This seems at odds not just
+with the survey evidence discussed above, but also with recent experiences, such as
+the crises in East Asia and current developments in Argentina, where developments in
+financial markets have clearly been important in determining the appropriate design
+and conduct of monetary policy.
+In this paper we discuss the impact and implications of frictions originating in
+financial markets for the transmission of monetary policy. Drawing on the vast
+literature on financial market frictions and the monetary transmission mechanism, we
+address the following questions. What assumptions might underpin a framework
+where financial market frictions play a role? Is the empirical evidence consistent with
+
+3
+
+the predictions of that framework? And how important quantitatively are the effects of
+such frictions?
+Our focus is primarily on the transmission mechanism in a developed economy that is
+operating in ‘normal circumstances’. That is we avoid discussion of financial crises,
+liquidity traps and similar issues that are not central to the focus of this conference.
+But even with such a relatively narrow focus, a comprehensive survey of the literature
+is well beyond the scope of this paper. Excellent surveys of this territory can be found
+in Christiano, Eichenbaum and Evans (1999), Clarida, Gali and Gertler (1999) and
+Bernanke, Gertler and Gilchrist (1999).
+We begin with a brief review of the ‘stylised facts’ that any representation of the
+transmission mechanism needs to be compatible with. But these stylised facts, while
+helpful in providing a broad characterisation of the transmission mechanism, are
+typically not sufficient to distinguish the relative importance of different transmission
+channels. Hence, in sections three and four, we move on to discuss first the theoretical
+underpinnings and then the empirical evidence relating to the transmission
+mechanism. We then turn our attention to the question of why central bankers should
+care about all this. For if there is a stable empirical relationship between the policy
+instrument and the target variable(s), why should (s)he be concerned with the
+underlying structure of the economy in general, and of financial market frictions in
+particular? Our answer is that the presence of such frictions is likely to create extra
+uncertainty about the impact of interest rate changes on activity and thence on
+inflation. With the aid of a simple model, and invoking recent thinking on policy
+design under uncertainty, we show how policy should be modified to take account of
+uncertainty engendered by the presence of financial market frictions.
+
+2
+
+Some stylised facts
+
+To set the scene, we begin by recording some of the empirical regularities that any
+model of the transmission mechanism should be consistent with. We first provide a
+1
+
+There are 21 components in this survey. The components deemed more important are independence
+of central bank, maintenance of inflation expectations, transparency of policy, inflation targets, analysis
+of domestic financial stability and exchange rate targets.
+
+4
+
+brief discussion of the key stylised facts for the euro area, the United Kingdom and
+the United States. Taking the study by Christiano, Eichenbaum and Evans (1999) as
+our reference point, we then selectively summarise the main conclusions of the
+literature employing Vector Autoregression (VAR) techniques to characterise the
+response of the economy to a monetary shock.2
+Table 1 reports the cross-correlations between the main macroeconomic variables in
+the three economies. The results for the United States and the euro area are taken
+directly from Agresti and Mojon (2001), who use the Baxter and King (1999) bandpass filtering procedure. In deriving comparable statistics for the United Kingdom, we
+have used a frequency domain filter to avoid losing observations at the beginning and
+at the end of the sample. To economise on space, we do not provide a comprehensive
+discussion of the sensitivity of our results to differences in choice of filter, sample and
+data, but for our purposes, the differences between the filters are likely to be
+negligible. Benati (2001) provides a thorough discussion of the appropriateness of
+band-pass filtering for establishing stylised facts. We note in passing that our results
+are similar to those in Blackburn and Ravn (1992) who use a different filtering
+technique over a different sample.
+At a general level, the resulting key features are not dissimilar: consumption is less
+volatile than investment; investment is about twice as volatile as output; and both
+consumption and investment are highly pro-cyclical. In contrast to the euro area and
+the United States, consumption in the United Kingdom is more volatile than output.
+Also, price levels are counter-cyclical while inflation is somewhat pro-cyclical,
+whether measured by the GDP deflator or by consumer price indices. Some
+similarities in financial variables are apparent too: short-term interest rates are
+positively correlated with GDP at short leads and lags, with higher correlations at
+short lags. Also, short-term interest rates are more volatile than long rates in all three
+areas. The yield curve measure, which is simply the difference between the long and
+the short interest rate, is closely correlated with GDP, but appears to be lagging rather
+than leading the cycle.
+2
+
+There is a large literature that discusses differences in the monetary propagation mechanism within
+current and prospective members of the euro area. We do not pursue that issue here. Mojon and
+Peersman (this volume) is a recent contribution to this literature.
+
+5
+
+But there are also some notable differences. Short-term nominal interest rates in the
+United Kingdom are more volatile than in the euro area and the United States, but this
+is not too surprising given the changing nature of United Kingdom monetary policy
+arrangements over the sample. Equity prices in the United Kingdom and the euro area
+are significantly more volatile than in the United States and seem to lead GDP more
+strongly in the United States and the United Kingdom. The latter property is perhaps
+related to the greater extent of direct share ownership in the Anglo-Saxon countries.
+Real estate prices in the United Kingdom – at least by our measure – are much more
+volatile in both an absolute and a relative sense than in the euro area and the United
+States. Our measure of narrow money for the United Kingdom, M0, is clearly a
+coincident indicator, with a much higher contemporaneous correlation with GDP than
+M1 has for the euro area or the United States. And, as in the euro area, narrow money
+appears to be a leading indicator of activity in the US. Broad measures of money
+generally appear to have weaker indicator properties.
+What can these unconditional moments of the data tell us about the nature of the
+monetary transmission mechanism? Unfortunately the answer is not a lot. Any
+characterisation of the transmission mechanism necessarily involves taking a stand
+both on the structure of the economy and on how to identify the shocks that the
+economy has been subject to. But one conclusion that can at least be drawn from these
+correlations is that the dynamic behaviour of macroeconomic aggregates in these
+countries is very broadly similar. This is in spite of the known structural differences in
+credit, housing and goods markets, and in degrees of openness.
+From this general characterisation of the three economies, we turn to the evidence on
+the transmission mechanism provided by VARs. Most of the literature we cite here
+achieves identification through some variation on the recursive identification scheme
+employed by Christiano, Eichenbaum and Evans (1999). That paper provides a
+comprehensive survey of the literature for the United States, and represents a
+reasonable reflection of the ‘consensus’ view. Here we draw on the results in
+Peersman and Smets (2001) for the euro area and the United States, and on analysis of
+our own for the United Kingdom.
+
+6
+
+The recursive identification scheme divides the variables of interest into those that
+appear contemporaneously in the policymaker’s information set, typically GDP, a
+final goods price index and short-term interest rates, and those that appear only with a
+lag. Under the recursive identification scheme, variables in the contemporaneous
+block do not respond immediately to the policy shock, and policy obviously cannot
+respond immediately to shocks to variables in the non-contemporaneous block.
+Essentially then, the VAR is identified using the Choleski decomposition, with the
+contemporaneous block ordered first, the policy equation second, and the noncontemporaneous block last. The key decision the econometrician faces is which set a
+variable is assigned to, but the responses to a monetary policy shock will be invariant
+to the chosen ordering within the blocks. The details of the identification schemes
+vary across studies – and this can have important implications particularly for the
+short-run responses.3
+Here we report the baseline VAR estimated by Peersman and Smets (2001) for the
+euro area and the United States. This VAR includes output, consumer prices and a
+monetary aggregate in the contemporaneous block, and a real effective exchange rate
+index in the non-contemporaneous block. For both areas, a commodity price index is
+also included. The VAR for the euro area includes it as an exogenous variable, while
+the VAR for the US includes in the non-contemporaneous block. The VAR for the
+euro area also includes US short-term interest rates and output as exogenous
+variables, to control for ‘world inflation’ and ‘world demand’. The VAR we report for
+the United Kingdom is similar to the euro-area VAR, but differs in that we have
+included a house price index in the endogenous block. We have used the GDP
+deflator as our measure of prices and a nominal rather than a real effective exchange
+rate index. Finally, we have used oil prices rather than commodity prices as an
+exogenous variable.4
+
+3
+
+This identification scheme is useful, partly because it is so simple. This makes it an ideal tool for a
+broad-brush cross-country comparison of the response to a monetary policy shock. Other, typically
+more elaborate, identification schemes may provide a more exact characterisation of an economy’s
+propagation mechanism, by imposing more structure on the VAR. See Leeper, Sims and Zha (1996)
+and Kim and Roubini (2000) for prominent examples.
+4
+The scheme we use here is fairly similar to that used by Aoki, Proudman and Vlieghe (2001), but is
+by no means the only plausible scheme. Alternative schemes can be found in Dhar, Pain and Thomas
+(2000), Hall (2001), Millard and Wells (2001) and Millard (2000) who provide more comprehensive
+discussion of the issues relating to estimating the response to monetary policy shocks in the UK data.
+
+7
+
+Chart 1 provides the impulse responses to a typical monetary shock for the euro area,
+the United States and the United Kingdom in columns one to three. The results are
+unsurprising. In all three regions, the VAR evidence suggests that a contractionary
+monetary policy shock raises the short-term interest rate on impact, and the effect
+persists over several quarters. A contractionary monetary policy shock also leads to
+persistent and large falls in the price level, but the initial response is rather muted –
+indeed, under some identification schemes, the price level initially increases slightly,
+giving rise to what is labelled as the ‘price puzzle’. In all three areas, prices only start
+to fall after some time, although on this evidence, the degree of sluggishness in prices
+varies somewhat. In all regions, aggregate output falls after the shock, but the
+response is prolonged and hump-shaped, with the peak effect occurring between four
+and eight quarters. The peak effect in the euro area appears to be somewhat earlier
+than in the United States and in the United Kingdom.
+This exercise takes us a little further towards characterising the key empirical
+characteristics of the monetary transmission mechanism than do the raw unconditional
+moments, and further work could explore questions such as the stability of these
+impulse responses over time. But even with a historically and statistically stable
+empirical relationship, policy analysis without a theory of the transmission
+mechanism is obviously incomplete. So it is this we turn to next.
+
+3
+
+Competing views of monetary transmission
+
+3.1
+
+The classical ‘interest rate’ channel
+
+Under the classical view of the transmission channel, interest rates influence
+economic activity by affecting various relative prices in the economy. These are
+primarily the relative prices of capital and of future consumption in terms of current
+consumption, and the relative price of domestic goods in terms of foreign goods. This
+description of what constitutes the interest rate channel is fairly broad - it essentially
+encompasses most mechanisms that are not associated with financial market frictions.
+The key ingredients are as follows.
+
+8
+
+First, movements in the policy rate affect fixed investment through the user cost of
+capital. Higher interest rates raise the required return from investment projects and
+reduce the rate of business investment. Inventories are affected in much the same
+way; higher interest rates increase the ‘user cost’ of holding inventories and lead firms
+to economise on them.
+Second, interest rates also represent the price of future relative to current
+consumption. Higher interest rates cause households to substitute future for present
+consumption. Interest rate movements also have an income effect on households.
+Providing that households are net debtors, higher interest rates reduce the value of
+lifetime income, further depressing consumption. Finally, by affecting the value of
+financial assets such as stocks and bonds, in which household wealth is held, interest
+rate movements can have a wealth effect on private sector spending.
+Third, interest rate movements move the exchange rate thereby altering price
+competitiveness and affecting net exports. Under sticky domestic prices and producer
+currency pricing, the real exchange rate appreciation raises the relative price of
+domestic in terms of foreign goods, and induces an ‘expenditure switching’ from
+domestic to foreign goods. Under local currency pricing, exchange rate fluctuations
+are absorbed in firms’ margins. This affects the value of firms’ equity and, via the
+wealth effect, aggregate demand. There are also likely to be effects through supply
+(see below).
+Movements in the interest rate will also have an impact on the supply side of the
+economy. A standard channel is through intertemporal substitution in labour supply.
+In ‘limited participation’ models (Christiano, Eichenbaum and Evans, 1997;
+Christiano and Gust, 1998; Dhar and Millard, 2000), movements in real interest rates
+generate supply effects through their effect on the cost of firms’ working capital. The
+open economy introduces a further channel for short-term supply effects of monetary
+policy. To the extent that domestic firms’ production depends on imported
+intermediate goods, exchange rate movements will also have supply effects
+(McCallum and Nelson, 2001). And when there is local currency pricing, persistent
+movements in exchange rates may have a supply effect as exporting firms enter or
+exit from the market.
+9
+
+But what features do we need for the interest rate channel to be economically
+significant? The underlying mechanism implies a causal link from movements in
+short nominal rates to movements in (short and long) real interest rates, which are
+then transmitted to real variables and inflation. Then the quantitative importance of
+the interest rate channel relies on the extent to which the central bank can control the
+short-term real interest rate, and the extent to which movements in that short rate can
+cause persistent movements in real variables.
+The central bank’s control over the short-term real interest rate depends on a slow
+responsiveness of inflation: without a slow response of inflation to a change in the
+nominal policy rate, real rates will be unaffected. A slow responsiveness can come
+from the presence of nominal rigidities (such as wage or price stickiness) combined
+with substantial real rigidities, which blunt the impact of demand on firms’ costs. We
+will return to this point below.
+Limited participation models provide an alternative mechanism through which the
+central bank can influence the short-term real interest rate. The crucial assumption in
+these models is that some agents can adjust their portfolios continuously while others
+must choose their money holdings in advance. Following an increase in the quantity
+of money, the unconstrained agents have to be induced to increase their borrowing,
+which can only happen if the real interest rate falls.
+Provided that the central bank can affect real interest rates, the effect of monetary
+policy will depend on the interest-rate sensitivity of demand and supply in the
+economy. Consumer and investment spending will respond strongly to interest rates
+when the intertemporal elasticity of substitution in consumption is high and there are
+weak diminishing returns to capital. Also to the extent that durable/capital goods
+expenditure depends on long, rather than, or in addition to, short rates, we need some
+form of the expectations theory of the term structure to hold, so that short rate
+movements are transmitted to long rates. Term premia may affect the extent to which
+changes in short rates are translated into changes further along the yield curve: if term
+premia respond systematically to offset movements in short rates, then this will tend
+to weaken the effect of policy changes.
+10
+
+Finally, the net export channel only functions to the extent that the price of foreign
+currency moves inversely with the domestic interest rate. This will ensure that a
+contractionary monetary shock generates an exchange rate appreciation. Although this
+link is standard in open conomy macroeconomic models, via uncovered interest
+parity, in recent times it has sometimes proved to be a rather unreliable one.
+Bernanke and Gertler (1995) identify three main puzzles for the conventional interest
+rate channel view of the way aggregate demand responds to interest rate changes:
+-
+
+Composition. Why do brief movements in short-term interest rates affect spending
+on durable goods (such as housing), which presumably should depend on the long
+rate?5
+
+-
+
+Propagation. Why do real variables continue to adjust after most of the rise in
+short rates has been reversed?
+
+-
+
+Amplification. How do interest rates lead to such pronounced movements in
+output while ‘cost of capital’ measures appear insignificant in explaining
+individual expenditure components?
+
+We can add a number of other shortcomings to the interest rate transmission channel.
+The uncovered interest parity condition is rejected by the data at business cycle
+frequencies (Meese and Rogoff, 1983), implying that the net export channel of
+monetary shock transmission (at least in its conventional form) is likely to be weak.
+Also, there is strong evidence that there is imperfect pass-through from exchange
+rates to final domestic prices – the evidence suggests that exchange rate variations, at
+least to some extent and for some time, are absorbed in firms’ margins rather than
+prices. Finally, Kocherlakota (2000) adds asymmetry as another facet of monetary
+transmission that cannot be explained by the interest rate channel.
+Christiano, Eichenbaum and Evans (2001) show that an appropriately calibrated
+model with only an interest rate channel can in fact reproduce the dynamic response
+of the economy to a monetary policy shock. They find that a model that has sticky
+5
+
+This puzzle presumes that there are frictions in durable/capital goods markets: if there are perfect
+second-hand markets and firms and individuals face no costs of adjusting their stock of
+durables/capital, then the opportunity cost of holding the good is given by the short interest rate.
+
+11
+
+wages, variable capacity utilisation, and adjustment costs in investment and
+consumption has both the amplification and propagation needed to match the data.
+However, their model can match the dynamic response of investment to a monetary
+shock only by assuming a very large elasticity of investment with respect to the long
+rate. This is inconsistent with microeconomic evidence discussed below that shows a
+very small interest sensitivity of investment. And since the volatility of investment
+spending is a dominant feature of developed country business cycles, the inability of
+the interest rate channel to reconcile aggregate data with microeconomic evidence is a
+significant failure.
+As a consequence, subsequent research has attempted to explain these puzzles by
+appealing to frictions in financial markets, all of which rely on departures from the
+Modigliani-Miller axioms so that finance is more than just a ‘veil’. The theoretical
+literature has identified two main ways in which the financial system can act to
+amplify and propagate the effect of monetary shocks: the ‘bank lending’ channel; and
+the ‘broad credit channel’. The first applies to models that focus on the behaviour of
+financial intermediaries in affecting the quantity of credit. The latter applies to models
+that focus on the nature of the relationship between borrowers and lenders, and
+consequently on the terms under which loans are supplied.
+3.2
+
+The bank lending channel
+
+The bank lending channel attributes the effects of monetary policy to movements in
+the supply of bank credit. The first generation of bank lending models motivated the
+departures from the Modigliani-Miller axioms on the basis of asymmetric information
+between borrowers and lenders about the characteristics of individual projects.
+Stiglitz and Weiss (1981) assume that entrepreneurs have private information about
+their projects, which have the same expected return but different probabilities of
+success. Because of limited liability, borrowers can default on their loans in the event
+that the project does not succeed. Hence, at high levels of interest rates, the only
+entrepreneurs who would find borrowing attractive are high risk ones, with a low
+
+12
+
+probability of repayment. The resulting equilibrium is characterised by credit
+rationing and underinvestment6.
+However, subsequent research has shown that the Stiglitz and Weiss result is not
+robust once sorting devices are allowed. The credit rationing result is an example of a
+pooling equilibrium. Following Spence (1973), Rothschild and Stiglitz (1976) and
+others, such equilibria can be eliminated by the use of a suitable sorting device, which
+forces agents to reveal their types. Bester (1985) and others have shown that
+collateral can be used as a sorting device, since ‘safe’ borrowers will be more willing
+to undertake secured borrowing than ‘risky’ ones. The resulting separating
+equilibrium involves no credit rationing.
+More recent contributions focus on the imperfect substitutability between retail
+deposits and wholesale deposits/debt on the liability side of the banks’ balance sheets.
+In Bernanke and Blinder (1988) a number of borrowers are bank-dependent in the
+sense that their only providers of outside finance are banks. This assumption can be
+rationalised on the grounds that there are fixed costs of direct financial market
+participation, and certain borrowers (i.e. small firms) will find those uneconomical.
+Furthermore, Bernanke and Blinder assume that banks themselves suffer from
+information problems in the market for equity and corporate debt, which implies that
+they cannot raise outside capital to replace lost retail deposits. This imperfect
+substitution between retail and wholesale deposits (debt) means that a fall in retail
+deposits induced by a monetary contraction tends to be followed by a decline in loans
+rather than an increase in the wholesale deposits. Bernanke and Blinder show that
+such structures tend to amplify the effects of monetary policy shocks.
+A new strand of the literature has attempted to provide fresh microfoundations for the
+bank lending channel. Van den Heuvel (2001) examines bank behaviour in the
+presence of a ‘capital-adequacy ratio’ and a constraint on new equity issues. He shows
+that banks which face these two constraints will react differently to shocks compared
+to the case when they can readily issue new equity to ensure that they always satisfy
+6
+
+DeMeza and Webb (1987) consider a different form of uncertainty about entrepreneurs’ projects that
+leads to overinvestment in equilibrium. They assume that each project receives the same return R if
+
+13
+
+the capital-adequacy ratio. The paper demonstrates using numerical simulations that
+following a shock to their equity, banks will contract potentially profitable lending if
+they get sufficiently close to the capital-adequacy ratio. And since banks hold shortterm liabilities and long-term assets, monetary policy shocks will act as shocks to
+bank equity. Furthermore, this ‘bank capital channel’ can work in a highly non-linear
+fashion, implying significant potential for asymmetries in monetary transmission.
+The essential feature of the bank lending channel is thus that the central bank can
+affect the supply of credit by financial intermediaries by altering the quantity of base
+money, thus raising the cost of capital to bank-dependent borrowers. This effect is
+additional to that induced by the change in the official interest rate operating via the
+interest rate channel.
+For a special role for banks in monetary transmission, we need at least some
+borrowers in the economy to be bank-dependent for their external finance. Fixed
+costs to direct financial market participation is a frequently cited motivation for the
+existence of bank-dependent borrowers. Banks can economise on the fixed costs of
+monitoring, which makes them the natural provider of finance for borrowers that are
+too small to be able to issue securities directly to the market. Hence, any changes in
+banks’ willingness to lend will influence such borrowers directly, generating a bank
+lending channel of transmission. Finally, minimum capital requirements (MCR) offer
+one plausible mechanism that may affect banks’ willingness to lend when their capital
+is close to the regulatory minimum.
+The quantitative significance of the bank lending channel will depend partly on the
+size of the lending contraction for a given monetary policy shock. This contraction
+will be greater, the more interest elastic is the demand for money. With elastic money
+demand, deposits (and hence loans) will show more variation in response to a policy
+shock. Furthermore, the larger is the pool of bank-dependent borrowers, the bigger
+will be the effect of the lending contraction on the real economy.
+
+successful but have different probabilities of success. The result is over-investment as high probability
+projects subsidise low probability ones.
+
+14
+
+3.3
+
+The broad credit channel
+
+Much of the recent theoretical research on the role of credit in economic fluctuations
+has focused on ‘moral hazard’ problems in the principal-agent relationship that
+characterises debt contracts. These models derive a role in the monetary transmission
+mechanism for credit in general, and not just bank lending. Bernanke, Gertler and
+Gilchrist (1999) and Carlstrom and Fuerst (2000) are perhaps the most widely cited
+papers in this literature. In their models, there are ‘bad’ states of the world, when it
+would be efficient for firms to default on their debts. But because of limited liability,
+borrowers may prefer to default on their borrowings in other states of the world too.
+And because ‘state verification’ is costly, lenders have to pay a cost to ascertain
+whether the true state of the world warrants default or not. Lenders will therefore
+demand an external finance premium in steady state to compensate them for this ‘state
+verification cost’. The consequence of these credit market imperfections is that firms
+will find it cheaper to invest out of retained funds than out of borrowed funds. Hence,
+stronger firm cash flow will lead to higher investment. In general equilibrium, this
+mechanism has the potential to provide amplification and propagation, because
+aggregate demand shocks will affect firm cash flow, causing persistent movements in
+firms’ average cost of capital and investment.
+Kiyotaki and Moore (1997) assume incomplete contract enforceability and show that
+entrepreneurs will be credit constrained. They argue that if the value of investment
+projects is highly dependent on human/entrepreneurial capital, lenders will only issue
+loans up to the value of physical capital. The reason for this is that physical capital
+can be foreclosed upon, unlike human capital. The aggregate consequences are
+similar to that of Bernanke, Gertler and Gilchrist: investment is highly dependent on
+the value of collateral, which can generate amplification and persistence following
+monetary shocks.
+Cooley, Quadrini and Marimon (2000) also assume incomplete enforceability and
+examine the structure of long-term incentive-compatible contracts between
+entrepreneurs and lenders. They find that the incentive-compatible contract involves
+higher investment and higher growth by new firms than by old, and that the
+investment of new firms depends on cash flow. The intuition is the following: when
+15
+
+the firm is ‘young’ and/or current cash flow is high, there is an incentive for the
+entrepreneur to repudiate the contract, and appropriate the entire cash flow. Hence,
+the optimal contract has to provide sufficient incentives to the entrepreneur not to
+default. This is achieved through growth in the value of the firm, which is achieved
+through higher investment. In general equilibrium, the incentive-compatible
+financial contracts that Cooley, Quadrini and Marimon examine can prolong and
+amplify shocks.
+So, to summarise, all these models of the broad credit channel rely on the presence of
+moral hazard problems in debt markets. The appropriate design of financial contracts
+under moral hazard leads to significant departures from the Modigliani-Miller axioms
+and generates a role for credit in economic fluctuations. Incomplete insurance markets
+are a further necessary condition for a role for credit in monetary transmission. If
+private agents could buy an insurance policy against a ‘credit crunch’ none of the
+above mechanisms would exert any effect on the economy; such insurance naturally
+does not exist.
+The broad credit channel influences economic conditions by leading to variations in
+firms’ cost of capital in line with the financial health of firms. Hence this
+transmission channel will be quantitatively stronger when the terms of debt contracts
+are re-negotiable. For example, floating rate loans/bonds at a fixed spread over
+government or money market instruments will not be affected by deterioration in
+credit quality (instead the bond-holder will realise a loss on his initial investment).
+On the other hand, loans/bonds where lenders can frequently change the spread (such
+as those with embedded options) will be affected in line with the predictions of credit
+channel theories. But even when most loans are at a fixed, long-term rate, the effect
+of the credit channel will be increasing in the ‘churn’ in the debt stock – i.e. that
+proportion of the debt stock that is new each period.
+
+4
+
+The empirical evidence
+
+In the previous section we outlined the interest rate channel view of monetary
+transmission and discussed the puzzles that motivated research on the role of credit in
+
+16
+
+economic fluctuations. We showed that there were two main ways through which
+credit affects the economy. The ‘bank lending channel’ predicts that banks will
+contract the supply of loans following a monetary shock. And the ‘broad credit
+channel’ predicts that financial factors such as cash flow and net worth will be among
+the determinants of firms’ expenditure. In this section we review some of the main
+empirical findings relating to the role of financial frictions in the transmission
+mechanism.
+4.1
+
+Evidence for the bank lending channel
+
+The bank lending view of monetary transmission is strongly motivated by the
+observation that a number of borrowers are dependent on banks for their sources of
+external finance. Kashyap and Stein (1994), using data from the Quarterly Financial
+Report for US manufacturing firms, have shown that in 1991, small firms were
+dependent on banks for 82.9% of their external finance. For medium sized firms, the
+share of bank debt was also very high, at 77%. This evidence, by itself, suggests that
+the behaviour of banks may be extremely important for the transmission of monetary
+policy.
+A number of papers have studied the co-movements of output and total bank lending
+following a monetary policy shock. Bernanke and Blinder (1992) have shown that
+bank loans decline following a contractionary monetary policy shock and have argued
+that this provides evidence for the existence of a bank lending channel. Aggregate
+lending to corporates in the United Kingdom is also positively correlated with
+investment, and leads GDP growth.
+There is, however, a serious identification problem in econometric work that uses
+aggregate data. Since loan demand is a function of the interest rate even under neoclassical capital markets, the interest rate channel is also capable of explaining the fall
+in lending aggregates following a monetary policy shock. What bank lending channel
+proponents need to demonstrate is that the fall in the quantity of lending was caused
+by a fall in loan supply (which is consistent with the bank lending view) rather than
+by a fall in loan demand (which is the ‘frictionless capital markets’ alternative
+hypothesis).
+17
+
+Kashyap, Wilcox and Stein (1993) have attempted to solve this identification problem
+by looking at the relative movements of bank lending and commercial paper issuance.
+Their results show that the ratio of commercial paper to bank loans rises following a
+monetary policy contraction. The authors argue that because large companies that are
+unlikely to be credit constrained issue commercial paper, this form of non-bank
+borrowing can provide a proxy for changes in demand for loans. Hence, Kashyap et
+al argue that changes in the composition of debt indicate a contraction of bank loan
+supply, which is consistent with an important bank lending channel.
+However, Oliner and Rudebusch (1995) argue that, rather than indicating a
+contraction in bank loan supply, Kashyap et al’s results are driven by a rise in
+commercial paper issuance, and a reallocation of bank lending from small firms to
+large firms. Hence, according to Oliner and Rudebusch, there is no evidence of a
+reduction in the supply of bank lending across the board, although there is some
+evidence that certain types of firms (e.g. small firms) do suffer a reduction in lending
+following monetary contractions.
+In line with the rest of the literature on financial market frictions, that on bank lending
+has resorted to microeconomic data to get a better understanding of their role in the
+transmission mechanism. Kashyap and Stein (2000) examine a large panel of US
+banks spanning 20 years of quarterly data. They examine the way bank lending
+responds to changes in monetary policy and find significant links between the size of
+a bank’s lending contraction and the bank’s balance sheet liquidity position as
+measured by the ratio of securities to total assets. The authors argue on the basis of
+their results that up to a quarter of the response of lending to a monetary shock is due
+to banks’ liquidity constraints. These numbers suggest that the bank lending channel
+plays a significant role in the monetary transmission mechanism.
+4.2
+
+Evidence for the broad credit channel
+
+Although bank lending is a very important source of external finance for firms, it is
+not the sole one, and much of the empirical literature on credit frictions has
+
+18
+
+concentrated on identifying the importance of credit in general and not just bank
+lending.
+The behaviour of financial variables provides one possible source of information that
+could be used to identify the effects of financial market frictions. Bernanke, Gertler
+and Gilchrist (1999) show that corporate spreads over risk-free government rates
+increase sharply in response to a contractionary monetary shock – this behaviour is a
+key element of their theory of the credit channel. Evidence for the United Kingdom
+in Hall (2001) actually suggests the opposite, i.e. that spreads fall in response to a
+contractionary monetary policy shock.
+But even taken at face value, the results of Bernanke, Gertler and Gilchrist do not lend
+convincing support to the broad credit channel. Corporate spreads will fluctuate even
+in the absence of credit frictions, simply because corporate risk or the market price of
+risk changes. In addition, as Cooper, Hillman and Lynch (2001) show, evidence from
+corporate bond spread indices is suspect, because individual spreads are a highly nonlinear function of individual debt-to-equity ratios. Consequently, changes to the
+financial health of a small sub-sample of firms could affect aggregate spreads, while
+being entirely consistent with frictionless credit markets.
+But by far the largest literature on credit constraints has grown out of the failure of the
+simple Q model of investment to match the data. According to neo-classical
+investment theory with added adjustment costs, investment should depend on
+marginal Q – the ratio of the additional value created by a unit of capital to the cost of
+capital. And as Hayashi (1982) has shown, under the assumption of perfectly
+competitive product markets, constant returns to scale and quadratic adjustment costs,
+marginal Q will be equal to Tobin’s (average) Q – the ratio of the stock market value
+of the firm to the replacement cost of its capital stock. This result has motivated a
+number of papers to test whether an average Q model can adequately account for
+firms’ investment behaviour. But the results of these empirical tests have not been
+encouraging, with small or insignificant coefficients on average Q and low
+explanatory power of the regressions.
+
+19
+
+These poor empirical results are, in some studies, taken as evidence of
+misspecification caused by omitting the effects of credit constraints on investment. If
+average Q fails to be a sufficient statistic for investment, and if other variables, such
+as cash flow turn out to be significant in explaining investment, this is interpreted as
+evidence in favour of a broad credit channel. Obviously, any test of the sufficiency of
+average Q is a joint hypothesis of the assumption of no credit frictions and the
+remaining assumptions underpinning average Q theory: there is plenty of scope for
+other types of mis-specification (see Hubbard, 1998, for a recent survey).
+The main approach of the literature to testing for the significance of credit constraints
+on investment has been to split firms into credit-constrained and unconstrained on ‘a
+priori’ grounds and then test for the significance of financial variables in explaining
+the investment decisions of both sets of firms. Below is a very brief sketch of the
+approaches in the literature.
+In a pioneering study, Fazzari et. al. (1988) split their sample of US firms into firms
+that pay high dividends and/or issue new shares (the credit unconstrained firms) and
+into firms that pay low dividends and do not issue new shares (the constrained firms).
+They find that their constrained firms are more sensitive to cash flow than the
+unconstrained firms. Devereux and Schiantarelli (1990) split their sample of UK
+firms according to firm size. However, their results are more mixed, with large firms
+more sensitive to cash flow than small ones. Other studies such as Gilchrist and
+Himmelberg (1995) have avoided using stock market derived measures of average Q.
+Instead they have derived forward-looking proxies for the profit opportunities of the
+firm using VAR forecasts. Gilchrist and Himmelberg find that the results from the
+rest of the literature on credit constraints in investment equations continue to hold.
+Bond and Meghir (1994) allow the firms to be subject to time-varying credit
+constraints by defining a dummy variable, which depends on the financial policy of
+the firm. The authors find that the investment of firms that pay low dividends and do
+not issue new equity remains more sensitive to cash flow than the investment of other
+(unconstrained) firms.
+The literature has also attempted to analyse the behaviour of lending around changes
+in monetary policy. Oliner and Rudebusch (1996) study the link between cash flow
+20
+
+and the investment of small and large firms around identified episodes of monetary
+tightening. They find evidence that the link between cash flow and investment
+becomes stronger for small firms following a monetary tightening, but does not
+change following a monetary expansion. At the same time, they find that the role of
+cash flow for the investment decisions of large firms is unrelated to monetary policy.
+Oliner and Rudebusch interpret their results as evidence for the operation of the broad
+credit channel.
+Recent contributions to the literature have offered an alternative interpretation to the
+presence of a statistically significant cash flow effect in investment. Cummins,
+Hasset and Oliner (2000), Bond and Cummins (2000) and Bond et. al. (2001) have
+argued that the above studies are using the wrong measure of Tobin’s Q. The stock
+market derived measures used in the literature are only good proxies for the
+investment opportunities faced by firms if the stock market reflects the net present
+value (NPV) of firms’ future profits at all times. If equity prices are noisy, they will
+only provide a very imperfect measure of the underlying economic concept of Tobin’s
+Q. The authors construct an alternative measure of Tobin’s Q based on investment
+analysts’ profit forecasts, and show that it is significant in investment equations, while
+cash flow becomes insignificant. In this interpretation, the significance of cash flow
+is not in itself sufficient evidence for the presence of a broad credit channel.
+4.3
+
+Summing up the evidence
+
+The brief literature survey above has quoted some (albeit not uncontroversial
+evidence) for the existence and importance of the credit channel. A number of studies
+have shown that credit effects are particularly important for small firms during
+periods of monetary tightening. These results are appealing from a theoretical point
+of view since small firms are most likely to be facing severe informational problems,
+and consequently credit constraints. Moreover, there are clear links between bank
+lending behaviour and bank balance sheet liquidity, which suggests that the bank
+lending may turn out to be a very significant source of monetary transmission when
+the banking system is relatively illiquid.
+
+21
+
+However, the recent literature on investment equations has cast some doubts on
+whether the significance of cash flow in Tobin’s Q regressions can be interpreted as
+evidence for credit constraints. It is possible that the significance of cash flow in
+investment equations may simply proxy for unobserved (to the econometrician) future
+profit opportunities. Nevertheless, the results of studies such as Bond and Meghir
+(1994) do suggest that the story may be more complex than this. Since cash flow is
+more significant for firms that are likely to be credit constrained, this leaves us with
+the possibility that the standard interpretation of credit constraints is the correct one.
+And as Hubbard (1998) has shown, a number of other interpretations on the
+significance of lagged cash flow in investment equations are possible. What we need
+in order to separate the effects of future profit opportunities and credit on investment
+is a theory of how credit constraints affect Tobin’s Q. More empirical and theoretical
+work is needed in this area.
+
+5
+
+Why should a policymaker care?
+
+In this section we shift the focus of the discussion to the implications of credit
+frictions for the conduct of monetary policy – the ‘why should we care’ question. We
+centre the discussion on two broad sets of issues. First, how should the presence of
+such frictions in financial markets modify the conduct of monetary policy? Here we
+focus on the optimal commitment equilibrium in a simple macroeconomic model as
+the extent of financial frictions varies. Second, these frictions may have asymmetric
+and temporary effects, leading to uncertainty about the timing and magnitude of the
+transmission mechanism. The approach we adopt here is a robust control one.
+5.1
+
+The model
+
+We take a simple closed economy New Keynesian macroeconomic model (which as a
+baseline will not have a credit channel), of the Clarida, Gali and Gertler (1999) type.
+We then ask how the presence of a credit channel will modify it, and how this in turn
+will affect optimal monetary policy. The model’s equations are:
+
+22
+
+(1)
+
+yt = Et yt +1 − σ ( Rt − Etπ t +1 ) + vt
+
+(2)
+
+π t = β [ω Etπ t +1 + (1 − ω ) π t −1 ] + µ yt + ut
+
+where yt is the deviation of output from potential, πt is inflation, Rt is the nominal
+interest rate, vt is an aggregate demand shock, and ut is a cost shock. Equation (1) is
+an IS/aggregate demand equation, e.g. derived from an intertemporal optimality
+condition for consumption. Equation (2) is a New Keynesian aggregate supply
+schedule embodying a Buiter and Jewitt (1982)/Fuhrer and Moore (1995) model of
+overlapping contracts. A period should be thought of as a quarter. We assume that the
+monetary authorities care about the variability of output, inflation and the nominal
+interest rate. The policymaker’s loss function is:
+
+(3)
+
+∞
+
+Ω = å E0 β t [(π t )2 + ( yt ) 2 + γ ( Rt ) 2 ]
+t =0
+
+where for concreteness we have assumed equal weights on the variability of output
+and inflation.
+In what follows we do not explicitly model financial frictions. As noted earlier, there
+are a variety of candidate models of financial frictions, each of which may lead to a
+somewhat different modification of the model. But our objective is to draw some
+general lessons for policy, so instead we merely note that financial frictions tend to
+generate two key features: greater persistence in demand and output movements; and
+an amplified response of demand to changes in interest rates. It is these features that
+we then introduce into the model to capture the impact of financial frictions.
+Obviously this ignores certain important aspects of frictions, in particular that their
+effect may be non-linear or asymmetric. However, introducing such features is
+complex and would take us well beyond the rather limited ambitions of the present
+paper.
+To see how persistence is generated, and following Kiyotaki and Moore (1997) and
+Cooley, Quadrini and Marimon (2000), suppose that the economy consists of some
+
+23
+
+firms that have access to credit markets and others that are credit-constrained.
+Expected profitability and the cost of borrowing will determine the investment
+decisions of the former. Those of the latter will, by contrast, also depend on past
+profits and cash flow. This will introduce extra persistence into the economy because
+strong corporate performance generates improved cashflow, providing creditconstrained firms with increased funds for future investment. Higher investment at
+the firm level then leads to stronger economic growth and additional improvements to
+profitability, cash flow and net worth, leading to further investment, and so on.
+Hence, the presence of credit constrained firms, which invest mainly out of retained
+profits will produce an IS curve with more output persistence:
+(1’)
+
+yt = α Et yt +1 + (1 − α ) yt −1 − σ ( Rt − Etπ t +1 ) + vt
+
+Of course, as Clarida, Gali and Gertler (1999) argue, there may be a number of
+features, other than credit constraints, which can generate endogenous output
+persistence. For example, investment adjustment costs and habit persistence in
+consumption can both be used to motivate persistence in the IS curve. But even so,
+the presence of financial frictions should generate greater persistence than in their
+absence.
+With regard to amplification, in credit channel models the interest rate faced by firms,
+Rft, typically depends on the policy rate and an external finance premium which is
+increasing in the debt-to-equity ratio, Dt/Et, of the firm
+(4)
+
+Rt f = Rt + f t (Dt / Et )
+
+(f’ > 0)
+
+But the value of equity will itself be a function of the interest rate and expected future
+equity values. If, as is likely, equity prices fall when the interest rate increases, the
+external finance premium will rise, magnifying the impact of policy on the economy.
+We therefore capture the impact of the external finance premium by increasing the
+parameter σ.
+
+24
+
+As our results are intended to be illustrative, we do not attempt a precise calibration of
+the model. Instead, we employ plausible parameters drawn from the existing
+literature on simple rules in small macroeconomic models, although note these are
+themselves usually informed by empirical research. Thus the weight on expected
+inflation in the supply curve, ω, is set to 0.2 in line with Batini and Haldane (1999)
+and Batini and Nelson (2000). The response of inflation to activity, µ, is set to 0.1,
+which is broadly consistent with the estimates of Bean (1998) for the United Kingdom
+(recall that a period is a quarter).
+The parameters of the aggregate demand schedule will vary depending on the strength
+of the credit frictions. In order to capture the degree of financial frictions in the
+economy we vary α between 0 and 1, with a low α indicating strong credit frictions.
+Chart 2 demonstrates the effect of varying α by plotting the auto-correlation functions
+for output in the model conditional on a standard Taylor rule. As the chart shows, the
+auto-correlation function (ACF) of output displays more persistence in the ‘credit
+frictions’ case. The other parameter we use to calibrate the credit channel is σ , where
+a high value indicates high interest rate sensitivity. For the parameter σ there are a
+substantial number of estimates available. Estimates for the US range from 0.16
+(McCallum and Nelson, 1999) to 6.0 (Rotemberg and Woodford, 1997). The real
+business cycle literature normally sets σ equal to unity. We set the benchmark value
+of σ to 0.6, in line with Neiss and Nelson (2001). We set our range at between 0.1
+and 1.5, encompassing all but the very largest estimates of σ for the US or the UK.
+There is less evidence on α. To get a feel for the appropriate value, we estimated (1’)
+with UK data, conditional on σ = 0.6, using instrumental variables. This suggested a
+value close to 0.5. To get a feel for the time variation in this parameters, we then
+estimated a set of rolling regressions where we allowed α to vary, conditional on
+
+σ = 0.6. This procedure suggested relatively little time variation in the point estimate
+for α, but with very substantial standard errors. On the basis of that, we calibrate the
+‘strong credit frictions’ model with α set to 0.1 and the ‘no credit frictions’ model
+with α set to 0.9, with a benchmark value of 0.5.
+
+25
+
+With regard to the policymaker’s preferences, we set γ to 0.25, implying some
+concern about interest rate variability, but to a much lesser extent than with the
+variances of output and inflation. Finally both the shocks are assumed to be white
+noise, with a standard deviation of 0.5%.
+5.2
+
+Optimal monetary policy under different degrees of financial friction
+
+We start by considering how the optimal monetary policy differs from one economy
+to another according to the extent of financial frictions, i.e. how policy is affected by
+the values of σ and α. We do not consider the more complex question of how policy
+should respond during the transition from one steady state to another, e.g. during a
+financial liberalisation.
+Throughout, we assume the policymaker has access to an appropriate commitment
+technology. Following Woodford (1999), the optimal commitment equilibrium (also
+described as the ‘timeless perspective’ by McCallum and Nelson, 2000) involves
+minimisation of the loss function at ‘the beginning of time’.7 This gives an optimal
+contingent plan for the interest rate, which by assumption the policymaker can
+commit to.
+The policy problem is thus:
+(5)
+
+∞
+
+minπ , y , R å E0 β t [(π t ) 2 + ( yt )2 + γ ( Rt )2 ] ,
+t =0
+
+subject to the IS curve (1’) and the supply curve (2). The first-order conditions
+characterising the optimum under commitment are:
+
+(6a)
+
+dL
+= (1 − ω ) β 2 Etκ t +1 − κ t + ωκ t −1 + σβ −1λt −1 − π t = 0
+dπ
+
+(6b)
+
+dL
+= (1 − α ) βλt +1 − λt + αβ −1λt −1 + µκ t − yt = 0
+dy
+
+(6c)
+
+dL
+= γ Rt + σλt = 0
+dR
+
+7
+
+McCallum and Nelson (2000) argue that the commitment equilibrium can be interpreted as a binding
+commitment on the central bank that was made at some indefinite point in the past.
+
+26
+
+(6d)
+
+dL
+= yt − α Et yt +1 − (1 − α ) yt −1 + σ ( Rt − Etπ t +1 ) = 0
+dλ
+
+(6e)
+
+dL
+= π t − βω Etπ t +1 − β (1 − ω ) π t −1 − µ yt = 0
+dκ
+
+where L is the Lagrangian and λ and κ are the Lagrange multipliers on, respectively,
+the IS curve and the supply curve. Equations (6a) to (6e) form a system of secondorder difference equations, which we solve using the Klein/Minimum State Variable
+solution algorithm. We then use the solved model to plot dynamic time paths for the
+endogenous variables following shocks.
+Chart 3 shows the dynamic response of the system to a cost shock for two pairs of IS
+curve parameters: σ = 0.4 and α = 0.9, which we take as the ‘no frictions’ case; and
+σ = 0.8 and α = 0.1, corresponding to strong frictions. The chart shows that the
+variability of the output gap and inflation are little affected by the removal of
+frictions. This is because there are offsetting influences on the second moments of
+these variables. The reduction of the potency of monetary policy increases variability
+holding everything else constant. Acting in the opposite direction is the increase in
+flexibility brought about by the reduction in credit market frictions. This tends to
+stabilise output and inflation because firms and households become less sensitive to
+current economic conditions. The behaviour of policy does, however, change
+dramatically. The nominal interest rate rises less initially, but the rise is more
+persistent. As Chart 3 shows, the nominal interest rate becomes considerably less
+volatile when financial frictions diminish. This is related to the result in Woodford
+(2000), where binding commitment can affect output and inflation volatility now. So
+when firms are unconstrained in their investment decisions, gradual movements in the
+policy rate following a shock will, through the expectations channel, affect output and
+inflation now. This allows the central bank to stabilise output and inflation with
+lower instrument variability. In contrast, when financial markets are subject to
+significant imperfections, monetary policy needs to be more aggressive in order to
+prevent persistent fluctuations in inflation and output.
+Chart 4 plots the two economies’ response to a negative demand shock. The chart
+shows that policy is more aggressive in the ‘credit frictions’ case – the fall in interest
+27
+
+rates is larger than in the ‘no credit frictions case’. The chart also shows that, in the
+optimal equilibrium, policy avoids volatility of output and inflation in the credit
+constrained economy. In contrast, the unconstrained economy is characterised by
+overshooting of both output and inflation. This is again related to the benefit of
+commitment – when firms and households are forward-looking and unconstrained in
+their decisions, policy can affect their current decisions through a binding
+commitment to future policy actions.
+Table 2 shows the steady-state standard deviations of the endogenous variables in our
+model. The table shows again that the main effect of financial change in our simple
+framework is to reduce the variability of interest rates needed to stabilise inflation and
+output. But overall, provided the policymaker knows the values of α and σ, it seems
+that it does not matter whether frictions are present or not, at least far as stabilisation
+is concerned. Of course, the presence of financial frictions will affect the level of
+potential output – typically reducing it below the symmetric information efficient
+equilibrium – so the application of other policies to attenuate frictions caused by
+informational asymmetries, etc., may well be welfare enhancing.
+5.3
+
+Policy when the impact of financial frictions is uncertain
+
+In this section, we recognise that there is considerable uncertainty about the impact of
+financial frictions on the transmission mechanism and explore the consequences of
+that uncertainty for policy design. Of course, even if policy affects the economy
+solely through the classical interest rate channel, there may still be uncertainty about
+the interest elasticity of investment and other key parameters. But as more evidence
+accumulates one might hope to be able to pin these down more precisely. By contrast,
+the potentially asymmetric and episodic nature of financial frictions is likely to lead to
+uncertainty that cannot be resolved purely through the passage of time and the
+accumulation of more aggregate data. There are at least two reasons for this. First,
+following Kocherlakota (2001), credit constraints are fundamentally an asymmetric
+propagation mechanism, because they are most often binding when firms want to
+increase their borrowing in a downturn. Ascertaining the extent to which they bind
+requires detailed microeconomic evidence that is unlikely to be available to the
+policymaker. Secondly, following van den Heuvel (2001), the supply of credit is
+
+28
+
+likely to be influenced by the health of the financial system as well as the shocks
+hitting it at any point in time. Hence, to the extent that policymakers do not have
+precise knowledge of the state of the financial system, they will face considerable
+uncertainty when trying to evaluate the likely response of the economy to changes in
+monetary policy.
+In what follows, we attempt to capture this innate uncertainty by thinking of α and σ
+as time-varying parameters that respond both to aggregate shocks hitting the financial
+sector over the course of the business cycle and to developments at the
+microeconomic level. Ideally, one would make them functions of the endogenous
+variables in the model (such as output and the real interest rate), but this results in a
+non-linear system greatly complicating the problem of finding the optimal policy.
+Such a task, while worthwhile, lies beyond the limited ambitions of this paper.
+The standard approach to policy design under parameter uncertainty follows the
+classic paper by Brainard (1967). That approach assumes the policymaker also knows,
+or can formulate, a distribution for the unknown parameters; optimal control
+procedures can then be applied in the standard way. In practice the policymaker may
+not feel sufficiently well informed to formulate such a distribution. This is particularly
+relevant in the current context where detailed microeconomic evidence would
+probably be required to formulate such a distribution. For that reason we adopt a
+robust control approach, along the lines of Hansen and Sargent (2000) and Giannoni
+(2001). In particular we suppose that, due to the complexity of the financial sector,
+the monetary authority does not know, and cannot formulate, a probability
+distribution over the key parameter values. Instead they only know the range of
+possible parameter realisations (assumed fixed for all time). This replaces the
+Brainardian problem of uncertain and time-varying parameters with one of Knightian
+parameter uncertainty.
+Following Hansen and Sargent (2000) and Giannoni (2001), the robust policy rule in
+these circumstances is the one that minimises the objective function in the worst case
+scenario (the min-max Nash equilibrium). This can be thought of as a game between
+the policymaker and a Malevolent Nature, with the policymaker choosing a policy
+
+29
+
+that minimises the loss function, and Nature picking a parameter combination
+designed to maximise the loss, given that policy is conducted optimally.
+Chart 5 below gives a diagrammatic representation of the solution. We define ranges
+for α and σ ( α ∈ [ 0.1, 0.9] , σ ∈ [ 0.1,1.5] ), and compute the welfare loss in the
+commitment equilibrium for each parameter combination. So each point on the chart
+corresponds to the minimised social welfare loss conditional on a given set of
+parameters. It is easy to see from the chart that Nature will pick α = 0.1 and σ = 0.1,
+the parameters which give the highest minimised welfare loss.
+We argued above that financial frictions tend to increase σ (through the effect of the
+external finance premium) and reduce α (by increasing credit constraints), and that
+low financial frictions would thus be characterised by a relatively small σ and a large
+α. But the worst case scenario involves low σ and low α. So this case corresponds to
+one where the external finance premium is unaffected by the change in the policy rate;
+see equation (4). In turn this will be the case if either the external finance premium is
+only weakly responsive to the debt-equity ratio or the valuation of equity is relatively
+unaffected by changes in official rates.
+5.4
+
+Robustness versus performance
+
+A robust policy like that derived here ensures relatively good outcomes in the worst
+case scenario. But it may produce relatively poor outcomes for other realisations of
+the parameters. And in many cases, including that considered here, the robust policy
+optimises performance at the boundary of the support of the parameters. It is
+consequently very sensitive to where these boundaries are located. There is something
+rather unsatisfactory in assuming that the policymaker can say with great confidence
+what the range of feasible parameter values is, whilst at the same time positing total
+ignorance about the relative likelihood of different parameter values occurring within
+the distribution. What we really seek, therefore, is some sort of half-way house
+between Brainardian and Knightian uncertainty.
+
+30
+
+To see the force of the first of these points, suppose that the policymaker is willing to
+take the view that the “most likely” realisation of the parameter values corresponds to
+the intermediate values σ = 0.6 and α = 0.5. As an alternative strategy (we make no
+claims for optimality here), consider setting policy to minimise the expected loss
+assuming that the parameters take these values (the ‘Modal rule’). Chart 6 shows the
+relative welfare loss (on the vertical axis, in log differences) under the Robust rule
+and under the Modal rule across the parameter space. Negative values in the chart
+indicate that the Robust rule delivers lower expected loss than the Modal rule (and
+vice versa). The key conclusion to be drawn here is that the Modal rule performs
+better than the Robust rule for most of the parameter space, but its performance
+deteriorates rapidly as monetary policy loses its potency and credit constraints bite.
+However, the deterioration only occurs at values of σ and α below 0.2 – the very
+extreme of the parameter range we consider.
+Charts 7 and 8 illustrate the same point in two dimensions. Chart 7 computes the
+expected losses under the Robust and Modal rules (we discuss the ‘Intermediate rule’
+below) as we vary σ for three different values of α. Chart 8 computes the expected
+losses as we vary α for three different values of σ. Again, we can see how the Robust
+rule is dominated by the Modal rule for most of the parameter space. The Robust
+rule, however, delivers insurance against the worst case scenario.
+Now suppose that the policymaker has some prior knowledge on the distribution of
+the parameters, but is unwilling or unable to fully specify it. We consider a
+modification of the Robust control approach in which the policymaker is prepared to
+make some statement about the relative likelihood of different parameter values and a
+Malevolent Nature then chooses the worst possible distribution. The policymaker then
+minimises the expected loss, using the standard approach, and given that distribution.
+To illustrate this, suppose that the policymaker knows the most likely outcome (σM)
+and the support of the distribution of σ ([σLOW, σHIGH]), but not its shape. However,
+(s)he is prepared to state that values closer to the mode are at least as likely as values
+far away from the mode. As discussed above, the conduct of policy becomes more
+difficult for smaller values of σ. So, Nature would like to place as much probability
+
+31
+
+as possible into the lower tail of the distribution of σ. But she is constrained in her
+choice of distribution, because values closer to the mode must be at least as likely as
+values further away from the mode. Then it is easy to see that the worst distribution
+Nature can inflict upon the policymaker is a uniform distribution over the support
+[σ LOW , σ M ] ; see Chart 9. Conditional on this distribution, the policymaker then
+solves a standard optimal control problem over the relevant subset of the parameter
+space. We refer to this policy as the Intermediate rule, as it combines elements of both
+standard policy optimisation and robust control.
+To see what effect this might have in the present model, assume the support of σ and
+α is as above, and that the modal values are also as given above. Then Malevolent
+Nature picks a uniform distribution defined over {σ, α}, {[0.1, 0.6], [0.1, 0.5]}. The
+policymaker then minimises the expected loss, given this parameter distribution. This
+last step is a little complex in even this relatively simple set up, but to get a feel for
+the implications of the approach we have calculated the expected welfare losses where
+the optimal policy is calculated assuming that σ and α are equal to their means with
+respect to the distribution selected by Nature, i.e. just the average of σM and σLOW,
+and αM and αLOW, respectively. This rule, of course, does not correspond to the
+optimal rule calculated over the entire subspace, but it is probably a reasonable
+approximation.
+Chart 10 compares the performance of the Modal and Intermediate rules over the
+feasible parameter range. The Intermediate rule gives roughly comparable
+performance to the Modal rule, while still providing some insurance against the worst
+case scenario. Of course, as Chart 11 comparing the Robust and Intermediate rules
+shows, this insurance is not complete: the Robust rule still performs better in the
+worst case. But the Intermediate rule performs better than the Modal rule under a
+wider range of parameter values than the Robust rule, and is hence less sensitive to
+extreme values. Charts 7 and 8 help to make the comparison between the rules
+clearer. Again, we can see that the Intermediate rule combines good performance
+across the permissable parameter range with (limited) insurance properties in the
+worst case.
+
+32
+
+6
+
+Concluding Remarks
+
+In this paper we have surveyed some of the ways that financial frictions can augment
+the classical interest rate channel whereby changes in monetary policy affect the
+economy. The difficulty of providing a satisfactory explanation of the magnitude and
+persistence of the effects of changes in the official interest rate relying solely on the
+classical channel suggests that financial frictions may be an important, and possibly
+very important, part of the transmission mechanism. However, these frictions may be
+manifested in a variety of ways, as witnessed by the variety of theoretical models in
+the credit channel and bank lending literatures.
+Sorting out the relative importance of these different channels is hampered by the fact
+that the competing theories often have similar implications, at least on aggregate data.
+However, the microeconomic evidence does suggest that both the credit channel and
+bank lending channel are operative.
+With respect to the implications for the conduct of monetary policy, a key feature of
+financial frictions is that they tend to increase persistence and also amplify the effect
+of changes in official interest rates. In our New Keynesian macroeconomic model, the
+presence of such frictions means that policy has to be rather more aggressive. This is
+because the forward-looking elements in the transmission mechanism are relatively
+less important when there are frictions, so that expectations of future movements in
+interest rates have a more muted effect on the economy today.
+The nature of these financial frictions, and their potentially asymmetric and episodic
+character, are also likely to introduce (even greater) uncertainty into the magnitude
+and timing of the response of the economy to changes in monetary policy. Here we
+drew on the recent robust control literature to explore how optimal policy under
+Knightian uncertainty would be affected. That approach suggests that the policymaker
+should act on the assumption that credit constraints are important (so persistence is
+high) but that the external finance premium is not very responsive to the level of
+interest rates (so that demand is not particularly responsive to interest rates).
+Arguably, the robust control approach places too much weight on avoiding bad
+
+33
+
+outcomes in extreme cases. We therefore considered a case that is intermediate
+between robust control and standard optimal control where the economy is subject to
+a known stochastic law of motion. In our intermediate case the policymaker can say
+something, but not everything about the nature of the distribution (s)he is faced with.
+This approach potentially moderates the sensitivity to extreme events found under the
+standard robust control approach.
+Clearly there is still much more to be said and written on this topic. However, we
+hope that the papers at this conference will lead to advancement in our understanding
+in this area.
+
+34
+
+References
+Agresti, A M and Mojon, B. (2001), ‘Some stylised facts on the euro-area business
+cycle’, ECB Working Paper 95
+Aoki, K, Proudman, J and Vlieghe, G. (2001), ‘Houses as collateral: has the link
+between house prices and consumption in the UK changed?’, Bank of England Mimeo
+Batini, N and Haldane, A. (1999), ‘Forward looking rules for monetary policy’,
+Bank of England working paper series 91.
+Batini, N and Nelson E. (2000), ‘Optimal horizons for inflation targeting’, Bank of
+England working paper series 119.
+Baxter, M and King, R. (1999), ‘Measuring Business Cycles: Approximate BandPass Filters for Economic Time Series’, Review of Economics and Statistics, 81(4),
+pp. 575-93.
+Bean, C. (1998), ‘The New UK Monetary Arrangements: A View from the
+Literature’, Economic Journal, 108(451), pp. 1795-1809
+Benati, L. (2001), ‘Band-pass filtering, cointegration, and business cycle analysis’,
+Bank of England Working Paper 142
+Bernanke, B S and Blinder, A. (1988), ‘Credit, money and aggregate demand’,
+American Economic Review 78, pp. 435-439
+Bernanke, B S and Blinder, A. (1992), ‘The Federal Funds Rate and the Channels of
+Monetary Transmission’, American-Economic-Review, 82(4), pp 901-21.
+Bernanke, B S and Gertler, M. (1995), ‘Inside the black box: the credit channel of
+monetary policy transmission’, Journal of Economic Perspectives, Vol 9, No 4, p 2748.
+Bernanke, B S and Gertler, M. (1999), ‘Should Central Banks respond to
+movements in asset prices?’ American-Economic-Review, 91(2), pp. 253-57
+Bernanke, B S, Gertler, M and Gilchrist, S. (1999), ‘The financial accelerator in a
+quantitative business cycle framework’, Handbook of Macroeconomics, Volume 1,
+Ed. by J. B. Taylor and M. Woodford
+Bester, H. (1985), ‘Screening vs rationing in credit markets with imperfect
+information’, American Economic Review 75(4): 850-55
+Blackburn, K and Ravn, M. (1992), ‘Business Cycles in the United Kingdom: Facts
+and Fictions’, Economica, 59(236), pp. 383-401.
+Bond, S and Cummins, J G. (2000), ‘Nosiy share prices and the Q model of
+investment’, mimeo
+
+35
+
+Bond, S, Klemm, A, Newton-Smith, R and Vlieghe, J. (2001), ‘Investment, Tobin’s
+Q and earnings forecasts’, Bank of England, mimeo
+Bond, S and Meghir, C. (1994), ‘Dynamic investment models and the firm’s
+financial policy’, Review of Economic Studies 61, 197-222.
+Brainard, W. (1967), ‘Uncertainty and the effectiveness of Monetary Policy’,
+American Economic Review, Papers and Proceedings, Vol 57, pp. 411-25.
+Buiter, W and Jewitt, I. (1981), ‘Staggered Wage Setting with Real Wage
+Relativities: Variations on a Theme of Taylor’, Manchester School of Economic and
+Social Studies, 49(3), pp. 211-28.
+Carlstrom, C T and Fuerst, T. S. (2000), ‘Monetary shocks, agency costs and
+business cycles’, Federal Reserve Bank of Cleveland Working paper series 0011.
+Cecchetti, S G, Genberg, H, Lipsky and Wadhwani, S. (2000), ‘Asset prices and
+central bank policy’, CEPR Discussion Paper
+Chami, R and Cosimano, T. (2001), ‘Monetary policy with a touch of Basel’, IMF
+Working Paper 151
+Christiano, L J, Eichenbaum, M and Evans, C. (1996), ‘Sticky Price and Limited
+Participation Models of Money: A Comparison’, National Bureau of Economic
+Research Working Paper: 5804
+Christiano, L J, Eichenbaum, M and Evans, C. (1999), ‘Monetary policy shocks:
+what have we learned and to what end?’, Chapter2, Handbook of Macroeconomics,
+Volume 1, Ed. by J. B. Taylor and M. Woodford
+Christiano, L J, Eichenbaum, M and Evans, C. (2001), ‘Nominal rigidities and the
+dynamic effects of a shock to monetary policy’, National Bureau of Economic
+Research Working Paper: 8403
+Christiano, L J and Gust, C. (1998), ‘Taylor Rules in a Limited Participation
+Model’, National Bureau of Economic Research Working Paper: 7017
+Clarida, R Gali, J and Gertler, M. (1999), ‘The science of monetary policy: a new
+keynesian perspective’, Journal of Economic Literature, Vol 37, p 1661-1707.
+Clements, B, Kontolemis, Z and Levy, J. (2001), ‘Monetary policy under EMU:
+differences in the transmission mechanism?’, IMF Working Paper 102
+Cooley, T, Quadrini, V and Marimon, R. (2001), ‘Aggregate consequences of
+limited contract enforceability’, mimeo
+Cooper, N, Hillman R and Lynch, D. (2001), ‘Is there a US credit crunch?’, Bank of
+England Quarterly Bulletin, Volume 41, Number 1
+
+36
+
+Cummins, J G, Hassett, K A and Oliner, S. D. (1999), ‘Investment behavior,
+observable expectations, and internal funds’, Board of Governors of the Federal
+Reserve System, Finance and Economics Discussion Series: 99/27.
+DeMeza, D and Webb, D. (1985), ‘Too much investment: a problem of asymmetric
+information’, Quarterly Journal of Economics
+Devereux, M and Schiantarelli, F. (1990), ‘Investment, financial factors and cash
+flow from UK panel data’, in G. Hubbard (ed.), Information, capital market and
+investment, Chicago, IL, University of Chicago Press
+Dhar, S and Millard, S. (2000), ‘A limited participation model of the monetary
+transmission mechanism in the United Kingdom’ Bank of England Working Paper
+117
+Dhar, S, Pain, D and Thomas, R. (2000), ‘A small structural empirical model of the
+UK monetary transmission mechanism’ Bank of England Working Paper 113
+Faia, E. (2001), ‘Stabilization policy in a two country model and the role of financial
+frictions’, ECB Working Paper 56
+Faia, E and Monacelli, T. (2001), ‘Credit frictions and the exchange rate regime:
+mundell-fleming enters the financial world’, mimeo
+Fazzari, S M R, Hubbard, G and Petersen, B. C. (1988), ‘Financing constraints and
+corporate investment’, Brookings Papers on Economic Activity, p 141-195.
+Freixas, X and Rochet, J. C. (1999) The Microeconomics of Banking, MIT Press,
+Cambridge, Massachusetts
+Fuhrer, J and Moore, G. (1995), ‘Inflation persistence’, Quarterly Journal of
+Economics, 110(1), pp. 127-59
+Gertler, M, Gilchrist, S and Natalucci, F. M. (2000), ‘External constraints on
+monetary policy and the financial accelerator’, mimeo
+Giannoni, M. P. (2001), ‘Robust optimal monetary policy in a forward-looking
+model with parameter and shock uncertainty’, Federal Reserve Bank of New York,
+mimeo
+Gilchrist, S and Himmelberg, C. P. (1995), ‘Evidence on the role of cash flow for
+investment’, Journal of Monetary Economics; 36(3), pp. 541-72
+Hall, S. (1998), ‘Empirical evidence on the credit channel’, Bank of England mimeo.
+Hall, S. (2000), ‘Financial accelerator effects in UK business cycles’, Bank of
+England Mimeo
+Hansen, L P and Sargent, T. (2001), ‘Robust Control and Model Uncertainty’,
+American Economic Review; 91(2), pp. 60-66
+
+37
+
+Hayashi, F. (1982), ‘Tobin’s marginal Q and average Q: a neoclassical
+interpretation’, Econometrica, 50, 213-24.
+House, C. L. (2000), ‘Adverse selection and the accelerator’, Job Market Paper.
+Hubbard, R. G. (1998), ‘Capital market imperfections and investment’, Journal of
+Economic Literature, Vol XXXVI, p193-225
+Julius, D, Mahadeva, L, Roger, S and Sterne, G. (2000), in Monetary policy
+frameworks in a global context, L. Mahadeva and G. Sterne (ed.), Centre for Central
+Banking Studies, Bank of England
+Kashyap, A K and Stein, J. C. (1994), ‘Monetary policy and bank lending’, in N. G.
+Mankiw (ed.), Monetary Policy, IL, University of Chicago Press
+Kashyap, A K and Stein, J. C. (2000), ‘What do a million observations on banks say
+about the transmission of monetary policy?’, American Economic Review
+p407-428.
+Kashyap, A K, Stein J C and Wilcox, D. W. (1993), ‘Monetary Policy and Credit
+Conditions: Evidence from the Composition of External Finance’, American
+Economic Review; 83(1), pp. 78-98.
+Kocherlakota, N. (2000), ‘Creating Business Cycles through Credit Constraints’,
+Federal Reserve Bank of Minneapolis Quarterly Review; 24(3), pp. 2-10
+Klein, P. (1997), ‘Using the Generalized Schur Form to Solve a Multivariate Linear
+Rational Expectations Model’, Journal of Economic Dynamics and Control, 24(10),
+pp. 1405-23
+Kyotaki, N and Moore, J. (1997), ‘Credit cycles’, Journal of Political Economy,
+Vol. 105, pp. 211-48
+Layard, R, Nickell, S and Jackman, R. Unemployment: Macroeconomic
+performance and the labour market, Oxford University Press, 1991.
+Leeper, E M, Sims, C and Zha, T. (1996), ‘What Does Monetary Policy Do?’,
+Brookings Papers on Economic Activity, 1996, pp. 1-63
+Lown, C S and Morgan D. P. (2001), ‘Credit effects in the monetary mechanism,
+then and now’, Federal Reserve Bank of New York Mimeo
+Lown, C S, Peristiani, S and Robinson K. J. (1999), ‘What was behind the M2
+breakdown?’, Federal Reserve Bank of Dallas Financial Industry Studies Working
+Paper: 02/99
+McCallum, B and Nelson, E. (1999), ‘An Optimizing IS-LM Specification for
+Monetary Policy and Business Cycle Analysis’, Journal of Money,
+Credit, and Banking 31, 296–316.
+
+38
+
+McCallum, B and Nelson, E. (2000), ‘Monetary Policy for an Open Economy: An
+Alternative Framework with Optimizing Agents and Sticky Prices’, Oxford Review of
+Economic Policy, 16(4), Winter 2000, pp. 74-91
+McCallum, B and Nelson, E. (2000), ‘Timeless perspective vs. discretionary
+monetary policy in forward-looking models’, mimeo
+Meese, R A and Rogoff, K. (1983), ‘Empirical Exchange Rate Models of the
+Seventies: Do They Fit Out of Sample?’, Journal of International Economics; 14(12), pp. 3-24
+Meltzer, A. H. (1995), ‘Monetary, credit and (other) transmission processes: a
+monetarist perspective’, Journal of economic perspectives, Vol 9, No 4, p 49-72.
+Millard, S. (2000), ‘An examination of the monetary transmission mechanism in the
+United Kingdom’, Bank of England Mimeo
+Millard, S and Wells, S. (2001), ‘The role of asset prices in transmitting monetary
+and other shocks’, Bank of England Mimeo
+Mojon, B and Peersman, G. (2001), ‘A VAR description of the effects of the
+monetary policy in the countries of the euro area’, ECB Working Paper 92
+Neiss, K S, and Nelson, E. (2001). ‘The Real Interest Rate Gap as an
+Inflation Indicator’. CEPR Discussion Paper No. 2848.
+NBER Summer Institute, (2001), ‘The eurosystem monetary transmission network’,
+NBER progress report.
+Oliner, S D and Rudebusch, G. D. (1995), ‘Is there a bank lending channel for
+monetary policy?’ Federal Reserve Bank of San Francisco Economic Review 1995,
+No 2.
+Oliner, S D and Rudebusch, G. D. (1996), ‘Is there a broad credit channel for
+monetary policy?, Federal Reserve Bank of San Francisco Economic Review 1996,
+No 1.
+Peersman, G and Smets, F. (2000), ‘Cyclical and industry effects of monetary policy
+in the euro area’, ECB Mimeo
+Peersman, G and Smets, F. (2001), ‘Are the effects of monetary policy in the euro
+area greater in recessions than in booms?’ ECB Working Paper 52
+Peersman, G and Smets, F. (2001), ‘The monetary transmission mechanism in the
+euro area: more evidence from VAR analysis’ ECB Working Paper 91
+Romer, C D, and Romer, D. H. (1990), ‘New Evidence on the Monetary
+Transmission Mechanism’, Brookings Paper on Economic Activity 1: 149-98
+
+39
+
+Rothschild, M and Stiglitz, J. (1976), ‘Equilibrium in competitive insurance
+markets: an essay on the economics of imperfect information’, Quarterly Journal of
+Economics 90(4): 630-49.
+Rotemberg, J, and Woodford, M. (1997). ‘An Optimisation-Based
+Econometric Framework for the Evaluation of Monetary Policy’, NBER
+Macroeconomics Annual 12, 297–346.
+Schiantarelli, F. (1996), ‘Financial constraints and investment: methodological issues
+and international evidence’, Oxford Review of Economic Policy, vol. 12, no. 2.
+Smets, F and Wouters, R. (2001), ‘Monetary policy in an estimated stochastic
+dynamic general equilibrium model of the euro area’, ECB mimeo
+Spence, A. S. (1973), ‘Job Market Signalling’, Quarterly Journal of Economics,
+87(3), pp. 355-74
+Stiglitz, J E and Weiss, A. (1981), ‘Credit rationing in markets with imperfect
+information’, American Economic Review, 71, 393-410.
+Svensson, L. (2001), ‘Robust control made simple’, mimeo
+Taylor, J. B. (1995), ‘The monetary transmission mechanism: an empirical
+framework’, Journal of economic perspectives, Vol 9, No 4 p 11-26.
+Van den Heuvel, S. (2001), ‘The bank capital channel of monetary policy’, mimeo
+Walsh, C. (1998), ‘Monetary theory and policy’, MIT Press.
+
+40
+
+Chart 1: The effects of a monetary policy shock in the Euro-area,
+the United States and the United Kingdom
+Euro-area
+
+United States
+
+Output
+
+United Kingdom
+
+Output
+
+0.10
+
+Output
+
+0.20
+
+0.30
+0.20
+
+0.10
+
+0.10
+
+0.00
+
+0.00
+
+0.00
+
+-0.10
+
+-0.10
+-0.10
+-0.20
+
+-0.20
+-0.30
+
+-0.20
+
+-0.40
+-0.50
+
+-0.30
+
+-0.30
+1
+
+3
+
+5
+
+7
+
+9
+
+11
+
+13
+
+1
+
+15
+
+3
+
+5
+
+Prices
+
+7
+
+9
+
+11
+
+13
+
+1
+
+15
+
+3
+
+5
+
+Prices
+
+0.05
+
+7
+
+9
+
+11
+
+13
+
+15
+
+9
+
+11
+
+13
+
+15
+
+11
+
+13
+
+15
+
+Prices
+
+0.10
+
+0.30
+0.20
+
+0.00
+
+0.10
+
+0.00
+
+0.00
+-0.10
+-0.10
+
+-0.05
+
+-0.20
+-0.30
+
+-0.10
+
+-0.40
+
+-0.20
+
+-0.50
+-0.60
+-0.30
+
+-0.15
+1
+
+3
+
+5
+
+7
+
+9
+
+11
+
+13
+
+1
+
+15
+
+3
+
+5
+
+7
+
+9
+
+11
+
+13
+
+15
+
+-0.70
+1
+
+3
+
+Interest Rate
+
+Interest Rate
+0.40
+
+0.60
+
+1.00
+
+0.30
+
+0.50
+
+0.80
+
+0.40
+
+0.60
+
+0.30
+
+0.40
+
+0.20
+
+0.20
+
+0.20
+
+5
+
+7
+
+Interest Rate
+
+0.10
+0.00
+-0.10
+-0.20
+
+0.10
+
+0.00
+
+0.00
+
+-0.20
+
+-0.10
+
+-0.40
+
+-0.20
+
+-0.30
+1
+
+3
+
+5
+
+7
+
+9
+
+11
+
+13
+
+15
+
+-0.60
+1
+
+3
+
+5
+
+7
+
+9
+
+11
+
+13
+
+15
+
+1
+
+3
+
+5
+
+7
+
+9
+
+Note: Results for Euro-area and US obtained from Peersman and Smets (2001). Confidence bands are at 90%
+levels. Standard error for the Euro-area and the US obtained using a bootstrap procedure, while those for the UK
+are asymptotic standard errors.
+
+Chart 2: The auto-correlation function for output
+ACF(y)
+1
+
+correlation coefficient
+
+credit frictions
+no credit frictions
+
+0.5
+
+0
+
+-0.5
+
+0
+
+2
+
+4
+
+6
+period
+
+8
+
+10
+
+Chart 3: Response to a unit cost shock
+
+Output gap response
+0
+
+-0.5
+No credit frictions
+Credit frictions
+-1
+
+0
+
+2
+
+4
+
+6
+8
+10
+12
+14
+Nominal interest rate response
+
+16
+
+18
+
+20
+
+0
+
+2
+
+4
+
+6
+
+14
+
+16
+
+18
+
+20
+
+0
+
+2
+
+4
+
+6
+
+14
+
+16
+
+18
+
+20
+
+2
+
+1
+
+0
+
+8
+10
+12
+Inflation response
+
+1.5
+1
+0.5
+0
+
+8
+
+10
+
+12
+
+periods after the shock
+
+Chart 4: Optimal equilibrium under a demand shock
+Output gap response
+0.5
+
+0
+No credit frictions
+Credit frictions
+-0.5
+
+0
+
+2
+
+4
+
+6
+8
+10
+12
+14
+Nominal interest rate response
+
+16
+
+18
+
+20
+
+0
+
+2
+
+4
+
+6
+
+14
+
+16
+
+18
+
+20
+
+0
+
+2
+
+4
+
+6
+
+14
+
+16
+
+18
+
+20
+
+0.5
+0
+-0.5
+-1
+
+8
+10
+12
+Inflation response
+
+0.05
+
+0
+
+-0.05
+
+8
+
+10
+
+12
+
+periods after the shock
+
+Chart 5: The optimal commitment loss surface
+
+Discounted Sum of Losses
+
+550
+500
+450
+400
+350
+300
+250
+200
+0
+
+0
+0.2
+
+0.4
+
+0.5
+0.6
+
+0.8
+
+α
+
+1
+
+1
+
+σ
+
+Chart 6
+Relative losses: Robust-Modal rule
+
+0.15
+0.1
+0.05
+
+per cent
+
+0
+-0.05
+-0.1
+-0.15
+-0.2
+-0.25
+-0.3
+1
+
+0.8
+
+0.6
+
+0.4
+
+α
+
+0.2
+
+0
+
+0
+
+0.2
+
+0.4
+
+σ
+
+0.6
+
+0.8
+
+1
+
+Chart 7: The performance of Robust, Modal and Intermediate rules under
+parameter uncertainty (1)
+α = 0.1
+
+α = 0.5
+
+800
+R rule
+M rule
+I rule
+
+340
+
+320
+
+600
+
+500
+
+400
+
+Sum of discounted losses
+
+400
+Sum of discounted losses
+
+Sum of discounted losses
+
+700
+
+350
+
+300
+
+250
+
+300
+
+200
+
+α = 0.9
+
+450
+
+0
+
+0.5
+
+σ
+
+1
+
+200
+
+300
+
+280
+
+260
+
+240
+
+0
+
+0.5
+
+σ
+
+1
+
+220
+
+0
+
+0.5
+
+σ
+
+1
+
+Chart 8: The performance of Robust, Modal and Intermediate rules under
+parameter uncertainty (2)
+σ = 0.1
+
+σ = 0.5
+
+800
+R rule
+M rule
+I rule
+
+270
+265
+
+600
+
+500
+
+Sum of discounted losses
+
+290
+Sum of discounted losses
+
+700
+Sum of discounted losses
+
+σ = 0.9
+
+300
+
+280
+270
+260
+250
+
+400
+240
+300
+
+0
+
+0.5
+
+α
+
+1
+
+230
+
+260
+255
+250
+245
+240
+235
+230
+
+0
+
+0.5
+
+α
+
+1
+
+225
+
+0
+
+0.5
+
+α
+
+1
+
+Chart 9: The worst case distribution
+Density
+
+σ LOW
+
+σM
+
+σ HIGH
+
+Chart 10
+Relative losses: Intermediate-Modal rule
+0.05
+
+per cent
+
+0
+
+-0.05
+
+-0.1
+
+-0.15
+
+-0.2
+1
+0.5
+0
+
+α
+
+0
+
+0.2
+
+0.4
+
+σ
+
+0.6
+
+0.8
+
+1
+
+Chart 11
+Relative losses: Robust-Intermediate rule
+
+0.15
+0.1
+
+per cent
+
+0.05
+0
+-0.05
+-0.1
+-0.15
+-0.2
+1
+0.5
+
+α
+
+0
+
+0
+
+0.2
+
+0.4
+
+σ
+
+0.6
+
+0.8
+
+1
+
+Table 1.a: Business fluctuations of the UK economy (1970-2000)
+
+Variables (t)
+
+Std (X)
+
+Std (X) / Std
+(GDP)
+
+Cross correlation with GDP at (t+k)
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+GDP
+Consumption
+Investment
+Cumulated inventories
+
+2.00
+2.19
+4.97
+3.05
+
+1.00
+1.09
+2.48
+1.52
+
+0.48
+0.54
+0.63
+0.93
+
+0.66
+0.64
+0.74
+0.91
+
+0.83
+0.73
+0.81
+0.83
+
+0.95
+0.80
+0.84
+0.70
+
+1.00
+0.82
+0.82
+0.53
+
+0.76
+0.74
+0.35
+
+0.63
+0.62
+0.18
+
+0.46
+0.48
+0.03
+
+0.26
+0.33
+-0.10
+
+M0
+M4
+M4-lending individuals
+M4-lending PNFC
+
+2.51
+3.10
+2.25
+8.75
+
+1.25
+1.55
+1.12
+4.36
+
+0.72
+0.50
+-0.20
+0.46
+
+0.69
+0.45
+-0.17
+0.41
+
+0.64
+0.38
+-0.13
+0.33
+
+0.57
+0.29
+-0.09
+0.21
+
+0.46
+0.19
+-0.05
+0.08
+
+0.35
+0.06
+-0.02
+-0.07
+
+0.21
+-0.07
+0.00
+-0.22
+
+0.06
+-0.21
+-0.02
+-0.36
+
+-0.07
+-0.35
+-0.06
+-0.48
+
+GDP deflator
+GDP deflator Inflation
+RPI
+RPI inflation
+RPIX
+RPIX inflation
+House prices
+Equity prices
+
+2.72
+3.42
+3.65
+2.85
+3.64
+2.57
+8.99
+13.88
+
+1.36
+1.70
+1.63
+1.27
+1.62
+1.14
+4.49
+6.92
+
+0.06
+0.50
+-0.20
+0.51
+-0.35
+0.42
+0.58
+-0.16
+
+-0.11
+0.41
+-0.31
+0.47
+-0.45
+0.35
+0.59
+-0.12
+
+-0.27
+0.30
+-0.42
+0.40
+-0.54
+0.26
+0.58
+-0.06
+
+-0.41
+0.18
+-0.53
+0.29
+-0.62
+0.13
+0.54
+0.02
+
+-0.52
+0.04
+-0.63
+0.14
+-0.69
+-0.02
+0.44
+0.13
+
+-0.57
+-0.08
+-0.71
+-0.02
+-0.74
+-0.17
+0.30
+0.25
+
+-0.58
+-0.16
+-0.78
+-0.15
+-0.78
+-0.29
+0.13
+0.35
+
+-0.53
+-0.20
+-0.82
+-0.26
+-0.79
+-0.38
+-0.06
+0.42
+
+-0.45
+-0.21
+-0.83
+-0.33
+-0.78
+-0.42
+-0.25
+0.42
+
+Short-term interest rates
+Long-term interest rates
+"Yield curve"
+
+2.10
+1.08
+1.67
+
+1.05
+0.54
+0.83
+
+0.64
+0.33
+-0.59
+
+0.62
+0.25
+-0.61
+
+0.56
+0.17
+-0.60
+
+0.46
+0.08
+-0.52
+
+0.30
+-0.03
+-0.39
+
+0.10
+-0.15
+-0.23
+
+-0.10
+-0.27
+-0.05
+
+-0.28
+-0.37
+0.12
+
+-0.42
+-0.41
+0.27
+
+ERI
+Dollar sterling
+
+6.44
+10.95
+
+2.87
+4.88
+
+0.16
+0.58
+
+0.09
+0.53
+
+0.02
+0.45
+
+-0.07
+0.35
+
+-0.16
+0.23
+
+-0.24
+0.10
+
+-0.31
+-0.01
+
+-0.35
+-0.11
+
+-0.37
+-0.20
+
+-0.18
+
+-0.08
+
+0.02
+
+0.13
+
+0.24
+
+0.32
+
+0.38
+
+0.41
+
+0.43
+
+Correlation M0 and investment
+
+Table 1.b: Business fluctuations of the euro area economy (1970-2000)
+
+Variables (t)
+
+Std (X)
+
+Std (X) / Std
+(GDP)
+
+Cross correlation with GDP (t+k)
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+GDP
+Consumption
+Investment
+Cumulated inventories
+
+0.84
+0.55
+1.85
+2.40
+
+1.00
+0.65
+2.20
+2.86
+
+-0.19
+-0.13
+0.06
+0.65
+
+0.18
+0.09
+0.34
+0.83
+
+0.58
+0.37
+0.62
+0.82
+
+0.88
+0.63
+0.81
+0.59
+
+1.00
+0.79
+0.86
+0.22
+
+0.80
+0.75
+-0.19
+
+0.66
+0.51
+-0.52
+
+0.40
+0.21
+-0.70
+
+0.09
+-0.09
+-0.70
+
+GDP deflator (level)
+CPI (level)
+CPI (inflation)
+
+0.58
+0.68
+0.31
+
+0.70
+0.81
+0.37
+
+0.29
+0.28
+0.35
+
+0.27
+0.26
+0.34
+
+0.16
+0.16
+0.27
+
+-0.04
+-0.03
+0.21
+
+-0.30
+-0.26
+0.20
+
+-0.55
+-0.50
+0.26
+
+-0.72
+-0.66
+0.31
+
+-0.76
+-0.72
+0.30
+
+-0.67
+-0.66
+0.19
+
+Stock prices
+Real estate prices
+
+12.00
+1.36
+
+0.14
+1.62
+
+-0.10
+0.53
+
+-0.07
+0.52
+
+-0.01
+0.50
+
+0.05
+0.45
+
+0.08
+0.39
+
+0.06
+0.31
+
+0.01
+0.20
+
+-0.03
+0.06
+
+-0.02
+-0.08
+
+Short-term rate nominal
+Short-term rate real
+Long-term rate nominal
+Yield curve
+
+1.09
+0.76
+0.57
+0.83
+
+0.01
+0.01
+0.01
+0.01
+
+0.27
+0.49
+0.22
+-0.20
+
+0.54
+0.65
+0.38
+-0.45
+
+0.73
+0.68
+0.48
+-0.63
+
+0.76
+0.55
+0.47
+-0.68
+
+0.61
+0.26
+0.33
+-0.58
+
+0.30
+-0.11
+0.09
+-0.34
+
+-0.08
+-0.43
+-0.17
+-0.01
+
+-0.43
+-0.61
+-0.37
+0.32
+
+-0.67
+-0.59
+-0.46
+0.56
+
+Real ef. exchange rate
+DM-USD exchange rate
+
+3.58
+5.23
+
+4.27
+6.22
+
+0.22
+0.13
+
+0.33
+0.36
+
+0.36
+0.56
+
+0.30
+0.61
+
+0.17
+0.48
+
+0.01
+0.22
+
+-0.12
+-0.08
+
+-0.18
+-0.34
+
+-0.18
+-0.46
+
+M1
+M3
+Total loans
+
+1.00
+0.72
+0.85
+
+1.19
+0.85
+1.01
+
+-0.22
+0.45
+0.59
+
+-0.26
+0.23
+0.55
+
+-0.20
+0.01
+0.48
+
+-0.05
+-0.17
+0.37
+
+0.16
+-0.26
+0.23
+
+0.39
+-0.27
+0.10
+
+0.58
+-0.19
+0.00
+
+0.68
+-0.06
+-0.06
+
+0.67
+0.07
+-0.08
+
+Note: Table reproduced from Agresti and Mojon (2001).
+
+Table 1.c: Business fluctuations of the US economy (1970-2000)
+
+Variables (t)
+
+Std (X)
+
+Std (X) / Std
+(GDP)
+
+Cross correlation with GDP (t+k)
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+GDP
+Consumption
+Investment
+Cumulated inventories
+
+1.34
+1.01
+3.26
+2.35
+
+1.00
+0.75
+2.44
+1.76
+
+-0.09
+-0.24
+0.11
+0.74
+
+0.24
+0.03
+0.44
+0.89
+
+0.60
+0.34
+0.75
+0.88
+
+0.89
+0.64
+0.94
+0.69
+
+1.00
+0.84
+0.95
+0.35
+
+0.89
+0.87
+0.80
+-0.02
+
+0.59
+0.74
+0.53
+-0.32
+
+0.23
+0.51
+0.20
+-0.48
+
+-0.09
+0.27
+-0.10
+-0.48
+
+GDP deflator (level)
+CPI (level)
+CPI (inflation)
+
+0.67
+1.02
+1.29
+
+0.00
+0.50
+0.77
+
+0.00
+0.23
+0.48
+
+-0.16
+0.10
+0.59
+
+-0.31
+-0.07
+0.63
+
+-0.42
+-0.24
+0.56
+
+-0.48
+-0.41
+0.38
+
+-0.49
+-0.52
+0.15
+
+-0.46
+-0.56
+-0.09
+
+-0.42
+-0.54
+-0.25
+
+-0.39
+-0.49
+-0.31
+
+Stock prices
+Real estate prices
+
+7.92
+2.12
+
+5.93
+1.59
+
+-0.50
+-0.18
+
+-0.50
+-0.21
+
+-0.37
+-0.16
+
+-0.12
+-0.06
+
+0.16
+0.08
+
+0.39
+0.21
+
+0.47
+0.24
+
+0.40
+0.17
+
+0.22
+0.03
+
+Short-term rate nominal
+Short-term rate real
+Long-term rate nominal
+Yield curve
+
+1.31
+1.11
+0.82
+1.09
+
+0.98
+0.83
+0.61
+0.82
+
+0.38
+-0.11
+-0.03
+-0.51
+
+0.56
+-0.03
+0.14
+-0.60
+
+0.68
+0.07
+0.28
+-0.63
+
+0.67
+0.14
+0.35
+-0.56
+
+0.50
+0.15
+0.30
+-0.39
+
+0.21
+0.07
+0.14
+-0.15
+
+-0.14
+-0.06
+-0.07
+0.12
+
+-0.44
+-0.22
+-0.28
+0.33
+
+-0.62
+-0.36
+-0.41
+0.45
+
+Real ef. exchange rate
+DM-USD exchange rate
+
+2.96
+6.66
+
+2.21
+4.98
+
+0.08
+0.19
+
+0.11
+0.23
+
+0.08
+0.23
+
+0.00
+0.23
+
+-0.07
+0.27
+
+-0.12
+0.37
+
+-0.12
+0.45
+
+-0.08
+0.42
+
+-0.01
+0.27
+
+M1
+M3
+Total loans
+
+1.78
+0.87
+1.99
+
+1.33
+0.65
+1.49
+
+-0.22
+0.25
+0.75
+
+-0.23
+0.37
+0.78
+
+-0.18
+0.42
+0.68
+
+-0.08
+0.39
+0.48
+
+0.05
+0.28
+0.19
+
+0.16
+0.12
+-0.11
+
+0.22
+-0.03
+-0.34
+
+0.24
+-0.13
+-0.45
+
+0.22
+-0.15
+-0.45
+
+Note: Table reproduced from Agresti and Mojon (2001).
+
+Table 2: The effects of financial change
+
+Loss
+St. dev. (p), %
+St. dev. (y), %
+St. dev. (R), %
+
+Financial frictions
+240.4
+4.19
+0.99
+4.91
+
+No financial frictions
+238.7
+4.11
+1.05
+4.27
+
+

@@ -1,0 +1,78 @@
+Speech
+Telling Tails of oil and global inflation
+Technical Appendix to speech given by Martin Weale, Monetary Policy Committee
+
+1
+
+Details of models used
+
+1.1
+
+Estimating the impact of the oil price fall on the UK
+
+The modelling framework used in this section was developed by Harvey (2013) and Creal,
+Koopman and Lucas (2012). It is based on the assumption that shocks in the model follow
+a t distribution rather than a more conventional Gaussian distribution. The model can then
+distinguish between outliers and genuine noise – placing little weight on the former, and
+much more on the latter. By looking through random shocks, the model provides a better
+picture of the underlying relationship between the variables in the model.
+The model itself comprises four variables: the quarterly growth in oil prices; quarterly
+GDP growth; quarterly CPI inflation; and the quarter-on-quarter difference in Bank Rate
+(in percentage points).
+1.2
+
+Measuring the relationship between UK and OECD inflation
+
+An excellent overview of the copula models used in this speech is provided by Patton
+(2006) and Fan and Patton (2014).
+Chart 6 was constructed using the method described by Patton (2006, p. 909). This
+provides a measure of the dependence between the tails of the distributions of UK and
+OECD inflation.
+The probability plots in Chart 7 were constructed by estimating three different measures of dependence between the UK and OECD core inflation rates. In the first, a Gaussian copula was estimated and the correlation coefficient found to be ρ = 0.47. In (b),
+1
+
+a t-distributed copula was estimated, with estimated correlation ρ = 0.49 and ν = 10.0
+degrees of freedom. The advantage of the t copula is that one can estimate the degree of
+dependence between the tails of the distribution; this is assumed to be the same for the
+left-hand and right-hand tails, and in this sample is equal to 0.079. In (c), a SymmetrizedJoe-Clayton copula was estimated. This allows for differing degrees of tail dependence,
+and in this sample the difference is large: the dependence of the lower tail – that is, for
+low rates of inflation – is 0.012, whilst that of the upper tail – high inflation – it is 0.469.
+Chart 8 shows the estimated linear correlation from a t-distributed copula, where the
+correlation is allowed to vary over time. The estimate of the correlation is obtained by the
+same DCS/GAS framework described above.
+
+2
+2.1
+
+Data sources
+Estimating the impact of the oil price fall on the UK
+
+The model results presented in Chart 3, and referred to in the text, used quarterly data for
+the UK over time sample 1993Q3 to 2014Q4. The oil data were constructed from daily
+data from Datastream; GDP and CPI data were from the ONS; and Bank Rate data from
+the Bank of England.
+2.2
+
+Measuring the relationship between UK and OECD inflation
+
+Monthly data on core and headline inflation were obtained from the OECD Statistics
+database. The full sample is from January 1971 to March 2015, unless stated otherwise in the text. The data were seasonally adjusted using the X13 procedure (in Eviews),
+and then converted into month-on-month percentage changes. The series for OECD inflation excluding the UK was constructed by subtracting the weighted logarithm of the UK
+price level from the logarithm of the whole OECD price level. The weight used was the
+average UK share in OECD consumption, which is around 6%.
+
+References
+Creal, D., Koopman, S. J. and Lucas, A. (2012) , ‘Generalized autoregressive score models with applications’, Journal of Applied Econometrics
+
+2
+
+Fan, Y. and Patton, A. (2014) ‘Copulas in Econometrics’, Annual Review of Economics,
+6, pp. 179-200.
+Harvey, A. (2013) Dynamic Models for Volatility and Heavy Tails, Cambridge University
+Press
+Patton, A. (2013) ’Copula methods for forecasting multivariate time series’, in Handbook
+of Economic Forecasting vol. 2B, Elsevier
+
+3
+
+

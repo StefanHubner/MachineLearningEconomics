@@ -1,0 +1,2089 @@
+Why has Inflation Been So Low Since 1999?
+Speech given by
+Stephen Nickell, Bank of England Monetary Policy Committee and London School of
+Economics
+
+27 January 2005
+
+I am most grateful to Jumana Saleheen and Ryan Banerjee for their help with this paper, and to Kate
+Barker, Marian Bell, Mark Cornelius, Rebecca Driver, Simon Hayes, Andrew Large and Lavan
+Mahadeva for their penetrating comments on an earlier draft.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Why Has Inflation Been So Low Since 1999?
+Summary
+1. Inflation on the CPI measure has been below the present target level (2%,
+introduced at the beginning of 2004) since 1999, averaging 1.2% over this period.
+2. Since mid-1999, while CPI service prices have been rising at over 3% per annum,
+CPI goods prices have been falling. It is this factor which has underpinned the low
+level of overall inflation. By contrast, goods price inflation in the Eurozone, using the
+same measure, has been around 2% per annum.
+3. Consumer goods sold in the UK are either produced domestically or imported.
+Since 1999, there have been three distinct inflationary periods. From 1999 to early
+2001 both domestic and imported goods prices were rising. Despite this, retail goods
+prices were falling during this period because of the fall in margins in the distribution
+sector.
+4. From early 2001 to late 2002, both domestic and imported goods prices were
+falling and this deflation was passed on to retail goods prices. From late 2002 to the
+present, domestic goods price inflation has been rising but this has been more than
+offset by falling import prices and strong distribution sector productivity growth,
+which has kept retail goods prices falling.
+5. So while falling margins in the distribution sector were important in the early part
+of the period, falling import prices have been a key factor more recently. Since 2000,
+the process of switching to cheaper sources of supply has, by itself, cut more than ½
+percentage point per annum off import price inflation.
+6. Looking to the future, there seems no reason why domestic goods price inflation
+will fall significantly below current levels and, very recently, it appears that imported
+goods prices have stopped falling. The continued strength of the world economy will
+imply further upward pressure on the world prices of traded goods which suggests
+that this recent turn round in import prices will not reverse and that import prices will
+start to rise. Overall, this indicates that we are entering a period when both domestic
+and imported goods prices are going to rise. So, unless there is a further squeeze on
+distribution margins, it seems likely that CPI goods price inflation will move into
+positive territory, settling down at a relatively low but positive level. This is
+consistent with CPI inflation moving close to target over the next couple of years.
+7. There are, however, many uncertainties. On the up-side, the tightness of the labour
+market may drive up labour costs, and hence domestically produced goods prices,
+faster than we expect. On the other hand, more extensive switching towards cheaper
+suppliers in world markets may exert further downward pressure on imported goods
+prices keeping CPI goods price inflation in negative territory.
+
+1. Introduction
+Towards the end of last year, Richard Lambert gave a fascinating speech on low
+inflation in the UK (Lambert, 2004). This is a sequel.
+
+Back in 2002, the MPC was criticised for undershooting the RPIX inflation target
+over the previous three years (see Figure 1) and it was suggested that it had a
+deflationary bias, setting interest rates unnecessarily high. In Nickell (2002), this
+accusation was analysed. The overall conclusion was that the undershooting had
+arisen, in the main, because the MPC, along with all other forecasters, had under
+predicted the sterling exchange rate over much of the period from the foundation of
+the MPC in 1997 to 2001 (see Figure 2 for the consensus forecasts of that era). This
+tended to generate an over prediction of import prices and therefore inflation over the
+same period and hence to interest rates being set marginally too high from an ex-post
+perspective. I concluded that it would be hard to convict the MPC of a deliberate
+deflationary bias simply on these grounds.
+
+After late 2002, this issue went away as RPIX inflation moved above target (see
+Figure 1) where it remained until the target was changed to 2% on the CPI measure in
+December 2003. However, this question of deflationary bias looks as if it is starting
+to make a comeback (see, for example, para.48 in House of Lords, 20041 ). In fact, the
+House of Lords Select Committee on Economic Affairs was referring back to the old
+question of the pre-2003 period. However given that CPI inflation has been well
+below 2% both since it assumed its target role and for many years previously (see
+Figure 1), the issue of inflation being persistently below target is very likely to come
+back on the agenda.
+
+As is well known, CPI inflation is likely to be around 0.8 percentage points below
+RPIX inflation in the long run (see Nickell, 2003, for a detailed analysis of the switch
+in target). Much of this long-run difference (0.5 percentage points) is down to the
+different formulae used to aggregate the inflation rates of all the different goods. But
+the remaining 0.3 percentage points of the long-run difference is due to the exclusion
+of housing depreciation and Council Tax from CPI. While the long-run impact of this
+exclusion is relatively small, in the short run it can, and recently has had, a very
+substantial effect on the difference between CPI and RPIX inflation. Indeed, because
+of the fact that the housing depreciation element of RPIX is based on house price
+inflation, throughout 2003 RPIX inflation was significantly above target whereas CPI
+1
+
+inflation was below its subsequent target. During this period the difference between
+the two measures of inflation was well over 1 percentage point.
+
+The interesting fact that comes out of all this and is worth looking at in more detail is
+that CPI inflation, that is general consumer price inflation excluding housing costs,
+has been very low for most of the time since the late 1990s. Indeed, its average rate
+since 1999 has been 1.2%. Trying to understand why this has happened is important,
+particularly as the MPC projection of the most likely path of CPI inflation moves
+above 2% by the end of 2006.
+
+In what follows, we first split inflation into CPI goods and CPI services, concluding
+that low CPI inflation since 1999 is mainly accounted for by the fact that CPI goods
+prices have been falling over most of the period. This is particularly unusual in the
+sense that over the same period, using the same measure, average goods price
+inflation in the Eurozone has been close to 2%. This during a period when the
+sterling-euro exchange rate was much the same at the end of the period as it was at the
+beginning.
+
+In Section 3 we analyse the factors driving the prices of domestically produced goods
+and in Section 4 we focus on imported goods prices. Having understood the
+determinants of goods prices at the factory gate and the port of entry, in Section 5 we
+investigate the retail distribution sector which turns goods at the port and factory gate
+into goods at retail outlets. These three sections give us an overview of the reasons
+why goods inflation has been so low. Then, in Section 6, we pursue things a little
+further by investigating which sectors have made the biggest contribution to falling
+goods prices. We conclude by asking which inflationary pressures now in the
+pipeline are consistent with an MPC central projection where CPI inflation moves
+above the 2% target in 2006?
+
+2. CPI Inflation: Goods and Services
+
+If we are to understand why CPI inflation has been so low in recent years, the first
+step is to divide CPI into goods and services. In Figure 3, we see the significant gap
+between CPI goods and service price inflation. Furthermore, it is clear that the low
+level of inflation since 1999 is being driven by the fact that throughout most of this
+period, CPI goods prices have been falling. It is this fact which we shall investigate
+further2 . To do this we look at the various stages from the production or import of
+2
+
+goods to their appearance in consumer outlets. So we analyse successively, the prices
+of domestically produced goods at the factory gate, the prices of imported goods, and
+the operation of the distribution sector which buys goods from the factory gate or the
+port and sells them in retail outlets at prices which determine the CPI goods price
+index.
+
+Starting with home produced and imported goods, a broad overview of inflation is
+provided in Figure 4. What we see is that home produced goods price inflation has
+been positive for the majority of the time since 1999. Furthermore, if we remove
+petroleum products, which add a lot of noise to the series as oil prices fluctuate, we
+see in Figure 4 that home produced goods inflation has been rising steadily since
+2000, turning from negative to positive in 2001. In fact, we would have a very similar
+picture were we simply to look at home produced consumer goods. Imported goods
+price inflation, on the other hand, has been negative for much of the period, notably
+since mid-2001. So we can see from this that imported goods have made a significant
+contribution to the low level of CPI goods price inflation in recent years. The next
+step is to look at domestic and imported goods price inflation in more detail.
+
+3. Domestic Goods Prices
+
+Our purpose here is to analyse the forces driving domestic production costs and hence
+output prices. The overall picture is summarised in Figure 5. Since the late 1990s,
+domestic output price inflation has broadly follo wed cost inflation until 2003 since
+when it is clear that (domestic) margins have been gradually increasing. The biggest
+element of production costs is labour costs and in Figure 6, we see the broad stability
+of both manufacturing pay growth and pay settlements. This, despite the fact that the
+unemployment rate over the period from the late 1990s has been slowly falling to its
+lowest level for a generation. The factors underlying this rather favourable
+performance are discussed in Nickell and Quintini (2002) and include the following.
+First, the continuing decline in adversarial trade unionism in the private sector, where
+less than 20% of employees are now unionised. Second, increased product market
+competition in the manufacturing sector. Third, the increasing stability of inflation
+expectations, so that short-run fluctuations in the cost of living are less likely to be
+transmitted into pay settlements. Finally, in some sectors, notably agriculture and
+food processing, labour shortages are resolved by the selective use of immigrant
+labour rather then by increasing pay rates.
+
+3
+
+One further factor influencing recent pay awards is the question: which index of
+overall price inflation is used as the key measure of the cost of living increase when
+negotiating pay rises. Since the end of 2003, the CPI measure has been used by the
+MPC for its inflation target. So is there any evidence that private sector pay
+negotiators have switched to this significantly lower measure in 2004? The answer
+appears to be no. There is no indication that private sector pay settlements have
+declined over this period (see Figure 6). Furthermore, in the surveys reported in the
+IDS Pay Report 917 and in the IRS Pay and Benefits Bulletin 603 (both dated
+November 2004), the clear result is that private sector employers are sticking to the
+traditional RPI measure. (See Nickell, 2003 for a discussion of the labour market
+consequences of the switch in the MPC target measures of inflation in December
+2003).
+
+The impact of wage inflation on labour costs depends crucially on labour productivity
+growth which, in the manufacturing sector, has been relatively strong since 1999. In
+Figure 7, we see how this strong growth in labour productivity has ensured that, on
+average, unit labour cost growth has been negative since 1999 (average = -0.3% pa).
+The other main items in the costs of domestic goods production are materials and fuel
+and business services. In Figure 8, we see that annual business services inflation has
+been relatively stable, fluctuating between 0 and 4%. By contrast, the annual inflation
+rate of materials and fuels prices ranges from -10 to +8% and the surge in the cost of
+materials and fuels in the period from 1999 to 2001, on the back of the world boom,
+was one of the main reasons for the high levels of manufacturing cost inflation in the
+same period.
+
+Overall, therefore, we see that the combination of stable wage inflation and relatively
+buoyant labour productivity growth have helped to hold down domestic goods price
+inflatio n. On the other hand, inflation in the cost of business services and rapidly
+rising inflation in the cost of materials and fuels have contributed to the burst in
+domestic goods price inflation in 1999 and 2000 as well as its steady rise since 2002.
+On top of this the increase in margins has had a significant impact over the last 18
+months.
+
+4. Imported Goods Prices
+
+As we saw in Figure 4, imported goods prices have been falling for much of the time
+since 2001. In contrast to domestic goods prices, the sterling exchange rate plays a
+4
+
+direct role 3 in the determination of imported goods prices because the cost of
+producing these goods is incurred in foreign currency, so the sterling cost of
+productio n depends on the exchange rate. In Figure 9, we see that the sterling
+exchange rate appreciated dramatically in 1996-7 by over 20% after which it has
+remained relatively stable. The initial appreciation had a significant negative impact
+on import price inflation for a number of years and helps to explain why import prices
+continued to fall rapidly until 1999. Since that time, the direct effect of the
+fluctuations in the sterling exchange rate has been relatively modest, although the
+small surge in import price inflation in 2003 and the subsequent fall back in 2004 was
+probably driven, at least partially, by exchange rate shifts.
+
+In order to understand what determines the price of imported goods, the starting point
+is the export prices of the various countries who provide UK imports. To construct an
+index of export prices appropriate to the UK, the standard strategy is to convert these
+export prices into sterling and then weight them by the share of imports from each
+country. So if pxi is the log of the price of exports in sterling from country i and λi is
+the share of UK imports from country i, then the (log) price index would be
+p x = ∑ λi p xi
+i
+
+A sterling index of UK weighted world export price inflation, ∆p x , would be given by
+∆p x = ∑ λi ∆p xi + ∑ (∆λi ) p xi
+i
+
+(1)
+
+i
+
+where ∆p xi is export price inflation from country i in sterling terms and ∆λi is the
+change in the weight attached to country i. The reason for going through this rather
+tedious algebra is to bring out the simple fact that UK weighted world export price
+inflation consists of two parts, the first term on the right-hand side of (1) which is the
+weighted average of the export price inflation rates of the different countries, and the
+second term which is the impact arising from shifts in import shares, generally
+towards countries which produce cheaper goods. This second term is potentially
+important. For example, between 1999 and 2002, imports to the UK from China and
+India increased their share by nearly 1.1 percentage points. This does not seem very
+much, but average prices in these countries are around one quarter of those from
+developed countries, for example. This apparent small shift in import shares is
+enough to reduce UK weighted world export price inflation by around 0.5% per
+annum during the three year period.
+
+5
+
+To see how this works in practice, we present in Figure 10, the series of UK weight
+world export price inflation based on the 27 main trading partners4 and then in Figure
+11, the contribution to this series made by the continuing process of switching to
+cheaper countries. The broad picture in Figure 10 is, not surprisingly, similar to the
+pattern of import price inflation shown in Figure 4. Even taking account of the fact
+that the former figure is based on annual data whereas the latter is based on monthly
+data, they are not identical because the average export prices of a particular country
+are not the same as the prices of imports into the UK from that country. This is first,
+because the composition of UK imports from a given country are not the same as the
+average composition of exports from that country and second because, even for
+identical goods, exports from a given country are often sold at different prices in
+different countries.
+
+We see in Figure 11 that switching to cheaper countries has reduced UK weighted
+world export price inflation by an average of only 0.14 percentage points per annum
+in the second half of the 1990s. However, since 2000, this has risen to an average of
+0.55 percentage points per annum which is a significant amount, suggesting that the
+process of sourcing manufactured goods from cheaper countries has intensified since
+the turn of the century5 .
+
+So far, we have only considered overall goods import prices which include raw
+materials and oil, among other things. In order to look at a combination of goods
+somewhat closer to those relevant to consumption price indices, we present in Figure
+12 the inflation rate of imported finished manufactures. Again, it exhibits the same
+broad pattern as the import price index in Figure 4, although the annual inflation rate
+for finished manufactures does not go positive in 2004. So what we see is that over
+the period from 1999 to 2001, import price inflation for finished manufactures was
+positive but since that time it has been falling at an average rate of over 2 percentage
+points per annum.
+
+If we combine this with the inflation rate of domestically produced goods, we have
+the following picture of goods price inflation before they hit the retail distribution
+sector. From 1999 to early 2001, the annual inflation rate of both domestically
+produced and imported finished manufactures was positive. From early 2001 to mid2002 both these inflation rates were generally negative. By contrast, from mid-2002
+onwards, the inflation rate of domestically produced goods has been positive but this
+has been offset by the falling prices of imported finished manufactures. In the next
+6
+
+section we investigate how these prices have been translated into retail goods prices
+by the distribution sector.
+
+5. Retail Prices and the Distribution Sector
+
+Before we proceed, it is important to note that the goods prices we have been talking
+about so far, that is the price of domestically produced goods and imported finished
+manufactures, do not match precisely the goods included in retail goods price indices.
+The former include not only consumer goods but also intermediate goods and
+investment goods. Of course, ultimately even the intermediate and capital goods are
+used, either directly or indirectly in the production of consumer goods, so price
+inflation in these former goods will feed through into consumer price inflation. So,
+generally speaking, inflation rates in the price of some of the domestically produced
+and imported goods will be transmitted into inflation in the prices of inputs into the
+retail distribution sector with some delay.
+
+The retail distribution sector can be thought of as taking goods from the factory gate
+and from ports, transporting them to retail outlets6 and selling them to the general
+public. Inflation rates of goods going in differ from inflation rates of goods coming
+out if trend productivity growth in retail distribution changes or if margins in retail
+distribution are systematically squeezed or increased. The retail distribution sector
+consists of wholesale, retail and the motor trade. In terms of gross output, retail
+expanded from about 37% of the sector in the late 1990s to around 40% in 2002 and
+wholesale contracted from around 45% of the sector in the late 1990s to around 43%
+in 2002. During this same period, retail expanded its share of the total gross operating
+surplus in the sector from around 48% to 57% whereas wholesale’s share of the total
+gross operating surplus fell from around 37% to 28%. So we have a picture here of a
+slowly expanding retail sector managing systematically to squeeze profits out of a
+slowly contracting wholesale sector. In Figure 13, we see how this translates into
+margins in the retail distribution sector, using two measures. Two facts stand out.
+First margins in the wholesale sector have been falling from the late 1990s onwards.
+Second, if we look at the margins in the entire retail distribution sector, we see that
+they fell from the late 1990s to 2000 after which they have been more or less flat, at
+least up to 2003.
+
+What about productivity growth in the retail distribution sector? What we see in
+Figure 14 is that after 1999, average labour productivity growth in both wholesale and
+7
+
+retail rose by a little under 2 percentage points per annum and this is reflected in the
+similar rise in overall productivity growth in the distribution sector as a whole.
+
+So how does this all tie in with the information on domestic and imported goods price
+inflation we discussed in previous sections and the fact that CPI goods prices have
+been falling from 1999 (see Figure 3)? In the previous section, we divided the period
+since 1999 into three sub-periods. From 1999 to early 2001, the prices of both
+domestically produced goods and imported goods were rising. The reason why this
+translated into falling CPI goods prices was the fall in the margins in the retail
+distribution sector (mainly in wholesale) along with the rise in labour productivity
+growth. In the period from early-2001 to mid-2002, domestic and imported goods
+prices were generally falling and this ensured that CPI goods prices continued to fall.
+Finally, in the period from mid-2002 onwards, domestically produced goods prices
+were rising, the prices of imported manufactures were falling at an average of around
+2 percentage points per annum and margins in the retail distribution sector were
+relatively stable, at least up to the end of 2003. So the fact that CPI goods prices
+continued to fall must have been due to the dominant impact of falling imported
+goods prices supported by the continuation of high productivity growth in
+distribution. This, then, is the overall explanation of falling goods prices, and hence
+of very low inflation over the last five years. There remain two other issues to
+discuss. First, it is of some interest to see which goods have made a particular
+contribution to falling prices and why. Second, since the MPC expects CPI inflation
+to rise above 2% in 2006 for the first time this century, are there any straws in the
+wind we can point to now which reinforce this expectation?
+
+6. Which Sectors Have Made the Biggest Contribution to Falling Goods Prices?
+
+In Figure 15 we present a breakdown of the goods part of the retail price index (RPI).
+This is very similar to the goods part of the CPI, but since the latter data are not
+available for the early 1990s, we are forced to use the RPI. The basic difference
+between the two indices is the fact that the CPI goods inflation rate will be somewhat
+lower throughout because of the formula effect. The patterns over time, however, will
+be much the same.
+
+The first point that emerges from Figure 15 is that overall goods price inflation was
+around 2 percentage points lower after 1999 than it was between 1993 and 1999.
+Looking at the individual sectors we see substantial differences in the fall in inflation
+8
+
+in different sectors. Whereas food price inflation fell by less than 1 percentage point
+on average, clothing and footwear inflation fell by over 3 percentage points, car price
+inflation by over 4 percentage points and the inflation rate of TVs (including home
+computers) fell by a staggering 8 percentage points, although this represents only
+1.9% of total goods expenditure. Altogether, however, these last three sectors make
+up around one quarter of all goods expenditure.
+
+While these categories cannot be matched precisely to domestic manufacturing
+sectors, we set out some roughly equivalent data for domestic output price inflation in
+Figure 16. The data that match up particularly well include the small fall in output
+price inflation in food products and the large falls in clothing and footwear (over 2
+percentage points), motor vehicles (close to 4 percentage points) and TVs (close to 4
+percentage points)7 . By contrast, the large fall in alcohol and tobacco output price
+inflation does not match up to the small fall in retail price inflation in the same sector,
+presumably because retail prices in this sector are dominated by excise duties.
+Interestingly enough, from Figure 17, we see how the three sectors with large falls in
+inflation noted above are also sectors which have seen significant increases in average
+annual labour productivity growth, namely clothing and footwear (12 percentage
+points), motor vehicles (around 5 percentage points) and TVs (around 15 percentage
+points). However, the big increases in labour productivity growth in domestic
+appliances and furniture do not seem to be reflected in large falls in output price or
+retail price inflation.
+
+Many of these sectors have high levels of import penetration, so we should also see if
+the patterns of import price inflation shed more light on the overall falls in retail
+goods price inflation. Again, in Figure 18, we see significant falls in import price
+inflation in clothing and footwear (around 2.5 percentage points), new cars (6
+percentage points) and TVs (around 3 percentage points) which reinforce the falls we
+see in domestically produced goods in these sectors. Interestingly inflation in
+beverages and tobacco actually rises in the period after 1999 which helps explain why
+retail price inflation in this sector has fallen so little.
+
+Overall, then, we have a picture where some sectors, notably clothing/footwear, cars
+and TVs, which cover around one quarter of goods expenditure, have seen large falls
+in both domestic and imported inflation and large rises in domestic productivity
+growth. These are also sectors which are very open to trade, and so are highly
+competitive, which helps to drive productivity growth. On top of this, prices in the
+9
+
+car market have fallen because of interventions by the UK and European competition
+authorities8 .
+
+7. Looking into the Future
+
+Over the last two years, import price deflation and high productivity growth in the
+distribution sector have been holding CPI goods price inflation below zero despite
+positive and rising domestic goods price inflation and relatively stable retail
+distribution margins (at least until the end of 2003). Looking forward, how long can
+this continue?
+
+On the domestic front, there are few factors at the moment which seem likely to
+reduce domestic goods price inflation, which has been rising for some years.
+Underlying earnings growth in the private sector has been rising over 2004 (see
+Figure 19) and the labour market continues to be tight. While manufacturing
+productivity growth remains high, there seems no obvious reason why it should rise
+further. However, given the intensity of competition, it is quite probable that margins
+in manufacturing will stop rising.
+
+Import prices are a key factor. In Figure 4, we see that overall import prices are no
+longer falling. However, annual inflation of the price of imported finished
+manufactures remains negative as we can see from Figure 12. On the othe r hand, in
+this same figure, we see that the three- month on three- month rate has recently been
+positive, indicating that these import prices are no longer falling.
+
+Looking forward, the continued strength of the world economy implies upward
+pressure on the world prices of traded goods. This suggests that the recent turn round
+in import prices will not reverse and that import prices will continue rising. With the
+continuing rise in domestic goods prices, this indicates that we are about to enter a
+period when both domestic and imported goods prices are rising. The last time this
+happened (1999 to 2001), the inflationary pressure was offset by falling margins in
+the retail distribution sector, so it was not transmitted to CPI goods prices. Given the
+recent stability of distribution sector margins (see Figure 13), there seems no
+particular reason to expect a repeat of this via a further squeeze on distribution
+margins. So we can expect CPI goods price inflation to move into positive territory,
+settling down at a stable but relatively low level. This is consistent with the latest
+MPC central projection where inflation settles down close to the target.
+10
+
+Of course, there are many uncertainties. The tightness of the labour market may drive
+up labour costs and hence domestic goods prices faster than we expect. On the other
+hand, even when the world prices of traded goods are rising, more extensive
+switching towards cheaper suppliers can still generate falling import prices thereby
+continuing to keep CPI goods price inflation in negative territory. Nevertheless, for
+the reasons discussed above, a projection of CPI inflation moving up towards 2% in
+the next couple of years is not implausible despite its having been below this level for
+several years.
+
+11
+
+Footnotes
+
+1.
+
+In fact, para.48 says, “These data prompt some intriguing questions. If
+inflation was over-predicted until 2003, should interest rates have been
+lower? Moreover, did the over-prediction of growth over this period lead to
+higher interest rates than were necessary? And was this whole situation
+reversed from 2003 onwards? Interest rates were above 6.75% until 2001.
+With the fall in the growth of GDP interest rates were then reduced. Interest
+rates were then raised again during 2002 when both inflation and growth
+were being over-predicted.” The factual details here are a bit puzzling
+because interest rates peaked at 6% in 2000, having risen during 1999.
+Furthermore, they did not rise again until late 2003. So, contrary to the
+statement in para.48, they were not raised during 2002.
+
+2.
+
+What we are, in fact, investigating is why goods prices have been falling
+relative to the general price level so much faster after 1999 than in previous
+years. It is rather casual to refer to this fact as the driving force behind the
+low level of CPI inflation. Ultimately inflation is the consequence of
+monetary policy and macroeconomic shocks. So here, we are not analysing
+the ultimate causal mechanisms but merely looking at why the relative price
+of goods has been falling so rapidly in recent years.
+
+3.
+
+The sterling exchange rate has an indirect impact on the price of domestically
+produced goods because domestic firms are often directly competing with
+foreign firms in the domestic market. If sterling appreciates, the sterling cost
+of production for foreign firms falls and this enables them to compete more
+fiercely in the domestic market which may force domestic firms to cut their
+prices in order to maintain market share.
+
+4.
+
+We omit Norway and Saudi Arabia to concentrate more on non-oil imports.
+
+5.
+
+Computing the switching effect is not straightforward because a measure of
+the level of export prices is required for each country. In Figure 11 we use
+data from the Penn World Tables and the IMF to estimate the relative price
+levels.
+
+6.
+
+These include mail order and internet outlets.
+
+7.
+
+Here, the TV sector does not include personal computers.
+
+8. The UK Competition Commission report on new cars was produced in March
+2000 and highlighted “a complex monopoly situation resulting from suppliers
+practices in distributing new cars in the UK”. The EC rules which allowed
+this to happen (the so-called Block Exemption) were adjusted in July 2002 but
+the UK car market had already changed significantly by then as a result of the
+investigations by the competition authorities and the consequent introduction
+in the UK of the Supply of New Cars Order 2000 in September.
+
+12
+
+References
+House of Lords (2004), Monetary and Fiscal Policy: Present Successes and
+Future Problems, Volume 1: Report, Select Committee on Economic Affairs
+(London: The Stationery Office Ltd).
+Lambert, R. (2004), “Why is Inflation so Low?”, Bank of England Quarterly
+Bulletin, 44(4), Winter.
+Nickell, S. and Quintini, G. (2002), “The Recent Performance of the UK Labour
+Market”, Oxford Review of Economic Policy, 18(2), Summer.
+Nickell, S. J. (2002), “Monetary Policy Issues: Past, Present, Future”, Bank of
+England Quarterly Bulletin, 42(3), Autumn.
+Nickell, S. J. (2003), “Two Current Monetary Policy Issues”, Bank of England
+Quarterly Bulletin, 43(4), Winter.
+
+13
+
+Figure 1: Year on year retail price inflation
+rates
+
+Figure 2: Sterling ERI outturns vs. two -year
+Consensus sterling ERI forecasts
+
+Percentage changes on a year earlier
+1990 = 100
+115
+
+3.5
+3
+
+110
+
+RPIX
+105
+
+2.5
+
+100
+
+2
+95
+
+CPI
+
+1.5
+
+90
+
+1
+
+85
+80
+
+0.5
+
+2-year Consensus forecasts (end-points only)
+75
+
+0
+1997
+
+1999
+
+2001
+
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004
+
+2003
+
+Source: Bank of England and Consensus Economics
+
+Source: ONS
+
+Figure 3: CPI goods and services
+
+Figure 4: UK domestic (PPIY) and imported
+goods prices
+
+Percentage changes on a year earlier
+6
+
+6
+
+PPIY ex
+petroleum
+products
+
+5
+
+CPI services
+
+Percentage changes on a year earlier
+
+4
+
+PPIY
+
+4
+2
+
+3
+
+0
+
+2
+CPI goods
+
+-2
+
+1
+0
+
+-4
+
+-1
+
+-6
+
+-2
+
+-8
+
+Import price
+
+-3
+1997
+Source: ONS
+
+1999
+
+2001
+
+2003
+
+-10
+1997
+1999
+Source: ONS
+
+Figure 5: Manufactures’ weighted costs and
+prices (domestic)
+
+2003
+
+Figure 6: Manufacturing pay growth and
+private production wage settlements
+Percentage changes on a year
+lier
+6
+
+Percentage change on a year earlier
+6
+Weighted costs
+(GDP deflator based)
+
+2001
+
+Manufacturing pay growth
+
+5
+4
+
+5
+4
+
+3
+3
+2
+Private production
+settlements
+
+1
+
+2
+
+0
+
+1
+
+-1
+0
+
+-2
+
+Output prices
+1994
+1996
+Source: ONS
+
+1998
+
+2000
+
+2002
+
+-3
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Source: Pay growth, ONS. Settlements, Bank of England
+settlements database.
+
+2004
+
+14
+
+Figure 7: Manufacturing productivity and unit
+labour costs
+
+Figure 8: Materials, fuels and services
+inflation
+Percentage changes on a year
+earlier
+10
+8
+
+Per cent
+10
+8
+
+Productivity
+
+Services
+
+6
+4
+2
+0
+
+6
+4
+2
+
+-2
+-4
+-6
+-8
+
+0
+-2
+Unit wage costs
+
+-4
+
+Materials and Fuels
+
+-6
+1995
+1997
+1999
+2001
+2003
+Note: Labour costs are 34.8% of gross output.
+Source: ONS
+
+-10
+-12
+
+1997
+1999
+2001
+2003
+Note: Materials and fuels are 20.9% of gross output, business
+services are 15.6%.
+Source: ONS
+
+Figure 9: Exchange rate (ERI)
+
+Figure 10: Sterling world export price
+inflation
+1995=100
+
+Per cent
+8
+
+115
+
+6
+
+110
+
+4
+
+105
+
+2
+0
+
+100
+
+-2
+
+95
+
+-4
+-6
+
+90
+
+-8
+
+85
+
+-10
+1995
+
+80
+1995
+1997
+1999
+Source: Bank of England
+
+2001
+
+1997
+
+1999
+
+2001
+
+2003
+
+Source: Penn World Table version 6.1, Economist Intelligence
+Unit and International Financial Statistics produced by the IMF.
+
+2003
+
+Figure 11: The contribution of ‘switching’ to
+sterling world export price inflation
+
+Figure 12: The inflation rate of imported
+finished manufactures
+
+Per cent
+0.6
+
+Per cent
+6.0
+
+6
+
+4.03 month on 3
+month
+2.0
+
+4
+
+-0.2
+
+0.0
+
+0
+
+-0.4
+
+-2.0
+
+-2
+
+-4.0
+
+-4
+
+0.4
+0.2
+0.0
+
+-0.6
+
+2
+
+-0.8
+-1.0
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+-6.0
+
+Annual
+inflation
+
+-8.0
+1997 1998 1999 2000 2001 2002 2003 2004
+Source: ONS
+
+Source: Penn World Table version 6.1, Economist Intelligence
+Unit and International Financial Statistics produced by the IMF.
+
+15
+
+-6
+-8
+
+Figure 13: Margins in the distribution sector
+Figure 13b
+
+Figure 13a
+
+Per cent
+Per cent
+
+26
+
+10
+
+Retail
+
+Retail
+
+24
+
+9
+
+22
+
+8
+
+Total
+
+20
+
+7
+
+Total
+18
+Wholesale
+
+6
+
+16
+
+Wholesale
+
+5
+
+14
+4
+
+12
+
+1992
+
+1994
+
+1996
+
+1998
+
+2000
+
+10
+2002
+
+1997
+
+1999
+
+2001
+
+3
+2003
+
+Source: ONS, Input -Output Supply and Use Tables.
+Source: ONS, Annual Business Inquiry.
+Notes: (i) The distribution sector includes the Wholesale, Retail and Motor Trade industries. (ii) Margins in the Motor Trade industry have been relatively
+stable throughout (iii) Margins in 13a are defined by gross operating surplus divided by output at basic prices (iv) Margins in 13b are defined by gross
+operating surplus divided by gross output, where gross output = intermediate inputs + compensation of employees + taxes on production + gross operating
+surplus. The difference between output at basic prices and gross output is that in the former, goods which are not processed in any way within the
+distribution sector are subtracted out.
+
+Figure 14: Distribution sector labour productivity growth
+Figure 14a: Motor trade
+Figure 14b: Wholesale
+Percentage change on a year earlier
+
+Percentage change on a year earlier
+
+8
+
+12
+10
+
+6
+
+8
+
+4
+
+6
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+-2
+
+-4
+
+-4
+-6
+
+-6
+
+1996 1997 1998 1999 2000 2001 2002 2003 2004
+
+1996 1997 1998 1999 2000 2001 2002 2003 2004
+
+Figure 14c: Retail
+
+Figure 14d: Total distribution sector
+Percentage change on a year earlier
+
+Percentage change on a year earlier
+
+7
+
+7
+
+6
+
+6
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+2
+
+2
+
+1
+0
+
+1
+
+-1
+
+0
+
+-2
+
+-1
+
+1996 1997 1998 1999 2000 2001 2002 2003 2004
+
+1996 1997 1998 1999 2000 2001 2002 2003 2004
+
+Note: Labour productivity is defined as gross value added at basic prices divided by employment. Dashed lines show averages (1996 - 1998 and 1999 2004)
+Source: ONS.
+
+16
+
+Figure 15: Retail goods price inflation by sector
+Figure 15a: All goods (weight = 100%)
+Figure 15b: New and old cars (weight =12.2%)
+New and Old Cars (weight = 12.2%)
+
+All Goods (weight = 100%)
+% oya
+
+% oya
+
+10
+
+7
+
+8
+
+5
+
+6
+
+3
+
+4
+
+1
+
+2
+
+-1
+
+0
+
+-3
+
+-2
+
+-5
+-7
+
+-4
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+1993
+
+2003
+
+Figure 15c: Furniture (weight = 4.7%)
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 15d: TVs (weight = 1.9%)
+TVs (weight = 1.9%)
+
+Furniture (weight = 4.7%)
+% oya
+
+% oya
+
+8
+
+0
+
+6
+
+-2
+-4
+
+4
+
+-6
+
+2
+
+-8
+
+0
+
+-10
+-12
+
+-2
+
+-14
+
+-4
+
+-16
+-18
+
+-6
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+-20
+
+2003
+
+1993
+
+Figure 15e: Food (weight = 21.6%)
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 15f: Alcohol and Tobacco (weight =
+8.8%)
+
+Food (weight = 21.6%)
+
+Alcohol and Tobacco (weight = 8.8%)
+
+% oya
+
+% oya
+
+9
+
+10
+
+7
+
+8
+
+5
+
+6
+
+3
+
+4
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+-4
+
+-5
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+1993
+
+2003
+
+17
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 15 (cont’d): Retail goods price inflation by sector
+Figure 15g: Clothing and footwear (weight =
+Figure 15h: Electrical appliances (weight
+9.9%)
+=1.4%)
+Electical applicances (weight = 1.4%)
+
+Clothing and Footwear (weight = 9.9%)
+% oya
+
+% oya
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+
+-4
+
+-4
+
+-6
+
+-6
+
+-8
+
+-8
+
+-10
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+-10
+
+2003
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 15i: Household goods (weight = 13.8%)
+Household goods (weight = 13.8%)
+% oya
+8
+6
+4
+2
+0
+-2
+-4
+-6
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Note: TVs includes home computers after 1998, which explains the sudden fall. Dashed lines show averages (1996 - 1998 and 1999 - 2004)
+Source: ONS.
+
+18
+
+Figure 16: Manufacturing output price inflation by sector
+Figure 16a: All goods (weight = 100%)
+Figure 16b: Motor vehicles (weight = 7.3%)
+(excluding duties)
+Motor vehicles (weight = 7.3%)
+
+% oya
+
+Output prices (weight = 100%)
+(excluding duties)
+
+% oya
+
+10
+
+7
+
+8
+
+5
+
+6
+
+3
+
+4
+
+1
+
+2
+
+-1
+
+0
+
+-3
+
+-2
+
+-5
+
+-4
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+-7
+
+2003
+
+1993
+
+Figure 16c: Furniture (weight = 6.1%)
+Furniture (weight = 6.1%)
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 16d: TVs (weight = 2.0%)
+
+% oya
+
+% oya
+
+8
+5
+
+6
+4
+
+0
+
+2
+-5
+
+0
+-2
+
+-10
+
+-4
+-6
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+-15
+
+2003
+
+1993
+
+Figure 16e: Food products (weight = 16.9%)
+Food Products (weight = 16.9%)
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 16f: Alcohol and Tobacco (weight =
+9.1%)
+Alcohol and Tobacco (weight = 9.1%)
+
+% oya
+9
+
+10
+
+7
+
+8
+
+5
+
+6
+
+3
+
+4
+
+1
+
+2
+
+-1
+
+0
+
+-3
+
+-2
+
+-5
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+% oya
+
+-4
+
+2003
+
+1993
+
+19
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 16 (cont’d): Manufacturing output price inflation by sector
+Figure 16g: Clothing and footwear (weight =
+Figure 16h: Domestic appliances (weight =
+6.5%)
+0.4%)
+Clothing and Footwear (weight = 6.5%)
+
+Electric appliances (weight = 0.4%)
+
+% oya
+4
+
+6
+
+2
+
+4
+
+0
+
+2
+
+-2
+
+0
+
+-4
+
+-2
+
+-6
+
+-4
+
+-8
+
+-6
+
+-10
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+% oya
+
+-8
+
+2003
+
+1993
+
+Note:. Dashed lines show averages (1996 - 1998 and 1999 - 2004)
+Source: ONS.
+
+20
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 17: Manufacturing productivity growth by sector
+Figure 17a: Motor vehicles
+Figure 17b: Furniture
+Percentage changes on a year earlier
+
+Percentage changes on a year earlier
+30
+
+5
+
+25
+
+4
+
+20
+
+3
+
+15
+
+2
+
+10
+
+1
+
+5
+
+0
+
+0
+
+-1
+
+-5
+
+-2
+
+-10
+
+-3
+
+-15
+
+-4
+
+-20
+1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+
+-5
+1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+
+Figure 17c: TVs and radios
+
+Figure 17d: Food
+
+Percentage changes on a year earlier
+
+Percentage changes on a year earlier
+
+25
+
+8
+
+20
+
+6
+4
+
+15
+
+2
+
+10
+
+0
+
+5
+
+-2
+
+0
+
+-4
+
+-5
+
+-6
+
+-10
+
+-8
+
+-15
+1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+
+Figure 17e: Alcohol and Tobacco
+
+-10
+1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+
+Figure 17f: Clothing and footwear
+
+Percentage changes on a year earlier
+15
+
+Percentage changes on a year earlier
+20
+15
+
+10
+10
+
+5
+
+5
+0
+
+0
+
+-5
+
+-5
+-10
+
+-10
+1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+
+-15
+1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+
+21
+
+Figure 17 (cont’d): Manufacturing productivity growth by sector
+Figure 17g: Domestic appliances
+Percentage changes on a year earlier
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+
+Note: Labour productivity is defined as gross value added at basic prices divided by employment. Dashed lines show averages (1996 - 1998 and 1999 2003)
+Source: ONS.
+
+22
+
+Figure 18: Imported goods price inflation by sector
+Figure 18a: All goods
+Figure 18b: Motor vehicles (import
+penetration = 37.9%)
+%oya
+
+% oya
+10
+
+30
+
+8
+
+25
+
+6
+
+20
+
+4
+15
+
+2
+0
+
+10
+
+-2
+
+5
+
+-4
+0
+
+-6
+
+-5
+
+-8
+-10
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+-10
+
+2003
+
+1993
+
+Figure 18c: Furniture (import penetration =
+19.2%)
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 18d: TVs (import penetration = 33.0%)
+
+%oya
+
+%oya
+
+15
+
+15
+
+10
+
+10
+
+5
+5
+0
+0
+-5
+-5
+
+-10
+-15
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+-10
+
+2003
+
+1993
+
+Figure 18e: Food products (import penetration
+= 12.3%)
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 18f: Alcohol and Tobacco (import
+penetration = 14.1%)
+
+%oya
+
+%oya
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+0
+0
+-5
+
+-5
+
+-10
+
+-10
+-15
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+-15
+1993
+
+23
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Figure 18 (cont’d): Imported goods price inflation by sector
+Figure 18g: Clothing and footwear (import
+Figure 18h: Domestic appliances (import
+penetration = 29.1%)
+penetration = 27.4%)
+%oya
+
+%oya
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+4
+
+4
+
+2
+2
+0
+0
+
+-2
+
+-2
+
+-4
+
+-4
+
+-6
+
+-6
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+-8
+
+2004
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Note: Import penetration defined as imports of goods divided by total demand for goods by sector in 2004. Dashed lines show averages (1996 - 1998 and
+1999 - 2004)
+Source: ONS.
+
+Figure 19: Private sector three months
+earnings growth excluding bonuses(a)
+Per cent
+8
+
+6
+
+4
+
+2
+
+0
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+(a) The data exclude bonuses and any arrears of pay.
+Source: ONS
+
+24
+
+

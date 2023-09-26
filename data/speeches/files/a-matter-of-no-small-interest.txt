@@ -1,0 +1,773 @@
+A Matter of No Small Interest: Real Short-term Interest Rates
+and Inflation since the 1990s
+Speech given by
+Marian Bell, Member of the Monetary Policy Committee, Bank of England
+
+To the Institute of Directors and Milton Keynes Chamber of Commerce at Cranfield
+University
+2 March 2005
+
+I would like to thank Lavan Mahadeva, Alex Muscatelli and Jonathan Marrow for their invaluable
+research assistance in preparing this speech; also Peter Andrews, Ryan Banerjee, Kate Barker,
+Charles Bean, Rebecca Driver, Mike Joyce, Mervyn King, Peter Lildholdt, Ben May, Michael Sawicki
+and Tony Yates for comments on an earlier draft. The cross-country analysis of real interest rates and
+inflation over the cycle presented here builds on earlier empirical work by Jenny Greenslade, Stuart
+Lee and Neil Parker. Luca Benati estimated the time series of conditional volatilities of UK interest
+rates and inflation. I am grateful to them all. The views expressed are my own and do not necessarily
+reflect those of either the Monetary Policy Committee or the Bank of England
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+1
+UK inflation as measured by the Consumer Price Index has fluctuated in a relatively narrow
+band of around 1/2 to 2% for eight years. Much attention has recently been focused on why inflation
+has been so subdued and whether it will continue; two of my colleagues on the MPC, Richard Lambert
+and Steve Nickell, have given speeches on the subject 1 .
+2
+One aspect that has surprised has been the combination of sustained low inflation and real rates
+of economic expansion that have by historical standards been relatively rapid. In a series of
+publications the MPC have pondered the reasons for the apparent change in the relationship between
+wage growth and unemployment in particular, and between demand pressure and price inflation more
+generally. The Committee concluded that a combination of increased potential supply in the British
+economy and a more favourable short-run trade-off between excess demand and inflation may have
+been responsible. 2 In its central projections the Committee has assumed that this will continue to some
+degree, at least in the near term.
+3
+This evening I want to concentrate on another aspect to this apparent improvement in the
+inflation-output trade-off: how is it that persistently low inflation and steady growth in nominal
+demand has been accompanied by such low short-term interest rates? 3 UK official interest rates have
+peaked at successively lower levels: 15% in 1989, 7½% in 1998 and 6% in 2000. Rates troughed at
+3½% in 2003. And this phenomenon is not just confined to the UK. Across a wide range of major
+industrialised economies both inflation and short-term interest rates have been unusually low in recent
+years.
+4
+One explanation for persistently low short-term interest rates in the major economies is of
+course low inflation itself. The lower inflation, the lower nominal interest rates can be for a given real
+return. But that isn’t the whole story. Even adjusting for inflation, short-term real interest rates have
+been low. The average ex-post real rate in the UK rose to over 2% in 2004, up from a low in 2003 but
+still short of the near 7% level it reached in 1990. 4 Using an eclectic mix of methodologies for
+estimating real interest rates, Larsen, May and Talbot (2003), find a step down in 1- year real interest
+rates in the UK at around the time of the introduction of inflation targeting in 1992.
+5
+Indeed, it appears that the lower the inflation rate, the lower the real, inflation adjusted shortterm interest rate over the economic cycle.
+
+___________________________________________________________________________________________________
+1
+Lambert (2004), Nickell (2005).
+2
+See for instance MPC Minutes February 2004 and November 2004, Inflation Report February 2004, February 2005.
+3
+This is a separate but related issue to that of low long-term interest rates and the low expected future short-term rates that
+are embodied in them.
+4
+Calculated by subtracting average annual RPIX inflation from the annual average base rate.
+
+2
+
+6
+Chart 1 shows an empirical observation I became aware of some years ago 5 . It plots average
+inflation over an economic cycle against the average inflation adjusted short-term interest rate for up to
+2 economic cycles in 11 economies, a total of 15 observations in all.
+7
+By focusing on average over the cycle data, one might think that the average real interest rate
+used comes close to an estimate of the natural real rate, defined as the real interest rate that is
+consistent with stable inflation and an economy growing in line with its potential. Conceptually the
+natural real rate of interest is the rate that would prevail were all prices fully flexible so that aggregate
+demand always equalled aggregate supply6 . However, just as with other conceptually appealing ideas,
+such as the natural rate of unemployment or the output gap, in practice the natural rate of interest is not
+observable and must be inferred from the behaviour of output and inflation. Estimates are very
+uncertain.
+8
+From the chart it appears that the average short-term real interest rate over the cycle is
+positively related to the inflation rate; the higher the inflation rate, the higher on average the real
+interest rate. For the period from the late 1980s, this finding is robust to different methodologies,
+including using estimates of ex-ante real interest rate expectations and alternative specifications of the
+economic cycle. A casual survey of economic history might also appear to support this finding. In the
+1950s and 1960s when inflation was low, short-term real interest rates in the UK were also low7 .
+However, a positive relationship between real short-term interest rates and inflation was not apparent
+during the high inflation decade of the 1970s.
+9
+On the face of it, this seems odd. Economists have tended to assume that the neutral real
+interest rate is constant at around the long-term average real rate. Even sophisticated Dynamic
+Stochastic General Equilibrium models, which allow the natural rate to vary, only do so around a
+steady-state equilibrium rate that is assumed to be constant. We might expect the natural rate to vary
+with real economic developments. For instance, the MPC has suggested that the fall recently observed
+in real long-term interest rates might be related to increased planned saving by the ageing babyboomer generation8 ; an increase in trend productivity growth might be expected, other things being
+equal, to lead to an increase in the real natural rate in the long-run; increased fiscal deficits might raise
+real long-term interest rates; and a lower natural real interest rate in recent years might have been the
+consequence of a series of negative demand shocks. But economic theory tells us that nominal values
+should on average be unrelated to the real economy 9 . So what factors might account for the apparent
+___________________________________________________________________________________________________
+5
+I am grateful to former colleagues at the Royal Bank of Scotland for earlier assistance with the collection and analysis of
+these data.
+6
+See for instance Neiss and Nelson (2001) and Woodford (2003).
+7
+Chadha and Dimsdale (1999) proxy inflation expectations by the three-year moving average of the ex-post inflation rate
+and examine the behaviour of the real rate in the UK from 1875-1997. On this ex-post measure, the short real rate averages
+0.67 percent from 1951 to 1968.
+8
+Inflation Report, February 2005.
+9
+Indeed the Mundell-Tobin effect suggests that there should be a negative relationship between real interest rates and
+expected inflation. See, for example, Orphanides and Solow (1990).
+
+3
+
+positive relationship between average real short term interest rates and inflation over the last decade or
+so?
+10
+We can decompose the short-term nominal interest rate into the expected risk-free real post-tax
+return, tax, expected inflation and risk premia. But in simple calculations of the real rate of interest,
+following Fisher (1907), it is common to take a measure of inflation (either realised or expected) from
+the nominal interest rate. This is what I have done in the cross-country calculations. But these
+calculations make no allowance for either tax effects or risk premia. So the apparent fall in the
+sustainable real rate might reflect a smaller tax component or declining risk premia, rather than a lower
+risk- free real post-tax interest rate.
+11
+Since tax is paid on nominal interest income, we might expect the tax wedge between nominal
+and real interest rates to rise with inflation10 . However, a series of papers in the 1970s and 1980s were
+unable to identify a consistent tax effect of the expected magnitude. But it is possible that the effect
+was obscured by other factors in earlier decades 11 and has only become apparent more recently.
+12
+Neither inflation expectations nor risk premia are directly observable. But the apparent fall in
+the sustainable real short-term interest rate may nevertheless be due to declining risk premia. This
+could result either because the environment is deemed to have become less risky, or because investors
+require less compensation for taking on the same amount of risk.
+13
+What evidence might there be for thinking that the economic environment might have become
+less risky? Well to start with, there is well-documented evidence that inflation is less volatile at lower
+inflation rates 12 , as argued by Friedman in his Nobel lecture of 1977. A recent study by Cecchetti,
+Flores-Lagunes and Krause (2004) found that in a sample of 24 countries (including the US, UK and
+other EU members as of 2003) inflation variability fell in all countries from the 1980s to the 1990s.
+And indeed it appears that lower average real interest rates in several OECD economies in the 1990s
+have been associated with more predictable inflation outturns (defined as the conditional standard
+deviation), see Chart 2. This can also be seen from the UK experience, where falling inflation and
+nominal and real interest rates have been accompanied by greater predictability for all three series
+(Charts 3 and 4).
+14
+But inflation is not the only area in which the macro-economic environment appears to have
+become more stable of late. Output has also become more stable in the major economies. Indeed there
+is a view that these two phenomena, more stable inflation and more stable output, are related. A
+substantial literature has grown up to document and explain this increased stability, dubbed “The Great
+Moderation”. Opinions differ as to whether it has resulted solely from good fortune, as the incidence
+___________________________________________________________________________________________________
+10
+This was noted by Darby (1975) and Feldstein (1976). I am grateful to Charles Bean for bringing it to my attention.
+11
+As suggested by Peek (1982).
+12
+See, for instance, King (2002).
+
+4
+
+and magnitude of shocks that buffet the world economy have reduced, or from improved management
+of macro-economic policy in the face of an unchanged incidence of shocks13 . My own view is that the
+explanation does not lie in a reduced incidence of shocks, but elsewhere. One need only think of the
+Asian crisis of 1997, the Russian default and Long Term Capital Management crisis of the following
+year, during which the operation of capital markets stalled, the dotcom collapse leading to the most
+synchronised global downturn since the war, 9/11 and volatility in several markets, from equities
+through housing to oil, to see that we still have our fair share of shocks. And it is probably worth
+saying at this point that my views on this matter date from well before my own stint as a policymaker,
+so are rather less biased than you might be tempted to think. As Benati (2004) shows, this
+phenomenon of reduced macro-economic volatility is also apparent in the UK for a range of economic
+data. Might that have led to an associated fall in real interest rates?
+15
+One method of estimating the risk premium in nominal interest rates uses bonds that are
+indexed for inflation. The difference in the yield on indexed and non- indexed bonds of the same
+maturity should tell us about the combined value of market participants’ expectations of future
+inflation and the premium they are willing to pay for the risk those inflation expectations won’t be
+realised. Scholtes (2002) and Peacock (2004) combine this with an independent measure of inflation
+expectations taken from surveys to arrive at a measure of the inflation risk premium. There are some
+important technical considerations to bear in mind in interpreting these data15 , some of which are more
+acute at shorter maturities, but nevertheless these results give some indication of the possible scale of
+the decline in the inflation risk premium. Scholtes suggests that the inflation risk premium, though
+volatile, might have fallen significantly in the early 1990s.
+16
+An alternative approach to estimating the risk premium is through the behaviour of consumers.
+Since the anticipated return from abstaining today and deferring consumption until tomorrow is given
+by the ex-ante expected real interest rate, we should be able to derive the expected real interest rate and
+associated risk premia from patterns of consumption. Following Ireland (1996) and Sarte (1998) the
+risk premium in a simple model can be shown to be a positive function of the unpredictability of
+inflation and the real interest rate; and a negative function of uncertainty about the covariance of future
+consumption and inflation.. This last term is because the consumer will require a higher compensation
+for the risk of unexpectedly high future inflation the more likely this is to coincide with a period of
+unexpectedly low consumption growth.
+17
+It seems likely that the combined effects of the increased predictability of inflation and interest
+rates observed during the last decade or so might have acted to reduce the risk premium, as might
+enhanced opportunities to hedge these risks. And chart 5 suggests that real consumption growth might
+___________________________________________________________________________________________________
+13
+Bernanke (2004) explains how a better monetary policy response to shocks might show as diminished shocks in
+empirical work.
+15
+See Breedon (1995), Scholtes (2002), Peacock (2004) and Tucker (2004).
+
+5
+
+be negatively correlated with inflation, though of course it is the unpredictable covariance in which we
+are interested. However, while estimates of the inflation risk premium for the UK using this approach
+clearly show a fall in the risk premium since the late 1980s, the scale, both of the risk premium itself
+and its fall over the period, is tiny. Although problems associated with this approach are well
+documented 16 and it is possible to make adjustments to deal with some of them that raise the premium,
+the total effect remains small compared with the observed fall in the real rate.
+18
+A more promising avenue to explore might be the approaches taken by Ang and Bekaert
+(2003) or Goto and Torous (2003), both of which incorporate the effects of regime change in
+calculatio ns of the term structure of real interest rates and the risk premium in the United States. Ang
+and Bekaert find a relationship between real rates and inflation that varies across regimes and a
+stronger role for the inflation risk premium, which entirely accounts for the upward slope of the
+nominal term structure, but falls significantly in the 1990s. Goto and Torous find that a shift in the
+inflation process following the introduction of an anti- inflationary interest rate policy leads to a
+positive relationship between inflation and real interest rates. The risk premium in short-term interest
+rates initially increases significantly as policy becomes more activist, but might later be expected to
+decline as credibility is established and inflation shocks become less persistent.
+19
+So, in conclusion, it seems that experience across a range of economies since the late 1980s
+suggests that the natural rate of interest might have fallen. A reduced tax wedge between real and
+nominal rates at lower inflation rates is likely to have contributed. And it is possible that the decline
+might be partly associated with reduced risk premia, although it is difficult to derive estimates that are
+sufficiently large to account for a significant share of the observed fall in average real short-term
+interest rates. Shifts in inflation regime and greater associated macro-economic stability might also
+have played a role, both in lowering the risk- free real natural rate and enhancing the role of risk
+premia. Since the observed relationship between real interest rates and inflation is a relatively recent
+phenomenon which was not apparent in the 1970s, this explanation for the decline in real rates is
+appealing.
+20
+But, as with interpreting movements in potential supply and apparent improvements in the
+inflation-output trade-off, it would be risky for policy makers to assume that any apparent shift down
+in the real natural rate of interest is a permanent rather than a temporary phenomenon.
+21
+We can think of monetary policy as a balloon. If we squeeze air out of one part of a balloon, it
+will move to expand another part. But the overall volume of air will be unchanged, so long as we don’t
+inflate or deflate the balloon. So it is with monetary policy. Relative price movements give the signals
+about demand and supply that lead to an effective allocation of resources and facilitate the smooth
+operation of the real economy. But movements in relative prices and price shocks cannot cause
+___________________________________________________________________________________________________
+16
+See for instance Larsen, May and Talbot (2003) for a summary of problems with the consumption capital asset pricing
+model.
+
+6
+
+general inflation or deflation in the medium term. So long as monetary policy is not expansionary a
+faster rate of increase in the price of some goods or services will in time be offset by slower increases
+in the price of others, as real incomes are squeezed. It is therefore important that monetary policy is
+set neither too hot nor too cold. Over the medium term that means ensuring that inflation expectations
+remain anchored to the target and getting the real interest rate right. Judging that in the face of
+uncertainty over the real natural rate of interest will continue to mean taking a pragmatic approach to
+policy.
+
+7
+
+References
+Ang, A and Bekaert, G (2004), ‘The Term Structure of Real Rates and Expected Inflation’, Centre
+for Economic Performance Research Discussion Paper no. 4518.
+Barker, K (2003), ‘Adjusting to Low Inflation - Issues for Policy’ Delivered at the Manchester
+Statistical Society Meeting in Manchester on 18 February 2003, Bank of England Quarterly Bulletin,
+Spring, pages 113-123.
+Benati, L (2004), ‘Evolving post WWII UK economic performance: towards a greater stability?'
+Journal of Money, Credit and Banking, Vol. 36(4), August 2004, pages 691-718.
+Bernanke, B S (2004), ‘What Policymakers Can Learn from Asset Prices’, Speech given before The
+Investment Analysts Society of Chicago, Chicago, Illinois.
+Breedon, F (1995), ‘Bond Prices and market expectations of inflation’, Bank of England Quarterly
+Bulletin, May, pages 160-65.
+Cecchetti, S G, Flores-Lagunes, A and Krause, S (2004), ‘Has Monetary Policy become more
+efficient? A cross country analysis’, National Bureau of Economic Research Working Paper no.
+10973.
+Chadha, J S and Dimsdale, N H (1999), ‘A Long View of Real Rates’, Oxford Review of Economic
+Policy, Vol. 15(2).
+Darby, M. R. (1975), ‘The Financial and Tax Effects of Monetary Policy on Interest
+Rates’, Economic Inquiry 13, 266–276
+Feldstein, M (1980), ‘Tax Rules and the Mismanagement of Monetary Policy’,
+American Economic Review 70, Supplement, 182–209
+Fisher, I (1907), ‘The Rate of Interest: Its nature, determination and relation to economic phenomena’,
+New York: Macmillan.
+Friedman M (1977), ‘Noble lecture: Inflation and Unemployment’, Journal of Political Economy vol
+85 pages 451-472.
+Goto S and W N Torous (2003) ‘The Conquest of U.S. Inflation: Its Implications for the Fisher
+Hypothesis and the Term Structure of Nominal Interest Rates’ University of South Carolina and
+UCLA, working paper (November).
+Ireland, P N (1996). "Long-term interest rates and inflation: a Fisherian approach," Economic
+Quarterly,Federal Reserve Bank of Richmond, issue 0, pages 21-36
+King, M (2002), ‘Inflation targeting ten years on’, Speech given at the London School of Economics,
+Bank of England Quarterly Bulletin, Winter, pages 449-474.
+
+8
+
+King, M (2003), ‘The Governor's speech at the East Midlands Development Agency/Bank of England
+dinner’, Bank of England Quarterly Bulletin, Winter, pages 476-478.
+Lambert, R (2004), ‘Why Is Inflation So Low?’, Speech given to The Institute of Chartered
+Accountants of Scotland, Glasgow on 25 October 2004, Bank of England Quarterly Bulletin, Winter,
+pages 502-508.
+Larsen, J D J and May, B and Talbot, J (2003), ‘Estimating real interest rates for the United
+Kingdom’, Bank of England Working Paper no. 200.
+Larsen, J D J and McKeown, J, ‘The Informational Content of Empirical Measures of Real Interest
+Rate and Output Gaps for the United Kingdom’, Bank of England Working Paper no. 224.
+Lildholdt, P and Vila Wetherilt, A (2004), ‘Anticipation of monetary policy in UK financial
+markets’, Bank of England Working Paper no. 241.
+Neiss, K S and Nelson, E (2001), ‘The real interest rate gap as an inflation indicator’, Bank of
+England Working Paper no. 130.
+Nickell, S (2004), ‘Why Has Inflation Been So Low Since 1999? ’, available on the Bank of England
+External Website at www.bankofengland.co.uk/publications/sninflation050127.pdf
+Peacock, C (2004), ‘Deriving a market-based measure of interest rate expectations’, Bank of England
+Quarterly Bulletin, Summer, pages 142-152.
+Peek, J (1982), ‘Interest rates, Income Taxes and Anticipated Inflation’, American
+Economic Review 72, 980–991.
+Sarte, P-D G (1998), ‘Fisher's Equation and the Inflation Risk Premium in a Simple Endowment
+Economy’, Federal Reserve Bank of Richmond Economic Quarterly, Vol. 84/4 Fall 1998
+Scholtes, C (2002), ‘On market-based measures of inflation expectations’, Bank of England Quarterly
+Bulletin, Spring, pages 67-77.
+Tucker, P (2004), ‘Risk Uncertainty and Monetary Policy,' Speech given at the UK Asset and
+Liability Management Association in Egham, Surrey on 29 January 2004. Bank of England Quarterly
+Bulletin, Spring, pages 89-92.
+Woodford, M (2003), ‘Interest and Prices: Foundations of a Theory of Monetary Policy', Princeton
+University Press.
+
+9
+
+Appendix of Charts
+Chart 1: Real interest rates and inflation over the cycle, 1990s
+Real Rates (%)
+8
+NZ 89Q2-97Q2
+
+7
+NZ 97Q2-00Q1
+
+6
+AUS 89Q3-99Q4
+
+5
+
+IT 90Q1-01Q1
+
+FR 90Q3-00Q4
+CAN 90Q1-00Q3
+
+4
+
+UK 88Q4-99Q4
+
+BEL 92Q1-98Q2
+
+3
+
+GER 91Q2-00Q4
+US 90Q2-00Q2
+BEL 98Q2-00Q4
+
+2
+
+SWZ 90Q4-94Q4
+JAP 90Q2-97Q1
+
+1
+JAP 97Q1-01Q1
+
+SWZ 94Q4-00Q4
+
+0
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+4
+Inflation (%)
+
+4.5
+
+Source: Various. See table 1 for definition of cycle (peak to peak)
+
+Table 1: The timing of the cycles (peaks) used in Charts 1 and 2
+
+Australia
+
+Dates of cycle Average real
+(peak to peak)
+rates
+89Q3 - 99Q4
+4.99
+
+Average
+inflation
+2.76
+
+Average inflation Dates of cycle
+volatility
+(peak to peak)
+0.85
+
+Average real
+rates
+
+Average
+inflation
+
+Average inflation
+volatility
+
+98Q2 - 00Q4
+
+2.01
+
+1.61
+
+0.63
+
+Canada
+
+90Q1 - 00Q3
+
+4.03
+
+2.23
+
+0.69
+
+Belgium
+
+92Q1 - 98Q2
+
+3.53
+
+2.05
+
+0.57
+
+France
+
+90Q3 - 00Q4
+
+4.33
+
+1.80
+
+0.41
+
+Germany
+
+91Q2 - 00Q4
+
+2.74
+
+2.47
+
+0.53
+
+Italy
+
+90Q1 - 01Q1
+
+4.72
+
+3.88
+
+0.46
+
+Japan
+
+90Q2 - 97Q1
+
+1.27
+
+1.33
+
+0.74
+
+97Q1 - 01Q1
+
+0.15
+
+0.30
+
+0.78
+
+New Zealand
+
+89Q2 - 97Q2
+
+7.04
+
+3.06
+
+1.25
+
+97Q2 - 00Q1
+
+6.08
+
+0.77
+
+0.81
+
+Switzerland
+
+90Q4 - 94Q4
+
+1.70
+
+3.66
+
+0.78
+
+94Q4 - 00Q4
+
+0.70
+
+0.91
+
+0.58
+
+US
+
+90Q2 - 00Q2
+
+2.33
+
+2.97
+
+0.45
+
+UK
+
+88Q4 - 99Q4
+
+4.42
+
+4.14
+
+0.81
+
+Note:The cyclical peaks were identified by applying a Hodrick-Prescott filter to GDP data as of June 2002.The results are
+not sensitive to alternative specifications of the cycle.
+
+Chart 2: Real interest rates and inflation volatility over the cycle, 1990s
+
+10
+
+Real Rates (%)
+8
+NZ 89Q2-97Q2
+
+7
+NZ 97Q2-00Q1
+
+6
+AUS 89Q3-99Q4
+
+IT 90Q1-01Q1
+
+5
+
+UK 88Q4-99Q4
+
+FR 90Q3-00Q4
+CAN 90Q1-00Q3
+
+4
+
+BEL 92Q1-98Q2
+
+3
+
+GER 91Q2-00Q4
+
+BEL 98Q2-00Q4
+
+US 90Q2-00Q2
+
+2
+
+SWZ 90Q4-94Q4
+JAP 90Q2-97Q1
+
+1
+SWZ 94Q4-00Q4
+JAP 97Q1-01Q1
+
+0
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+1.4
+Inflation Conditional Volatility (%)
+
+Source: Various. See table 1 for definition of cycle (peak to peak)
+Notes
+1. The conditional volatility was calculated from a time series equation for each country with the acceleration in inflation
+regressed on a constant, lagged inflation and a time trend. The errors followed a GARCH(1,1) process.
+
+Chart 3: Inflation, nominal interest rate
+and ex-post real rates for the UK
+% annual rates
+25
+20
+
+Inflation ( RPIX)
+
+15
+10
+
+Nominal interest rates
+
+5
+0
+1980
+1982
+1985
+1987
+-5
+Ex-post real interest rates
+
+1990
+
+1992
+
+1995
+
+1997
+
+2000
+
+2002
+
+-10
+
+Source: IFS and ONS. The treasury bill rates are annualised quarterly averages of bills of three month maturity. Inflation is
+the quarterly average of the annual rate.
+
+11
+
+Chart 4: Conditional volatilities of inflation, nominal interest rate
+and the e x-post real rate for the UK
+In units of % annual rates
+8
+7
+
+Inflation (RPIX)
+
+6
+5
+
+Ex-post real interest rates
+
+4
+
+Nominal interest rates
+
+3
+2
+1
+0
+1980
+
+1982
+
+1985
+
+1987
+
+1990
+
+1992
+
+1995
+
+1997
+
+2000
+
+2002
+
+Notes: The conditional volatility was calculated from integrated GARCH (1,1) processes for each of the three series for a sample 1977Q1 to 2004Q2. We
+are grateful to Luca Benati for doing these calculations for us.
+
+Chart 5: Consumption and inflation
+Percentage change
+on a year earlier
+14
+
+Percentage change
+on a year earlier
+Real per capita consumption of non-durables and services
+(right-hand scale)
+
+12
+
+7
+6
+5
+
+10
+
+4
+3
+
+8
+
+2
+6
+
+1
+0
+
+4
+
+-1
+RPI (left-hand scale)
+
+2
+
+-2
+
+0
+1981
+
+-3
+1984
+
+1987
+
+1990
+
+1993
+
+1996
+
+1999
+
+Source: ONS
+
+ENDS
+
+12
+
+2002
+
+

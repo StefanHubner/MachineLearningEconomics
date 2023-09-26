@@ -1,0 +1,1275 @@
+The elusive supply potential: monetary policy in times of
+uncertainty
+Speech given by
+
+Silvana Tenreyro
+External Member of the Monetary Policy Committee, Bank of England
+
+Glasgow
+7 March 2019
+
+The views are not necessarily those of the Bank of England or the Monetary Policy Committee. I
+would like to thank Oliver Ashtari Tafti, Michael McLeay and Manveer Sokhi for their help producing
+this speech. I would also like to thank Ben Broadbent, Nikola Dacic, Jonathan Haskel, Lizzie Levett,
+Clare Macallan, Marko Melolinna, Kate Reinold, Michael Saunders, Michal Stelmach, Matt Swannell,
+Jan Vlieghe and Boromeus Wanengkirtyo for helpful comments and contributions.
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+Thank you very much for the opportunity to speak today. It is a pleasure to be here in Glasgow to give a talk
+in a city with such a rich tradition in economics.
+My topic today is the UK economy’s supply potential. The MPC has just published our collective view on the
+topic following our annual supply stocktake.1 I also described my own views on one aspect of supply
+– productivity – in a speech last year.
+
+Today I will set out how I think about supply in general and how it shapes my outlook for monetary policy in
+particular. I will then give an update on how I see the evolution of supply and inflation since the
+EU referendum in 2016.
+Looking ahead, the UK’s withdrawal from the EU is clearly the overriding event on the horizon.
+
+The MPC has emphasised that the policy response to Brexit will depend on the balance between supply and
+demand, as well as the response of the exchange rate.2 Some of my colleagues on the MPC have recently
+spoken about the factors underlying currently weak demand.3 Here I will try to elaborate on the supply side of
+the equation, before explaining how I will judge the balance between supply and demand in real time.
+
+I will make four main points:
+
+
+Potential supply is always uncertain, but it has become more so since the financial crisis. Adding to
+this, depending on the nature of EU withdrawal, Brexit may materially affect supply.
+
+
+
+As supply becomes more uncertain, the price data, stripped of external influences such as the
+exchange rate, become more important in helping me determine the balance of supply and demand.
+In turn, this informs me how we should adjust monetary policy to meet our inflation target.
+
+
+
+The recent softening in measures of underlying price inflation suggests to me that supply has been
+growing broadly in line with demand, and that we may still have some excess supply remaining.
+
+
+
+In the event of a disorderly EU withdrawal, falls in the exchange rate or increases in tariffs or
+non-tariff costs could all temporarily increase headline inflation. Measures of core inflation will be
+particularly useful in informing me how supply and demand are evolving in real time, helping assess
+any short-run trade-off we may face between headline inflation and output volatility.
+
+Before discussing these points in detail, I will first step back and explain how I think about potential supply.
+1
+
+See the February 2019 Inflation Report.
+In the February 2019 MPC minutes, for example.
+3
+Carney (2019) and Vlieghe (2019).
+2
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+2
+
+Supply and the stars
+
+What are we talking about when we discuss supply? In our communications, we often use the informal
+analogy of the economy’s speed limit: how fast the economy can grow without overheating.4
+
+The idea is that our resources are limited. To give a concrete example, if a company wants to produce extra
+goods or services to sell, it can perhaps hire some extra workers or ask its existing workers to work longer
+hours. But for the economy as a whole, the number of workers is necessarily limited by the number of people
+available to work. And there are only so many hours in each day.
+
+Potential supply is the amount of goods and services that can be produced when these resources are fully
+utilised. It is often variously described as the economy’s supply capacity, the natural rate of output, or simply
+aggregate supply.
+
+The concept of supply is so important in our models and our thinking that it is often given its own label,
+denoted by * or ‘star’. So while demand or actual output is usually represented by the letter Y, potential
+supply is represented by Y*, or Y star.
+
+It is our job as MPC members to keep inflation in line with our 2% target. Over time, inflation is determined by
+the balance between supply and demand, and hence we aim to keep the economy’s demand for goods and
+services growing broadly in line with supply: to keep Y in line with Y*. If demand is too great, wages and
+prices will be bid up and inflation will ensue; too weak and inflation will fall below our 2% target. The gap
+between Y and Y* is known as the output gap or excess demand. Its negative is the spare capacity.
+When we change interest rates, our aim is to influence households’ and companies’ demand to roughly
+match potential supply. By contrast, supply is largely unaffected by the stance of monetary policy. It is
+instead determined by factors like the level of technology; the size and skills of the labour force; the quantity
+and quality of the capital used in production; and the degree of openness of the economy.
+
+Keeping demand equal to supply is not straightforward, however, since supply is not something we can
+observe in the data. While national statistics agencies are able to track demand as the amount produced and
+consumed, the supply potential is an abstract, counterfactual construct. It is how much would be produced if
+resources were not over- or underutilised.
+
+We can and do look at a range of evidence to assess how structural changes might be affecting the supply
+side of the economy.5 But ultimately, we will only know that we have managed to set demand equal to supply
+if we observe stable inflation over time. Indeed, one general definition of potential output or Y* is the level of
+4
+5
+
+The Bank of England’s Knowledge Bank resource provides a simple introduction to this idea.
+Berry et al (2015) discuss the different components of labour supply, for example.
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+3
+
+output for which inflation is equal to expected inflation.6 If we are doing our job properly and inflation
+expectations remain anchored at the target, then output at potential will mean inflation at its 2% target.
+
+There are, however, lots of different precise definitions of aggregate supply. Chart 1 shows estimates of
+Y* calculated using a range of different methods. Each takes as a starting point the raw GDP data and uses
+a different set of assumptions to strip out some movements that are attributed to demand. At one extreme,
+purely statistical methods (HP filter in the red line) do so based on whether changes in GDP are transitory
+(so more likely to be demand) or persistent (more likely to be supply). At the other extreme, COMPASS
+(blue), the Bank’s main DSGE model, conceives of potential very specifically as the level of output that would
+prevail in a hypothetical world where all prices and wages were completely flexible. It uses the data on a
+wide set of real-world variables to construct the most likely path for this hypothetical value.
+
+Chart 1: GDP and different estimates of potential output
+Percentage changes on
+a year earlier
+
+6
+4
+2
+0
+
+Hodrick Prescott (HP) filter
+Holston, Laubach and Williams (2016)
+MPC forecast
+OBR potential output
+COMPASS flexible price output
+Real GDP
+
+-2
+-4
+-6
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Sources: Federal Reserve Bank of San Francisco, Holston, Laubach and Williams (2016), OBR, ONS and Bank calculations.
+Notes: MPC lines show average growth rates over a number of years in the MPC’s February 2019 forecast: see February 2019 Inflation
+Report for details. Holston-Laubach-Williams and COMPASS estimates are more volatile than the other estimates partly because they
+are different concepts of potential supply: they are estimates of the level of output that would bring inflation to target over a relatively
+short horizon (in the absence of trade-off inducing shocks). The other estimates are longer-run concepts.
+
+An analogous concept to a star version of supply is also applied to other variables, especially unemployment
+(U*) and the (real) interest rate (r*) – often known as the natural rates of unemployment and interest.7 Again,
+precise definitions vary. But loosely speaking, they are the rates of unemployment and the real interest rate
+consistent with inflation being at target after a period of time, as long as inflation expectations are anchored.
+
+As with potential supply, we typically think of the other star variables as being unaffected by monetary policy.
+While monetary policy affects the actual rates of unemployment, interest and output – the stars are tied down
+
+6
+
+Phelps (1967).
+Chronologically, the natural rate of interest came first, conceived by Swedish economist Knut Wicksell in the 19th century, before being
+reformulated as the natural rate of unemployment by Milton Friedman in 1967.
+7
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+4
+
+by more structural factors. By moving around unemployment, the interest rate, or demand – monetary policy
+moves the gaps between those variables and their star counterparts.
+
+Following the stars
+A key question for monetary policymakers is how closely we should be guided by the stars.8 Our remit
+requires us to target 2% CPI inflation, and we believe we have a good understanding of how to use monetary
+policy to steer inflation towards that target. And I have argued that if we are doing our job properly then
+inflation at target will mean output equal to its potential, at least in the long run. So what are the benefits from
+also watching the stars?
+
+There are at least two important reasons the MPC might wish to pay attention to estimates of potential
+supply; in other words, why we might desire to follow the stars.
+
+(i)
+
+Timeliness
+
+First, the consensus view has long been that it takes some time for monetary policy to have its full effect.9 In
+the jargon, there were ‘long and variable lags’ between changing interest rates and their effect on the
+economy. A common teaching analogy is that setting monetary policy is like steering a large ship, where the
+captain must start steering to avoid any obstacles long before she sees them.
+
+The stars help with this by providing an early warning. If the output gap between demand and potential
+supply today provides an accurate signal about future inflation, then we as MPC members might want to
+react quickly, rather than waiting until excess demand feeds through to inflation. If not, we risk being too late,
+or worse, injecting additional volatility into the economy by responding to shocks and events that have
+already run their course.
+
+Timeliness is an important concern. There is some evidence, however, that acting slightly later may be less
+costly than it once was. For the UK at least, some of the latest empirical findings suggest that monetary
+policy may affect inflation more quickly than it did in the past.10
+Chart 2 shows some recent estimates of the effect of interest rate ‘shocks’ on inflation, constructed using
+only data covering the (pre-crisis) inflation targeting era in the UK (from 1992 to 2007). The peak impact of
+interest rate changes on annual inflation comes in the first 18 months (red line), with an initial impact within
+the first year. This compares to a slower response when estimating including data from the earlier era
+(blue line). These estimates themselves are highly uncertain – the effect of monetary policy is difficult to
+8
+
+See Powell (2018) for a discussion of this question for the United States.
+Friedman (1961).
+Here I show results from Cloyne and Hürtgen (2016), but similar findings about the speed of transmission emerge in the study by Ellis,
+Mumtaz and Zabczyk (2014), although differently, they find a larger effect on inflation in the inflation-targeting era.
+9
+
+10
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+5
+
+disentangle from other factors.11 But taken at face value, they suggest that we may have scope to be
+cautious in responding to imprecise estimates of supply and the output gap.
+
+Chart 2: Response of annual CPI inflation to a monetary policy shock (Cloyne and Hürtgen, 2016)
+Percentage points
+
+0.5
+
+0
+
+-0.5
+
+1975 - 2007 sample
+
+1993 - 2007 sample
+-1
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+Months
+
+21
+
+24
+
+27
+
+30
+
+33
+
+Source: Cloyne and Hürtgen (2016).
+Notes: Impulse responses to a one percentage point contractionary monetary policy shock. The shaded area shows 68 percent
+confidence intervals for the response estimated using the 1993 – 2007 sample. See Cloyne and Hürtgen (2016, Figure 6) for more
+details.
+
+(ii)
+
+Monetary policy trade-offs
+
+Second, the MPC’s remit also requires us to avoid undesirable volatility in output and employment. In normal
+circumstances, achieving these secondary goals should be equivalent to our primary mandate to target 2%
+CPI inflation. By setting interest rates that keep demand close to potential supply, or Y=Y*, we should also
+minimise any movements in inflation away from target. The ‘early warning’ argument then becomes the main
+reason why one might wish to follow the stars.
+
+However, our remit also sets out that there may be exceptional circumstances when shocks to the economy
+create a large or persistent trade-off between achieving the inflation target and our other objectives. In those
+circumstances we are required to strike a balance between the competing goals. To do that, we need to
+make an assessment of potential supply or Y*,12 so that we can identify which changes in output are
+‘undesirable’ in the sense that they lead to an output gap, and what the appropriate MPC response is to
+balance that output gap with any deviation of inflation from target.
+
+The MPC faced such exceptional circumstances following the EU referendum in 2016. The vote triggered a
+large fall in sterling, which led to a material and persistent increase in imported inflation over the subsequent
+11
+
+Moreover, the average effect of monetary policy shocks may differ from the effect of regular, systematic changes in monetary policy. It
+is also possible that the way interest rates affect inflation has changed in the period since the financial crisis, but so far we only have a
+limited sample of actual Bank Rate changes since 2009.
+12
+Following a long tradition in economics, Carney (2017) explains how the MPC’s remit can be represented by a simple ‘loss function’
+each period of the form 𝐿𝑜𝑠𝑠𝑡 = (𝜋𝑡 − 𝜋 ∗ )2 + 𝜆(𝑦𝑡 − 𝑦𝑡∗ )2 that balances the squared inflation deviations from target (𝜋𝑡 − 𝜋 ∗ ) with the
+squared output gap between demand and potential supply (𝑦𝑡 − 𝑦𝑡∗ ).
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+6
+
+period. Tightening policy to keep inflation at target over 2017-18 would have led to greater excess supply
+and slower employment growth.
+
+The pass-through of the fall in sterling is now nearing completion. Import price inflation has fallen sharply
+since 2016 (Chart 3), while the impact of higher import prices on the more import-intensive components of
+the CPI basket has waned since 2017 (Chart 4). Consequently, the MPC is now in a situation where we face
+only a very limited trade-off.
+
+Chart 3: Import prices
+
+Chart 4: CPI inflation by import intensity
+Percentage changes
+on a year earlier
+
+Foreign export prices in
+sterling terms
+
+Per cent
+4
+
+Lower import-intensive CPI
+components
+
+25
+20
+
+3
+
+15
+Foreign export prices in
+foreign currency
+
+2
+
+10
+1
+5
+0
+0
+
+-10
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+-1
+
+Higher import-intensive CPI
+components
+
+-5
+
+Import prices
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+-2
+2019
+
+Sources: ONS and Bank calculations.
+
+Sources: ONS and Bank calculations.
+
+Notes: Foreign export prices in foreign currency defined as
+domestic currency non-oil export prices of goods and services of
+51 countries weighted according to their shares in UK imports. The
+sample excludes major oil exporters. Foreign export prices in
+sterling terms are defined as domestic currency non-oil export
+prices divided by the sterling effective exchange rate. Import prices
+are defined as UK goods and services import deflator excluding
+fuels and the impact of MTIC fraud. The diamonds show the MPC’s
+February 2019 Inflation Report forecast for 2018 Q4.
+
+Notes: Higher import-intensive and lower import-intensive CPI
+components comprise the top half and bottom half respectively of
+CPI components by weight ordered by import intensity. Data
+exclude fuel and administered and regulated prices and are
+adjusted by Bank staff for changes in the rate of VAT, although
+there is uncertainty around the precise impact of those changes.
+Import intensities are ONS estimates of the percentage total
+contribution of imports to final household consumption by
+COICOP class, based on the United Kingdom Input-Output
+Analytical Tables 2014.
+
+The problem with the stars: uncertain potential supply
+
+While perhaps more timely, the key drawback of using the stars as the basis for monetary policy is that they
+are inherently uncertain. Potential supply is unobservable, so estimates of the gap between demand and
+potential supply will always be just that: estimates. Indeed, one quote aptly describes one of the star
+variables as ‘an abstraction; like faith, it is seen by its works’.13
+
+This uncertainty means that estimates of the stars are model-specific. As illustrated in Chart 1, different
+models will give you different answers. Estimates will vary depending on the precise concept of Y* being
+used; how quickly supply is thought to change over time and how quickly changes in the output gap are
+
+13
+
+Orphanides and Williams (2002) quoting Williams (1931).
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+7
+
+thought to affect inflation. Moreover, even the same model will often give you a different estimate after the
+fact than it would in real-time, as it takes on information from subsequent data outturns and revisions.
+
+Unfortunately, estimating potential supply in the UK has become even more difficult in the decade and a bit
+since the financial crisis began. There has been a slowing in the growth rate of labour productivity, of which a
+part has been either permanent or very long-lasting.14 But the extent to which productivity growth will recover
+and the timing over when that will happen has been a source of persistent forecasting errors since the crisis.
+
+Uncertainty also dims the usefulness of the other star variables. The labour market appears to have changed
+since the crisis in ways that have made the natural rate of unemployment, U*, more uncertain.15 Despite
+unemployment falling to its lowest rate in over 40 years, wages were at first slow to pick up. Various
+explanations have been proposed, including greater labour market flexibility; capital- labour substitution;
+increases in desired labour supply; changes in the tax and benefit system; and higher underemployment.16
+
+Over the past year and a half, labour costs have started to pick up more in line with our expectations. In our
+February 2019 Inflation Report the MPC’s collective judgement was that the level of U* remained at 4¼%, as
+we had judged a year ago. I share that central case, but would put large standard errors around the
+estimate. And the natural rate is not set in stone. The current estimate has been reduced twice from the 5%
+rate used in MPC forecasts before 2017.
+
+If the natural rate of unemployment can be described as uncertain, that is doubly the case for the other
+components of labour supply. Detailed analysis of demographic trends, microeconomic survey data and
+statistical filtering techniques all help to inform the MPC’s collective estimates of the trend growth rates of
+average hours worked and labour force participation. But these estimates all come with substantial
+uncertainty attached, which is compounded when we combine them to produce an overall estimate of
+aggregate supply.
+
+Moreover, labour is not the only input in production. Tangible and intangible capital, intermediate imported
+inputs and the efficiency with which various inputs are combined all affect the productive capacity of the
+economy.17 Compared to labour, there is even greater difficulty in measuring these inputs and estimating
+how they combine to affect overall supply.
+
+14
+
+See Tenreyro (2018) for my view on this slowdown.
+In the absence of significant uncertainty over the natural rate of unemployment, placing more weight on unemployment as a measure
+of slack can help differentiate between changes in aggregate demand and supply. Broadbent (2013) sets out this logic in detail: at times
+when demand is growing more strongly than workers’ productivity, companies can only produce extra output by increasing employment,
+which typically pushes down on the unemployment rate. By contrast, if demand is growing broadly in line with improvements in
+underlying productivity, then firms can satisfy that extra demand without increasing hiring and the unemployment rate may not fall.
+These properties were also one motivation for the MPC’s forward guidance policy in 2013, which linked the possibility of future Bank
+Rate changes to the unemployment rate.
+16
+See Saunders (2017).
+17
+See Haskel and Westlake (2017) on the importance of intangible capital to the economy.
+15
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+8
+
+Crucially, assessing the supply side of the economy will become even more difficult as a result of the UK’s
+departure from the EU. Reductions in openness and labour-market mismatches may drag on supply as the
+adjustment to a new arrangement takes place.18 While such effects are usually gradual, under some
+scenarios supply could fall more sharply. A disorderly withdrawal could lead to supply chain disruptions that
+would create a more rapid adjustment. It would then become extremely difficult to separate demand and
+supply in real time.
+
+The solution: focusing on (core) inflation
+
+Uncertainty over potential supply has arguably increased since the financial crisis, and is likely to do so
+further as a result of the UK’s EU withdrawal. But its unknowability is by no means a new problem for
+monetary policy. One leading hypothesis for the high inflation rates of the 1970s is that monetary
+policymakers underestimated the natural rate of unemployment and therefore overestimated potential
+supply.1920
+
+Faced with supply uncertainty, the traditional solution is to focus our attention squarely back on CPI inflation.
+Unlike the other equilibrium variables, the ‘star’ rate of inflation is never uncertain. It is given to us in our
+remit and is 2% at all times.
+Indeed, one interpretation of the MPC’s remit is that the primacy it gives to the inflation target is due to the
+uncertainty over supply.21 Over a long enough time horizon our inflation and output goals should be entirely
+equivalent, as long as inflation expectations remain consistent with the target. Any apparent conflict between
+the different goals would then simply imply that our estimates of potential supply needed to be reassessed.
+
+The strategy of focusing more on inflation when there is structural uncertainty is backed up by more formal
+analysis. A general and intuitive result in the academic literature on monetary policy is that when uncertainty
+about a particular variable increases, we as policymakers should place less weight on it in our interest rate
+decisions.22 This point has been made forcefully in a series of papers by Athanasios Orphanides and John
+Williams. They have shown that when policymakers are more uncertain about U*, they should place more
+weight on the inflation data when setting policy.23 To be clear, this does not imply caring any less about the
+18
+
+See the November 2018 Inflation Report.
+See Nelson and Nikolov (2004) for the UK and Orphanides (2003) for the United States.
+20
+Uncertainty over the natural rate of unemployment was one factor that led Friedman (1968) to recommend monetary policy should
+focus on stabilising money growth rates rather than a measure of the output gap.
+21
+Bean (2003).
+22
+Swanson (2004).
+23
+See Orphanides and Williams (2007). More recently, Erceg et al (2018) have shown that the general advice is not universally true, by
+setting out reasons why at the current juncture in the United States, better outcomes could be achieved by placing a large weight on
+uncertain output gap arguments. But it is not clear that those specific circumstances translate to the UK at present. Moreover, focusing
+more on inflation is not the only solution to uncertainty about the stars. Although the level of potential supply is uncertain, we think it is
+usually quite slow-moving. As a result, Orphanides and Williams (2002) have advocated that we can infer how the output gap is
+changing from the change in the unemployment rate over a short period of time, since the star variables are likely to be little changed at
+that frequency. That information can help us decide whether interest rates should be rising or falling to bring inflation to target. While the
+unemployment rate has fallen over the past two years, it has been flat over the past two quarters. So at present, an Orphanides and
+Williams (2002) change rule would be invariant to the weight placed on the change in the unemployment rate.
+19
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+9
+
+output gap between demand and supply. It is simply that when supply is uncertain, focusing more on inflation
+becomes a more effective strategy in trying to close that gap.24
+Focusing more on the inflation data essentially places more weight on certainty relative to timeliness.25
+Weighing up these pros and cons is a difficult balance for policymakers. But for me, with the economy’s
+supply potential particularly uncertain, and evidence that policy transmission may be faster than in the past,
+the balance shifts towards paying more attention to the observable inflation data.
+
+We also face an extra complication when various shocks move inflation and the output gap in opposite
+directions. The large fall in sterling following the referendum was an example of such a shock, as higher
+import prices pushed up on CPI inflation for a given level of demand relative to supply. Further rises or falls
+in the exchange rate, or even the imposition of tariffs, are examples that could occur in future, depending on
+the precise nature of EU withdrawal.
+
+Using inflation to infer the balance between demand and supply becomes more difficult in the face of such
+shocks, but not impossible. Rather than doing so using headline CPI inflation, we typically focus more on
+various measures of domestically generated inflation (DGI) that try to strip out the effects of external
+influences such as energy prices and the exchange rate.26
+
+Chart 5: Measures of headline and core CPI inflation
+Core CPI
+
+Core services CPI
+
+Percentage changes on a
+year earlier
+
+Headline CPI
+
+6
+5
+4
+3
+2
+1
+0
+-1
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Sources: ONS and Bank calculations.
+Notes: Core CPI is CPI excluding food, energy, alcohol, tobacco and non-alcoholic beverages. Core services CPI excludes airfares,
+package holidays, education and VAT; Bank staff have adjusted for VAT changes but there is uncertainty over their precise impact.
+
+24
+
+Swanson (2004) makes clear this distinction by explaining how the optimal monetary policy is certainty equivalent, in that uncertainty
+does not change the relative weight placed in the policymaker’s best estimate of the output gap. But when the output gap is more
+uncertain, then the inflation data become a more important signal in informing that estimate.
+25
+Broadbent (2014) discusses this trade-off between information and timeliness in the face of supply uncertainty in the context of
+choosing how much weight to place on labour market data, relative to more timely output data.
+26
+Focusing on measures of DGI is not costless, since it introduces uncertainty over their relationship with headline CPI inflation. Trends
+in the relative prices of goods and services can influence the target-consistent rates of DGI, while there is also uncertainty over how
+much estimates of DGI are still affected by exchange-rate pass through. It will therefore always be essential for MPC members to
+continue to look at a wide range of indicators to understand how the economy is evolving.
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+10
+
+These measures of DGI have been important indicators of demand relative to supply in the period since the
+2016 referendum. Chart 5 illustrates the rise and fall of inflation alongside measures of core inflation and
+core services inflation. Core inflation excludes volatile components that are less related to domestic demand
+such as food and energy prices. But many core goods are still strongly influenced by changes in the
+exchange-rate, so we often focus on only those in the services subset of the CPI basket: core services
+inflation, which is largely domestically produced. Relative to some other (labour-cost based) measures of
+domestic inflation, core services inflation has the advantage that it also captures the influences on inflation of
+non-labour costs and mark-ups over those costs.27
+
+Why have price inflation pressures weakened?
+
+Both core goods and core services inflation fell over 2017 and 2018, and by more than I had initially
+expected. In the first half of 2018, the effect of that fall on headline inflation was masked by unanticipated
+increases in energy prices, such that overall inflation came in only slightly below our forecasts. As oil prices
+have fallen back and energy price pressures have dissipated, the relative softness in core inflation is more
+salient in the last data outturns for headline CPI inflation, which stood at 1.8% in January.
+The upcoming increase in Ofgem’s energy-price cap should lead to some further volatility in headline
+inflation over the next few months. But for me, the behaviour of core inflation, and particularly core services
+inflation, is likely to be telling us more about the balance of supply and demand over the recent past.
+The MPC’s best collective judgement, published in our February 2019 IR, is that demand and supply are
+currently broadly balanced. The fall in core services inflation suggests to me that there may be risks to that
+estimate. Taking the inflation data in isolation, one could infer that the output gap remains negative, and may
+even have been widening over the past eighteen months.
+
+One does not take any single data series in isolation, of course. And the behaviour of core services inflation
+seems to be somewhat at odds with labour-market based measures of domestic inflationary pressures,
+which have been steadily increasing since mid-2017 (Chart 6).
+
+Why have measures of core inflation been weak when wage growth has been strengthening?
+
+To some extent, falls in core inflation can reflect developments in import prices, but I do not think that this is
+the whole story. Since I joined the committee, we have been forecasting that the temporary effect of higher
+import prices on inflation would diminish and wage pressures would gradually pick up. By and large, this
+dynamic has come to pass, and explains much of the fall in inflation in core goods since 2017, since their
+
+27
+
+It is far from straightforward to determine empirically which of these indicators is best able to forecast future inflation. In my own work
+(McLeay and Tenreyro, 2018), I discuss how monetary policy may blur any Phillips curve forecasting relationship between slack and
+CPI inflation, but not necessarily with wage inflation, which is not an explicit policy target.
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+11
+
+production is quite import intensive. But it is harder to appeal to imports to explain weak inflation in core
+services, which are largely domestically produced.
+
+Chart 6: Labour cost and inflation-based measures of domestically generated inflation
+Percentage point changes
+from 2004-08 averages
+
+Unit labour costs
+
+4
+3
+2
+1
+0
+-1
+-2
+
+Core services inflation
+
+-3
+-4
+-5
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Sources: ONS and Bank calculations.
+Notes: Core services CPI data are monthly and unit labour cost data are quarterly. Core services CPI excludes airfares, package
+holidays, education and VAT; Bank staff have adjusted for the rate of VAT but there is uncertainty around the precise impact of those
+changes. Unit labour costs are whole-economy labour costs divided by real GDP, based on Bank staff backcast of the final estimate of
+GDP. Diamond for 2018 Q4 is estimated by assuming self-employment income grows in line with employee compensation.
+
+I would instead focus on two candidate explanations. First, the weakness in core services inflation may just
+be another part of the economy’s adjustment to the vote to leave the EU in 2016. Second, there may have
+been a reduction in the price mark-ups that firms wish to charge on their products, or equivalently, as I will
+come on to explain, stronger underlying productivity.
+(i)
+
+Relative price adjustment to the decision to leave the EU
+
+On the first of those, the response of financial markets to the vote, exemplified by the sharp drop in sterling,
+suggested a belief that Brexit had increased the prospect of losses in international competitiveness.28 The
+adjustment required an increase in the price of tradeable goods and services relative to non-tradeable ones,
+such as those making up the core services part of the CPI basket.
+
+We often take it as given that such an adjustment will happen via higher tradeable prices, mediated by a fall
+in exchange rate. But part of it may equally come via lower non-tradeable price inflation. While the
+adjustment through tradeables pushes up on inflation, the more protracted adjustment in non-tradeable
+inflation can exert some downward pressure. The balance depends, among other things, on the demand for
+(and supply of) non-tradeables; the evolution of firms’, households’ and financial markets’ expectations
+around Brexit; and ultimately, on the monetary policy set by the MPC.
+
+28
+
+Broadbent (2017) sets out the evidence for this proposition.
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+12
+
+This channel has also been evident in the price data on housing, the quintessential non-tradeable. Inflation in
+housing rents, which make up around one-fifth of the core services CPI basket, has been historically weak
+(Chart 7). And official UK house price growth has also fallen, from an annual rate of 8% in mid-2016 to below
+3% in the latest data. The growth rate of the Nationwide house price index, a timelier indicator, has fallen
+further still. And while that slowing was initially concentrated in London and the South-East, which are more
+influenced by idiosyncratic factors, it has spread more widely in the recent months.
+
+Chart 7: Rents and house price indices
+Nationwide house price index
+
+Percentage changes
+over a year earlier
+
+ONS House price index
+
+12
+10
+
+CPI rents
+8
+6
+4
+2
+0
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Sources: Nationwide, ONS and Bank calculations.
+
+(ii)
+
+Lower desired mark-ups/stronger underlying productivity
+
+A second possible reason for weak inflation is that firms have opted to reduce the mark-ups they wish to
+charge on their products. Mark-ups can serve as an indicator of market power: the smaller they are, the
+closer the economy is to an efficient system.29 The level of mark-ups relative to firms’ desired mark-ups is
+also a key determinant of inflation in our standard macroeconomic models.
+
+Assessing this hypothesis is difficult because accurately measuring mark-ups in the data is challenging. We
+typically look instead at indicators of margins that measure prices relative to average costs facing the firm
+(Chart 8). But in our models and according to survey evidence it is the mark-up over the marginal cost of
+producing an extra unit of output that matters for pricing decisions, not least because this is the mark-up that
+the firm actually chooses.30 Moreover, it is not only the mark-up of final goods over labour costs for each firm
+that matters. A more general definition would look at mark-ups of all prices, including intermediates, over
+competitive prices.
+
+29
+
+See Haldane et al (2018).
+As discussed in Macallan and Parker (2008), the margin depends on both the mark-up and the quantity of goods sold, but firms are
+not able to directly choose how many goods they sell, since this depends on demand.
+30
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+13
+
+Chart 8: Different measures of margins
+Standard deviation from
+1998-2018 average
+
+Range of consumer-facing margins estimates
+Service sector net rate of return
+UK PNFCs gross profit share
+Aggregate profit share
+
+3
+2
+1
+0
+-1
+-2
+-3
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Sources: ONS and Bank calculations.
+Notes: Where the data used to construct the range of consumer-facing margins estimates are not yet published for 2018 Q4, estimates
+use MPC’s February 2019 forecast.
+
+In my own work I have highlighted how lower mark-ups (defined in this way) look similar to improvements in
+productivity.31 To blur the picture, some of the moves in mark-ups seen in some sectors may even be
+responding to productivity gains elsewhere in the economy. 32 For example, gains in so-called ‘superstar’
+companies like Amazon may be weighing on margins and mark-ups in competing high-street retailers.33 That
+would accord with some reports on the retail sector we have heard from the Bank’s Agency network.
+
+From the perspective of monetary policy, temporary falls in desired mark-ups or temporary increases in
+productivity both imply lower price pressures and, all else equal, falls in excess demand. In both cases,
+monetary policy should be accommodative. 34 (The distinction between mark-ups and productivity of course
+matters for other aspects of the economy, including competition and innovation policies, but from the
+perspective of monetary policy, they have a similar impact in the short term.)
+
+While we do measure productivity, I discussed in a speech last year how doing so is fraught with challenges.
+Measured productivity growth is also influenced over shorter horizons by cyclical, demand-driven changes in
+resource utilisation. We can attempt to adjust for this effect by using capacity utilisation surveys, but these
+are likely to be imperfect measures of true utilisation rates.
+
+31
+
+Barro and Tenreyro (2006). See also Haldane et al (2018) for a discussion of other possible links between mark-ups and productivity.
+Baqaee and Farhi (2018) show how the picture may be blurred further by changes in the distribution of mark-ups, if firms with higher
+productivity increase their market share, since this will increase both productivity and average mark-ups.
+33
+Autor et al (2017).
+34
+Here I am assuming an unanticipated change in the level of productivity. If there were instead a persistent or permanent change in its
+growth rate, which was also fully anticipated by agents in the economy, then the associated change in the natural interest rate could
+attenuate or reverse the appropriate policy response. But even for persistent increases in productivity growth, if agents are slow to learn
+about the change or face binding credit constraints, demand may be slow to respond and policy should remain accommodative.
+32
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+14
+
+Nonetheless, this channel could explain some of the measured productivity patterns we have seen in the
+past few years, as well as some of the recent pickup in wage growth – together with flat or falling core
+inflation. On the face of it, appealing to stronger productivity might seem unlikely: with GDP weakening and
+employment growth remaining robust over 2018, productivity has actually fallen in the year to 2018 Q4. But
+the data are notoriously volatile from quarter to quarter, especially given sharp changes in average hours
+worked, so I prefer to look at trends over a somewhat longer horizon.
+
+Chart 9: Productivity per hour and trend productivity
+Percentage changes
+on a year earlier
+
+Trend using staff backcast for
+productivity
+
+2
+
+1
+
+0
+
+Trend using ONS data
+-1
+
+Productivity per hour (ONS data)
+
+-2
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+Sources: ONS and Bank calculations.
+Notes: The productivity model is a Bayesian correlated unobserved components model with two variables; productivity and a measure
+of UK trade openness (the sum of exports and imports, divided by GDP). The model allows for correlation between the trend and the
+cycle shocks, both within and between the two observable variables.
+
+Smoothing through some of the volatility, there is some evidence of a mildly improving trend emerging.
+Grouping the data into 4 year averages, hourly productivity growth has increased from 0.1% per year during
+the crisis (2006 Q4 to 2010 Q4), to 0.4% in its aftermath (2010 Q4 to 2014 Q4), to 0.6% over the past four
+years (2014 Q4 to 2018 Q4). Moreover, early estimates of GDP (and therefore productivity) are typically
+revised up over time. Bank staff backcasts predict that upward revisions for the most recent four years will
+eventually nudge up that 0.6% into 0.8% productivity growth per year. More sophisticated statistical filtering
+methods tell a similar story to these simple averages, with the trend of four-quarter productivity growth
+picking up gradually from 0.1% in 2012 to 0.7% in 2018 when using the backcast data (Chart 9).35
+
+Digging further into the data also suggests some grounds for mild optimism, should a smooth Brexit scenario
+transpire. In a speech last year I showed that a large proportion of the slowing in productivity growth since
+the pre-crisis period was due to falling productivity in the finance sector, much of which may be down to
+measurement issues.36 Taking the data at face value, the finance sector contributed positively to productivity
+growth in 2016 and 2017, although there may also be a case for excluding it altogether, given those
+
+35
+
+One drawback of any filter methods is the well-known end-point problem: the trend-cycle decomposition may change significantly as
+new data become available. The type of model used here is typically more robust to the issue than HP filter decompositions, although
+the problem will still be present to some degree.
+36
+Tenreyro (2018).
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+15
+
+measurement difficulties. Without the finance drag, only a small pickup in productivity growth in the other
+sectors would be needed to reach aggregate growth rates of 1% or higher.
+
+Chart 10: Growth accounting decomposition of hourly labour productivity growth
+percent
+
+3
+2
+1
+0
+
+Labour reallocation
+
+-1
+
+TFP
+
+-2
+
+Labour quality
+
+-3
+
+Capital services
+
+-4
+
+Hourly labour productivity growth (excluding real estate)
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+-5
+2011
+
+2013
+
+2015
+
+2017
+
+Sources: ONS and Bank calculations.
+Notes: Growth accounting decomposition using data excluding the real estate sector and following the method in Tenreyro (2018, see
+appendix for details). See also Goodridge, Haskel and Wallis (2016) and references therein.
+
+A growth accounting decomposition of productivity growth suggests that capital deepening is one possible
+source of a pickup in the other sectors (Chart 10). The contribution of capital services per hour to
+productivity growth has picked up over the past few years, although it looks set to weaken again in 2018. But
+unless the recent decline in investment continues, which seems unlikely under the MPC forecast assumption
+of a smooth transition to a new trading arrangement with the EU, this positive contribution should return.
+
+Finally, the gentle upward trend in aggregate productivity has been somewhat sharper when we examine
+productivity in the market-sector (Chart 11). Market-sector productivity should be more informative about the
+effect of cost pressures in the economy on the CPI, which is a basket of marketed goods and services.37
+Market-sector productivity increased more rapidly than for the non-market sector over the past few years,
+reversing trends in the years immediately after the crisis. This might help explain both weak pricing
+pressures and stronger private-sector pay growth over the period.
+
+Irrespective of the mechanism, the evidence from the inflation data suggests to me that supply has been
+growing in line with demand over the past couple of years, if not slightly faster. Since we know that at least
+until recently, demand growth had held up fairly well, I infer that potential supply growth may have been a
+little stronger than the estimates embodied in our collective forecast. Consequently, I suspect that we ended
+2018 with some amount of spare capacity remaining in the economy.
+
+37
+
+See Churm et al (2006).
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+16
+
+Chart 11: Whole economy and market-sector hourly productivity (output per hour)
+2014 Q4 = 100
+104
+
+Market sector output per hour
+102
+
+100
+
+98
+
+Whole economy output per hour
+
+96
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Sources: ONS and Bank calculations.
+Notes: Whole economy productivity is the output measure of GVA divided by total hours worked. Market sector productivity is market
+sector output divided by market sector hours worked. Market sector hours worked are forecast for 2018 Q4 by extrapolating the Q3 data
+based on the growth rate of total hours worked.
+
+Brexit, demand, supply and the policy outlook
+
+UK demand had been holding up since the referendum, but the picture weakened over the second half of
+2018. Underpinning the recent weakness has been a marked slowing in the global economy, but also an
+increasing influence of Brexit uncertainty on households and especially businesses. Both factors have been
+elaborated on in more detail in recent speeches by my colleagues.38
+
+As far as the world is concerned, 2018 saw us move from a period of synchronised strong global expansion
+at the beginning of the year, to a growing divergence between the US and the rest, to a synchronised
+slowdown by the end of the year. Those changes were both reflected and amplified by moves in financial
+markets, with historically loose financial conditions giving way to increases in corporate bond spreads and
+sharp falls in equity prices by the end of 2018.
+
+These global trends have been driven by a confluence of factors. Those include the effect of past rises in US
+interest rates and a strong dollar on some emerging markets, political uncertainty in the euro area, and the
+impending slowing of US fiscal stimulus. But for me, the biggest driver has probably been increases in trade
+tensions and the impact of US tariffs on China, the effects of which are now spilling back to its trading
+partners in Europe.
+
+More positively, the effect of the global slowing on the UK will be mitigated somewhat, as always, by the
+reaction of monetary policy abroad. Global risk-free interest rates have fallen and equity prices have retraced
+their earlier losses over the past couple of months. Policy headroom in many areas is still limited, however,
+38
+
+Carney (2019) and Vlieghe (2019).
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+17
+
+so any further weakening in global momentum may prove progressively more difficult to offset. Moreover,
+global policy will not respond to the key domestic factor weighing on demand: what the Governor recently
+described as the ‘fog of Brexit’.39
+
+The effect of that Brexit uncertainty on demand has become increasingly evident in recent months. It is most
+apparent in businesses: investment has been falling in the UK at a time when it has been growing in our
+international peers; business confidence surveys have slumped; hiring intentions have fallen back. But we
+are also starting to see some signs of its effect on households; the housing market is weakening; consumer
+confidence has deteriorated. This all happened at a time when household real incomes are rising and all else
+equal, one might normally have expected spending to be rising too.
+
+With inflation close to target, demand weakening and a wide range of possible outcomes regarding EU
+withdrawal, I saw little case for a policy change in our most recent meeting. Looking ahead, under the MPC’s
+forecast assumption of a smooth Brexit, we would expect to see some of that uncertainty lift, providing some
+support to demand.
+
+At the same time, following a smooth Brexit, sterling would be likely to appreciate. Potential supply will also
+be able to continue on its recent path, free of any immediate constraints. A stronger pound and continued
+supply growth would both limit the extent that a recovery in demand feeds through into inflationary pressures.
+
+So while I still envisage that in the event of a smooth Brexit we will need a small amount of tightening over
+the next three years, before voting for any rate rises I would want to be confident that demand was growing
+faster than supply. As I have discussed today, to be most sure of that I would need to see an increase in
+domestic inflationary pressures.
+
+Moreover, a more disorderly Brexit outcome could materially affect potential supply, which would call for a
+reassessment of how we expected the stars to evolve. The response of demand would depend crucially on
+how households, companies and markets react to the new supply potential. The exchange rate would be
+likely to depreciate and any increases in tariffs or nontariff costs would push up on prices.
+
+As the MPC has long emphasised, the monetary policy response to such a scenario will depend on the
+balance of these effects on supply, demand and the exchange rate. In my judgement, a situation where the
+negative demand effects outweigh those other effects is more likely, which would necessitate a loosening in
+policy. But it is easy to envisage other plausible scenarios requiring the opposite response.
+
+Supply will also become more uncertain than ever, given the unprecedented set of possible impacts. So
+while the ‘star variables’ will be useful inputs into my thinking, it will become essential not to lose sight of the
+
+39
+
+February 2019 Inflation Report press conference.
+18
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+18
+
+observable data on the ground. That will include survey information from the Bank’s Agents, sectoral data,
+but also the data on aggregate prices.
+
+The price inflation data, stripped of the direct influences of the exchange rate and any tariff or nontariff cost
+changes, will be crucial in informing me how the balance of supply and demand is changing. That balance,
+coupled with the evolution of headline inflation, will determine the nature of any trade-off we face between
+our inflation and output objectives. As always, I will also be watching a broad set of indicators to see the
+complete picture of how the economy is evolving. And however Brexit affects the economy, my monetary
+policy decisions will continue to be framed by the MPC’s remit.
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+19
+
+References
+Autor, D, Dorn, D, Katz, L, Patterson, C and Van Reenen, J (2017), “The Fall Of The Labor Share And
+The Rise Of Superstar Firms”, NBER Working Paper, No. 23396.
+Bank of England, “How fast can the economy grow?” Knowledge Bank, available at:
+https://www.bankofengland.co.uk/knowledgebank/how-fast-can-the-economy-grow.
+Baqaee, D. R. and E. Farhi (2018), “Productivity and Misallocation in General Equilibrium,” NBER Working
+Paper No. 24007.
+Barro, R. and S. Tenreyro (2006), “Closed and Open Economy Models of Business Cycles with Marked Up
+and Sticky Prices,” The Economic Journal, vol. 116, issue 511, pp. 434-456.
+Bean, C. (2003), “Inflation Targeting: The UK Experience,” speech given at the Annual Congress of the
+German Economic Association, University Zurich-Irchel, Switzerland.
+Berry, S., M. Corder, C. Duffy, C. Hackworth and B. Speigner (2015), “Trends in UK labour supply,”
+Quarterly Bulletin 2015 Q4, Bank of England.
+Blanchard, O. and J. Gali (2007), “Real Wage Rigidities and the New Keynesian Model,” Journal of Money
+Credit and Banking, volume 39, issue s1, pp. 35-65.
+Broadbent, B. (2013), “Conditional guidance as a response to supply uncertainty,” speech delivered at the
+London Business School, Regents Park.
+Broadbent, B. (2014), “Unemployment and the conduct of monetary policy in the UK,” speech delivered at
+the Federal Reserve Bank of Kansas City 38th Economic Symposium, Jackson Hole, Wyoming.
+Broadbent, B. (2017), “Brexit and the pound,” speech delivered at the Imperial College, London.
+Carney, M. (2017), “Lambda,” speech given at the London School of Economics.
+Carney, M. (2019), “The Global Outlook,” speech delivered at Financial Times event in Frobisher Hall, the
+Barbican.
+Churm, R., R. Thomas, S. Srinivasan, S, Mahajan, F. Maitland-Smith and G. Tily (2006), “Measuring
+market sector activity in the United Kingdom,” Quarterly Bulletin 2006 Q4, Bank of England.
+Cloyne, J. and P. Hürtgen (2016), “The Macroeconomic Effects of Monetary Policy: A New Measure for the
+United Kingdom,” American Economic Journal: Macroeconomics, volume 8, number 4, pp. 75-102.
+Ellis, C., H. Mumtaz and P. Zabczyk (2014), “What Lies Beneath? A Time-varying FAVAR Model for the UK
+Transmission Mechanism,” The Economic Journal, volume 124, issue 576, pp. 668-699.
+Erceg, C. J., J. Hebden, M. T. Kiley, D. Lopez-Salido and R. J. Tetlow (2018), “Some Implications of
+Uncertainty and Misperception for Monetary Policy,” Finance and Economics Discussion Series 2019-059,
+Washington: Board of Governors of the Federal Reserve System.
+Friedman, M. (1961), “The Lag In Effect Of Monetary Policy,” Journal of Political Economy, volume 69,
+number 5, pp. 447-466.
+Friedman, M. (1968), “The Role of Monetary Policy,” American Economic Review, volume 50, pp. 1-17.
+Goodridge, P., Haskel, J. and Wallis, G. (2016), “Accounting for the UK Productivity Puzzle: A
+Decomposition and Predictions," Economica.
+
+20
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+20
+
+Haldane, A., T. Aquilante, S. Chowla, N. Dacic, R. Masolo, P. Schneider, M. Seneca and S. Tatomir
+(2018), “Market Power and Monetary Policy,” speech delivered by Andy Haldane at Federal Reserve Bank of
+Kansas City Economic Policy Symposium, Jackson Hole, Wyoming.
+Holston, K., T. Laubach and J. Williams (2017), “Measuring the natural rate of interest: International trends
+and determinants,” Journal of International Economics, volume 108, supplement 1, pp. S59-S75.
+Haskel, J. and S. Westlake (2017), Capitalism without Capital: The Rise of the Intangible Economy,
+Princeton University Press.
+Macallan, C. and M. Parker (2008), “How do mark-ups vary with demand?” Quarterly Bulletin 2008 Q2,
+Bank of England.
+McLeay, M. and S. Tenreyro (2018), “Optimal Inflation and the Identification of the Phillips Curve” CEPR
+Discussion Paper number 12981.
+Nelson, E. and K. Nikolov (2004), “Monetary Policy and Stagflation in the UK,” Journal of Money, Credit
+and Banking, volume 36, number 3, pp. 293-318.
+Orphanides, A. (2002), “The quest for prosperity without inflation,” Journal of Monetary Economics, volume
+50, issue 3, pp. 633-663.
+Orphanides, A. and J. Williams (2002), “Robust Monetary Policy Rules with Unknown Natural Rates,”
+Brookings Papers on Economic Activity, pp. 63-118.
+Orphanides, A. and J. Williams (2007), “Robust monetary policy with imperfect knowledge,” Journal of
+Monetary Economics, volume 54, issue 5, pp. 1406-1435.
+Phelps, E. (1967), “Phillips Curves, Expectations of Inflation and Optimal Unemployment over Time,”
+Economica, volume 34, number 135, pp. 254-281.
+Powell, J. (2018), “Monetary Policy in a Changing Economy,” speech delivered at Jackson Hole, Wyoming,
+August 29-31.
+Saunders, M. (2017), “The labour market,” speech delivered at the Resolution Foundation.
+Swanson, E. (2004), “Signal extraction and non-certainty-equivalence in optimal monetary policy rules,”
+Macroeconomic Dynamics, volume 8, issue 1, pp. 27-50.
+Tenreyro, S. (2018), “The fall in productivity growth: causes and implications,” speech delivered at the
+Peston Lecture, Queen Mary University of London.
+Vlieghe, G. (2019), “The Economic Outlook: Fading global tailwinds, intensifying Brexit headwinds,” speech
+delivered at the Resolution Foundation.
+Williams, J.H. (1931), “The Monetary Doctrines of J.M. Keynes,” The Quarterly Journal of Economics,
+volume 45, number 4, pp. 547-587.
+Wicksell, K. (1898), Interest and Prices: a Study of the Causes Regulating the Value of Money, English
+translation, London: Macmillan and Company, 1936.
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+21
+
+

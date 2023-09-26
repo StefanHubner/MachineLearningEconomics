@@ -1,0 +1,2139 @@
+The labour market
+Speech given by
+Michael Saunders, External MPC Member, Bank of England
+
+Resolution Foundation, London
+13 January 2017
+
+I would like to thank William Abel, Stuart Berry, Ben Broadbent, Ambrogio Cesa-Bianchi,
+Vivek Roy-Chowdhury, Matt Corder, Pavandeep Dhami, Kristin Forbes, Andy Haldane,
+Chris Jackson, Clare Macallan, Jack Marston, Alex Tuckett, Chris Redl, Steve Millard,
+Minouche Shafik, Bradley Speigner, and Arthur Turrell for their help in preparing this speech.
+The views expressed are my own and do not necessarily reflect those of the other members of the
+Monetary Policy Committee
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+This talk focusses on the labour market, and in particular the limited response of wage growth to falling
+unemployment. At first glance, the labour market now looks very tight. The jobless rate is down to 4.8%,
+slightly below both the 2000-07 average and the MPC’s estimate of the equilibrium rate, which are about 5%
+
+1
+
+(see figure 1). The jobless rate has only been below current levels for a few months in the last
+2
+
+40 years . The short-term jobless rate is the lowest since data began in 1992. The number of job vacancies
+is around a record high, and the ratio of unemployment to vacancies matches the 2005 low (see figure 2).
+
+However, even with relatively low unemployment, average weekly earnings growth remains modest, at 2-3%
+3
+
+YoY . Unit labour cost growth is perhaps still slightly below the pace consistent with the inflation target over
+4
+
+time . There is little sign of significantly higher pay growth for 2017 (see figure 3).
+
+The labour market models used by most forecasters, which presumably are based on past behaviour, have
+not done well in explaining and forecasting the modest trend in pay growth. In recent years, pay growth has
+5
+
+repeatedly undershot consensus expectations, OECD forecasts and BoE forecasts despite falling
+unemployment (see figures 4 and 5). Indeed, the UK has seen the biggest average undershoot in pay growth
+of any country compared to the OECD’s forecasts in recent years (see figure 6).
+
+Most forecasts have looked for the relation between unemployment and pay growth to return to something
+like that seen before the 2008-09 recession, whereas in practice this relation seems to have shifted
+6
+
+downwards again (see figure 7) .
+
+Of course, all forecasts are fallible. But such repeated and widespread forecast errors are interesting
+because they hint that the underlying behavior of wage growth has changed. This is also evident in figure 8,
+showing the gap between average pay growth in 2014-16 and projections based on simple wage Phillips
+curves (i.e. regression of pay growth on unemployment) fitted over 2000-13 across OECD countries – with a
+marked undershoot in the UK.
+
+I suspect the subdued trend in wage growth in part reflects structural changes which these models may not
+fully capture, including greater labour market flexibility and insecurity, extra labour supply, increased
+under-employment, broader educational attainment, and changes to the tax and benefit system. These
+changes probably imply greater downward pressure on pay growth for any particular jobless rate than
+previously.
+1
+
+Both are actually 5.1%.
+The low of the last 40 years was 4.7%, seen for a few months in 2004-05.
+3
+Note that weakness in pay growth is not a quirk of the AWE data, but evident also in guides such as the LFS, average hourly pay,
+ASHE surveys, BoE Agents and the CIPD pay surveys. BoE research previously identified the effect of composition changes in
+dampening pay growth (see Broadbent 2015), but this effect has faded recently.
+4
+Over the period 1997-2015, CPI inflation averaged 2.0% YoY, unit wage cost growth averaged 2.2% YoY and ULC growth averaged
+2.4% YoY. Unit wage cost growth was 1.2% YoY in Q3. ULC growth was 2.3% YoY, which may reflect the sharp YoY rise in employers’
+social contributions. If we assume that ULC growth in Q4-2016 matches the Q3 pace, average ULC growth in 2016 would be 2.0% YoY.
+5
+See Haldane (2015).
+6
+The BoE’s November IR forecasts repeat this pattern, projecting that two years ahead the jobless rate will be around 5½% and pay
+growth around 4% YoY.
+2
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+The BoE’s 5% estimate of the equilibrium jobless rate is based on a mix of empirical observation from the
+pre-crisis period (the last time the economy had a near-zero output gap), time series analysis and a labour
+market search and matching framework. This search and matching framework consists of a Beveridge Curve
+(BC), which shows combinations of unemployment and vacancies for a particular level of search efficiency,
+and a job-creation curve (JCC), which shows V-U combinations of equal profit for firms. In this model, higher
+unemployment makes it more attractive to create vacancies and hire people as the match rate is higher, but
+there are diminishing returns to creating vacancies as the jobless rate falls and the labour market becomes
+‘congested’. The intersection of these lines is the equilibrium jobless rate. The gap between the actual
+jobless rate and this equilibrium is used as an input to a standard wage Phillips curve model (with some role
+for inflation expectations).
+
+There was an apparent rightward drift in the Beveridge curve in 2013-14 (see figure 10), which suggested
+7
+
+reduced labour market matching efficiency . Recent data bring us roughly back to the 2002-05 trends.
+Hence, assuming the job creation curve has not shifted, one could infer that the natural jobless rate is about
+the same as the pre-crisis period.
+
+The search and matching model has advantages of solid theoretical underpinnings. However, as noted, the
+forecasts for pay growth derived from this natural rate estimate have not been very accurate in recent years.
+
+One issue is that the derived natural jobless rate has a sizeable margin of error, especially because
+parameters of the job creation curve are poorly observed. This also means that these models are quite slow
+to reflect structural changes. And, as Peter Diamond argues, the US Beveridge curve often shifts out as
+unemployment starts to fall, but these shifts have not been useful predictors of the jobless rate that the
+8
+
+economy attained at the end of subsequent expansions . In addition, the search and matching model aims to
+measure a long-run equilibrium. At any particular time, this may not necessarily be the same thing as the
+NAIRU, defined loosely as the jobless rate consistent with on-target inflation once shocks from the exchange
+9
+
+rate etc have worked through . For example, increased labour supply might shift the NAIRU for a period,
+especially if new entrants behave differently to the existing pool of workers.
+
+Moreover, the search and matching model assumes that the level of vacancies is a consistent guide to
+labour demand over time. This may not be valid. In particular, costs of recruitment advertising have plunged
+with the shift from ads in newspapers and magazines to internet-based ads. Average advertising spend per
+job vacancy is down by 53% in real terms over the last five years and by 80% over 10 years
+
+10
+
+(see figures 11
+
+and 12). For firms who advertise vacancies through their own web site, it is almost costless to keep an ad
+running for an extra month or two.
+7
+
+See Bova et al (2016).
+See Diamond and Sahin (2014).
+9
+The BoE has also at times used a more time-varying short-term equilibrium jobless rate.
+10
+Using an 85-item disaggregated split of the CPI, only one CPI category (photographic and cinema equipment) has seen bigger price
+declines over that 10-year period.
+8
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+The collapse in the cost of recruitment advertising may lift labour demand a little, because total hiring costs
+are slightly lower than before. But, the more important effect may be to increase the number of recorded
+vacancies and reduce recruitment intensity, as firms become more “picky” in hiring and more likely to engage
+in what search theorists call speculative ‘fishing’. That is, firms may post more job vacancies and for longer,
+with more specialised requirements, with little expectation or intention they will all be filled. Research in the
+11
+
+US has identified this effect , and suggests that it increases when the economy weakens or credit
+availability worsens. Hence, we may see less observed cyclical variation in official vacancy data and greater
+cyclicality in recruitment intensity.
+
+The same may be happening here, with a marked recent discrepancy between the vacancy data (which
+indicate very high labour demand) and surveys of firms’ hiring intentions (which suggest labour demand is
+around average), see figure 13. Likewise, although the CBI reports the greatest skilled labour shortages in
+manufacturing since 1989, business surveys overall do not suggest the labour market is the tightest in recent
+decades (see figure 14).
+
+Short-term changes in the number of vacancies probably remain a useful signal of whether labour demand is
+rising or falling. But a given level of vacancies may not signal as much labour demand or labour shortages as
+10 years ago, with lower and more variable recruitment intensity. This effect might well produce an apparent
+rightward shift in the Beveridge curve even if there has been no underlying change in this relation. Or, it
+could disguise an underlying leftward shift in the Beveridge curve. It probably would also affect the job
+creation curve. All this would increase the likelihood of misleading signals from labour market slack
+measures based on the search and matching model.
+
+Two widely-cited explanations for recent weakness in pay are low productivity growth and low headline
+inflation. If these views are valid, then pay growth might well be about to recover markedly, either because of
+higher inflation or higher productivity growth, even if the jobless rate is stable or rising.
+
+However, while these factors probably have played a role, I doubt they are the whole story. There is a close
+long-run link between real pay growth and productivity growth. But the causality in recent years has probably
+gone both ways: low productivity growth has capped pay, but low pay growth (due to other factors) probably
+has lifted labour demand and lowered productivity growth, via the substitution of labour for capital and
+expansion of labour-intensive sectors with low average levels of pay and productivity (see figure 15).
+Hence the UK has ended up with low pay growth, higher employment and low productivity growth.
+
+By international standards, the recent slowdown in UK pay growth is far more exceptional than the
+productivity slowdown (see figure 16). UK productivity fell sharply in the 2008-09 crisis. But, productivity
+12
+
+growth over 2011-16 (averaging 0.6% YoY) has been similar to the OECD average . The slowdown versus
+11
+12
+
+See Capelli, 2013, Davis et al, 2010, 2012, Gavazza et al, 2016 and Faberman, 2014.
+Data published in the Dec-2016 OECD Economic Outlook.
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+the precrisis pace (down by 1.2pp from 1.8% YoY in 1997-07) also is similar to the OECD average (down by
+1.0pp). However, the slowdown in pay growth in the UK over 2011-16 (down by 3.5 pp versus 1997-07) was
+roughly twice the OECD average (1.8pp). Hence, unit labour cost growth slowed much more in the UK than
+the OECD average and indeed more than any other G7 country.
+
+Likewise, at a sectoral level, there is little link between weakness in productivity and pay growth (see figure
+17). To be sure, with the UK's flexible labour markets, one would not expect sectoral differences in
+productivity growth to be fully reflected in sectoral variations in pay. But if the productivity slowdown is the
+main driver of weakness in pay, one might expect at least some link at a sectoral level, given that people
+13
+
+cannot always move seamlessly between sectors .
+
+Moreover, unit labour cost growth (which roughly equals pay growth less productivity growth) has also
+undershot the BoE’s internal forecasts in recent years. By contrast, if weakness in pay just reflected a
+surprise productivity slowdown, one would expect higher ULC growth, because wage growth would probably
+not respond one-for-one to weaker productivity unless unemployment rises.
+
+Regarding the theory that low inflation caused low pay growth, I note that pay growth has undershot
+forecasts when inflation has been relatively high (e.g. 2011-12) and low (2014-16). Moreover, it is hard to
+find statistical evidence of a consistent link from headline inflation to pay in recent years. Figure 18 shows
+various regressions that seek to explain private sector pay growth (ex bonuses), using unemployment,
+14
+
+productivity growth, and inflation (or inflation expectations) . In the equations fitted over 2001-2010, inflation
+or inflation expectations do not really play much role, and are jointly insignificant in statistical terms. And the
+equations fitted over 2001-2010 all project that pay growth now “should” be above 3% YoY. Since 2011,
+15
+
+inflation and expectations are jointly significant, but expectations outperform the headline inflation rate .
+
+If we use both headline inflation and inflation expectations in the same equation, the coefficients on headline
+inflation are either insignificant in statistical terms or negative (ie implying that lower inflation, without a shift
+in inflation expectations, would lift pay growth). To be sure, results may differ slightly over other sub periods.
+But that would reinforce the point that there does not seem to have been a stable link from headline inflation
+16
+
+to pay. The effect of the jobless rate appears more pronounced in recent years .
+
+I do not suggest that recent low inflation rates had zero bearing on pay growth. But, their effect is probably
+embodied in inflation expectations and - since these are already included in forecasts - does not explain
+surprise shortfalls in pay. The CIPD pay survey suggests that firms’ ability (or inability) to pay more matters
+17
+
+far more than headline inflation in determining pay growth . And, as with productivity, the causation may run
+13
+
+Especially given that labour market churn – the movement of people from one job to another -- has been relatively low in recent years.
+Also with lagged pay growth.
+15
+Expectations also outperform the current and lagged perceived inflation rate, as measured by the BoE survey.
+16
+See Gregg et al (2014), Blanchflower and Machin (2016).
+17
+See CIPD (2016).
+14
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+both ways; lack of wage pressure may have contributed to low inflation, particular when weak wages have
+come as a surprise to policymakers.
+
+The structural changes in the labour market are too recent to allow a definitive estimate of the new
+equilibrium jobless rate. In any case, it may still be changing. Some of these factors might lower the natural
+jobless rate, but perhaps not easily fit into a search and matching model. Others may not permanently alter
+the natural unemployment rate, but may reduce wage growth for a given jobless rate for a sustained period
+of time - perhaps well beyond our forecast horizon.
+
+Flexibility and insecurity. In the last five years, the numbers of people that are self-employed has risen by
+18
+
+14%, the number of agency workers is up by about 30% , and the number of businesses registered in the
+UK is up by 40%. There has been also been the expansion of zero hours contracts and the “gig economy”.
+
+19
+
+Among people in work, the proportion that are full-time employees (ie not self-employed, not part-time, not in
+a temporary job) remains well below pre-recession levels (see figure 19). Of course, some people may prefer
+flexible work structures or seek to reinvent their career through self-employment. But, given that on average
+20
+
+these less secure forms of work are also less well-paid , the expansion of contingent work probably also
+reflects the erosion of secure and well-paid jobs from technological gains and greater emphasis on cost
+control.
+
+Another factor lifting job insecurity is that the costs of losing a job appear to have risen significantly. For
+example, there is tentative evidence that wage scarring – that is, the adverse effects on someone’s future
+pay levels from a spell of unemployment
+
+21
+
+– has increased, at least initially. Using LFS micro data, figure 20
+
+shows the disparity in wage levels between people in work now but unemployed a year earlier, compared to
+those that were also in work a year earlier, controlling for other factors such as age, education, gender,
+tenure, industry, occupation etc. This wage gap was falling up to 2010 but has risen to about 11% on
+average in 2015-16 (and over 12% in 2016). Moreover, the number of people receiving jobless benefits is
+now only about half the number unemployed, with far tougher application of work search tests since 2010. By
+22
+
+contrast, 20 years ago, the number receiving jobless benefits was equal to 80% of the number out of work .
+Reduced job security and the greater financial cost of unemployment may reduce workers’ bargaining power
+and create higher risk aversion – making people more likely to settle for modest or no wage growth and
+continued employment, rather than push for higher wage growth if that comes with risks of job losses. In
+addition, the tightening in criteria for benefit eligibility probably has also increased the pressure on the
+unemployed to get into work.
+18
+
+See Judge and Tomlinson, 2016.
+See Gregg and Gardiner (2015), Brainard (2016), and Gardiner (2016).
+See “The income of the self-employed”, Department for Business Innovation and Skills, February 2016. Gardiner (2016) also finds
+that agency workers, temporary staff and people on zero hours contracts also earn less than less insecure forms of employment.
+Note that the average earnings figures do not include the self-employed.
+21
+See Gregory and Jukes (2008), McQuaid et al (2014), Laureys (2014), Upward and Wright (2015).
+22
+Job seeker’s allowance claimant count /unemployed at year end 1996.
+19
+20
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+Under-employment. The rise in part-time work also has been associated with more widespread underemployment. The ONS reports that 8.4% of people in work would like (and are available) to work more
+23
+
+hours, including part-time and full-time workers and those willing to work more hours in an extra job . Unlike
+the unemployment rate, under-employment remains somewhat above the pre-crisis average (6.7% over
+2002-07, see figure 21). Moreover, one should also consider under-employment in terms of skills: the ONS
+reports that 47% of recent graduates are in non-graduate jobs, up from 37% in 2001.
+
+Education attainment. Education attainment has risen sharply in recent years. Since 2000, the share of the
+population aged 25-74 years with tertiary (ie university level) education is up from 21% to 38%, while the
+24
+
+share who did not complete secondary education is down from 27% to 20% (see figure 22) . The share of
+25
+
+people with tertiary education - and the rise since 2000 - are among the highest of any EU country . Given
+that the tertiary education rate among people aged 25-44 years exceeds 45%, the overall tertiary education
+rate will rise further in coming years due to cohort effects, even if the numbers entering tertiary education
+stabilises.
+
+This matters because on average, people with tertiary education are far less likely to be unemployed than
+26
+
+people with low educational attainment . Over 1992-2015, the jobless rate among people with tertiary
+education in the UK on average was 5-6 pp below that for people who did not finish secondary education
+(see figure 23). The graduate pay premium has shrunk in recent years, but the gap in jobless rates has been
+27
+
+roughly stable . Moreover, jobless rates among the less educated are far more cyclical than among those
+28
+
+with better education .
+
+The marked broadening in education attainment over recent years should therefore imply a lower structural
+jobless rate, as the overall population becomes more adaptable to change and employable across a range of
+areas. As a rough estimate of this effect, if we freeze the jobless rate by education attainment at the 2000
+average, and track forward the change in educational attainment since then, the jobless rate now “should” be
+about 1 percentage point below the 2000 level (see figure 24).
+
+Rising participation rate. The bound between workforce participation and inactivity is proving much more
+flexible than previously. The participation rate among people aged 16-64 years is up from 76.6% in 2011 to
+
+23
+
+I use here the share of people who are under-employed. The ONS also reports figures for the number of extra hours that people
+would like to work, but there is evidence that people overstate the number of desired extra hours, see Weale (2014).
+24
+Among people in the workforce, the tertiary education rate is up from 26% in 2000 to 42% now, the share without secondary
+education is down from 28% to 16%.
+25
+Only Luxemburg and Ireland have seen a bigger rise in the share of the population with tertiary education. Among EU countries, only
+Sweden, Finland, Estonia, Cyprus and Ireland have a higher share of the 25-74 year age population with tertiary education. The
+average for both the EU and Euro Area is 28%, compared to the UK level of 38%. Data from Eurostat. In terms of absolute numbers, the
+UK has more graduates than any other EU country.
+26
+The gap is particularly marked for long-term unemployment. Roughly 70% of people that have been unemployed for more than 12
+months do not have A-levels (or equivalents) or further education (source ONS).
+27
+In Q1-Q3 2016, the jobless rate for people without secondary education was 8.5%, while that for people with tertiary education was
+3.0%. The gap, of 5.5pp, matches the average for 2000-07.
+28
+Using annual Eurostat data, the jobless rate among people with tertiary education varied from 2.2% to 4.9% over 1992-2015, while
+that for people without secondary education varied from 6.0% to 12.5%.
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+78.3%, close to a record high, while participation among people aged 65-74 years is up from 14.4% to
+29
+
+17.1% . Hence, workforce growth has averaged 0.9% YoY from the start of 2011, far above the growth in
+the working age population (0.2% YoY). In recent years, more people moved into work from inactivity than
+from unemployment. This implies that potential labour supply exceeds the unemployed: it also includes
+people currently outside the official workforce statistics but likely to join the workforce in coming quarters and
+move directly into employment.
+
+Various factors are lifting participation rates, including rising life expectancy and improved health, the rising
+female retirement age, and technological gains that facilitate flexible work. The expansion of in-work tax
+credits has greatly increased the rewards from being in work, even if low-paid, especially for people with
+30
+
+children . Increased educational attainment also is a factor, especially the drop in the numbers of people
+who did not complete secondary education. Participation rates are much lower for this group (see figure 25),
+and as the numbers in this category fall, participation rates naturally rise. This factor alone can account for
+much of the observed rise in participation rates for the 20-64 year age group in recent years (see figure 26),
+outweighing potential downward effects from population ageing.
+
+The uptrend in participation may not be over. Participation rates exceed UK levels at most age groups in a
+range of Northern European countries (see figure 27). The female retirement age is still rising and the
+concept of a fixed retirement age (eg 65 years) no longer applies. Adverse effects from population ageing
+are likely to continue to be balanced by the drop in the share of the adult population lacking secondary
+education. Moreover, low annuity rates and the prospective erosion of real wages from currency-induced
+inflation may pressure some people to work longer out of economic necessity.
+
+Inward migration. Official data on inflows of foreign workers to the UK workforce are incomplete, but ONS
+data suggest that people born outside the UK accounted for more than half of the growth in employment over
+the last five years, and 95% of the last year’s employment growth (see figure 28).
+
+Migration has complex effects on the labour market. Clearly, inflows expand labour supply, especially given
+that foreign workers generally integrate very effectively into the UK labour market. Unlike most other EU
+countries, foreign-born people in the UK have a similar jobless rate to UK-born people. But migration inflows
+also boost labour demand. Availability of foreign workers probably encourages firms to expand and invest in
+the UK. Increased employment boosts consumption and housing demand.
+
+Academic research suggests that migration inflows have not reduced overall UK wage levels, but may have
+31
+
+depressed pay at the bottom end . However, most studies have focussed just on the change in pay growth,
+29
+
+Source: Eurostat. A higher average age in employment can also directly drag on wages (aside from augmenting labour supply)
+through career life cycle effects. Evidence from the US suggests that wage growth tends to decline after the age of around 40 – a
+finding robust to across educational attainment. See Rich et al (2016).
+30
+See Saunders (2016).
+31
+See Nickell and Salaheen (2015).
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+rather than the change in pay growth for a given jobless rate and in the context of demand-boosting effects
+of migration.
+
+Research by Bentolila suggests that increased migration inflows have helped shift the wage Phillips curve
+32
+
+down in Spain . I suspect the same has happened here. The attractions of working in the UK, which
+generally has high wage levels and low unemployment by EU norms, means that labour supply has
+expanded to meet demand with little upward pressure on pay. In particular, the greatest undershoots in pay
+growth relative to the jobless rate in recent years have been in regions with high migration inflows
+(e.g. London, South East, East England and East Midlands).
+
+Prospects for inward migration to the UK in the next 2-3 years, especially from other EU countries, are
+33
+
+uncertain . The lower pound may discourage inflows, because it reduces UK pay levels in foreign currency
+terms, but the UK's high employment rate will probably remain a strong "pull" factor.
+
+Skill and regional mismatches. The high jobless rates of 20 and 30 years ago were exacerbated by the
+collapse of employment in manufacturing and construction in some regions, whereas job growth was
+concentrated in other sectors and regions. Such mismatches limited the extent to which high unemployment
+dampened pay growth. This issue appears less acute now. For example, the standard deviation of sectoral
+jobless rates
+
+34
+
+is at a record low (see figure 29). Similarly, recent job growth has been slightly stronger in
+35
+
+regions with higher jobless rates, the opposite of the pattern in 1995-2007 .
+36
+
+Regional disparities in income levels remain high . But there is also tentative evidence of increased internal
+migration within the UK. For example, the numbers of people moving between local authority regions has
+risen to record highs in the last two years (see figure 30). This may reflect greater mobility among
+international migrants within the UK. Or it may be that, with lower home ownership rates, it is less costly for
+people to move to another job.
+
+Public sector pay. The squeeze on public sector pay and jobs may also have capped private sector pay, by
+reducing competition for labour. However, it is hard to find a consistent effect over time. In recent years, pay
+growth has not been particularly weak relative to the jobless rate in regions with a high share of public sector
+37
+
+jobs (e.g. Wales, NE England) .
+38
+
+Other factors may also be at work, for example, self-fulfilling lower expectations for wage growth .
+32
+
+See Bentolila et al, (2007).
+See Portes and Forte (2016).
+34
+Using the ONS data on jobless rates by industry of last job with a standard 14-sector split.
+35
+The correlation between sectoral jobless rates and sectoral job growth in the next 4 quarters was minus 19% on average during 19992007 but +9% in the last three years.
+36
+See Haldane (2016).
+37
+See also Caunt et al (2016).
+38
+Carney (2016) highlights the possibility of an “affect heuristic”, whereby an event can change perceptions long after the original trigger
+becomes remote.
+33
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+I acknowledge that this is all quite uncertain and imprecise. I suspect that the equilibrium jobless rate has
+fallen below 5%, but am unsure how far. Some of these factors could be consistent with a flatter
+Phillips curve, but the fact that pay growth has stayed modest even with the jobless rate at 4.8% suggests
+that the equilibrium is lower than previously as well.
+
+If one were to simply extrapolate the wage Phillips curve of 2011-16 with stable inflation expectations, the
+jobless rate would probably need to fall to 4% or lower to lift pay growth to 4% YoY. I do not suggest this is
+39
+
+the most likely outcome. The Phillips curve may indeed be curved rather than a straight line . Currencyinduced inflation might lift inflation expectations sharply. Availability of migrant workers might decline sharply
+before and after Brexit. But it is also possible that Brexit-related uncertainties will reinforce other factors
+dampening pay, and that labour supply will expand as higher inflation erodes household spending power.
+
+My hunch is that underlying pay growth will probably stay comfortably below the 4% pre-crisis norm during
+the next few years, unless the economy is strong enough to pull unemployment significantly lower and/or
+long-term inflation expectations rise markedly. To be sure, with modest productivity growth, the pace of wage
+growth consistent with the inflation target over time probably is lower than it used to be. But, even so, labour
+cost growth in 2017 seems unlikely to pose major upside risks to the inflation target.
+
+In my view, this has several implications for a monetary policymaker.
+
+First, comparisons of the jobless rate with historic norms or natural rate estimates may not be a totally
+reliable guide to labour market conditions at present. We should consider a range of indicators and
+acknowledge that estimates of the equilibrium jobless rate are somewhat fuzzy, and may change in ways
+that cannot be fully anticipated or understood at the time.
+
+Second, there may now be more cyclical variation than before in insecure employment, under-employment,
+participation and productivity, and less cyclical variation in unemployment. Slack may change even if the
+jobless rate is little changed.
+
+Third, monetary policy should not be set in a way that seeks to rule out sub-5% unemployment over time,
+unless we see clear evidence of markedly higher labour cost growth and/or long-term inflation expectations,
+or the tradeoff versus currency-driven inflation is much worse than expected. The economy might be able to
+run with lower unemployment than previously, consistent with the inflation target. But I stress that our target
+is for inflation not unemployment.
+
+Fourth, a lower equilibrium jobless rate would not necessarily mean that it is appropriate to loosen policy
+further. Nor would it rule out tightening. Sterling’s recent depreciation will probably lift inflation above target
+
+39
+
+See Nalewick (2016).
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+this year, and economic growth recently has been stronger than expected. Rather than the rise in
+unemployment forecast in the November Inflation Report, it seems quite possible to me that the jobless rate
+will stay below 5% this year. In considering the appropriate policy, I will be taking account of all of this, rather
+than just one part.
+
+Also, I want to stress the uncertainties. I am conscious of historical episodes whereby overly optimistic
+40
+
+assessments of slack were followed by a prolonged inflation pickup . If pay and other labour market guides
+give clear warning signs in coming months, then I might well have to revise my theory of a lower equilibrium
+jobless rate. This would probably have obvious implications for monetary policy, unless downside risks to
+economic growth rise significantly. Either way, the labour market data will probably be key guides to watch.
+
+40
+
+See Orphanides et al 1999.
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+Figure 1. Jobless Rate and Short-Term (Below Six
+
+Figure 2. Number of Job Vacancies and
+
+Months) Jobless Rate, 1971-2016
+
+Unemployment/Vacancy Ratio, 1971-2016
+
+14
+
+850
+%
+
+12
+
+Overall Jobless Rate
+
+750
+
+Short-Term Jobless Rate
+
+650
+
+10
+
+20
+'000
+
+Number of Job Vacancies (left)
+
+18
+16
+14
+
+550
+
+12
+
+450
+
+8
+
+10
+Unemployment/Vacancies
+8
+(right)
+6
+
+350
+
+6
+
+250
+
+2000-07 Average = 5.1%
+4
+2000-07 Average = 3.2%
+2
+1971 1976 1981 1986 1991 1996 2001 2006 2011 2016
+
+150
+
+4
+
+50
+
+2
+
+-50
+0
+1971 1976 1981 1986 1991 1996 2001 2006 2011 2016
+
+Source: ONS
+
+Figure 3. Surveys and ONS Data on Pay Growth, 2001-17
+
+12
+
+Swathe of mean
+Percentage changes on a year earlier
+10
+and variance adjusted survey balances
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+2
+
+2
+
+0
+
+0
+
+-2
+-4
+2001
+
+-2
+
+Private sector regular AWE
+growth
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+-4
+2017
+
+Note: Swathe includes survey measures provided by Bank’s Agents, British Chambers of Commerce(BCC), Confederation of British
+Industry(CBI), Chartered Institute of Personnel Development(CIPD), Labour Research Department(LRD), VocaLink and Markit’s
+Recruitment and Employment Consultancies(REC). VocaLink ceased reporting in 2015Q4.
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+Figure 4. Outturns for Pay Growth Compared to Consensus Forecast in November of Prior Year, 1998-2016
+
+6
+
+Consensus Forecast End
+of Prior Year
+
+%
+
+5
+
+Outturn
+
+4
+
+Under/Over
+
+3
+2
+
+1
+0
+-1
+-2
+-3
+1998
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+Note: Pay growth measured by AWE series since 2010, AEI series before that. Sources: HM Treasury and ONS
+
+Figure 5. Outturns for Average Earnings Growth (W) and Jobless Rate (U) Compared to BoE Central
+Forecasts Made Eight Quarters Earlier, 2000-16
+
+4
+3
+
+%p
+Overshoot
+
+2
+1
+0
+
+-1
+-2
+
+Undershoot
+
+-3
+
+-4
+-5
+
+Q2-2000 to Q3-05 Average
+W: -0.5pp
+U: -1.1pp
+
+Q4-05 to Q2-2010 Average
+W: -1.4pp
+U: +1.3pp
+
+Average Q1-2012 to Present
+W: -1.7pp
+U: -1.2pp
+
+-6
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+Average Earnings Growth
+
+2010
+
+2012
+
+2014
+
+2016
+
+Jobless Rate
+
+Note: The BoE forecast currently is for the average weekly earnings series, but used to be for the average earnings index. The
+appropriate measure has been used for the comparison in each quarter. Sources: BoE and ONS
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+Figure 6. Average Error in OECD Year Ahead Forecasts for Pay Growth, 2014-16
+
+1.5
+
+Pay Growth Above OECD
+Forecast
+
+1.0 %p
+0.5
+
+0.0
+-0.5
+
+-1.0
+
+Pay Growth Below OECD
+Forecast
+
+-1.5
+
+UK
+Swiss
+Poland
+Japan
+Australia
+Hungary
+Slovak Rep
+Canada
+Korea
+France
+Italy
+Norway
+Portugal
+Germany
+Belgium
+Sweden
+Iceland
+Euro area
+OECD
+Nethw
+Finland
+Czech Rep
+Lux
+Spain
+Ireland
+Austria
+US
+Slovenia
+Denmark
+Estonia
+Greece
+
+-2.0
+
+Note: The chart shows outturns for pay growth in 2014-16 compared to the OECD forecasts for the year ahead made in the Economic
+Outlooks at the end of 2013, 2014 and 2015. Source: OECD
+
+Figure 7. Pay Growth and Jobless Rate -- Actual Data and BoE Forecasts, 1990-2016
+
+10
+Actual Data Annual 1990-2016
+
+8
+
+BoE Forecasts Made Feb 2004 to Nov 2011
+
+7
+
+Pay Growth
+
+1990
+
+9
+
+BoE Forecasts Made Feb 2012 to Nov 2016
+
+6
+5
+
+4
+
+2004
+
+3
+
+1993
+
+2
+
+2016
+
+2011
+
+1
+
+2014
+
+2013
+
+0
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+Jobless Rate %
+Note: The chart shows the actual average annual data for 1990-2016 (with the average for available data in 2016), and the BoE’s
+central forecasts in successive Inflation Reports from 2004-2016 for pay growth and the jobless rate eight quarters ahead. Green and
+pink lines are fitted to the trends of forecasts made in 2004-11 and 2012-16 respectively.
+Sources: ONS and BoE.
+
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+Figure 8. Gap Between Average Outturns for Pay Growth in 2014-16 and Forecasts Based on Jobless Rate
+Fitted Over 2000-13
+
+6
+4
+
+%p
+
+Overshoot
+
+2
+0
+
+-2
+-4
+-6
+-8
+
+Undershoot
+
+-10
+
+Latvia
+Hungary
+Estonia
+Poland
+UK
+Korea
+Slovak Rep
+Australia
+OECD
+Israel
+Belgium
+Finland
+Switzerland
+US
+Norway
+Canada
+Portugal
+Slovenia
+France
+Sweden
+Denmark
+Austria
+Lux
+Italy
+Germany
+Euro area
+Neths
+Spain
+Ireland
+Mexico
+Japan
+Iceland
+Czech Rep
+Greece
+
+-12
+
+Note: Pay growth measured by compensation per person. Data from OECD Economic Outlook, November 2016. Source: OECD
+
+Figure 9. Stylised Example of Labour Matching Model
+
+Figure 10. Beveridge Curve (Vacancies and
+
+for Natural Jobless Rate
+
+Unemployment), 2002-16
+
+6.5
+
+Vacancy Rate %
+
+6
+
+Beveridge Curve
+
+5.5
+Job Creation Curve
+
+5
+4.5
+4
+
+3.5
+3
+
+2.5
+2
+5
+
+6
+7
+Jobless Rate (%)
+
+8
+
+9
+
+10
+
+11
+
+Note: The vacancy rate is the number of vacancies divided by the number of people in work. Source: ONS
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+15
+
+Figure 11. Advertising Spending on Job Recruitment,
+
+Figure 12. Recruitment Spending Per Job Vacancy,
+
+Quarterly, 1984-2016
+
+Indexed to Q2 2001 = 100, 2001-16
+
+800
+
+600
+
+Total Advertising Spend on Recruitment, £m (Left)
+
+0.18%
+
+As Pct GDP (Right)
+
+0.16%
+
+0.14%
+£m
+
+120
+100
+80
+
+0.12%
+0.10%
+
+400
+
+60
+
+0.08%
+
+40
+
+0.06%
+200
+
+0.04%
+
+Spending Per Vacancy (£)
+
+20
+
+0.02%
+0
+
+Real Terms, Q2-2016 Prices
+0
+
+0.00%
+
+2001
+
+1984 1988 1992 1996 2000 2004 2008 2012 2016
+
+2004
+
+2007
+
+2010
+
+2013
+
+2016
+
+Note: Real terms figures are deflated by the CPI. Sources: Advertising Association/WARC Report and ONS
+
+Figure 13. Surveys of Firms’ Hiring Intentions and ONS Vacancy Data, 1998-2016
+
+2
+
+800
+
+1
+
+700
+
+0
+
+600
+
+-1
+
+500
+BoE Agents Hiring Intentions, left
+
+-2
+
+400
+BCC Agents Hiring Intentions, left
+
+-3
+
+300
+
+REC Hiring Intentions, left
+sd
+
+Thousands
+Number of Job Vacancies, right
+
+-4
+1998
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+200
+2010
+
+2012
+
+2014
+
+2016
+
+Sources: British Chambers of Commerce, Bank of England, REC and ONS.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+16
+
+Figure 14. Guides to Labour Shortages, Standard Deviations from 1998-2015 Averages, 2014-16
+
+3.0
+2.5
+
+Std Dev
+
+2014
+
+2015
+
+Latest
+
+2.0
+1.5
+1.0
+
+0.5
+0.0
+-0.5
+-1.0
+-1.5
+V/U Ratio
+
+CBI Skilled
+Labour
+Shortages
+
+BoE Agents
+Recruitment
+Difficulties
+
+BCC
+BCC
+Recruitment Recruitment
+Difficulties
+Difficulties
+Manufacturing
+Services
+
+Rec Staff
+Availability
+
+Sources : ONS, CBI, BCC, REC and BoE
+
+Figure 15. Employment Split By Average Sectoral Pay Level, Indexed to Jan 2000 = 100, 2000-16
+
+Source: ONS
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+17
+
+Figure 16. Change in Pay Growth and Productivity Growth, Comparing 2011-16 Average With 1997-07
+Average
+
+4
+2
+
+%p
+
+0
+-2
+
+-4
+-6
+
+Pay Growth
+
+-8
+
+Productivity Growth
+
+Estonia
+Latvia
+Greece
+Slovak Rep
+Hungary
+Slovenia
+Korea
+Czech Rep
+Finland
+Iceland
+Poland
+US
+Swiss
+Sweden
+Austria
+UK
+Portugal
+OECD
+Belgium
+Japan
+Norway
+France
+Denmark
+Italy
+Euro area
+Neths
+Germany
+Canada
+Australia
+Spain
+Ireland
+
+-10
+
+Note: Productivity measured as real GDP per hour worked. Source: OECD
+
+Figure 17. Change in Productivity Growth and Pay Growth By Sector, Comparing Period 2011 to Q3-2016
+With 2001-07
+
+4
+2
+
+%p
+
+Higher Growth
+
+0
+-2
+-4
+
+Change in Productivity Growth
+
+-6
+-8
+
+Lower Growth
+
+Change in Pay Growth
+
+-10
+
+Note: Productivity growth measured by GDP per hour. Pay growth measured by average weekly earnings. Source: ONS
+
+18
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+18
+
+Figure 18. Regressions of Private Sector Average Weekly Earnings Growth on Unemployment and
+Inflation/inflation Expectations, 2001-16
+2001Q2-10Q4
+
+2011Q1-16Q3
+
+2001-16Q3
+
+Equation 1
+AWE (-1)
+Unemp (-1)
+CPI(-1)
+CPI(-2)
+CPI(-3)
+CPI(-4)
+Prod (-1)
+
+0.67***
+-0.22
+0.08
+0.08
+-0.06
+-0.04
+0.10***
+
+0.51***
+-0.54**
+-0.20
+0.74
+-0.36
+0.16
+0.15**
+
+0.62***
+-0.31**
+0.03
+0.20
+-0.07
+-0.01
+0.12***
+
+Equation 2
+AWE (-1)
+Unemp (-1)
+RPI(-1)
+RPI(-2)
+RPI(-3)
+RPI(-4)
+Prod (-1)
+
+0.65***
+-0.19
+0.03
+0.11
+-0.10
+0.07
+0.09**
+
+0.38**
+-0.54***
+-0.18
+0.38
+0.01
+0.11
+0.11
+
+0.66***
+-0.23***
+0.00
+0.16
+-0.11
+0.05
+0.09**
+
+Equation 3
+AWE (-1)
+Unemp (-1)
+ST Infl Exp (-1)
+ST Infl Exp (-2)
+ST Inf Exp (-3)
+ST Inf Exp (-4)
+Prod (-1)
+
+0.71***
+-0.16
+0.18
+-0.43
+0.67**
+-0.65**
+0.07
+
+0.47***
+-0.81***
+0.49***
+0.12
+0.31***
+0.07
+0.13**
+
+0.64***
+-0.24***
+0.18
+-0.07
+0.21
+-0.15
+0.11***
+
+Equation 4
+AWE (-1)
+Unemp (-1)
+MT Infl Exp (-1)
+MT Infl Exp (-2)
+MT Infl Exp (-3)
+MT Infl Exp (-4)
+Prod (-1)
+
+0.71***
+-0.14
+-0.18
+0.04
+0.31
+-0.05
+0.12***
+
+0.56***
+-0.76***
+0.54***
+0.20
+0.28**
+0.09
+0.10
+
+0.64***
+-0.23***
+0.02
+0.02
+0.17*
+0.05
+0.12***
+
+Adj R-Squared
+Eq 1
+Eq 2
+Eq 3
+Eq 4
+
+0.82
+0.82
+0.83
+0.82
+
+0.75
+0.72
+0.79
+0.77
+
+0.87
+0.87
+0.87
+0.87
+
+AIC
+Eq 1
+Eq 2
+Eq 3
+Eq 4
+
+1.77
+1.75
+1.71
+1.75
+
+0.81
+0.93
+0.66
+0.75
+
+1.37
+1.38
+1.38
+1.40
+
+Is Sum of Coefficients on Inflation/Expectations Terms Significantly Different to Zero (5% level)?
+Eq 1
+No
+No
+No
+Eq 2
+No
+Yes
+No
+Eq 3
+No
+Yes
+No
+Eq 4
+No
+Yes
+Yes
+Note: Short-term inflation expectations are for the year ahead, while medium-term are for the next two years, both using the Barclays
+Basix survey. All regressions also use a lagged dependent variable. *, ** and *** denote statistical significance at the 10%, 5% and 1%
+levels respectively. Sources: ONS and Barclays Basix survey.
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+19
+
+Figure 19. Number of Full-Time Employees (Incl and Ex Temps) as Pct Total Number in Work, 1992-2016
+
+66
+
+%
+
+1998-2007 Average
+
+65
+
+64
+63
+62
+1998-2007 Average
+
+61
+60
+
+Full-Time Employees as Pct Total in Work
+Full-Time Employees (Ex Temps) as Pct Total In Work
+
+59
+
+1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016
+Source: ONS
+
+Figure 20. Disparity In Pay Levels For People Returning from Unemployment and Those in Continuous
+Employment Over Last Year, 1995-2016
+
+0
+%p
+-2
+-4
+
+-6
+-8
+-10
+-12
+1995-98
+Average
+
+1999-02
+Average
+
+2003-06
+Average
+
+2007-10
+Average
+
+2011-14
+Average
+
+2015-16
+Average
+
+Note: Separate equations for each year estimated using LFS micro data, controlling for age, education, gender, tenure, industry,
+occupation. Sample size is around 12,000 people per year. Source ONS
+20
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+20
+
+Figure 21. Unemployment Rate and Under-Employment Rate Compared to 2002-07 Averages), 2002-16
+
+4.5
+%P
+
+4.0
+3.5
+
+Unemployment Rate
+
+3.0
+2.5
+Under-Employment Rate
+
+2.0
+1.5
+1.0
+0.5
+0.0
+
+-0.5
+-1.0
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+Source: ONS
+
+Figure 22: Educational Attainment Over Time, 2000-
+
+Figure 23. Unemployment Rates By Educational
+
+16
+
+Attainment, 2000-16
+
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+9.0
+
+2000
+
+2008
+
+2016
+
+8.0
+
+%
+
+%
+
+2000-2007 Average
+
+7.0
+6.0
+
+2016 Average
+
+5.0
+4.0
+3.0
+Pct of 25-74 Pct of 25-74 25-34 Yrs 35-44 Yrs 45-54 Yrs 55-64 Yrs
+Year People Year People
+<- Pct With Tertiary Education By Age ->
+Without
+With
+Secondary Tertiary
+Education Education
+
+2.0
+Overall Jobless Did Not Finish Secondary, Not Completed
+Rate
+Secondary
+Tertiary
+Tertiary
+Education
+Education
+
+Source: Eurostat
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+21
+
+Figure 24. Actual Jobless Rate and Trend Reflecting Wider Education Attainment, 2000-16
+
+9.0
+
+%
+
+8.5
+
+Actual Jobless Rate
+
+8.0
+7.5
+
+Trend Reflecting Education
+Attainment
+
+7.0
+6.5
+6.0
+
+5.5
+5.0
+4.5
+4.0
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+Note: The trend maintains the jobless rates for each category of education attainment at the 2000 average, and reflect the shift in the
+mix of the workforce since then. Source: Eurostat
+
+Figure 25. Workforce Participation Rate By Education
+
+Figure 26. Effect of Education Attainment and
+
+Attainment, Q3 2016
+
+Demographic Change on Workforce Participation
+Rate, 2009-16
+
+81.5
+
+100
+
+Actual Participation Rate 20-64 Years
+%
+
+81
+
+90 %
+
+80
+
+80.5
+
+70
+
+80
+
+60
+
+Did Not Complete Secondary Education
+
+50
+
+Completed Secondary Education
+Tertiary Education
+
+40
+From 20 From 25 From 30 From 35 From 40 From 45 From 50 From 55 From 60
+to 24 to 29 to 34 to 39 to 44 to 49 to 54 to 59 to 64
+years years years years years years years years years
+
+Simulated Participation Rate Reflecting Education
+Attainment and Demographic Change
+
+79.5
+
+79
+78.5
+2009 2010 2011 2012 2013 2014 2015 2016
+
+Note: Simulation keeps participation rates by age category (20-24 years, 25-29 etc), gender and education attainment stable at Q1-2009
+levels and allows for subsequent changes in the share of the 20-64 year age population in each category. Data not seasonally adjusted.
+Source: Eurostat
+
+22
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+22
+
+Figure 27. UK – Change in UK Workforce Participation Rates 2011-16 and Gap Versus Selected European
+Countries, 2016
+
+16
+
+14
+
+Change in UK Participation Rate 2011-16
+%p
+
+12
+
+Average Participation Rate in Selected Countries Less UK , Q3 2016
+
+10
+8
+6
+
+4
+2
+0
+-2
+
+All People
+
+Men
+
+Women
+
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+
+-4
+
+Age in Years
+Note: Countries used are Denmark, Germany, Iceland, Netherlands, Norway, Sweden and Switzerland. Source: Eurostat
+
+Figure 28. UK – Change in Employment Since Q1-2000 By Place of Birth, 2000-2016
+
+2.0
+1.8
+
+People Born in UK
+
+Millions
+
+1.6
+
+People Born in Other EU Countries
+
+1.4
+
+People Born Outside EU
+
+1.2
+
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+-0.2
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+Source: ONS
+
+23
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+23
+
+Figure 29. Disparity in Jobless Rates Across Industry
+
+Figure 30. Internal Migration Within Great Britain
+
+Sectors, 1995-2016
+
+(Numbers of People Moving Between Local Authority
+Boroughs), Millions, 2005-15
+
+10
+
+3.5
+Overall Jobless Rate,
+left
+
+9
+
+3.1 Millions
+3.0
+
+8
+Standard Deviation of
+Industry Jobless Rates,
+right
+
+7
+6
+
+3.0
+3.0
+
+2.5
+
+2.9
+2.9
+
+5
+
+2.0
+
+4
+
+2.8
+
+2.8
+
+3
+2
+
+3.1
+
+1.5
+
+%
+
+2.7
+
+1
+
+1.0
+1995
+
+2.7
+
+1998
+
+2001
+
+2004
+
+2007
+
+2010
+
+2013
+
+2016
+
+2.6
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+
+Source: ONS
+
+24
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+24
+
+References
+Bentolila, S., J. Dolado and J. Jimeno (2008), “Does Immigration Affect the Phillips Curve? Some
+Evidence for Spain”, European Economic Review, vol. 52(8), pages 1398-1423, November.
+Blanchflower D., and S Machin (2016), “The Current 2% UK Wage Growth Norm”, Centre for Economic
+Performance, March 2016.
+Bova, E., J. Jalles, and Christina Kolerus (2016), “Shifting the Beveridge Curve: What Affects Labor
+Market Matching?”, IMF Working Paper No. 16/93, April 2016.
+Brainard, L. (2016), “The ‘Gig’ Economy: Implications of the Growth of Contingent Work”, speech at
+convening on the "Evolution of Work," Federal Reserve, November 2016
+Broadbent, B. (2015), “Compositional shifts in the labour market” speech at ‘Understanding the Great
+Recession: from micro to macro’ Conference, Bank of England, September 2015
+Caunt, S., D. England, and Imogen Shepherd (2016), What do Agents’ company visit scores say about the
+weakness of wage growth?”, Bank Underground Blog, February 2016.
+Capelli, P. (2013), “Why Employers Aren’t Filling Their Open Jobs”, Harvard Business Review.
+CIPD (2016), “Labour Market Outlook: Autumn 2016”, CIPD, Autumn 2016.
+Carney M. (2016), “Uncertainty, the economy and policy”, speech at the Bank of England, available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech915.pdf
+Davis S., R. Faberman, and J. Haltiwanger (2010), “The Establishment-Level Behavior of Vacancies and
+Hiring”, NBER Working Paper No. 16265.
+Davis S., R. Faberman, and J. Haltiwanger (2012), “Recruiting Intensity during and after the Great
+Recession: National and Industry Evidence”, NBER Working Paper No. 17782.
+Diamond, P. and A. Şahin (2014), “Shifts in the Beveridge Curve”, Federal Reserve Bank of New York Staff
+Reports, Staff Report No. 687, August 2014
+Faberman, R. (2014), “Recruiting intensity”, IZA World of Labour.
+Gardiner, L (2016). “A-typical year?”, Resolution Foundation
+Gavazza, A., S. Mongey and G. Violante (2016), “Aggregate Recruiting Intensity”, CEP Discussion Paper
+No 1449.
+Gertler, M., & Trigari, A. (2009), “Unemployment Fluctuations with Staggered Nash Wage Bargaining”,
+Journal of Political Economy, 117(1), 38-86.
+Gregg, P. and L. Gardiner (2015), “A Steady Job? The UK’s record on labour market security and stability
+since the Millenium”, Resolution Foundation, July 2015.
+Gregg, P., Fernandez Salgado, M. and Machin, S. (2014), “Real Wages and Unemployment in the Big
+Squeeze”. The Economic journal, 124 (576). pp. 408-432. ISSN 1468-0297
+Gregory, M. and R. Jukes (2008), “Unemployment and Subsequent Earnings: Estimating Scarring Among
+British Men, 1984-94”, The Economic Journal, Vol. 111 (475).
+Haldane, A. (2015), “Drag and drop”, speech at the Biz Club, available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2015/speech810.pdf
+
+25
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+25
+
+Haldane, A (2016). “One Car, Two Car, Red Car, Blue Car”, Bank of England, speech at the Materials
+Processing Institute, Redcar, available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech945.pdf
+Holman, W and Pike T (2016). “The Economic Effects of globalisation: a view from two of the Bank’s
+Agents”, Bank Underground blog
+Judge, Li. and D. Tomlinson (2016), “Secret agents: Agency workers in the new world of work”, Resolution
+Foundation, December 2016.
+Laureys, L (2014), The cost of human capital depreciation during unemployment”, Bank of England Working
+Paper number 505, available at
+http://www.bankofengland.co.uk/research/Documents/workingpapers/2014/wp505.pdf
+McQuaid, R., R. Raeside, V. Egdell and H. Graham (2014), “Multiple scarring effects of youth
+unemployment in the UK”, mimeo, University of Stirling.
+Nalewick, J (2016). “Non-Linear Phillips Curves With Inflation Regime-Switching”, US Federal Reserve.
+Nickell, S. and J. Salaheen (2015), “The impact of immigration on occupational wages: evidence from
+Britain”, BoE Working paper no 574.
+Orphanides, A., R. Porter, D. Reifschneider, R. Tetlow and F. Finan (1999) “Errors in the Measurement
+of the Output Gap and the Design of Monetary Policy”, Finance and Economics Discussion Series, Board of
+Governors of the Federal Reserve System (U.S.).
+Portes, J. (2016), “How small is small? The impact of immigration on UK Wages”, NIESR blog, January
+2016.
+Portes, J. and G. Forte (2016), “The economic impact of Brexit-induced reductions in Migration”, NIESR,
+December 2016.
+Saunders, M. (2016), “The Economic Outlook”, speech available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech927.pdf
+Upward, R. and P. Wright (2015), “Don’t Look Down: New Evidence on Job Loss in a Flexible Labour
+Market”, University of Nottingham GEP Research Paper 2015/10.
+Weale M. (2014), “Slack and the Labour Market”, speech at the Thames Valley Chamber of Commerce,
+Windsor, March 2014, available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2014/speech716.pdf
+
+26
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+26
+
+

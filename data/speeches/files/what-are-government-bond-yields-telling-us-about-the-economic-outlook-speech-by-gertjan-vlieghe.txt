@@ -1,0 +1,1577 @@
+What are government bond yields telling us about the
+economic outlook?
+Speech given by
+Gertjan Vlieghe, External Member of the Monetary Policy Committee
+
+University of Bath
+27 May 2021
+
+I would like to thank Andrew Bailey, Lennart Brandt, Rodrigo Guimaraes, Andrew Hauser,
+Jamie Lenney, Charlotte McEwan, Nick McLaren, Michael McLeay, Andrea Rosen,
+Michael Saunders, Alison Schomberg, Silvana Tenreyro, and Mo Wazzi for comments or help with
+data and analysis.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+1. Introduction and summary
+Long term interest rates have risen significantly over the past year. The yield on 10-year UK government
+bonds has risen by 75bp (0.75 percentage points) since last summer. Of that increase, 65bp took place just
+since the start of this year.
+These moves have not just taken place in the UK. The yield on 10-year US government bonds has risen by
+110bp since last summer, of which 70bp since the start of this year.
+At the same time, there have been reported concerns about high levels of government debt, as well as rising
+inflationary risks.
+Are bond markets sending ominous warning signs, or just reflecting an improved economic outlook?
+Almost entirely the latter, I will argue. And the more significant change in the inflation outlook has been in the
+US, where – relative to the UK – inflation expectations rose from more depressed levels; there has been a
+change in the central banks’ inflation objective; and fiscal stimulus has been larger.
+I will show that while market inflation compensation measures have increased substantially in the past year,
+particularly in the US, the increase in large part reflects the unwind of recent weakness. While a temporary
+rise in inflation is expected as part of the recovery from the Covid recession, the medium term outlook
+remains consistent with US and UK central bank inflation targets. I will show that expectations from surveys
+of professional forecasters remain well anchored at target, and that there are no signs of significant
+increases in perceived tail risks of higher inflation, either from surveys or from inflation options.
+I will also reflect on the impact that QE has had on government bond yields over the past year, and I will
+discuss the interaction between QE and the interest cost on government borrowing.
+Lastly, I will discuss the economic outlook and the implication for monetary policy. Monetary policy will focus
+on the medium-term outlook for inflation rather than transient factors. What will ultimately tell to what extent
+inflation pressures need a monetary policy response is the passage of time. I suspect that upward
+medium-term inflation pressure will only emerge once economic slack has been fully eroded. Despite an
+improved economic outlook and a likely temporary rise in inflation in the near term, a major challenge for the
+economy remains to integrate the large numbers of currently furloughed workers smoothly back into the
+labour market. Only once the furlough scheme has ended will we have a better idea of how much persistent
+slack there is in the labour market.
+
+2. Analysing recent changes in bond yields
+To gain a better understanding of the moves in government bond yields, I will decompose them into various
+components. I will focus on the moves since August of last year (which marked the low point in 10y yields),
+and will briefly discuss the large swings in the early Covid crisis months of March and April 2020.
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+First, I will decompose nominal yields into different forward curve segments. Intuitively, you can think of any
+long term rate, say the 10y rate, as consisting of a rate that applies between now and year 5, called the
+5 year spot rate, and the rate that applies between year 5 and year 10, called the 5 year rate 5 years
+forward, usually abbreviated as the 5y5y rate. The 10y rate, which is the annual rate applying for each year
+over the next 10 years, is simply the average of the 5y rate and the 5y5y rate.1,2
+Chart 1 shows that the rise in long-term yields has been driven relatively more by the 5y5y rate than by the
+5y rate. While the 5y5y rose by 105bps, the 5y rate increased by just under 50bps. Since the 10y is the
+average of the two, 70% of the increase in the 10y since August of last year is due to rates that apply to the
+second half of the next 10y horizon.
+
+Chart 1: UK Nominal Interest Rates1; since BoE independence (left) and cumulative changes
+from January 2019 (right)
+5y
+
+5y,5y
+
+10y
+
+5y
+
+5y,5y
+
+10y
+
+9
+
+0.4
+
+8
+
+0.2
+
+7
+
+0
+
+6
+
+-0.2
+
+5
+
+-0.4
+
+4
+
+-0.6
+
+3
+
+-0.8
+
+2
+
+-1
+
+1
+
+-1.2
+
+0
+
+-1.4
+
+-1
+1997 2000 2003 2006 2009 2012 2015 2018 2021
+
+-1.6
+Jan 19
+
+Jul 19
+
+Jan 20
+
+Jul 20
+
+Jan 21
+
+Source: Bloomberg Finance L.P, Tradeweb and Bank of England calculations. Last observation 25 May 2021.
+1
+Nominal spot rates extracted from government gilts. Data and calculation details available here.
+
+What happened is that, at the depth of the Covid crisis last year, not only were short-term rate expectations
+very low (and included expectations of negative policy rates at some stage), but forward rates far into the
+future were very low as well. With high uncertainty and low inflation expectations, investors were willing to
+pay very high prices for safe nominal assets – or tolerate very low expected returns, which is the same thing.
+When vaccines were shown to be effective late last year, and started to be rolled out this year, the outlook
+for the economy improved significantly. While longer term interest rates started rising last summer with the
+initial improvement in the economy, most of the increase happened earlier this year, after the successful
+To avoid constantly referring to spot and forward rates I will use the convention with ‘𝑺y rate’ as the spot rate for 𝑺 years (the rate that
+applies from present to 𝑺 years ahead), and ‘𝑭y𝑺y rate’ as the 𝑺 year rate starting 𝑭 years from now.
+2
+Of course there is no reason to focus just on the 10y rate, or the breakdown into 5 years periods. There are three reasons for this
+choice: 1) the 10y is a very important benchmark, and the 5y5y is typically the choice when we want to “look beyond the current cycle”,
+and as such both are very liquid; 2) this significantly simplifies the analysis and largest swings were observed in the 5 to 10 year
+maturities; and 3) when we further decompose this into inflation compensation and real rate components we wish to avoid the
+uncertainty beyond 10 years created by the expectation of phasing out RPI (to CPI) in approximately 10 years’ time.
+1
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+rollout of vaccines began. The risk of short-term interest rates being stuck near the lower bound far into the
+distant future receded significantly, and distant interest rate forwards therefore rose back to levels that
+prevailed in early 2019. The fact that shorter term rates remain below those levels reflects expectations that
+it will take some time for the MPC to raise rates to the distant forward levels, when averaging across many
+different possible paths.
+Next, it is useful to decompose yields into real and inflation components.
+Chart 2 (left for the UK) shows the contribution from real and inflation components, at the 5y and
+5y5y horizon, from different starting dates until today.3 This shows that most of the moves in 10y yields since
+August last year were driven by 5y5y real rates. After the onset of the Covid pandemic, 5y5y real rates had
+fallen almost as low as 5y real rates. Again, the significant uncertainty at the time led to investors being
+willing to pay a high price for safe assets, i.e. tolerate a very low expected return, even at longer horizons.
+
+Chart 2: Decomposition of Changes in Nominal 10y Rates1 for UK (RPI, left) and US (CPI,
+right)
+Inf 5y
+
+Inf 5y5y
+
+Inf 5y
+
+Inf 5y5y
+
+Real 5y
+
+Real 5y5y
+
+Real 5y
+
+Real 5y5y
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+
+0.0
+
+-0.5
+
+-0.5
+
+-1.0
+Jan 20
+
+Aug 20
+
+Jan 21
+
+-1.0
+Jan20
+
+Aug20
+
+Jan21
+
+Source: Bloomberg Finance L.P, Tradeweb and Bank of England calculations.
+1: Changes between date specified and 25 May 2021. Nominal spot rates extracted from government bonds, inflation
+measures from inflation swaps. UK data and calculation details available here.
+
+As uncertainty receded late last year and earlier this year, real 5y5y forward rates rose back to levels seen in
+early 2019, while real rates at shorter horizons remained very low. Zooming out to gain a longer term
+perspective, it is clear from Chart 3, which shows a longer history of real and inflation components, that real
+rates in the UK, both the 5y and the more distant forwards, remain very low historically, even after the recent
+increase. That is a story about longer term forces driving the neutral rate of interest lower, a topic that I have
+discussed on several previous occasions.4
+
+3
+
+Since the 10y is the average of the 5y and 5y5y, the contribution to the change in 10y of each component is half their change. The
+chart shows the decomposition using inflation rates from inflation swaps. Using inflation breakeven rates results in a very similar picture
+(not shown). We focus on inflation swaps in the main text because in the US inflation linked bonds suffer from significant liquidity issues
+and because they are the underlying asset for inflation options, which we discuss later.
+4
+See Vlieghe (2016) “Debt, Demographics and the Distribution of Income: New challenges for monetary policy” and Vlieghe (2019)
+“Monetary policy: adapting to a changed world”
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+Chart 3: Evolution of UK Real and Inflation Rates1; available time series (left) and
+cumulative changes from January 2019 (right)
+inf 5y
+real 5y
+
+inf 5y5y
+real 5y5y
+
+inf 5y
+real 5y
+
+inf 5y5y
+real 5y5y
+
+5
+
+0.4
+
+4
+
+0.2
+
+3
+
+0
+
+2
+
+-0.2
+
+1
+
+-0.4
+
+0
+
+-0.6
+
+-1
+
+-0.8
+
+-2
+
+-1
+
+-3
+
+-1.2
+
+-4
+2004 2006 2008 2010 2012 2014 2016 2018 2020
+
+-1.4
+Jan 19
+
+Jul 19
+
+Jan 20
+
+Jul 20
+
+Jan 21
+
+Source: Bloomberg Finance L.P, Tradeweb and Bank of England calculations. Last observation 25 May 2021.
+1: 5 year spot rates (5y) and 5-year rate 5-years forward (5y5y) extracted from inflation swaps and government Gilts.
+Data and calculation details available here.
+
+Looking at the pattern in the inflation compensation component, as opposed to the real component, we see
+that the moves here have been somewhat different. Shorter-term inflation expectations and risks fell sharply
+in the early phases of the Covid crisis, with 5y inflation compensation falling around 50bp. But the large falls
+unwound quickly following the policy response to the pandemic, even as nominal rates remained low through
+the summer months, meaning real yields were still falling as inflation compensation recovered initially.
+Further out, 5y5y inflation compensation did not fall nearly as much in the downturn, by roughly 30bp, but
+also unwound those smaller falls subsequently.
+While real rates remain historically low, and account for the low level in nominal yields, inflation
+compensation rates are now near their highs of the past decade, though just 10 to 20 bps above their levels
+in 2019 (Chart 3, right) and still below the 2008-2010 period (Chart 3, left). They are not flashing warning
+signs yet, but I would be increasingly uncomfortable if they increased materially further from these levels,
+especially the 5y5y rates.5 A further rise in near-term inflation compensation rates would be less worrying,
+since the MPC itself expects a temporary overshoot in CPI inflation relative to its target, and on top of that
+the wedge between RPI and CPI is influenced by Bank Rate and house price dynamics.
+Summarising the UK yield curve developments, initially both real rates and inflation rates fell sharply, so that
+nominal rates reached all-time lows last summer across the whole maturity spectrum.6 Since then, both real
+rates and inflation rates have risen as the economic outlook has improved and uncertainty has receded,
+particularly since the start of the year. Increases in 5y rates were predominantly driven by a rise in inflation
+
+5
+
+When monitoring longer-term measures of inflation compensation, it is important to remind ourselves that these markets are not as
+liquid as nominal rates markets, especially at longer horizons. These markets are used for hedging large pension liabilities, and hedging
+flows can cause significant shifts in inflation compensation over and above those driven by changes in inflation expectation and
+perceived inflation risks. Moreover, the levels of inflation compensation more than 10 years into the future are also affected by
+expectations of future RPI reform, which makes them more difficult to interpret.
+6
+Decomposing the 30y rate into the 30 consecutive 1y forward rates, every 1y nominal forward rate reached their lowest level on record
+in 2020.
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+compensation back to the top end of its 2019 range, with real 5y rates remaining relatively subdued.
+Movements in 5y5y rates, i.e. more distant forward rates, were predominantly driven by a rise in 5y5y real
+rates as the risk of the economy remaining stuck in a low growth and subdued inflation state receded, with a
+smaller contribution from a rise 5y5y inflation compensation.
+Even though my main focus is clearly the developments in UK rates, I will also look at developments in the
+US to illustrate the differences.7
+The nominal yield moves in the US were larger in both directions. The US had a higher policy rate at the start
+of the Covid crisis, so could cut the policy rate by more. Since the trough, US rates have risen more, and, as
+in the UK, 5y5y forward rates are back to levels seen in early to mid-2019.
+Where the US differs more markedly is in the relative contributions of real rates and inflation compensation to
+these nominal yield patterns (Chart 2, right). Since last summer, 70% of the rise in nominal rates is due to
+inflation, as opposed to 30% in the UK. 5y inflation compensation in the US is well above the levels that
+prevailed pre-Covid, while 5y5y inflation compensation rates are slightly above their pre-Covid levels.
+Compared with the UK’s 50bp fall and subsequent 70bp rise in 5y inflation rates, the US fell 110bp and rose
+210bp. The sharper US increase was likely driven by three factors: first, unlike in the UK, US inflation
+compensation rates before the Covid crisis were at levels below those consistent with the Fed’s inflation
+target. Second, the Federal Reserve modified its inflation objective in the intervening period,8 so that a period
+of above-2% post-Covid inflation expectations became a desired outcome. Third, the US has added a larger
+fiscal stimulus than the UK into an economy that suffered a smaller Covid set-back than the UK.
+
+3. Inflation expectations and risks
+To gauge the risks to inflation expectations, we can go somewhat further than merely analysing the levels of
+inflation compensation in financial markets. Next, I will look at the entire distribution of inflation expectations,
+both in financial markets and in surveys. This allows us to see whether there is any sign of changes in the
+perceived risks to inflation beyond the changes in mean inflation rates.
+In the UK, inflation expectations measured from surveys of professional forecasters remain well anchored, as
+can be seen in Chart 4 (left). Inflation expectations fell during the Covid crisis, and have subsequently
+increased during the recovery. They are back to levels consistent with the MPC’s target, with risks around
+the target now roughly balanced (Chart 4, right), having been skewed to the downside over the past year.
+
+7
+
+In the Eurozone, where inflation has been further below target for longer, government bond yields have risen much less, by only 40bp
+since last August on the 10Y swap measure. The level of 10Y swap yields has just barely become positive again, at 0.15%.
+8
+In its “Statement on Longer-Run Goals and Monetary Policy Strategy”, updated on 27 August 2020, the FOMC amended the
+formulation of its inflation targeting strategy to say: “In order to anchor longer-term inflation expectations at this level, the Committee
+seeks to achieve inflation that averages 2 percent over time, and therefore judges that, following periods when inflation has been
+running persistently below 2 percent, appropriate monetary policy will likely aim to achieve inflation moderately above 2 percent for
+some time.”
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+Chart 4: Bank of England Survey of External Forecasters (SEF) Inflation Forecasts: average
+forecasts (left) and balance of risks1 (right)
+1 year ahead
+2 years ahead
+3 years ahead
+
+1 year ahead
+2 years ahead
+3 years ahead
+
+3.5
+
+30
+
+3.0
+
+20
+
+2.5
+
+10
+
+2.0
+
+0
+1.5
+-10
+
+1.0
+
+-20
+
+0.5
+0.0
+2000
+
+2003
+
+2006
+
+2009
+
+2012
+
+2015
+
+2018
+
+2021
+
+-30
+2000
+
+2003
+
+2006
+
+2009
+
+2012
+
+2015
+
+2018
+
+2021
+
+Source: Bank of England and author calculations. Latest observation May 2021.
+1: Balance of risks is the probability that inflation will be above 3% minus the probability it will be below 1%.
+
+Chart 5: UK Option-Implied Inflation Risk-Neutral Distribution Moments1: standard deviation
+(left) and skew (right)
+5
+10
+
+5
+10
+4.0
+
+1.0
+
+3.5
+
+0.5
+
+3.0
+0.0
+
+2.5
+2.0
+
+-0.5
+
+1.5
+
+-1.0
+
+1.0
+-1.5
+
+0.5
+0.0
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+-2.0
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+Source: Bloomberg Finance L.P and Bank of England calculations. Last observation 25 May 2021.
+1: The moments are calculated from the forward (risk-neutral) distributions of inflation extracted from inflation caps and
+floors, as described here.
+
+Next, I examine the risk-neutral distribution for inflation compensation implied by options. There has been no
+material change in the width of the distribution as measured by the standard deviation (Chart 5, left). And the
+distribution of inflation compensation still has a downside skew, as has been the case for the past decade.
+No sign therefore of either a rise in the magnitude of perceived inflation risks around the mean, nor of risks
+being perceived to be more to the upside.
+The story in the US is different, but consistent with movements in yield curve components discussed in the
+previous section. Near-term inflation expectations have increased substantially, as the Fed’s new AIT
+framework aims for an inflation overshoot for a period. But inflation risks further out have only unwound the
+downside risks from recent quarters, not suggesting any particular perceived risk of higher inflation.
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+Chart 6: Federal Reserve Survey of Professional Forecasters (SPF) Inflation Calendar Year
+Forecasts1: average forecasts (CPI and core CPI, left) and balance of risks2 (core CPI, right)
+CPI T
+CPI T+1
+CPI T+2
+
+core CPI T
+core CPI T+1
+core CPI T+2
+
+T
+T+1
+5
+
+20
+10
+
+4
+0
+
+-10
+
+3
+
+-20
+2
+
+-30
+-40
+
+1
+-50
+0
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+-60
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+Source: Federal Reserve Bank of Philadelphia Survey of Professional Forecasters and author calculations.
+1: Quarterly forecasts for same calendar year as survey (T) and for following calendar years (T+1, T+2). Last observation
+May 2021.
+2: Balance of risks is the probability that inflation will be above 3% minus the probability it will be below 1%.
+
+First, looking at inflation expectations from US surveys, shown in Chart 6 (left), in the short term there is a
+significant overshoot expected in this year,9 but very little further out (see also Chart 7).10 And while the
+balance of risks has now shifted to more upside risks (Chart 6, right), these are still modest. From the
+distribution forecasts we can see that risks in the short run have shifted up, along with central expectations,
+but risk of inflation exceeding 3% in the next couple of years remains within the range seen since 2000, and
+is much lower than in the 1990s, and even further below the perceived risk in the 1970s or 1980s.11
+Looking at US inflation options in financial markets confirms this picture of normalization in inflation and
+inflation risks, with a short-term overshoot. The movements have been bigger than in the UK because US
+inflation compensation and risks were at more depressed levels even prior to Covid. This likely reflects the
+fact that US inflation itself has on average been below target in the post-financial crisis period. While the
+standard deviation of the option-implied risk-neutral distribution has increased (Chart 8, left), it is still far
+below the levels in the period of 2009 through 2013. The most significant change has been the shift from a
+negative skew in the years prior to Covid, similar to the UK, to a more balanced risk in the short term and
+even a modest positive skew at the 10 year horizon (Chart 8, right). But, while the upper tail of the inflation
+distribution has increased more markedly than in the UK, it is still at levels well below 2009-2013, let alone
+the 1970s or 1980s.
+
+In Chart 6 I am showing the chart of CPI expectations, which peaks at 3%. The Fed’s target is 2%, but on the PCE measure. We have
+data on PCE expectations as well, which peak at 2.7%, consistent with the historic CPI-PCE spread of around 30bp
+10
+Current forecast for average PCE inflation over next five years is 2.2% and next 10 years 2.1%, which means the 5y5y expected
+inflation is 2%.
+11
+Core CPI and core CPE were only included in the SPF probabilities surveys since 2007, but probabilities for the inflation rate
+measured by the GDP price deflator is available since 1968 for current calendar year, and from 1982 for next calendar year and show
+similar picture for recent period but much higher before the 1990s.
+9
+
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+8
+
+Chart 7: Federal Reserve Survey of Professional Forecasters (SPF) Long Term Inflation
+Forecasts1
+CPI 5y
+
+CPI 10y
+
+PCE 5y
+
+PCE 10y
+4.0
+3.5
+3.0
+2.5
+2.0
+
+1.5
+1.0
+1992
+
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+Source: Federal Reserve Bank of Philadelphia Survey of Professional Forecasters.
+1: The ‘5y’ forecasts are the average inflation over next 5 years and ‘10y’ the average inflation over the next 10 years.
+
+Chart 8: US Option-Implied Forward Inflation Risk-Neutral Distribution Moments1: standard
+deviation (left) and skew (right)
+5
+10
+
+5
+10
+4.5
+
+1.0
+
+4.0
+0.5
+3.5
+3.0
+
+0.0
+
+2.5
+-0.5
+2.0
+1.5
+
+-1.0
+
+1.0
+-1.5
+0.5
+0.0
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+-2.0
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+Source: Bloomberg Finance L.P and Bank of England calculations.
+1: The moments are calculated from the forward (risk-neutral) distributions of inflation extracted from inflation caps and
+floors, as described here.
+
+In summary, evidence from surveys and option-implied distributions shows the same pattern as evidence
+from the inflation component of the yield curve. Survey evidence in the UK remains consistent with the
+MPC’s target. And there is no sign so far of emerging risk to the credibility of our target, either from surveys
+of inflation distributions or inflation options. In the US the increase in inflation expectations is consistent with
+a larger short-run overshooting, with a similar increase in upside inflation risks, consistent with the Fed’s new
+framework of AIT. Nevertheless, even in the US both central expectations and upside risks remain very
+modest by historical standards.
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+9
+
+4. The role of QE
+At the start of the Covid crisis in March 2020, there was significant financial turmoil, an episode often referred
+to as the “dash for cash”.12 The market turmoil was leading to a significant tightening in financial conditions,
+which, if left unaddressed, would have led to a further worsening of the outlook for growth and inflation. The
+MPC therefore voted to buy gilts and corporate bonds at a rapid pace to help restore market functioning and
+thereby ease financial conditions. Those actions, alongside similar actions by other major central banks, as
+well as an expansion of various central bank liquidity facilities, were highly successful.
+This is consistent with a view of QE that I have expressed on a number of occasions, namely that it is a very
+powerful tool to lower yields when market functioning is poor, by significantly increasing aggregate liquidity
+through abundant reserves and signalling the willingness to offset shocks. But when market functioning is
+restored, and if long term yields already at very low levels with inflation expectations near the target, in my
+view the ability for QE to impart additional macro-economic stimulus is limited. In other words, the impact of
+QE is state-contingent. I therefore voted in favour of the subsequent rounds of QE in June and November
+last year largely because I thought they served as insurance against a renewed episode of tightening in
+financial conditions due to market dysfunction, rather than because I was expecting to achieve an outright
+further easing in the monetary stance.
+One illustration of this is that, when market functioning had been restored, we lowered the pace of purchases
+significantly, to well below the pace of government sales of new bonds. Yet yields remained little changed, as
+shown in Chart 9 (left). Slowing the pace of purchased did not increase yields, and announcing increases in
+the stock of purchases in June and November did not lower yields, although the further purchases might
+have helped raise inflation expectations from depressed levels by reinforcing our commitment to fight
+disinflationary forces. Relative to a counterfactual of no further QE, we lowered the risk of a premature rise in
+yields that might otherwise have taken place, but it is not clear that the policy stance became materially more
+stimulative once market functioning had been restored. A similar pattern can be seen in the US
+(Chart 9, right), where the pace of Fed purchases was lowered much sooner, and from higher levels, but
+yields remained little changed and very low.
+
+See for example in Bailey (2020) “LIBOR: entering the endgame”, Hauser (2020) “Seven moments in Spring: Covid-19, financial
+markets and the Bank of England's operations”, and Vlieghe (2020) “Monetary policy and the Bank of England’s balance sheet”
+12
+
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+10
+
+Chart 9: Government bond yields and asset purchase pace in UK (left) and US (right)
+
+100
+
+Fed UST+TIPS purchases (weekly, % 2019 GDP, LHS)
+10y Treasury yield (% per annum, RHS)
+2.00
+
+0.9
+
+90
+
+1.75
+
+0.8
+
+80
+
+0.7
+
+70
+
+0.6
+
+60
+
+1.25
+
+0.5
+
+50
+
+1.00
+
+0.4
+
+40
+
+0.75
+
+0.3
+
+30
+
+0.2
+
+20
+
+0.1
+
+10
+
+APF gilt purchases (weekly, % 2019 GDP, LHS)
+10y gilt yield (% per annum, RHS)
+35
+
+1
+
+30
+
+1.50
+
+25
+20
+15
+10
+
+0.50
+
+5
+0
+Jan 20
+
+0
+Apr 20
+
+Jul 20
+
+Oct 20
+
+Jan 21
+
+Apr 21
+
+0
+Jan 20
+
+0.25
+0.00
+Apr 20
+
+Jul 20
+
+Oct 20
+
+Jan 21 Apr 21
+
+Source: Bloomberg Finance L.P, Tradeweb, Bank of England, Federal Reserve Bank of New York, and Bank calculations.
+Notes: Asset purchases are normalised by average weekly nominal GDP in 2019 for both countries. Vertical lines in the UK
+chart (left) denote the announcement of new asset purchases on 19 March 2020, 18 June 2020, and 05 November 2020.
+For the US, these denote the announcement of asset purchases on 15 March 2020 and the subsequent removal of a stock
+target (“QE infinity”) on 23 March 2020, as well as the announcement of the Fed’s new average inflation targeting strategy.
+Latest observation: 21 May 2021.
+
+Chart 10: UK forward OIS swap rates
+1y1y OIS
+5y5y OIS
+1.50
+
+1.25
+1.00
+0.75
+0.50
+0.25
+
+0.00
+-0.25
+-0.50
+Jan 19
+
+May 19
+
+Sep 19
+
+Jan 20
+
+May 20
+
+Sep 20
+
+Jan 21
+
+May 21
+
+Sources: Bloomberg Finance L.P. and Bank calculations. Latest observation: 25 May 2021.
+
+In the period between April and December 2020, the fact that UK 10y yields fell further than US yields, and
+then remained lower relative to US yields, is largely attributable to expectations that UK policy rates might go
+negative, rather than any QE effects. After the MPC announced that it was considering adding negative rates
+to the toolkit, financial markets priced in an increasing probability of short term interest rates going negative
+in the coming years (Chart 10). That probability remained elevated until the end of 2020. It was only in the
+first few months of this year, when economic prospects recovered thanks to rapid rollout of the vaccine, that
+financial markets judged that negative interest rates were less likely to be required in the UK.
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+11
+
+5. QE and fiscal policy
+One aspect of QE that has received increasing attention over the past year is its impact on the interest rate
+sensitivity of government debt, and whether that impacts government debt sustainability and therefore feeds
+back onto the level of yields.
+The argument goes as follows.13 Normally the interest rate sensitivity of government debt is determined by
+the maturity profile of the government bonds it has issued. Short-term bonds need to be refinanced at
+prevailing interest rates in the coming years, so if interest rates rise along the yield curve, the interest cost to
+the government will rise. Longer-term bonds, on the other hand, will not need to be refinanced for many
+years, even decades, so they act to slow the impact of any yield rises on the interest costs faced by the
+government.
+But QE changes this calculation, by making the interest cost on government debt more sensitive to
+short-term interest rates, in particular to the level of Bank Rate.
+The main direct aim of QE is to lower long term borrowing costs once short-term interest rates are near their
+effective lower bound (ELB). The MPC’s ultimate aim in doing this is unchanged from what it has always
+been, namely to stimulate private sector spending in order to bring inflation back to target. As a side effect,
+QE also lowers the borrowing costs for the government, since it works initially through long-term government
+bond yields. However, once QE is in place, i.e. once the Bank of England has accumulated the government
+bonds, it does increase the sensitivity of government finances to movements in short-term interest rates. The
+reason for this is that, when one considers the balance sheets of the government and the Bank of England
+together, the net effect of QE can be thought of as akin to swapping the cost of part of the government debt
+from long-term interest rates to short-term interest rates (the rate paid on reserves, i.e. Bank Rate).14 The
+total interest cost to the government, once the Bank of England settles any cash surplus or deficit in its APF
+facility with government, can be calculated as follows:
+
+Total interest cost = interest rate on gilts × gilts held by the private sector
++ Bank rate × gilts held by the Bank of England
+
+That works in both directions. When short-term interest rates are low, as they have been for the past decade,
+the interest cost faced by the government is also very low. Bank Rate has been below the yield on most gilts
+for the past decade.15 But if Bank Rate rises, the interest cost faced by the government will immediately rise,
+
+See also Vlieghe (2020) “Monetary policy and the Bank of England’s balance sheet”
+This is not just a theoretical argument, there are actual observable cash flow implications. The costs of paying interest on reserves
+reduces the transfer from the Bank to Treasury, including from APF gains.
+15
+The difference between Bank Rate and gilt yields at the time of APF purchases has resulted in approximately £110 billion that has
+been transferred from the Bank of England to HMT since the Asset Purchase Facility was created, which is how – operationally – the
+reduction in the average financing cost manifests itself. We have always been clear that these flows would reverse once Bank Rate
+rises sufficiently, and depending on how much yields have risen when the APF portfolio is reduced.
+13
+14
+
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+12
+
+one for one, on the portion of government debt that is held by the Bank of England, which is roughly equal16
+to the amount of reserves outstanding. That is in contrast to the more gradual pass-through of interest rises
+on the portion of government debt that is held by the private sector, where interest rate costs only rise at the
+pace at which bonds mature and need to be refinanced.
+Why am I discussing these technicalities? There is a lot of confusion about this. The objective of QE is to
+help the MPC hit the inflation target. Any impact on government finances is incidental, and does not play any
+role in the MPC’s deliberations. Nevertheless, people ask whether QE is good for the government finances,
+or bad for the government finances, whether government debt is more or less sustainable due to QE?
+QE, to the extent that it fosters a stronger economic recovery than we would have seen without QE, is
+unambiguously good for government finances because a stronger recovery leads to more tax revenues and
+lower expenditures. QE also lowers the average government interest burden by keeping longer term interest
+rates low. But, once short-term interest rates do start to rise, whenever that may be, the interest cost on the
+overall debt position will increase somewhat faster, though from a lower level.
+
+Chart 11: UK public sector liabilities – outstanding amounts of gilts and reserve balances (%
+of nominal GDP, left) and average maturity of debt stock (right)
+BoE reserve balances
+Total gilt free float
+incl. APF portfolio
+
+Weighted average maturity at end-2020
+100
+
+16
+
+90
+
+14
+
+80
+
+12
+70
+60
+
+10
+
+50
+
+8
+
+40
+
+6
+
+30
+4
+20
+2
+
+10
+0
+2000
+
+2003
+
+2006
+
+2009
+
+2012
+
+2015
+
+2018
+
+2021
+
+Sources: Bank of England, Heriot-Watt University British
+Government Securities Database, and Bank calculations.
+Latest observation: 31 March 2021.
+
+0
+US
+
+CA
+
+DE
+
+IT
+
+JP
+
+FR
+
+UK
+
+Sources: DMO Debt Management Report 2020-2021.
+Notes: Nominal weighted average maturity, excluding
+inflation uplift, including Treasury bills.
+
+Chart 11 (left) illustrates these mechanisms. Following the rise in government borrowing after the financial
+crises and after the Covid crisis, government debt has increased as a share of GDP. And a larger share of
+that debt (about a third, as shown by the red), is now affected immediately by Bank Rate changes, rather
+than affected gradually by changes in yields along the yield curve.
+This mechanism applies to any country that has carried out QE. Chart 11 (right) shows, however, that the UK
+is still an outlier internationally in the relatively long average maturity of its government bonds. Reassuringly,
+16
+
+The quantity of reserves is not exactly equal to the quantity of gilts held by the Bank of England, because there are some other assets
+backing reserves as well, but these are fairly small as a share of the total balance sheet.
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+13
+
+that means that, on the portion of government bonds held by the private sector, any rises in yields will be
+reflected into the government debt burden only slowly, compared to countries that have a shorter average
+maturity of debt.
+It is also worth pointing out that while QE has acted to make the government debt cost more sensitive to
+short term interest rates, over the same period the DMO has increased the average maturity of new
+issuance. One way to estimate the net effect of these two countervailing forces is shown in Chart 12.
+I re-calculate the weighted average maturity of government debt, but assign a maturity of zero to the portion
+of the debt that is held by the Bank of England. Of course the maturity is not actually zero, in fact the true
+maturity is however long the Bank of England keeps and reinvests those bonds. But assigning a zero
+maturity for the purposes of this chart captures the idea that the interest cost of this part of the debt is entirely
+driven by very short-term (i.e. zero maturity) interest rates, namely Bank Rate. The conclusion is that the
+adjusted weighted average maturity is roughly at the same level it was a decade ago. In other words,
+post-2010 rounds of QE have roughly offset the effect of the increase in the maturity of DMO issuance.
+
+Chart 12: UK public sector liabilities – weighted average maturity
+Weighted average maturity - all gilts (incl. inflation uplift)
+Weighted average maturity - adjusted for reserves creation
+
+20
+18
+16
+14
+
+12
+10
+8
+6
+4
+2
+0
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+Sources: Bank of England, Heriot-Watt University British Government Securities Database, and Bank calculations. Latest
+observation: 31 March 2021.
+
+6. Outlook for inflation and policy
+Let me now turn to the outlook for the growth, inflation and monetary policy.
+The economic impact of the Covid crisis was unprecedented: the UK experienced the largest GDP
+contraction in 300 years.
+The policy response was similarly unprecedented: the largest ever peacetime rise in the fiscal deficit, and
+largest ever increase in the Bank of England’s balance sheet.
+It will be some time before we know how successful these policies have been, but I would say, so far so
+good. The unemployment rate has only risen by about a percentage point, despite a 10% annual contraction
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+14
+
+in GDP, in large part due to the government’s furlough scheme protecting people’s income as well as their
+connection to their employer. Fiscal policy has done the heavy lifting in this downturn.
+With significant help from the government’s credit easing schemes and Bank of England policy actions to
+keep borrowing costs low and ensure orderly functioning of funding and asset markets, credit provision
+throughout the pandemic generally worked well. A strongly capitalised financial system was able to help
+firms absorb the shock.
+This year, the unprecedented contraction in GDP is likely to give way to an unprecedented rate of growth in
+GDP, such that by the end of the year the MPC expects to have regained the pre-Covid level of GDP. There
+is some temptation to call that a boom. I think it is more accurate to call it a prospective return towards
+normal. During this return towards normal, we should be prepared for some erratic price moves as not all
+sectors experience a return of demand at the same speed, which may create temporary bottle-necks. These
+temporary price moves, along with significant base effects, are likely to push inflation above our target
+temporarily later this year and early next year.
+
+Chart 13: Unemployment and furlough rates (% of labour force)
+Unemployment rate
+Furlough rate
+
+30
+25
+20
+15
+10
+5
+0
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+Source: ONS and Bank calculations. Notes: Yellow bars show the number of furloughed jobs at the end of the quarter per
+cent of the economically active population aged 16-64. Latest observation: 2021 Q1.
+
+Economic prospects are better now than they have been at any time over the past year, thanks to the
+on-going rapid rollout of vaccinations, but we are not out of the woods yet. Internationally, new virus cases
+remain elevated, which continues to weigh on global economic activity. In the UK, we are still dealing with
+so-called “Variants of Concern”, which may yet affect the pace at which the Covid-related restrictions can
+safely be eased. On the domestic economy front, we still have the wind-down of the furlough scheme ahead
+of us. While the MPC expect most furloughed workers to be reintegrated into the labour market smoothly,
+this process is subject to significant uncertainty. We are talking about millions of workers (Chart 13), and
+
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+15
+
+even if only a small share of them end up in unemployment later this year, that could lead to a rise in
+unemployment that is of macro-economic significance.17
+The fact that we will have temporarily high GDP growth rates and temporarily higher inflation in the coming
+months is not the main focus of monetary policy. Instead, monetary policy will focus on returning inflation
+sustainably to its target, which will require focusing on the medium-term outlook for inflation, and therefore
+the medium-term pressure of demand on supply, rather than transient factors. This approach to monetary
+policy is outlined clearly in the MPC’s May Monetary Policy Statement and Minutes.
+
+Chart 14: Headline and core CPI inflation
+UK core CPI
+UK headline CPI
+May 2021 MPR forecast
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Source: ONS and Bank of England. Latest observations: April 2021 (actual).
+
+It will be a communications challenge to keep reminding people of the likely temporary nature of the
+upcoming inflation. CPI inflation is likely to move above the target (Chart 14), as I have already mentioned,
+due to base effects and temporary price rises due to supply bottle-necks in the face of uneven demand.
+When CPI inflation is affected by temporary factors and base effects, one cross-check of underlying inflation
+pressures is to look at wage inflation. But wage inflation is affected by temporary factors and base effects as
+well. Year-over-year growth in Average Weekly Earnings (AWE) is likely to rise sharply in the coming months
+before slowing again later this year – and this will happen regardless of the underlying strength of the labour
+market. Chart 15 shows the evolution of the year-over-year growth rate of private sector regular AWE on the
+illustrative assumptions that wages grow at 0%, 2% and 4% respectively from the most recent data point.
+The chart illustrates that in all three scenarios the year-over-year growth rate is set to spike sharply to 7-8%,
+before falling back in subsequent months.
+
+17
+
+Note that the mapping between furloughed jobs and unemployed persons is not going to be one for one. That is because a single
+worker can be furloughed from two jobs at the same time. Thus, if after the end of the furlough scheme they cannot return to either job
+and become unemployed, it would add only one person to the unemployment rate. Or, alternatively, if they lose one of them but return
+to the other, they would not be counted as unemployed at all.
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+16
+
+Chart 15: Private sector regular AWE (£ left, % yoy right)
+Actual
+Level constant from March 2021
+
+2% annualised growth
+4% annualised growth
+
+560
+
+10
+
+550
+8
+
+540
+530
+
+6
+
+520
+510
+
+4
+
+500
+2
+
+490
+480
+
+0
+
+470
+460
+2018
+
+2019
+
+2020
+
+2021
+
+-2
+2018
+
+2019
+
+2020
+
+2021
+
+Source: ONS and Bank calculations. Notes: Chart on the right shows growth in the rolling 3-month average AWE over the
+3-month average one year before. Latest observation: March 2021.
+
+Aside from CPI and wage inflation, commentators point to all kinds of indicators that have not been
+particularly reliable in the past in order to make the case for persistent inflationary pressure.
+Some cite rapid money growth, which has not been a reliable inflation indicator for decades. Rapid money
+growth has not been a counterpart to rapid credit expansion. Instead, high deposit balances reflect excess
+savings accumulated by higher income households, who have maintained a steady wage income but have
+seen their spending opportunities temporarily curtailed. In the May MPC forecast, only a small share of that
+income is expected to be spent, with the remainder saved. These are not the ingredients of an inflationary
+money and credit expansion. Instead, I expect money growth to slow.
+Some cite rising commodity prices as evidence of a persistent inflationary problem. The price of lumber is a
+favourite, and it makes for a spectacular chart indeed (Chart 16, left). But inflation is not about the increase in
+the price of a few commodities. It is about broad-based and on-going price increases. Moving our focus
+simply from some isolated commodities to broad indices of a range of commodities, the picture is much less
+spectacular (Chart 16, right). The commodity price increases are more modest than in 2011, and it is worth
+remembering that even in 2011 their rise did not signal any persistent inflationary pressure.
+What will ultimately tell us whether inflation pressures require a policy response or will turn out to be transient
+without a policy response, is the passage of time. I suspect that upward underlying inflation pressure will only
+emerge once economic slack has been fully eroded, which in turn will require a smooth transition of the
+economy out of furlough. Only once the furlough scheme has ended will we have a better idea of how much
+underlying slack there is in the labour market.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+17
+
+Chart 16: International lumber prices (USD, left) and Bloomberg commodity price indices
+(index 100 = 01 January 2000, right)
+Bloomberg Global Commodities Index
+Industrial metals
+Energy commodities
+
+Generic Lumber Futures continuation
+1800
+
+600
+
+1600
+500
+1400
+1200
+
+400
+
+1000
+300
+800
+600
+
+200
+
+400
+100
+200
+0
+2000 2003 2006 2009 2012 2015 2018 2021
+
+0
+2000
+
+2003
+
+2006
+
+2009
+
+2012
+
+2015
+
+2018
+
+2021
+
+Sources: Eikon by Refinitiv. Latest observation: 21 May 2021.
+
+Some argue that it will be too late if we wait for the data to give us clarity on underlying inflation pressure. I
+do not put much weight on such arguments, for three reasons.
+First, given the proximity of the effective lower bound (even with the possibility of modestly negative rates),
+tightening too early would be a much costlier mistake than tightening too late. The international experience of
+the past two decades has taught us that premature tightening can lead to even more easing later, with below
+target inflation.
+Second, monetary policy does, in fact, work quite quickly.18 It does not take years for interest rates increases
+to start having an effect. As long as we make clear that we will not tolerate persistent deviations of inflation
+from target, and act accordingly, inflation expectations are unlikely to drift, and inflation will not become a
+persistent problem. Comparisons with the 1970s are misplaced, and fail to take into account that the
+institutional framework for monetary policy has fundamentally changed since then.
+Third, as I have discussed many times before, I think we continue to find ourselves in an environment where
+the neutral rate of interest, namely the rate at which monetary policy is neither stimulating nor putting the
+brakes on the economy and inflation, is very low relative to the past several decades. That was apparent
+before we were hit by the Covid shock, when Bank Rate was just 0.75% and inflation pressures were too
+weak. A low neutral interest rate will remain relevant once the Covid shock has passed. If anything, Covid
+may have lowered it by increasing the perception of tail risks.19 So if interest rates do need to rise once the
+data show that medium-term inflationary pressures are rising, then I suspect that interest rates will not need
+to rise very much to slow the economy to a pace that is consistent with our 2% inflation target.
+
+18
+
+For example, Cloyne and Hürtgen (2016) find that in post-1992 samples inflation reacts quickly to monetary policy with sizeable
+effects in the first and second year after the shock, as do Ellis et al. (2014). These findings for the UK are corroborated by Cesa-Bianchi
+et al. (2020). For the US, Olivei and Tenreyro (2007) find a fast transmission of monetary policy to inflation depending on the timing of
+the shock which they explain using a structural model of unevenly staggered wage setting.
+19
+For the role of macro-economic tail risk in determining the level of the neutral interest rate see Vlieghe (2019) “Monetary policy:
+adapting to a changed world”.
+18
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+18
+
+7. Illustrative scenarios and preferred paths of Bank Rate
+
+I will conclude by briefly describing some illustrative scenarios for the economy in the coming years, and
+what my preferred Bank Rate path might look like in each of these scenarios. These scenarios fall within the
+fan chart of the May Monetary Policy Report. The Bank Rate paths I am showing in Chart 17 are consistent
+with the MPC’s guidance on monetary policy, but the guidance encompasses a wide range of other paths as
+well. I want to be very clear that these are my own personal views, and do not represent the view of the
+MPC. And I emphasise that any future rate path that I discuss is not a promise, it is my own forecast based
+on a particular economic scenario. If the data turn out differently, so will the associated rate path.
+
+Chart 17: Three scenarios for the future path of Bank Rate
+Bank Rate
+Upside scenario
+Central scenario
+Downside scenario
+
+1.50
+1.25
+
+1.00
+0.75
+
+0.50
+0.25
+0.00
+-0.25
+-0.50
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Notes: Diamonds show hypothetical level of Bank Rate in one, two, and three years’ time.
+
+My central scenario is that the economy evolves similarly to the MPC’s central projection in May, but with
+somewhat more slack than in the central projection. Relative to the MPC’s central projection, I worry that the
+transition out of furlough does involve a modest rise in the unemployment rate, while the economy’s supply
+potential is somewhat less adversely affected, so that there is still some excess supply around the turn of the
+year. In that scenario, the first rise in Bank Rate is likely to become appropriate only well into next year, with
+some modest further tightening thereafter.
+On the upside, should the transition out of furlough happen more smoothly, with the unemployment rate at or
+a little below current levels by the end of the year, with associated signs of upward inflation and wage
+pressure beyond the temporary and base effects, then a somewhat earlier rise in Bank Rate would be
+appropriate. It would probably take until the first quarter of next year to have a clear view of the post-furlough
+unemployment and wage dynamics, so a rise in Bank Rate could be appropriate soon after, along a slightly
+steeper path than in my central case.
+On the downside, the economy might not recover as quickly, perhaps as lingering concerns about “variants
+of concern” continue to weigh on demand, which in turn results in more adverse unemployment dynamics as
+19
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+19
+
+fewer furloughed workers are hired back straight away, with weaker underlying wage pressure. In that case,
+it is still possible that monetary policy might be required to simulate the economy a little further to help
+eliminate slack and ensure inflation, after its temporary rise later this year, does not subsequently fall back
+below its 2% target persistently.
+
+20
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+20
+
+

@@ -1,0 +1,842 @@
+Bank of England
+
+Page 1
+
+Monetary policy in the face
+of large shocks − speech by
+Silvana Tenreyro
+Given at The Resolution Foundation and hosted jointly with the Society
+of Professional Economists, London
+
+Bank of England
+
+Page 2
+
+Speech
+Good evening. Let me start by thanking the Resolution Foundation and the Society of
+Professional Economists for co-hosting this event.
+This is my final public speech as an MPC member and I would like to take the opportunity
+to thank my current and former colleagues on the MPC and the Bank of England’s staff. It
+has been a true privilege to serve on the committee and work with so many talented and
+dedicated people, indefatigably committed to public service.
+This has not been a quiet six years on the MPC. Two once-in-a-generation shocks of
+extreme virulence have hit the economy in a space of less than three years: first the
+pandemic, and its various aftershocks; and then the war in Ukraine, and its effect on
+energy and other commodity prices. The economy has also faced changes in international
+trading relations, most importantly, the UK’s exit from the EU, and between the US and
+China. And there have been several episodes of global and domestic financial volatility.
+In my speech today, I will attempt to put the scale of these shocks into historical context. I
+will then ask what monetary policy can do to maintain credibility when faced with such
+large shocks, before touching on lessons for economic forecasting and communications.
+
+1. Once-in-a-generation shocks
+Both of the enormous shocks that have affected the economy – the pandemic and the war
+– have been global in nature. The pandemic affected everyone, while the economic effects
+of the Ukraine war have also been widely felt, given the importance of energy and
+commodities to economic activity.
+Despite being global shocks, their effects have differed markedly across countries. Chart 1
+shows the path for household consumption compared to its pre-pandemic trend in each of
+the UK, the US, and the euro area. In the US, consumption quickly recovered to around its
+pre-pandemic trend, whereas in the UK it remains some 9 percentage points below, with
+the euro area somewhere in between.
+In Tenreyro (2021a) I highlighted how one of the key drivers of these differences was the
+different fiscal response across jurisdictions. In the UK and the euro area, fiscal policy
+largely aimed at preserving jobs and maintaining incomes. In the US, fiscal policy was a
+more widespread demand stimulus, increasing aggregate household income well above its
+pre-Covid trend. This large US demand stimulus, combined with rolling supply disruptions
+related to the pandemic, was also the driver for much of the rapid global increase in
+goods-price inflation from 2021, as I discussed in Tenreyro (2021b).
+
+Bank of England
+
+Page 3
+
+Chart 1: Real household consumption
+
+Notes: Indexed to 2019 Q4=100.
+Sources: Bureau of Economic Analysis, Eurostat, Office for National Statistics and Bank calculations.
+
+The other major cause of different outcomes was differences in the scale of the energy
+shock across regions. Chart 2 (left panel) shows that the increase in retail energy prices
+was far larger in the euro area and the UK – both net energy importers – than in the US,
+which was largely unaffected by the increase in European gas prices stemming from the
+war in Ukraine. This led to a larger reduction in real incomes in the UK and euro area,
+contributing to weaker consumption.
+Differences in the size, as well as in the timing of the energy shock are also a primary
+reason for different inflation dynamics across regions (Chart 2, right panel). In the US, the
+cumulative increase in retail energy prices from the end of 2019 (implied by the inflation
+rates in Chart 2) peaked at less than 30%. In the euro area, it reached 80% at peak,
+though started to reverse quickly soon afterwards. In the UK, the figure was over 110%.
+And given the lagged nature of the Ofgem pricing mechanism in the UK, it only started
+reversing very recently – in April 2023.
+
+Bank of England
+
+Page 4
+
+Chart 2: Retail energy prices and inflation
+Electricity, gas & other fuels inflation
+100
+
+Headline inflation
+100
+
+Per cent
+
+UK
+
+80
+60
+
+12
+
+12
+Per cent
+
+80
+
+10
+
+60
+
+8
+
+UK
+10
+8
+
+EA
+40
+
+40
+
+EA
+
+6
+
+6
+US
+
+20
+
+20
+
+4
+
+4
+
+0
+
+2
+
+2
+
+-20
+
+0
+Jan 21
+
+US
+0
+-20
+Jan 21 Jul 21 Jan 22 Jul 22 Jan 23
+
+0
+Jul 21
+
+Jan 22
+
+Jul 22
+
+Jan 23
+
+Notes: CPI inflation for the UK and euro area; PCE inflation for the US.
+Sources: Bureau of Economic Analysis, Eurostat, Office for National Statistics and Bank calculations.
+
+Any assessment of cross-country inflation dynamics also needs to account for the relative
+impact of energy prices on measures of core or domestic inflation. Energy is directly or
+indirectly an input to all sectors, even in the services sector, as recently quantified in
+Dhingra and Page (2023).1 So while measures of core inflation or even core services
+inflation can be useful proxies for domestically generated inflation in some circumstances
+(see Tenreyro, 2019a), they have also been heavily influenced by the energy-price shock.
+Moreover, given some explicit or implicit wage indexation in the UK depends on measured
+rates of headline CPI or RPI inflation, there is likely to have been at least some impact on
+wage growth, irrespective of the tightness or otherwise of the labour market.2
+These two large shocks have also been the source of the cost-of-living crisis. Higher
+energy prices reduced the real income of the UK, which is not something that monetary
+policy can offset. Even if we had known about the shocks in advance, then the best that
+monetary policy can do is choose, within the remit, whether the shock affects the economy
+through temporarily higher inflation, or instead through higher unemployment and lower
+nominal income growth. In either case, real incomes necessarily fall. Later in the speech, I
+examine whether, if the MPC could somehow have known about the war in Ukraine (and
+the energy shock) in advance, it could have achieved a better balance of inflation and
+unemployment, given its remit.
+The MPC’s remit also recognises that inflation will depart from target as a result of shocks.
+The remit is clear that while the MPC should always be aiming to bring inflation back to
+target, inflation should not always be at 2%. Indeed, in the face of large shocks, the remit
+
+1
+
+See also Dhingra (2023).
+In Tenreyro (2022) I discussed the role that a tight labour market played in determining the strength of
+second-round effects from the increase in energy prices.
+2
+
+Bank of England
+
+Page 5
+
+explicitly states that the MPC should consider the speed with which it aims to bring
+inflation back to target, in order to avoid variability in output.
+As well as comparing across regions, we can also compare the inflation increases with
+those in response to previous energy-price increases. The recent energy price increase
+has been larger than other episodes in the past 50 years, including those that hit the
+economy in the 1970s. Despite the larger shock, the rate of CPI inflation last year was well
+below the peaks UK inflation measures reached in the 1970s and early 1980s (Chart 3).
+
+Chart 3: UK headline inflation during energy price increases
+Per cent
+
+30
+
+30
+
+25
+
+25
+Aug 1975
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+May 1980
+
+Oct 2022
+
+5
+
+5
+
+Sep 2011
+
+0
+-24
+
+-16
+
+-8
+
+0
+
+0
+8
+
+16
+
+24
+
+32
+
+Months from peak
+
+Notes: Dates refer to month of peak in inflation. Headline inflation measured as RPI inflation in 1975 and
+1980; CPI inflation in 2011 and 2022.
+Sources: Office for National Statistics and Bank calculations.
+
+The lower peak in inflation in part reflects a better starting point: the 1970s energy shocks
+came after many years of steadily rising inflation. It could also signal a policy framework
+with greater credibility than in the past. But given the scale of the shocks we have seen,
+how should policymakers go about retaining credibility, and ensuring inflation does come
+back to target at an appropriate horizon?
+
+2. Monetary policy credibility
+For modern central bankers, credibility is sacrosanct. Not long after the Bank of England’s
+independence, the economist and central banker Alan Blinder, 2000 surveyed 84 central
+bank leaders, and the vast majority said credibility was ‘of the upmost importance’.3 If they
+had been given the option, some may have said it was even more important than that.
+
+3
+
+70 out of 84, with the other 14 saying it was ‘quite important’.
+
+Bank of England
+
+Page 6
+
+This is because for inflation-targeting central banks, credibility is a fundamental asset.
+Credibility means that the central bank is trusted to do what it says it will do. In this case,
+trust that it will fulfil its inflation-targeting remit. Without that trust, individuals and
+businesses may come to expect inflation persistently above (or below) target, and arrange
+contracts that push their own prices and wages higher (or lower) in response. These
+expectations of inflation away from target risk turning into a self-fulfilling prophecy.
+Ultimately, medium-term inflation is always within monetary policymakers’ control. But
+greater credibility can make the inflation target less costly to achieve. With expectations
+anchored by a credible inflation-targeting framework, inflation is less volatile in response to
+shocks.4 And following large inflationary shocks, such as those we have seen over the
+past few years, a smaller reduction in activity is needed to bring inflation back to target.5
+If credibility is so important, how do we obtain it? And once we have it, how do we keep it?
+In the views of those 84 central bankers, some of the most important factors were an
+independent and transparent central bank, a history of fighting inflation and above all, a
+history of honesty: fulfilling promises and remits. The UK’s monetary framework meets all
+of these criteria, with an independent Bank of England, and a Monetary Policy Committee
+accountable for a quantitative inflation-targeting remit given to it by government.
+Monetary policy credibility in the UK therefore derives from the framework and the MPC’s
+history of fulfilling its remit. But this description seems at odds with how many
+commentators discuss the concept. There are often suggestions that an interest rate
+decision at a particular meeting, or hawkish communications that sound tough on inflation
+are needed, to ensure or win back credibility.6 Similarly, in the wake of the sharp increase
+in sterling risk premia after the September 2022 fiscal event, there was much commentary
+on the size of interest-rate increase needed to restore credibility, as measured by the
+value of sterling.
+I do not believe that such shortcuts exist. Monetary credibility cannot be won (or lost) from
+one month to the next. We must earn it (and keep it) the hard way, through a long history
+of fulfilling the remit, and transparently explaining how we do so. In particular, the MPC
+should set policy to meet the inflation target in the medium-term. Sometimes that will
+require higher interest rates, and sometimes lower. But I do not see any trade-off between
+meeting the inflation target and ensuring credibility.
+
+Restoring credibility after the 1970s
+To illustrate the process, the natural case study economists turn to is the experience of
+regaining credibility in the 1980s. Starting in 1973, inflation in the US was above 5%
+See e.g. Erceg and Levin (2003), ‘Imperfect credibility and inflation persistence.’
+See e.g. Ball (1995), ‘Disinflation with imperfect credibility’.
+6 See e.g. ‘The Bank of England’s credibility is still on the line’. in the Financial Times (22 June 2023).
+4
+5
+
+Bank of England
+
+Page 7
+
+almost continuously for nearly a decade, with a third of that period above 10%. In the UK
+the situation was even more difficult, with RPI inflation above 5% for almost 13 years, and
+in double digits for over half of this period. Inflation expectations soared, and by almost
+any metric, monetary policy had very little credibility.
+The restoration of credibility has been studied particularly extensively in the US, where
+there was arguably a decisive victory over inflation at an earlier point.7 (In the UK a
+longer-lasting improvement came after the adoption of inflation targeting in 1992.) In the
+US, under Federal Reserve Chair Paul Volcker, monetary policy was tightened sharply.
+This generated a recession, reduced inflation, and reduced longer-term interest rates
+(Volcker’s preferred metric of policy credibility).8
+The lesson from this period is not, however, that tight monetary policy or an interest-rate
+decision on a given month can restore or maintain credibility, in and of itself. Rather,
+Volcker restored monetary policy credibility and lowered inflation expectations by first
+reducing the rate of inflation. The chain of events is clear from the time pattern of the data,
+with a recession starting in 1981, followed by a fall in inflation in 1982. Finally, there was a
+reduction in longer-term interest rates, as the disinflation slowly helped build credibility,
+with a new history of relatively low inflation and a central banker fulfilling their promise.9
+Even though it is itself an outcome of the framework and the history of its success in
+controlling inflation, credibility, or a lack of it, can also clearly affect that success. It is an
+input into the inflation outlook as well as an output of inflation control. As such, it is
+important to be able to measure it and its effect on inflation.
+
+Anchored inflation expectations
+In the theoretical wisdom I have sketched, and in central banking circles, credibility is
+typically seen as synonymous with anchored inflation expectations. So much so, that
+metrics of long-term inflation expectations derived from financial markets are often used as
+a measure of central bank credibility.
+Financial-market measures have the advantage that they are derived from contracts that
+involve market participants putting significant sums of money on the line. Participants have
+every incentive to be well informed about the inflation outlook, which should be reflected in
+accurate expectations. Longer-term expectations, as proxied by the 2-year or 5-year
+
+‘According to Goodfriend and King (2005), ‘The incredible Volcker disinflation’ was ‘arguably the most
+widely discussed and visible macroeconomic event of the last 50 years of U.S. history’.
+8 See Goodfriend and King (2005), ‘The incredible Volcker disinflation’, and the FOMC transcripts quoted
+therein.
+9 The debate in general is a quantitative one: how much demand needs to slow down to compress price
+growth.
+7
+
+Bank of England
+
+Page 8
+
+inflation swap rate, 5-years forward, can tell us what financial markets think will happen at
+a point when shocks have subsided, potentially giving a clearer read on anchoring.10
+These measures, shown in Chart 4, also have some major disadvantages, however. At a
+practical level, they are measures of inflation compensation – not expectations. In the UK
+they reference RPI rather than CPI, with the wedge between the two inflation rates varying
+over time. The instruments can also be illiquid, and are heavily used for hedging pension
+liabilities. Both of these factors can lead to movements in compensation unrelated to
+expectations or risks of future CPI inflation.11 Inflation compensation also includes risk
+premia, owing to future inflation risks. While inflation risks can be indicative of future policy
+actions (such as a greater willingness to tolerate inflation), they can also just be a
+reflection of the distribution of shocks hitting the economy.12
+
+Chart 4: Financial-market measures of inflation compensation
+
+Notes: Data to 27 June. 5y1y, 5y2y and 5y5y denote, respectively the one, two and five year swap rates, five
+years ahead.
+Source: Bloomberg Finance L.P.
+
+More fundamentally, as I set out in Tenreyro (2019b), if we care about inflation
+expectations because they can feed back into inflation itself, it is far from clear that
+financial-market inflation expectations are the ones that matter. In the simple textbook
+models at the heart of monetary economists’ intuition, there is one set of inflation
+expectations, which also accurately predict future inflation in the absence of shocks. In
+
+10
+
+UK RPI is due to be aligned with CPIH from February 2030. Expectations of this change will now be
+affecting the five year swap rate, five years forward, but not yet the one or two year swap rates, which
+therefore provide a clearer read on recent movements.
+11 As discussed in Vlieghe (2021), for example.
+12 There are models that estimate the CPI expectation components of financial market inflation
+compensation measures, but these are naturally imperfect for instance given risk premia are unobservable.
+
+Bank of England
+
+Page 9
+
+these models, controlling inflation expectations is sufficient to control inflation. In reality,
+expectations may differ across different households, firms, financial market participants
+and policymakers. To work out the appropriate policy response, we need to ask which
+expectations have changed. How will those changes influence actual inflation dynamics?
+And how can policy best offset any changes in a way that meets the MPC’s remit?
+On their own, changes in financial market inflation expectations are not likely to lead to
+self-fulfilling inflationary dynamics. Market participants have no role in firms’ price-setting
+decisions, nor in their wage negotiations with workers. This is why the literature has moved
+to understanding inflation expectations of both firms and households (as more relevant for
+pricing decisions and wage negotiations). In a new paper (Bandera, Barnes, Chavaz,
+Tenreyro and von dem Berge, 2023) with Bank of England co-authors, we summarise
+the literature on the factors shaping inflation expectations, and in particular the role of
+monetary policy, and the effect of inflation expectations on inflation and activity. We
+conclude that despite their prominent role in economic models and policy debates, the
+understanding of the formation and economic impact of expectations in the literature
+remains limited. But we do draw some tentative conclusions, which I think have important
+implications for policy.
+On the effect of monetary policy on household and firm expectations, empirically: identified
+monetary policy shocks have significant effects on inflation, but more limited (if any) direct
+effects on inflation expectations. There is even evidence that the effect on expectations
+often goes in the ‘wrong’ direction.13 Instead, although household and firm inflation
+expectations tend to follow actual inflation, they are also often highly sensitive in the short
+run to volatile but salient components of the basket, such as the prices of energy and food,
+which are largely outside the control of monetary policy.
+There is also mixed evidence on the impact of household and firm inflation expectations on
+activity and inflation. It is important to differentiate according to the type of shock: in
+response to a supply shock that increases household inflation expectations, spending
+tends to fall, rather than rise. For firms, developments in their own sector appear to be
+more important than aggregate inflation expectations. It is possible that the weakness of
+these channels in the UK stems in part from a recent history of low and stable inflation. 14
+
+See e.g. Andre, Pizzinelli, Roth and Wohlfart (2022), ‘Subjective Models of the Macroeconomy:
+Evidence From Experts and Representative Samples’. When asked how higher interest rates will affect
+inflation, households and firms more often than not respond that they would increase price or cost inflation.
+See also Barrett and Adams (2022), ‘Shocks to Inflation Expectations’ which suggests that households
+have a stagflationary view of the world.
+14 Werning (2022), ‘Expectations and the Rate of Inflation’, and Beaudry et al. (2022), ‘Looking Through
+Supply Shocks versus Controlling Inflation Expectations: Understanding the Central Bank Dilemma’,
+offer a different take: future inflation expectations become less relevant in a high inflation environment.
+Instead, spot or past inflation, or ‘level-k thinking’ expectations (intra-temporal expectations of what others
+might do concurrently) are key.
+13
+
+Bank of England
+
+Page 10
+
+The overall policy conclusion I draw from this evidence is that it would be unwise to
+attempt to use inflation expectations, or some other metric of perceived credibility, as an
+intermediate target of monetary policy. In simple models, there is a close relationship
+between expectations and actual future inflation outturns. In reality, the two objects can
+diverge – measured expectations will move in response to actual inflation and energy and
+food prices. So in the short-term, these expectations are affected by volatile shocks, but
+less so by monetary policy. When faced with a situation in which inflation is set to return to
+target, but expectations or perceptions of credibility have moved, there is no trade-off for
+monetary policy. The route back to full credibility and anchored inflation expectations
+involves bringing inflation back to target, responding to changes in expectations only to the
+extent they affect the medium-term inflation outlook.
+This conclusion has historical echoes. In the UK and in the US, the policy tightening in
+response to the 1970s inflation was implemented in part via the adoption of money growth
+measures as intermediate targets. These monetary targets were themselves aimed at
+restoring policy credibility. But when money growth volatility left policymakers with a choice
+between meeting their intermediate targets, and their ultimate objective of controlling
+inflation, the money targets were abandoned, as low and stable inflation was deemed the
+ultimate path to credibility.
+
+Monetary policy rules
+Another commonly proposed way of ensuring credibility and keeping inflation expectations
+anchored is by following a monetary policy rule.15 The best known of these rules is a
+Taylor rule, which in its most basic form, recommends that for each percentage point
+increase (or decrease) in inflation, interest rates should be raised (or cut) by more than
+one percentage point in response. In simple models, such a rule is sufficient to always
+bring inflation back to target after a shock. As a result, if a policymaker can promise to
+follow such a rule at all times, then inflation expectations should remain anchored.
+Unfortunately, backward-looking rules or policies such as standard Taylor rules do a
+particularly bad job of stabilising inflation when there are lags in the transmission of
+monetary policy. I discussed in Tenreyro (2022) how there are many sources of these
+lags, with one particularly visible one being the effect of monetary policy on mortgage
+rates. With a high proportion of fixed-rate mortgages, the majority of the effect of the large
+and rapid policy tightening so far on mortgage rates has not yet occurred, as indeed is the
+case for the overall impact of monetary policy on inflation.
+In the presence of policy lags, changing policy aggressively in response to past data can
+become destabilising, rather than stabilising. This is especially the case in response to
+shocks with large transitory components or following a succession of rate changes in one
+15
+
+See e.g. Taylor (1992), ‘Discretion versus Policy Rules in Practice’.
+
+Bank of England
+
+Page 11
+
+direction, when it can lead to overtightening. By the time additional policy changes have
+their largest effects on inflation, either the shock has already reversed, or the cumulative
+impact of past policy has already brought inflation back to target. As a result, a
+backward-looking policy rule is likely to become highly suboptimal, and inconsistent with
+the remit. A policymaker who adopted one would be faced with a similar choice as under
+an intermediate policy target: to stick to the rule in the hope of retaining credibility, or to
+abandon it and set whatever (discretionary) policy was better able to meet the inflation
+target and fulfil the remit, ensuring long-run credibility.
+The idea that monetary policy needs to be forward-looking is something that the MPC has
+stressed since its inception. In 1997, Mervyn King, then Chief Economist, set out that
+‘The guiding principle of monetary policy,’ was ‘to look ahead and act early’. And that the
+inflation target did ‘not mean setting policy according to the current rate of inflation’. The
+then future Chief Economist, Andy Haldane, had described such a strategy colourfully as
+‘the monetary policy dog…chasing one’s tail’. In the terminology of Haldane (1998) and
+Svensson (1997), policymakers instead needed to do ‘inflation forecast targeting’. Given
+lags between changes in monetary policy and their effects, a forecast becomes essential
+in setting appropriate policy.
+To sum up, my view is that there are no shortcuts to obtaining credibility, nor, in the face of
+very large shocks, to maintaining it. As the MPC has always done, it must interpret all of
+the economic data, including different measures of inflation expectations, and judge what
+they imply for its inflation forecast. It can then set policy, in line with the remit, to ensure
+inflation settles at 2% in the medium term.
+
+3. Forecasting and models
+I have discussed so far how policymakers need to fulfil their remits to maintain credibility,
+and that given the presence of policy lags, they need to produce forecasts to meet their
+inflation targets. An additional risk, then, is that if those forecasts are not accurate enough,
+policymakers could mistakenly set policy in a way that led to suboptimal outcomes.
+On the topic of forecasting, the Bank’s Court recently commissioned a broad review into
+the Bank’s forecasting and related processes during times of significant uncertainty. I
+would not try to anticipate what the conclusions of an extensive review might be. But as a
+soon-to-be outside observer of the MPC’s forecasts, I will offer some reflections of my
+own, which may help inform some of the current external debate.
+
+Forecasting
+There are three areas where I have found that the nature of the MPC’s forecast is not
+always well understood outside the Bank. First, the role of forecast uncertainty; second,
+
+Bank of England
+
+Page 12
+
+the difference between short-term and medium-term forecasts; and third, that the MPC
+only makes conditional forecasts.
+First, many discussions of the MPC’s forecasts tend to ignore the ever-present role of
+uncertainty. In the mid-1990s, the Bank brought in the innovation of using fan charts, to
+highlight that the forecast was a probability distribution. There is uncertainty about the
+shocks that will arise, about the structure of the economy, and about how policy affects it.
+The modal (or mean) points of the forecast are important for policy decisions, because
+they represent the balance of risks. But with the fan chart the MPC is stating that it expects
+outturns to come in above them, on a symmetric forecast, 50% of the time. Thus, any
+comparison of outturns with forecast needs to compare (over a long period of time) to the
+fan chart distributions, not just point estimates such as the mode.
+Second, on the type of forecast, the MPC uses different types of analysis, data and
+judgements when putting together its short-term forecasts: often for the next six months
+or so; and its medium-term forecasts, for one to three years ahead. Forecast misses at
+these different horizons would also have quite different implications for my policy votes.
+It may not be surprising that these often depend on different factors. Because data are
+published with a lag, short-term forecasts are often for things that have already happened,
+or will do in the near future. Hence, there tend to be a host of other timelier data, including
+from surveys and from the Bank’s Agents, which can give contemporaneous or nearcontemporaneous information about likely data outturns.
+When there are errors on short-term forecasts, they often come from data revisions, or
+from unpredictable data volatility, which contains little information about the future. As a
+result, errors on these short-term forecasts often do not have major implications for the
+appropriate stance of policy. Errors can also arise if usual statistical correlations between
+leading indicators and the data break down, as has occurred recently between the PPI
+output and CPI goods inflation data (Chart 5). Again, such discrepancies are often related
+to volatility, and less often to a persistent structural change in the relationships.
+
+Bank of England
+
+Page 13
+
+Chart 5: CPI goods (ex. energy) price inflation and producer price inflation
+
+Notes: The PPI series has been mean and variance adjusted to match the CPI series.
+Sources: Office for National Statistics and Bank calculations.
+
+In contrast, the medium-term parts of the forecast depend more on the MPC’s judgements
+on macroeconomic factors and behaviour. With fewer reliable leading indicators to go on,
+and more time for further shocks to arise, this horizon is more uncertain. But given the lags
+in policy transmission, it is the medium-term forecast that has been more relevant for my
+policy votes on the MPC.
+Third, a crucial but often ignored feature of the MPC’s forecast is that it is a conditional
+forecast. It is not a prediction of the absolute probabilities of different outturns occurring.
+Rather it is a forecast, or a scenario, of what might happen if the various conditioning
+assumptions came true. It should be interpreted and reported as answering the question ‘if
+all of these conditioning assumptions were to come true, how does the MPC think the
+economy would evolve?’ These include conditioning assumptions for asset prices, for
+government fiscal policy, and for energy prices. The biggest revisions in the MPC’s
+inflation forecasts over the past 18 months have come from changes in the conditioning
+path for energy prices, rather than changes in the rest of the forecast.
+In some cases – such as for asset prices – these conditioning assumptions are as good
+predictors of those variables as we have available. If the data turn out differently, then it is
+a sign that the news came from an unpredictable shock. In other cases – such as for fiscal
+policy – the conditioning assumption may not always be the best forecast for what is going
+to happen. By convention, the MPC always assumes that fiscal policy will follow the latest
+announced Government plans. But this need not constrain monetary policy decisions –
+
+Bank of England
+
+Page 14
+
+MPC members can always consider alternative assumptions that they deem more likely
+than the ones incorporated in our forecast.
+These three aspects of the MPC’s forecast – uncertainty, the role of nowcasting, and
+conditionality – are important to recognise when scrutinising forecast performance. It is to
+be expected that there will be differences between the data and point estimates obtained
+from the MPC’s forecast fan charts. And forecast errors in short-term forecasts often point
+towards noise and volatility in the data. Importantly, changes in the conditioning
+assumptions do not represent forecast errors, since the purpose of the forecasts is not to
+try to predict how those conditioning variables will evolve.
+
+Models
+In one of my first speeches as an MPC member (Tenreyro, 2018), I discussed one
+important input into the MPC’s forecasts and policy deliberations: economic models. The
+key point I made then is that although models are useful, the MPC’s forecasts are based
+on judgement, rather than unthinkingly following some model output. This had always
+been the case, and continues to hold true today. There is no sense in which the models
+can lead the forecasts astray, since the MPC is free to make any forecast it wishes,
+independently of any of the assumptions or results in any of the models it consults.
+This contrasted with some concerns about economic modelling, which focused on
+particular simplifications of specific models, and worries that these simplifications could
+mislead economists and policymakers. I explained how the way models were actually used
+in practice by the MPC (and other policymakers) should assuage such worries. As well as
+the overriding role of policymaker judgement in constructing any forecast, the MPC can
+draw on findings from a range of different models, both within the Bank and in the wider
+economics literature, depending on the question of interest.
+I employed the oft-used analogy of models being like maps. Maps are extreme
+simplifications of reality, but can still be useful for finding our way, provided we look at the
+right map at the right time. Different MPC members will have different preferred models at
+different times – such diversity of opinions is one of the advantages of having a committee.
+Indeed, at any time, an infinite number of models could be constructed to be consistent
+with almost any forecast. The role of the MPC is to piece together different intuitions from
+different models, data, and its own experience, to decide on the best forecasts and policy
+decisions.
+Ultimately, it is the MPC that decides on any forecasts (albeit with considerable help from
+Bank staff). This contrasts with some central banks where the staff produce forecasts
+independently of policymakers. Subject to my points about how to judge the success or
+otherwise of a forecast, any criticism of the forecasts should therefore be apportioned to
+us, the MPC members who decide on them.
+
+Bank of England
+
+Page 15
+
+Although their importance for the MPC’s forecasts is sometimes exaggerated, I discussed
+in 2018 other places where models are essential. In particular, we can use models to give
+quantitative estimates of different economic mechanisms, and to evaluate the effects of
+different policies. I have used models for these purposes recently, to learn whether
+counterfactual alternative monetary policy choices could have led to better outcomes over
+the recent period of very high inflation.
+
+Alternative policies
+Looking at policy simulations reveals that irrespective of any MPC forecasts over the past
+few years, it is questionable whether any realistic alternative monetary policy could have
+better fulfilled the remit. Using quantitative estimates is essential in any such discussion of
+policy, in order to allow a realistic assessment of its impact relative to other factors.
+These simulations (Chart 6) ignore much of the preceding discussion on forecast
+uncertainty. They ask what the MPC could have done if, hypothetically, it had been able to
+perfectly predict future outcomes back in 2021, including the rise in energy and other
+commodity prices stemming from the war in Ukraine.
+The purple shaded area in the chart shows CPI inflation up to Q1 this year, and the
+forecast beyond that, in our May MPR forecasts. The very steep profile of CPI inflation,
+with a rapid increase and a rapid fall, largely as energy-price increases reverse, is one
+reason why it would have been difficult for policy do anything materially different in line
+with the remit.
+
+Bank of England
+
+Page 16
+
+Chart 6: Counterfactual policy experiment
+May 2023 inflation forecast
+
+Per cent
+
+Per cent
+
+10
+
+10
+
+8
+
+8
+
+Inflation (after policy)
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+
+Example policy effect
+-4
+-6
+2021
+
+-4
+-6
+2022
+
+2023
+
+2024
+
+Notes: Policy effect calculated as the difference between market rate and constant rate inflation forecasts in
+the MPC’s November 2022 Monetary Policy Report, linearly scaled to the size needed to bring inflation to
+2% in 2024 Q1.
+Sources: Bank of England and Bank calculations.
+
+The orange area layers on a counterfactual, tighter monetary policy. Specifically, it shows
+a scenario where the MPC had raised rates far faster, starting in the fourth quarter of
+2021, to reach almost 7% by 2022 Q2 and a peak of around 9½% this year. This also
+happens to yield slightly more cumulative tightening than would be recommended by a
+simple backward-looking Taylor rule of the type I discussed earlier.
+The aqua line shows the counterfactual outcome for inflation. Despite raising interest rates
+far more, inflation still peaks close to double digits, at a little over 9%. The larger benefit
+would be next year, as the scenario is constructed so that inflation would come back to
+target at the start of 2024, rather than reaching close to 2% at the end of the year. But this
+would have had to be traded-off against the costs, in line with the MPC’s remit.
+Unemployment would have needed to be around 4 percentage points higher to deliver this
+extra reduction in inflation. And crucially, given our obligation to meet the inflation target in
+the medium term, inflation would undershoot the target significantly later in 2024 and likely
+to enter deflation in 2025.
+To summarise, even if everything, including the Ukraine war, had been perfectly
+predictable in advance, I judge that the increase in inflation we have seen would have
+been broadly as prescribed by the MPC’s remit. The remit tells us to focus on the
+medium-term inflation outlook, trading off inflation misses with real activity in the short run.
+
+Bank of England
+
+Page 17
+
+4. Central bank communications
+While always setting policy to best fulfil its remit, the MPC can also ensure trust and
+credibility by being open and transparent, and explaining its actions to the public. The
+Bank of England has long been at the forefront of transparent communication, initially
+through publication of quarterly Monetary Policy Reports (previously Inflation Reports). It
+has subsequently continued to take steps to enhance transparency, including publication
+of further details about its forecasts and publishing minutes of MPC meetings alongside
+votes.
+The Bank has also improved the communication of MPC decisions in myriad ways over my
+time on the committee. There have been improvements in the readability and accessibility
+of flagship publications such as the Monetary Policy Report and the MPC minutes. There
+has been a move towards layered communications at different levels of complexity for
+different audiences. And there are now many additional fora for both speaking to and
+listening to the views of both expert economists and the wider public.
+We should always be striving to seek further improvements in transparency and
+communications, however. Looking back on my own public communications, both
+individually and collectively with the committee, it is worth reflecting on what I have learned
+or where more could be done. There are three areas where I have come to think,
+speculatively, that there could be beneficial improvements.
+First, there may be scope for the MPC to redouble its efforts to explain the remit and the
+UK’s flexible-inflation targeting framework. This was naturally a focus of much MPC
+communication shortly after the committee was formed.16 Various speeches and papers
+explained the flexibility inherent in the inflation target; its forward-looking nature; the role of
+transmission lags; and trade-offs between the variability of inflation and the variability of
+output. We should not take for granted that this understanding of the framework will
+continue to remain present in people’s minds, a quarter of a century on.
+Second, it may be useful to continue using multiple scenarios to explain policy decisions,
+in turn de-emphasising central forecasts. This could help especially when there is large
+uncertainty over conditioning assumptions, as the MPC has found over the past few years.
+As discussed in Broadbent (2022), conditional statements and reasoning can often be
+misconstrued. So using more scenarios may help alleviate those difficulties, avoiding
+conditional forecasts being understood as unconditional ones.
+Third and finally, I have come to think that the advantages of MPC members publishing
+their own views (or paths) on future policy outweigh the potential costs.17 For example, I
+16
+17
+
+See e.g. King (1997), George (1999), Bean (2003).
+This could be done in speeches, not necessarily alongside the publication of the MPC’s forecast.
+
+Bank of England
+
+Page 18
+
+judged it helpful to publish my preferred future path for interest rates in Tenreyro (2022).
+As well as being transparent about my aims, expectations of future policy affect fixed-rate
+interest rates charged and paid to borrowers and savers today, and hence determine part
+of our current monetary stance. And there have been times when I have judged attempting
+to influence future interest rates would be a more effective way to achieve a given stance
+than changing Bank Rate. There are risks: policymakers’ views on future rates will change,
+and it is possible that expectations are misinterpreted as promises. MPC members are
+also individually accountable for their policy votes, which would make it more difficult for
+the MPC to publish a collective view on future policy. Any moves towards this type of
+guidance would certainly place a premium on effective communication.
+
+5. Conclusion
+The UK’s inflation targeting framework heralded a period of greater macroeconomic
+stability in the UK. However, the enormous shocks that have affected the economy over
+the past three years are the largest test the framework has faced. I have argued today that
+the MPC should respond to those shocks in the way it always has: interpreting the data
+through the lens of forward-looking forecasts; setting policy to return inflation to the 2%
+target in the medium term; and transparently explaining how it is doing so.
+With that forward-looking framework in mind, my vote to leave Bank Rate unchanged at
+my final policy meeting rested on what the latest data implied about the medium term. It
+also required looking ahead to assess whether the large cumulative amount of tightening
+in train was sufficient to bring inflation back to target.
+There had been some unexpected strength in recent inflation and wage growth data.
+Private-sector pay, which had been growing more slowly on high-frequency measures for
+several months, had accelerated. There had also been some stronger outturns for coregoods inflation. But translating those data into their implications for medium term
+inflationary pressures requires forming forecasts about how they will evolve.
+Forward-looking indicators had pointed towards falls in both pay growth and core-goods
+inflation over the rest of the year. There had also been an increase in services inflation,
+although that had been driven by components that held relatively little signal for future
+inflationary pressures. Overall, although some of the news was likely to unwind, the data
+could also be consistent with a slightly slower decline in domestic inflationary pressures. In
+time, however, the continued reversal of the energy and other cost-push shocks would
+weigh on goods inflation and, with a lag, on wage growth and services inflation.
+Added to this, recent outturns had been determined by a significantly less restrictive
+stance of policy than we now had in place. There had been rapid successive Bank Rate
+increases over a period of several months, which would take some time to exert additional
+
+Bank of England
+
+Page 19
+
+downward pressure on activity and inflation. More recently, there had also been a sharp
+increase in interest rates at longer horizons – the disinflationary impact of this would be
+more than sufficient to offset the recent data news, even in the unlikely event that all of
+that news proved to be persistent. Overall, I therefore judged that the tightening already in
+the pipeline would be sufficient to bring inflation back to, and most likely below, the target.
+This has been an uncertain time for the economy, and setting policy in such circumstances
+is challenging. But I have no doubt that the Bank of England and the MPC will continue
+doing their best for the people of the United Kingdom, whatever challenges lie ahead.
+I would like to thank Michael McLeay and Lukas von dem Berge for their help producing
+this speech and for advice and support over the years. I am also grateful to Andrew Bailey,
+Nicolò Bandera, Lauren Barnes, Natalie Burr, Matthieu Chavaz, Swati Dhingra,
+Richard Harrison, Jonathan Haskel and Huw Pill for helpful comments and contributions.
+The views are my own and do not necessarily represent those of the Bank of England or
+its committees.
+
+

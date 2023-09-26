@@ -1,0 +1,1134 @@
+Will the pandemic “scar” the economy?
+Remarks given by
+Jonathan Haskel, External Member of the Monetary Policy Committee, Bank of England, and
+Imperial College Business School, Imperial College, London
+
+Online webinar at the University of Liverpool Management School
+19 July 2021
+
+My thanks to Andrew Bailey, Jamie Lenney, Colm Manning and Marilyne Tolle for their assistance in preparation
+for this event. I would also like to thank Andrew Bailey, Lukas von dem Berge, Marko Melolinna, Mette Nielsen,
+Doug Rendle, Michael Saunders, Fergal Shortall, Matt Swannell and Matt Tong, for their comments and Tara
+Sinclair for use of Indeed data. Errors and opinions are my own.
+
+All speeches are available online at www.bankofengland.co.uk/publications/speeches
+
+1. Introduction
+Good morning everyone and thank you for having me here today. I’m delighted to be in Liverpool, albeit
+remotely, and very much hope to able to visit in person when the pandemic allows.
+I’d like today to talk about my view on the more medium-term prospects for the economy, what economists,
+perhaps uninvitingly, call the supply side. The exam question is: has the pandemic damaged the feasible
+capacity of the economy? In his acclaimed book, the author Sebastian Mallaby called Alan Greenspan “The
+Man Who Knew”. What was it that Mr Greenspan knew? Mallaby argues that Mr Greenspan was early to
+recognise that due to the IT revolution the US economy was capable of more productivity growth than others
+thought possible: that is, that the supply side was improving.1
+I don’t of course claim to have the clairvoyant powers of Mr Greenspan but I mention this as a motivation for
+why it might be important. In this speech, I’d like to make five main points:
+1) During the pandemic, investment, like in all recessions, has fallen. But that fall was concentrated in
+buildings and structures. Investment in intangibles, such as R&D and software, has stayed
+comparatively strong. This significantly reduces the risk of future scarring.
+2) The prospect of a shift in the way we work through increased working from home and, perhaps more
+importantly, the acceleration of digitalisation offers further scope for supply-side optimism.
+3) The labour market outlook has improved considerably in 2021 and the measures of labour market
+mismatch are falling.
+4) The anticipation of improved supply brings demand forward now and might add to inflationary pressure.
+5) In the immediate term, the risk of a pre-emptive monetary tightening curtailing the recovery continues to
+outweigh the risk of a temporary period of above-target inflation. For the foreseeable future, in my view,
+tight policy isn’t the right policy.
+
+Mallaby notes Mr. Greenspan relied on data by Fed staff, naming (p.493) Carol Corrado, whom I am fortunate to work with. Mallaby’s
+account suggests Mr. Greenspan knew about a lot of other things (p.674-5) such as monetary policy and housing finance and the threat of
+lowflation but “the productivity call was most noted” (p.675). His criticism is that little was done about financial fragility.
+1
+
+2
+
+Figure 1: Bank of England GDP forecasts
+
+Sources: ONS and Bank of England
+2. Some facts and forecasts to be explained
+Figure 1 shows the path of the economy since 2017 and three forecasts. The solid line shows that quarterly
+GDP fell 22%, from a peak of 100 in 2019 Q4 to 78 in 2020 Q2, followed by a 19% recovery to a mini-peak of 93
+in 2020 Q4. Thus an immediate lesson of the graph is to beware of soothsayers quoting gargantuan growth to
+grab headlines of record recoveries. When the economy is very low, almost any percentage rise is going to be
+very high.
+The graph shows three forecasts. Three points are worth making here.
+Firstly, comparisons of the dotted and dashed lines during the pandemic put into context the latest MPC forecast
+for the most likely evolution of output over the medium term. As you can see, the actual outturns in, say, the
+latter part of 2020 onwards, were stronger than we had forecast in February. One reason is that output was
+more robust to the tight restrictions placed on activity in 2021 Q1 than we had expected.
+Secondly, we still have some way to go to get back to the pre-pandemic level of 2019 Q4. The May 2021 MPR
+forecasted a return to that level by the end of the year, which would represent a mighty achievement but
+nevertheless is still two years without economic growth.
+Third, and the main subject of this talk, in the medium term Figure 1 shows that by the end of the May 2021
+MPR forecast, the UK economy was not expected to catch up with the path published in the January 2020 MPR.
+This shortfall is “scarring”. What causes it and how much is it likely to be?
+
+3
+
+3. Scarring and output
+I discussed the channels behind scarring in a speech in March (Haskel, 2021) and recapitulate and extend that
+discussion here.
+3a. Understanding economic output
+Output in the economy equals output per hour times the number of hours worked.
+𝑌=
+
+Y
+𝐻
+𝐻
+
+(1)
+
+Output per hour is productivity. The number of hours worked is the obverse of participation in the labour market
+and unemployment. So this is a neat split of the economy into factors affecting productivity and the labour
+market. And we may think of scarring as occurring if productivity and/or hours worked are lower than previously
+expected. So what determines productivity and hours and why might they deteriorate?
+
+i.
+
+Productivity
+
+One factor that affects productivity is the composition of the economy. At the risk of complicating the notation
+we can capture this by considering Y/H as the productivity of each industry, weighted by the share of that
+industry in total hours
+𝑌
+𝐻𝑖
+𝑌 = (∑ ( ) ( ) ) 𝐻
+𝐻 𝑖 𝐻
+
+(2)
+
+𝑖
+
+What then determines productivity in each industry? Output per hour in each industry depends on input per
+hour and the efficiency with which they are used. There are three key inputs. Human capital, denoted below by
+L, is a measure of education, skills and training; tangible capital K is the stock of machines, buildings and
+vehicles; while intangible capital R is the stock of paid-for knowledge (lines of computer code, drug formulae
+discovered by R&D, design blueprints, know-how in running supply chains). We may divide the “efficiency of
+operation” into two parts. One is the intensity with which inputs are used, Z, a somewhat short-term effect:
+overtime for example. The second is the state of generally available knowledge enabling inputs to be used
+better, A (also called Total Factor Productivity (TFP)): most airlines now use speedy boarding for example.
+Finally, economic theory suggests that under certain conditions, the inputs’ private contributions to the output
+produced per hour depend on their share of total costs, 𝑠𝑖. This gives
+𝑌
+𝐿 𝑆𝐿 𝑖 𝐾 𝑆𝑘 𝑖 𝑅 𝑆𝑅 𝑖
+( ) = 𝐴𝑖 ( )
+( )
+( )
+𝑍𝑖
+𝐻 𝑖
+𝐻 𝑖
+𝐻 𝑖
+𝐻 𝑖
+
+(3)
+
+4
+
+ii.
+
+Hours
+
+Turning to hours, we may write equation 4 which shows hours H are driven by the proportion of the population
+(POP) participating in the labour force (LF), the employment rate, N/LF where N are the numbers in employment
+and the average number of hours (H/N) they work.
+
+𝐻 = 𝑃𝑂𝑃 ∗
+
+𝐿𝐹
+𝑁 𝐻
+∗
+∗
+𝑃𝑂𝑃 𝐿𝐹 𝑁
+
+(4)
+
+In usual times the labour force consists of people in employment plus those willing to work, but unemployed:
+LF=N+U. With a furlough scheme2 in operation, let us define LF=NNF+U+F where NNF are those in employment
+but not-furloughed workers and those furloughed working at a second job, that is reflected in H, giving
+𝐻 = 𝑃𝑂𝑃 ∗ 𝑃𝐴𝑅𝑇 ∗ (1 − 𝑢 − 𝑓) ∗ 𝐻/𝑁 𝑁𝐹
+
+(5)
+
+Where PART is the labour-force participation rate and the last term is average hours per non-furloughed worker
+(which changes if furloughed workers are working a job besides their furlough).
+3b. Scarring and economic output
+Combining all this gives an expression for the level of output
+𝐿 𝑆𝐿 𝑖 𝐾 𝑆𝑘 𝑖 𝑅 𝑆𝑅 𝑖
+𝐻𝑖
+𝑌 = (∑ 𝐴𝑖 ( )
+( )
+( )
+𝑍𝑖 ( )) 𝑃𝑂𝑃 ∗ 𝑃𝐴𝑅𝑇 ∗ (1 − 𝑢 − 𝑓) ∗ 𝐻/𝑁 𝑁𝐹
+𝐻
+𝐻
+𝐻
+𝐻
+𝑖
+𝑖
+𝑖
+𝑖
+
+(6)
+
+We can define scarring as a situation whereby expected Y deviates from some counter-factual output, say the
+output that would have prevailed had the pandemic never occurred. We set f = 0 as the furlough scheme ends.
+Thus we write, subscripting counter-factual output by 0,
+𝐿 𝑆𝐿 𝑖 𝐾 𝑆𝑘 𝑖 𝑅 𝑆𝑅 𝑖
+𝐻
+(∑𝑖 𝐴𝑖 ( )
+( )
+( )
+𝑍𝑖 ( 𝑖 )) 𝑃𝑂𝑃 ∗ 𝑃𝐴𝑅𝑇 ∗ (1 − 𝑢) ∗ 𝐻/𝑁
+𝑌
+𝐻 𝑖
+𝐻 𝑖
+𝐻 𝑖
+𝐻
+=
+𝑌0
+𝐿0 𝑆𝐿 𝐾0 𝑆𝑘 𝑅0 𝑆𝑅
+𝐻𝑖
+(𝐴0 ( ) ( ) ( ) 𝑍0 ( ) ) ∗ 𝑃𝑂𝑃0 ∗ 𝑃𝐴𝑅𝑇0 ∗ (1 − 𝑢0 ) ∗ 𝐻/𝑁0
+𝐻0
+𝐻0
+𝐻0
+𝐻 0
+
+(7)
+
+where in the final terms of the numerator we suppose the furlough scheme is over.
+3c. Calculating scarring
+To compute post-pandemic scarring in, say three years’ time, we need to forecast the various terms in (7) over
+the next three years and compare their level to a counterfactual. That counterfactual we take to be the forecast
+for the economy pre-pandemic. Consider now the various terms.
+2
+
+I define both the CJRS (employees) and SEISS (self-employed) as the furlough scheme.
+5
+
+First, the capital terms follow mechanically from the observation that capital is formed through investment 𝐼x net
+of depreciation at rate 𝛿𝑥 such that:
+𝑥𝑡 = (1 − 𝛿𝑥 )𝑥𝑡−1 + 𝐼𝑥𝑡
+
+(8)
+
+where x is one of {K,R}. Thus to forecast future K and R relative to pre-pandemic, we apply the above equation
+using actual investment in 2020 and forecast investment to 2024.
+Second, we need to forecast A. The state of public knowledge depends at least in part on firms learning from
+other firms. For example, within about 18 months of the iPhone appearing, almost all smartphones looked just
+like it (gone were pull-out aerials, fold-down speakers and physical keyboards). The iPhone design spilled over
+to other firms.
+Theory and evidence suggests these “spillovers” effects are important and come from the sharing of intangible
+knowledge. Over the last 50 years the level of UK productivity has increased by 150 percent, of which
+investment in private capital accounts for slightly less than half, suggesting that knowledge spillovers are
+important. Now, tangible investments have a relatively straightforward mapping to productivity. Machines can do
+things faster and more accurately than humans so labour productivity increases when a worker is paired with a
+machine. Some intangible investments also have this straightforward interpretation. For example machines are
+faster and more accurate when paired with better software and some intangible investments like research and
+development directly feed into innovations. But a key difference is that tangible investments, like machines, are
+only used by the firms that own them, whereas intangible investments, like design in the iPhone example, can
+be used by others. Thus intangibles are also likely to generate positive spillovers as knowledge, ideas and best
+practices spread throughout the economy. That is, the social return from these investments is greater than the
+private return. In economic data this would manifest as higher aggregate TFP.
+Of course, some intangibles, such as patented medicines, will not spill over to others directly since they have
+intellectual property rights attached to them. But an extensive academic literature suggests an internal elasticity
+of intangible investment on productivity growth of 0.1 and an external elasticity of 0.2 (the internal elasticity
+captures the responsiveness of productivity to the industry’s own intangible investments while the external
+elasticity refers to the response to other industries’ intangible investments). All this suggests modelling A as
+depending on intangibles and the state of general knowledge T (e.g. publically funded science, or open source
+software):
+
+𝐴𝑖 = 𝑇𝑖 (𝑅)𝑖
+
+𝛾𝑖
+
+(9)
+
+where gamma captures the elasticity of TFP to the stock of intangible capital.
+
+6
+
+Third, if we are doing longer-term projections, we might assume that Z=1 and Hi/H is unchanged.3 So we can
+rewrite (7) as
+𝐿 𝑆𝐿 𝑖 𝐾 𝑆𝑘 𝑖 𝑅 𝑆𝑅 𝑖 𝐻𝑖
+𝛾
+(∑𝑖 𝑇𝑖 (𝑅)𝑖 𝑖 ( )
+( )
+( )
+( ) ) 𝑃𝑂𝑃 ∗ 𝑃𝐴𝑅𝑇 ∗ (1 − 𝑢) ∗ 𝐻/𝑁
+𝑌
+𝐻 𝑖
+𝐻 𝑖
+𝐻 𝑖
+𝐻 0
+=
+𝑆
+𝑆
+𝑆
+𝐿
+𝑅
+𝑘
+𝑌0
+𝐿
+𝐾
+𝑅
+𝐻
+(𝐴0 ( 0 ) ( 0 ) ( 0 ) ( 𝑖 ) ) ∗ 𝑃𝑂𝑃0 ∗ 𝑃𝐴𝑅𝑇0 ∗ (1 − 𝑢0 ) ∗ 𝐻/𝑁0
+𝐻0
+𝐻0
+𝐻0
+𝐻 0
+
+(10)
+
+We are now in a position to review the sources of scarring. Medium-term output will be below that previously
+projected if:
+a. On the productivity side, there is damage to inputs, such as skills (L) and capital (K and R). Notice
+that intangible capital R has a double effect, on both the inputs within the firm and outside the firm
+as well via spillovers.
+b. On the labour market side, population, the participation rate (PART) or average hours (H/N) has
+fallen, or the unemployment rate (u) has risen.
+Against this, the framework suggests there might be some sources of higher than expected output (Y greater
+than Y0):
+a. Working from home might raise PART (e.g. current child care providers with school-age children
+currently not working can now work from home during school hours).
+b. The digitisation of retail and health might raise K and/or R in those sectors and so raise productivity.
+All this suggests the extent of scarring is an empirical matter. We go on to discuss this next.
+4. Output losses during the pandemic
+4a. Output, productivity and hours over the pandemic
+Based on equations (1) and (5), Table 1 decomposes the fall in output over the pandemic, to date, into the
+productivity and hours effects and their subcomponents.
+
+3
+
+One might argue that there will persistent changes in industrial structure. See Saunders (2021).
+7
+
+Table 1: Output, productivity and hours over the pandemic
+Relative to
+2019q4
+Output
+levels
+
+Productivity
+Total
+
+Within Reallocation
+1a
+
+Memo
+
+Hours
+
+1b
+
+Total (H)
+2
+
+Population Participation
+aged 16+ rate = LF/POP
+(POP)
+(PART)
+2a
+
+2b
+
+Employment
+share of
+labour force
+
+Average
+hours
+(H/N)
+
+2c
+
+2d
+
+Unemployment Furlough* share
+rate, % (u) of labour force (f)
+
+0
+
+1
+
+Column
+
+(1*2)
+
+(1a*1b)
+
+3
+
+2019 Q4
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+1.00
+
+3.8
+
+2020 Q1
+
+0.97
+
+0.99
+
+0.98
+
+1.01
+
+0.98
+
+1.00
+
+1.00
+
+1.00
+
+0.98
+
+4.0
+
+2020 Q2
+
+0.78
+
+0.97
+
+0.89
+
+1.09
+
+0.80
+
+1.00
+
+0.99
+
+1.00
+
+0.81
+
+2020 Q3
+
+0.91
+
+1.04
+
+1.03
+
+1.00
+
+0.88
+
+1.00
+
+0.99
+
+0.99
+
+0.89
+
+2020 Q4
+
+0.93
+
+0.99
+
+0.97
+
+1.02
+
+0.93
+
+1.01
+
+0.99
+
+0.99
+
+0.95
+
+2021 Q1
+
+0.91
+
+1.00
+
+0.98
+
+1.03
+
+0.91
+
+1.01
+
+0.99
+
+0.99
+
+0.92
+
+Employment
+share excl.
+furlough
+
+4
+
+Average hours
+excl. furlough
+
+(2c-4)
+
+6
+( (2 / (2a*2b*5))
+
+0.0
+
+1.00
+
+1.00
+
+2.1
+
+0.98
+
+1.00
+
+4.1
+
+30.4
+
+0.68
+
+1.18
+
+4.8
+
+12.4
+
+0.86
+
+1.03
+
+5.1
+
+9.9
+
+0.88
+
+1.06
+
+4.8
+
+14.1
+
+0.84
+
+1.08
+
+(2a*2b*2c*2d) or
+(2a*2b*5*6)
+
+5
+
+Source: ONS, HMRC & author calculations
+Note: The within and reallocation productivity effects are derived from comparing total productivity to an industry hours weighted average of
+productivity holding hours shares fixed at the observed level of 2019Q4.
+* I define the furlough share as the full-time equivalent furlough divided by the labour force. Those on furlough consist of CJRS (employees)
+and SEISS (self-employed). In calculating full-time equivalent (FTE) furlough, I assume full-time furloughed work zero hours while those on
+flexi-furlough and the SEISS work 50% of their usual hours. This simplifying calculation may overstate the Furlough share in column 4 as
+fully furloughed workers may have a second job and therefore work some hours, or those on flexi-furlough or the SEISS work less than 50%
+of their usual hours; and the majority of those furloughed have come from sectors with a lower average hours than the whole economy
+average. See appendix for further details on the issues combining data from the LFS and job support schemes. LFS data as at 9th July
+2021,
+
+The table shows that in 2021Q1 output was still 9% lower than 2019Q4 levels. What are the proximate causes
+of this fall?
+Column 2 shows that the 9% loss of output can be entirely accounted for by hours worked, not productivity. That
+is because there has been a fall in within-firm productivity of 2% (column 1a), but this has been offset by
+increased across-sector productivity (column 1b), as the partial closure of the less productive, pandemic-hit,
+sectors (such as restaurants) mechanically lifted measured productivity (so-called “batting average” effects).
+The panel from column 2 onwards decomposes the 9% fall in total hours.4 Recall that we may write the
+decomposition of hours worked as;
+(𝐻 = 𝑃𝑂𝑃 ∗ 𝑃𝐴𝑅𝑇 ∗ (1 − 𝑢) ∗ 𝐻/𝑁) or 𝐻 = 𝑃𝑂𝑃 ∗ 𝑃𝐴𝑅𝑇 ∗ (1 − 𝑢 − 𝑓) ∗ 𝐻/𝑁 𝑁𝐹 ).
+We can see from Table 1 that, based on the left-hand equation, the total hours fall is almost entirely accounted
+for by the decline in the average number of hours worked per worker – H/N (this includes those who are working
+and those on a furlough scheme). We also see, via the right-hand equation, that the decline in average hours is
+
+The population figures for 2020 and 2021 in column 2a are based on pre-pandemic trends. New population data released in July 2021
+suggest that by 2020 Q4, the UK’s population relevant to weighting the LFS had grown to 53.5 million – a 0.2% annual increase from 2019
+Q4, the slowest rate of increase since the early 1990s. Employment in the ONS Labour Force Survey (LFS) are calculated by scaling the
+percentage of employees derived from survey responses to the size of the UK population, so employment may be revised down if the
+population are revised down. However, this should not materially affect the proportions in the LFS, since both the numerator and
+denominator are affected. As such the ratios in columns 2b, 2c, 3, 4, 5 and 6 should be largely unaffected.
+4
+
+8
+
+driven those on various types of furlough, who predominantly come from industries with lower average hours
+worked per worker. This decline more than offsets the higher average hours worked per non-furloughed worker
+in column 65 leading to the overall decline in average hours seen in column 2d.
+What about unemployment?
+As the table shows, from a trough of 3.8% in 2019 Q4, the unemployment rate peaked at 5.1% in 2020 Q4, and
+came back down to 4.8% in 2021 Q1. The peak unemployment rate seen is some way below that implied by a
+standard Okun coefficient given the collapse in GDP last year. GDP troughed 25% below pre-pandemic levels
+which, with a standard Okun coefficient of 0.4, implies the unemployment rate should have peaked at around
+14%.
+There are two main reasons for this. The first is that the government’s furlough scheme, now scheduled to end
+in late September, has kept workers in the official employment statistics rather than made them swell the ranks
+of the unemployed. At its peak during the first wave of the pandemic, an estimated 30% of the labour force were
+furloughed (column 4), equivalent to close to 11 million jobs. The second is an increase in the number of people
+not actively looking for work and therefore counted as not in the labour force. The labour force participation rate
+(column 2b) has fallen slightly since the onset of the pandemic as the lockdowns made it hard to look for work.
+The key take-away from Table 1 is that total hours have sharply decline because hours per worker have fallen.
+In turn, that is due to a rise in the furlough rate – where workers are working zero hours (or fewer hours than
+usual if on flexi furlough) – that has offset a rise in the average hours per employed worker. Thus the critical
+question for the future is what will happen to the employment prospects of those furloughed workers. I return to
+this below.
+4b. Investment and capital over the pandemic
+We now turn to the more medium-term considerations.
+To compute the outlook for capital, we start with changes in the stock of different types of capital during the most
+recent period.6
+Capital accumulates with investment as in equation (8). Table 2, final row, shows that overall business
+investment fell by a massive 12% in 2020. As a result the business capital stock barely grew: 0.1% against the
+pre-pandemic growth of 1.7% (column 3). Therefore relative to its pre-pandemic trend, the capital stock is now
+lower than it otherwise would have been, potentially reducing the productive capacity of the economy.
+
+5
+6
+
+As per the footnote under Table 1, I abstract from those fully furloughed workers who can take up a second job.
+I focus on business investment and capital.
+9
+
+Table 2: Investment and capital formation by asset, 2019Q4 to 2020Q4
+
+Source: ONS experimental productivity estimates
+Note: Column (1) is the calendar-year change in real chain-weighted gross fixed capital formation between 2019 and 2020. Column (2) is
+the change in the capital stock between 2019Q4 and 2020Q4. Column (3) is the average annualised growth rate of the capital stock over
+the period 2014Q4-2019Q4. Column (4) is the asset share in the measured capital stock. Column (5) is the asset share in measured capital
+services, the estimated share of capital income accruing to the asset. Intangible assets are capitalised research and development, software,
+databases and artistic originals. Tangible assets are other structures, machinery, and equipment.
+
+But there is an additional important message of Table 2 summarised in Figure 2 showing the sharp difference in
+the type of investment. As the figure shows, Intellectual Property Products investment has held up whereas
+investment in other assets has declined.
+Figure 2: Business investment components
+
+Source: ONS
+
+More detail on this is set out in Table 2, where the first three rows break out the capital stock and investment
+into three types of assets: buildings; tangible capital excluding buildings (i.e. plant and machinery including
+computers, structures and vehicles), and intangible capital (e.g. intellectual property). Column 1 shows the fall
+in investment in 2020 was concentrated in tangible capital and buildings, whereas intangible investment held up.
+The resilience of intangible investment over the pandemic should help mitigate scarring, thanks to the spillover
+effects I described above. In addition, as column 2 shows the fall of investment in buildings has not resulted in
+the commercial buildings capital stock falling far below trend (the stock of buildings is so large that a pause in
+10
+
+investment for a relative short time has a small effect). Further, as discussed below, production has switched
+locations from commercial premises to dwellings.
+4c. Scarring: output losses over the medium term
+Scarring from capital and spillover channels arises from this lower investment in 2020 and in the next few years,
+which changes capital stocks mechanically via equation 8. Thus to calculate scarring I have to forecast
+investment by asset type. I do this by relying on the latest (May 2021) Bank of England forecast for all
+investment (there is no forecast by asset type) and then make assumptions about what share of aggregate
+investment accrues to what asset types over the forecast period.
+The resulting scarring assumptions, set out in Table 3, turn out to be sensitive to the choice of these shares and
+the table shows some upper and lower bounds. For example, the contributions of R and spillovers from R have
+an upper bound of +0.6 and +2.1 respectively. These correspond to the assumption that the share of intangible
+investment stays high, as it was in 2020, in which case spillovers are enough to eliminate scarring and actually
+raise the level of output by 2024Q2. This scenario is in line with a story of a digitisation revolution on the back of
+the pandemic. Nonetheless it is worth noting that this high intangibles investment scenario would be a
+considerable departure from historical precedent. 7
+However if the share of investment tilts more towards its historic norms, as it might given the incentives of the
+government’s super deduction scheme which encourages investment in plant and machinery, then there is
+scarring, with lower bounds of -0.2 and -0.7 as the table shows. This is because the intangible capital stock
+depreciates faster than other asset types and also contributes to scarring through the spillovers channel.
+Table 3: Productivity scarring
+
+Source: Author’s calculations.
+Note: Sets out the contribution of different channels to the change in potential output by 2024Q2.The exercise conditions on the business
+investment forecast embedded in the January 2020 and May 2021 Bank of England forecasts. The capital channels multiply the change in
+capital stocks by each assets share of capital income 𝑠𝑖 . and overall capital share 𝛼 assumed to be a third. Capital stocks are builit up using
+
+We should note that in the most recent data (2021 Q1), IPP investment has fallen substantially, though the number is subject to greater
+uncertainty than usual and large revisions. The same pattern was observed last year but subsequently revised away.
+7
+
+11
+
+a perpetual inventory method with annualised deprecation factors of (0.05, 0.10, 0.30) respectively for buildings, tangible and intangible
+assets. The spillovers coefficient is applied in a range of [0.1 to 0.2] based on Corrado et al (2017). For more details see the appendix.
+
+The rest of Table 3 sets out some other potential scarring contributions. The human capital channel (L) arises
+from lost-on-the-job experience during the pandemic. This can be approximated by taking the lost hours worked
+relative to a pre-pandemic forecast8 and multiplying those lost hours by an experience coefficient. A reasonable
+estimate of this coefficient is the average value of an extra year’s experience on the job in terms of wages. This
+has been estimated to be in a range of 1-3 percent (e.g. Buhai et al, 2014), which is also a range consistent with
+what one would get using the UK’s Labour Force Survey. This coefficient would imply a year’s lost experience
+ultimately would lower productivity via human capital by 1-3 percent.9
+The contribution of tangible capital is negative; that is, the decline in tangible capital detracts from output
+whether tangible capital recovers or not. One source of uncertainty is the contribution of the commercial
+buildings capital stock as some of the decline in commercial buildings will likely be offset by the greater use of
+the domestic buildings capital stock through more working from home. We have assumed here that commercial
+buildings are unlikely to contribute to scarring although these calculations are not sensitive to that assumption
+(see Table A1 in the appendix).
+Overall, I consider a scarring number in the range of -1.5 to 1.5 percent to be a reasonable estimate. This
+encapsulates the numbers from the Bank of England’s latest May MPR, which estimated scarring along similar
+channels of about 1.25 percent. With a mid-point of 0% scarring, it paints a more sanguine picture than the May
+Report. By comparison, the OBR published a more pessimistic central scarring estimate of 3.0 percent back in
+March 2021, split evenly between lower capital, TFP, and labour supply.
+The broader point is that the overall scarring range arrived at in Table 3 is not just small considering the
+magnitude of the contraction experienced in 2020; it points to the possibilities of no scarring at all and even a
+boost to potential output relative to pre-pandemic. Of course, these calculations rely on all manner of
+assumptions. But the comparatively low numbers are founded on the observation that the pandemic has been
+combatted not only by the vaccines but also highly accommodating fiscal and monetary policy. Had there been
+no such response, it seems highly likely that scarring would have been much worse.
+5. Quantifying scarring: discussion
+We discuss now a number of further issues.
+
+8
+9
+
+We use the January 2020 Bank of England MPR forecast as our baseline
+Losses in schooling years during the pandemic will show up as future losses in human capital.
+12
+
+5a. Working from home
+Let’s start with remote working. The Decision Makers Panel survey suggests a shift to a hybrid model where
+working from home accounts for about 20% of hours worked post-pandemic, a rise from 7% pre-pandemic.
+What are the implications for the capital stock, productivity, and the supply of labour if this comes to pass?
+It is helpful to draw a distinction between the capital stock – the accumulated assets that grow with investments
+and shrink with retirements and disposals – and capital services, the flow of services derived from the
+productive capital stock that enters formula (3).
+How does that relate to home-working? The capital stock has not changed: commercial and residential buildings
+have not been demolished by the pandemic. What has changed is the structure of capital services. Levels of
+working from home have remained elevated throughout the pandemic, with peaks of almost half of working
+adults working remotely. This domestic capital allowed us to substitute the capital services of the desk,
+computer and internet connection we use in the office for a desk, computer and internet connection at home.
+The use of such “potential capital”, effectively turning domestic dwellings into commercially productive capital
+has allowed us to keep the flow of capital services from buildings largely constant throughout the crisis, in those
+sectors of the economy where working from home has been possible (Eberly, Haskel, Mizen, 2021).
+As well as massive substitution between commercial and domestic buildings, there has been a massive
+reduction in investment in commercial buildings. Such a falloff in investment would be indicative of future
+scarring had the potential capital of domestic buildings been unavailable. But the use of such “potential capital”
+suggests this is potentially a minor effect. It also suggests that in measuring the capital services in the
+economy, we should allow for domestic capital (many, although not all, current measures consistent only of
+business capital services).
+If working from home has swapped one type of capital for another, how might it affect productivity? Equation 6
+suggests at least one effect: if working from home was intrinsically more productive and hours shifted towards
+more home-working, then productivity levels will rise. What do we know about this?
+First, many assume that working from home must be more productive since people don’t have to commute, but
+this is mistaken. Not commuting might relieve stress and create more hours but that is not more productive in a
+GDP-per-hour-worked sense: instead it is a reallocation of non-work time from commuting to some other
+activity. Second, working from home is of course concentrated in a few sectors: it is impossible for service
+activities such as hotels, petrol stations and on-premises food and drink.
+Third, of those who can work from home, the findings on relative productivity are very mixed. In an oft-cited
+study of China call-centre workers who were randomly assigned to work from home, the Stanford researcher
+Nick Bloom and his colleagues (2015) found workers’ productivity rose quite substantially, by 13%.10 Another
+
+It is worth noting that the workers in the experiment were a selected group: they had to have a fast internet connection, spare room and
+no children at home.
+10
+
+13
+
+(quasi) randomised study, of patent examiners, found their productivity fell after working from home, with more
+errors and more re-examination needed.
+So what can we conclude? My interpretation starts with the observation that jobs are a bundle of tasks. A job
+which consists of a relatively small number of routine tasks – answering the phone and dealing with routine
+inquiries for example – is likely to be just as productive at home. Other jobs, which consist of a bundle of
+interrelated tasks – answering the phone, attending meetings, interacting with other employees – are likely less
+productive at home given the current difficulty of duplicating all aspects of human interaction electronically. For
+those less routine jobs, working from home is still likely less productive, although the fact that the output losses
+from successive lockdowns have got lower is consistent with an improvement in the relative productivity
+disadvantage of working from home. That relative improvement is likely to continue especially if other
+circumstances change (having schools open for example). Of course, whether more labour is working from
+home as the relative productivity of home-working rises depends on the ability to substitute work between home
+and work premises. If workers are more productive at home then a given output level requires fewer of them,
+which means less working from home. But if it is easier to substitute activity to home, then there is more
+working from home. Along with the observation that any positive productivity effects from home-working
+requires more investment in intangibles, to address the lack of the serendipitous interactions that take place in
+the office, I am doubtful of a strong productivity rebound from simply more working from home, but rather from
+the turn to a different form of activities such as digitalisation (see below).
+Finally, working from home could increase labour-force participation, for example if more widespread remote
+working brought down barriers to work, such as lack of mobility or geographical distance. This could encourage
+people with disabilities, older workers and workers with caring responsibilities to participate in the labour force,
+increasing the supply of labour in the economy. I discuss participation more below.
+5b. Digitalisation
+Figure 2 suggests a recent acceleration of digitalisation and automation/AI. The pandemic has acted as a
+strong incentive to reduce in-person contact. As Figure 2 suggests, the successive lockdowns have accelerated
+the digitalisation of exchange between customers and businesses (e-commerce, interactive digital fitness), and
+between businesses (cloud-based transactions and service provision). And home-working has increased the
+business use of online technologies (video and communications technologies; cloud-based identity verification
+technologies).
+
+14
+
+Figure 2: Digitalisation and automation during Covid-19
+
+Source: McKinsey Global Business Executive Survey, July 2020, taken from IMF (2021).
+
+Such an acceleration could be sustained especially in health care, where, for example, NHSX in the UK is
+moving towards much more remote monitoring of patients with routine diseases for whom visiting hospital is
+highly inefficient.
+How does this fit in with the above? Digitalisation is a mix of tangible and intangible investment. For example, a
+pulse oximeter is a small electronic device that clips onto a patient’s finger measuring pulse and blood oxygen.
+Used at home and linked to an app which it sends data to clinician who can then send back advice. 11 The
+sensor and comms equipment is tangible investment, the software that digitises information intangible
+investment. This could potentially raise productivity. 12
+5c. The labour market
+I discuss participation and mismatch. As we saw in Table 1, the key is what happens to currently furloughed
+workers.
+i.
+
+Participation
+
+Labour force participation is difficult to forecast, having fluctuated quite a bit in recent years. After reaching a
+series high in February 2020, it has since fallen by over a percentage point and concerns exist around the
+degree to which it will recover following the pandemic. Much of these concerns relate to the over 50s group that
+account for about a quarter of the decline in activity13 and around a fifth of those on furlough at the end of May.
+Two questions arise. Will those who moved to inactivity return to the labour force? And to what extent will those
+
+See https://www.nhsx.nhs.uk/blogs/digital-home-care-for-people-with-coronavirus/, https://www.england.nhs.uk/blog/a-simple-device-hasbeen-a-lifeline-during-the-pandemic-and-could-change-how-we-provide-care-for-good/ and
+https://issuu.com/juliecrompton/docs/january_21interactive/s/11689784?utm_source=Focus%20on%20tech&utm_medium=twit&utm_campaign=mc%20mag%20SPRING%2021
+12
+Of course, the measurement of health-sector productivity would have to pick up these digitalisation effects.
+13
+Roughly 50% of the decline is driven by those ages 16-24. One could assume that this age group returns to the labour force once fully
+vaccinated.
+15
+11
+
+on furlough in this age group opt to take early retirement? Whilst we do not know the answer to these questions
+in the particular circumstances of the pandemic, historical evidence is that participation rates are quite elastic.
+Figure 3 shows the often sharp moves in over-50s activity rates, on top of the secular rise in their activity over
+the past 20 years. A permanent fall in activity would be a significant deviation from this past behaviour.
+Figure 3: Activity rate for the over 50s
+
+Source: ONS
+
+ii.
+
+Mismatch
+
+Understanding the level of mismatch14 in the labour market – one of the drivers of long-run unemployment – has
+taken on more importance as the economy emerges from Covid restrictions. The basic measure of industry
+mismatch starts from the idea that mismatch is high when unemployment is high in one sector but job postings
+are high in another sector (in geographical mismatch, when unemployment is high in one region but job
+openings are high in another). Thus mismatch is high when the co-variance between the pattern of
+unemployment and vacancies is low. Mismatch is also high, regardless of co-variance, when unemployment
+and vacancies are widely dispersed (since the process of matching workers with vacancies is easier with less
+dispersion).
+Figure 4 shows a number of industry mismatch indicators following Sahin et al (2014). The basic index,
+reflecting the co-variance and dispersion of the unemployed and vacancies, is shown in the blue line. As you
+can see, after rising sharply at the onset of the pandemic, this has fallen back in the more recent data to May.
+To account for furlough, we can add fully-furloughed workers to unemployment (green line) and fully-furloughed
+workers who report searching for work to unemployment (pink line).
+What do we learn from the fact that the two lines move in opposite directions? The elevated green line is
+consistent with the idea that furloughed workers are in industries with few vacancies, which makes sense, if
+
+14
+
+Persistent mismatch can be a sign of large structural change in the economy.
+16
+
+those industries have been closed down. The falling blue line is consistent with the idea that if there are
+vacancies, furloughed workers are searching. If vacancies emerge as the economy unlocks (the last data point
+is May 2021) then furloughed workers should start searching.
+Figure 4: Mismatch
+
+Note: Data to May 2021. Estimates of sectoral mismatch are based on Sahin et al (2014). The blue line is the standard approach using
+official unemployment and vacancies. The green line adds those on furlough by sector to the unemployment series. The pink line adds those
+on furlough by sector who are searching for work to the unemployment series. Furlough figures to May are based on those on full furlough.
+
+It is an encouraging sign that these measures show the level of mismatch appears to be declining sharply.
+Figure 5 looks at another dimension of vacancies, namely their duration. Vacancy duration has declined
+markedly since 2019. The fact that vacancies in 2021 are currently being filled very quickly suggests a healthy
+matching process.
+Figure 5: Days job advert remains online
+
+Source: Indeed. Note: Duration measures the number of days a job posting is visible on the www.Indeed.co.uk website. Averages are; 2019
+= 25 days; 2020 = 22 days; 2021 (to May) = 18 days.
+
+17
+
+Another indication of whether the furloughed will return to employment at the end of the scheme i.e. if their skills
+still match the job requirements, is to look at those on partial and full furlough. A sign that at least some
+furloughed workers might not be re-absorbed is if the unwind in furlough following the easing restrictions results
+in only those on partial furlough, who are more attached to their place of work and utilising their skills, regaining
+their jobs. Not taking fully furloughed staff back might imply that their skills are no longer useful. As Figure 6
+shows, encouragingly, much of the decline in furlough seems to have been in full-time furlough, with workers
+presumably returning to employment. One caveat here though is that we don’t know if these people are going
+back to work or to inactivity.
+Figure 6: Furlough share
+
+Source: HMRC CJRS
+Note: Monthly figures refer to the end of month. Percentages indicate the share of total furlough for that type. These will not sum to 100 due
+to unclassified types of furlough in the dataset.
+
+Finally, what of the most recent weeks? The timeliness of our mismatch estimates is limited by the LFS, where
+data for unemployment is currently available up to May. However in recent months the variation in vacancy
+dispersion has been driving the mismatch index. ONS vacancy data is already available for early June, and
+published Adzuna data covers up to early July. Figure 7 shows that the variation in ONS vacancy data closely
+matches the movements in the variation of Adzuna online vacancy data. As the figure shows, using data up to
+9th July, there may have been some downward pressure on mismatch.15
+
+It’s worth highlighting that the sectoral vacancy data are assembled at a relatively high level of aggregation, such that within-sector
+movements are masked.
+15
+
+18
+
+Figure 7: ONS and Adzuna vacancy data
+
+Source: ONS. Note: ONS June job vacancy snapshot was taken on 4th June. Weekly Adzuna online vacancy data to 9th July.
+
+6. Supply and policy
+So far I’ve discussed some reasons for optimism on the supply side of the economy. But what does this mean
+for monetary policy?
+You might imagine that more supply means looser monetary policy. After all, more efficiency in the economy
+surely means lower prices and hence less inflation. This creates more room to “run the economy hot”. But there
+are two countervailing effects. More efficiency raises future growth prospects. If consumers are at all
+forward-looking, they might start spending and investing now in anticipation. That boosts demand, in advance
+of the rise in supply, and so inflation. Thus more supply means tighter monetary policy. A second effect is that
+more growth might raise the underlying “neutral” rate of interest, so-called “R star”, necessitating a rise in the
+policy rate, other things equal. How then are we to think this through?
+Regarding the longer-run expected interest rate R star, economic theory models R* as a function of time
+preference (patience), population growth, productivity growth and risk. Expected productivity growth raises
+expected future incomes and expected future living standards. The fact that tomorrow looks better than today
+depresses demand for saving in safe assets, which causes their price to fall (yields to rise) as households and
+businesses look to invest in productive assets for tomorrow and consume more today with greater confidence
+about tomorrow. This is consistent with some of the moves seen in real government bond yields since the start
+of year. They have moved closer to their pre-pandemic levels and signalled greater certainty of a return to
+pre-pandemic economic conditions. Now, the R* is related to output growth and if levels are higher than
+expected growth might be somewhat higher. But recall that a return to pre-pandemic conditions does not mean
+roaring growth but rather a return to the relatively low levels of productivity growth that prevailed after the
+financial crisis of around ½% a year, and the accompanying relatively low interest rates.
+Turning to “running the economy hotter”, monetary policymakers make judgements concerning the output gap
+today defined as
+𝑂𝑢𝑡𝑝𝑢𝑡 𝐺𝑎𝑝 =
+
+𝑦−𝑦 ∗
+𝑦∗
+
+[11]
+19
+
+Where y* is the level of feasible supply. An output gap is an imbalance between demand and supply that, all
+else equal, leads to a deviation of inflation from its target.
+Supply (y*) is generally thought to be slow-moving because it takes time for the economy to efficiently reallocate
+capital and labour and scale up new ideas. But y* is not always slow-moving. The pandemic is a timely
+illustration of this. Prior to 2020 the MPC judged y* to be growing at around 1-1½% per year. But in 2020 actual
+output fell by 20% percent. Did supply carry on growing at 1-1½%? No, the MPC judged that supply fell closely
+in line with demand, as the same economic restrictions that caused demand to fall by 20% also constrained
+supply by forcing businesses to close and furlough workers. Therefore, despite the seemingly vast amounts of
+physical spare capacity in 2020, in the sense that no capital was destroyed, in an inflationary sense there was
+much less spare. As the economy reopens and we see demand rebound, we will also see supply rebound
+quickly as furloughed workers return to their jobs and companies scale up to higher levels of operation.
+Looking past these sharper recent movements in supply, how should one think about less scarring in the context
+of the output gap? Less scarring means higher y*, as the productive capacity of the economy is closer to its
+pre-pandemic trend. For a given y, equation 11 would suggest a more negative output gap in the medium term
+due to higher supply and hence lower inflation.
+So what determines y? How can the possibility of future changes in supply change demand now? When
+households are sufficiently forward-looking, anticipated higher supply in the future should raise wage
+expectations, brighten employment prospects and encourage investment and consumption now. Indeed, y
+might even get ahead of y* if, for example, consumers start spending now in anticipation of a better future path
+of income Thus if there is more supply there is no presumption that monetary policy should be looser. Rather,
+the implications for monetary policy can be thought of as a race between the additional capacity, implying loose
+policy, but additional demand, implying tighter policy.
+Figure 8 gives a sense of that race by considering the paths for monetary policy under two modelled scenarios.
+It plots the response of a model economy to a 1 percent increase in underlying productivity, TFP. The dashed
+line shows the response when the change in TFP occurs at the start of the period, but is unanticipated and the
+solid line shows the response when it occurs in four quarters time, but is anticipated. Ultimately, in both
+scenarios the level of TFP is 1 percent higher, but as the top row shows, output and productivity rise by a bit
+more than 1 percentage point, thanks to a higher capital stock.
+The lower panels show how inflation and the policy rate vary, with the interest rate modelled as a Taylor rule
+(that is, the Central Bank responds to deviations of inflation from target). So the policy rate should be thought of
+as an illustrative prediction of how a fictional Central Bank might respond to this change. As the lower row
+shows, inflation and the monetary policy rate eventually return to their starting position.
+What is different however is the initial response of inflation and the policy rate. When households anticipate the
+TFP increase or ‘better times ahead’, they start to consume and invest more today in anticipation, despite the
+fact that supply is not quite ready for them to do so. This creates a positive output gap which would cause a
+20
+
+rule-based policy maker to tighten policy to keep inflation in check: as shown by the two peaking solid lines. In
+the unanticipated case however, prices fall, as the time it takes for demand, prices, wages and investment to
+adjust to the new level of productivity creates a temporarily negative output gap. In this instance, the monetary
+policy maker would respond by temporarily loosening policy: the dotted lines.
+
+Figure 8: Anticipated v unanticipated shocks
+
+Note: Figure plots the simulated responses for selected variables under two scenarios in a medium scale DSGE model
+based on the Bank of England’s own forecasting model Compass (2013). The unanticipated scenario shows the response
+to an unanticipated one time one percent increase in TFP. The anticipated scenarios shows the response when the
+increase in TFP is correctly anticipated by households and businesses four quarters ahead. Inflation is the difference in
+percentage points from the target. The policy rate is the change in the level of the short-term interest rate set by the
+Central Bank under a Taylor rule. Output and productivity are percentage differences from a counterfactual of no change in
+TFP.
+
+How does this relate to where we are today? I would argue that the forward-looking scenario is relevant. The
+vaccines have created a future roadmap out of the economic restrictions created by the pandemic. The data
+would seem to accord with this view as well. Forward-looking measures like vacancies are now above their
+pre-pandemic level, forward-looking PMIs are generally net positive, input prices have risen significantly and
+CPI inflation moved above target in May for the first time since July 2019. 16 So should real policy-makers follow
+the mechanical Taylor Rule and raise rates?
+I would argue not for a number of reasons.
+
+The savings rate might be regarded as another reflection of forward-looking behaviour, but of course, it depends upon other factors, such
+as attitude to risk, which are likely elevated at the moment.
+21
+16
+
+The first is base effects. Starting in March 2020 when oil prices fell by over 60%, energy prices weighed on CPI
+inflation over 2020 by around 1 percentage point on average. Had energy prices stayed at that low level until
+today, we’d have expected a purely mechanical rise in the CPI inflation readings from April, reflecting base
+effects. These refer to the effects of large changes in prices dropping out of the annual comparison of the CPI
+index. Since March 2020 oil prices have actually rebounded and now sit 40 percent above their pre-pandemic
+level. This will provide an even greater temporary boost to expected CPI inflation readings to above 3 percent
+by the end of the year. Almost half of that increase from today is accounted for by energy prices. Base effects
+are also present in other key indicators like output and wages. The drop in pay in the spring and summer of
+2020 will continue to distort annual comparisons.
+Secondly, like in the simulation above, these pressures and erratic data readings should be temporary and
+therefore could be looked through. This was our policy in October 2011 when CPI inflation rose as high as
+5 percent on the back of oil prices rising to over 120 dollars a barrel. It was also the case after the Brexit
+referendum when CPI inflation rose to 3 percent in 2017 after sterling’s depreciation of around 20 percent in
+2016. What’s important is that people understand these are temporary pressures and, like in the simulation
+above, they understand that if these temporary pressures were to become more permanent the central bank
+would react accordingly. So far the stability of inflation expectation readings indicates the temporary nature of
+these pressures is well understood but I will watch closely for any signs that this might change.
+Thirdly, it is important to remember that even if the future looks brighter, we are at the moment fighting to get
+back to where we were and we are not there yet. The Delta variant currently spreading exponentially in the UK
+has an R number of 1.5.17 It is now showing signs of rapid progress in our European neighbours. A recent study
+by my colleagues at Imperial College,18 published on GOV.UK, shows the impact of changes in R on
+hospitalisation rates. The simulations show that in the central scenario where the Delta variant is 65% more
+infectious than the UK (now Alpha) variant, hospital bed occupancy would peak at around 32,000. But if Delta
+turned out to be 80% more infectious than Alpha, the peak occupancy would jump to nearly 90,000 beds – that’s
+over double the 40,000 beds occupied at the peak of the second wave in January. The sensitivity of the public
+health situation to changes in Delta’s relative infectiousness, as documented in this study, is a reminder that
+new variants can knock us off course. The possibility of further mutant strains, pressures on the NHS and many
+“pinged” workers make our path to recovery fragile.
+Finally, the majority of the recovery to date has occurred under the protective blanket of the government
+employment schemes, loan schemes, tax relief and insolvency/eviction protections. Many of these have only
+just recently expired and more will expire by the autumn, notably the furlough scheme, the self-employed
+support scheme and the £20 Universal Credit uplift which are scheduled to end in September. On Universal
+Credit, notice that the implied reductions are about 25% for a single adult and 17% for couples.19 Tax relief
+
+See Delta variant could cause significant third wave - latest Imperial modelling | Imperial News | Imperial College London
+See S1289_Imperial_Roadmap_Step_4.pdf (publishing.service.gov.uk)
+19
+The £20 per week boost has set the monthly basic rate in 2020-21 at £410 for a single adult, and £594 for a couple, rather than £323 and
+£507 respectively (adults aged 24 or younger receive reduced rates; additions for children, health conditions and caring are unchanged).
+22
+17
+18
+
+policies such as the hospitality VAT reduction and the business-rate holiday are also being gradually phased out
+by year-end or early next year.
+7. Conclusion
+The immense support for the economy over the pandemic looks like it might have averted deep scarring. The
+anticipation of an improved future might well feed into demand today and so add to inflationary pressure. But
+much of inflation will be high temporarily due to the low base from which prices are rising. In addition the
+economy is fully not recovered yet and faces two headwinds over the coming months: the highly transmissible
+Delta variant and a tightening of the fiscal stance. Against this backdrop, risk-management considerations lean
+against a pre-emptive tightening of monetary policy until we can be more sure the economy is recovering in a
+manner consistent with the sustained achievement of the inflation target. For now, tight policy is not the right
+policy.
+
+23
+
+References
+Bank of England (2020). Monetary Policy Report, January 2020
+Bank of England (2021). Monetary Policy Report, February 2021
+Bank of England (2021). Monetary Policy Report, May 2021
+Bloom, N., Liang, J., Roberts, J. and Ying, Z. (2015). Does Working from Home Work? Evidence from a
+Chinese Experiment. The Quarterly Journal of Economics, Vol. 130, Issue 1, pp.165-218
+Buhai, S., Portela, M., Teulings, C.N., and van Vuuren, A. (2014). Returns to tenure or seniority?
+Econometrica, Vol.82, No.2, pp.705-730
+Corrado, C., Haskel, J., and Jona-Lasinio, C. (2017). Knowledge Spillovers, ICT and Productivity Growth.
+Oxford Bulletin of Economics and Statistics, Vol. 79, Issue 4, pp.592-618
+Eberly, J, Haskel, J and Mizen, P., (2021), “Why has GDP fallen so little in the COVID Pandemic? “Potential
+Capital” and Economic Resilience”, draft paper. Outline slides
+Goodridge, P., Haskel, J., and Wallis, G. (2017). Spillovers from R&D and Other Intangible Investment:
+Evidence from UK Industries. Review of Income and Wealth, Vol. 63, Supplement 1, pp.S22-S48
+Griliches, Z. (1998). R&D and Productivity: The Econometric Evidence. University of Chicago Press
+Haskel, J. (2021). Remarks on challenges to the economic outlook. Speech given on 5 March 2021
+International Monetary Fund. (2021). Boosting Productivity in the Aftermath of COVID-19
+Mallaby, S. (2016). The Man Who Knew, The Life and Times of Alan Greenspan. Bloomsbury Publishing.
+Office for Budget Responsibility. (2021). Economic and fiscal outlook, March 2021
+Sahin, A., Song, J., Topa, G., Violante, G.L. (2014). Mismatch Unemployment. American Economic Review,
+Vol.104, No.11, pp.3529-64.
+Saunders, M. (2021). The inflation outlook. Online webinar given on 15 July 2021
+Sonabend, R., Whittles, L.K, Imai, N., Knock, E.S., Perez-Guzman, P.N., Rawson, T., Mangal, T., Volz, E.M.,
+Ferguson, N.M., Baguelin, M., and Cori, A. (2021). Evaluating the Roadmap out of Lockdown: modelling step
+4 of the roadmap in the context of B.1.617.2. Imperial College London
+Woodward, B. (2001). Maestro: Greenspan’s Fed and the American Boom. Simon & Schuster.
+
+24
+
+Appendix
+Table A1 provides more detail concerning the calculations in Table 3.
+Table A1
+
+Note: Table sets out the contribution of capital scarring channels to the change in potential output by 2024Q2.The exercise conditions on the
+business investment forecast embedded in the January 2020 and May 2021 Bank of England forecasts. The capital channels multiply the
+change in capital stocks by each assets share of capital income 𝑠𝑖 and overall capital share 𝛼, assumed to be a third. Capital stocks are built
+up using a perpetual inventory method with annualised deprecation factors of (0.05, 0.10, 0.30) respectively for buildings, tangible and
+intangible assets. A spillovers coefficient is 𝛾 = [0.1,0.2], (0.2 shown above) is applied to the change in the intangible captial stock based on
+Corrado et al (2017). Total scarring from non-human capital is therefore: 𝑑𝑦 = 𝛼(𝑠𝑏 𝑑𝑘𝑏 + 𝑠𝐼 𝑑𝑘𝐼 + 𝑠𝑇 𝑑𝑘 𝑇 ) + 𝛾𝑑𝑘𝐼 .
+
+In the baseline calculation buildings are assumed to not effect the level of capital services. Each column (1) - (6)
+represents a different assumption about the share of investment accruing to different assets over the period
+2021Q1-2024Q2 in the May 2021 forecast. (1) assumes a slow linear in time unwind of investment shares from
+their observed shares in 2020 to their 'historic' 2015-2019 average share by 2024Q2. In (2) investment shares
+immediately revert to their historic average in 2021Q1. In (3) they revert as a function of the difference in the
+level of investment between the two forecasts. In (4) shares stay at the 2020 level throughout the forecast. In (5)
+real buildings investment remains flat at the 2020 level and residual business investment is allocated to tangible
+and intangible investment in line with the historic relative shares. (6) repeats (5) but allocates to tangible and
+intangible investment in line with the 2020 relative shares.
+Furlough share
+As stated in the footnote to Table 1, the furlough share (column 4) is the full-time equivalent furlough divided by
+the labour force. Those on furlough consist of those on the CJRS (employees) and SEISS (self-employed). In
+
+25
+
+calculating full-time equivalent furlough, I assume full-time furloughed work zero hours while those on flexifurlough and the SEISS work 50% of their usual hours.
+These simplifying assumptions mean that the furlough share may be overstated – and consequently, boost the
+average hours excluding furloughed workers in table 1 (column 6).
+While we count a fully furloughed worker as working zero hours, they are allowed to take up another job and so
+could appear in the LFS data in column 2d, boosting average hours worked.
+The assumption that flexi-furloughed staff work 50% of their hours is derived from the LFS micro data (LFS data
+as at 9th July 2021) although this, in reality, can vary quarter to quarter. The assumption that those who applied
+to the SEISS work 50% of their regular hours is simply matching the flexi-furlough assumption above.
+The labour force used as the denominator in column 4 of the table may overstate the true portion of workers on
+furlough. The furlough data is published by HMRC and is on a per worker basis, i.e. a person can work several
+jobs and thus could appear in the furlough data more than once. The labour force data surveys people to see if
+they are in employment or not (but are searching for work). A person is counted as being in employment as long
+as they worked at least one hour in the previous week or who had a job and were absent. It does not distinguish
+if the person had more than 2 jobs.
+Finally the majority of those furloughed have come from sectors with lower average hours per worker than the
+typical worker. But, for the purposes of Table 1, we treat these people as working the typical average hours
+worked. This may overstate the FTE furlough share and thus the average hours excluding furlough (columns 5
+and 6 in Table 1).
+
+26
+
+

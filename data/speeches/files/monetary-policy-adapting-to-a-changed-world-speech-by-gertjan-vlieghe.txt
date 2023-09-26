@@ -1,0 +1,1377 @@
+Monetary Policy: Adapting to a Changed World
+
+Speech given by
+Gertjan Vlieghe, External Monetary Policy Committee Member
+2019 MMF Monetary and Financial Policy Conference
+Bloomberg, London
+15 October 2019
+
+I would like to thank Rodrigo Guimaraes, Lennart Brandt, Richard Harrison, Ben Broadbent, Michael
+Saunders, Silvana Tenreyro, Clare Macallan, Jamie Lenney, Marco Garofalo for comments and help
+with data.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+Today I want to discuss what I see are some key differences in how monetary policymakers think about the
+economy and set policy, relative to the pre-crisis period.
+I want to focus on three major changes.
+First, structural questions like the level of the neutral interest rate have become at least as important as
+cyclical questions like the size of the output gap.
+Second, monetary policy has more tools than it had before. And, thinking beyond monetary policy, central
+bank policy has added even more tools.
+Third, there currently is an asymmetry in the power of monetary policy: our ability to ease further is
+significantly smaller than our ability to tighten.
+I will discuss these in turn, and then consider the implications for how we set monetary policy in the future. I
+will conclude with some remarks about the current outlook.
+1. Structural vs Cyclical questions
+We now spend relatively more of our time on structural questions like the level of the neutral interest rate, or
+r*, than on cyclical questions like the size of the output gap.
+Previously, we mostly worried about the output gap. The neutral rate and productivity growth were believed
+to be fairly stable.
+Policy roughly followed growth. With a fairly stable level of potential output growth, high growth meant the
+output gap was shrinking, and would lead to interest rates going up. Low growth meant the output gap was
+widening, and interest rates would go down.
+The early phase of the crisis was still about the output gap. It was so big that interest rates could not be
+lowered enough.
+But recent years have seen the output gap closing, and policy rates still remaining at or near the historical
+lows.
+The discussion is now about forces that will require low rates even when the output gap is closed, or at least
+much smaller than before. That is a debate about the neutral rate, or r*.
+
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+2
+
+This is a topic I have previously discussed on several occasions. I first emphasised several long term
+determinants of real rates, which I labelled the 3Ds: debt, demographics and the distribution of income. 1
+More recently I showed how we can also think about low frequency changes in equilibrium real rates, from a
+finance and risk perspective, by linking them to precautionary savings and macro-economic tail risk. 2 These
+are not separate explanations. Rather, they are different ways of looking at the same problem.
+The real risk-free rate is a fundamental variable in the economy that is potentially linked to every other
+aspect of the economy. In technical terms, it is potentially a function of all “state variables” (fundamental
+factors) that determine all the equilibrium outcomes. It is therefore all too easy to run into the circularity of
+general equilibrium when discussing what explains real rates. “Real rates are low because demand is weak”
+or “demand must be weak because real rates are low”.
+The appeal of the 3Ds is that, to different degrees, they seem to be fundamentals that determine, but are not
+initially determined by, real rates (this is particularly true of demographics and income inequality), and so the
+circularity is avoided to a large degree. This is rare in macroeconomics, and is purely the result of how
+persistent these factors are. This comes at a cost: because they move so slowly, it is difficult to determine
+empirically their impact on the economy. This is also why, until very recently, these were not variables that
+policymakers or monetary economists paid much attention to.
+How can we map the 3Ds into the finance and risk story? To explain this it is worth remembering that the
+finance and risk story boils down to saying that real rates will be lower: the higher is aggregate patience (a
+time preference parameter); the lower is the expected consumption growth rate; and the higher is
+consumption risk (measured by higher volatility, fat tails and more downside skew). So, to do the mapping,
+we just need to explain how the 3Ds may affect one or more of these factors.
+In the case of demographics, there is an increase in the supply of savings when the population ages, such
+that there are more individuals at a high savings stage of their life-cycle. 3 There is a further increase in the
+supply of savings that results from an increase in longevity without a commensurate increase in the pension
+age, so that more savings are required to sustain consumption in retirement. The link to risk is that
+pensioners, having to rely only on investment income, are typically more risk-averse than those in work, so
+will have a preference for safer assets. In other words, they will tolerate a lower risk-free rate (compared to
+those in work) to avoid the investment income risk associated with riskier assets.4
+In the case of debt, I have in mind a story of credit cycles, debt overhang and fragility: during periods of high
+growth expectations, or financial innovation, credit growth is high and economic growth is strong. Eventually,
+1
+
+See Vlieghe (2016a).
+See Vlieghe (2017b).
+3
+The relevant variable here is the cumulated stock of savings held, not the period by period flow of savings, as explained in more detail
+in e.g. Lisack et al (2017).
+4
+Note that this mechanism is entirely independent of how many risk-free assets there are, there is no shortage. There is just a larger
+group of investors that are less able or willing to bear investment risk.
+2
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+3
+
+this process leads to the economy becoming more fragile, as highly indebted firms or households are
+increasingly sensitive to changes in income expectations. In a downturn, the economy weakens sharply as
+debt needs to be repaid. 5 This pattern of long booms followed by sharp downturns implies a riskier economic
+environment (as measured by the fatness of tails and their downside skew) than one where the economy is
+less leveraged.6 Hence economies with strong credit cycles will have lower real interest rates on average,
+and in particular during the deleveraging phase of the cycle.
+In the case of the distribution of income, a potential link to risk is as follows. As more income accrues to the
+top of the income distribution, it becomes concentrated among those with a low marginal propensity to
+consume. Interest rates need to fall just to sustain consumption at previous levels. Recent research shows
+that the impact is much larger if the income inequality is associated with increased individual income risk.7
+The effect will be larger still if it occurs when nominal interest rates are close to their effective lower bound,
+because there is less scope for interest rates to offset the demand weakness, hence the economy risks
+falling into a prolonged period of weakness. The higher risk of that happening will itself feed back onto
+risk-free rates, making them lower still. Moreover, research for the US has shown that the income risk of the
+top of the income distribution, who disproportionally hold (and hence determine price of) assets in the
+economy, has been increasing in the last few decades.8
+Figure 1: The Emergence of Fat Tails and Negative Skewness in Consumption Growth after 19141
+pre-1914
+
+post-1914
+25
+
+20
+
+15
+
+10
+
+5
+
+-16%
+
+-14%
+
+-12%
+
+-10%
+
+-8%
+
+-6%
+
+-4%
+
+-2%
+
+0%
+
+2%
+
+4%
+
+6%
+
+8%
+
+10%
+
+0
+12%
+
+Source: Bank of England “Millennium of Macroeconomic Data” and author calculations.
+1
+: Smoothed density estimates of the distribution of annual real per capita consumption growth in the UK for the periods 1830-194 (“pre
+1914”) and 1915-2016 (“post 1915”).
+
+5
+
+See references in Vlieghe (2016a, c). For a more recent model linking deleveraging and r*, see Ferrero, Harrison and Nelson (2018).
+See Brunnermeier and Sannikov (2014) and Jensen et al (2019).
+See Auclert and Rognlie (2018) and Straub (2019).
+8
+See Parker and Vissing-Jorgensen (2009, 2010).
+6
+7
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+4
+
+In previous work9 I have used the risk framework to explain changes in real interest rates over very long
+periods. I showed that we can use it to understand why real interest rates were above 3% during the
+19th century gold standard era, and closer to 1% in the past 100 years. As shown in
+Figure 1, even though consumption growth was higher in the recent century, risk was higher as well
+(volatility, downside skew, fat tails) and this pushed real interest rates down. And the increase in risk can
+quantitatively explain the fall in average real interest rates.
+Of course the 20th century was hardly a period of constant risk. So a natural follow-up question is whether
+this framework is useful for explaining variation in real interest rates within the past century, rather than just
+explaining the average.
+I think the approach is promising, and I would like to share some results with you.
+Recall that the approach in our earlier paper was that we estimate, using only consumption data, the
+parameters that determine macroeconomic tail risk, to check if they can explain average interest rates across
+the two very long sub-periods. There are five key parameters: the mean, the standard deviation, the
+probability of a jump or ‘tail event’ (which captures the potential occurrence of infrequent bad outcomes), the
+average size of a jump, and the uncertainty about the size of a jump.10
+As a simple first check, I now ask the following question. What if we just allow the probability of a bad
+outcome to vary over time? Would that be able to match the variation in real interest rates? The answer,
+shown in Figure 2, is yes. Just moving this one risk parameter around can match almost exactly the trend in
+real interest rates in the post-WWI sample.11 The range in which the parameter moves over the entire
+sample is [0, 40%], and less than 22% in the period excluding World Wars. The expected fall in consumption
+(jump probability multiplied by the expected jump size, which is held fixed at 3.1%) relative to the trend of 2%
+is between [0, -1.25%], meaning that the expected consumption growth is never lower than 0.75%. So these
+are not outlandish, never-before-experienced tail risks (see Appendix A.1 for details). In other words,
+because there are nontrivial effects of negative skewness and fat tails on the real interest rate required by a
+risk averse individual, we are able to explain a drop in real rates from 4.3% before the crisis to -1% without
+changing trend consumption growth, and with a fall in expected consumption growth from 2% to only
+1.25%.12
+
+9
+
+See forthcoming working paper Guimarães and Vlieghe (2019a) and Vlieghe (2017b).
+The first two, the mean and standard deviation, determine the Normal or Gaussian part of the distribution. During the gold standard
+period, consumption growth was close to normal, so we only need these two parameters to describe risk. In the more recent period,
+consumption growth was fat-tailed and skewed. We therefore introduce the additional three parameters to describe the process that
+drives outturns that are far away from the mean and are not part of the Normal distribution.
+11
+By trend in real rates we mean an exponentially weighted moving average, or constant gain update with gain of 0.25 (i.e. the
+smoothed version rst of rt is given by rst=0.75 rst-1+0.25rt), which is close to a simple 10yr moving average. The maximum real rate that
+can be generated by varying only the probability of jumps is given by the model implied real rate when no jumps can happen (zero
+probability), which is 4.33%. The trend real rate was higher than that in only 9 years of the 102 years post WWI (1969-70, 1988-93 and
+1998). In every other year we exactly match the trend real interest rate.
+12
+With only moderately high risk aversion of 14.5, not 50, which is what Marx, Mojon and Velde (2019) require to explain the fall in real
+rates as a function of increased TFP volatility
+10
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+5
+
+Figure 2: Annual Reverse-engineered Time-Varying Macroeconomic Tail Risk and Real Interest
+Rates: ex-ante, ex-post and model implied real rates1
+rf (data, expected)
+
+25%
+
+rf (data, realised)
+rf (model prediction)
+
+20%
+15%
+10%
+5%
+0%
+-5%
+-10%
+-15%
+-20%
+
+1718
+
+1739
+
+1760
+
+1781
+
+1802
+
+1823
+
+1844
+
+1865
+
+1886
+
+1907
+
+1928
+
+1949
+
+1970
+
+1991
+
+2012
+
+Source: Guimarães and Vlieghe (2019a).
+1
+: The blue and red dashed lines show the short term nominal rate minus expected and realised inflation (GDP deflator), respectively;
+the black line shows the model implied real rate when the probability of jumps is time-varying, which is estimated to match an
+exponentially weighted moving average measure (with gain 0.25) of the trend in (ex-ante) real rate. Data is annual from 1718 to 2016.
+See Appendix A.1 for details.
+
+Of course this approach is not particularly realistic. We are choosing the probability of the jump to match real
+rates, which is why we refer to this as a ‘reverse-engineered’ estimate. It merely says that variation in this
+one risk parameter can explain real rates, not that this is most likely.
+Ideally, we would like to estimate these risk parameters based on observable data. The problem is that
+estimating the time-varying parameters of a distribution with fat tails is difficult. There are techniques for
+estimating time-varying means and standard deviations. But time-varying tail-risks are more difficult because
+they do not happen very often. If I observe a bad outcome, is that a really unlikely outturn from a normal
+distribution, or is it a realisation of a tail risk outcome? One needs a lot of data to tell the difference. For this
+reason we switch to quarterly data, to have more observations to differentiate between normal volatility and
+jumps. In the spirit of model averaging we use the average of several different windows, from 5 to 15 years
+using quarterly data from 1956Q1 to 2018Q1 (see Appendix A.2 for details).
+Figure 3 shows the resulting quarterly equilibrium real rates estimates (red line) and the data (blue dotted
+line), including a simple trend real rate (blue solid line). We are reasonably successful in capturing the trend
+in real rates when we estimate the parameters on a rolling basis from consumption data alone. The sample
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+6
+
+correlation is 72%.13 It is worth emphasizing that no real rate information was used in estimating the tail risk
+that determines the model implied real rate.
+Figure 3: Quarterly Rolling Estimates of Macroeconomic Tail Risk and Real Interest Rates1
+rf (data)
+rf (data, ewma)
+rf (model prediction)
+
+10%
+
+8%
+
+6%
+
+4%
+
+2%
+
+0%
+
+-2%
+
+-4%
+
+-6%
+1972
+
+1976
+
+1980
+
+1984
+
+1988
+
+1992
+
+1996
+
+2000
+
+2004
+
+2008
+
+2012
+
+2016
+
+Source: Guimarães and Vlieghe (2019b).
+1
+: Dotted blue line shows quarterly real interest rates, measured as the 1 year nominal Gilt bond yields minus survey forecasts of 1 year
+ahead inflation; blue solid line is the exponentially weighted moving average of the data (with gain 0.05); red solid line is the real interest
+rate implied by the model using rolling window estimates of macroeconomic tail risk. See Appendix A.2 for details.
+
+One difficulty in assessing the success of this rolling window approach is that it is backward looking. This
+means that it may be a good description for a homogeneous period but poor if there are significant ‘regime’
+changes. Particularly if those changes are not as abrupt as the financial crisis, which leads to sharper
+changes in estimated tail risk.
+To deal with this we divide our sample into different policy regimes. The UK was effectively in a
+Gold Standard regime before 1914. We consider the period of World Wars after the end of the Gold
+Standard from 1914-1949 as another regime. A third regime is the post-WW Bretton Woods period of fixed
+exchange rates from 1950 to 1971. The third period is the post Bretton Woods period of policy
+experimentation14 from 1971 to 1992, which we break up into the period of high and accelerating inflation
+(1973-1982) and the period of inflation stabilization (1983-1991). Next was the regime of inflation targeting
+13
+
+This is the correlation with a smoothed moving average of the real interest rate and the model implied real interest rate using our timevarying estimates of the tail risks using available quarterly real per capita consumption data (1956Q1 – 2018.Q1). The correlation drops
+to 52% using the raw interest rate data.
+14
+The UK policy regime was one of money targeting, with an evolution of which monetary target was aimed at, and then switched to
+exchange rate targeting.
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+7
+
+and great moderation from 1992 to 2007. And finally the financial crisis and post-crisis recovery of
+2008-2019 which has seen Bank rate at or near the effective lower bound (ELB).15
+In Table 1 we show the averages for each regime in the data (ex-ante, realised and smoothed ex-ante) and
+the reverse-engineered and the rolling estimate models. For the rolling estimate model prediction (last
+column) we only consider estimates that are based on data for that regime (which means using more
+estimates from short windows than longer ones, and sometimes excluding altogether the windows longer
+than 10 years).
+Table 1: Real Interest Rates During Different Policy Regimes1
+
+Gol d
+Sta nda rd
+Worl d Wa rs
+
+1718‐1913
+1914‐1948
+
+Bretton
+Woods
+
+1950‐1972
+
+Grea t
+Infl a ti on
+
+1973‐1982
+
+rf
+
+rf
+
+rf
+
+rf
+
+rf
+
+(annual data,
+expected)
+
+(annual data,
+realised)
+
+(annual data,
+EWM A
+expected)
+
+(annual mo del,
+time-varying
+jump pro b.)
+
+(quarterly
+mo del, ro lling
+co nsumptio n
+estimate)
+
+3.3%
+
+3.4%
+
+3.3%
+
+3.3%
+
+‐
+
+(1.5%)
+
+(3.5%)
+
+‐
+
+(0%)
+
+‐0.7%
+
+‐0.8%
+
+‐0.1%
+
+‐0.1%
+
+(4.7%)
+
+(7.7%)
+
+(3.2%)
+
+(3.2%)
+
+1.6%
+
+0.3%
+
+0.6%
+
+0.6%
+
+(3%)
+
+(2.5%)
+
+(2.9%)
+
+(2.9%)
+
+1.7%
+
+‐2.6%
+
+1.8%
+
+1.8%
+
+(3.6%)
+
+(4.6%)
+
+(1.1%)
+
+(1.1%)
+
+1983‐1991
+Grea t
+Dis i nfl a ti on
+
+5.5%
+
+4.6%
+
+4.3%
+
+3.7%
+
+(2%)
+
+(0.8%)
+
+(1.4%)
+
+(0.8%)
+
+1992‐2007
+
+3.4%
+
+3.3%
+
+4.0%
+
+3.8%
+
+(1.3%)
+
+(1.4%)
+
+(0.9%)
+
+(0.6%)
+
+‐1.0%
+
+‐0.5%
+
+0.3%
+
+0.3%
+
+(1.4%)
+
+(1.2%)
+
+(1.4%)
+
+(1.4%)
+
+Infl a ti on
+Ta rget
+pos t‐Cri s i s
+
+2008‐2016
+
+‐
+‐
+0.6%
+4.4%
+4.0%
+0.7%
+
+Source: Guimarães and Vlieghe (2019a,b)
+1
+For each different sub-period (along the rows) the average and standard deviation (in parenthesis) are shown for: ex-ante real rate
+(column 1, annual data); ex-post real rate (column 2, annual data); the exponential weighted moving average of the ex-ante real rate
+(column 3, annual data); the model-implied interest rate from Figure 1 (column 4, annual data); and the model-implied interest rate from
+Figure 2 (column 4, quarterly data). See Appendix A.1 for details for column 4, and Appendix A.2 for details for column 5.
+
+My tentative conclusion is that thinking about macroeconomic risks is a useful way to explain slow-moving, or
+low-frequency, variation in real interest rates. It is not much of a stretch, I think, to conjecture that elevated
+uncertainty from the global trade war and from the risks associated with Brexit, have led to an environment
+where downside risks are perceived to be more elevated than a couple of years ago, leading to an
+environment of even lower real interest rates, at least while the uncertainty is perceived to remain elevated.
+
+15
+
+Our choice of regimes is similar to Benati (2008). The main difference is that we break down the post Bretton Woods pre-Inflation
+Targeting regimes in two, similar to the treatment of the US in that period by Benati (2008), because real rates were dramatically
+different in that period (less so for inflation persistence, which is the focus of Benati (2008)), as can be seen in Figure 3 and Table 1.
+8
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+8
+
+2. Multiple tools
+The second major change is the expansion of the number of tools the central bank has.
+Monetary policy used to be about setting interest rates. Now it is about setting interest rates, and quantitative
+easing (QE), and forward guidance (FG), and other measures to improve specific channels of the
+transmission mechanism.
+In trying to understand how QE and FG work, we have had to re-evaluate how monetary policy works more
+generally. Central bank balance sheet operations, reserves and liquidity have moved from being operational
+background details to being at the heart of our analysis of new monetary policy tools. Much work remains to
+be done in this area, but it is no longer ignored.16
+The one constant is our belief in the importance of expectations.17 But how are expectations formed and how
+can we influence them? How do unconventional policies influence expectations? For that matter, how did
+conventional policy influence expectations? What is the role of central bank communications? This too, is an
+area where much work remains to be done.
+Thinking beyond the toolkit of the Monetary Policy Committee to the toolkit of the central bank more widely,
+in the UK we have added micro-prudential and macro-prudential policy. Changing one of these levers has an
+impact on how much you change other levers. We have gone from thinking about central bank policy as “one
+instrument, one target” to “many instruments, many targets, many trade-offs”.18
+The interaction between different policy levers is relevant for a much bigger picture debate, which is the
+nature of the mistakes that led to the financial crisis, and the nature of the mistakes, possibly, that are being
+made right now.
+One argument says that the financial crisis was ultimately caused by policy rates having been kept too low,
+leading to an unsustainable build-up of leverage and risk-taking. Another argument is that interest rates were
+broadly fine. Instead, it was a failure of regulatory policy that sowed the seeds of the crisis, allowing – rather
+than causing – the build-up of leverage and risk-taking.
+Similarly, some argue that current low rates are laying the foundations for the next financial crisis already,
+and rates should be raised despite the fact that inflation is generally below target levels. Others worry that
+raising rates prematurely will cause inflation expectations to drift even lower, risking “Japanification”
+everywhere. In which case, easy monetary policy with relatively tight regulatory policy are called for. I
+
+16
+
+See Piazzesi, Rogers and Schneider (2019), Cui and Sterk (2019) and Harrisson and Thomas (2019).
+In previous speeches - Vlieghe (2016b, 2018b) – I have emphasized the importance of correctly measuring expectations is crucial in
+understanding how QE works.
+18
+See Broadbent (2018) and Cunliffe (2019) for a discussion of the interactions between monetary policy and macroprudential tools.
+17
+
+9
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+9
+
+associate myself with the latter, easy money and tight regulatory crowd, but I am always keen to hear the
+counter-arguments.
+3. Asymmetry
+The third change is the asymmetry in our ability to manage aggregate demand with monetary policy.
+While there is some scope for further stimulus should it be required, both via small further reductions in
+interest rates and via further asset purchases, I believe our ability as a central bank to stimulate spending is
+nevertheless significantly smaller than our ability to restrain spending, due to the proximity to the effective
+lower bound on interest rates, and the fact that asset purchases are an imperfect substitute for rate cuts, and
+are probably much less powerful when long term rates are already very low.
+Let me delve into this in a little bit more detail. What determines the effective lower bound on interest rates?
+The reason there is any lower bound on nominal interest rates at all is because of the existence of paper
+money, which has a zero interest rate. This means banks will have an incentive to switch their reserves into
+paper money at low enough policy rates, and bank depositors will have an incentive to switch their bank
+deposits into paper money at low enough retail deposit rates. But that is only part of the argument about why
+nominal interest rates have a floor. Because banks earn their profits by charging more for loans than they
+pay on deposits, the floor on loan rates is constrained by the floor on deposit rates. If a central bank cuts
+interest rates so much that banks can no longer earn a sufficient spread between loan rates and deposit
+rates, because deposit rates cannot fall too much into negative territory before people switch to paper
+money, one of two things risk happening. Either banks will raise loan rates despite falling policy rates, or
+banks will stop making new loans altogether as their balance sheets shrink. Either way, the effect of lowering
+policy rates further becomes counterproductive.
+At the Bank of England, my colleagues concluded already in 2009 that even though technically interest rates
+could go negative, in practice such low rates could cause some banks and building societies to become
+loss-making, undermining their longer-term resilience. The increases in resilience of the financial system
+since the crisis, and the ability of the MPC to use a Term Funding Scheme to reinforce the pass-through of
+rate cuts, means the consensus on the MPC has been that for the UK the effective lower bound is close to,
+but above, zero.19 And that continues to be my view as well.
+This analysis rules out the idea of taking interest rates negative in the next downturn, unless we abolish
+paper currency, which I am not in favour of, as I have stated on the record before.
+
+19
+
+It was thought to be 0.5% in the period 2009-2016. A gradual change in the balance sheets of certain financial institutions and the
+introduction of the Term Funding Scheme led the MPC to conclude that it was “close to, but above, zero” in the MPC Minutes of the
+August 2016 meeting, available at https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-summary-andminutes/2016/august-2016.
+10
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+10
+
+What other tools, other than cutting the policy rate to its effective floor, are available to monetary policy
+makers? We can buy more assets, both public and private, both of which we have done already. There are
+practical limits to how many tradeable assets we can buy, related to not wanting to hold too large a share of
+a single instrument in order to preserve liquidity. But there are also limits to the effective stimulus imparted by
+such asset purchases. Ten year government bond yields in the UK are around 0.5% right now. There is just
+not that much room for these yields to fall further. Figure 4 shows how much lower yields are now relative to
+previous QE announcements, in particular QE1-QE3. In the limit, once the policy rate hits its effective lower
+bound and is expected to stay there for many years, such that longer term rates are also close to the
+effective lower bound, buying even more government bonds is unlikely to provide significant further stimulus.
+Much depends, of course, on where those expectations of the future path of policy will be when the next
+recession hits.
+Figure 4: UK 10 year gilt zero-coupon spot yield
+
+Source: Refinitiv Datastream, Bank calculations.
+
+In conclusion, on both interest rates and unconventional monetary policy, there is more we can do, but I
+believe the total monetary firepower is considerably less than we had in the period leading up to previous
+recessions.20
+
+20
+Irrespective of the magnitude of the multiplier from QE-induced changes in long term yields, before we had roughly 7-10 times more
+space than we do now: short term and long term interest rates were above 5%, and are now 0.75 and 0.5%, respectively.
+11
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+11
+
+The asymmetry around monetary policy has implications for how the economy behaves in the recovery, and
+how interest rates should be set in the recovery.
+When considering a normalisation of interest rates, even with symmetric preferences around the inflation
+target, we must take into account the fact that we cannot respond to bad news as effectively as we can
+respond to good news. That should make interest-rate setters more patient than otherwise, when considering
+the appropriate time to put up interest rates.21 For me, this has been one of the arguments for a “limited and
+gradual” approach to raising rates in the past few years.
+4. Some implications for future monetary policy
+The low neutral interest rate, combined with an effective lower bound on the policy rate, raises questions
+about how we could react if there is another serious downturn in the coming years. I do not know when that
+will be, but given the history of business cycles, we can be sure there will be another recession at some
+point.
+If the neutral rate is as low as I think it is, somewhere between 1% and 3% nominal, then it is quite likely that
+policy rates will still be very low when the next downturn arrives, and long-term yields will be low as well. So
+scope for rate cuts and QE stimulus will both be reduced, relative to the pre-crisis period. Simply put, if rates
+are only 2%, you cannot cut them by 500bp.
+What other stimulus options are available?
+In broad terms, there are two possibilities. One is to create more room for monetary policy. The other is to
+look outside the sphere of monetary policy.
+Given my position as an MPC member who has been tasked by the government with achieving the 2%
+inflation target, I will be brief here. It is not for me to say what the MPC’s objective should be, or what the
+relative settings of monetary policy and other countercyclical policies should be. However, it is appropriate
+for me to warn of the risks that it may be more difficult to fulfil our mandate in the future with the current
+neutral rate and inflation target if we are hit by a recession similar to those in the past. We are not at the
+point where monetary policy has run out of ammunition, but the risk of that happening in the future has
+clearly risen relative to the pre-crisis period.
+Some have suggested that central banks should raise their inflation target, 22 so that the steady-state
+nominal interest rate is higher and can therefore be cut more when needed. Others have suggested
+
+21
+
+I have previously discussed on multiple occasions the effect of this asymmetry on how quickly policy would need to be tightened; see
+Vlieghe (2016c, 2017a and 2018a). This is sometimes referred to as “risk management” argument for keeping interest rates lower for
+longer than if there were no asymmetry. See also Evans (2014) and Brainard (2015).
+22
+E.g. Blanchard, Dell’Ariccia, and Mauro (2010), Ball (2014).
+12
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+12
+
+increasing inflation temporarily in a downturn, by moving to a price level target or an inflation averaging
+policy, which would involve a period of higher inflation (and therefore lower real interest rates) until some
+specific conditions are met. 23 There are downsides of course. Changes to the target might lead to a
+perceived higher risk that it might be changed again in the future, which is another way of saying inflation
+expectations might be less well anchored around a higher target. And temporary changes might not move
+inflation expectations much if the policy is insufficiently understood.24 Weighing the pros and cons of these
+options is a debate worth having, albeit not on the MPC.
+Looking beyond monetary policy, another possibility is more active countercyclical fiscal policy.25 This can be
+plain vanilla fiscal policy, i.e. increasing government spending and/or reducing taxes, financed by
+government borrowing. Or it can be a joint monetary/fiscal expansion, so-called helicopter money where the
+additional government spending is financed by a permanent and irreversible gift from the central bank, rather
+than a loan, as is implicitly the case with QE.
+Again, it is not for me to comment on the specifics of fiscal policy26, but I do want to comment briefly on
+helicopter money, which would involve the central bank. I think it is useful to consider two cases of helicopter
+money. One is where the central bank pays interest on reserves, the other is where it does not.
+If the central bank pays interest on reserves, helicopter money is really just a fiscal expansion, financed by
+interest-bearing reserves. Interest is still payable. It is not that this would make it ineffective, it is just that it
+makes it little different27 from debt-financed fiscal expansion, other than unnecessarily making the central
+bank more involved in fiscal policy.28
+If the central bank does not pay interest on reserves, helicopter money becomes quite a radical policy option.
+The reserve expansion associated with helicopter money will, mechanically, push interest rates to zero, for a
+period. Such an action would therefore effectively suspend, for a period, the policy instrument of the central
+bank. Moreover, control of interest rates would only resume once the nominal economy (and therefore
+
+23
+
+See for example Bernanke, Kiley and Roberts (2019).
+See Woodford and Xie (2019).
+25
+Carney (2019a and 2019b) also discusses reduced monetary policy space and the consequent need for fiscal policy to play a greater
+role in responding to adverse shocks.
+26
+Countercyclical fiscal policy in a low interest rate environment is not a new or radical policy prescription, it is macro-economic
+orthodoxy that has recently been revived. That economies benefit from fiscal expansion when interest rates are zero is an idea that
+goes back to Keynes (1936), Hicks (1937). The fiscal policy revival has been promoted by, among many others, Blanchard (2019) and
+Resolution Foundation (2019).
+27
+If the central bank finances the government directly and without interest on the financing, the effective cost of government borrowing
+becomes the central bank policy rate. Some argue that this reduces the cost of government financing as that policy rate might be lower
+than what the government would pay on government bonds. I note that this is not currently the case in the UK, where short and medium
+term government bonds currently have yields below the policy rate. Even taking the post-crisis average, 3y government bond yields
+have been only 28bp above the policy rate, so the cost saving through this channel would be minimal. The cost saving relative to longer
+term bonds would be larger in a period of persistently low short-term interest rates, but if that cost saving is the objective, the
+government can achieve the same savings by borrowing short-term. Involving the central bank balance sheet is not needed for that.
+28
+The transaction is loss-making for the central bank (no interest received, and policy rate of interest paid). This might harm central
+bank credibility as it might be perceived to be under political pressure to keep interest rates lower than otherwise required to meet the
+inflation target, not just to help the government finance its debt, but to safeguard the central bank’s own solvency without having to ask
+the government for financial support.
+24
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+13
+
+reserves demand) had grown sufficiently to bring reserve demand and supply back into balance at a
+non-zero interest rate.
+The only other way to regain control of interest rates would be to start paying interest on reserves, which
+puts us back into the previous case. If there is a credible commitment to pay no interest on reserves, the
+central bank would have no control over whether reserve market balance is restored via a lot of inflation and
+a little real growth, or the other way around. Such a policy would therefore also effectively suspend, for a
+period, the inflation target of the central bank. Suspending both the instrument and the target of the central
+bank effectively suspends central bank operational independence.29 As a policy intervention in order to push
+up inflation, I think there is a good chance it would work! The problem is, with no instrument, no target, and
+no independent central bank, it might create much more inflation than is desirable, and there would be a
+period of uncertain length during which monetary policy would be unable to control inflation.
+I believe central bank operational independence has served us extremely well in keeping inflation low and
+inflation expectations anchored. In the post-Lehman decade, a far more tumultuous decade than the
+previous one, UK inflation still averaged 2.1%, very close to the 2% target. And inflation volatility was 1.3%.
+In the period between the end of World War 2 and the beginning of operational independence, on the other
+hand, inflation averaged 6.2%, with a volatility of 4.8%. Before we, as a country, give up central bank
+operational independence, I would suggest that, unless we find ourselves in a truly severe deflationary crisis,
+we try some less radical options first.
+5. The outlook for the economy and monetary policy
+Back in February I summarised the UK economic outlook as being governed by fading global tailwinds and
+intensifying Brexit headwinds.30 The net effect was that the outlook had deteriorated somewhat, and implied
+that any tightening of monetary policy would be slower than I previously judged. A tightening path would
+require no further slowing in global growth and some evidence of upward pay pressure leading to upward
+price pressure at home.
+
+29
+Gali (2019): “… monetary policy has to give up control of the nominal interest rate, instead adjusting the money supply in order to
+meet the government’s financing needs”.
+30
+See Vlieghe (2019a).
+14
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+14
+
+Figure 5: Average Tariffs on US Imports
+US average ad valorem equivalent tariff rate
+
+35%
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+0%
+1891
+
+1905
+
+1919
+
+1933
+
+1947
+
+1961
+
+1975
+
+1989
+
+2003
+
+2017
+
+Source: US International Trade Commission, Bank calculations.
+
+In July,31 my updated assessment was that the global outlook had deteriorated further as global political
+uncertainties and trade conflicts had continued to escalate, so that the global environment as well as Brexit
+uncertainty both represented headwinds to the UK economic outlook. It was no longer clear that the UK
+labour market was tightening further. A limited tightening path for monetary policy would require global
+growth to improve, and Brexit to be a smooth process later this year. I also highlighted that a different
+scenario was possible, involving a longer period of on-going Brexit uncertainty, where a deal is not agreed
+but a no-deal scenario is temporarily avoided. This would likely represent greater headwinds to the economy,
+and require a lower path of interest rates, than in a “smooth Brexit” scenario.
+Since July, the outlook has deteriorated again. The global trade war (Figure 5) has taken a further toll on
+global business confidence and has hit global manufacturing particularly hard. There has been a meaningful
+adjustment in global monetary policy, actual and expected, but as the trade tensions are still escalating, it is
+too soon to tell which side is winning the tug of war: policy tailwinds or trade tension headwinds.
+
+31
+
+See Vlieghe (2019b).
+15
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+15
+
+Figure 6: Selected uncertainty measures (standardized)
+Monthly Sterling implied volatility
+Deloitte CFO survey uncertainty
+DMP - Brexit in top-3 risks
+Lehman Brothers
+
+EU referendum
+
+Art. 50 deadline
+
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+Source: Refinitiv Datastream, Bank calculations.
+
+Domestically, uncertainty related to Brexit remains elevated (Figure 6) While Brexit-related stockbuilding and
+other temporary factors are causing significant volatility in quarterly GDP growth, a range of other activity
+indicators suggest the underlying growth rate of the economy is now close to zero (Figure 7), with business
+investment declining outright and consumption growth slowing. The weak pace of underlying GDP growth is
+likely below the economy’s potential, an important change relative to the 2013-2017 period of growth above
+potential. In other words, previously the amount of economic slack was being reduced, whereas this year it is
+probably increasing again (Figure 8), which has a significant impact on the monetary policy outlook.
+As before, the nature of Brexit as well as the evolution of global economy will be key determinants of the UK
+outlook for the economy and monetary policy. I continue to think that it is useful to consider, in broad terms,
+three possible scenarios.
+
+16
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+16
+
+Figure 8: UK Labour Market Tightness
+
+Figure 7: UK Real GDP growth and survey
+indicators
+Swathe of UK business sentiment indicators
+Real GDP growth (% qoq)
+
+2.0
+
+REC overall staff availability (std dev, RHS - inverted)
+Vacancy to unemployment ratio (6m change in ratio, LHS)
+3
+0.12
+0.08
+
+2
+
+0.04
+
+1
+
+0.00
+
+0
+
+-0.04
+
+-1
+
+-0.08
+
+-2
+
+-0.5
+
+-0.12
+
+-3
+
+-1.0
+
+-0.16
+2007
+
+1.5
+1.0
+0.5
+0.0
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Source: Refinitiv Datastream, ONS.
+Notes: Business cycle indicators have been normalised to match
+mean and standard deviation of quarter-on-quarter real GDP
+growth between 1999 and 2019.
+
+-4
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+Source: ONS and KPMG/REC employment survey.
+
+A near-term Brexit deal that reduces uncertainty and gives businesses adequate time to prepare for any
+future changes in the UK-EU trading relationship might yet stimulate investment sufficiently to prevent the
+need for easier monetary policy, and put gradual and limited rate hikes back on the agenda, eventually.
+A scenario of entrenched Brexit uncertainty is likely to keep economic growth below potential, and require
+some monetary stimulus.
+Finally, a “no deal” Brexit is more likely to require monetary stimulus than tightening, but given that supply,
+demand and the exchange rate are likely to experience significant declines, the direction for interest rates is
+not automatic.
+We will probably know in the coming weeks which of these scenarios will prevail. In all three scenarios, the
+MPC will take the necessary action to bring inflation back to its 2% target, from above or below, while
+supporting growth and jobs.
+
+17
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+17
+
+References
+Auclert A. and M. Rognlie (2018), ‘Inequality and Aggregate Demand’, NBER Working Paper, No.
+24280Ball (2013)
+Ball, L. (2014), “The case for a long-run inflation target of four percent”. IMF Working Paper 14/92.
+Benati, L. (2008), “Investigating Inflation Persistence Across Monetary Regimes”, Quarterly Journal of
+Economics, 123(3): 1005-1060.
+Bernanke, B., M. Kiley and J. Roberts (2019). "Monetary Policy Strategies for a Low-Rate Environment,"
+Finance and Economics Discussion Series 2019-009, Board of Governors of the Federal Reserve System.
+Blanchard, O. (2019), “Public Debt and Low Interest Rates” American Economic Review, 109(4): 1197–
+1229
+Blanchard, O., G. Dell’Ariccia, and P. Mauro (2010), ‘Rethinking Macroeconomic Policy’, Journal of
+Money, Credit and Banking, 42(s1): 199-215.
+Brainard, L. (2015), “Normalizing Monetary Policy When the Neutral Interest Rate Is Low”, speech available
+at https://www.federalreserve.gov/newsevents/speech/brainard20151201a.htm
+Broadbent, B. (2018), ‘Monetary and macro-prudential policies: The case for a separation of powers’,
+speech available at: https://www.bankofengland.co.uk/-/media/boe/files/speech/2018/monetary-and-macroprudential-policies-the-case-for-a-separation-of-powers-speech-by-ben-broadbent.pdf
+Brunnermeier. M. and Y. Koby (2016), “The ‘Reversal Interest Rate’: The Effective Lower Bound on
+Monetary Policy”, Princeton University working paper.
+Brunnermeier, M. and Y. Sannikov (2014), ‘A Macroeconomic Model with a Financial Sector’, American
+Economic Review, 104(2): 379-421.
+Carney, M. (2019a), ‘Sea change’, speech available at: https://www.bankofengland.co.uk//media/boe/files/speech/2019/sea-change-speech-by-mark-carney.pdf
+Carney, M. (2019b), ‘The Growing Challenges for Monetary Policy in the current International Monetary and
+Financial System’, speech available at: https://www.bankofengland.co.uk/-/media/boe/files/speech/2019/thegrowing-challenges-for-monetary-policy-speech-by-mark-carney.pdf
+Cui, W. and V. Sterk (2019), ‘Quantitative Easing’, HKIMR Working Paper, No. 08/2019.
+18
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+18
+
+Cunliffe, J. (2019), ‘Housing tools revisited’, speech available at: https://www.bankofengland.co.uk//media/boe/files/speech/2019/housing-tools-revisited-speech-by-jon-cunliffe.pdf
+Evans, C. (2014). “Patience Is a Virtue When Normalizing Monetary Policy”, speech available at
+https://www.chicagofed.org/publications/speeches/2014/09-24-14-charles-evans-patience-monetary-policypeterson-institute
+Ferrero, A., R. Harrison and B. Nelson (2018), "House Price Dynamics, Optimal LTV Limits and the
+Liquidity Trap," CEPR Discussion Paper 13400.
+Gali, J. (2019), ‘The effects of a money-financed fiscal stimulus’, Journal of Monetary Economics,
+forthcoming.
+Guimarães and Vlieghe (2019a), “Macroeconomic tail risk and asset prices: a tale of two policy”,
+forthcoming Bank of England Staff Working Paper.
+Guimarães and Vlieghe (2019b), "A Long Run Macro-Finance Perspective on Real Interest Rates: the Role
+of Macroeconomic Tail Risk", forthcoming working paper.
+Harrisson and Thomas (2019), “Monetary financing with interest-bearing money”, Bank of England Staff
+Working Paper No. 785.
+Hicks, J. (1937), ‘Mr. Keynes and the “Classics”; A Suggested Interpretation’, Econometrica, 5(2): 147-159.
+Jensen, H., I. Petrella, S. Ravn, and E. Santoro (2019), “Leverage and Deepening Business Cycle
+Skewness”, American Economic Journal: Macroeconomics (forthcoming).
+Keynes, J. (1936), ‘The General Theory of Employment, Interest and Money’, Palgrave Macmillan.
+Marx, M., B. Mojon, and F. Velde (2019), “Why have interest rates fallen far below the return on capital”,
+BIS Working Paper No. 794.
+Parker, J. and Vissing-Jorgensen, A. (2009). ‘Who Bears Aggregate Fluctuations and How?’, American
+Economic Review: Papers and Proceedings, 99(2): 399-405.
+Parker, J. and Vissing-Jorgensen, A. (2010). ‘The Increase in Income Cyclicality of High-Income
+Households and Its Relation to the Rise in Top Income Shares’, Brookings Papers on Economic Activity,
+41(2), 1-70.
+
+19
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+19
+
+Piazzesi, M., C. Rogers, and M. Schneider (2019), ‘Money and banking in a New Keynesian model’,
+Working Paper, Stanford.
+Resolution Foundation (2019), “Recession ready? Assessing the UK’s macroeconomic framework”, report
+available at https://www.resolutionfoundation.org/app/uploads/2019/09/MPU-paper.pdf
+Straub, L. (2019), “Consumption, Savings, and the Distribution of Permanent Income”, Harvard University
+working paper.
+Vlieghe, G. (2016a), “Debt, Demographics and the Distribution of Income: New challenges for monetary
+policy”, speech available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech872.pdf
+Vlieghe, G. (2016b), “Monetary Policy Expectations and Long Term Interest Rates”, speech available at
+http://www.bankofengland.co.uk/publications/Documents/speeches/2016/speech909.pdf
+Vlieghe, G. (2016c), “Umbrellas Don’t Cause Rain”, speech available at:
+https://www.bankofengland.co.uk/speech/2016/umbrellas-dont-cause-rain
+Vlieghe, G. (2017a), “Good policy vs accurate forecasts”, speech available at:
+https://www.bankofengland.co.uk/speech/2017/good-policy-vs-accurate-forecasts
+Vlieghe, G. (2017b), “Real interest rates and risk”, speech available at:
+https://www.bankofengland.co.uk/speech/2017/real-interest-rates-and-risk
+Vlieghe, G. (2018a), ‘From asymmetry to symmetry: changing risks to the economic outlook’, speech
+available at: https://www.bankofengland.co.uk/speech/2018/gertjan-vlieghe-speech-at-birmingham-chamberof-commerce
+Vlieghe, G. (2018b), ‘Yield Curve and QE’, speech available at:
+https://www.bankofengland.co.uk/speech/2018/gertjan-vlieghe-imperial-college-business-school-london
+Vlieghe, G. (2019a), ‘The economic outlook: Fading global tailwinds, intensifying Brexit headwinds’, speech
+available at: https://www.bankofengland.co.uk/speech/2019/gertjan-vlieghe-speech-at-the-resolutionfoundation
+Vlieghe, G. (2019b), ‘Continuous improvements in communicating monetary policy’, speech available at:
+https://www.bankofengland.co.uk/speech/2019/gertjan-vlieghe-thomson-reuters
+
+20
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+20
+
+Woodford, M., and Xie, Y. (2019), “Policy Options at the Zero Lower Bound When Foresight is Limited”,
+American Economic Review Papers and Proceedings, 109: 433–437.
+
+21
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches
+
+21
+
+A
+
+Appendix
+
+A.1
+
+Implied Time-Varying Macroeconomic Tail Risk
+
+In Guimarães and Vlieghe (2019a) we note that real per capita consumption growth is close to lognormal in the period 1830-1914, while it is clearly nonlognormal in the period 1915-2016: it has negative
+skewness (-1.3) and fat tails (excess kurtosis of 6.8). We explore this variation in low frequency consumption tail risk to explain low frequency changes in asset prices. In particular we show that the increase in
+tail risk in the most recent century is key to explain a much lower risk-free real interest rate (from 3.3% on
+average before 1914 to 1.1% on average for the period after). We do this by estimating a jump-diﬀusion
+model of consumption described below, using consumption data alone for the period from 1915-2016.
+In Figure 2 and column 4 of Table 1 in the speech we reverse engineer real interest rate data by
+allowing variation in the frequency of bad outcomes (jumps), which was estimated to match a long sample
+of consumption data. In other words, we take the estimated model of consumption growth for the period
+1915-2016 (which did not use any asset price data) and allow one parameter of the model to vary in a way
+as to best ﬁt observed real interest rates.
+A.1.1
+
+Data
+
+The main data source for UK data is the Thomas, R. and N., Dimsdale (2017) ”A Millennium of
+UK Data”, Bank of England OBRA dataset, http://www.bankofengland.co.uk/research We use version
+3.1. This dataset was initially constructed by Sally Hills, Ryland Thomas and Nicholas Dimsdale for
+the 2010 Q4 Quarterly Bulletin article ’The UK recession in context — what do three centuries of data
+tell us?’. It has since been greatly expanded and updated. For queries contact Ryland Thomas at ryland.thomas@bankofengland.co.uk.
+All interest rate data are from spreadsheet A31. We use annual average of market prime commercial
+bill rate short rate as our base nominal short-term risk-free rate (column G), and use oﬃcial bank rate
+(column C), as well as end-of year observations (columns F and B respectively) for robustness checks.
+Real consumption per capita use real consumption from spreadsheet A12 (column F) and population from
+spreadsheet A18 (column H).
+Realized real interest rates are constructed using average calendar year short-term market interest rates
+and realized GDP deﬂator inﬂation (chosen because a longer sample is available than for CPI). Survey
+forecasts of expected inﬂation are available for the period after 1965. To build a measure of ex-ante real
+interest rates for the whole sample we consider diﬀerent simple univariate measures of 1-year ahead expected
+inﬂation: rolling AR(1) processes with varying window lengths, constant gain learning with diﬀerent gains,
+and exponentially weighted moving average with diﬀerent gains. We select the measure that minimizes
+the mean squared error with respect to survey forecasts of inﬂation for the period the survey forecasts are
+available. For either CPI or the GDP deﬂator the chosen proxy for expected inﬂation is an exponentially
+weighted moving average (π̂t = π̂t−1 + g (πt − π̂t−1 ) with g = 0.3). This is in line with the results in the
+literature, who show that simple models similar to the model chosen here perform better out-of-sample
+and match professional forecasters better than more sophisticated models. Our ex-ante measure of real
+rates uses this proxy of expected inﬂation for GDP deﬂator when surveys are not available and the survey
+forecasts of inﬂation from 1965.
+
+1
+
+A.1.2
+
+Model of Macroeconomic Tail Risk
+
+The model for consumption growth is a simple jump-diﬀusion:
+N (t)
+
+Gt = αt + βBt +
+
+
+
+Yt,i
+
+(1)
+
+i=0
+Ct
+, Bt is a Brownian motion, N (t) is a Poisson counting process with jump intensity ω
+where Gt = ln C
+0
+(which is the expected number of jumps per period) and Yt,i (the jumps) are i.i.d. random variables. We
+
+assume Y ∼ N (−ν, τ 2 ),where ν > 0 indicates a negative jump. This model implies log-consumption growth
+Δct is the sum of a normal component with mean α and variance β 2 , and a mixture of normals component
+that, conditioned on the number of jumps being n (which occur with probability
+2
+
+distribution with mean −nν and variance nτ .
+
+e−ω ω n
+n! ),
+
+has a normal
+
+There are 5 parameters that determine the consumption dynamics: Θ = {α, β, ω, ν, τ }. The parameters
+of the lognormal component, α and β, only aﬀect the ﬁrst and second moments, respectively. The jump
+parameters ω and ν aﬀect all moments, whereas the uncertainty in jump size τ aﬀects all moments beyond
+the ﬁrst.
+A.1.3
+
+Estimation of Average Macroeconomic Tail Risk
+
+We estimate Θ by minimizing the discrepancy between the empirical probabilities and model implied
+probabilities:
+
+2
+Θ∗i = arg min = (pi (x) − pΘ (x)) dx
+Θ
+
+where pi denotes the empirical probabilities for sample i, and pΘ the model implied probabilities for
+parameter Θ. The model implied probability of observing consumption growth below x is given by
+pΘ (x) ≡ Pr (ct ≤ x|Θ) =
+
+
+
+Pr (ct ≤ x|n, Θ) =
+
+n≥0
+
+
+
+
+φ
+
+n≥0
+
+x − (α − nν)
+
+β 2 + nτ 2
+
+
+
+e−ω ω n
+n!
+
+(2)
+
+where φ is the normal cumulative distribution function (CDF).
+For the post-WWI period we ﬁnd Θ∗post1915 = {0.02, 0.0219, 0.1275, 0.031, 0.07}. With this jump process
+we expect to see 1 jump every 7.8 years (1/ω), and when the jump occurs its average size is only -3.1%.
+Given trend consumption growth is 2%, this implies that when a jump occurs, we expect a mild recession
+(-1%), not a disaster. With these parameters for the jump-diﬀusion the model closely match consumption
+growth for the entire period 1915-2015. This process implies a mean rate of growth of 1.6%, volatility
+of 3.5%, skewness of -1.4 and excess kurtosis of 8.4, close to what is seen in the data (when we take
+into account the small sample moments from this model, the match is even closer). We show that with
+reasonable preference parameters (time discount of 3%, risk aversion of 14.5) we can match average real
+interest rates for the entire period of 1915-2016 (as well as the average real interest rates for the period
+1830-1914 using Θ∗pre1914 = {0.008, 0.018, 0, 0, 0} for that period, which implies lognormal consumption
+growth closely resembling what we observe in that earlier period).
+
+2
+
+Figure A1: Time-Varying Jump Probability and Implied Consumption Moments
+A.1.4
+
+Implied Time-Varying Probability of Jump
+
+We then allow the tail risk to be time-varying in a simple and parsimonious way to see whether the
+required variation in macroeconomic tail risk to match the time series of real interest rates is ‘reasonable’:
+we keep every parameter ﬁxed except the jump intensity ω, which we allow to vary in order to match real
+interest rates variation with that period (subject to ω ≥ 0). We are therefore only allowing the incidence
+of nonlognormal shocks (jumps) to change, not the characteristics of these shocks (which have an expected
+size of -3.1%, with standard deviation of 7%). Instead of matching the high frequency variation in real
+rates, we match a simple empirical measure of trend real interest rates, an exponentially weighted moving
+average with gain of 0.25: rˆt = (1 − g)rt−1
+ˆ + grt with g = 0.25. The results are shown in Section 5.4 of
+Guimarães and Vlieghe (2019a).
+The takeaway from this simple exercise is that we can capture most of the variation in real rates quite
+well with reasonable implied macroeconomic tail risks (see Figure A1 below). In particular, the recent fall
+in real rates is explained by a fall in growth rates from 2%, with no tail risk, during the Great Moderation
+to an expected growth rate of 1.3% combined with an increase in tail risk. Since our jump risks are
+moderate shifts, this shows that we do not need to believe in a dramatic permanent fall in equilibrium
+growth or that investors are currently more worried about a dramatic disaster risk. Concerns about lower
+growth, captured by a small shift in the mean and a more negative skew, as seen in surveys of professional
+forecasters, can explain the fall in real rates.
+
+3
+
+A.2
+
+Estimated Time-Varying Macroeconomic Tail Risk
+
+The time-varying aspect of macroeconomic tail risk described above (and used in Figure 2 and column
+4 of Table 1) is derived such that (by construction) we match the time series of real interest rates. So
+while the average macroeconomic tail risk for the period 1915-2016 was estimated from real per capita
+consumption growth alone, the time-varying risk is reverse-engineered from this average risk to match
+real interest rates. We now describe how we adapt the estimation of the jump diﬀusion model to derive
+time-varying macroeconomic tail risk from consumption data alone. This is ongoing work (Guimarães and
+Vlieghe (2019b)).
+A.2.1
+
+Rolling Window Estimation
+
+We now wish to estimate Θ∗t for each period t. The challenge in doing so is that i is very challenging
+to estimate jumps with small samples. This is why we used very long samples in Guimarães and Vlieghe
+(2019a). To overcome this, we switch to quarterly data, since higher frequency observations are useful
+to identify jumps and volatility (whereas for the mean what matters is the length of the sample, not the
+frequency). We use all available quarterly real per capita consumption data, which is the sample 1956Q12018Q1. To try to control the instability in estimates from small samples, we consider model average of
+estimates from diﬀerent rolling windows, from 5 to 15 years (20 to 60 quarters, for 11 diﬀerent estimates)
+for each t. Hence our ﬁrst estimate is for 1970 (1956 + 15 years)
+If we denote Θ∗t,k the parameter estimate using data from t − k years to t, then our estimate for time t
+is given by
+1  ∗
+Θ∗t =
+Θt,k
+11
+
+
+k=5:15
+
+2
+
+where Θ∗t,k = arg minΘ = (pt,k (x) − pΘ (x)) dx.
+The time series of Θ∗t is shown in Figure 3. We also considered the median of estimates, but they
+are nearly identical (see Figure A2). These estimates are by construction backward looking,which might
+explain why it seems to lag real interest rate data.
+A.2.2
+
+Averages for subperiods (‘regimes’)
+
+The averages shown in column 5 of Table 1 are not the average of the Θ∗t as deﬁned above. The
+reason is that this would include estimates with data outside the speciﬁc ‘regimes’. For example, Θ∗1992Q4
+would be based almost entirely on data in what we can the great disinﬂation period (1983-1991) and would
+even include data from the previous period, what we called the great inﬂation period (since the estimate
+Θ∗1992Q4,15 would include data from 1978.
+
+Instead, the averages shown in column 5 of Table 1 only include the estimates Θ∗t,k such that t − k is
+within the regime of interest. This means that the averages for the regimes are on average based on shorter
+samples (there are more 5 year estimates than 6 year, than 7 year, etc). In fact, except for the inﬂation
+target regime, for most regimes there are no 15 year window estimates.
+
+4
+
+Figure A2: Real Interest Rates Implied by Rolling Estimates of Macroeconomic Tail Risk
+
+5
+
+

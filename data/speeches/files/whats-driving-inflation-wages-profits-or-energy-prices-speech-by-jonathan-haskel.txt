@@ -1,0 +1,1336 @@
+Bank of England
+
+Page 1
+
+What’s driving inflation:
+wages, profits, or energy
+prices? − speech by
+Jonathan Haskel
+Given at the Peterson Institute for International Economics, Washington
+DC
+25 May 2023
+
+Bank of England
+
+Page 2
+
+Speech
+I am delighted to be at the Peterson Institute here in Washington DC today. I will talk today
+about the UK economy and monetary policy, with some comparison to the US and euro
+area.
+Let me summarise my main points at the outset.
+1. My reading of official UK inflation data is that the contribution of rising business
+profits to recent inflation is small.
+2. Looking forward, the labour market is still very tight in an absolute sense: for
+example, the vacancies-to-unemployment ratio remains historically very high, as
+does unit wage growth.
+3. I prefer to lean against the risks of inflation momentum. As difficult as the
+economy’s current conditions are, embedded inflation would be worse. Further
+increases in Bank rate cannot be ruled out.
+
+Inflation in the UK: costly energy and a tight labour market
+Since this is an international audience, let me start by giving you a quick overview of the
+UK inflation environment. The headline measure of inflation in the UK, the Consumer Price
+Index (CPI), has risen 8.7% in the year to April 2023. This is down from its recent peak of
+11.1% in December 2022, which was the highest on record since the CPI officially began
+in 1988. Historic modelled estimates from the UK Office for National Statistics (ONS)
+suggest that inflation in the UK was last higher in February 1982.
+The current high inflation in the UK is due to a range of factors, which we explore shortly.
+Chart 1 shows inflation “component accounting”. Based on the components of the CPI
+basket, services and energy were each accounting for about 3pp of inflation in the early
+part of this year, with ‘food and non-alcoholic beverages’ and ‘other goods’ each
+accounting for about 2pp. Relative to average contributions over the recent past, almost all
+parts of the CPI basket are contributing more than usual. That was especially true of
+energy until the April outturn, when base effects reduced the contribution significantly. 1
+A word on energy. In the US, the wholesale price of pipeline natural gas, expressed in
+terms of barrel of oil equivalents, rose from around $10 over 2020 to $50 in August 2022,
+before falling back to $12.50 in April 2023. In Europe, it has risen from approximately $20
+
+1
+
+The inflation rate in the 12 months to March 2023 was 10.1%, and in the 12 months to April 2023 was
+8.7%, according to data released the day before giving this speech. This illustrates the power of base
+effects: in April 2022, household energy bills rose 54%, and as they dropped out of the annual comparison,
+which contributed to a fall in inflation between March and April 2023 of 1.75 percentage points.
+
+Bank of England
+
+Page 3
+
+per barrel of oil equivalent to $80, although at its peak it was just over $400 in August
+2022. The level of wholesale prices in the UK have largely tracked that in Europe, as the
+UK and European gas markets are highly integrated.2
+
+Chart 1: The contributions to inflation differ across the UK, US and Euro area
+Contributions to annual consumer price inflation (a)
+
+Source: Bank of England May 2023 Monetary Policy Report, Chart 2.4.
+(a) Energy includes fuel and household energy bills. Other goods is the difference between overall inflation
+and the other contributions identified on the chart, and therefore includes alcohol and tobacco. The latest
+data are March 2023 outturns.
+
+The UK inflation’s exposure to the energy crisis in Europe, initiated by Russia’s illegal
+invasion of Ukraine just over a year ago, is both large and staggered. First, the UK is a
+large consumer of natural gas, but gas is also the ‘marginal’ fuel in electricity generation,
+which means it has an oversized effect on the consumer price of electricity in the UK.
+Second, household energy prices in the UK are set intermittently by a regulator (Ofgem),
+based on a number of factors including very importantly wholesale gas prices. As such,
+UK households saw staggered increases in their energy bills in April 2022 and again in
+October 2022, at which point the UK government implemented an energy price cap
+alongside other support.
+
+2
+
+The UK System Average Price of natural gas was 25p/therm on average in 2020, peaking at 377p/therm
+in August 2022, and was 100p/therm in April 2023. The relative changes are similar to those reported for
+European natural gas prices, in different units. (A therm is 100,000 British thermal units: a British thermal unit
+is the heat needed to raise the temperature of one pound of water by one degree Fahrenheit).
+
+Bank of England
+
+Page 4
+
+Given these sharp and staggered increases last year, UK inflation is set to fall quite
+sharply this year as the past price level increases drop out of the annual comparison. The
+Bank of England’s latest forecast in the May 2023 Monetary Policy Report (MPR)
+expects inflation to fall to 5.1% in 2023 Q4, driven notably by the decline in the direct
+contribution of energy to CPI.
+Of course energy is used all along the supply chain as well, and this is one reason why the
+price of many other products has also risen markedly. Inflation in food, in particular, is very
+high, due in large part to the price of energy used in agriculture, food manufacturing, and
+transportation.3
+Alongside high energy prices, the UK has also experienced a very tight labour market, with
+the ratio of vacancies to unemployment exceeding one towards the end of 2022. This is a
+near doubling on typical levels: in late 2022 there was at least one vacancy for every
+unemployed person, while pre-pandemic there was typically about one vacancy for every
+two unemployed people in the UK. The US, and to a lesser extent the euro area, have also
+experienced large rises in the vacancy to unemployment ratio relative to their respective
+norms.
+The tight labour market has been exacerbated in the UK by a decline in labour market
+participation, or equivalently a rise in economic inactivity. This is likely due partly to
+demographic change, but also a large extent by an increase in long-term sickness in the
+working-age population and lifestyle changes, including amongst students and the over
+50s. While the inactivity rate rose during the pandemic and fell again afterwards in most
+developed countries, in the UK it remains about 0.7pp higher at the end of 2022 than in
+2019.4
+Thus the UK has a US-style tight labour market, and a European-style tight energy market.
+
+Inflation accounting: value added
+I will shortly return to the differences and similarities in the drivers of inflation between the
+UK, US and euro area, and the resultant impacts on different groups in society. In order to
+do so, I’d like to set out a little framework for thinking about such things.
+To get started, I’m going to describe inflation in the price of GDP. As you know, GDP
+measures the flow of domestic production in the economy over a year. So you can think of
+GDP prices as telling you something about inflation, roughly, in domestically produced
+goods and services. In the next section, we’ll relate this to consumer price inflation: since
+
+3
+4
+
+See Dhingra (2023) for more on the pass-through of energy prices through the supply chain.
+See Haskel (2022) and Haskel and Martin (2022) for discussions of UK economic inactivity.
+
+Bank of England
+
+Page 5
+
+consumption includes imported goods, that is where import prices, including imported gas
+prices, will come in. But let us stick to GDP, or value added, prices for the moment.
+Following National Accounting principles, income from production activities accrues
+broadly to either labour or capital. Of course capital income also returns to at least some
+households eventually, through dividends, pension accruals, and so forth. But let us
+equate labour income to the return of workers, and capital income to the return of capital
+owners.
+Value added in the National Accounts can thus be broadly decomposed into labour income
+(compensation of employees) and capital income (gross operating surplus).5 This is
+immediately helpful if we are to trace what is happening to profits and wages as
+contributors to price rises.
+But we need to be careful when interpreting ‘profits’. The National Accounts measure
+‘capital income’. Capital in the National Accounts includes domestic housing (in the
+National Accounts called “dwellings”). Thus capital income is not just profits on capital
+employed by businesses, but also incomes ascribed to dwellings. This is quite legitimate:
+owner-occupier households receive flow of domestic housing services when they live in
+their house. This value is calculated as an imputed rent i.e. the value mirrors what
+households would have to pay if they were renting a house (actual rental payments are
+recorded as income to businesses or the self-employed). As we shall see, measured
+capital income has risen in the UK, but not principally due to an increase in business
+capital income.
+To be explicit, the measure of capital income in the National Accounts (gross operating
+surplus) includes the following:
+
+5
+
+•
+
+depreciation costs of using capital assets in production (consumption of fixed
+capital)
+
+•
+
+the residual business income after depreciation costs are deducted (net operating
+surplus)
+
+•
+
+income from housing, both that of landladies/landlords (actual rental) and of owneroccupiers (imputed rental)
+
+There are a number of complications here set out in the appendix. We mention two. First, the income of the
+self-employed, which is a combination of both labour and capital income (hence its name, ‘mixed income’).
+To ensure comparability across regions using the OECD quarterly national accounts, however, we treat
+mixed income as part of capital income, alongside gross operating surplus. Second, various statistical
+adjustment to the counting of GDP, specifically the “alignment adjustment” are additional income sources but
+are hard to know where to be allocated.
+
+Bank of England
+
+•
+
+Page 6
+
+(and in international data) income of the self-employed (mixed income), which is a
+combination of labour and capital income (which is in turn a combination of the first
+two components above: depreciation costs and residual business income)
+
+Although depreciation is part of the payments to business capital assets, I consider this
+term reflecting more a cost of doing business than profit.
+This leads to a problem of interpretation when using unit capital, rather than say a ‘profit
+margin’ or ‘mark-up’ measure.6 It is quite possible for net operating surplus to increase
+without an increase in the profit margin or mark-up. For instance, firms might be expected
+to invest in more capital to substitute for other factors of production that get more
+expensive (such as energy and labour). This would lead to ‘capital deepening’, which is a
+larger capital stock relative to other inputs (especially labour). A larger capital stock implies
+more income to capital, for a given profit rate (profit per unit of capital). Thus, greater unit
+capital costs need not necessarily reflect increasing mark-ups or profit margins, although
+that could also explain the data. It could simply be that there is more capital that is being
+remunerated.
+We must also account for taxes and subsidies on products and production.7 Taxes reflect
+income generated from production activities, but not accruing to labour or capital, instead
+paid to government. Thus, taxes are a positive component of the income approach to
+GDP. By contrast, subsidies provide income to either labour or capital, but that income is
+not generated from production activities. Instead, it comes from the government, although
+of course they may in turn have been funded through taxation. Thus, we add taxes and
+deduct subsidies from factor incomes, giving GDP.
+This decomposition of GDP by the income approach is an identity in values, but a dual
+exists in prices. That is, the price of value added (the GDP deflator) can be expressed as a
+weighted average of unit labour costs, unit capital costs, unit taxes, and (less) unit
+
+This is also illustrated by Banca D’Italia staff in Colonna, Torrini and Viviano (2023). They show that the
+profit share of value added can increase due to increases in the share of intermediates in total cost, or when
+marginal cost increases faster than average cost, even if mark-ups are flat or falling. In the UK, as shown in
+Figure 11, the capital share (one minus the labour share) has in fact fallen relative to 2019, but has risen in
+the past few quarters. The more narrowly-defined ‘profit share’ has changed little on 2019 levels in the UK.
+7 In the income approach to GDP, taxes on products (including VAT) and on production are added, and
+subsidies on products and on production are deducted. Under National Accounts definitions, taxes are
+compulsory, unrequited payments, in cash or in kind, made by institutional units to government units, and
+subsidies are current unrequited payments which general government units make to resident producers. As
+examples, furlough payments were a subsidy on production, since they related to the volume of production
+and not to any particular product. The payments to energy companies to facilitate the energy price caps are
+subsidies on products (energy), since they compensate firms for charging a price below the market price.
+The windfall tax on energy producers is not counted as a tax on production, but rather a tax on income, and
+so does not adjust GDP.
+6
+
+Bank of England
+
+Page 7
+
+subsidies. Barring some statistical discrepancies, we can thus decompose almost exactly
+the change in the GDP deflator into these factors. This is shown in equation 1.8
+
+PV V = WL + RK + TxS
+
+(1)
+
+=
+dpV = sVL (dw − (dv − dl )) + sVK (dr − (dv − dk )) + sVT (dT − dv) − sVS (dS − dv)
+Unit labour costs
+
+Unit capital costs
+
+Unit taxes
+
+Unit subsidies
+
+Where unit cost growth of each component is weighted by their shares in GDP in the base
+period, updating each quarter.9 See the appendix for more details.
+
+The UK
+We shortly show these decompositions using comparable data across countries, but as a
+slight digression, we show the data for the UK first, since we have more detailed data to
+break down some of the categories. Full data are shown in the appendix, but Chart 2
+shows the annual change in 2022 Q4 (relative to 2021 Q4). This is useful, since the
+furlough scheme ended in the UK at the end of 2021 Q3, and so the taxes/subsidies in the
+year to 2022 Q4 do not relate to furlough payments, and are instead mostly support for
+those facing high energy prices.
+The left column shows the contributions to the inflation in GDP of 7.3% between 2021 Q4
+and 2022 Q4. The contributions of unit labour costs and unit capital costs are similar, at
+3.1pp and 3.4pp respectively. Notice that subsidies lowered GDP inflation by 1.4pp.
+Second, as we have mentioned, capital income covers a number of different headings.
+The second column breaks out unit capital costs into the contributions of corporate net
+operating surplus, corporate depreciation (consumption of fixed capital), and other capital
+income (including depreciation in the non-market sector, and housing income). That shows
+that a fair part of the capital income bar in the UK is actually a rise in this ‘other’ capital
+income. Rising business profits (corporate net operating surplus) contributed 1.3pp.
+The bottom line to all this is that finding out the contribution of business profits to (GDP)
+inflation cannot be easily gleaned from aggregate gross operating surplus data. On our
+
+𝑃𝑉 is the price of GDP, 𝑉 is real GDP, 𝑊 is the average unit price of labour (wage), 𝐿 is the volume of
+labour, 𝑅 is the average unit rice of capital (rental price), 𝐾 is the volume of capital, 𝑇 is taxes on products
+and production, and 𝑆 is subsidies on products and productions. Terms preceded by 𝑑 and in lower case
+represent annual changes. 𝑆𝑉𝑥 is the share of 𝑥 in (current price) GDP in the base period.
+9 For instance, annual growth to 2022 Q3 is weighted by the shares of GDP in 2021 Q3, and annual growth
+in 2022 Q4 is weighted by the shares of GDP in 2021 Q4.
+8
+
+Bank of England
+
+Page 8
+
+reading of the official UK data, the contribution of business profits to this measure of
+“domestically generated” inflation, in the year to 2022 Q4, is small.
+Chart 2: Detailed decomposition of UK GDP deflator growth, 2022 Q4 (a)
+
+Sources: ONS, author’s calculations.
+(a) CFC stands for consumption of fixed capital, which is the term for depreciation in the National Accounts.
+Unit other income includes owner-occupied housing income, and the consumption of fixed capital of
+government and the non-profit institutions serving households (NPISH) sector. Statistical discrepancies
+includes both the quarterly income alignment adjustment and the statistical discrepancy on income.
+
+Comparable data: UK, US and Euro area
+Charts 3 to 5 show a comparable decomposition of annual growth in the GDP deflator for
+the UK, US and euro area. Table A summarises the contributions for two time periods: the
+annual growth to 2022 Q4 (the latest data) and the average over 2022. In this
+decomposition, for reasons of data availability, unit capital costs includes all mixed income
+and gross operating surplus, thus including imputed rents on dwellings and various
+statistical discrepancies, as well as business profits.
+These charts and Table A show a number of facts. First, a comparison of the left and right
+hand side panels in the table (the annual change to 2022 Q4, and the average annual
+change over 2022), shows that the exact numbers vary greatly depending on the time
+period. This immediately points to the importance of ‘base effects’. The furlough scheme in
+the UK ran until the end of 2021 Q3 and so the annual comparison to 2022 Q4 is the first
+not to be affected by furlough. It therefore reflects mostly the period of energy prices rises
+and energy subsidies. The average of annual comparisons over 2022 reflects both the
+incoming energy subsides, but also the winding down of the furlough scheme over 2021.
+
+Bank of England
+
+Page 9
+
+Second, the contribution of unit labour costs has been consistently large in the US, and
+also large in the UK in recent quarters. In the euro area it has been a more modest
+contributor, although also picked up in 2022 Q4. This is in line with the tightness of labour
+markets, especially in the US and UK, and to a lesser extent in the EA.
+Third, regarding the contribution of unit capital costs, it has been relatively modest in the
+UK until recently, with negative contributions in 2021 and early 2022, before increasing
+through 2022 as inflation increased. It has been consistently positive, albeit still relatively
+modest, in the US, but perhaps a bit higher in Europe in the second half of 2022. Fourth,
+subsidies have been an important variable contributor, especially in the UK. It is worth
+considering subsidies in more depth.
+
+Table A: Decomposition of annual GDP inflation
+Percent and percentage points (a)
+Quarter 4 2022
+Component
+UK
+
+US
+
+2022 average
+Euro
+area
+
+UK
+
+US
+
+Euro
+area
+
+GDP deflator (%)
+
+7.3
+
+6.4
+
+5.8
+
+5.4
+
+7.0
+
+4.6
+
+Unit labour costs
+
+3.1
+
+3.3
+
+2.3
+
+1.6
+
+3.4
+
+1.7
+
+Unit capital costs
+
+4.8
+
+1.7
+
+3.5
+
+1.6
+
+2.0
+
+2.0
+
+Unit taxes
+
+1.1
+
+0.2
+
+0.2
+
+1.2
+
+0.3
+
+0.5
+
+Unit subsidies
+
+-1.4
+
+0.7
+
+-0.3
+
+1.7
+
+1.6
+
+0.5
+
+Accounting residual
+
+-0.3
+
+0.5
+
+0.0
+
+-0.7
+
+-0.3
+
+0.0
+
+Sources: BEA, Eurostat, OECD, ONS, author’s calculations.
+(a) Unit capital costs includes corporate consumption of fixed capital, corporate net operating surplus, mixed
+income, non-market consumption of fixed capital, and imputed rental on dwellings. At least for the UK, and to
+an unknown extent for the US and euro area, it also includes the quarterly alignment adjustment. Accounting
+residual is the different between the income components of GDP and headline GDP, in the UK known as the
+statistical discrepancy on income.
+
+Bank of England
+
+Page 10
+
+Chart 3: Decomposition of UK GDP deflator growth, 2019 to 2022 Q4
+
+Sources: OECD, ONS, author’s calculations.
+(a) Unit capital costs includes corporate consumption of fixed capital, corporate net operating surplus, mixed
+income, non-market consumption of fixed capital, and imputed rental on dwellings. At least for the UK, and to
+an unknown extent for the US and euro area, it also includes the quarterly alignment adjustment. Accounting
+residual is the different between the income components of GDP and headline GDP, in the UK known as the
+statistical discrepancy on income.
+
+Chart 4: Decomposition of US GDP deflator growth, 2019 to 2022 Q4
+
+Sources: BEA, OECD, author’s calculations.
+(a) Unit capital costs includes corporate consumption of fixed capital, corporate net operating surplus, mixed
+income, non-market consumption of fixed capital, and imputed rental on dwellings. At least for the UK, and to
+an unknown extent for the US and euro area, it also includes the quarterly alignment adjustment. Accounting
+residual is the different between the income components of GDP and headline GDP, in the UK known as the
+statistical discrepancy on income.
+
+Bank of England
+
+Page 11
+
+Chart 5: Decomposition of euro-area GDP deflator growth, 2019 to 2022 Q4
+
+Sources: Eurostat, OECD, author’s calculations.
+(a) Unit capital costs includes corporate consumption of fixed capital, corporate net operating surplus, mixed
+income, non-market consumption of fixed capital, and imputed rental on dwellings. At least for the UK, and to
+an unknown extent for the US and euro area, it also includes the quarterly alignment adjustment.
+
+Subsidies provide income to factors of production that is not generated through economic
+activity (think of furlough payments for furloughed workers for example), which is why we
+deduct subsidies when adding up income in GDP. Thus, the presence of subsidies makes
+some other factor income appear ‘too big’ relative to their role in explaining the income
+corresponding to produced value added in the economy.
+In the UK, we have had two large waves of subsidies recently: furlough, and now energy
+payments. The furlough payments during the pandemic supported labour income, and can
+be seen in Chart 3 as the large negative subsidies bar in 2020, which can be thought of as
+offsetting the large positive unit labour costs bar in 2020.
+Furlough payments ended in 2021 Q3, and since then the lower level of subsidies relative
+to the year before have appeared to push up on GDP deflator growth during 2021 and the
+start of 2022. This is because we express inflation in terms of annual changes. For
+instance, inflation in early-2022 is relative to early-2021, which was in the height of the
+pandemic, when there were large subsidy payments (furlough). Compared to 12 months
+prior, subsidies had fallen sharply, and so pushed up on GDP inflation, for a given rate of
+growth in the other components. Since furlough ended in 2021 Q3, it is not until 2022 Q4,
+the latest quarter for which we have data, that we get an annual comparison which is clear
+of these furlough base effects.
+
+Bank of England
+
+Page 12
+
+More recently, subsidies have been paid to energy-supplying businesses in the UK to
+compensate them for applying a government-mandated cap on retail energy prices, for
+both households and other businesses. Thus, the capital income of energy companies
+appear larger than it ‘should’ be, on account of these subsidies.10 This can be seen in
+Chart 3 in 2022 Q4, when the subsidies bar again goes negative, and the unit capital costs
+bar increases – the parallel to the furlough experience in 2020. I believe it is useful to
+account for these subsidies when considering the apparent increase in unit capital costs.
+What of the EA? Various policymakers and commentators11 have remarked on the role of
+increasing profits in driving inflation in the euro area, motivated in part by decompositions
+like those shown in Charts 3 to 5. I am much less knowledgeable about European
+economics than they are, and do not intend to give out policy advice. But I would note a
+number of things on the interpretation of the role of profits in this analysis.
+First, recall that capital income encompasses far more than just profits, and that it is
+possible for capital income to increase without an increase in profit margins. In the UK
+data, the contribution of business profits (corporate net operating surplus) to recent GDP
+inflation appears small.
+Second is the role of subsidies. Chart 5 shows that, in 2022 Q4, unit profits are making an
+apparently substantial upward contribution to value added inflation in the euro area, with,
+unlike in the UK, unit subsidies appearing to make only a modest negative contribution in
+the euro area in 2022 Q4. Does this mean that rising unit profits really are driving up
+inflation in the euro area? Unfortunately, this is not a simple question.
+There have been various responses to the energy crisis across European countries, but
+they have taken many forms.12 Some have been direct payments to households – these
+are not subsidies, as measured in GDP, but transfer payments. Some have been
+reductions in taxes, such as fuel duties – these would clearly show up in the unit taxes
+contribution, instead of as subsidies. Some have been subsidies to energy-supplying
+businesses (like in the UK) or to energy-using businesses. There have also been some
+increased taxes on the profits of energy companies (such as the Energy Profits Levy in the
+UK) – these are taxes on income, rather than production, and thus do not affect GDP.13
+There is also a timing effect, which can affect the impact on inflation. The UK has the price
+cap mechanism which delayed the full effects of rising gas prices on household energy
+10
+
+This is not a comment on the profits of such companies reported in financial markets, but merely a
+comment on the treatment in National Accounting.
+11 Including Panetta (2023), Lane (2023), Lagarde (2023), and Arce, Hahn and Koester (2023).
+12 See work by Bruegel (Sgaravatti, Tagliapietra, Trasi and Zachmann, 2023) for an account of the various
+national fiscal policy responses to the energy crisis across European countries.
+13 Taxes on income, including business profit income, are accounted for in the “secondary distribution of
+income account” in the sequence of accounts, but do not impact GDP directly. This is different to taxes on
+production, which are applied irrespective of the level of income (profit).
+
+Bank of England
+
+Page 13
+
+bills until October 2022. In countries with different arrangements for their retail energy
+prices, consumers may have faced higher prices earlier or later than this. Thus, some
+subsidies relating to the energy crisis would have been paid and recorded before the end
+of 2022. And the largest energy-related subsidy in Europe, Germany’s ‘Economic Defence
+Shield’, comes into effect mostly in 2023 Q1, and so is likely not (yet) visible in Chart 5.
+To explore the role of subsidies in the apparent increase in unit capital costs in the euro
+area, Chart 6 compares the unit subsidies component with the unit capital costs
+component for European countries in the second half of 2022.14 Countries with a greater
+negative contribution from the subsidies component saw on average a larger contribution
+from the unit capital costs component. So while the euro-area aggregate does not show
+much role of subsidies, this hides significant heterogeneity at the country level. For the UK,
+the relationship is more apparent in 2022 Q4, when the energy subsidies were introduced,
+as seen in Chart 3.
+
+Chart 6: Countries with a larger unit capital cost contribution tend to have a
+larger offsetting contribution from unit subsidies
+Contribution of unit subsidies and unit capital costs to GDP deflator annual growth,
+second half of 2022, European countries (a)
+
+Sources: Eurostat, author’s calculations.
+(a) Data are for an average of 2022 Q3 and 2022 Q4. Countries covered are EU27, UK and Switzerland.
+Data from Eurostat. Best fit line is unweighted by country size. R2 = 0.12.
+
+14
+
+I have used the second half of 2022, rather than just 2022 Q4, due to the differences in timing of energy
+price increases and subsidies as described in the text. The result is similar if working with the 2022 Q4 data.
+
+Bank of England
+
+Page 14
+
+All of this means, in my view, that it is difficult to be sure of the role that unit capital costs
+are playing in inflation right now. This is especially true for the euro-area aggregate, given
+the variety of policies being implemented across countries. It is nonetheless important to
+be mindful of the distorting effect of subsidies on these data.
+
+Consumer price inflation
+Theory
+With this in hand, let us turn our attention back to explaining consumer price inflation. The
+price of GDP (the GDP deflator), useful as it is, is not the price of consumption (the
+consumption deflator). The target of the Bank of England is 2% inflation according to the
+Consumer Price Index (CPI), and similarly for the ECB. The Fed instead focuses on
+headline Personal Consumption Expenditure (PCE) inflation. So let us relate our
+discussion of the various factor incomes back to this.
+What is the connection between GDP price inflation and consumption price inflation?
+Suppose the UK economy produces value added entirely for consumption or export, and
+imports energy, some of which is used to produce domestic goods and some consumed
+directly by consumers. Then CPI inflation would be value added inflation plus the
+difference between imported and exported price inflation (weighted by the shares of
+imports and exports in consumption, respectively). In reality, domestic value added is used
+to produce investment and government goods and services as well as consumption and
+exports, and there are various index number complications. This is explained more fully in
+the appendix, but it leads to an expression for CPI inflation of the form in equation 2. 15
+
+dpC = dpV + sCM (dpM − dp X ) + '
+
+(2)
+
+Where Ψ are the index number distortions, investment and government prices relative to
+GDP prices. For brevity in these equations we will assume that the share of imports and
+exports in consumption is the same (which is roughly the UK case), but in practice we shall
+weight each by their respective shares.
+Recall that we can express the GDP price as the weighted average of the factor income
+prices (equation 1). So we can substitute this in for the GDP deflator in equation 2. This
+
+𝑝𝐶 is the price of consumption, 𝑝𝑀 is the price of imports, and 𝑝𝑋 is the price of exports. See also text and
+footnote 7.
+15
+
+Bank of England
+
+Page 15
+
+gives us a comprehensive decomposition of the National Accounts consumption deflator16,
+but we will make one more amendment.
+
+PV V = WL + RK + TxS
+
+We will separate unit labour costs into nominal labour costs and labour productivity, using
+= of the volume of labour input, namely total hours worked. We can do
+a suitable measure
+L
+K capital stock17 to separate
+TxS capital
+likewise for unit
+costs,
+using
+a measure
+ofs the
+dpcapital
+=
+s
+(
+dw
+−
+(
+dv
+−
+dl
+))
++
+V
+V
+V ( dr − (dv − dk )) + sV (dTxS − dv )
+productivity and nominal capital costs. Labour productivity and capital productivity
+Unit labour costs
+Unit capital costs
+combined, with appropriate weights, is a measure of TFP. So the GDP deflator is
+decomposed into share-weighted nominal labour and capital income, share-weighted unit
+taxes and unit subsidies, and (less) TFP. This is shown in equation 3. 18
+
+or
+
+dpV = sVL dw + sVK dr − dtfp + sVTxS (dTxS − dv )
+
+(3)
+
+Bringing it all together by substituting equation 3 into equation 2, we can decompose CPI
+inflation as in equation 4.
+
+dpC = sVL dw + sVK dr − dtfp + sVT (dT − dv) − sVS (dS − dv ) + sCM (dpM − dp X ) +  ''
+
+(4)
+
+In words, CPI inflation is:
+
+16
+
+•
+
+share-weighted change in nominal labour cost
+
+•
+•
+
+share-weighted change in nominal capital cost
+(less) change in TFP
+
+•
+•
+
+share-weighted change in unit taxes relative to GDP volume
+(less) share-weighted change in unit subsidies relative to GDP volume
+
+•
+
+share-weighted change in import price relative to GDP price, net of share-weighted
+change in export price relative to GDP price (terms of trade effect)
+
+•
+
+plus ‘other’, comprising:
+o (less) share-weighted change in government and NPISH expenditure price
+relative to GDP price
+o (less) share-weighted change in investment price relative to GDP price
+
+If we want to decompose CPI rather than the National Accounts consumption deflator, we will need to also
+account for the difference between the two. This will be driven by the treatment of expenditure items which
+are included in household consumption in the National Accounts, but are not in the CPI basket, most notably
+owner-occupied housing costs (imputed rental) and the implicit cost of some financial and insurance services
+(FISIM). The Bank’s remit is 2% inflation according to the Consumer Price Index (CPI). I use the National
+Accounts consumption deflator here because it is the closest measure in the National Accounts framework,
+not because I judge it to be a better measure for UK monetary policy.
+17 For international consistency, we use the EU KLEMS dataset, created by Bontadini et al. (2023), as our
+estimate of the capital stock in the UK, US and euro area. We take annual estimates up to 2019, extrapolate
+forward to 2022 using the perpetual inventory method, and then interpolate linearly to generate quarterly
+levels.
+18 𝑑𝑡𝑓𝑝 is the growth in total factor productivity. See also text and footnotes 7 and 14.
+
+Bank of England
+
+Page 16
+
+o difference between changes in National Accounts household consumption
+deflator and CPI
+o various statistical discrepancies
+This is an accounting identity, which conveniently summarises the claims of various parties
+in the economy on real resources. We can use it to work through what are called “first” and
+“second” round effects. First round effects are that, arithmetically, if the price of imports
+rises relative to the price of exports, and all other terms are unchanged, inflation must
+rise.19 (Indeed, to get some sense of this in the British data, the share of fuel imports in
+consumption is about 7% in 2022 Q4, up from about 3% before the recent price rise. The
+price of fuel imports has, between 2019 Q4 and 2022 Q4, more than doubled (having
+peaked in 2022 Q3 and fallen somewhat in 2022 Q4). Thus CPI rises, arithmetically, by
+about 3% in 2022 Q4 relative to 2019 Q4. This is however offset by an increased price of
+UK fuel exports, and obscured by the price cap mechanism in the UK.)
+What of second round effects? Suppose the increase in the import price, relative to the
+export price, is permanent and the import price stops rising, staying at a higher level. This
+‘first-round’ effect has generated inflation, which now falls to zero when the import price
+stops rising (a year after, if inflation is measured in annual changes). Even though inflation
+(growth in the price level) is zero, the consumer price level has risen: consuming goods is
+more expensive than before. That means, again arithmetically, that the ‘real’ returns of
+labour and capital have fallen (i.e. labour and capital income in terms of their purchasing
+power have fallen). What is called a ‘second-round’ effect can be seen arithmetically. An
+attempt by labour or capital to restore their returns to their former purchasing power level,
+will, again arithmetically, raise inflation, even though there is no further increase in the
+import price beyond the initial increase.
+What can prevent this from occurring? To answer that question fully we need a
+behavioural model of wages, prices and their interaction with monetary policy, which I do
+not consider here. But looking at our decomposition shows some effects. First, rising TFP
+potentially ‘enables’ increases in labour income or capital income without an increase
+inflation. This is as it should be: TFP is a resource-free increase in total output (and thus
+total income) and hence can increase real factor earnings.
+Second, for a given level of nominal factor income, rising subsidies would lower inflation,
+other things equal. Recall that subsidies are income to either labour or capital that is not
+earned through production. Thus, subsidies could restore factor incomes to some higher
+level, without causing inflation to increase, at least in the short run. Of course, any such
+
+19
+
+Inflation would rise by the share-weighted change in the import price less the share-weighted rise in the
+export price. Note that since imports includes intermediates, the imports share is the share of both final and
+intermediate imports in consumption.
+
+Bank of England
+
+Page 17
+
+subsidies need to be funded, likely by future taxation, but I do not discuss that here. The
+ultimate economic incidence of such subsidies is a matter of economic theory.
+
+Data
+Charts 7 to 9 put this decomposition into practice for the UK, US and euro area, using
+official National Accounts data, for the years 2019-2021, and the quarters of 2022. Table B
+summarises the results. Chart 10 and Table C summarise the cumulative change over a
+longer time period. I stress that I do not make a value judgement as to which returns
+should have risen or fallen, or any causal claims about what is driving inflation. This is
+merely an arithmetic decomposition to look at which returns have, in fact, risen or fallen.
+Starting with the UK, as of Quarter 4 2022, CPI inflation was 10.8%. That is, consumer
+nominal expenditure grew 10.8% faster than real consumption. Of this extra expenditure,
+about 3.1pp went to nominal labour cost growth, 4.2pp went to nominal capital income
+growth, 1.1pp went to growth in unit taxes, 0.6pp went to a negative terms of trade effect,
+and 0.6pp went to a decline in TFP. This was offset somewhat by a -1.4pp contribution
+from unit subsidies. There is also a large ‘other’ component of 2.5pp, encompassing the
+difference between the National Accounts consumption deflator and the CPI, differential
+price changes in capital investment and government services relative to GDP, and other
+statistical discrepancies.
+The following points are worth noting. First, the contribution of capital income seems large,
+but as we saw above, this is partly ‘enabled’ by subsidies. Offsetting the capital income
+component by the subsidies component gives a 2.8pp contribution, which still represents
+an increase on the previous quarter, but a much smaller one. Recall as well, that this
+includes much more than just profits, including deprecation and imputed rents to dwellings.
+Second, the terms of trade effect in total adds just 0.6pp to UK inflation in 2022 Q4, having
+added much more in previous quarters. If one were to consider just the fuels component
+(not shown), this is close to zero in 2022 Q4. This reflects a sharp fall in the wholesale
+price of gas, and thus a sharp fall in the import price of fuels.
+Why is this different to the component-based decomposition of UK inflation in Chart 1? As
+noted previously, the consumer price of gas and electricity is fixed in the short-term due to
+the Ofgem price cap mechanism. This explains the discrepancy between the still-large
+energy contribution in the component-based decomposition of inflation in 2022 Q4 in Chart
+1, and the much smaller terms of trade contribution in the National Accounting cost-based
+decomposition of inflation in Chart 7.
+
+Bank of England
+
+Page 18
+
+Table B: Decomposition of consumer price inflation, 2022 Q4 and 2022
+Percent and percentage points (a)
+Quarter 4 2022
+Component
+UK
+
+Consumer price inflation (%)
+
+US
+
+2022 average
+
+Euro
+area
+
+UK
+
+US
+
+Euro
+area
+
+10.8
+
+5.7
+
+10.0
+
+9.0
+
+6.3
+
+8.4
+
+Nominal labour costs
+
+3.1
+
+2.7
+
+2.1
+
+1.9
+
+2.8
+
+1.6
+
+Nominal capital costs
+
+4.2
+
+1.1
+
+3.6
+
+2.6
+
+2.0
+
+2.8
+
+TFP
+
+0.6
+
+1.1
+
+0.1
+
+-1.2
+
+0.7
+
+-0.8
+
+Unit taxes
+
+1.1
+
+0.2
+
+0.2
+
+1.2
+
+0.3
+
+0.5
+
+Unit subsidies
+
+-1.4
+
+0.7
+
+-0.3
+
+1.7
+
+1.6
+
+0.5
+
+Terms of trade
+
+0.6
+
+-0.2
+
+2.5
+
+1.9
+
+-0.3
+
+3.8
+
+Other
+
+2.5
+
+0.0
+
+1.7
+
+1.0
+
+-0.8
+
+0.0
+
+Sources: BEA, BLS, EU KLEMS, Eurostat, OECD, ONS, author’s calculations.
+(a) Nominal capital costs includes corporate consumption of fixed capital, corporate net operating surplus,
+mixed income, non-market consumption of fixed capital, and imputed rental on dwellings. At least for the UK,
+and to an unknown extent for the US and euro area, it also includes the quarterly alignment adjustment.
+
+Turning to the US, the inflation rate20 is lower than in the UK or euro area, but the
+contribution from nominal wage growth is still large, such that it makes up a larger
+proportion of total inflation according to this decomposition. This is consistent with a tight
+labour market in the US. There is limited effects of terms of trade on US inflation, in part
+because the US is now a net fuel exporter, and the role of nominal capital income growth
+is falling. Unit subsidies are pushing up inflation in the US in recent quarters (for a given
+level of nominal factor income growth), reflecting continuing withdrawals of covid-era
+
+20
+
+For the US I use inflation according to the PCE measure, on which the Federal Reserve focuses, but for
+the UK and euro area I use the CPI and HICP respectively. The equivalent of the PCE for the UK and euro
+area may also be lower than the CPI and HICP.
+
+Bank of England
+
+Page 19
+
+support for firms. Negative TFP growth, reflecting an unwinding of positive compositional
+effects during the pandemic, also pushes up inflation in recent quarters.
+In the euro area, there has been a much larger contribution from the terms of trade shock,
+and while this reduced in size in 2022 Q4, it is still a large contributor to euro-area inflation.
+This reflects a larger weight on imports and exports in euro-area consumption than in the
+UK21, as well as slightly faster import price growth relative to export price growth. The role
+of nominal labour income growth is smaller, likely reflecting a less tight labour market. The
+role of nominal capital income growth is somewhat larger than the US and increasing
+slightly in recent quarters, although again this may not reflect profits as discussed
+previously. There is a large ‘other’ bar in 2022 Q4, partly reflecting the difference between
+the National Accounts consumption deflator and the HICP (as in the UK).
+
+Chart 7: Decomposition of UK CPI index growth, 2019 to 2022 Q4 (a)
+
+Sources: EU KLEMS, OECD, ONS, author’s calculations.
+(a) Nominal capital costs includes corporate consumption of fixed capital, corporate net operating surplus,
+mixed income, non-market consumption of fixed capital, imputed rental on dwellings, and the quarterly
+alignment adjustment.
+
+21
+
+This will, in part, reflect intra-euro area trade. For instance, imports to Germany might be exports from
+France. Viewed as a single country block, only imports and exports with countries outside the euro area
+would be included – imports to Germany from France would cancel out, and only the factor incomes would
+be left. This would be much smaller, as about half of all international trade in the euro area is intra-EA trade.
+The contribution of imports and exports for the euro area in these decompositions would thus be around half
+the size relative to single-country data as for the UK and US. However, the net position would be relatively
+unaffected, since the rescaling would apply to both imports and exports, and hence net out to a large degree.
+There may also be differences in price growth of intra- and extra-EA trade, given different product
+compositions. I am grateful to Catherine Mann for this insight.
+
+Bank of England
+
+Page 20
+
+Chart 8: Decomposition of US PCE deflator growth, 2019 to 2022 Q4 (a)
+
+Sources: BEA, BLS, EU KLEMS, OECD, author’s calculations.
+(a) Nominal capital costs includes corporate consumption of fixed capital, corporate net operating surplus,
+mixed income, non-market consumption of fixed capital, and imputed rental on dwellings.
+
+Chart 9: Decomposition of euro-area HICP index growth, 2019 to 2022 Q4 (a)
+
+Sources: Eurostat, EU KLEMS, OECD, author’s calculations.
+(a) Nominal capital costs includes corporate consumption of fixed capital, corporate net operating surplus,
+mixed income, non-market consumption of fixed capital, and imputed rental on dwellings.
+
+Bank of England
+
+Page 21
+
+While useful, these quarterly charts are somewhat difficult to interpret. Base effects from
+the pandemic have significant impacts on the annual growth rates, especially on the
+subsidies, taxes, and TFP components. One way to see-through this is to consider the
+cumulative change in prices since before the pandemic. Chart 10 and Table C show the
+same decomposition, applied to the total increase in prices between 2019 Q4 (just before
+the start of the pandemic) and 2022 Q4. This also reduces somewhat the effects of the
+different timing of the inflation spike across countries.
+Chart 10 and Table C suggest the following. Over the past 3 years, the UK has had around
+17% of cumulative price increase, compared to around 15% in the EA, and 13% in the
+US.22
+On this cumulative basis, it is still the case that the euro area has the largest contribution
+from the negative terms of trade shock, which has contributed around 4pp to the total 15%
+inflation. The UK has also had a negative terms of trade shock, but smaller, contributing
+just over 2pp of the total 17% inflation. By contrast, the US has had a small positive terms
+of trade shock.
+It is worth noting that these terms of trade contributions are the net position of the shareweighted increase in import prices, and the share-weighted increase in export prices (each
+relative to the GDP price). The import term alone adds 6.3pp to UK CPI inflation, but this is
+offset by 4.0pp from an increase in the price of UK exports. Higher export prices bring
+income into the country, which will flow to either labour or capital, albeit only (directly) to
+exporting firms – a relatively small share of the economy. The net position of the import
+and export price contributions shows the impact on aggregate real national income. The
+US, being a fuel exporter, has a small fall in its import price relative to its GDP price. The
+euro area saw a larger negative import price contribution than the UK, although this
+reflects a larger weight on imports (and exports) than the UK (see footnote 15).
+The role of labour income is largest in the US at about 10pp, followed by the UK at close to
+9pp and then the euro area around 6pp. This is broadly consistent with the relative
+tightness of the labour markets.
+
+22
+
+Here we are comparing the CPI in the UK, the HICP in the EA, and the PCE deflator in the US, in line with
+their respective inflation mandates. If all were on the basis of the National Accounts consumption deflator,
+then all would be quite similar, with the UK at 15%, and euro area and US at 13%.
+
+Bank of England
+
+Page 22
+
+Table C: Decomposition of cumulative change in consumer prices, 2019 Q4 to
+2022 Q4
+Percent and percentage points (a, b)
+Component
+Consumer price inflation (%)
+
+UK
+
+US
+
+Euro area
+
+16.8
+
+13.0
+
+14.7
+
+Nominal labour costs
+
+8.8
+
+10.1
+
+5.7
+
+Nominal capital costs
+
+3.6
+
+5.1
+
+5.0
+
+TFP
+
+1.6
+
+-1.7
+
+-0.2
+
+Unit taxes
+
+1.8
+
+0.6
+
+1.2
+
+Unit subsidies
+
+-2.1
+
+-0.2
+
+-1.4
+
+Terms of trade
+
+2.4
+
+-0.8
+
+4.2
+
+6.3
+
+-0.4
+
+NA
+
+0.7
+
+-0.2
+
+0.2
+
+of which: import price
+Other
+
+Sources: BEA, BLS, EU KLEMS, Eurostat, OECD, ONS, author’s calculations.
+(a) Consumer price inflation is measured by the Consumer Price Index (CPI) for the UK, the Personal
+Consumption Expenditure (PCE) deflator for the US, and the Harmonised Index of Consumer Prices (HICP)
+for the euro area. Import price contribution is the share-weighted change in the import price relative to the
+GDP price. The import price contribution for the euro area is not available (NA) on a comparable basis, and
+so is not included – see text and footnote 15 for more details.
+(b) Nominal capital costs includes corporate consumption of fixed capital, corporate net operating surplus,
+mixed income, non-market consumption of fixed capital, and imputed rental on dwellings. At least for the UK,
+and to an unknown extent for the US and euro area, it also includes the quarterly alignment adjustment.
+
+Bank of England
+
+Page 23
+
+Chart 10: Contributions to cumulative change in consumer prices, 2019 Q4 to
+2022 Q4 (a, b)
+
+Sources: BEA, BLS, EU KLEMS, Eurostat, OECD, ONS, author’s calculations.
+(a) Consumer price inflation is measured by the Consumer Price Index (CPI) for the UK, the Personal
+Consumption Expenditure (PCE) deflator for the US, and the Harmonised Index of Consumer Prices (HICP)
+for the euro area.
+(b) Nominal capital costs includes corporate consumption of fixed capital, corporate net operating surplus,
+mixed income, non-market consumption of fixed capital, and imputed rental on dwellings. At least for the UK,
+and to an unknown extent for the US and euro area, it also includes the quarterly alignment adjustment.
+
+Capital income contributes to inflation across the board. The contribution of capital income
+to cumulative inflation in this period is 5pp in the euro area and US, and less than 4pp in
+the UK. Differences between countries will reflect differences in the capital share of GDP,
+as well as differences in the ‘price’ change of capital. Recall that this does not necessarily
+mean that firms are increasing profit margins or mark-ups. Rather, this reflects increases
+in total nominal capital income (including self-employment income and housing rental),
+which will at least in part reflect higher prices to replace depreciated capital goods and the
+ongoing opportunity cost of holding capital.
+The positive contributions from labour and capital income, and (in the case of the UK and
+EA) terms of trade, are somewhat offset by other factors. The US has seen some TFP
+growth over the period, which enables higher real incomes without inflationary pressure.
+
+Bank of England
+
+Page 24
+
+By contrast, TFP is estimated to have been roughly flat in the euro area and fallen in the
+UK (which adds to inflation).
+In the UK and EA, increases in unit subsidies somewhat offset increases in nominal factor
+income growth – by just over 1pp in the euro area and around 2pp in the UK. Think of this
+as subsidies paying for some of the labour and capital income, such that growth in these
+factor incomes is ‘too big’ relative to GDP inflation. By the nature of this cumulative
+exercise, the effect of furlough subsidies should have largely cancelled out, so the
+remaining subsidies contribution will likely be energy-related subsidies introduced in late
+2022.
+What can we say about real wage and capital income changes? The contribution of labour
+and capital income growth are weighted by their shares of GDP, so do not tell us about
+real wage growth or real capital income growth directly. As a result of the terms of trade
+shocks, total real factor income (the sum of labour and capital income) has fallen in the UK
+and EA, which can be seen by the sum of the labour and capital income bars being less
+than consumer price inflation (the white diamond) in Chart 10. By contrast, total real factor
+income has actually risen slightly in the US. How changes in total real income are
+distributed depends on the respective shares of income.
+If we divide the labour costs contribution by the share of labour costs to recover the
+absolute change, we find that average real (that is, in terms of CPI) labour income in the
+UK is broadly unchanged over this period, since growth in average nominal labour income
+broadly matches CPI inflation.
+That labour incomes are unchanged may seem a surprise. One reason is that this is
+relative to 2019 Q4. Real labour incomes rose between 2019 Q4 and 2022 Q1. They have
+since fallen, which is the figure often cited, but since the end of the pandemic have
+remained broadly flat.
+Another is that our labour income measure is derived from the UK National Accounts, and
+includes bonuses payments and non-wage labour income including employers’ and
+employee’s pension and National Insurance contributions. Across a range of wage
+measures for the UK, there has been relatively little change in average real wages since
+pre-pandemic, although the precise estimate depends on the measure used.23 For
+instance, UK real average weekly earnings in 2022 Q4 relative to 2019 Q4 are down just
+0.7% in terms of total pay including bonuses, but down 1.5% in terms of regular pay.
+Recipients of bonuses, which are prevalent in some industries more than others, appear to
+have been relatively less affected by the shock. However, these aggregate figures mask
+
+23
+
+For instance, whether or not bonus payments are included, whether the measure is for the whole economy
+or private sector, and precisely which time periods are considered.
+
+Bank of England
+
+Page 25
+
+considerable heterogeneity, and some individuals will be worse of in real terms, while
+some will be better off in real terms.
+How have overall shares in national income changed? Chart 11 shows the labour share of
+income in the UK based on official data; the capital share is one minus this share.24 In the
+UK, the labour share of income increased somewhat during the pandemic. Between 2012
+and 2019, the labour share of income in the UK averaged 58.7%. During the pandemic, in
+part due to the furlough scheme (subsidies for labour income), the labour share increased,
+and peaked at around 60.3% in the second half of 2021. Since then it has been
+decreasing back towards its normal range. The final quarter of 2022 saw a relatively sharp
+decline, consistent with the increase in the capital income contribution in 2022 Q4 in Chart
+7. However, the labour share is still above its 2012 to 2019 average (and slightly above the
+2019 average).
+
+Chart 11: The labour share of income rose during the pandemic, but has fallen
+in recent quarters
+Labour share of income, UK, quarterly, 2012 Q1 to 2022 Q4 (a)
+
+Sources: ONS, author’s calculations.
+(a) The official ONS labour share measure, defined as a share of GDP at factor costs, goes to 2022 Q2.
+We extend it to 2022 Q4 using essentially the same method as ONS, as much as possible from published
+data. Furlough period shaded.
+
+24
+
+This measure uses GDP at factor cost in the denominator, which is different to the decomposition of the
+GDP deflator in this paper, which uses the shares of GDP at market prices. GDP at market prices includes
+net taxes, whereas GDP at factor cost does not. The ONS measure of the labour share also deducts
+employment subsidies from labour income, and splits mixed income into labour and capital income, which I
+do not do here for international comparability, since the necessary data are not available.
+
+Bank of England
+
+Page 26
+
+In contrast to the declining labour share in the US, the labour share has remained
+relatively constant in the UK and euro area over a long period of time.25 As such, a
+sustained increase in the labour share would amount to a notable deviation from the
+recent past.
+As we said, second-round inflation effects occur when economic actors try to restore their
+real returns after an inflation shock. In the UK, real (average) labour income has changed
+remarkably little since 2019, supported by a small increase in the labour share of income.
+By contrast, real (average) capital income has fallen. If this is a sustainable equilibrium,
+then there might be no further changes in real factor incomes, and thus no second-round
+inflation effects. To the extent that economic actors try to restore their real returns to some
+earlier level, then there might be further developments in labour and capital income to
+come.
+In reality, it is not some abstract notion of labour and capital in aggregate that act out this
+dynamic. Instead it is individual workers and firms who may be responding to a change in
+their level of real income. Indeed, inflation has differential effects on households and
+groups of society reflecting their consumption patterns. And while aggregate real wages
+are down relatively little on 2019 levels, this hides significant heterogeneity between
+workers of different industries, occupations, and circumstances. Monetary policy can do
+little to influence these distributional effects, but can help to return inflation to target
+sustainably.
+
+Monetary policy
+Let me end with some summary remarks about the UK and monetary policy.
+First, the clear winners over recent quarters from inflation have been those selling the UK
+(and euro area) imported goods. As a result, UK aggregate real national income (that is,
+GDP in terms of its purchasing power over consumption goods) fell by 2.4% between 2019
+Q4 and 2022 Q4. That fall in aggregate real national income must result in either lower
+real labour income, or lower real capital income, or both. The labour share increased
+somewhat during the pandemic, reducing the hit to aggregate real labour income. The
+labour share has begun to move back towards its long-run average in recent quarters,
+meaning that capital has gained relative to labour recently, although in aggregate the
+labour share is still just above pre-pandemic levels. Thus the data shows little evidence of
+UK inflation being disproportionately due to firms raising prices. The share of national
+income going to capital is lower than its pre-pandemic average.
+
+25
+
+See Gutiérrez and Piton (2020) for a discussion on measuring the labour share, and trends across
+countries.
+
+Bank of England
+
+Page 27
+
+As far as inflation is concerned, what happens next remains uncertain. Inflation could
+persist well beyond the terms of trade shock if dynamics in labour and capital income
+become embedded. Fundamentally, we do not have comparable periods in the recent past
+on which to base analysis and models of potential embeddness. The last time inflation was
+this high was in the 1970s and 1980s, but a lot has changed in the structure of the
+economy since then, not least the introduction of inflation-targeting central banks and
+changes in product and labour market institutions which affect the response of an
+economy to supply shocks (Bruno and Sachs; see also Bean, Blanchard and Wolfers,
+Layard, Nickell and Jackman, and Newell and Symons). The period since the Bank of
+England’s independence in 1997 has not seen a series of shocks like this before.
+How do we make good policy with little past information and when we are so unsure of the
+future? First, the tightness of the labour market is a critical measure for which we have a
+range of measures of levels and change, with some more backward- and some more
+forward-looking. I would propose to focus closely, as discussed in previous speeches26, on
+indicators such as vacancies, redundancies, and hiring and firing intentions. I am also
+closely monitoring developments in economic inactivity, since that has bearing on the
+tightness of the labour market and the potential supply of the economy.
+I also think it is important to continue to monitor closely indicators of potential inflation
+persistence, including core and services inflation, and wage growth. Bank staff have also
+produced an ‘underlying inflation measure’ for the UK (Potjagailo, Wanengkirtyo and
+Lam, 2022), and explored the shares of core inflation accounted for by items that have
+historically proved more persistent (May 2023 MPR, Chart 3.2).
+My current reading is that while some indicators suggest that the labour market is
+loosening somewhat, I view it as still very tight in an absolute sense: for example, the
+vacancies-to-unemployment ratio remains historically very high, as does unit wage growth.
+The co-incidence of high core inflation and subdued activity suggests the supply side of
+the economy may have deteriorated.
+Second, with such uncertainty, I believe it is prudent to reduce the focus we place on
+forecasts of the medium-term and put more weight on the near-term data. Third, I prefer to
+lean against the risks of inflation momentum. As difficult as our current circumstances are,
+embedded inflation would be worse.
+The MPC remains committed to bringing inflation sustainably back to the 2% target, and
+that is what we will do. But to do this, further increases in Bank rate cannot be ruled out.
+
+26
+
+See for instance Haskel (2021), Haskel (2022).
+
+Bank of England
+
+Page 28
+
+I am grateful to Josh Martin and Julian Reynolds for their help preparing this speech.
+Thanks also to Andrew Bailey, Catherine Mann, Chris Duffy, Fabrizio Cadamagnani,
+Fergal Shortall, Huw Pill, Jamie Lenney, Lennart Brandt, Martin Seneca, Nick Bate, Oliver
+Davies, Silvana Tenreyro, Sophie Piton and Swati Dhingra for helpful comments, and
+Charlie Bean and Ron Smith for helpful discussion.
+
+

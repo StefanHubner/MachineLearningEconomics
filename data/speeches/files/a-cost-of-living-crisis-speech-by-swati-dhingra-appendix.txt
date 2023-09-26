@@ -1,0 +1,276 @@
+Bank of England
+
+Page 1
+
+Technical Appendix
+A cost-of-living crisis: Inflation during an unprecedented terms of trade shock - speech by
+Swati Dhingra given at the Resolution Foundation, 8 March 2023.
+
+A1. Sensitivity Analysis
+Chart A1.1: QoQ Decomposition
+6
+
+Pp. contribution to quarterly rate
+
+4
+2
+0
+-2
+-4
+-6
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Q1
+Q1
+Q1
+Q1
+Q1
+Q1
+Q1
+Q1
+Q1
+Q1
+Q1
+Q1
+Other imports
+Energy
+GOS
+UWCs
+Imports
+
+Taxes
+
+CPI
+
+Bank of England
+
+Page 2
+
+Chart A1.2: 2015 IO Matrix Decomposition
+
+12.0
+
+Pp. contribution to annual rate
+
+8.0
+4.0
+0.0
+-4.0
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1
+Imports
+
+Energy
+
+UWCs
+
+Other imports
+
+GOS
+
+CPI
+
+Taxes
+
+Chart A1.4: Furlough Period Alternative Decomposition
+
+12.0
+
+Pp. contribution to annual rate
+
+8.0
+4.0
+0.0
+-4.0
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1 Q1
+Imports
+
+Energy
+
+UWCs
+
+Other imports
+
+GOS
+
+CPI
+
+Taxes
+
+Bank of England
+
+Page 3
+
+Chart A1.5: Food Price Inflation by Share of EU Imports
+
+Notes: Items are binned by EU exposure. Up to 40%, 40-60%, 60-80% and over 80%. Lines are the
+proportion of prices rising and falling month-on-month. Source: Updated version from Richard Davies,
+originally in Bakker, Datta, Davies and De Lyon (2022)
+
+A2. Methodology
+Let 𝐶𝐶 be a matrix of Consumer Price Index where rows denote time and columns denote
+different 2-digit COICOP items. Similarly, 𝑀𝑀 and 𝐷𝐷 are matrices containing 2-digit domestic
+consumer price indices, import price indices and domestic producer price indices, where
+the latter two are recorded from price quotes of firms in the economy. The import and
+domestic producer prices indices have been obtained from the ONS at the 2-digit CPA
+level, through an FOI request. ONS price indices are derived from price statistics for 20112022 at a monthly frequency. Services producer price indices are available quarterly, so
+the exercise is conducted at a quarterly level. Services import price indices are available
+for thirteen different categories which are manually matched to the 2-digit services CPA
+categories. Data for the last period of 2022Q4 is not available at the disaggregate 2-digit
+level and is projected from the disaggregate statistics for: current price and chain value
+measures trade in services, and industry GVA. These series are projected using the
+aggregate growth in aggregate trade in services and aggregate GVA.
+
+Bank of England
+
+Page 4
+
+The domestic and import shares in final household consumption are denoted by 𝐹𝐹𝑑𝑑 , a
+diagonal matrix with the diagonal element containing the domestic share of household final
+consumption of CPI Items. Each row contains the CPI items sequentially. 𝐹𝐹𝑚𝑚 is a diagonal
+matrix with the diagonal element containing the import share of household final
+consumption of CPI items. The final household consumption shares are from supply-use
+tables.
+The domestic and import direct use matrices contain the expenditure on factors of
+production (as a share of the value of output) and are denoted by 𝐴𝐴𝑑𝑑 and 𝐴𝐴𝑚𝑚 for the CPI
+basket and by 𝐵𝐵𝑑𝑑 and 𝐵𝐵𝑚𝑚 for the entire economy. They are available at the 2-digit CPA
+level from the supply-use tables. They also include the value of compensation of
+employees, taxes on products, taxes on production and gross operating surplus for each
+CPA category. The main analysis uses the latest (2018) direct supply-use tables and the
+sensitivity analysis uses the 2015 tables. The 2-digit import and domestic producer price
+indices can be readily mapped to the 2-digit COICOP classification from a mapper
+provided by the ONS. It enables a mapping from the supply-use tables and import and
+domestic price indices to the consumer price classification.
+Let 𝑋𝑋 𝑇𝑇 denote the transpose of matrix 𝑋𝑋. With this notation in hand, CPI inflation can be
+decomposed into cost and profit components. We will denote the residual profits of
+retailers selling consumer products by 𝑉𝑉. Then the CPI can be written as the sum of all unit
+costs incurred by the domestic sellers of that item and their residual profit:
+𝐶𝐶 𝑇𝑇 ≡ 𝐴𝐴𝑇𝑇𝑑𝑑 𝐷𝐷𝑇𝑇 + 𝐴𝐴𝑇𝑇𝑚𝑚 𝑀𝑀𝑇𝑇 + 𝑉𝑉 𝑇𝑇
+
+(1)
+
+𝑇𝑇 𝑇𝑇
+𝑀𝑀 + 𝑉𝑉𝑑𝑑𝑇𝑇
+𝐷𝐷𝑇𝑇 ≡ 𝐵𝐵𝑑𝑑𝑇𝑇 𝐷𝐷𝑇𝑇 + 𝐵𝐵𝑚𝑚
+
+(2)
+
+Similarly, the domestic producer price index is the sum of all unit costs incurred by the
+producer and the residual profit that the producer retains in the business:
+
+We do not typically have direct measures of residual profits 𝑉𝑉, 𝑉𝑉𝑑𝑑 . They can however be
+inferred from the CPI and PPI identities of equations 1 and 2 respectively because we
+have the other variables in the. Therefore the first step in the decomposition exercise is to
+infer the matrix of retailer residual profits 𝑉𝑉 𝑇𝑇 ≡ 𝐴𝐴𝑇𝑇𝑑𝑑 𝐷𝐷𝑇𝑇 + 𝐴𝐴𝑇𝑇𝑚𝑚 𝑀𝑀𝑇𝑇 − 𝐶𝐶 𝑇𝑇 and the matrix of
+𝑇𝑇 𝑇𝑇
+domestic supplier’s residual profit matrix 𝑉𝑉𝑑𝑑𝑇𝑇 ≡ 𝐵𝐵𝑑𝑑𝑇𝑇 𝐷𝐷𝑇𝑇 + 𝐵𝐵𝑚𝑚
+𝑀𝑀 − 𝐷𝐷𝑇𝑇 using data for each
+CPA 2-digit category from the prices and supply-use tables.
+
+To understand the sources of CPI inflation after accounting for the domestic supply chain,
+the CPI index needs to be written in terms of primary and imported factors of production.
+Let [𝐼𝐼 − 𝐵𝐵𝑑𝑑𝑇𝑇 ]−1 be the inverse of a matrix that contains the difference between an identity
+matrix 𝐼𝐼 and the transposed domestic use matrix 𝐵𝐵𝑑𝑑𝑇𝑇 . Then the domestic producer price
+index can be solved for in terms of the imported prices, import use, domestic use and
+
+Bank of England
+
+Page 5
+
+residual profits. Taking 𝐵𝐵𝑑𝑑𝑇𝑇 𝐷𝐷𝑇𝑇 to the LHS and multiplying by the inverse matrix [𝐼𝐼 − 𝐵𝐵𝑑𝑑𝑇𝑇 ]−1
+on both sides of equation (2) gives the domestic price index for the 2-digit CPA item as:
+𝑇𝑇 𝑇𝑇
+𝑀𝑀 + [𝐼𝐼 − 𝐵𝐵𝑑𝑑𝑇𝑇 ]−1 𝑉𝑉𝑑𝑑𝑇𝑇
+𝐷𝐷𝑇𝑇 ≡ [𝐼𝐼 − 𝐵𝐵𝑑𝑑𝑇𝑇 ]−1 𝐵𝐵𝑚𝑚
+
+(3)
+
+Having already solved for 𝑉𝑉𝑑𝑑𝑇𝑇 , this second step gives the domestic producer prices in terms
+of import prices and residual profit margins.
+The domestic producer prices can be substituted from equation 3 into the consumer price
+identity of equation 1. Then the domestic CPI consists of import costs and profit
+components as shown below:
+𝑇𝑇 𝑇𝑇
+𝐶𝐶 𝑇𝑇 ≡ 𝐴𝐴𝑇𝑇𝑚𝑚 𝑀𝑀𝑇𝑇 + 𝐴𝐴𝑇𝑇𝑑𝑑 [𝐼𝐼 − 𝐵𝐵𝑑𝑑𝑇𝑇 ]−1 𝐵𝐵𝑚𝑚
+𝑀𝑀 + 𝐴𝐴𝑇𝑇𝑑𝑑 [𝐼𝐼 − 𝐵𝐵𝑑𝑑𝑇𝑇 ]−1 𝑉𝑉𝑑𝑑𝑇𝑇 + 𝑉𝑉 𝑇𝑇
+
+(4)
+
+This third step shows that the domestic CPI index is a sum of the direct contribution of
+imports in the CPI basket (first term on the RHS), the indirect contribution of imports
+(through domestic inputs that use imported inputs themselves), the residual profits of
+domestic suppliers (third term) and the residual profits of domestic producers (last term).
+The fourth step accounts for differences in the share of imports for final consumption in the
+CPI basket: 𝐶𝐶 𝑇𝑇 = 𝐹𝐹𝑑𝑑𝑇𝑇 𝐶𝐶 𝑇𝑇 + 𝐹𝐹𝑚𝑚𝑇𝑇 𝐶𝐶 𝑇𝑇 . The CPI does not distinguish between domestic and
+imported varieties of consumer items, but we know that about 80 percent of varieties for
+final consumption are domestically purchased. As long as prices of final import
+consumption are rising faster than their domestic counterparts, the results provide a lower
+bound for external factors as a source of inflation.
+𝐶𝐶 𝑇𝑇 = 𝐹𝐹𝑚𝑚𝑇𝑇 𝐶𝐶 𝑇𝑇 + 𝐹𝐹𝑑𝑑𝑇𝑇 �
+
+𝑇𝑇 𝑇𝑇
+𝐴𝐴𝑇𝑇𝑚𝑚 𝑀𝑀𝑇𝑇 + 𝐴𝐴𝑇𝑇𝑑𝑑 [𝐼𝐼 − 𝐵𝐵𝑑𝑑𝑇𝑇 ]−1 𝐵𝐵𝑚𝑚
+𝑀𝑀
+�
+𝑇𝑇 [𝐼𝐼
+𝑇𝑇 ]−1 𝑇𝑇
+𝑇𝑇
++𝐴𝐴𝑑𝑑 − 𝐵𝐵𝑑𝑑 𝑉𝑉𝑑𝑑 + 𝑉𝑉
+
+(5)
+
+More generally, we can extend the identity to include other factors of production that are in
+the supply-use tables. These include energy (denoted by 𝑒𝑒 for energy and by 𝐸𝐸 for the
+price index of energy), imported inputs (other than energy), taxes on products and
+production (denoted by 𝑡𝑡 for taxes as a share of the value of output and by 𝑇𝑇 for the tax
+rate), compensation of employees (denoted by 𝑤𝑤 for workers as an input and 𝑊𝑊 as the
+wage rate). The supply-use table also contain the gross operating surplus for each 2-digit
+CPA category. This can be used to determine the profit margin from the residual profits
+because 𝑉𝑉 𝑇𝑇 ≡ 𝐴𝐴𝑇𝑇𝑣𝑣 Π𝑇𝑇 where 𝐴𝐴𝑉𝑉 is the gross operating surplus as a share of the value of the
+2-digit CPA output or the profit margin is inferred as Π𝑇𝑇 = [𝐴𝐴𝑇𝑇𝑣𝑣 ]−1 𝑉𝑉 𝑇𝑇 . Proceeding similarly,
+domestic suppliers’ profit margins can be inferred as Π𝑇𝑇 = [𝐵𝐵𝑣𝑣𝑇𝑇 ]−1 𝑉𝑉𝑑𝑑𝑇𝑇 where 𝐵𝐵𝑉𝑉 is the
+gross operating surplus as a share of the value of the 2-digit CPA produced by the
+domestic supplier. Mapping the residual profits from step 1 to the profit is the fourth step in
+the exercise.
+
+Bank of England
+
+Page 6
+
+Finally, separating out final energy bills of households, the four steps above enable the
+following CPI decomposition as the final step in the exercise.
+𝐹𝐹𝑒𝑒𝑇𝑇 𝐸𝐸 𝑇𝑇 + 𝐴𝐴𝑇𝑇𝑒𝑒 𝐸𝐸 𝑇𝑇 + 𝐴𝐴𝑇𝑇𝑒𝑒 [𝐼𝐼 − 𝐵𝐵𝑒𝑒𝑇𝑇 ]−1 𝐵𝐵𝑒𝑒𝑇𝑇 𝐸𝐸 𝑇𝑇
+𝑇𝑇
+𝑇𝑇 −1 𝑇𝑇 𝑇𝑇
+𝑇𝑇
+𝑇𝑇
+⎛ +𝐴𝐴𝑚𝑚 𝑀𝑀 + 𝐴𝐴𝑑𝑑 [𝐼𝐼 − 𝐵𝐵𝑑𝑑 ] 𝐵𝐵𝑚𝑚 𝑀𝑀
+⎞
+𝐶𝐶 𝑇𝑇 = 𝐹𝐹𝑚𝑚𝑇𝑇 𝐶𝐶 𝑇𝑇 + 𝐹𝐹𝑑𝑑𝑇𝑇 ⎜ + 𝐴𝐴𝑇𝑇𝑤𝑤 𝑊𝑊 𝑇𝑇 + 𝐴𝐴𝑇𝑇𝑑𝑑 [𝐼𝐼 − 𝐵𝐵𝑑𝑑𝑇𝑇 ]−1 𝐵𝐵𝑤𝑤𝑇𝑇 𝑊𝑊𝑑𝑑𝑇𝑇 ⎟
+⎜
+⎟
++𝐴𝐴𝑇𝑇𝑣𝑣 Π𝑇𝑇 + 𝐴𝐴𝑇𝑇𝑑𝑑 [𝐼𝐼 − 𝐵𝐵𝑑𝑑𝑇𝑇 ]−1 𝐵𝐵𝑣𝑣𝑇𝑇 Π𝑑𝑑𝑇𝑇
+⎝ +𝐴𝐴𝑇𝑇𝑡𝑡 𝑇𝑇 𝑇𝑇 + 𝐴𝐴𝑇𝑇𝑑𝑑 [𝐼𝐼 − 𝐵𝐵𝑑𝑑𝑇𝑇 ]−1 𝐵𝐵𝑡𝑡𝑇𝑇 𝑇𝑇 𝑇𝑇 ⎠
+
+(6)
+
+where the first line contains imported varieties (other than energy) for final consumption by
+households, the second line is the final, direct and indirect energy and imported inputs’
+contributions, the third line contains the direct and indirect wage costs, the fourth line
+contains the inferred profit margins of retailers and domestic suppliers, and the last line is
+the taxes on products and production. Equation 6 gives the main findings reported in the
+main text.
+Data on domestic energy prices come from the ONS provided 2-digit PPI data and data on
+imported energy prices come from BEIS. Wage rates are obtained for each 2-digit CPA
+category (which maps one-to-one to the 2-digit SIC classification). Energy prices and
+wages are available at a monthly frequency from the ONS.
+Tax shares in prices are derived from the price series using the tax share in the supply-use
+tables. The tax share in the supply-use tables is small compared to the average share of
+production taxes in the economy, so sensitivity analysis is conducted with the average tax
+share in the economy, but this makes very little quantitative or qualitative difference to the
+main findings, so we do not reproduce the analysis here.
+
+

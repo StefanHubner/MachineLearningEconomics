@@ -1,0 +1,290 @@
+Stablecoins: What’s Old is New Again
+Speech given by
+Christina Segal-Knowles
+Executive Director
+Financial Market Infrastructure Directorate
+
+Westminster eForum Policy Conference
+10 June 2021
+
+I am grateful to Morgane Fouche, Matthew Osborne, Stephanie Haffner, Robert Page and
+James Pople-Hoskins for their help in preparing these remarks. I am also grateful to Antoine Lallour,
+Nicholas Butt, David Copple, Shiv Chowla, Andrew Hauser and Victoria Cleland for their helpful
+comments.
+1
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+I’m going to focus today on what is sometimes billed as the next big thing in digital payments - stablecoins digital tokens issued by the private sector which aim to maintain a stable value at all times, primarily in
+relation to existing national currencies.
+
+And to be clear from the start, today I will touch only on those stablecoins that aim to be used widely as
+means of payments.
+
+Stablecoins and other new forms of innovation in payments potentially offer benefits. They could reduce cost
+and offer new convenience and functionality. They could increase the resilience of payments – by offering
+alternative new ways to pay. And there could be potential long term financial stability gains from new forms
+of digital money. But these opportunities can only be realised if new forms of digital money are safe.
+So today I am not going to focus on what’s new about stablecoins. Instead, I am going to focus on why –
+even if the technology they are using is new - the basic elements of a stablecoin are very old. In fact, as old
+as money itself.
+
+This means that as financial regulators, stablecoins are not launching us off into some brave new world.
+We know what is required to ensure private money1 is safe for wide-scale use. The key here is to ensure
+that just because something is packaged in shiny technology we don’t somehow treat the risks it poses
+differently.
+
+Private Money: the basics
+
+Before I turn to stablecoins I want to spend a minute on one of the reasons why the idea of private money
+feels innovative and flashy. Even though most money we use every day is already private money, the vast
+majority of us don’t think about it. Luckily, regulation means we don’t have to.
+
+Popular culture often simplifies our ideas around what form our money takes and can reinforce the idea that
+banks are simply storing our sterling issued by the central bank for us, and that when we pay electronically,
+what is being moved is central bank-issued money. For example, remember those iconic scenes from
+Mary Poppins and It’s a Wonderful Life which feature people demanding that banks give them back their
+money.
+
+But in reality, when you tap your debit card in a shop or pay your friend back via a bank transfer, the money
+you are paying with isn’t sterling issued by the Bank of England with a promise to pay the bearer – it’s a bank
+deposit. Those are just a record of how much a private company – here, the commercial bank - owes its
+customers. Think of it as an IOU from the bank.
+
+1
+
+Private money mainly takes the form of deposits held in bank accounts. The only form of public money accessible to the general public
+is cash, in the form of coins and notes.
+2
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+2
+
+When we say that we are “withdrawing our money” from an ATM - what we are actually doing is converting
+our IOUs from our bank, i.e. commercial bank money, into banknotes issued by the Bank of England.
+So even though we don’t think about it, we’re already using private money all the time. Ninety-five percent of
+the funds households and businesses hold that are typically used to make payments are now held as
+commercial bank deposits rather than cash2. The pandemic has prompted a further decrease in cash usage,
+accelerating a longer-term decline that is likely to continue3.
+
+Private Money: Why do we care?
+Today in the United Kingdom we don’t generally pay attention to whether we are using private or public
+money. We can assume that the value of the money we use will be more or less stable. Shops don’t need to
+scrutinize which bank holds your deposit before you pay – and they are generally as willing to receive private
+money in the form of card or smartphone wallet payments as they are cash.
+
+The fact that commonly used private money is interchangeable with cash anchors it to national currencies
+and, as a result, promotes financial stability. The fact that bank deposits can be exchanged for cash on
+demand guarantees uniformity – ensuring that bank deposits from one bank can be used interchangeably
+with cash and with bank deposits from another bank. While banks do fail, regulation and liquidity backstops
+makes that relatively rare. And deposit protection schemes ensure that transactional balances up to £85,000
+remain interchangeable with cash even if that happens.
+
+This model is relatively recent. It was not ever thus.
+
+And as we think about new forms of digital payments, it is important that we do not take this for granted.
+
+A large number of financial crises of the last century have featured a loss of confidence in the reliability and
+safety of the money people rely on for transactions.
+
+Money that is usually considered safe. Money that people normally do not think about very much.
+
+In the emerging market financial crises of the 1990s and early 2000s, people and businesses lost faith in the
+state’s ability to maintain the value of their local currency against the dollar4.
+
+2 This is based on the amount of cash held by the public as a share of total cash and sight deposits. See Part V of ‘A millennium of
+macroeconomic data’, Research dataset, Bank of England.
+3 See LINK News and media contact, 'Coronavirus Crisis means cash use down but UK still withdrawing £1billion from ATMs each
+week'; See LINK, 'Statistics and trends'; See chart A in ‘New forms of Digital money’ DP, June 2021. Moreover, in practice, the UK
+authorities remain committed to ensuring access to cash to those that need it. The Bank, HMT, FCA and the PSR have been working
+together on the Joint Authorities Cash Strategy group to monitor the use of cash, ATM availability, and ensure cash remains available
+despite the impacts of Covid.
+4
+See the example of the Corralito in Argentina. (BBC, 02/12/2002: “Argentina lifts cash restrictions”).
+3
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+3
+
+Other crises have had at their heart a loss of confidence in the ability of private issuers – commercial banks –
+to fulfil their IOUs with depositors and lenders and maintain the interchangeability and reliability of the money
+they issued. Think of the Great Depression-era bank run depicted in It’s a Wonderful Life. Think of the
+Northern Rock example – where worries about the Northern Rock’s funding led to a crisis of confidence; first
+from wholesale lenders and then from retail depositors – who suddenly worried that their deposits would no
+longer be interchangeable with cash or other bank deposits. Remember the queues outside of branches in
+2007, as depositors rushed to exchange their deposits before – they believed – it might be too late5.
+
+Confidence in the credibility and stability of private money are fundamental components of financial stability.
+
+Innovation
+But let’s go back to stablecoins and innovation in payments.
+Stablecoins are digital tokens that aim to maintain a stable value vis-a-vis existing forms of money6. Their
+origin stories generally trace back to the crypto world. Most forms of crypto-assets, like Bitcoin, are too
+volatile to be attractive as a widespread means of payment.
+
+We have seen time and time again that if money is not reliably stable most people will not want to use or
+accept it as payment. There is no reason to think this time is different7.
+
+To solve this, stablecoins have turned to the age-old solution of anchoring their value to national currencies,
+often with a promise to ensure that the value remains 1 for 1 at all times. Stablecoins therefore could
+potentially serve as a substitute for a commercial bank deposit. Both stablecoins and banks are offering a
+representation of what a private company owes its customers – an IOU - which can be transferred as a
+means to pay for things. Both are promising (or at least aspiring to) stability against and interchangeability
+with money issued by central banks.
+
+It is possible in this context that stablecoins could scale up and grow rapidly, and become widely used as a
+trusted form of sterling-based retail payments. To be clear - I don’t know if this will happen. Stablecoins and
+other new forms of private non-bank money might be the next big thing. Or they might be a flash in the pan.
+I don’t have a bet here - I am a central banker not a venture capitalist.
+
+See: “The financial crisis – 10 years on” (Bank of England, 2018)
+Stablecoins are different from CBDC. While stablecoins are a privately issued form of digital money, CBDCs are a form of digital
+money issued by the central bank. The Bank of England is exploring the case for a CBDC but has not made a decision yet.
+7
+In March 2018, the FPC noted that: “[Crypto-assets] should be considered as assets rather than currencies. However, as assets, they
+establish no claim on any future income streams or collateral. They have no intrinsic value beyond their currently limited potential to be
+adopted as money in the future, and hence could prove worthless”.
+5
+6
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+4
+
+My job, as a central banker and regulator - in all of this – is to ensure that financial innovations, including new
+forms of digital money, do not impair the Bank of England’s ability to maintain monetary and financial
+stability.
+This shouldn’t be confused with preserving the status quo. Financial stability isn’t about protecting incumbent
+banks or other existing firms from competition. Instead financial stability seeks to ensure that people and
+businesses can rely on essential financial services – like the ability to make a payment or the ability to get a
+loan - in bad times as well as good.
+
+A regulatory framework
+
+Earlier this week, the Bank of England published a Discussion Paper that examines the implications of
+stablecoins for its financial and monetary stability mandate. In it we present an illustrative scenario to
+examine the implications of the emergence of stablecoins and other new forms of digital money. The
+discussion paper models what would happen if a large number of households and businesses moved their
+deposits from banks and into a stablecoin or Central Bank Digital Currency (CBDC). Contrary to some press
+headlines, even such a dramatic shift does not inherently constitute a financial stability risk as long as it
+happens in an orderly manner. In fact findings show that the implications of this in the long term for the ability
+of households and businesses to get a loan are relatively modest – although there is considerable
+uncertainty around this result.
+
+As such, while other risks may arise during a transitionary phase, the most significant risk arises from the
+potential for stablecoins in particular to undermine confidence in money and payments, and hence in the
+wider financial system.
+
+As we discussed a few minutes ago, the risk of a loss of confidence in the credibility and stability of private
+money is not theoretical. Loss of confidence in private money can be a major threat to financial stability.
+But it is equally true that private money can be made acceptable as a widespread means of payment –
+indeed, as I covered earlier, the vast majority of money held for transactions in the United Kingdom is
+already private. So, with the right regulation, a stablecoin could potentially be made safe for wide-scale use.
+
+Our existing regulatory framework seeks to ensure that the public is able to trust the reliability and stability of
+the money it uses every day. Banks are subject to extensive rules and requirements to ensure that
+consumers can use privately-issued money with confidence and interchangeably with cash. These core
+rules and requirements were developed over time – in many cases via trial and error, with new rules
+introduced following financial crises.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+5
+
+Financial market infrastructure firms are also regulated to ensure that the assets they use for settlement –
+the underpinnings of our financial transactions, whether we’re buying milk or clearing a derivative –
+are public money issued by a central bank wherever possible. Where that’s not possible they are permitted
+to settle in money deemed to be a close substitute – commercial bank money.
+
+If stablecoins seek to be acceptable widespread substitutes for commercial bank deposits as a means of
+payment, it stands to reason that stablecoins will need to meet the core elements of our existing regulatory
+framework for private money which underpins confidence that it is interchangeable with cash8. These are:
+
+
+A legal claim – to allow for prompt redemption at all times, for the amount initially deposited, and at
+no cost to the depositor; In other words – the little boy’s right in Mary Poppins to demand that the
+bank ‘give him back his money.
+
+
+
+Capital requirements – to lower the risk of insolvency, these are calculated based on the nature of
+the risks issuers undertake (credit, operational, market risks); they act as a cushion to absorb losses,
+reducing the chances that a firm fails.
+
+
+
+Liquidity requirements – to ensure redemptions can be met in most circumstances – supported by
+eligibility for central bank facilities where relevant, to meet firms’ liquidity needs in extremis. This
+ensures that temporary liquidity issues arising from difficulties selling assets backing the value of
+stablecoins don’t result in firm failure; and
+
+
+
+A backstop to compensate depositors – or in this case coinholders – such as the Financial Services
+Compensation Scheme (FSCS) (or in other countries deposit insurance), in case of failure. This
+ensures that, even if a firm fails, transactional deposits up to a certain amount remain exchangeable
+for central bank money. Notably – one of the key responses to the Northern Rock episode was to
+increase FSCS coverage in the
+United Kingdom.
+
+This is not to say the regulatory model for stablecoins needs to be identical to banks. It could include
+different applications of the above features. For example, if stablecoin operators are restricted to backing
+themselves in high quality liquid assets they won’t need regulation to cover credit risk. If they only back
+themselves in central bank reserves, which are inherently liquid, they don’t need liquidity facilities. Ultimately,
+the specific requirements may well be different from those applicable to banks, but the outcome will be the
+same – that systemic stablecoins used as money will offer the same protection to coin holders as
+commercial bank money.
+
+In December 2019, the FPC noted that: “Where stablecoins are used in systemic payment chains as money-like instruments they should
+meet standards equivalent to those expected of commercial bank money in relation to stability of value, robustness of legal claim and the
+ability to redeem at par in fiat”.
+8
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+6
+
+Conclusion
+
+The title of this speech is a cliché: Everything that is old is new again. But I am going to end on a different
+cliché: the definition of insanity (widely – and inaccurately – attributed to Albert Einstein) is doing the same
+thing over and over again but expecting different results.
+
+As I mentioned earlier, stablecoins may be innovative in the technology they use, but the fundamental
+questions they pose are not new. We as central bankers and regulators need to look at them as what they
+propose to be – a new form of private money.
+
+This means that we will hold them to standards similar to those applicable to existing private money. It
+doesn’t matter what type of technology you’re using or the legal form of the firm. If a firm is offering private
+money on a systemic scale then it should be regulated as such.
+
+Our core rules and requirements came through trial and error, often following financial crises. Our work on a
+regulatory regime for stablecoins builds on this learning process - rather than starting at square one and
+expecting different results.
+
+I recognise that the themes here sound curmudgeonly. But this is not an anti- innovation message: quite the
+opposite.
+
+Establishing a secure regulatory environment for new forms of digital money to operate within the UK will lay
+a foundation for sustainable innovation. As I said at the outset, if new forms of digital money can be made
+safe, they could potentially contribute to faster, cheaper and more efficient payments with greater
+functionality. They could increase the resilience of payments. And they could even have long-term benefits
+for financial stability.
+But these opportunities can only be realised if new forms of digital money are safe – which means
+recognising and properly regulating the elements that are age-old.
+
+7
+
+All speeches are available online at www.bankofengland.co.uk/news/speeches and @BoE_PressOffice
+
+7
+
+

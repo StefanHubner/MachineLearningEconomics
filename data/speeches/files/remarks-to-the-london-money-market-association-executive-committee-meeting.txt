@@ -1,0 +1,328 @@
+Remarks given by
+Chris Salmon, Executive Director for Banking Services and Chief Cashier
+
+At the London Money Market Association Executive Committee Meeting
+24 January 2013
+
+I would like to thank Nick Constantine, Dan Gray, Mike Jones and Hannah Reynolds for their
+contributions.
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Thank you for inviting me to the LMMA Executive Committee’s first meeting in 2013. Today’s meeting is the
+perfect venue to provide a progress report on some of the key changes which we have been promoting in
+the payment, settlement and clearing infrastructure for the unsecured and secured money markets.
+
+As many LMMA members will remember, the infrastructure of the sterling markets was substantively
+modernised by a series of reforms implemented from the mid-1990s. Key elements of these reforms
+included the introduction of real-time gross settlement for high value cash payments, delivery versus
+payment for securities transactions and the development of a deep and liquid, centrally cleared, gilt repo
+market.
+
+Those reforms created a fundamentally sound infrastructure for the core sterling money markets. And the
+benefits were seen in the recent financial crisis when the core payment systems worked well and did not act
+to amplify shocks. The value of this should not be under-estimated, not least given London’s role as an
+international financial centre.
+
+Nevertheless, developments in this type of infrastructure never reach an end point. A number of tail risks
+remain or have emerged and one of the lessons from the financial crisis has been that tail risks should not be
+neglected. The Bank has been working with market participants on a number of initiatives in this area and
+over the next year or so we should begin to reap the benefits of our efforts as those initiatives come to
+fruition.
+
+Although the bulk of my remarks will focus on the sterling markets, transactions take place in many
+currencies in London, and I will also offer a couple of comments on the nascent offshore RMB market.
+
+Payment Arrangements in the Unsecured Money Market
+
+Starting first with the cash market, our focus has been on strengthening the operation of the core high-value
+payment system, CHAPS, by remedying a relative weakness and taking steps to preserve one of CHAPS’
+great assets.
+
+In the past, membership of CHAPS was very limited. As a result, as recently as five years ago more than
+half of the value of all payments made by the CHAPS banks reflected transactions they undertook on behalf
+of their customers rather than on their own account. The sterling system has been unusual in this regard,
+reflecting the number of large international banks with a presence in the sterling markets that have made
+their payments through the traditional domestic clearers. In most other major currencies the clear majority of
+payments have been made by direct members on their own behalf.
+
+2
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+Why does this matter? High-value payment systems settle in real time and on a gross basis. This removes
+the credit and liquidity risks which would otherwise be associated with the payment flows. But that risk
+reduction benefit only applies to payments made between direct members of the scheme: credit and liquidity
+risks will still exist between the clearing members and their customer banks. And because these payments
+had been predominant within CHAPS, the high-value sterling payments network has been associated with
+higher credit and liquidity risks than equivalent networks for other currencies.
+
+In recent years the Bank has sought to fix this weakness by encouraging greater direct membership of
+CHAPS. We have done this by using our traditional approach of persuasion: explaining to the clearers and
+their large bank customers the case for those customers to become direct members. And we have used the
+statutory oversight regime, introduced in 2009, to encourage CHAPS to factor in the network of bilateral
+relationships outside of the core scheme when assessing and managing the risks in the system. As a result,
+CHAPS introduced new tiering rules in 2012 which create the presumption that banks with a large sterling
+presence will join CHAPS.
+
+Our efforts are having an impact. As of end-2008 there were just 14 CHAPS banks. Since then, four banks
+have joined CHAPS and two others have formally committed themselves to join over the next year or so. A
+small number of other banks continue to deliberate their next steps. I hope they too conclude that
+membership is in their own interest, taking into account not only their own risk management but also the fact
+that they benefit from participating in a safer system. If all of the banks we have been in discussions with
+were to join the scheme, the number of direct members would have increased by around a half compared
+with 2008, and the proportion of indirect business routed through CHAPS would fall to around 30%.
+
+In future, other banks may grow their sterling payments business to a point at which there is a presumptive
+case for them joining CHAPS. The new tiering rules will capture such developments. And if banks with
+lower total sterling transactions decide it is in their own interest to become direct members, then CHAPS has
+clear processes to facilitate that. Work is at an earlier stage on the similar tiering risks which may exist in
+relation to the membership of CREST, the securities settlement system, but assuming the progress we
+expect over the next year occurs, the Bank’s concerns about tiering risks within CHAPS will have been
+materially reduced.
+
+If tiering was a weakness for CHAPS in the past, then cooperative payment behaviour by the direct members
+has been an asset. Payments behaviour is an issue for real time gross settlement systems because the
+amount of liquidity that a bank needs to make its payments through the day depends on the order in which it
+makes and receives payments. A bank which makes its payments after all others will need to dedicate less
+liquidity to support its payments activities than a bank which pays earlier than its peers. But if each bank
+attempted to be final payer a self-defeating uncooperative equilibrium would emerge with a bunching of
+
+3
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+payments towards the end of the working day. This would in turn increase operational risk: specifically the
+vulnerability to an outage at either a bank or the central infrastructure towards the end of the day.
+
+There are prominent examples of high-value systems in which payments are habitually bunched towards the
+end of the day. CHAPS has avoided this outcome: to date a cooperative equilibrium has existed. A set of
+“throughput guidelines” states that, on average, half of the day’s payments should be made by noon, and
+three quarters by 2.30pm. Historically, these guidelines have been met at the system level and most
+individual banks have been compliant; proof, if needed, that banks can behave responsibly and
+cooperatively if the incentives are appropriate.
+
+But there is a risk that this situation will not persist. The renewed, and appropriate, focus on liquidity
+regulation means that banks will need to account for their intraday liquidity usage to their regulators,
+increasing the incentive for banks to make their payments late in the day. Over the past couple of years
+there has been a visible deterioration in throughput, and the noon scheme-wide target was consistently
+missed in the second half of last year, something which we have only rarely seen before. This gives prima
+facie evidence that banks are responding to their new incentives. In addition, our success in reducing tiering
+is resulting in a larger and more heterogeneous CHAPS membership. Any change like this has an effect on
+the payments profiles of the individual members and may potentially change the dynamics in what had
+previously been a fairly unchanging community.
+
+Given these risks, we are pursuing a two-pronged strategy. First, the Bank will introduce a Liquidity Saving
+Mechanism (LSM) into CHAPS this spring. Without delving into the technical details, LSMs can reduce the
+amount of liquidity members will use during the day to make a given level of payments, by allowing those
+payments that are earmarked by CHAPS banks to be matched against incoming payments and settled
+simultaneously. By making CHAPS inherently more liquidity efficient we hope to reduce the incentive to
+economise on liquidity uncooperatively. Once LSMs are introduced, we will continue to work with the
+CHAPS banks to ensure their proper use.
+
+Second, we are working with the CHAPS Scheme to reform the rules guiding throughput behaviour.
+According to the current framework, a bank is deemed to have met its throughput target so long as it had
+sufficient liquidity available to make any payments which were in fact made late. But these guidelines were
+designed before the boost to commercial bank reserves from quantitative easing and have become
+ineffectual in the current environment. We expect new rules which will focus only on the timing of payments
+to be agreed soon. Given that in some cases ‘lateness’ may be a natural artefact of a bank’s business
+model, rather than a strategic choice, the new rules will work on the basis that banks must ‘comply or
+explain’ to the CHAPS Scheme, rather than anything more automatic. But crucially, the rules will require
+banks to account for their behaviour, something which the current version is failing to achieve.
+
+4
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+As with the de-tiering initiative, our expectation is that our payments-timing work should be substantively
+completed by the end of this year. Both changes will benefit LMMA members by reducing credit, liquidity
+and operational risks associated with the settlement of their cash transactions. But in the main, these
+changes will take place in the background, affecting only the back-office teams of CHAPS settlement banks.
+
+The Secured Money Market
+
+Turning to the secured money market, our key objective has been to reform how the DBV
+(Delivery-By-Value) market works. DBV is a mechanism within the CREST system, which allows the system
+to automatically select and deliver securities with a specified aggregate value from one member’s account to
+another’s. i Since its introduction, DBV gilt repo has become the mainstay of the secured sterling market
+and is used by all the major participants. Around £250 billion is settled each day, with the bulk of
+transactions cleared through LCH as central counterparty.
+
+Although the current LCH cleared DBV product - Repoclear Sterling GC (general collateral) - has facilitated a
+deep and liquid market, its key weakness is that any DBV transaction, whatever its underlying economic
+term, is implemented as if it were a series of overnight transactions. This results in a cycle of unwinding and
+re-inputting trades each day until the underlying transaction maturesii. Moreover, to avoid the situation
+where the borrower is short of cash in the period between the unwind and re-input of the transaction, the
+Bank of England may provide an intra-day loan of cash direct to its settlement bank.
+
+This is clearly a complicated way of lending term. My understanding is that DBV works like this because at
+the time of its introduction, in 1986, the gilt lending market was restricted to short term stock borrowing
+transactions. The design of original DBV balanced the needs of the lender to be collateralised overnight and
+those of the borrower - generally a Gilt-Edged Market Maker - to control its inventory for settlement during
+the day. But it is difficult to imagine that anyone would choose today to design the DBV market to work the
+way it does. Moreover it introduces operational and liquidity risks into the secured market.
+
+While the operational risk arises from the need to unwind and re-input term transactions, liquidity risk is
+increased by the need to deal with intraday flows equivalent to the entire value of outstanding DBVs each
+day. In the event that a counterparty or LCH or CREST failed during the working day or suffered a
+catastrophic operational outage, the repos that had been unwound because of the current DBV process
+would greatly amplify the subsequent money market disruption. This point has come out clearly in the
+various market-wide exercises that the Bank has coordinated to understand how a non-standard closure of
+CREST system could be best managed. These increased risks manifest themselves for all the market
+players: for the settlement banks, for their clients and for the Bank; each of which would find themselves
+with an unexpected and quite possibly unattractive overnight position if the DBV process broke down
+intra-day.
+5
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+These are classic tail risks: they are unlikely to materialise but it would be very costly if they did. And what
+is more, they are unnecessary risks. There is no technological reason why the collateral management cycle
+of DBV transactions cannot match the term of the underlying transaction. Under this alternative form of DBV
+– term DBV – collateral would be posted just once, at the start of loan, and returned when it expires, without
+the daily cycle of unwinds and re-inputs, reducing the related operational and liquidity risk. And if the
+borrower subsequently wished to use one of the bonds it has pledged for another purpose, it would be able
+to substitute alternative securities from the same DBV basket to secure its loan.
+
+As such, for several years the Bank has believed that the market would be well served if the term
+transactions currently conducted on an overnight DBV basis moved to a term DBV basis. It would eradicate
+the unnecessary liquidity and operational risks I have described, with few additional downsides, providing a
+clear financial stability benefit.
+
+The case in principle for changing market practices is now widely accepted. As LMMA members will be
+aware, Euroclear developed a Term DBV product in 2011, which conforms to the basic description I have
+just provided. LCH has indicated that it would be willing to develop another Repoclear product to allow term
+DBV transactions to be centrally cleared and has consulted with its membership about the design of a new
+product. And, perhaps most importantly, last November the LMMA endorsed the adoption of term DBV,
+subject to some technical changes to Euroclear’s current offering.
+
+But it has also become apparent that in practice term DBV will not become a reality without further
+marketwide coordination. This is because the benefits of the change – a less risky secured money market –
+are dispersed across the market, while the costs and risks associated with moving from one market standard
+to another accrue to individual players. In the case of EUI and LCH these costs include the actual cost of
+developing a new technology, before its future use was assured. And once the infrastructure were in place,
+market participants – GEMMS, fund managers – would be concerned about the risk of committing their
+resources to a less liquid market than the existing overnight DBV market. As a result no individual player –
+be it infrastructure provider or market participant – has an incentive to champion the change while everyone
+has a reason to hesitate.
+
+To help overcome this collective action problem the Money Market Liaison Group, chaired by my colleague
+Andrew Hauser, agreed in principle in December to establish a Term DBV steering committee. Its
+overarching objective will be to facilitate the adoption of a centrally-cleared term DBV instrument as the
+default method for gilt repo transactions. The steering committee has now been formed. It will be chaired by
+Ian Fox, from Lloyds, with Toby Davies from the Bank acting as deputy chair and I am delighted that the
+Chair of the LMMA, Ian Mair, has agreed to join the working group. If it is to fulfil its mandate the committee
+will have to address three main areas. First, it will need to ensure that development groups at EUI and LCH
+remain joined up so that they develop a mutually consistent product that meets the need of market
+6
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+participants. Second, the group will need to propose to the Securities Lending and Repo Committee suitable
+amendments to the Gilt Repo Code, to reflect desired market practice in the new market to deal with
+conventions for failed trades and the like. Third, it will need to ensure that there is speedy adoption of the
+new product, once it has become eligible for central clearing. Championing and coordinating market
+adoption will be one of the key tasks of the Committee. The key here will be to minimise the period in which
+liquidity is spread and diluted across the Overnight and Term DBV markets. This will require individual
+market participants to cooperate when developing their migration plans.
+
+The Bank, as MMLG chair; EUI; LCH and the LMMA published a joint press notice today committing
+themselves to work through the steering committee to facilitate the adoption of Term DBV. One of the
+group’s first tasks will be to signal a presumptive date for the start of migration to term DBV. Today’s press
+notice suggests somewhere between late 2013 and early 2014 as the target; the steering group will need to
+validate whether this is realistic.
+
+Hopefully, this joint commitment by all the key parties in the sterling money market, along with the
+establishment of the steering committee, will overcome the collective action problem, paving the way for the
+orderly adoption of term DBV. In contrast to the CHAPS reforms I described earlier, that will require front
+and back-office cooperation across the LMMA membership. But when the migration has been completed,
+the resilience of one of London’s core funding markets will be materially enhanced.
+
+Offshore RMB Market
+
+Much of the activity I have described probably falls into the category of ‘noteworthy but not newsworthy’. By
+contrast, the development of the nascent offshore RMB market has been newsworthy over the past year.
+
+The proposition that London could become a major centre for RMB denominated activity, just as it is for
+dollar and euro business, carries much force. The Bank would welcome the development of the offshore
+RMB market just as it would any other legitimate market innovation, and we would not want to inhibit that
+outcome inadvertently through gaps in our operational framework. After all, a stable financial system should
+create the conditions in which economic activity can flourish. This is why the Bank has engaged with the City
+of London initiative on London as a centre for renminbi business since its formation.
+
+Ultimately, the growth of the market will depend on the success of market participants in matching incipient
+demand and supply for RMB denominated products – just as the original eurodollar market grew by
+satisfying a latent private sector demand for dollar assets in this time zone. That said, there is a perception
+that market confidence would be boosted if the Bank and the PBOC agreed a swap line. The rationale for a
+swap would be to reduce the tail risk of lost market liquidity, which is basically the same rationale
+underpinning the swaps agreed between the network of G-7 central banks and Switzerland. It may therefore
+7
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+be helpful to remove any residual uncertainty about our attitude: the Bank is ready in principle to agree a
+swap line with the PBOC, assuming a mutually agreeable format can be identified.
+
+One of the key lessons from the financial crisis is that seemingly remote tail risks can materialise,
+destabilising markets and institutions, undermining financial stability. The UK is in the fortunate position that
+the set of reforms initiated in the mid-1990s have left a strong infrastructure for the core unsecured and
+secured sterling money markets. But even these basically sound markets have weaknesses which give rise
+to tail risks. In recent years the Bank has been working with market participants to correct these
+weaknesses. There are good grounds for thinking that they will be substantively addressed over the next
+twelve months or so. But for that to occur, particularly in relation to the reforms to operation of the DBV
+technology which underpins the gilt repo market, you, the market participants, will also need to do your share
+to bring about market-enhancing change.
+
+8
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+i
+
+DBV is used for a variety of purposes, and provides an important mechanism for lending sterling secured against gilt collateral. When
+used in this way, CREST will select securities from a specified standard basket: for instance the UBG category where the securities
+selected can only be either unstripped gilts, treasury bills and Bank of England bills or a combination thereof. The lender can be
+confident that adequate security will be posted while the borrower is freed from the need to identify specific bonds to collateralise the
+transaction. This process of automatic selection and substitution greatly facilitates the smooth operation of the secured lending market.
+
+ii
+
+This is best explained by a worked example. A five-day secured DBV loan between two banks will be implemented within the CREST
+system as-if it were a series of overnight transactions. That means when the loan is initiated CREST transfers a basket of gilts to the
+cash lending bank with cash moving in the opposite direction. However, the next morning the transaction is unwound with the gilts
+being returned to the borrower and the cash to lender, only for the trade to re-input towards the end of the working day. So rather than
+comprising of two sets of movements: a initial transfer of securities for cash on day one and a reversal a week later; a five day secured
+DBV loan comprises of ten such movements. Moreover, to avoid the situation where the borrower is short of cash in the period between
+the unwind and re-input of the transaction, the Bank of England may provide an intra-day loan of cash either direct to the borrower or its
+settlement bank, often secured against the securities which have been pledged to back the underlying transaction, introducing a further
+set of transactions between the settlement bank and ourselves.
+
+9
+
+All speeches are available online at
+www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+

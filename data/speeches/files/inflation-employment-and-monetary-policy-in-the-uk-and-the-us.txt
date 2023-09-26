@@ -1,0 +1,700 @@
+Inflation, employment and monetary policy in the UK and the
+US
+Speech given by
+David Miles, External Member of the Monetary Policy Committee, Bank of England
+2013 Economic Conference of the Federal Reserve Bank of Boston
+13 April 2013
+
+I would like to thank Jochen Schanz and Arpad Morotz for research assistance, and others for helpful
+comments. The views expressed are my own and do not necessarily reflect those of the
+Bank of England or other members of the Monetary Policy Committee.
+1
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+Many central banks – and I would include both the Fed and the Bank of England in this group – follow a
+flexible inflation targeting regime. But the emphasis placed upon inflation relative to the weight placed upon
+real variables (output, employment) differs. Does this difference mean that we should expect the monetary
+policy of the Fed, which explicitly has a dual mandate, to be different from that of the Bank of England and
+the ECB which do not? I want to consider how significant might be differences in objectives in shaping
+monetary policy. I want to argue that in the current economic environment monetary policy may be rather
+insensitive to the way in which a central bank’s objectives over growth and employment sit alongside an
+inflation target.
+At first sight, the Bank of England and the Federal Reserve seem to have rather different aims for monetary
+policy. The Federal Reserve Act specifies that the Board of Governors and the Federal Open Market
+Committee should seek ‘to promote effectively the goals of maximum employment, stable prices, and
+moderate long-term interest rates.’1 In contrast, the Bank of England’s remit2 puts price stability first: ‘The
+objectives of the Bank of England shall be: (a) to maintain price stability; and (b) subject to that, to support
+the economic policy of Her Majesty's Government, including its objectives for growth and employment.’
+So the Bank’s remit looks lexicographic. In some ways this is misleading; the action is all in what happens
+when inflation is away from target. There exist tradeoffs between bringing inflation back to target very quickly
+and growth. Setting monetary policy to return inflation to target very fast is likely to generate a path for output
+and employment different from that if a more gradual return to the target was chosen. If there is a degree of
+hysteresis then the levels of output and employment from different monetary policy strategies might be
+persistently different. This is recognised by the Bank of England’s remit: ‘The framework is based on the
+recognition that the actual inflation rate will on occasion depart from its target as a result of shocks and
+disturbances. Such factors will typically move inflation away from target temporarily. Attempts to keep
+inflation at the inflation target in these circumstances may cause undesirable volatility in output due to the
+short-term trade-offs involved, and the Committee may therefore wish to allow inflation to deviate from the
+target temporarily.’
+So the UK’s monetary policy regime is a quintessential example of a flexible inflation targeting regime. It is
+lexicographic only in the sense that there is an underlying belief that there is no long-run trade-off between
+growth and inflation. In the short-run, such trade-offs do exist. They depend on price and wage rigidities and
+the extent to which the economy’s supply capacity is endogenous to output growth. Monetary policy
+decisions during the past few years show how the Bank of England’s Monetary Policy Committee (MPC)
+interpreted the flexibility of its remit, and attempted to trade off inflation and growth. I suspect that the way in
+which the monetary policy decisions were made by the MPC is similar to how the FOMC might have reacted
+faced with the same economic situation. But similar is not the same as identical. Just how sensitive is
+
+1
+2
+
+Federal Reserve Act, Section 2A, http://www.federalreserve.gov/aboutthefed/section2a.htm
+http://www.hm-treasury.gov.uk/d/chx_letter_to_boe_monetary_policy_framework_200313.pdf
+2
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+2
+
+monetary policy to the precise preferences of the central bank (or of those that set its objectives) over
+inflation and economic activity?
+After briefly comparing the record of the MPC and FOMC I will assess how policy might be sensitive to
+attaching different weights to output and the output gap in central bank objectives. I will use a simple model,
+calibrated to the UK economy but the main conclusion of which are relevant more widely.
+
+The policy response to the recession:
+The Bank of England’s initial response to the extremely sharp downturn following the financial crisis was very
+similar to that of the Federal Reserve. Both countries faced essentially the same problem. Figure 1 shows
+CPI inflation in the UK and PCE inflation for the US. In both countries, annual inflation rose above 4% in late
+2008. But output contracted at the same time (Figure 2) and inflation then fell sharply. In response, both
+central banks cut their policy rates very substantially (Figure 3). And both subsequently engaged in asset
+purchases massively increasing the size of their balance sheets (Figure 4) to provide further stimulus once
+interest rates were close to their zero lower bound.
+
+Figure 1: Annual Inflation
+6
+United Kingdom (CPI)
+5
+
+United States (PCE)
+
+4
+
+%
+
+3
+2
+1
+0
+‐1
+‐2
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+Source: OECD
+
+3
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+3
+
+Figure 2: real GDP, Q1 2007 = 100
+
+120
+115
+
+US
+
+110
+
+UK
+
+105
+
+Trend
+
+100
+95
+90
+85
+80
+
+Source: OECD
+
+Figure 3: FED Funds Target Rate and UK Bank Rate
+
+8
+UK Bank rate
+
+7
+
+FED Funds Target
+
+6
+
+%
+
+5
+4
+3
+2
+1
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+1999
+
+1998
+
+1997
+
+1996
+
+1995
+
+0
+
+4
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+4
+
+Figure 4: Size of central bank balance sheets relative to nominal GDP
+
+30
+25
+
+FED
+BOE
+
+%
+
+20
+15
+10
+5
+0
+2007
+
+*
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Sources: FED, BEA, BoE, ONS, IMF. Monthly balance sheet data divided by annualised nominal GDP in the relevant quarter.
+* Nominal GDP forecasts from the IMF World Economic Outlook Database (October 2012 issue) have been used to estimate nominal
+GDP for 2013.
+
+Differences emerged from around 2010 onwards. Output recovered less in the UK despite a stronger
+performance of the labour market. In contrast to the US, the labour market participation rate in the UK
+remained broadly flat throughout the crisis, and even picked up more recently (Figure 5). Employment in the
+UK rose by about 0.9 million since early 2010. As a result, the unemployment rate has remained roughly
+constant since mid-2009 (Figure 6). And while labour productivity continued to grow in the US, it fell in the
+UK, and only recently reached its pre-crisis level (Figure 7). Why we see such a comparatively strong
+increase in employment while output remains weak in the UK is one of the major puzzles we are facing at the
+moment.
+
+5
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+5
+
+Figure 5: Participation rate
+
+68
+67
+
+US
+
+66
+
+UK
+
+%
+
+65
+64
+63
+62
+61
+2012
+
+2011
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2001
+
+2000
+
+60
+
+Sources: US Bureau of Labour Statistics, ONS. US data are quarterly averages of monthly data on civilian labour force participation rate
+of ages 16 or over. UK data are seasonally adjusted quarterly data.
+
+Figure 6: Harmonised unemployment rates
+
+12
+United States
+10
+
+United Kingdom
+
+%
+
+8
+6
+4
+2
+Sep‐12
+
+Nov‐11
+
+Jan‐11
+
+Mar‐10
+
+May‐09
+
+Jul‐08
+
+Sep‐07
+
+Nov‐06
+
+Jan‐06
+
+Mar‐05
+
+May‐04
+
+Jul‐03
+
+Sep‐02
+
+Nov‐01
+
+Jan‐01
+
+Mar‐00
+
+0
+
+Source: OECD
+
+6
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+6
+
+Figure 7: Productivity (real GDP per hour, Q1 2007 = 100)
+
+110
+US
+105
+
+UK
+
+100
+95
+90
+85
+80
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+Sources: OECD, ONS
+
+Since 2009, inflation has remained substantially higher in the UK than in the US, on average more than a
+percentage point above the Bank of England’s target of 2%. Nevertheless, the Bank of England provided
+further monetary stimulus, mainly by purchasing UK government bonds. The MPC anticipated that the
+inflation overshoot would be quite short-lived, and calibrated its policy action to bring inflation down to target
+towards the end of its forecast horizon two to three years later. In fact the period of above target inflation has
+been longer than the MPC thought. But because the Bank of England’s remit defines price stability in terms
+of an inflation rate, these past forecast errors did not directly impact the Committee’s decisions. (They have
+had a significant indirect effect arising from a concern that repeated overshoots might over time de-anchor
+inflation expectations.)
+So, inflation has been significantly and persistently above the target level in the UK, while in the US it has
+stayed much closer to 2%. There is a paradox here, or at least a question: why did the Bank of England,
+pursuing an inflation target, adopt a monetary policy as expansionary as the Fed – which has a policy goal
+that explicitly gives equal weight to employment as to inflation – given that US inflation has been lower and
+the rise in unemployment greater?
+Let me now come to the central issue: how sensitive in the current economic environment is monetary policy
+to the precise formulation of the central bank’s objectives? Monetary policy should depend on a wide range
+of economic factors: the extent to which current inflation is away from target, the likely scale of spare
+capacity, the degree of hysteresis in the labour market and in capital formation, the impact of monetary policy
+on demand and output, and the response of the economy’s supply capacity to output growth. It also depends
+on the relative weight on variability in inflation and on growth and employment in the objectives of those
+setting monetary policy. It is that dependence of monetary policy on the weights on inflation and employment
+7
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+7
+
+variability that I want to consider. I will do so using a simple model, which incorporates the economic
+relationships that I believe are crucial for monetary policy setting; and I will explicitly model central bank
+preferences. I am going to calibrate the model so that it is consistent with the most recent forecast for the UK
+made by the MPC, a forecast made with the use of a much more detailed and larger model. I suspect that
+many of the choices over parameters I use in my simple model would be reasonable for the US, so the
+results are – I think – of general interest.
+
+A simple model of monetary policy and monetary policy objectives
+I aim to describe the economic environment – and crucially the uncertainty about it – in a way that is roughly
+consistent with the assessment made by the MPC for the UK in its February 2013 Inflation Report but which
+also allows an explicit calculation to be made about what optimal monetary policy is. To do that I will need to
+be explicit about what monetary policy is trying to achieve. But first I want to describe how I think about risks
+and uncertainty. The model which I am going to use allows for four factors to be random. I am going to allow
+for:
+
+
+
+
+
+Uncertainty about how demand and output will evolve if monetary policy is left unchanged
+Uncertainty about the level of spare capacity today
+Uncertainty about how productive capacity would respond to faster (or slower) growth
+Uncertainty about how a change in monetary policy will affect demand and output
+
+The model that I am going to use is reduced to the bare minimum3. It has three parts that describe the
+evolution of output, inflation and supply capacity. It can be concisely summarised in a few equations. I will
+assume that the relevant horizon for the policy decision taken today is three years – that is I assume that
+what matters is what happens to inflation and growth over the next three years. That is not because what
+happens after that does not matter. It is just that I want to focus on the policy setting now and for simplicity I
+will assume that a policy set now is left in place for some time. So I chose a time horizon long enough for
+that policy to have effect but not so long that the idea that policy is left there is completely unrealistic. The
+horizon I chose (3 years) is also that of the fan charts in the Inflation Report which show the MPC’s assessed
+probability distributions for output and inflation in the UK over the next three years. This is useful because I
+want the simple model to be broadly consistent with the assessment of the outlook summarised in those fan
+charts which are based on many more factors than in my highly simplified model.
+I’ll move quite quickly through the equations and their calibration so that I can tell you sooner what monetary
+policy should look like according to this model and how sensitive it is to the weights the policy maker places
+upon inflation variability and variability in output and employment.
+
+3
+
+For a much fuller exposition of the model, see Miles, D (2013), What should monetary policy do?, Institute for Policy Research Lecture
+2013, University of Bath, http://www.bankofengland.co.uk/publications/Pages/speeches/2013/636.aspx.
+8
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+8
+
+The model has four equations. The first describes the impact of changes in monetary policy on the change in
+demand and output,
+y t   0   1  M
+
+:
+
+
+
+This simple relation is meant to capture the marginal impact upon growth of a change in monetary policy
+made today and maintained over a 3 year horizon. I measure growth (y ) as the average over the 3 year
+horizon and the change in monetary policy is relative to its setting at the start of that period. One should
+interpret the constant, (β ), as the average growth over that horizon at unchanged policy. I will treat this as a
+random variable, the variability of which reflects the great uncertainty about what the real growth rate would
+be over the next few years if monetary policy was left at its current setting. M is an index of monetary policy.
+The change in policy, denoted ∆M, could reflect changes in any monetary policy tools, but I have calibrated
+the model such that it can be interpreted as the change in the stock of asset purchases. I am assuming that
+right now, at the margin, the active instrument of monetary policy is asset purchases – that is quantitative
+easing. The coefficient
+
+reflects the impact upon demand (and output) of a more expansionary policy. I
+
+treat that also a random variable – calibrated so that its average value reflects a central assessment of the
+effect of more asset purchases, but allowing for the possibility that more expansionary policy might have no
+impact on demand4.
+The second equation is a backwards-looking Philips curve, which links the lagged output gap to inflation.
+Inflation should be thought of as domestically generated inflation. A high proportion of the theoretical
+literature argues that wages and labour costs depend on expected inflation. I am sceptical of the extent to
+which this holds in practice. Employees and their unions look at recent past, and perhaps current, inflation
+when they formulate their wage demands. I suspect firms do much the same in setting prices, looking at
+what their margin of selling price over costs is and what the market will currently bear. That is why I do not
+have forward-looking variables in the inflation equation, which is:
+
+ t   0  1 t 1   2Gapt 1
+,
+
+The third equation reflects a degree of hysteresis by linking the growth of the economy’s supply capacity,
+to its actual output growth.
+
+Let me be clear about this: I do not believe that monetary policy can affect supply growth in the long run. But
+starting from the specific situation in which we are today I believe that some of the output loss since the
+4
+
+The calibration is based on results summarised in Joyce, M, Miles, D, Scott, A, and Vayanos, D (2012), ‘Quantitative Easing and
+Unconventional Monetary Policy – An Introduction’, The Economic Journal, Vol. 122(564), pages F271-F288 and is consistent with
+much of the evidence on the effect of asset purchases by the Fed on the US economy.
+9
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+9
+
+financial crisis – relative to the trend over the longer term – is cyclical and could be regained if demand and
+output were to pick up again in the near future. There are several reasons. Some businesses have been
+unable to cut employment in line with demand without shutting down some of their operations. For others,
+more staff effort may be needed to produce a given level of output when demand is subdued. For example,
+winning and delivering work may become more resource-intensive when demand is persistently weak. And
+tight credit conditions are likely to have prevented resources from being put to their most productive use
+within the economy. If demand increases, and perceived credit risks fall, many firms should therefore be able
+to expand output without an increase in costs. I allow for the impact of growth in output on supply capacity to
+be highly uncertain and potentially to be zero.
+The final equation is my attempt to translate the central bank’s objectives into a quantitative loss function. A
+standard specification is to let the central bank minimise over the future the expected value of the sum of the
+squared output gap and the squared deviation of inflation from its target. This makes sense if one assumes
+that supply capacity is exogenous to monetary policy. But it needs to be extended if supply is endogenous.
+To see this, take an extreme example and suppose that supply grows one for one with output. Then the
+output gap and inflation would be independent of output growth. Surely the central bank would prefer a policy
+that generates higher growth in this case. So I add another term to the central bank’s objective: growth in
+output. Here is the formal representation of the central bank’s loss function:
+T
+
+L
+
+π
+
+π
+
+λ Gap
+
+γ
+
+π is the target rate of inflation (which I set to 2% per annum). I’m assuming that the central bank chooses
+policy once and for all at the beginning of the forecast horizon, aiming to minimise this loss over its forecast
+horizon of T quarters.
+I calibrate the model so that at unchanged policy, the frequency distributions for output and inflation
+generated by simulations (using 20,000 realisations for the four random variables in the system) is roughly
+in line with the Monetary Policy Committee’s assessed probability distributions published in its February 2013
+Inflation Report. Figure 8 illustrates with the two probability distributions for inflation.5 When generating these
+distributions, I allow some data and key structural parameters of the model to be uncertain: specifically, I
+assume that the current extent of spare capacity, the impact of changes in monetary policy on output ( ),
+the growth of output in the absence of monetary policy changes (
+
+), and the impact of changes in output
+
+5
+
+In both panels of Figure 8, the fan chart covers 90% of the distribution of outcomes for inflation. In the Inflation Report chart, each pair
+of identically coloured bands contains 10% of the outcomes. In the simpler fan chart from the stylised model, the dark blue centre
+covers the central 50% of the distribution. The Inflation Report chart is drawn assuming that Bank Rate follows implied market rates at
+the time the chart was produced. The market did not predict any substantial changes in Bank Rate at the time, so that the Inflation
+Report chart can be interpreted as showing outcomes for CPI inflation at approximately unchanged policy. This makes it comparable to
+the stylised model’s outcomes.
+10
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+10
+
+growth on the growth of supply capacity ( ), are all independently and uniformly distributed over a wide
+range of plausible estimates.
+The base case is calibrated as follows: the initial output gap (
+
+) is distributed uniformly in [0 ; 3%]; the
+
+annual growth rate of supply capacity at unchanged policy ( ) is set to 1%; the annual growth rate of output
+at unchanged policy ( ) is distributed uniformly in [0 ; 3%]; the impact of a 1% change in monetary policy
+(that is a 1% change in the stock of asset purchases) on the growth rate of output ( ) is distributed uniformly
+in [0 ; 0.06%]; the impact of the deviation of the growth rate of demand from its expected value on supply
+capacity ( ) is distributed uniformly in [0 ; 1]; the slope of Phillips curve (
+period is set to
+
+3%; the inflation inertia coefficient is set to
+
+) is set to -0.1; inflation in the first
+
+0.95 (this is a quarterly inertia rate;
+
+equivalent to about 0.8 for annual data); and the constant term in the inflation equation to
+
+0.1%.
+
+Figure 8: Forecasts of UK annual CPI inflation, Inflation Report and stylised model.
+
+Inflation at unchanged policy
+4%
+
+3%
+
+2%
+
+1%
+
+0%
+2013Q1
+
+2014Q1
+
+2015Q1
+
+2016Q1
+
+Source: February 2013 Inflation Report and own calculations. The fan chart in the Inflation Report depicts the probability of
+various outcomes. It has been conditioned on the assumption that the stock of purchased assets financed by the issuance of
+central bank reserves remains at £375 billion throughout the forecast period. If economic circumstances identical to today’s
+were to prevail on 100 occasions, the MPC’s best collective judgement is that the mature estimate of GDP growth and the rate
+of inflation would lie within the darkest central band on only 10 of those occasions.
+
+Results
+Table 1 shows what the model says is the optimal setting of monetary policy to minimise the expected value
+of the loss function for various values of the parameters of the central bank’s objectives. The results show by
+how much policy should be changed from its current (April 2013) setting.
+
+11
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+11
+
+Table 1: Response of optimal policy to different parameterisations of the central bank’s loss function
+
+The key result from Table 1 is that optimal policy is not very sensitive to the calibration of the loss function.
+With a weight of one half upon both the output gap and growth λ
+
+0.5; γ
+
+0.5 the result suggests that the
+
+Bank of England’s asset purchase programme should be extended by about 16%. For the Bank of England
+this would be equivalent to £60bn (about $100bn). In the context of the US, increasing asset purchases by
+16% would amount to roughly $400bn: asset purchases have added around $2.5trn to the Fed’s balance
+sheet so far. At the current rate of $85bn per month, this would take about five months. If we increase the
+weight on output and set λ
+
+1.0; γ
+
+1.0 asset purchases should be increased by about 18% – compared
+
+with 16% when those parameters were set at half that level. Perhaps a more conventional setting is to use
+λ
+
+1.0; γ
+
+0.0 , so that only the output gap (and not growth per se) is reflected in the central bank’s goals.
+
+In that case asset purchases should be about 8% higher than the current stock.
+Micro-founded New Keynesian models tend to suggest a very low weight on the output gap, perhaps in the
+order of λ
+
+0.05.6 With that value, and no weight on the growth in output, policy should be to expand the
+
+stock of assets purchased by just over 4%.
+
+6
+
+E.g. Woodford (2003), Interest and Prices: Foundations of a theory of monetary policy, Princeton University Press.
+12
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+12
+
+Relative to the uncertainty calibrated in the model, which includes a great deal of uncertainty about the
+impact of monetary policy – and given the exceptional place from which monetary policy starts – these
+differences in the scale of the optimal setting for monetary policy from here are rather small. Even very large
+variations in the weights placed upon output and employment in the central bank’s objectives do not give
+dramatically different monetary policy prescriptions.
+This finding seems to hold when we double the impact of the output gap on inflation (Table 1A). When we
+calculate optimal monetary policy starting from inflation well under target policy is much more expansionary
+(Table 1B), but the sensitivity of optimal policy to large variations in the weight on the output terms in the loss
+function remains rather low.
+Table 1A: Response of optimal policy to different parameterisations of the central bank’s loss function when
+impact of output gap on inflation is doubled
+
+13
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+13
+
+Table 1B: Response of optimal policy to different parameterisations of the central bank’s loss function when
+inflation is initially well below target (at 1%)
+
+Conclusion
+The calculations reported here are illustrative only. But they do suggest one thing. Which is that a wide range
+of weights placed upon real variables – output and employment – in the central bank’s objectives can today
+give rise to rather similar monetary policies. This is a result consistent with that found by my colleague
+Charlie Bean7. This might be an important part of the explanation for why the Fed and the Bank of England,
+two central banks with rather different formal objectives, have set monetary policy in such similar – and
+extraordinary – ways.
+
+7
+
+“The New UK Monetary Arrangements: A view from the Literature”, 1998, The Economic Journal, 108, pp 1795-1809.
+14
+
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx
+
+14
+
+
