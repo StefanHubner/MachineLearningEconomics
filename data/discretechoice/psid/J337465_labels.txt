@@ -1,5 +1,5 @@
 ****** PSID DATA CENTER ************************* 
-****** Variable labels for JobID = 337464 ******* 
+****** Variable labels for JobID = 337465 ******* 
 
 Variable    Labels
 
@@ -11,6 +11,8 @@ ER32006    WHETHER SAMPLE OR NONSAMPLE
 ER34901    2021 INTERVIEW NUMBER                   
 ER34902    SEQUENCE NUMBER                       21
 ER34903    RELATION TO REFERENCE PERSON          21
+ER34904    AGE OF INDIVIDUAL                     21
+ER34907    MARITAL PAIRS INDICATOR               21
 ER34916    EMPLOYMENT STATUS                     21
 ER34917    YEAR HIGHEST EDUCATION UPDATED        21
 ER34935    TYPE OF HIGHEST DEGREE                21
