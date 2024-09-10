@@ -1,0 +1,19 @@
+****** PSID DATA CENTER ************************* 
+****** Variable labels for JobID = 337462 ******* 
+
+Variable    Labels
+
+ER30000    RELEASE NUMBER                          
+ER30001    1968 INTERVIEW NUMBER                   
+ER30002    PERSON NUMBER                         68
+ER32000    SEX OF INDIVIDUAL                       
+ER32006    WHETHER SAMPLE OR NONSAMPLE             
+ER34901    2021 INTERVIEW NUMBER                   
+ER34902    SEQUENCE NUMBER                       21
+ER34903    RELATION TO REFERENCE PERSON          21
+ER34916    EMPLOYMENT STATUS                     21
+ER34917    YEAR HIGHEST EDUCATION UPDATED        21
+ER34935    TYPE OF HIGHEST DEGREE                21
+ER35046    OFUM TOTAL LABOR INCOME- IMPUTED      21
+
+*** End of labels ******************************* 
