@@ -1,5 +1,5 @@
 ****** PSID DATA CENTER ************************* 
-****** Variable labels for JobID = 337462 ******* 
+****** Variable labels for JobID = 337464 ******* 
 
 Variable    Labels
 
@@ -15,5 +15,8 @@ ER34916    EMPLOYMENT STATUS                     21
 ER34917    YEAR HIGHEST EDUCATION UPDATED        21
 ER34935    TYPE OF HIGHEST DEGREE                21
 ER35046    OFUM TOTAL LABOR INCOME- IMPUTED      21
+ER35048    OFUM TOTAL ASSET INCOME - IMPUTED     21
+ER35049    OFUM TOTAL TAXABLE INCOME - IMPUTED   21
+ER35050    OFUM TOTAL TRANSFER INCOME -IMPUTED   21
 
 *** End of labels ******************************* 
